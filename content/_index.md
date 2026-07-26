@@ -6,7 +6,7 @@ sections:
   - block: resume-biography
     content:
       # Author slug (data/authors/<slug>.yaml)
-      username: me
+      username: roof77
     design:
       spacing:
         padding: [0, 0, 0, 0]
