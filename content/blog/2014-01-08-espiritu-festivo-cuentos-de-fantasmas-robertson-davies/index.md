@@ -13,6 +13,10 @@ tags:
 - Canada
 - Humor
 - Ghost Stories
+autores:
+- Robertson Davies
+editoriales:
+- Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18946154-esp-ritu-festivo)'
 ---

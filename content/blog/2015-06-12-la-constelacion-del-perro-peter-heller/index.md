@@ -1,0 +1,48 @@
+---
+title: La constelación del perro
+summary: Tras la pandemia que casi aniquila a toda la humanidad, Hig sobrevive en un hangar, con su perro y una vieja avioneta
+  Cessna. Todos sus seres queridos han…
+date: '2015-06-12'
+authors:
+- roof77
+tags:
+- Lecturas
+- Fiction
+- Post Apocalyptic
+- Science Fiction
+- Dystopia
+- Book Club
+- Audiobook
+autores:
+- Peter Heller
+editoriales:
+- Blackie Books
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23658837-la-constelaci-n-del-perro)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Tras la pandemia que casi aniquila a toda la humanidad, Hig sobrevive en un hangar, con su perro y una vieja avioneta Cessna. Todos sus seres queridos han muerto. Es el final. Entonces se le presenta la oportunidad de cambiarlo todo, de lanzarse a la búsqueda de lo desconocido para encontrar algo que jamás hubiese imaginado. Llega por fin la novela que sacudió a la crítica mundial.
+
+## Ficha del libro
+
+- **Autor:** Peter Heller
+- **Colaboradores:** Marc Jiménez Buzzi (translator), Blanca Rodríguez (translator)
+- **Editorial:** Blackie Books
+- **Formato:** Hardcover, 311 páginas
+- **Idioma:** Spanish; Castilian
+- **Publicación original:** 2014-11-01
+- **Géneros:** Fiction, Post Apocalyptic, Science Fiction, Dystopia, Book Club, Audiobook, Apocalyptic, Survival, Literary Fiction, Adventure
+- **Lugares:** Colorado (United States)
+- **Premios ganados:** Prix Une autre Terre (2014)
+- **Nominaciones:** Arthur C. Clarke Award (2013), Andrew Carnegie Medal (2013), Goodreads Choice Award (2012), The Center for Fiction First Novel Prize (2012), Readers' Favorite Fiction (2012)
+- **Ficha en Goodreads:** [La constelación del perro](https://www.goodreads.com/book/show/23658837-la-constelaci-n-del-perro)
+
+## Mi lectura
+
+- **Inicio:** 2015/06/10
+- **Fin:** 2015/06/12
+- **Mi valoración:** ★★★☆☆ (3/5)

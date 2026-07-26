@@ -1,0 +1,50 @@
+---
+title: El azul es un color cálido
+summary: Clementine es una adolescente sin problemas. Llega del campo para integrarse en un instituto en el que se siente
+  a gusto. Un día se cruza en la calle con una…
+date: '2017-10-02'
+authors:
+- roof77
+tags:
+- Lecturas
+- Graphic Novels
+- Comics
+- LGBT
+- Romance
+- Queer
+- Fiction
+autores:
+- Jul Maroh
+editoriales:
+- Dibbuks
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17182033-el-azul-es-un-color-c-lido)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Clementine es una adolescente sin problemas. Llega del campo para integrarse en un instituto en el que se siente a gusto. Un día se cruza en la calle con una pareja de chicas. Una lleva el pelo teñido de azul, y le sonríe, mientras Clementine baja la vista. A partir de este preciso momento todo va a cambiar para ella: su relación con sus nuevos amigos, su sitio en la familia, sus prioridades… y sobre todo su sexualidad. Es difícil saber qué aspecto tiene el amor. A veces duele y siempre hay obstáculos en el camino. Pero un calor inabarcable se instala en el estómago, que te hace vibrar y te empuja a superarte.
+
+Estamos delante de una obra que describe con mucha delicadeza lo cotidiano de una joven mujer mediante la lectura de sus diarios. La ilustración de Julie Maroh permite identificarse con sus protagonistas sin apenas darnos cuenta. El trazo de la autora propone unas perspectivas, unas posturas tan inesperadas como la vida misma. Clementine y Emma intentan amarse a pesar de las dificultades que supone la visión de la homosexualidad por parte de la sociedad actual y los propios prejuicios de Clementine. Pero descubrimos una historia de amor que, aun trágica, podría ser la de cualquiera, y sin diluir su intensidad en una profusión de reivindicaciones sociales. Aprender, crecer, amar. Eso es lo que nos enseña este emotivo y absorbente retazo de vida, adentrándonos en lo más personal y lo más íntimo de dos jóvenes valientes.
+
+## Ficha del libro
+
+- **Autor:** Jul Maroh
+- **Colaboradores:** Lorenzo F. Díaz (Translator)
+- **Editorial:** Dibbuks
+- **Formato:** Hardcover, 161 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8492902442 / 9788492902446
+- **Publicación original:** 2011-06-01
+- **Géneros:** Graphic Novels, Comics, LGBT, Romance, Queer, Fiction, Bande Dessinée, Graphic Novels Comics, Young Adult, France
+- **Personajes:** Clementine, Emma, Valentine
+- **Premios ganados:** Prix du Festival d'Angoulême (2011), BDGest'Art (2010)
+- **Ficha en Goodreads:** [El azul es un color cálido](https://www.goodreads.com/book/show/17182033-el-azul-es-un-color-c-lido)
+
+## Mi lectura
+
+- **Inicio:** 2017/10/02
+- **Fin:** 2017/10/02
+- **Mi valoración:** ★★★★★ (5/5)

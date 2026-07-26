@@ -1,0 +1,49 @@
+---
+title: Un asunto de familia
+summary: La novela de la aclamada película Un asunto de familia (Palma de Oro en Cannes, Premio Donostia en el Festival de
+  Cine de San Sebastián, elegida mejor…
+date: '2024-06-28'
+authors:
+- roof77
+tags:
+- Lecturas
+- Fiction
+- Drama
+- Japan
+- Japanese Literature
+- Literature
+- Novels
+autores:
+- Hirokazu Kore-eda
+editoriales:
+- Nocturna
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46273171-un-asunto-de-familia)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+La novela de la aclamada película Un asunto de familia (Palma de Oro en Cannes, Premio Donostia en el Festival de Cine de San Sebastián, elegida mejor largometraje extranjero en los Premios César y nominada tanto en los Oscar como en los Globos de Oro), escrita por el propio director.
+
+Una noche, Osamu y su hijo se encuentran con una niña sola en medio de un frío glacial y deciden llevársela a casa. Aunque al principio la mujer de Osamu protesta por sus dificultades económicas (para poder llegar a fin de mes incluso cometen pequeños hurtos), cambia de opinión cuando descubren la horrible situación doméstica que sufre la cría. Pero la convivencia feliz que entonces se origina da un vuelco con un suceso imprevisto que pone a prueba los lazos que les unen.
+
+Así arranca esta preciosa novela de Hirokazu Kore-eda sobre una familia que, como todas las familias infelices, no se parece a ninguna otra. Y que demuestra, en definitiva, que la palabra «familia» tiene una infinidad de matices.
+
+## Ficha del libro
+
+- **Autor:** Hirokazu Kore-eda
+- **Editorial:** Nocturna
+- **Formato:** Paperback, 232 páginas
+- **Idioma:** Spanish; Castilian
+- **Publicación original:** 2019-06-01
+- **Géneros:** Fiction, Drama, Japan, Japanese Literature, Literature, Novels, Asia
+- **Personajes:** Osamu Shibata, Nobuyo Shibata, Shota Shibata, Yuri
+- **Ficha en Goodreads:** [Un asunto de familia](https://www.goodreads.com/book/show/46273171-un-asunto-de-familia)
+
+## Mi lectura
+
+- **Inicio:** 2024/06/21
+- **Fin:** 2024/06/28
+- **Mi valoración:** ★★★★☆ (4/5)

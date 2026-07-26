@@ -1,0 +1,38 @@
+---
+title: Odio 14, Hombre de familia (Novela Grafica/ Odio) (Spanish Edition)
+summary: Odio 14, Hombre de familia
+date: '2026-05-25'
+authors:
+- roof77
+tags:
+- Lecturas
+autores:
+- Peter Bagge
+editoriales:
+- Ediciones La Cúpula, S.L.
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2751012-odio-14-hombre-de-familia-novela-grafica-odio)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Odio 14, Hombre de familia
+
+## Ficha del libro
+
+- **Autor:** Peter Bagge
+- **Serie:** Odio: Hate (#14)
+- **Colaboradores:** Hernán Migoya (Translator)
+- **Editorial:** Ediciones La Cúpula, S.L.
+- **Formato:** Paperback, 52 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8478337474 / 9788478337477
+- **Publicación original:** 2006-12-01
+- **Ficha en Goodreads:** [Odio 14, Hombre de familia (Novela Grafica/ Odio) (Spanish Edition)](https://www.goodreads.com/book/show/2751012-odio-14-hombre-de-familia-novela-grafica-odio)
+
+## Mi lectura
+
+- **Inicio:** 2026/05/25
+- **Fin:** 2026/05/25

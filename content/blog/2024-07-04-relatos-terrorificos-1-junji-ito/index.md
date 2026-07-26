@@ -1,0 +1,45 @@
+---
+title: Relatos terroríficos 1
+summary: Con este tomo iniciamos la colección Relatos terroríficos, destinada a conformar toda una biblioteca integrada por
+  las historias que han hecho a Junji Ito…
+date: '2024-07-04'
+authors:
+- roof77
+tags:
+- Lecturas
+- Manga
+- Comics
+- Horror
+autores:
+- Junji Ito
+editoriales:
+- ECC
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31199254-relatos-terror-ficos-1)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Con este tomo iniciamos la colección Relatos terroríficos, destinada a conformar toda una biblioteca integrada por las historias que han hecho a Junji Ito merecedor de la etiqueta de maestro del terror. 
+
+Sobradamente conocido gracias a obras como Uzumaki, Black Paradox o Gyo, Junji Ito es uno de los mangakas más reconocidos y personales de la actualidad. En la primera entrega de esta colección, conoceremos las desventuras de seis hermanos huérfanos y la historia de una mansión no apta para claustrofóbicos, nos advertirán sobre los peligros de la cirugía estética, y nos sorprenderá un cuento tan breve como impactante.
+
+## Ficha del libro
+
+- **Autor:** Junji Ito
+- **Serie:** Relatos terroríficos (#1)
+- **Editorial:** ECC
+- **Formato:** Paperback, 160 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 841674629X / 9788416746293
+- **Publicación original:** 2016-08-01
+- **Géneros:** Manga, Comics, Horror
+- **Ficha en Goodreads:** [Relatos terroríficos 1](https://www.goodreads.com/book/show/31199254-relatos-terror-ficos-1)
+
+## Mi lectura
+
+- **Inicio:** 2024/07/02
+- **Fin:** 2024/07/04
+- **Mi valoración:** ★★★★☆ (4/5)

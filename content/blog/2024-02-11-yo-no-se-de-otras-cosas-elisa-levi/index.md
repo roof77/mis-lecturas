@@ -1,0 +1,51 @@
+---
+title: Yo no sé de otras cosas
+summary: "No hay lugar más universal que el más pequeño de los pueblos.\r\n\r\nLea tiene 19 años, un ardor en la tripa y una\
+  \ vida entera en un pueblo con cuatro calles, una…"
+date: '2024-02-11'
+authors:
+- roof77
+tags:
+- Lecturas
+- Fiction
+- Literary Fiction
+- Novels
+- Spain
+- Spanish Literature
+- Audiobook
+autores:
+- Elisa Levi
+editoriales:
+- Temas de Hoy
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58957605-yo-no-s-de-otras-cosas)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+No hay lugar más universal que el más pequeño de los pueblos.
+
+Lea tiene 19 años, un ardor en la tripa y una vida entera en un pueblo con cuatro calles, una iglesia, un ultramarinos y un bosque que nunca ha cruzado. Sentada a la sombra, ve aparecer un señor que ha perdido a su perro y, en lo que dura un cigarrillo con hierba, le cuenta por qué ayer se acabó el mundo.
+
+Lea tiene una hermana con la cabeza hueca, una madre que también se llama Lea y un padre que solo sabe de trabajo en el campo. Tiene a Javier, que no sabe hablar de amor, a Catalina, su mejor amiga, que llora, llora y llora, y tiene a Marco, que le deja regalos en el felpudo de su casa. Lea tiene ojos de campo y desconfía de los forasteros. Lea no sabe de otras cosas, pero de lo que sí sabe, sirve en todas partes. 
+
+Yo no sé de otras cosas es la historia de alguien que quiere conocerlo todo, vivirlo todo, amarlo todo, a pesar de que todos crean que el mundo se acaba. En su segunda novela, Elisa Levi ha asimilado con maestría la lección de los grandes escritores: no hay lugar más universal que el más pequeño de los pueblos.
+
+## Ficha del libro
+
+- **Autor:** Elisa Levi
+- **Editorial:** Temas de Hoy
+- **Formato:** Paperback, 176 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8499988857 / 9788499988856
+- **Publicación original:** 2021-09-22
+- **Géneros:** Fiction, Literary Fiction, Novels, Spain, Spanish Literature, Audiobook, Contemporary, Dystopia, Novella, Drama
+- **Ficha en Goodreads:** [Yo no sé de otras cosas](https://www.goodreads.com/book/show/58957605-yo-no-s-de-otras-cosas)
+
+## Mi lectura
+
+- **Inicio:** 2024/02/06
+- **Fin:** 2024/02/11
+- **Mi valoración:** ★★★★★ (4,75/5)

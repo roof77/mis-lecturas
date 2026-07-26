@@ -1,0 +1,59 @@
+---
+title: Las doncellas de óxido
+summary: Verano de 1980 en Cleveland, Ohio. Phoebe Shaw, y su prima y mejor amiga, Jacqueline, acaban de graduarse en la escuela
+  de secundaria en medio de un futuro del…
+date: '2021-12-22'
+authors:
+- roof77
+tags:
+- Lecturas
+- Horror
+- Fantasy
+- Fiction
+- Historical Fiction
+- Gothic
+- Mystery
+autores:
+- Gwendolyn Kiste
+editoriales:
+- Dilatando Mentes
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51874034-las-doncellas-de-xido)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Verano de 1980 en Cleveland, Ohio. Phoebe Shaw, y su prima y mejor amiga, Jacqueline, acaban de graduarse en la escuela de secundaria en medio de un futuro del todo desalentador e incierto. Toda la ciudad está copada de fábricas abandonadas que pueblan el horizonte, y la sombra de una huelga sobrevuela la rutina que gobierna sus vidas...
+
+Pero, nada de eso es equiparable a lo que está ocurriendo en su propio vecindario. Las chicas con las que Phoebe y Jacqueline han crecido, están mutando. El pistoletazo de ese cambio lo dará el descubrimiento de unas oscuras huellas acuosas sobre la acera. Una a una, las jóvenes se van marchitando: sus uñas se transforman en cristales rotos, y sus huesos se convierten en metales oxidados que corrompen su carne.
+
+Nadie puede explicar qué es lo que pasa con las chicas de la calle Denton; nadie, salvo quizá ellas mismas
+
+Ganadora del Premio Bram Stoker en la categoría de mejor primera novela en 2019. 
+
+Ganadora del Premio This Is Horror como mejor novela del año. 
+
+Elegido uno de los mejores libros de la década por Lit Reactor.
+
+Elegido uno de los mejores libros del año por The Horror Fiction Review, Glenn Rolfe, Sci-Fi & Scary, Brian Fatah Steele, Topsham Public Library y Ancient Logic.
+
+## Ficha del libro
+
+- **Autor:** Gwendolyn Kiste
+- **Colaboradores:** Antonio Torrubia (Prólogo), Silvia Broome (Postfacio), Juan Alberto Hernández (Illustrator), José Ángel de Dios (Translator)
+- **Editorial:** Dilatando Mentes
+- **Formato:** Paperback, 304 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8412102355 / 9788412102352
+- **Publicación original:** 2020-04-01
+- **Géneros:** Horror, Fantasy, Fiction, Historical Fiction, Gothic, Mystery, Adult, Historical, Audiobook, Paranormal
+- **Premios ganados:** Bram Stoker Award (2018)
+- **Ficha en Goodreads:** [Las doncellas de óxido](https://www.goodreads.com/book/show/51874034-las-doncellas-de-xido)
+
+## Mi lectura
+
+- **Inicio:** 2021/12/17
+- **Fin:** 2021/12/22
+- **Mi valoración:** ★★★★☆ (4/5)

@@ -1,0 +1,46 @@
+---
+title: Bullet Park
+summary: Bienvenidos a Bullet Park, un universo en donde hasta sus habitantes más intachables pueden sentirse aterrorizados
+  por el simple acto de mirarse al espejo. En…
+date: '2015-04-10'
+authors:
+- roof77
+tags:
+- Lecturas
+- Fiction
+- American
+- Novels
+- Literary Fiction
+- Literature
+- Americana
+autores:
+- John Cheever
+editoriales:
+- Emece Editores
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11889.Bullet_Park)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Bienvenidos a Bullet Park, un universo en donde hasta sus habitantes más intachables pueden sentirse aterrorizados por el simple acto de mirarse al espejo. En ese ambiente asfixiante, John Cheever narra la azarosa intersección de las vidas de dos hombres: Eliot Nailles, un buen hombre que ama con devoción a su mujer ya su h ijo, y Paul Hammer, el hijo bastardo que, tras años de rodar, se establece en Bullet Park con un objetivo: asesinar al hijo de Nailles.He aquí una novela mordaz y punzante sobre los suburbios norteamericanos, con sus fachadas idénticas, su normalidad desesperante y, bajo una superficie impecable, el infierno que late. Una auténtica obra maestra, escrita con el lirismo y la potencia que han hecho de Cheever uno de los exponentes máximos de la literatura moderna.
+
+## Ficha del libro
+
+- **Autor:** John Cheever
+- **Editorial:** Emece Editores
+- **Formato:** Paperback, 243 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 9500427451 / 9789500427456
+- **Publicación original:** 2006-02-28
+- **Géneros:** Fiction, American, Novels, Literary Fiction, Literature, Americana, Classics, 20th Century, The United States Of America, Book Club
+- **Personajes:** Eliot Nailles, Tony Nailles
+- **Ficha en Goodreads:** [Bullet Park](https://www.goodreads.com/book/show/11889.Bullet_Park)
+
+## Mi lectura
+
+- **Inicio:** 2015/04/07
+- **Fin:** 2015/04/10
+- **Mi valoración:** ★★★★★ (5/5)

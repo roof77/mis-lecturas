@@ -1,0 +1,47 @@
+---
+title: El pasajero
+summary: Alemania, 1938. El comerciante Otto Silbermann es un miembro respetado de la sociedad. Es, también, judío. Tras la
+  Noche de los Cristales Rotos, comprueba que…
+date: '2019-06-12'
+authors:
+- roof77
+tags:
+- Lecturas
+- Fiction
+- Historical Fiction
+- Germany
+- German Literature
+- World War II
+- Holocaust
+autores:
+- Ulrich Alexander Boschwitz
+editoriales:
+- Sexto Piso
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44807871-el-pasajero)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Alemania, 1938. El comerciante Otto Silbermann es un miembro respetado de la sociedad. Es, también, judío. Tras la Noche de los Cristales Rotos, comprueba que muchos de sus amigos y familiares han sido detenidos o han desaparecido. Solo, sin nadie a quien recurrir, consciente de ser el blanco perfecto del odio, procura hacerse invisible. Aferrado a un maletín con el poco dinero que ha logrado salvar, toma un tren tras otro, tratando de hallar la manera de huir de Alemania y fugarse al extranjero. Novela autobiográfica de Ulrich Alexander Boschwitz, el manuscrito de El pasajero pasó décadas desapercibido en el Archivo del Exilio de la Biblioteca Nacional de Alemania, hasta ser descubierto y publicado recientemente en ese país, convirtiéndose en un verdadero acontecimiento literario.
+
+## Ficha del libro
+
+- **Autor:** Ulrich Alexander Boschwitz
+- **Editorial:** Sexto Piso
+- **Formato:** Kindle Edition, 255 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8417517278 / 9788417517274
+- **Publicación original:** 2019-04-04
+- **Géneros:** Fiction, Historical Fiction, Germany, German Literature, World War II, Holocaust, Historical, Classics, Jewish, War
+- **Lugares:** Berlin (Germany), Hamburg (Germany)
+- **Nominaciones:** British Book Award (2022)
+- **Ficha en Goodreads:** [El pasajero](https://www.goodreads.com/book/show/44807871-el-pasajero)
+
+## Mi lectura
+
+- **Inicio:** 2019/05/30
+- **Fin:** 2019/06/12
+- **Mi valoración:** ★★★★☆ (4/5)

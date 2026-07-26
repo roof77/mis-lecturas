@@ -13,6 +13,10 @@ tags:
 - Crime
 - Thriller
 - Germany
+autores:
+- Philip Kerr
+editoriales:
+- RBA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2122406.Violetas_de_marzo)'
 ---

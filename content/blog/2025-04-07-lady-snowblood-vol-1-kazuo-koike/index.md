@@ -1,0 +1,46 @@
+---
+title: Lady Snowblood, vol. 1
+summary: Osayo era una mujer que lo perdió todo a manos de cuatro indeseables, que asesinaron a sus seres queridos y la violaron.
+  Años más tarde, encerrada de por vida…
+date: '2025-04-07'
+authors:
+- roof77
+tags:
+- Lecturas
+- Manga
+- Comics
+- Drama
+- Historical Fiction
+- Bande Dessinée
+autores:
+- Kazuo Koike
+editoriales:
+- Planeta Cómic
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/120802099-lady-snowblood-vol-1)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Osayo era una mujer que lo perdió todo a manos de cuatro indeseables, que asesinaron a sus seres queridos y la violaron. Años más tarde, encerrada de por vida en una prisión, la mujer decide quedarse embarazada para que su hijo lleve a cabo la venganza. Osayo muere en el parto, pero su hija Yuki se convierte en la mejor asesina de Japón, Lady Snowblood; en su corazón anida el deseo de vengarse de su madre, Yuki hará lo que sea para que el alma de Osayo descanse en paz...
+
+## Ficha del libro
+
+- **Autor:** Kazuo Koike
+- **Serie:** 修羅雪姫 [Shura Yukihime] (#1)
+- **Colaboradores:** Kazuo Kamimura (illustrator)
+- **Editorial:** Planeta Cómic
+- **Formato:** Hardcover, 512 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8411123790 / 9788411123792
+- **Publicación original:** 2023-05-24
+- **Géneros:** Manga, Comics, Drama, Historical Fiction, Bande Dessinée
+- **Ficha en Goodreads:** [Lady Snowblood, vol. 1](https://www.goodreads.com/book/show/120802099-lady-snowblood-vol-1)
+
+## Mi lectura
+
+- **Inicio:** 2025/04/06
+- **Fin:** 2025/04/07
+- **Mi valoración:** ★★★★★ (5/5)

@@ -1,0 +1,44 @@
+---
+title: Dr. Inugami
+summary: Una terrorífica y deliciosa historia del maestro Maruo. Una densa trama de satanismo y sacrificios humanos y animales,
+  con ingredientes tan espectaculares como…
+date: '2025-04-25'
+authors:
+- roof77
+tags:
+- Lecturas
+- Manga
+- Comics
+- Horror
+- Graphic Novels
+- Bande Dessinée
+autores:
+- Suehiro Maruo
+editoriales:
+- Ediciones Glénat España
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/91824.Dr_Inugami)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Una terrorífica y deliciosa historia del maestro Maruo. Una densa trama de satanismo y sacrificios humanos y animales, con ingredientes tan espectaculares como una cabeza de perro, una secta con influencias de Aleister Crowley, un padre infiel a la búsqueda de su hijo desaparecido o una sanadora que pierde sus poderes.
+
+## Ficha del libro
+
+- **Autor:** Suehiro Maruo
+- **Editorial:** Ediciones Glénat España
+- **Formato:** Paperback, 192 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8484498050 / 9788484498056
+- **Publicación original:** 2005-10-30
+- **Géneros:** Manga, Comics, Horror, Graphic Novels, Bande Dessinée
+- **Ficha en Goodreads:** [Dr. Inugami](https://www.goodreads.com/book/show/91824.Dr_Inugami)
+
+## Mi lectura
+
+- **Inicio:** 2025/04/24
+- **Fin:** 2025/04/25
+- **Mi valoración:** ★★★★☆ (4/5)

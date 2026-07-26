@@ -1,0 +1,49 @@
+---
+title: Oso
+summary: La joven e introvertida Lou abandona su trabajo como bibliotecaria cuando se le encarga catalogar la biblioteca de
+  una mansión victoriana situada en una remota…
+date: '2025-05-25'
+authors:
+- roof77
+tags:
+- Lecturas
+- Fiction
+- Canada
+- Classics
+- Romance
+- Literary Fiction
+- Book Club
+autores:
+- Marian Engel
+editoriales:
+- Impedimenta
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25382522-oso)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+La joven e introvertida Lou abandona su trabajo como bibliotecaria cuando se le encarga catalogar la biblioteca de una mansión victoriana situada en una remota isla canadiense, propiedad de un enigmático coronel. Ansiosa por reconstruir la curiosa historia de la casa, pronto descubre que la isla tiene otro habitante: un oso. Cuando se da cuenta de que este es el único que puede proporcionarle algo de compañía, surgirá entre ellos una extraña relación. Una relación íntima. Inquietante. Nada ambigua. Gradualmente, Lou se va convenciendo de que el oso es el compañero perfecto, y emprende un camino de autodescubrimiento. 
+
+En todos los sentidos. A pesar de las críticas que recibió por su controvertida temática, Oso ganó el premio Governor de literatura en 1976.
+
+## Ficha del libro
+
+- **Autor:** Marian Engel
+- **Colaboradores:** Magdalena Palmer (Translator)
+- **Editorial:** Impedimenta
+- **Formato:** Paperback, 168 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8415979568 / 9788415979562
+- **Publicación original:** 2015-04-13
+- **Géneros:** Fiction, Canada, Classics, Romance, Literary Fiction, Book Club, Fantasy, Animals, Literature, Canadian Literature
+- **Premios ganados:** Governor General's Literary Awards / Prix littéraires du Gouverneur général (1976)
+- **Ficha en Goodreads:** [Oso](https://www.goodreads.com/book/show/25382522-oso)
+
+## Mi lectura
+
+- **Inicio:** 2025/05/21
+- **Fin:** 2025/05/25
+- **Mi valoración:** ★★★★☆ (4/5)

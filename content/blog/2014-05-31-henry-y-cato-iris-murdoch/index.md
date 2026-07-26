@@ -1,0 +1,46 @@
+---
+title: Henry y Cato
+summary: Cuando Henry Marshalson y Cato Forbes se encuentran en Inglaterra después de varios años sin verse, su existencia
+  no se halla en un momento precisamente fácil…
+date: '2014-05-31'
+authors:
+- roof77
+tags:
+- Lecturas
+- Fiction
+- Novels
+- Literary Fiction
+- Literature
+- Classics
+- British Literature
+autores:
+- Iris Murdoch
+editoriales:
+- Editorial Impedimenta SL
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20750606-henry-y-cato)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Cuando Henry Marshalson y Cato Forbes se encuentran en Inglaterra después de varios años sin verse, su existencia no se halla en un momento precisamente fácil. Tras la muerte de su hermano mayor, Henry regresa de los Estados Unidos convertido en el heredero de una fortuna que no desea, de modo que decide deshacerse de todos sus bienes para disgusto de su madre. Cato, por su parte, se ve inmerso en una profunda crisis de valores que le lleva a replantearse cada una de sus creencias tras haberse enamorado de un seductor muchacho del barrio marginal de Londres en el que ejerce el sacerdocio. De manera inesperada, las vidas de estos dos hijos pródigos vuelven a mezclarse en una espiral de despropósitos y venganzas que van a desembocar en una sorprendente verdad: ninguno de los dos puede huir de sí mismo.
+
+## Ficha del libro
+
+- **Autor:** Iris Murdoch
+- **Colaboradores:** Luis Lasse (Translator)
+- **Editorial:** Editorial Impedimenta SL
+- **Formato:** Kindle Edition, 415 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8415578784 / 9788415578789
+- **Publicación original:** 2013-03-07
+- **Géneros:** Fiction, Novels, Literary Fiction, Literature, Classics, British Literature, 20th Century, Female Authors, LGBT, Irish Literature
+- **Ficha en Goodreads:** [Henry y Cato](https://www.goodreads.com/book/show/20750606-henry-y-cato)
+
+## Mi lectura
+
+- **Inicio:** 2014/05/18
+- **Fin:** 2014/05/31
+- **Mi valoración:** ★★★★☆ (4/5)

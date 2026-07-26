@@ -13,6 +13,10 @@ tags:
 - Fantasy
 - Dystopia
 - Audiobook
+autores:
+- Ernest Cline
+editoriales:
+- Crown Publishers
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9969571-ready-player-one)'
 ---

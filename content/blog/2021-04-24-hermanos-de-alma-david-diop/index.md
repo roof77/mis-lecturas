@@ -1,0 +1,50 @@
+---
+title: Hermanos de alma
+summary: Alfa Ndiaye es senegalés y ha acabado combatiendo con el ejército francés en las trincheras de la Primera Guerra
+  Mundial. En el mismo regimiento también lucha…
+date: '2021-04-24'
+authors:
+- roof77
+tags:
+- Lecturas
+- Fiction
+- Historical Fiction
+- Africa
+- War
+- Historical
+- Literary Fiction
+autores:
+- David Diop
+editoriales:
+- Anagrama
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53016418-hermanos-de-alma)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Alfa Ndiaye es senegalés y ha acabado combatiendo con el ejército francés en las trincheras de la Primera Guerra Mundial. En el mismo regimiento también lucha su amigo Mademba Diop, que es herido de gravedad en el frente. Cuando Mademba le pide que lo mate para evitar sufrimientos inútiles, Alfa se siente incapaz de cumplir su deseo. Deseoso de vengar la muerte de su amigo, cada noche se desliza con sigilo hacia las posiciones enemigas, elige a un soldado, lo mata infligiéndole la misma herida con que se desangró Mademba y después le corta una mano y se la lleva como trofeo.
+
+## Ficha del libro
+
+- **Autor:** David Diop
+- **Colaboradores:** Rubén Martín Giráldez (Translator)
+- **Editorial:** Anagrama
+- **Formato:** Paperback, 156 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8433980521 / 9788433980526
+- **Publicación original:** 2019-11-13
+- **Géneros:** Fiction, Historical Fiction, Africa, War, Historical, Literary Fiction, Senegal, France, Horror, World War I
+- **Personajes:** Alfa Ndiaye, Mademba Diop, Fary Thiam, Jean-Baptiste, Penndo Ba, Captain Armand, Mademoiselle François, Doctor François, Ibrahima Seck, Yoro Ba
+- **Lugares:** Senegal, France
+- **Premios ganados:** Los Angeles Times Book Prize (2020), Prix Goncourt des Lycéens (2018), Europese Literatuurprijs (2020), Premio Strega Europeo (2019), International Booker Prize (2021)
+- **Nominaciones:** Prix de l'Algue d'Or (2019), Dublin Literary Award (2022)
+- **Ficha en Goodreads:** [Hermanos de alma](https://www.goodreads.com/book/show/53016418-hermanos-de-alma)
+
+## Mi lectura
+
+- **Inicio:** 2021/04/23
+- **Fin:** 2021/04/24
+- **Mi valoración:** ★★★★☆ (4/5)

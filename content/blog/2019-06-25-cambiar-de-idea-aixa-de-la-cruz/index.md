@@ -1,0 +1,50 @@
+---
+title: Cambiar de idea
+summary: «He tardado diez años de lecturas, y fiestas, y conversaciones con las mejores mentes de mi época en entender que
+  el avatar de hombre es el traje nuevo del…
+date: '2019-06-25'
+authors:
+- roof77
+tags:
+- Lecturas
+- Nonfiction
+- Feminism
+- Memoir
+- Spanish Literature
+- Queer
+- Contemporary
+autores:
+- Aixa de la Cruz
+editoriales:
+- Caballo de Troya
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43469036-cambiar-de-idea)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+«He tardado diez años de lecturas, y fiestas, y conversaciones con las mejores mentes de mi época en entender que el avatar de hombre es el traje nuevo del emperador [...]. Mi propio y escasísimo caché como mujer que escribe se ha desmoronado desde que dejé de escribir como los chicos: con voces falsamente neutrales, con personajes que pasan de puntillas por su género y se hermanan desde lahiperviolencia y las parafilias. Eso es lo que los editores que no publican a mujeres quieren que escribamos las mujeres. Los editores que no publican a mujeres andan locos por publicar a mujeres que escriban de una determinada manera, para refrendar que la subjetividad masculina es la subjetividad universal. Sus autores pueden ser sentimentales e intimistas, pero sus autoras siempre estarán estancadas en la impostura de lo masculino.»
+
+A punto de cumplir los treinta, Aixa de la Cruz pone en marcha la escritura de unas memorias que recorren algunos de los momentos más significativos de su vida: desde el día en que una de sus mejores amigas sufre un fatídico accidente de coche hasta el divorcio de la autora; desde las consecuencias de escribir una tesis doctoral hasta sus relaciones sexuales con otras mujeres; desde una infancia en la que maduró sin un «biopadre» hasta su descubrimiento del feminismo.
+
+Cambiar de idea ofrece una escritura hipnótica que va mucho más allá de la simple exposición de la primera persona: el relato del yo sirve para vehicular agudas reflexiones sobre diferentes temas de calado social y para desplegar un estilo literario rico y combativo, que posiciona a Aixa de la Cruz no ya como una de las mejores narradoras de su generación, sino también -y sobre todo- como una pensadora brillante.
+
+## Ficha del libro
+
+- **Autor:** Aixa de la Cruz
+- **Editorial:** Caballo de Troya
+- **Formato:** Kindle Edition, 160 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8417417109 / 9788417417109
+- **Publicación original:** 2019-03-07
+- **Géneros:** Nonfiction, Feminism, Memoir, Spanish Literature, Queer, Contemporary, Spain, Womens
+- **Premios ganados:** Premio Euskadi de Literatura (2020)
+- **Ficha en Goodreads:** [Cambiar de idea](https://www.goodreads.com/book/show/43469036-cambiar-de-idea)
+
+## Mi lectura
+
+- **Inicio:** 2019/06/20
+- **Fin:** 2019/06/25
+- **Mi valoración:** ★★★☆☆ (3/5)

@@ -13,6 +13,10 @@ tags:
 - Short Stories
 - Fiction
 - Science Fiction Fantasy
+autores:
+- George R.R. Martin
+editoriales:
+- PLAZA JANÉS
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37118735-los-reyes-de-la-arena)'
 ---

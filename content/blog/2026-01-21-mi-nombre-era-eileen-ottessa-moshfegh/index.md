@@ -1,0 +1,51 @@
+---
+title: Mi nombre era Eileen
+summary: La Navidad ofrece muy poco a Eileen Dunlop, una chica modesta y perturbada atrapada entre su papel de cuidadora de
+  un padre alcohólico y su empleo…
+date: '2026-01-21'
+authors:
+- roof77
+tags:
+- Lecturas
+- Fiction
+- Thriller
+- Mystery
+- Literary Fiction
+- Historical Fiction
+- Contemporary
+autores:
+- Ottessa Moshfegh
+editoriales:
+- Alfaguara
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33384705-mi-nombre-era-eileen)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+La Navidad ofrece muy poco a Eileen Dunlop, una chica modesta y perturbada atrapada entre su papel de cuidadora de un padre alcohólico y su empleo administrativo en Moorehead, un correccional de menores cargado de horrores cotidianos. Eileen templa sus tristes días con fantasías perversas y sueña con huir a una gran ciudad. Mientras tanto, llena sus noches con pequeños hurtos en la tienda local, espiando a Randy, un ingenuo y musculoso guardia del reformatorio, y limpiando los desastres que su padre deja en casa.
+
+Cuando la brillante, guapa y alegre Rebecca Saint John hace su aparición como nueva directora educativa de Moorehead, Eileen es incapaz de resistirse a esa milagrosa e incipiente amistad. Pero en un giro digno de Hitchcock, el cariño de Eileen por Rebecca la convierte en cómplice de un crimen.
+
+## Ficha del libro
+
+- **Autor:** Ottessa Moshfegh
+- **Colaboradores:** Damià Alou (Translator)
+- **Editorial:** Alfaguara
+- **Formato:** Paperback, 280 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8420423947 / 9788420423944
+- **Publicación original:** 2017-01-01
+- **Géneros:** Fiction, Thriller, Mystery, Literary Fiction, Historical Fiction, Contemporary, Mystery Thriller, Horror, Book Club, Audiobook
+- **Personajes:** Eileen Dunlop, Charlie Dunlop, Rebecca Saint John, Randy, Leonard Polk, Rita Polk, Joanie Dunlop
+- **Lugares:** Massachusetts (United States)
+- **Premios ganados:** PEN/Hemingway Award for Debut Novel (2016)
+- **Nominaciones:** Booker Prize (2016), Shirley Jackson Award (2015), National Book Critics Circle Award (2015), The Center for Fiction First Novel Prize (2015)
+- **Ficha en Goodreads:** [Mi nombre era Eileen](https://www.goodreads.com/book/show/33384705-mi-nombre-era-eileen)
+
+## Mi lectura
+
+- **Inicio:** 2026/01/11
+- **Fin:** 2026/01/21

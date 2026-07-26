@@ -1,0 +1,47 @@
+---
+title: De cómo recibí mi herencia
+summary: Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata su herencia eslava y judía de una forma
+  tan fascinante y estilizada que parece…
+date: '2022-06-06'
+authors:
+- roof77
+tags:
+- Lecturas
+- Memoir
+- Nonfiction
+- Essays
+- American
+- Jewish
+- Biography
+autores:
+- Dorothy Gallagher
+editoriales:
+- Muñeca infinita editorial
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60901058-de-c-mo-recib-mi-herencia)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata su herencia eslava y judía de una forma tan fascinante y estilizada que parece ficción. A partir de la última etapa de la vida de sus padres, la autora retrocede en el tiempo: los comienzos de su familia en Ucrania, su infancia en el Nueva York de los años cuarenta, las aventuras familiares en las comunidades judías de Harlem y el Bronx compartiendo una ideología comunista a la que se aferran contra viento y marea. Estos episodios registran los actos de desafío amoroso de una hija en su camino hacia la independencia. La fragilidad de la amistad, el poder del amor, el papel de la mala suerte en la vida..., temas universales en un libro desgarradoramente divertido.
+
+## Ficha del libro
+
+- **Autor:** Dorothy Gallagher
+- **Colaboradores:** Regina López Muñoz (translator)
+- **Editorial:** Muñeca infinita editorial
+- **Formato:** Paperback, 176 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8412393732 / 9788412393736
+- **Publicación original:** 2022-05-01
+- **Géneros:** Memoir, Nonfiction, Essays, American, Jewish, Biography, Book Club
+- **Premios ganados:** Koret Jewish Book Award (2002)
+- **Ficha en Goodreads:** [De cómo recibí mi herencia](https://www.goodreads.com/book/show/60901058-de-c-mo-recib-mi-herencia)
+
+## Mi lectura
+
+- **Inicio:** 2022/06/01
+- **Fin:** 2022/06/06
+- **Mi valoración:** ★★★★☆ (4,5/5)

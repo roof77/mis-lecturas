@@ -1,0 +1,33 @@
+---
+title: La cantina de medianoche 9
+summary: Reseña de lectura de «La cantina de medianoche 9».
+date: '2026-06-24'
+authors:
+- roof77
+tags:
+- Lecturas
+autores:
+- Yarō Abe
+editoriales:
+- ASTIBERRI EDICIONES
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/246738642-la-cantina-de-medianoche-9)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Ficha del libro
+
+- **Autor:** Yarō Abe
+- **Colaboradores:** Alberto K. Fonseca Sakai (Translator)
+- **Editorial:** ASTIBERRI EDICIONES
+- **Formato:** Paperback, 296 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8410332884 / 9788410332881
+- **Publicación original:** 2026-02-05
+- **Ficha en Goodreads:** [La cantina de medianoche 9](https://www.goodreads.com/book/show/246738642-la-cantina-de-medianoche-9)
+
+## Mi lectura
+
+- **Inicio:** 2026/06/20
+- **Fin:** 2026/06/24

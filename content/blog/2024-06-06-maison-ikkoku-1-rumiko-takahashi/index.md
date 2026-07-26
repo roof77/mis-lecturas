@@ -1,0 +1,48 @@
+---
+title: Maison Ikkoku 1
+summary: "Acclaimed author Rumiko Takahashi’s classic romantic comedy about finding your path in life.\r\n\r\nYusaku Godai\
+  \ didn’t get accepted into college on the first try…"
+date: '2024-06-06'
+authors:
+- roof77
+tags:
+- Lecturas
+- Manga
+- Romance
+- Graphic Novels
+- Comics
+- Fiction
+- Slice Of Life
+autores:
+- Rumiko Takahashi
+editoriales:
+- Ediciones Glénat España
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345405.Maison_Ikkoku_1)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Acclaimed author Rumiko Takahashi’s classic romantic comedy about finding your path in life.
+
+Yusaku Godai didn’t get accepted into college on the first try, so he’s studying to retake the entrance exams. But living in a dilapidated building full of eccentric and noisy tenants is making it hard for him to achieve his goals. Now that a beautiful woman has moved in to become the new resident manager, Godai is driven to distraction!
+
+## Ficha del libro
+
+- **Autor:** Rumiko Takahashi
+- **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#1)
+- **Editorial:** Ediciones Glénat España
+- **Formato:** Paperback, 344 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8484495191 / 9788484495192
+- **Publicación original:** 2004-01-01
+- **Géneros:** Manga, Romance, Graphic Novels, Comics, Fiction, Slice Of Life, Seinen, Humor, Japan, Japanese Literature
+- **Ficha en Goodreads:** [Maison Ikkoku 1](https://www.goodreads.com/book/show/345405.Maison_Ikkoku_1)
+
+## Mi lectura
+
+- **Inicio:** 2024/06/02
+- **Fin:** 2024/06/06
+- **Mi valoración:** ★★★★☆ (3,5/5)

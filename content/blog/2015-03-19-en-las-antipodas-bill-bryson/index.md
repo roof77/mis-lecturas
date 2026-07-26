@@ -1,0 +1,49 @@
+---
+title: En las antípodas
+summary: Australia es el sexto país más grande del mundo y la islamás extensa. Isla, país, continente. Seco, árido, yermo
+  y climáticamente agresivo. Un país donde el…
+date: '2015-03-19'
+authors:
+- roof77
+tags:
+- Lecturas
+- Travel
+- Nonfiction
+- Humor
+- Australia
+- Memoir
+- Audiobook
+autores:
+- Bill Bryson
+editoriales:
+- RBA
+image:
+  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16089505-en-las-ant-podas)'
+---
+
+{{< toc mobile_only=true is_open=true >}}
+
+## Sinopsis
+
+Australia es el sexto país más grande del mundo y la islamás extensa. Isla, país, continente. Seco, árido, yermo y climáticamente agresivo. Un país donde el gusano más peludo mata con su venenoso pinchazo, donde las conchas marinas no solo pican sino que persiguen, donde un tiburón puede zamparte o unas irresistibles aguas arrastrarte mar adentro. Ignorando estas amenazas, Bill Bryson viajó a Australia y se enamoró del país.¿Quién podría culparlo?. La gente es alegre, ingeniosa y atenta; sus ciudades son seguras, limpias, casi siempre se sitúan cerca del agua; la cerveza está fría y el sol brilla con frecuencia. La vida no puede ser mucho mejor que esto.
+
+## Ficha del libro
+
+- **Autor:** Bill Bryson
+- **Colaboradores:** Esther Roig Giménez (Translator)
+- **Editorial:** RBA
+- **Formato:** Paperback, 414 páginas
+- **Idioma:** Spanish; Castilian
+- **ISBN:** 8478717374 / 9788478717378
+- **Publicación original:** 2006-01-01
+- **Géneros:** Travel, Nonfiction, Humor, Australia, Memoir, Audiobook, History, Adventure, Book Club, Biography
+- **Lugares:** Australia, Sydney, New South Wales (Australia), Alice Springs (Australia), Northern Territory (Australia), Australian Outback (Australia), New South Wales (Australia)
+- **Premios ganados:** Puddly Award (2001)
+- **Nominaciones:** Thurber Prize (2001)
+- **Ficha en Goodreads:** [En las antípodas](https://www.goodreads.com/book/show/16089505-en-las-ant-podas)
+
+## Mi lectura
+
+- **Inicio:** 2015/03/11
+- **Fin:** 2015/03/19
+- **Mi valoración:** ★★★☆☆ (3/5)
