@@ -11,3 +11,12 @@ main:
   - name: Uses
     url: uses/
     weight: 30
+  - name: Libros
+    url: blog/
+    weight: 40
+  - name: Autores
+    url: autores/
+    weight: 50
+  - name: Editoriales
+    url: editoriales/
+    weight: 60

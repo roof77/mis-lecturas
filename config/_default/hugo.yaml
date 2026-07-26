@@ -67,6 +67,8 @@ taxonomies:
   tag: tags
   category: categories
   author: authors
+  libro_autor: autores
+  editorial: editoriales
 markup:
   _merge: deep
 related:
