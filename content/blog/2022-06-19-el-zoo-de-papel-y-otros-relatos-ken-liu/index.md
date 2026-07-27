@@ -24,6 +24,9 @@ editoriales:
 - 'Alianza '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34429410-el-zoo-de-papel-y-otros-relatos)'
+sexo_autor: V
+paginas: 544
+nota: '3'
 ---
 
 ## Sinopsis

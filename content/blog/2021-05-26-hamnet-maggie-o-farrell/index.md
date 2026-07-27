@@ -24,6 +24,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56644361-hamnet)'
+sexo_autor: H
+paginas: 352
+nota: 4,5
 ---
 
 ## Sinopsis

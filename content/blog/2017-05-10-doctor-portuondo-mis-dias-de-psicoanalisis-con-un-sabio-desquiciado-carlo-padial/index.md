@@ -15,6 +15,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34326468-doctor-portuondo)'
+sexo_autor: V
+paginas: 272
+nota: '3'
 ---
 
 ## Sinopsis

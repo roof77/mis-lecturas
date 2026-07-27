@@ -18,6 +18,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2368832.Bailando_sobre_la_tumba)'
+sexo_autor: V
+paginas: 328
+nota: '4'
 ---
 
 ## Sinopsis

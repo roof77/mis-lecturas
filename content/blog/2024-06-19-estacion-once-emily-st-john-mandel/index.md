@@ -24,6 +24,9 @@ editoriales:
 - Kailas Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28445890-estaci-n-once)'
+sexo_autor: H
+paginas: 379
+nota: 4,25
 ---
 
 ## Sinopsis

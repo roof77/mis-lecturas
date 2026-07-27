@@ -23,6 +23,9 @@ editoriales:
 - Duomo Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23152233-open)'
+sexo_autor: V
+paginas: 480
+nota: '4'
 ---
 
 ## Sinopsis

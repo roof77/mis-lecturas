@@ -23,6 +23,9 @@ editoriales:
 - Capitán Swing Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41963345-pimp-memorias-de-un-chulo-colecci-n-ensayo)'
+sexo_autor: V
+paginas: 434
+nota: '4'
 ---
 
 ## Sinopsis

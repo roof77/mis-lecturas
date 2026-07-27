@@ -22,6 +22,9 @@ editoriales:
 - Caballo de Troya
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43469036-cambiar-de-idea)'
+sexo_autor: H
+paginas: 160
+nota: '3'
 ---
 
 ## Sinopsis

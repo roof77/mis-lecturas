@@ -22,6 +22,9 @@ editoriales:
 - Ediciones Glénat España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345428.Maison_Ikkoku_tomo_6)'
+sexo_autor: H
+paginas: 360
+nota: '4'
 ---
 
 ## Sinopsis

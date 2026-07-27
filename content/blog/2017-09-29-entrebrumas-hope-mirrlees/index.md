@@ -25,6 +25,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/73653.Entrebrumas)'
+sexo_autor: H
+paginas: 267
+nota: '4'
 ---
 
 ## Sinopsis

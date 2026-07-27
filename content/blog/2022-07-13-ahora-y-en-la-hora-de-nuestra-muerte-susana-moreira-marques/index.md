@@ -26,6 +26,9 @@ editoriales:
 - Libros del K.O.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42188596-ahora-y-en-la-hora-de-nuestra-muerte)'
+sexo_autor: H
+paginas: 118
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Acantilado
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18074099-el-se-or-fox)'
+sexo_autor: H
+paginas: 296
+nota: '4'
 ---
 
 ## Sinopsis

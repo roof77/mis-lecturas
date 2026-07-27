@@ -25,6 +25,9 @@ editoriales:
 - 'Madrid: Alamut'
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6465034-el-tapiz-del-vampiro)'
+sexo_autor: H
+paginas: 248
+nota: '3'
 ---
 
 ## Sinopsis

@@ -22,6 +22,9 @@ editoriales:
 - Destino
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17238220-el-guardi-n-invisible)'
+sexo_autor: H
+paginas: 440
+nota: '3'
 ---
 
 ## Sinopsis

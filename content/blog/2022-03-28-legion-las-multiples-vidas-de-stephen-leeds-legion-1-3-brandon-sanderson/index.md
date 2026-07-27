@@ -25,6 +25,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51098395-legi-n)'
+sexo_autor: V
+paginas: 349
+nota: 4,25
 ---
 
 ## Sinopsis

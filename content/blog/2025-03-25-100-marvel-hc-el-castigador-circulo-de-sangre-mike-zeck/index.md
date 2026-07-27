@@ -17,6 +17,9 @@ editoriales:
 - Panini Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39101207-100-marvel-hc-el-castigador)'
+sexo_autor: V
+paginas: 312
+nota: 4,25
 ---
 
 ## Sinopsis

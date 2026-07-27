@@ -14,6 +14,9 @@ editoriales:
 - Tres Hermanas
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51892507-me-despert-con-dos-inviernos-a-los-lados)'
+sexo_autor: H
+paginas: 208
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -38,4 +41,4 @@ La autora recrea con meticulosidad una atmósfera doméstica opresiva en la que 
 
 - **Inicio:** 2026/03/13
 - **Fin:** 2026/03/19
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

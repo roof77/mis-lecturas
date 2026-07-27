@@ -27,6 +27,9 @@ editoriales:
 - Libros del Silencio
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12543800-dog-soldiers)'
+sexo_autor: V
+paginas: 432
+nota: '4'
 ---
 
 ## Sinopsis

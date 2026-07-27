@@ -23,6 +23,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58089618-us)'
+sexo_autor: H
+paginas: 144
+nota: 4,25
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51081995-coyote-doggirl)'
+sexo_autor: H
+paginas: 152
+nota: Bien
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ Coyote Doggirl, primera obra publicada en castellano de la autora, es a la vez, 
 
 - **Inicio:** 2026/04/20
 - **Fin:** 2026/04/20
-- **Calificación:** Bien/5
+- **Calificación:** Bien

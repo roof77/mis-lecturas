@@ -23,6 +23,9 @@ editoriales:
 - Turner
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28271884-yeah-yeah-yeah-la-historia-del-pop-moderno)'
+sexo_autor: V
+paginas: 748
+nota: '5'
 ---
 
 ## Sinopsis

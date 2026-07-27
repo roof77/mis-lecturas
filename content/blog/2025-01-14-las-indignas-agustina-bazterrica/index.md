@@ -23,6 +23,9 @@ editoriales:
 - Penguin Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/198386595-las-indignas)'
+sexo_autor: H
+paginas: 192
+nota: '4'
 ---
 
 ## Sinopsis

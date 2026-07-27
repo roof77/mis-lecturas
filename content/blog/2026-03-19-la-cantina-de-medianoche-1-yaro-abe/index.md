@@ -22,6 +22,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45993418-la-cantina-de-medianoche-1)'
+sexo_autor: V
+paginas: 300
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -45,4 +48,4 @@ Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el ba
 
 - **Inicio:** 2026/03/18
 - **Fin:** 2026/03/19
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

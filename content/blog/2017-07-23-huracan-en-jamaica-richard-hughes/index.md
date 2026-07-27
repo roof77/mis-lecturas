@@ -24,6 +24,9 @@ editoriales:
 - Alba Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25372280-hurac-n-en-jamaica)'
+sexo_autor: V
+paginas: 264
+nota: '3'
 ---
 
 ## Sinopsis

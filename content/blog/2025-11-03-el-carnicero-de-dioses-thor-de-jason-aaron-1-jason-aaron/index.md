@@ -24,6 +24,9 @@ editoriales:
 - Panini Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39931985-el-carnicero-de-dioses)'
+sexo_autor: V
+paginas: 304
+nota: '3'
 ---
 
 ## Sinopsis

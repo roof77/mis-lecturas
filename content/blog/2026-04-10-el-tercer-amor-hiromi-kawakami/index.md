@@ -26,6 +26,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/223333748-el-tercer-amor)'
+sexo_autor: H
+paginas: 288
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +50,4 @@ Después de casarse con su amor de infancia, Riko se encuentra atrapada en una r
 
 - **Inicio:** 2026/03/27
 - **Fin:** 2026/04/10
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

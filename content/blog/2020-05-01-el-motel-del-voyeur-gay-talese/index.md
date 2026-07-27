@@ -24,6 +24,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33666385-el-motel-del-voyeur)'
+sexo_autor: V
+paginas: 229
+nota: '3'
 ---
 
 ## Sinopsis

@@ -15,6 +15,9 @@ editoriales:
 - Contra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60805210-hey-julio-iglesias-y-la-conquista-de-am-rica)'
+sexo_autor: V
+paginas: 472
+nota: 3,75
 ---
 
 ## Sinopsis

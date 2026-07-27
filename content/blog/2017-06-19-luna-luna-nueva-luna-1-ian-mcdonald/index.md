@@ -23,6 +23,9 @@ editoriales:
 - Ediciones B/Nova
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29914911-luna)'
+sexo_autor: V
+paginas: 432
+nota: '4'
 ---
 
 ## Sinopsis

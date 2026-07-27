@@ -23,6 +23,9 @@ editoriales:
 - RBA Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/129113531-viaje-al-sue-o-americano)'
+sexo_autor: V
+paginas: 363
+nota: 3,75
 ---
 
 ## Sinopsis

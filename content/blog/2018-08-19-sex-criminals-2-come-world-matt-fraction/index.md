@@ -22,6 +22,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18740363-sex-criminals-2)'
+sexo_autor: V
+paginas: 32
+nota: '3'
 ---
 
 ## Sinopsis

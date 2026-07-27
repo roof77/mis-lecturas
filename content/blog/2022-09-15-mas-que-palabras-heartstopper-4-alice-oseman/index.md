@@ -25,6 +25,9 @@ editoriales:
 - Destino
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57674835-m-s-que-palabras)'
+sexo_autor: H
+paginas: 384
+nota: '4'
 ---
 
 ## Sinopsis

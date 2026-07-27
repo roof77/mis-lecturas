@@ -21,6 +21,9 @@ editoriales:
 - Sapristi
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55453071-la-soledad-del-dibujante)'
+sexo_autor: V
+paginas: 166
+nota: '4'
 ---
 
 ## Sinopsis

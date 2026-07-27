@@ -24,6 +24,9 @@ editoriales:
 - Obscura Editorial, SL
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/235672154-el-r-o-tiene-ra-ces)'
+sexo_autor: H
+paginas: 112
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -58,4 +61,4 @@ Amal El-Mohtar nos deslumbra con un trágico cuento de hadas en el que las palab
 
 - **Inicio:** 2026/01/29
 - **Fin:** 2026/02/04
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

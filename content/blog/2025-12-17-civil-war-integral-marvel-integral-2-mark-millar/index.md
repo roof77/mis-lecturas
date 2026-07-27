@@ -17,6 +17,9 @@ editoriales:
 - Panini Comics España (Marvel Comics)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27800660-civil-war)'
+sexo_autor: V
+paginas: 280
+nota: '4'
 ---
 
 ## Sinopsis

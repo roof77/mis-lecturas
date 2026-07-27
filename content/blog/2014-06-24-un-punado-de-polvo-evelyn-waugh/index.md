@@ -24,6 +24,9 @@ editoriales:
 - RBA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18298728-un-pu-ado-de-polvo)'
+sexo_autor: V
+paginas: 262
+nota: '3'
 ---
 
 ## Sinopsis

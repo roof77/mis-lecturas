@@ -23,6 +23,9 @@ editoriales:
 - Alianza Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55236706-estoy-pensando-en-dejarlo)'
+sexo_autor: V
+paginas: 208
+nota: '3'
 ---
 
 ## Sinopsis

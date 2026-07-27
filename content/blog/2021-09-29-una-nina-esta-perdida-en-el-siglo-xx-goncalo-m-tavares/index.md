@@ -23,6 +23,9 @@ editoriales:
 - Seix Barral
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29388408-una-ni-a-est-perdida-en-el-siglo-xx)'
+sexo_autor: V
+paginas: 233
+nota: '0'
 ---
 
 ## Sinopsis

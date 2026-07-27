@@ -19,6 +19,9 @@ editoriales:
 - Autsaider Cómics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54571105-primavera-para-madrid)'
+sexo_autor: V
+paginas: 272
+nota: 4,5
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Crossbooks
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202748429-heartstopper-5-creciendo-contigo)'
+sexo_autor: H
+paginas: 336
+nota: '4'
 ---
 
 ## Sinopsis

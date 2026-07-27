@@ -24,6 +24,9 @@ editoriales:
 - Alba Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/14061416-el-libro-de-la-se-orita-buncle)'
+sexo_autor: H
+paginas: 378
+nota: '4'
 ---
 
 ## Sinopsis

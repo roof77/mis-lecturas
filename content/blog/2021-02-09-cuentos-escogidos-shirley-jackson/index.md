@@ -20,6 +20,9 @@ editoriales:
 - Editorial Minúscula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28160703-cuentos-escogidos)'
+sexo_autor: H
+paginas: 163
+nota: '4'
 ---
 
 ## Sinopsis

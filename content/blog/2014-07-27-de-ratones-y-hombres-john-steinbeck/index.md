@@ -25,6 +25,9 @@ editoriales:
 - Editorial Vicens Vives
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51611.De_ratones_y_hombres)'
+sexo_autor: V
+paginas: 110
+nota: '5'
 ---
 
 ## Sinopsis

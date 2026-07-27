@@ -15,6 +15,9 @@ editoriales:
 - Panini Comics España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42295844-spider-gwen-vol-3)'
+sexo_autor: V
+paginas: 144
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -39,4 +42,4 @@ Contiene Spider-Gwen v2, 19-24 USA
 
 - **Inicio:** 2026/07/08
 - **Fin:** 2026/07/08
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

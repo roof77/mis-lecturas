@@ -22,6 +22,9 @@ editoriales:
 - Editorial Contra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24698360-la-chica-del-grupo)'
+sexo_autor: H
+paginas: 344
+nota: '4'
 ---
 
 ## Sinopsis

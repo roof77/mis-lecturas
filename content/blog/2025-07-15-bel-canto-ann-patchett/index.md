@@ -23,6 +23,9 @@ editoriales:
 - DIAGONAL
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6270616-bel-canto)'
+sexo_autor: H
+paginas: 381
+nota: 4,75
 ---
 
 ## Sinopsis

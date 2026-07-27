@@ -25,6 +25,9 @@ editoriales:
 - Alba Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43073726-retrato-de-un-asesino-crimen-en-navidad)'
+sexo_autor: H
+paginas: 236
+nota: '4'
 ---
 
 ## Sinopsis

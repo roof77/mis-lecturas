@@ -25,6 +25,9 @@ editoriales:
 - :Rata_
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34593278-la-vegetariana)'
+sexo_autor: H
+paginas: 240
+nota: '3'
 ---
 
 ## Sinopsis

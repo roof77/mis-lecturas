@@ -23,6 +23,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41442139-kentukis)'
+sexo_autor: H
+paginas: 224
+nota: 3,75
 ---
 
 ## Sinopsis

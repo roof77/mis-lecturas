@@ -25,6 +25,9 @@ editoriales:
 - Debolsillo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/896930.Desgracia)'
+sexo_autor: V
+paginas: 272
+nota: '2'
 ---
 
 ## Sinopsis

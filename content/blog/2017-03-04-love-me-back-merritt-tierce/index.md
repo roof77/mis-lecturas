@@ -24,6 +24,9 @@ editoriales:
 - Doubleday
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20171005-love-me-back)'
+sexo_autor: H
+paginas: 224
+nota: '3'
 ---
 
 ## Sinopsis

@@ -22,6 +22,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54140147-leones-muertos)'
+sexo_autor: V
+paginas: 400
+nota: '4'
 ---
 
 ## Sinopsis

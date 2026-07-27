@@ -24,6 +24,9 @@ editoriales:
 - Turner
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28250205-producciones-kim-jong-il-presenta)'
+sexo_autor: V
+paginas: 400
+nota: '4'
 ---
 
 ## Sinopsis

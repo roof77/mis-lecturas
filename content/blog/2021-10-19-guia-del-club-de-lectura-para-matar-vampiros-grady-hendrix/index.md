@@ -24,6 +24,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58555274-gu-a-del-club-de-lectura-para-matar-vampiros)'
+sexo_autor: V
+paginas: 471
+nota: 4,5
 ---
 
 ## Sinopsis

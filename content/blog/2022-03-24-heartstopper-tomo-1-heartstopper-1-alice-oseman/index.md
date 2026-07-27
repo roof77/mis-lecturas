@@ -23,6 +23,9 @@ editoriales:
 - VRYA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51064313-heartstopper-tomo-1)'
+sexo_autor: H
+paginas: 288
+nota: 4,5
 ---
 
 ## Sinopsis

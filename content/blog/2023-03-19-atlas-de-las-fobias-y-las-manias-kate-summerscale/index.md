@@ -23,6 +23,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/95317939-atlas-de-las-fobias-y-las-man-as)'
+sexo_autor: H
+paginas: 312
+nota: 3,75
 ---
 
 ## Sinopsis

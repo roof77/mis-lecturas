@@ -26,6 +26,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/74421.El_quinto_en_discordia)'
+sexo_autor: V
+paginas: 360
+nota: '5'
 ---
 
 ## Sinopsis

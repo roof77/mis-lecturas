@@ -23,6 +23,9 @@ editoriales:
 - 'Alba '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21797076-los-ni-os)'
+sexo_autor: H
+paginas: 416
+nota: '5'
 ---
 
 ## Sinopsis

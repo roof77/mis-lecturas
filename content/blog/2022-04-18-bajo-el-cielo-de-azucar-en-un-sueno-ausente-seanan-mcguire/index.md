@@ -18,6 +18,9 @@ editoriales:
 - Alianza Runas
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60187916-bajo-el-cielo-de-az-car-en-un-sue-o-ausente)'
+sexo_autor: H
+paginas: 400
+nota: 3,5
 ---
 
 ## Sinopsis

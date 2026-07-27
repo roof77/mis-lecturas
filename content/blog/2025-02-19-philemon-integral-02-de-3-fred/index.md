@@ -16,6 +16,9 @@ editoriales:
 - ECC Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32992334-philemon-integral-02)'
+sexo_autor: V
+paginas: 288
+nota: 4,5
 ---
 
 ## Sinopsis

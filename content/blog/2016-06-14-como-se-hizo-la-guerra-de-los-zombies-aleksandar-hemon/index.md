@@ -24,6 +24,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30337730-c-mo-se-hizo-la-guerra-de-los-zombies)'
+sexo_autor: V
+paginas: 336
+nota: '3'
 ---
 
 ## Sinopsis

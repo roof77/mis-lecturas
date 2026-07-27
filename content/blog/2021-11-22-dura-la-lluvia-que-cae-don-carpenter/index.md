@@ -24,6 +24,9 @@ editoriales:
 - Duomo Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17258367-dura-la-lluvia-que-cae)'
+sexo_autor: H
+paginas: 348
+nota: 4,75
 ---
 
 ## Sinopsis

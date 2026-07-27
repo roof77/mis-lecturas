@@ -22,6 +22,9 @@ editoriales:
 - Destino
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23002631-ofrenda-a-la-tormenta)'
+sexo_autor: H
+paginas: 544
+nota: '3'
 ---
 
 ## Sinopsis

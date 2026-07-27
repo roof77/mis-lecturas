@@ -25,6 +25,9 @@ editoriales:
 - Alianza editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45717173-mi-marido-es-de-otra-especie)'
+sexo_autor: H
+paginas: 143
+nota: 3,5
 ---
 
 ## Sinopsis

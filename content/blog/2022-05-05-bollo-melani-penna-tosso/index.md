@@ -15,6 +15,9 @@ editoriales:
 - Dos Bigotes
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57964550-bollo)'
+sexo_autor: H
+paginas: 160
+nota: 2,5
 ---
 
 ## Sinopsis

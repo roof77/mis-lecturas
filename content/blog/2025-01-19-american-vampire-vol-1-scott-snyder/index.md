@@ -24,6 +24,9 @@ editoriales:
 - Vertigo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7619398-american-vampire-vol-1)'
+sexo_autor: V
+paginas: 192
+nota: '3'
 ---
 
 ## Sinopsis

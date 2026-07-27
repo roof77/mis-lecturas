@@ -25,6 +25,9 @@ editoriales:
 - Errata Naturae
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18872663-las-chicas-de-campo)'
+sexo_autor: H
+paginas: 304
+nota: '4'
 ---
 
 ## Sinopsis

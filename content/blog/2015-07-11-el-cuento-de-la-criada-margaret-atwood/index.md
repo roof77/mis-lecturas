@@ -24,6 +24,9 @@ editoriales:
 - BRUGUERA (SELLO)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6386694-el-cuento-de-la-criada)'
+sexo_autor: H
+paginas: 480
+nota: '5'
 ---
 
 ## Sinopsis

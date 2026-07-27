@@ -22,6 +22,9 @@ editoriales:
 - Pottermore Publishing
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31540509-hogwarts)'
+sexo_autor: H
+paginas: 90
+nota: '2'
 ---
 
 ## Sinopsis

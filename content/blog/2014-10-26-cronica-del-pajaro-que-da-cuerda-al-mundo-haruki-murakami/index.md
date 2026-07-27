@@ -26,6 +26,9 @@ editoriales:
 - Tusquets Editores S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3392482-cr-nica-del-p-jaro-que-da-cuerda-al-mundo)'
+sexo_autor: V
+paginas: 912
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Mondadori
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17973898-as-es-como-la-pierdes)'
+sexo_autor: V
+paginas: 208
+nota: '3'
 ---
 
 ## Sinopsis

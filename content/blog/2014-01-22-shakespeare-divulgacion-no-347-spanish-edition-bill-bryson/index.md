@@ -24,6 +24,9 @@ editoriales:
 - RBA Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20659953-shakespeare-divulgaci-n-n-347)'
+sexo_autor: V
+paginas: 187
+nota: 3,75
 ---
 
 ## Sinopsis

@@ -22,6 +22,9 @@ editoriales:
 - Reservoir Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31847321-madres-arrepentidas)'
+sexo_autor: H
+paginas: 256
+nota: '3'
 ---
 
 ## Sinopsis

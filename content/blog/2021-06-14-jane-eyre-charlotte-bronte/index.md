@@ -24,6 +24,9 @@ editoriales:
 - Alba Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29321463-jane-eyre)'
+sexo_autor: H
+paginas: 694
+nota: '4'
 ---
 
 ## Sinopsis

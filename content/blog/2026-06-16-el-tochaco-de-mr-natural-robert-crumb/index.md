@@ -21,6 +21,9 @@ editoriales:
 - Ediciones La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34428648-el-tochaco-de-mr-natural)'
+sexo_autor: V
+paginas: 260
+nota: Bien
 ---
 
 ## Sinopsis
@@ -45,4 +48,4 @@ Estas páginas contienen filosofía auténtica, trascendencia de la buena y reve
 
 - **Inicio:** 2026/05/31
 - **Fin:** 2026/06/16
-- **Calificación:** Bien/5
+- **Calificación:** Bien

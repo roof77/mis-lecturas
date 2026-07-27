@@ -24,6 +24,9 @@ editoriales:
 - Ediciones Escalera
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15809202-piercing)'
+sexo_autor: V
+paginas: 128
+nota: '3'
 ---
 
 ## Sinopsis

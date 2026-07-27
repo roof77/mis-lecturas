@@ -24,6 +24,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32023743-el-despertar-del-leviat-n)'
+sexo_autor: H
+paginas: 608
+nota: '4'
 ---
 
 ## Sinopsis

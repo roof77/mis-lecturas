@@ -23,6 +23,9 @@ editoriales:
 - Continuum
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/383300.Let_s_Talk_About_Love)'
+sexo_autor: V
+paginas: 176
+nota: '4'
 ---
 
 ## Sinopsis

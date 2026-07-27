@@ -24,6 +24,9 @@ editoriales:
 - Milky Way Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57926337-insomniacs-after-school-vol-1)'
+sexo_autor: H
+paginas: 192
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -51,4 +54,4 @@ Uno de cada cinco japoneses sufre perturbaciones del sueño y, entre los adolesc
 
 - **Inicio:** 2026/07/25
 - **Fin:** 2026/07/25
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

@@ -20,6 +20,9 @@ editoriales:
 - RESERVOIR BOOKS
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/172870462-el-p-jaro-y-la-serpiente)'
+sexo_autor: V
+paginas: 192
+nota: 3,5
 ---
 
 ## Sinopsis

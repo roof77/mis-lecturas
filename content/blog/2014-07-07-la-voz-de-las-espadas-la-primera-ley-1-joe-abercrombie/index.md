@@ -24,6 +24,9 @@ editoriales:
 - Alianza Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1794071.La_voz_de_las_espadas)'
+sexo_autor: V
+paginas: 656
+nota: '3'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33876650-querida-ijeawele-c-mo-educar-en-el-feminismo)'
+sexo_autor: H
+paginas: 89
+nota: '4'
 ---
 
 ## Sinopsis

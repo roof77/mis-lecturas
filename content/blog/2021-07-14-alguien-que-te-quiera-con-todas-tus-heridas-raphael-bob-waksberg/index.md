@@ -23,6 +23,9 @@ editoriales:
 - Círculo de Tiza
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57947563-alguien-que-te-quiera-con-todas-tus-heridas)'
+sexo_autor: H
+paginas: 300
+nota: 3,75
 ---
 
 ## Sinopsis

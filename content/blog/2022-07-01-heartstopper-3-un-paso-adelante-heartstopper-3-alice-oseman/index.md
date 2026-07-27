@@ -24,6 +24,9 @@ editoriales:
 - Crossbooks
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56969069-heartstopper-3-un-paso-adelante)'
+sexo_autor: H
+paginas: 384
+nota: '4'
 ---
 
 ## Sinopsis

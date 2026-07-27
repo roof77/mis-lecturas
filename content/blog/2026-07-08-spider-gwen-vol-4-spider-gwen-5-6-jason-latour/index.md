@@ -19,6 +19,9 @@ editoriales:
 - Marvel Enterprises
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40943788-spider-gwen-vol-4)'
+sexo_autor: V
+paginas: 248
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -41,4 +44,4 @@ Is Gwen Stacy's alternate Earth ready for...Gwenom?! Matt "Kingpin" Murdock's pl
 
 - **Inicio:** 2026/07/08
 - **Fin:** 2026/07/08
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

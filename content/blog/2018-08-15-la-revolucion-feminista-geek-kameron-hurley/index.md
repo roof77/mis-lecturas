@@ -24,6 +24,9 @@ editoriales:
 - Runas
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37758206-la-revoluci-n-feminista-geek)'
+sexo_autor: H
+paginas: 320
+nota: '3'
 ---
 
 ## Sinopsis

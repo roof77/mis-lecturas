@@ -25,6 +25,9 @@ editoriales:
 - Crossbooks
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/251710663-heartstopper-6-entrelazados)'
+sexo_autor: H
+paginas: 448
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +57,4 @@ Contains discussions around mental health and eating disorders, and sexual refer
 
 - **Inicio:** 2026/07/19
 - **Fin:** 2026/07/19
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

@@ -18,6 +18,9 @@ editoriales:
 - Círculo de Lectores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1331010.La_doncella_de_hielo)'
+sexo_autor: V
+paginas: 223
+nota: '3'
 ---
 
 ## Sinopsis

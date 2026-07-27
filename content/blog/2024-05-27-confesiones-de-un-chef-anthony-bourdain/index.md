@@ -23,6 +23,9 @@ editoriales:
 - del Nuevo Extremo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/111132.Confesiones_de_un_chef)'
+sexo_autor: V
+paginas: 285
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - La biblioteca de Carfax
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/215365815-en-ese-infinito-nuestro-final)'
+sexo_autor: H
+paginas: 416
+nota: 3,75
 ---
 
 ## Sinopsis

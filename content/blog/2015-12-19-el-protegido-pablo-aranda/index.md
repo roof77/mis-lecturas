@@ -14,6 +14,9 @@ editoriales:
 - Malpaso Ediciones, SL
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25394047-el-protegido)'
+sexo_autor: V
+paginas: 226
+nota: '3'
 ---
 
 ## Sinopsis

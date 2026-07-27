@@ -23,6 +23,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15859712-la-hija-de-la-amante)'
+sexo_autor: V
+paginas: 220
+nota: '3'
 ---
 
 ## Sinopsis

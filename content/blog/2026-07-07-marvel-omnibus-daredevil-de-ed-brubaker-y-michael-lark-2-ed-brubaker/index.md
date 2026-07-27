@@ -15,6 +15,9 @@ editoriales:
 - Panini España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/249850858-marvel-omnibus-daredevil-de-ed-brubaker-y-michael-lark-2)'
+sexo_autor: V
+paginas: 496
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -36,4 +39,4 @@ El formidable equipo creativo formado por Ed Brubaker, el hombre que mató al Ca
 
 - **Inicio:** 2026/07/06
 - **Fin:** 2026/07/07
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

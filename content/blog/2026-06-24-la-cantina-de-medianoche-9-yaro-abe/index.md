@@ -14,6 +14,9 @@ editoriales:
 - ASTIBERRI EDICIONES
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/246738642-la-cantina-de-medianoche-9)'
+sexo_autor: V
+paginas: 296
+nota: Muy recomendable
 ---
 
 ## Ficha del libro
@@ -31,4 +34,4 @@ image:
 
 - **Inicio:** 2026/06/20
 - **Fin:** 2026/06/24
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

@@ -25,6 +25,9 @@ editoriales:
 - Errata Naturae
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25057930-chicas-felizmente-casadas)'
+sexo_autor: H
+paginas: 272
+nota: '4'
 ---
 
 ## Sinopsis

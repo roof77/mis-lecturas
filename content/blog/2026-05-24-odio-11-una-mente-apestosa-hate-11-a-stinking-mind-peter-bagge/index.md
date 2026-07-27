@@ -13,6 +13,9 @@ editoriales:
 - Ediciones La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2751010-odio-11-una-mente-apestosa-hate-11-a-stinking-mind)'
+sexo_autor: V
+paginas: 52
+nota: Bien
 ---
 
 ## Ficha del libro
@@ -30,4 +33,4 @@ image:
 
 - **Inicio:** 2026/05/24
 - **Fin:** 2026/05/24
-- **Calificación:** Bien/5
+- **Calificación:** Bien

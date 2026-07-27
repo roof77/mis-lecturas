@@ -23,6 +23,9 @@ editoriales:
 - Reservoir Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40522789-the-black-holes)'
+sexo_autor: V
+paginas: 128
+nota: 3,75
 ---
 
 ## Sinopsis

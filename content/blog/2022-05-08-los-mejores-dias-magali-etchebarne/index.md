@@ -16,6 +16,9 @@ editoriales:
 - Las Afueras
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44581187-los-mejores-d-as)'
+sexo_autor: H
+paginas: 128
+nota: '3'
 ---
 
 ## Sinopsis

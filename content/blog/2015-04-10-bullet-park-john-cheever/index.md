@@ -22,6 +22,9 @@ editoriales:
 - Emece Editores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11889.Bullet_Park)'
+sexo_autor: V
+paginas: 243
+nota: '5'
 ---
 
 ## Sinopsis

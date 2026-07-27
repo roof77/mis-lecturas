@@ -24,6 +24,9 @@ editoriales:
 - Milky Way Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59975677-insomniacs-after-school-vol-5)'
+sexo_autor: H
+paginas: 192
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -49,4 +52,4 @@ Tras el fiasco de la actividad de observación de las pléyades, Isaki ofrece la
 
 - **Inicio:** 2026/07/26
 - **Fin:** 2026/07/26
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

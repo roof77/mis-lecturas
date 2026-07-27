@@ -24,6 +24,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20951298-americanah)'
+sexo_autor: H
+paginas: 605
+nota: '3'
 ---
 
 ## Sinopsis

@@ -20,6 +20,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22012856-sex-criminals-7)'
+sexo_autor: V
+paginas: 32
+nota: '3'
 ---
 
 ## Sinopsis

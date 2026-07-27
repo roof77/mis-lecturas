@@ -22,6 +22,9 @@ editoriales:
 - Panini Comics España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22005997-los-vengadores)'
+sexo_autor: V
+paginas: 240
+nota: '4'
 ---
 
 ## Sinopsis

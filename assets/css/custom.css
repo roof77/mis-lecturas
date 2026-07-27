@@ -241,3 +241,196 @@
   --tw-prose-body: #415848;
   --tw-prose-bold: #415848;
 }
+
+/* ══════════════════════════════════════════════════════════════════════════
+   Paleta de color personalizada (modo oscuro)
+   - Fondo:    #2C2C2C
+   - Titulos:  #A8DADC
+   - Texto:    #E4E4E4
+   - Cuadros de genero en "Topics": #B39CD0
+
+   Contrastes comprobados (WCAG):
+   - Fondo vs Texto:    10.98:1 (AAA)
+   - Fondo vs Titulos:   9.13:1 (AAA)
+   - Cuadros vs texto oscuro (#211C2B, usado mas abajo): 6.78:1 (AA/casi AAA)
+     -> con el texto blanco original solo daba 2.45:1, por eso el texto de
+        esos cuadros pasa a ser oscuro en vez de blanco.
+   ══════════════════════════════════════════════════════════════════════════ */
+
+.dark {
+  --hb-color-background: #2C2C2C;
+  --hb-color-foreground: #E4E4E4;
+  --hb-color-header-bg: #2C2C2C;
+  --hb-color-header-fg: #E4E4E4;
+  --hb-color-footer-bg: #2C2C2C;
+  --hb-color-footer-fg: #E4E4E4;
+}
+
+/* Titulos (h1-h6) fuera del contenido de los posts */
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
+  color: #A8DADC;
+}
+
+/* Titulos y parrafos DENTRO del contenido de cada post: en modo oscuro,
+   Tailwind Typography usa un segundo juego de variables "invert" (por la
+   clase "dark:prose-invert" que ya trae el tema), no las mismas de arriba. */
+.dark .prose {
+  --tw-prose-invert-headings: #A8DADC;
+  --tw-prose-invert-body: #E4E4E4;
+  --tw-prose-invert-bold: #E4E4E4;
+}
+
+/* Cuadros de genero en "Topics" (las etiquetas/tags, enlaces a /tags/...).
+   Se detectan por el propio destino del enlace en vez de por sus clases de
+   Tailwind, para no afectar a otros botones/elementos que compartan el
+   mismo color "primary" del tema en otras partes del sitio. */
+/* Cuadros de genero en "Topics" (las etiquetas/tags, enlaces a /tags/...).
+   El pill visible es en realidad un <span> DENTRO del <a>:
+     <a href="/tags/lecturas/"><span class="... rounded-full ...">Lecturas</span></a>
+   Si se pinta el <a>, que no tiene esquinas redondeadas ni el mismo tamano
+   exacto que el <span>, aparece un "halo" rectangular detras del pill. Por
+   eso el color va en el span, y el <a> se deja transparente. */
+.dark a[href^="/tags/"] {
+  background-color: transparent !important;
+}
+
+.dark a[href^="/tags/"] span {
+  background-color: #B39CD0 !important;
+  color: #211C2B !important;
+}
+
+.dark a[href^="/tags/"]:hover span {
+  background-color: #9373BC !important;
+}
+
+.dark a[href^="/tags/"]:focus span {
+  --tw-ring-color: #7951AB !important;
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   Cabecera con imagen para la pagina de listado /blog/
+   La plantilla de LISTADO de esta version del tema (list.html) no soporta
+   el campo "cover:" del front matter (eso solo funciona en posts individuales,
+   single.html) -- asi que se simula con CSS puro sobre el H1 "Blog" existente,
+   reutilizando el fichero que Hugo ya publica en /blog/cover.jpg porque esta
+   en la carpeta content/blog/ (page bundle).
+
+   Se limita a esta pagina exacta con el atributo data-hbb-relurl del <html>,
+   para no afectar a /tags/, /autores/, /editoriales/, etc. (comparten la
+   misma plantilla de lista). */
+
+html[data-hbb-relurl="/blog/"] .page-body > .max-w-prose.mx-auto.flex.justify-center {
+  max-width: 100%;
+  width: 100%;
+  min-height: 320px;
+  align-items: flex-end;
+  padding: 3rem 1.5rem;
+  border-radius: var(--hb-radius, 0.5rem);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.1) 60%),
+    url("/blog/cover.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+html[data-hbb-relurl="/blog/"] .page-body > .max-w-prose.mx-auto.flex.justify-center article {
+  max-width: 100%;
+}
+
+html[data-hbb-relurl="/blog/"] .page-body > .max-w-prose.mx-auto.flex.justify-center h1 {
+  color: #ffffff !important;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   /libros/ -> galeria de solo portadas en pequeño
+   El bloque "collection" (vista card, la unica realmente disponible en esta
+   version -- "masonry"/"compact"/"showcase" que anuncia la web no existen en
+   el 0.12.0 instalado) genera, por cada libro:
+
+     <div class="group ...">                     tarjeta completa
+       <div class="relative ... aspect-[16/9]...">  1er hijo: SOLO la imagen
+       <div class="p-8 space-y-4">                  2o hijo: tag+titulo+resumen+autor+fecha
+
+   Se oculta el 2o hijo (todo el texto) y se convierte la cuadricula de una
+   columna ancha en varias columnas pequeñas, apuntando por posicion (no por
+   clases de Tailwind, que podrian cambiar entre versiones).
+
+   Aislamiento a /libros/: NO se puede usar "data-hbb-relurl" del <html> (lo
+   probamos y vale "/" en cualquier pagina, no identifica la pagina actual).
+   En su lugar, el bloque "collection" de content/libros/_index.md lleva un
+   id propio ("id: libros-gallery" en el front matter), que genera el
+   contenedor con id="libros-gallery" -- unico en todo el sitio (el prefijo
+   "section-" solo se usa en el id AUTOMATICO cuando no se pone uno propio,
+   como vimos antes con "section-content-collection"). */
+
+#libros-gallery .container {
+  max-width: 100%;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 150px));
+  justify-content: center;
+  gap: 1.25rem;
+}
+
+/* El 2o hijo de cada tarjeta trae: [0] tag "Lecturas", [1] <h3> titulo,
+   [2] <p> resumen, [3] pie (avatar+fecha+"Read more"). Se muestran solo el
+   titulo y, dentro del pie, la fecha. */
+#libros-gallery .container > div > div:nth-child(2) {
+  padding: 0.5rem 0.25rem 0 !important;
+}
+
+#libros-gallery .container > div > div:nth-child(2) > *:not(h3):not(.pt-3) {
+  display: none;
+}
+
+#libros-gallery .container > div > div:nth-child(2) h3 {
+  font-size: 0.8rem;
+  line-height: 1.2;
+  font-weight: 600;
+  text-align: center;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Dentro del pie (.pt-3): ocultar el bloque "Read more" y, de la fila de
+   metadatos, todo menos la fecha (avatar, separadores "•", tiempo de lectura) */
+#libros-gallery .container > div > div:nth-child(2) .pt-3 > div:last-child {
+  display: none;
+}
+
+#libros-gallery .container > div > div:nth-child(2) .pt-3 > div:first-child > *:not(time) {
+  display: none;
+}
+
+#libros-gallery .container > div > div:nth-child(2) .pt-3 {
+  border: none !important;
+  padding-top: 0.15rem !important;
+  margin-top: 0.15rem !important;
+}
+
+#libros-gallery .container > div > div:nth-child(2) .pt-3 > div:first-child {
+  justify-content: center;
+  margin-bottom: 0 !important;
+}
+
+#libros-gallery .container > div > div:nth-child(2) time {
+  display: inline-block !important;
+  font-size: 0.7rem;
+  text-align: center;
+  opacity: 0.7;
+}
+
+#libros-gallery .container > div > div:first-child {
+  aspect-ratio: 2 / 3;
+  background: rgba(0, 0, 0, 0.05);
+}
+
+#libros-gallery .container > div > div:first-child img {
+  object-fit: contain;
+}

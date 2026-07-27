@@ -23,6 +23,9 @@ editoriales:
 - Harper Collins
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19351043-nimona)'
+sexo_autor: V
+paginas: 272
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -52,4 +55,4 @@ But as small acts of mischief escalate into a vicious battle, Lord Blackheart re
 
 - **Inicio:** 2026/06/30
 - **Fin:** 2026/07/01
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

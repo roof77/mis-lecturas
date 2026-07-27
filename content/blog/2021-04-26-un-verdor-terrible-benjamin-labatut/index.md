@@ -23,6 +23,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55756916-un-verdor-terrible)'
+sexo_autor: V
+paginas: 213
+nota: '5'
 ---
 
 ## Sinopsis

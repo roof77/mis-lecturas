@@ -19,6 +19,9 @@ editoriales:
 - Sajalín Editores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25715003-nada-que-esperar)'
+sexo_autor: V
+paginas: 214
+nota: '4'
 ---
 
 ## Sinopsis

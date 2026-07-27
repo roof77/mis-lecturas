@@ -24,6 +24,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/224230.Morfina)'
+sexo_autor: V
+paginas: 176
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -48,4 +51,4 @@ Los relatos reunidos en este volumen pertenecen al ciclo Notas de un médico jov
 
 - **Inicio:** 2026/04/09
 - **Fin:** 2026/04/12
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

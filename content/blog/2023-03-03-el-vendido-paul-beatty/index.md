@@ -25,6 +25,9 @@ editoriales:
 - Malpaso
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35061043-el-vendido)'
+sexo_autor: V
+paginas: 342
+nota: 3,75
 ---
 
 ## Sinopsis

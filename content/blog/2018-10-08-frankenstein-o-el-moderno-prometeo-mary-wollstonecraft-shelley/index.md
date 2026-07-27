@@ -23,6 +23,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17839921-frankenstein-o-el-moderno-prometeo)'
+sexo_autor: H
+paginas: 317
+nota: '4'
 ---
 
 ## Sinopsis

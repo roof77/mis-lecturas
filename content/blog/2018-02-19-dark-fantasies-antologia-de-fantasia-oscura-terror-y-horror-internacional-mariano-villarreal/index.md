@@ -47,6 +47,9 @@ editoriales:
 - Sportula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35226108-dark-fantasies-antolog-a-de-fantas-a-oscura-terror-y-horror-internacio)'
+sexo_autor: O
+paginas: 318
+nota: '3'
 ---
 
 ## Sinopsis

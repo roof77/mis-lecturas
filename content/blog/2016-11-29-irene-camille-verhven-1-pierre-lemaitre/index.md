@@ -23,6 +23,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25484805-ir-ne)'
+sexo_autor: V
+paginas: 384
+nota: '4'
 ---
 
 ## Sinopsis

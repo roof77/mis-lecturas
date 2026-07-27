@@ -25,6 +25,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25382522-oso)'
+sexo_autor: H
+paginas: 168
+nota: '4'
 ---
 
 ## Sinopsis

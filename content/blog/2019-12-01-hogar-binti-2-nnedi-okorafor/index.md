@@ -24,6 +24,9 @@ editoriales:
 - Crononauta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42036106-hogar)'
+sexo_autor: H
+paginas: 190
+nota: '4'
 ---
 
 ## Sinopsis

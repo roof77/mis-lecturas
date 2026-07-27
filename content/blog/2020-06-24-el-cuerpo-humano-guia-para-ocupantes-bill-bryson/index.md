@@ -23,6 +23,9 @@ editoriales:
 - RBA Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51808402-el-cuerpo-humano)'
+sexo_autor: V
+paginas: 684
+nota: '4'
 ---
 
 ## Sinopsis

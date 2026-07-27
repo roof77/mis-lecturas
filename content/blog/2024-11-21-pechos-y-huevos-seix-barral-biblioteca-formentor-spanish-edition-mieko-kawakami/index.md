@@ -23,6 +23,9 @@ editoriales:
 - Planeta Publishing
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60728716-pechos-y-huevos-seix-barral-biblioteca-formentor)'
+sexo_autor: H
+paginas: 496
+nota: 3,75
 ---
 
 ## Sinopsis

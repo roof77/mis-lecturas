@@ -24,6 +24,9 @@ editoriales:
 - Milky Way Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59554434-insomniacs-after-school-vol-4)'
+sexo_autor: H
+paginas: 192
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -49,4 +52,4 @@ Ganta e Isaki intentarán salvar el club de astronomía, por un lado organizando
 
 - **Inicio:** 2026/07/26
 - **Fin:** 2026/07/26
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

@@ -13,6 +13,9 @@ autores:
 - Luis Jiménez
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23960951-el-cerebro-obeso)'
+sexo_autor: V
+paginas: 257
+nota: '2'
 ---
 
 ## Sinopsis

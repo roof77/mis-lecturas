@@ -23,6 +23,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40792206-sex-criminals-vol-3)'
+sexo_autor: V
+paginas: 120
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ Suzie y Jon han robado los archivos de la Policía del Sexo y, junto con Ana, la
 
 - **Inicio:** 2026/06/23
 - **Fin:** 2026/06/23
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

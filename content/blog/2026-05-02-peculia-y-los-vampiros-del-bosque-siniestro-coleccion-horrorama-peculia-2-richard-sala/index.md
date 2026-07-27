@@ -22,6 +22,9 @@ editoriales:
 - Recerca Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35629898-peculia-y-los-vampiros-del-bosque-siniestro)'
+sexo_autor: V
+paginas: 98
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ Esa extraña nueva familia está esperando conocer sangre fresca... Una por cada
 
 - **Inicio:** 2026/05/02
 - **Fin:** 2026/05/02
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

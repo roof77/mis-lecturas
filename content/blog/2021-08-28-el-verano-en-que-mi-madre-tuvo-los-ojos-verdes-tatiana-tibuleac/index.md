@@ -24,6 +24,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44289602-el-verano-en-que-mi-madre-tuvo-los-ojos-verdes)'
+sexo_autor: H
+paginas: 256
+nota: '5'
 ---
 
 ## Sinopsis

@@ -16,6 +16,9 @@ editoriales:
 - Libros del K.O.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23251313-la-escritura-transparente)'
+sexo_autor: V
+paginas: 125
+nota: '3'
 ---
 
 ## Sinopsis

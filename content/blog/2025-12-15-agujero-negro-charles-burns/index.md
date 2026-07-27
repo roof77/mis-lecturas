@@ -20,6 +20,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4599920-agujero-negro)'
+sexo_autor: V
+paginas: 369
+nota: 4,75
 ---
 
 ## Sinopsis

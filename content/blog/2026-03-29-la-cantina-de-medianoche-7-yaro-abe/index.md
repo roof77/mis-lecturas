@@ -21,6 +21,9 @@ editoriales:
 - ASTIBERRI EDICIONES
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/212116978-la-cantina-de-medianoche-7)'
+sexo_autor: V
+paginas: 296
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -44,4 +47,4 @@ Arriva il settimo volume del manga best seller di Abe Yaro. In questa nuova usci
 
 - **Inicio:** 2026/03/28
 - **Fin:** 2026/03/29
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

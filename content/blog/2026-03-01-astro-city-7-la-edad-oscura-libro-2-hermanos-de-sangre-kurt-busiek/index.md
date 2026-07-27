@@ -22,6 +22,9 @@ editoriales:
 - NORMA EDITORIAL, S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13616812-astro-city-7)'
+sexo_autor: V
+paginas: 240
+nota: Bien
 ---
 
 ## Sinopsis
@@ -44,4 +47,4 @@ Today Astro City is a shining metropolis on a hill where super-heroes patrol the
 
 - **Inicio:** 2026/03/01
 - **Fin:** 2026/03/01
-- **Calificación:** Bien/5
+- **Calificación:** Bien

@@ -22,6 +22,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18740382-sex-criminals-4)'
+sexo_autor: V
+paginas: 32
+nota: '4'
 ---
 
 ## Sinopsis

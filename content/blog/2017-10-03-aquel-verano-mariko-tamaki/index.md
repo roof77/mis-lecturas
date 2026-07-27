@@ -24,6 +24,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23014139-aquel-verano)'
+sexo_autor: H
+paginas: 324
+nota: '4'
 ---
 
 ## Sinopsis

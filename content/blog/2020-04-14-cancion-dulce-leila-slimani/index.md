@@ -23,6 +23,9 @@ editoriales:
 - Cabaret Voltaire
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34612694-canci-n-dulce)'
+sexo_autor: H
+paginas: 288
+nota: '3'
 ---
 
 ## Sinopsis

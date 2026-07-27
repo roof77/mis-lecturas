@@ -22,6 +22,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15872.Harry_Potter_y_el_misterio_del_pr_ncipe)'
+sexo_autor: H
+paginas: 602
+nota: '3'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Tusquets
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17331723-despu-s-del-terremoto)'
+sexo_autor: V
+paginas: 190
+nota: '3'
 ---
 
 ## Sinopsis

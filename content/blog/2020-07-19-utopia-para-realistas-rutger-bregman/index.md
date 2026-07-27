@@ -23,6 +23,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34651610-utop-a-para-realistas)'
+sexo_autor: V
+paginas: 304
+nota: '3'
 ---
 
 ## Sinopsis

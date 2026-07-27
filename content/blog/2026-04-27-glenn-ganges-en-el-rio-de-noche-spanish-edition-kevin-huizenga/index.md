@@ -23,6 +23,9 @@ editoriales:
 - SALAMANDRA GRAPHIC
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/212992395-glenn-ganges-en-el-r-o-de-noche)'
+sexo_autor: V
+paginas: 216
+nota: Entretenido
 ---
 
 ## Sinopsis
@@ -61,4 +64,4 @@ La crítica ha «Absolutamente conmovedor y en ocasiones mágico... Aunque el es
 
 - **Inicio:** 2026/04/23
 - **Fin:** 2026/04/27
-- **Calificación:** Entretenido/5
+- **Calificación:** Entretenido

@@ -24,6 +24,9 @@ editoriales:
 - Tusquets Editores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25084093-hombres-sin-mujeres)'
+sexo_autor: V
+paginas: 267
+nota: '4'
 ---
 
 ## Sinopsis

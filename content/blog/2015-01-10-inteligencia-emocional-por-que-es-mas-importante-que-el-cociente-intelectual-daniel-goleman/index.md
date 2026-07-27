@@ -22,6 +22,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20651133-inteligencia-emocional-por-qu-es-m-s-importante-que-el-cociente-intele)'
+sexo_autor: V
+paginas: 400
+nota: '3'
 ---
 
 ## Sinopsis

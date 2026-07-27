@@ -23,6 +23,9 @@ editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9104300-astro-city-3)'
+sexo_autor: V
+paginas: 224
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -48,4 +51,4 @@ La vida en Astro City es muy distinta a la de las demás ciudades. Para un simpl
 
 - **Inicio:** 2026/02/15
 - **Fin:** 2026/02/26
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

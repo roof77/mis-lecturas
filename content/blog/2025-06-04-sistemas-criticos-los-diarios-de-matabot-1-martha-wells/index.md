@@ -24,6 +24,9 @@ editoriales:
 - Alethé
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43573614-sistemas-cr-ticos)'
+sexo_autor: H
+paginas: 150
+nota: '4'
 ---
 
 ## Sinopsis

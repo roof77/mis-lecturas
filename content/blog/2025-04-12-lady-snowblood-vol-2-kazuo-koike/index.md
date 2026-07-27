@@ -20,6 +20,9 @@ editoriales:
 - Planeta Cómic
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123248034-lady-snowblood-vol-2)'
+sexo_autor: V
+paginas: 520
+nota: '5'
 ---
 
 ## Sinopsis

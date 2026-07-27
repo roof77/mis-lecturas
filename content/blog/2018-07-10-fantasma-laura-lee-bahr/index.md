@@ -26,6 +26,9 @@ editoriales:
 - Orciny Press
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25630619-fantasma)'
+sexo_autor: H
+paginas: 300
+nota: '3'
 ---
 
 ## Sinopsis

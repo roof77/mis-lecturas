@@ -19,6 +19,9 @@ editoriales:
 - 'Norma Editorial '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60698598-un-a-o-sin-cthulhu)'
+sexo_autor: V
+paginas: 174
+nota: 3,5
 ---
 
 ## Sinopsis

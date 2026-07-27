@@ -24,6 +24,9 @@ editoriales:
 - Orciny Press
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43625291-valores-familiares)'
+sexo_autor: O
+paginas: 204
+nota: '3'
 ---
 
 ## Sinopsis

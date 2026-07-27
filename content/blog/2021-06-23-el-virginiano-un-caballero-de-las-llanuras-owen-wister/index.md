@@ -24,6 +24,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38966260-el-virginiano)'
+sexo_autor: V
+paginas: 512
+nota: '3'
 ---
 
 ## Sinopsis

@@ -26,6 +26,9 @@ editoriales:
 - Siruela
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7267544-el-diario-completamente-ver-dico-de-un-indio-a-tiempo-parcial)'
+sexo_autor: V
+paginas: 264
+nota: '4'
 ---
 
 ## Sinopsis

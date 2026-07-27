@@ -26,6 +26,9 @@ editoriales:
 - ALFAGUARA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36250104-tiempo-muerto)'
+sexo_autor: H
+paginas: 149
+nota: '4'
 ---
 
 ## Sinopsis

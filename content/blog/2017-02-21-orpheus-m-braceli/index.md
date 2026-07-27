@@ -14,6 +14,9 @@ editoriales:
 - Kelonia
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18370122-orpheus)'
+sexo_autor: V
+paginas: 172
+nota: '3'
 ---
 
 ## Sinopsis

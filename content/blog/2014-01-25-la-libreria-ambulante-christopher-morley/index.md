@@ -24,6 +24,9 @@ editoriales:
 - Editorial Periférica
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13504904-la-librer-a-ambulante)'
+sexo_autor: V
+paginas: 182
+nota: 3,75
 ---
 
 ## Sinopsis

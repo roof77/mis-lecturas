@@ -24,6 +24,9 @@ editoriales:
 - Panini Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56554824-sara)'
+sexo_autor: V
+paginas: 152
+nota: '3'
 ---
 
 ## Sinopsis

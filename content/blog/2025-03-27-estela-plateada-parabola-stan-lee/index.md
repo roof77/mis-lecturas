@@ -23,6 +23,9 @@ editoriales:
 - Panini Comics España (Marvel Comics)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12593546-estela-plateada)'
+sexo_autor: V
+paginas: 80
+nota: '4'
 ---
 
 ## Sinopsis

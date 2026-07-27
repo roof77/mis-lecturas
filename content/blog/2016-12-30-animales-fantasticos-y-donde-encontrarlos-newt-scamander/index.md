@@ -24,6 +24,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2490849.Animales_fant_sticos_y_d_nde_encontrarlos)'
+sexo_autor: H
+paginas: 90
+nota: '2'
 ---
 
 ## Sinopsis

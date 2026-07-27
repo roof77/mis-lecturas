@@ -21,6 +21,9 @@ editoriales:
 - Ediciones La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13606670-los-gatos-son-raros-y-m-s-observaciones)'
+sexo_autor: V
+paginas: 116
+nota: Entretenido
 ---
 
 ## Sinopsis
@@ -43,4 +46,4 @@ Los dibujos de Jeffrey Brown capturan a la perfección la comicidad y el caráct
 
 - **Inicio:** 2026/06/29
 - **Fin:** 2026/06/29
-- **Calificación:** Entretenido/5
+- **Calificación:** Entretenido

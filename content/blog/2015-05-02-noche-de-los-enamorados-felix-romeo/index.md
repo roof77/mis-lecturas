@@ -14,6 +14,9 @@ editoriales:
 - Mondadori
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13493645-noche-de-los-enamorados)'
+sexo_autor: V
+paginas: 144
+nota: '3'
 ---
 
 ## Sinopsis

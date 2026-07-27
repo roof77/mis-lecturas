@@ -23,6 +23,9 @@ editoriales:
 - Alianza Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18686686-miss-lonelyhearts)'
+sexo_autor: V
+paginas: 153
+nota: '4'
 ---
 
 ## Sinopsis

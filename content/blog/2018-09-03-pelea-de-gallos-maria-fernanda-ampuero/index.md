@@ -24,6 +24,9 @@ editoriales:
 - Páginas de Espuma
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39072768-pelea-de-gallos)'
+sexo_autor: H
+paginas: 120
+nota: '4'
 ---
 
 ## Sinopsis

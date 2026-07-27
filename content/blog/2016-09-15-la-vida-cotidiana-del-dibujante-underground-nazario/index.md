@@ -16,6 +16,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30345643-la-vida-cotidiana-del-dibujante-underground)'
+sexo_autor: V
+paginas: 288
+nota: '3'
 ---
 
 ## Sinopsis

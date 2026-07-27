@@ -23,6 +23,9 @@ editoriales:
 - NORMA EDITORIAL, S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13052297-akira-no-4)'
+sexo_autor: V
+paginas: 400
+nota: '4'
 ---
 
 ## Sinopsis

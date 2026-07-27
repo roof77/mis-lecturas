@@ -24,6 +24,9 @@ editoriales:
 - Siruela
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39345290-la-hermosa-bur-crata)'
+sexo_autor: H
+paginas: 192
+nota: '3'
 ---
 
 ## Sinopsis

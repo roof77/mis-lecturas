@@ -44,6 +44,9 @@ editoriales:
 - Candaya
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57728439-granta-en-espa-ol-23)'
+sexo_autor: O
+paginas: 352
+nota: '4'
 ---
 
 ## Sinopsis

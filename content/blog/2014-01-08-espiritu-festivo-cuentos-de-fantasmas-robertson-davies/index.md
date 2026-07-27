@@ -24,6 +24,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18946154-esp-ritu-festivo)'
+sexo_autor: V
+paginas: 312
+nota: '3'
 ---
 
 ## Sinopsis

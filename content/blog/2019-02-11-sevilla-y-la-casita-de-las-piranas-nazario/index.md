@@ -14,6 +14,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41882221-sevilla-y-la-casita-de-las-pira-as)'
+sexo_autor: V
+paginas: 326
+nota: '3'
 ---
 
 ## Sinopsis

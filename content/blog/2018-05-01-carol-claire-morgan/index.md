@@ -26,6 +26,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6424009-carol)'
+sexo_autor: H
+paginas: 328
+nota: '3'
 ---
 
 ## Sinopsis

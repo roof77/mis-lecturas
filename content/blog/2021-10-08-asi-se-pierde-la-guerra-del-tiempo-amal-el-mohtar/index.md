@@ -25,6 +25,9 @@ editoriales:
 - Insolita
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58772401-as-se-pierde-la-guerra-del-tiempo)'
+sexo_autor: O
+paginas: 181
+nota: 3,75
 ---
 
 ## Sinopsis

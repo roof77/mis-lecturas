@@ -23,6 +23,9 @@ editoriales:
 - Norma Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13052288-akira-no-2)'
+sexo_autor: V
+paginas: 304
+nota: '4'
 ---
 
 ## Sinopsis

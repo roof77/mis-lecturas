@@ -23,6 +23,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35661300-sex-criminals-vol-1)'
+sexo_autor: V
+paginas: 136
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -50,4 +53,4 @@ Fraction y Zdarsky se valen de ese original planteamiento argumental para crear 
 
 - **Inicio:** 2026/06/21
 - **Fin:** 2026/06/23
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

@@ -21,6 +21,9 @@ autores:
 - Karl Heinrich Ulrichs
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15982949-manor)'
+sexo_autor: V
+paginas: 9
+nota: '4'
 ---
 
 ## Sinopsis

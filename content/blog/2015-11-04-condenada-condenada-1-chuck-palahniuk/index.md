@@ -24,6 +24,9 @@ editoriales:
 - Mondadori
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18108398-condenada)'
+sexo_autor: V
+paginas: 256
+nota: '3'
 ---
 
 ## Sinopsis

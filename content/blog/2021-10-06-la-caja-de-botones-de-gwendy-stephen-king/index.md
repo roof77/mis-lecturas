@@ -24,6 +24,9 @@ editoriales:
 - SUMA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41210798-la-caja-de-botones-de-gwendy)'
+sexo_autor: V
+paginas: 130
+nota: '5'
 ---
 
 ## Sinopsis

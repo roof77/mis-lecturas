@@ -22,6 +22,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36696699-cad-ver-exquisito)'
+sexo_autor: H
+paginas: 249
+nota: 3,75
 ---
 
 ## Sinopsis

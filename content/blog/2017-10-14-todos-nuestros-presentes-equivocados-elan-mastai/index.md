@@ -23,6 +23,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35967818-todos-nuestros-presentes-equivocados)'
+sexo_autor: V
+paginas: 399
+nota: '3'
 ---
 
 ## Sinopsis

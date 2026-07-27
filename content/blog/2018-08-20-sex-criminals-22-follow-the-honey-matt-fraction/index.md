@@ -18,6 +18,9 @@ editoriales:
 - Image
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38218837-sex-criminals-22)'
+sexo_autor: V
+paginas: 28
+nota: '3'
 ---
 
 ## Sinopsis

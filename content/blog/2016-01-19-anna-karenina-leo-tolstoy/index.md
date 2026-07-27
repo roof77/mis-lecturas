@@ -24,6 +24,9 @@ editoriales:
 - Alba Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13454802-anna-kar-nina)'
+sexo_autor: V
+paginas: 1002
+nota: '5'
 ---
 
 ## Sinopsis

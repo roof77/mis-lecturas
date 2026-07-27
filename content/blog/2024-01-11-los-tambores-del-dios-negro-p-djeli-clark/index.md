@@ -25,6 +25,9 @@ editoriales:
 - Obscura Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/134961032-los-tambores-del-dios-negro)'
+sexo_autor: V
+paginas: 132
+nota: '4'
 ---
 
 ## Sinopsis

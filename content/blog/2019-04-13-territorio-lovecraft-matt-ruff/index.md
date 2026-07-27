@@ -24,6 +24,9 @@ editoriales:
 - Destino
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44438570-territorio-lovecraft)'
+sexo_autor: H
+paginas: 448
+nota: '4'
 ---
 
 ## Sinopsis

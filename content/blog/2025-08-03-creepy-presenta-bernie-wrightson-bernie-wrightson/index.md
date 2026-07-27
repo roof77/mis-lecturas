@@ -25,6 +25,9 @@ editoriales:
 - Planeta DeAgostini
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22403824-creepy-presenta)'
+sexo_autor: V
+paginas: 152
+nota: '4'
 ---
 
 ## Sinopsis

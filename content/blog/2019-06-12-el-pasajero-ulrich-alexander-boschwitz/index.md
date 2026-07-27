@@ -24,6 +24,9 @@ editoriales:
 - Sexto Piso
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44807871-el-pasajero)'
+sexo_autor: V
+paginas: 255
+nota: '4'
 ---
 
 ## Sinopsis

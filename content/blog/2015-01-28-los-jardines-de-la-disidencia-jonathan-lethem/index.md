@@ -25,6 +25,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22053235-los-jardines-de-la-disidencia)'
+sexo_autor: V
+paginas: 413
+nota: '3'
 ---
 
 ## Sinopsis

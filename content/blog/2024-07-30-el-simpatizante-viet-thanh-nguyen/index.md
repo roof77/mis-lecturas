@@ -25,6 +25,9 @@ editoriales:
 - Seix Barral
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41711264-el-simpatizante)'
+sexo_autor: V
+paginas: 479
+nota: '3'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - 'Buenos Aires: La Bestia Equilátera'
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36607375-los-elementales)'
+sexo_autor: V
+paginas: 312
+nota: 4,5
 ---
 
 ## Sinopsis

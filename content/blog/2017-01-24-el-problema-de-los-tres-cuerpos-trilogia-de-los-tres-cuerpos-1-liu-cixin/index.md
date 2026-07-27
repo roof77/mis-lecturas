@@ -24,6 +24,9 @@ editoriales:
 - NOVA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31928510-el-problema-de-los-tres-cuerpos)'
+sexo_autor: V
+paginas: 416
+nota: '4'
 ---
 
 ## Sinopsis

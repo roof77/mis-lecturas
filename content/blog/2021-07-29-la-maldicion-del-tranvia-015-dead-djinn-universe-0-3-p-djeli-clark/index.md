@@ -24,6 +24,9 @@ editoriales:
 - Duermevela Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58111092-la-maldici-n-del-tranv-a-015)'
+sexo_autor: V
+paginas: 165
+nota: '5'
 ---
 
 ## Sinopsis

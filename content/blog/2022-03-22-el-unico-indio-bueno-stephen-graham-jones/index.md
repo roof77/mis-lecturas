@@ -25,6 +25,9 @@ editoriales:
 - La biblioteca de Carfax
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59454433-el-nico-indio-bueno)'
+sexo_autor: V
+paginas: 384
+nota: '4'
 ---
 
 ## Sinopsis

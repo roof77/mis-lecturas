@@ -23,6 +23,9 @@ editoriales:
 - Lumen
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23306569-por-qu-ser-feliz-cuando-puedes-ser-normal)'
+sexo_autor: V
+paginas: 220
+nota: 4,5
 ---
 
 ## Sinopsis

@@ -14,6 +14,9 @@ editoriales:
 - 'Seix Barral '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25820374-valor)'
+sexo_autor: H
+paginas: 320
+nota: '4'
 ---
 
 ## Sinopsis

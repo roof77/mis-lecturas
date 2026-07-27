@@ -15,6 +15,9 @@ editoriales:
 - CONTRA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/247055606-desde-el-jerg-n)'
+sexo_autor: V
+paginas: 384
+nota: Muy recomendable
 ---
 
 ## Ficha del libro
@@ -31,4 +34,4 @@ image:
 
 - **Inicio:** 2026/06/11
 - **Fin:** 2026/07/02
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

@@ -25,6 +25,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31392900-el-int-rprete-del-dolor)'
+sexo_autor: H
+paginas: 228
+nota: '4'
 ---
 
 ## Sinopsis

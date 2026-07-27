@@ -24,6 +24,9 @@ editoriales:
 - Alianza Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44151217-milkman)'
+sexo_autor: H
+paginas: 352
+nota: '3'
 ---
 
 ## Sinopsis

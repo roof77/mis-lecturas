@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/122969874-vamos-a-morir-todos)'
+sexo_autor: H
+paginas: 280
+nota: 3,5
 ---
 
 ## Sinopsis

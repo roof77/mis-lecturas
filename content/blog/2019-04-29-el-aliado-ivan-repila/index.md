@@ -17,6 +17,9 @@ editoriales:
 - SEIX BARRAL
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43468739-el-aliado)'
+sexo_autor: V
+paginas: 256
+nota: '3'
 ---
 
 ## Sinopsis

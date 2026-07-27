@@ -25,6 +25,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11253835-solaris)'
+sexo_autor: V
+paginas: 292
+nota: '5'
 ---
 
 ## Sinopsis

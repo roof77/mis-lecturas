@@ -16,6 +16,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38937406-cuidado-que-te-asesinas)'
+sexo_autor: V
+paginas: 104
+nota: '4'
 ---
 
 ## Sinopsis

@@ -14,6 +14,9 @@ editoriales:
 - Libros Crudos
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29482468-nos-matan-con-hero-na-sobre-la-intoxicaci-n-farmacol-gica-como-arma-de)'
+sexo_autor: V
+paginas: 272
+nota: '4'
 ---
 
 ## Sinopsis

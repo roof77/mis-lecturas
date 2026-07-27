@@ -16,6 +16,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18723980-el-hijo-de-la-bestia-y-otros-relatos-de-terror-y-sexo-extravagante)'
+sexo_autor: V
+paginas: 464
+nota: '4'
 ---
 
 ## Sinopsis

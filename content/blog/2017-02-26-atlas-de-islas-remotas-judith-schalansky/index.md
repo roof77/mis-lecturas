@@ -24,6 +24,9 @@ editoriales:
 - Nórdica Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18909379-atlas-de-islas-remotas)'
+sexo_autor: H
+paginas: 150
+nota: '4'
 ---
 
 ## Sinopsis

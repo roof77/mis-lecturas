@@ -23,6 +23,9 @@ editoriales:
 - DEBATE
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19291960-nacidos-para-correr)'
+sexo_autor: V
+paginas: 370
+nota: '4'
 ---
 
 ## Sinopsis

@@ -19,6 +19,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33656760-sex-criminals-17)'
+sexo_autor: V
+paginas: 32
+nota: '3'
 ---
 
 ## Sinopsis

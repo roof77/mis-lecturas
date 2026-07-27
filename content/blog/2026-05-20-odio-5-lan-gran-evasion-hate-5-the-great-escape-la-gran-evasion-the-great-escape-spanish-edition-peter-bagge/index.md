@@ -16,6 +16,9 @@ editoriales:
 - UNKNO
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2751017-odio-5)'
+sexo_autor: V
+paginas: 84
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -39,4 +42,4 @@ Collects an alternative comic from the 1990s that chronicles the misadventures a
 
 - **Inicio:** 2026/05/17
 - **Fin:** 2026/05/20
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

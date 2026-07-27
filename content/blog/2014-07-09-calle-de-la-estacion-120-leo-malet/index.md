@@ -23,6 +23,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9396226-calle-de-la-estaci-n-120)'
+sexo_autor: V
+paginas: 248
+nota: '3'
 ---
 
 ## Sinopsis

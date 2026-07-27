@@ -23,6 +23,9 @@ editoriales:
 - Little, Brown BFYR
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13069935-ask-the-passengers)'
+sexo_autor: H
+paginas: 304
+nota: '4'
 ---
 
 ## Sinopsis

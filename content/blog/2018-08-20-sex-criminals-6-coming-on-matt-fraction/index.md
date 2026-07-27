@@ -20,6 +20,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22012837-sex-criminals-6)'
+sexo_autor: V
+paginas: 32
+nota: '4'
 ---
 
 ## Sinopsis

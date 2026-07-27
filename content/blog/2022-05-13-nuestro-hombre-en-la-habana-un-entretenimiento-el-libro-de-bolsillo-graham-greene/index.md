@@ -25,6 +25,9 @@ editoriales:
 - Alianza Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/602776.Nuestro_hombre_en_la_Habana)'
+sexo_autor: V
+paginas: 280
+nota: '4'
 ---
 
 ## Sinopsis

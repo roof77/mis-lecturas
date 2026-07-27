@@ -18,6 +18,9 @@ editoriales:
 - Inrevés SLL
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57470153-el-caso-de-madame-paul)'
+sexo_autor: H
+paginas: 48
+nota: Bien
 ---
 
 ## Sinopsis
@@ -38,4 +41,4 @@ Julie Doucet and her boyfriend find a new apartment with cheap rent and a string
 
 - **Inicio:** 2026/05/31
 - **Fin:** 2026/05/31
-- **Calificación:** Bien/5
+- **Calificación:** Bien

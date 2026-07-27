@@ -24,6 +24,9 @@ editoriales:
 - Sexto Piso
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61932609-perras-de-reserva)'
+sexo_autor: H
+paginas: 144
+nota: 4,25
 ---
 
 ## Sinopsis

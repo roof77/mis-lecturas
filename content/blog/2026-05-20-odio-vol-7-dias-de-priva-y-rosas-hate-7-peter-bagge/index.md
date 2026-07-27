@@ -15,6 +15,9 @@ editoriales:
 - UNKNO
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2751003-odio-vol-7)'
+sexo_autor: V
+paginas: 50
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -37,4 +40,4 @@ Collects an alternative comic from the 1990s that chronicles the misadventures a
 
 - **Inicio:** 2026/05/20
 - **Fin:** 2026/05/20
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

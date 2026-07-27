@@ -23,6 +23,9 @@ editoriales:
 - Sajalín
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45155250-kentucky-seco)'
+sexo_autor: V
+paginas: 180
+nota: '4'
 ---
 
 ## Sinopsis

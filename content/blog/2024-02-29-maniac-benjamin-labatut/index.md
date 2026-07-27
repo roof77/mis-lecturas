@@ -23,6 +23,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/199066748-maniac)'
+sexo_autor: V
+paginas: 391
+nota: 4,5
 ---
 
 ## Sinopsis

@@ -25,6 +25,9 @@ editoriales:
 - Astiberri Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/10824374-el-gourmet-solitario)'
+sexo_autor: V
+paginas: 200
+nota: '3'
 ---
 
 ## Sinopsis

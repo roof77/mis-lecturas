@@ -20,6 +20,9 @@ editoriales:
 - Ediciones Kraken
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36536635-princesa-ama-a-princesa)'
+sexo_autor: H
+paginas: 128
+nota: '4'
 ---
 
 ## Sinopsis

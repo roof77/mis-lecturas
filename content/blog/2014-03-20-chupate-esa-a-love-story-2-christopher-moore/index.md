@@ -24,6 +24,9 @@ editoriales:
 - LA FACTORÍA DE IDEAS
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6461637-ch-pate-esa)'
+sexo_autor: V
+paginas: 317
+nota: 3,25
 ---
 
 ## Sinopsis

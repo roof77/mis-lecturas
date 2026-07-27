@@ -23,6 +23,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22449186-estrategias-sobrenaturales-para-montar-un-grupo-de-rock)'
+sexo_autor: V
+paginas: 227
+nota: '3'
 ---
 
 ## Sinopsis

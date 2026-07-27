@@ -24,6 +24,9 @@ editoriales:
 - Panini Cómics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36260005-capit-n-am-rica-civil-war)'
+sexo_autor: V
+paginas: 408
+nota: '3'
 ---
 
 ## Sinopsis

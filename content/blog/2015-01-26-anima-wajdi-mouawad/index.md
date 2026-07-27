@@ -22,6 +22,9 @@ editoriales:
 - Actes Sud
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16008346-anima)'
+sexo_autor: V
+paginas: 394
+nota: '4'
 ---
 
 ## Sinopsis

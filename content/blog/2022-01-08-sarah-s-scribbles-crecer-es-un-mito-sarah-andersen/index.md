@@ -22,6 +22,9 @@ editoriales:
 - Bridge
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31927662-sarah-s-scribbles)'
+sexo_autor: H
+paginas: 109
+nota: 4,5
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39330921-conversaciones-entre-amigos)'
+sexo_autor: H
+paginas: 336
+nota: '4'
 ---
 
 ## Sinopsis

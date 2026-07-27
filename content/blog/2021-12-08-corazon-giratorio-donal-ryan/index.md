@@ -24,6 +24,9 @@ editoriales:
 - Sajalín
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46031140-coraz-n-giratorio)'
+sexo_autor: V
+paginas: 177
+nota: '4'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Reservoir Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60538062-grito-nocturno)'
+sexo_autor: V
+paginas: 168
+nota: '4'
 ---
 
 ## Sinopsis

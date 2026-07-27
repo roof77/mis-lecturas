@@ -25,6 +25,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22820681-el-marciano)'
+sexo_autor: V
+paginas: 408
+nota: '4'
 ---
 
 ## Sinopsis

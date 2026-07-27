@@ -23,6 +23,9 @@ editoriales:
 - Vertigo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15798792-punk-rock-jesus)'
+sexo_autor: V
+paginas: 224
+nota: '3'
 ---
 
 ## Sinopsis

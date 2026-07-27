@@ -8,11 +8,11 @@ main:
   - name: Topics
     url: tags/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Estadísticas
+    url: estadisticas/
     weight: 30
   - name: Libros
-    url: blog/
+    url: libros/
     weight: 40
   - name: Autores
     url: autores/

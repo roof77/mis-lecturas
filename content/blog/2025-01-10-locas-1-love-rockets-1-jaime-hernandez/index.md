@@ -20,6 +20,9 @@ editoriales:
 - Ediciones La Cúpula, S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1774327.Locas_1)'
+sexo_autor: V
+paginas: 276
+nota: 4,5
 ---
 
 ## Sinopsis

@@ -17,6 +17,9 @@ editoriales:
 - ECC
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31199254-relatos-terror-ficos-1)'
+sexo_autor: V
+paginas: 160
+nota: '4'
 ---
 
 ## Sinopsis

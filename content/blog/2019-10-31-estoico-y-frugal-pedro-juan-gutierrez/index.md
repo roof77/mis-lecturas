@@ -14,6 +14,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45479302-estoico-y-frugal)'
+sexo_autor: V
+paginas: 176
+nota: '3'
 ---
 
 ## Sinopsis

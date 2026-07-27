@@ -16,6 +16,9 @@ editoriales:
 - Norma Editorial (Vertigo Comics)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13482424-el-asco)'
+sexo_autor: V
+paginas: 74
+nota: 3,25
 ---
 
 ## Ficha del libro

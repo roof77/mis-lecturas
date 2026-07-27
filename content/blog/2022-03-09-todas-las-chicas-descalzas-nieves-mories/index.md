@@ -14,6 +14,9 @@ editoriales:
 - Dilatando Mentes
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59519410-todas-las-chicas-descalzas)'
+sexo_autor: H
+paginas: 184
+nota: 3,75
 ---
 
 ## Sinopsis

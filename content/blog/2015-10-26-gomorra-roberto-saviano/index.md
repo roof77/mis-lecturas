@@ -23,6 +23,9 @@ editoriales:
 - Editorial Sudamericana
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16156537-gomorra)'
+sexo_autor: V
+paginas: 325
+nota: '3'
 ---
 
 ## Sinopsis

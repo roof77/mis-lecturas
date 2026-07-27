@@ -25,6 +25,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23483122-matemos-al-t-o)'
+sexo_autor: H
+paginas: 320
+nota: '5'
 ---
 
 ## Sinopsis

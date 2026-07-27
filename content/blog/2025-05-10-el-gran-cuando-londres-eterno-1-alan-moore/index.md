@@ -24,6 +24,9 @@ editoriales:
 - Nocturna
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/228564741-el-gran-cuando)'
+sexo_autor: V
+paginas: 387
+nota: '4'
 ---
 
 ## Sinopsis

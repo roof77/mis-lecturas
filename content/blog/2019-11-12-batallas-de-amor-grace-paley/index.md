@@ -23,6 +23,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33833677-batallas-de-amor)'
+sexo_autor: H
+paginas: 160
+nota: '3'
 ---
 
 ## Sinopsis

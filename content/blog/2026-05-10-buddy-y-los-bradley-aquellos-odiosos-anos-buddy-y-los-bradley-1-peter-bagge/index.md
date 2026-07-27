@@ -15,6 +15,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5982502-buddy-y-los-bradley)'
+sexo_autor: V
+paginas: 84
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -37,4 +40,4 @@ Buddy y los Bradley nos ofrece las primeras aventuras del pringado de Buddy Brad
 
 - **Inicio:** 2026/05/09
 - **Fin:** 2026/05/10
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

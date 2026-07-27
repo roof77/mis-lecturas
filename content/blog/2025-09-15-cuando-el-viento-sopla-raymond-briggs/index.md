@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/206197004-cuando-el-viento-sopla)'
+sexo_autor: V
+paginas: 80
+nota: '4'
 ---
 
 ## Sinopsis

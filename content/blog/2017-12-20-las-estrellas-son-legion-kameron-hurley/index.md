@@ -24,6 +24,9 @@ editoriales:
 - Alianza
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36369375-las-estrellas-son-legi-n)'
+sexo_autor: H
+paginas: 350
+nota: '3'
 ---
 
 ## Sinopsis

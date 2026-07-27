@@ -24,6 +24,9 @@ editoriales:
 - Milky Way Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58855360-insomniacs-after-school-vol-3)'
+sexo_autor: H
+paginas: 192
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -49,4 +52,4 @@ En el campamento, tras disfrutar de una noche mágica en la playa, Nakami e Isak
 
 - **Inicio:** 2026/07/25
 - **Fin:** 2026/07/25
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

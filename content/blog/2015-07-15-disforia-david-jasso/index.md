@@ -15,6 +15,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25250009-disforia)'
+sexo_autor: V
+paginas: 416
+nota: '2'
 ---
 
 ## Sinopsis

@@ -22,6 +22,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11503050-el-viento-en-los-sauces)'
+sexo_autor: V
+paginas: 313
+nota: 3,5
 ---
 
 ## Sinopsis

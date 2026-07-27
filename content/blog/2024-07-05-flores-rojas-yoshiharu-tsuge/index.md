@@ -16,6 +16,9 @@ editoriales:
 - Gallo Nero
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60766670-flores-rojas)'
+sexo_autor: V
+paginas: 256
+nota: 3,75
 ---
 
 ## Sinopsis

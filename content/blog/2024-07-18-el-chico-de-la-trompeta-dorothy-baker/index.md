@@ -25,6 +25,9 @@ editoriales:
 - Contraseña
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18663334-el-chico-de-la-trompeta)'
+sexo_autor: H
+paginas: 256
+nota: 4,75
 ---
 
 ## Sinopsis

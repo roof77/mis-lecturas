@@ -23,6 +23,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123509137-vendimos-nuestras-almas)'
+sexo_autor: V
+paginas: 320
+nota: 4,5
 ---
 
 ## Sinopsis

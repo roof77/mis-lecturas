@@ -22,6 +22,9 @@ editoriales:
 - Farrar, Straus and Giroux
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18490657-carsick)'
+sexo_autor: V
+paginas: 323
+nota: '3'
 ---
 
 ## Sinopsis

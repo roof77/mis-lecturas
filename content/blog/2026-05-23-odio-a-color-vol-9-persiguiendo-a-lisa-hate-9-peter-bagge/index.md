@@ -15,6 +15,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40224954-odio-a-color-vol-9)'
+sexo_autor: V
+paginas: 52
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -37,4 +40,4 @@ image:
 
 - **Inicio:** 2026/05/23
 - **Fin:** 2026/05/23
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

@@ -23,6 +23,9 @@ editoriales:
 - Ático de los Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27139076-h-de-halc-n)'
+sexo_autor: H
+paginas: 384
+nota: '3'
 ---
 
 ## Sinopsis

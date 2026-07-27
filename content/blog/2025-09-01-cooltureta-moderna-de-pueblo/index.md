@@ -21,6 +21,9 @@ editoriales:
 - Lumen
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22089227-cooltureta)'
+sexo_autor: H
+paginas: 127
+nota: '4'
 ---
 
 ## Sinopsis

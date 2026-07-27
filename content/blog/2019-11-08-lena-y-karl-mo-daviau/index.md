@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46268541-lena-y-karl)'
+sexo_autor: H
+paginas: 320
+nota: '3'
 ---
 
 ## Sinopsis

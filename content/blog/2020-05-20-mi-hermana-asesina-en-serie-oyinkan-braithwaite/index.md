@@ -23,6 +23,9 @@ editoriales:
 - Alpha Decay
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52943290-mi-hermana-asesina-en-serie)'
+sexo_autor: H
+paginas: 200
+nota: '4'
 ---
 
 ## Sinopsis

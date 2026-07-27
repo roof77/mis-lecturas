@@ -23,6 +23,9 @@ editoriales:
 - Tusquets
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60117883-soy-una-tonta-por-quererte)'
+sexo_autor: H
+paginas: 224
+nota: 3,5
 ---
 
 ## Sinopsis

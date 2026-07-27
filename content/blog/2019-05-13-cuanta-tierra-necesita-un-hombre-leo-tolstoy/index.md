@@ -27,6 +27,9 @@ editoriales:
 - Nordica Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12178983-cu-nta-tierra-necesita-un-hombre)'
+sexo_autor: V
+paginas: 66
+nota: '4'
 ---
 
 ## Sinopsis

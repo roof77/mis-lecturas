@@ -24,6 +24,9 @@ editoriales:
 - Tusquets
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59732097-luna-llena)'
+sexo_autor: V
+paginas: 160
+nota: '4'
 ---
 
 ## Sinopsis

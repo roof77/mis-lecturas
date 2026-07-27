@@ -23,6 +23,9 @@ editoriales:
 - ALIANZA EDITORIAL
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57310370-yo-que-nunca-supe-de-los-hombres)'
+sexo_autor: H
+paginas: 192
+nota: 4,5
 ---
 
 ## Sinopsis

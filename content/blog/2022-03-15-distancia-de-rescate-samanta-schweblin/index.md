@@ -23,6 +23,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23153581-distancia-de-rescate)'
+sexo_autor: H
+paginas: 128
+nota: 3,5
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Ediciones Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15876.Harry_Potter_y_la_Orden_del_F_nix)'
+sexo_autor: H
+paginas: 896
+nota: '3'
 ---
 
 ## Sinopsis

@@ -17,6 +17,9 @@ editoriales:
 - UNKNO
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/297885.Odio_6)'
+sexo_autor: V
+paginas: 52
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -40,4 +43,4 @@ Collects an alternative comic from the 1990s that chronicles the misadventures a
 
 - **Inicio:** 2026/05/20
 - **Fin:** 2026/05/20
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

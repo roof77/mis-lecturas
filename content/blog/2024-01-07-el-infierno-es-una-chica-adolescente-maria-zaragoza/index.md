@@ -15,6 +15,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/198244493-el-infierno-es-una-chica-adolescente)'
+sexo_autor: H
+paginas: 208
+nota: '4'
 ---
 
 ## Sinopsis

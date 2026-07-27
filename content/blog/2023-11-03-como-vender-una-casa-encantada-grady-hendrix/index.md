@@ -23,6 +23,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/183534849-c-mo-vender-una-casa-encantada)'
+sexo_autor: V
+paginas: 440
+nota: '4'
 ---
 
 ## Sinopsis

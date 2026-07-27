@@ -14,6 +14,9 @@ editoriales:
 - Ediciones Glénat España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21899410-hypocrite)'
+sexo_autor: V
+paginas: 64
+nota: 3,5
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Austral
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49903411-la-m-quina-del-tiempo)'
+sexo_autor: V
+paginas: 224
+nota: '5'
 ---
 
 ## Sinopsis

@@ -22,6 +22,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50689969-credo-rose-wilder-lane-la-feminista-libertaria)'
+sexo_autor: V
+paginas: 116
+nota: Bien
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ Credo es una inmersión profundamente documentada en una figura histórica cuyas
 
 - **Inicio:** 2026/06/26
 - **Fin:** 2026/06/26
-- **Calificación:** Bien/5
+- **Calificación:** Bien

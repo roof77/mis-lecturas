@@ -35,6 +35,9 @@ editoriales:
 - Quaterni
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34615030-kaiki)'
+sexo_autor: O
+paginas: 208
+nota: 3,5
 ---
 
 ## Sinopsis

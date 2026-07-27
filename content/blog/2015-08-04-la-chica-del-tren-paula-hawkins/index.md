@@ -23,6 +23,9 @@ editoriales:
 - Planeta Internacional
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25270785-la-chica-del-tren)'
+sexo_autor: H
+paginas: 496
+nota: '3'
 ---
 
 ## Sinopsis

@@ -22,6 +22,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24798977-hombres-buenos)'
+sexo_autor: V
+paginas: 583
+nota: 1,25
 ---
 
 ## Sinopsis

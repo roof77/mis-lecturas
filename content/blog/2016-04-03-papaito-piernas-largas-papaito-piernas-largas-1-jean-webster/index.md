@@ -23,6 +23,9 @@ editoriales:
 - Biblok
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9418200-papa-to-piernas-largas)'
+sexo_autor: H
+paginas: 222
+nota: '4'
 ---
 
 ## Sinopsis

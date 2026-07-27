@@ -24,6 +24,9 @@ editoriales:
 - Contraseña
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17913368-buen-comportamiento)'
+sexo_autor: H
+paginas: 354
+nota: '3'
 ---
 
 ## Sinopsis

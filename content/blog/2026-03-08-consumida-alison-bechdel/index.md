@@ -24,6 +24,9 @@ editoriales:
 - Reservoir Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/236081997-consumida)'
+sexo_autor: H
+paginas: 272
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +54,4 @@ Sin embargo, su necesidad de obtener ingresos, sus propias contradicciones, y ta
 
 - **Inicio:** 2026/03/07
 - **Fin:** 2026/03/08
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

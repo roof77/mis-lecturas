@@ -22,6 +22,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/199270192-todas-las-criaturas-grandes-y-peque-as-aventuras-y-desventuras-de-un-ve)'
+sexo_autor: V
+paginas: 304
+nota: '4'
 ---
 
 ## Sinopsis

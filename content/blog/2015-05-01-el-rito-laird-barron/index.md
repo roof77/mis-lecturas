@@ -24,6 +24,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22878772-el-rito)'
+sexo_autor: V
+paginas: 352
+nota: '4'
 ---
 
 ## Sinopsis

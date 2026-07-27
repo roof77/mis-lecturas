@@ -21,6 +21,9 @@ editoriales:
 - Nevsky Prospects
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11061693-rusia-g-tica)'
+sexo_autor: V
+paginas: 192
+nota: '4'
 ---
 
 ## Sinopsis

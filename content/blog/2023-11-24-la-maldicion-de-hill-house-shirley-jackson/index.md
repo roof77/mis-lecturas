@@ -24,6 +24,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12604607-la-maldici-n-de-hill-house)'
+sexo_autor: H
+paginas: 256
+nota: 3,5
 ---
 
 ## Sinopsis

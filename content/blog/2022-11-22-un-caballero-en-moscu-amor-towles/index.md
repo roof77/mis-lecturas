@@ -24,6 +24,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42069120-un-caballero-en-mosc)'
+sexo_autor: V
+paginas: 509
+nota: 4,5
 ---
 
 ## Sinopsis

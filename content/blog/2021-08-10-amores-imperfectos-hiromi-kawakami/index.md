@@ -21,6 +21,9 @@ editoriales:
 - Acantilado
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32994995-amores-imperfectos)'
+sexo_autor: H
+paginas: 144
+nota: '4'
 ---
 
 ## Sinopsis

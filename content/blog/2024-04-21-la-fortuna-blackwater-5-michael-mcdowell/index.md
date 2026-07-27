@@ -24,6 +24,9 @@ editoriales:
 - BEAT
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/71448863-la-fortuna)'
+sexo_autor: V
+paginas: 186
+nota: 3,5
 ---
 
 ## Sinopsis

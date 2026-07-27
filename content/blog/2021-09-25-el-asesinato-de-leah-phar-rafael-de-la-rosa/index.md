@@ -16,6 +16,9 @@ editoriales:
 - Editorial Cerbero
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58562667-el-asesinato-de-leah-phar)'
+sexo_autor: V
+paginas: 246
+nota: 2,5
 ---
 
 ## Sinopsis

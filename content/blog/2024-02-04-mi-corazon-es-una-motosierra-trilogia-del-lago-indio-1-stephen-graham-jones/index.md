@@ -23,6 +23,9 @@ editoriales:
 - La Biblioteca de Carfax
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/200412496-mi-coraz-n-es-una-motosierra)'
+sexo_autor: V
+paginas: 464
+nota: 4,5
 ---
 
 ## Sinopsis

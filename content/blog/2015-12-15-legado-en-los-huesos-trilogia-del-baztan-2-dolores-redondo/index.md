@@ -22,6 +22,9 @@ editoriales:
 - Destino
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18741291-legado-en-los-huesos)'
+sexo_autor: H
+paginas: 560
+nota: '3'
 ---
 
 ## Sinopsis

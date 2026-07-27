@@ -24,6 +24,9 @@ editoriales:
 - Edhasa
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/908350.La_plaza_del_diamante)'
+sexo_autor: H
+paginas: 256
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ La plaza del Diamante ha sido reconocida como una de las mejores novelas catalan
 
 - **Inicio:** 2026/02/25
 - **Fin:** 2026/03/06
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

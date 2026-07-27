@@ -23,6 +23,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55316119-la-cantina-de-medianoche-3)'
+sexo_autor: V
+paginas: 296
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el ba
 
 - **Inicio:** 2026/03/22
 - **Fin:** 2026/03/24
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

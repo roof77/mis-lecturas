@@ -24,6 +24,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25333700-justicia-auxiliar)'
+sexo_autor: H
+paginas: 416
+nota: '4'
 ---
 
 ## Sinopsis

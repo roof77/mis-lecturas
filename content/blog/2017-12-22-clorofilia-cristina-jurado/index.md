@@ -18,6 +18,9 @@ editoriales:
 - Editorial Cerbero
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34599969-clorofilia)'
+sexo_autor: H
+paginas: 142
+nota: '2'
 ---
 
 ## Sinopsis

@@ -26,6 +26,9 @@ editoriales:
 - Duermevela
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59130247-la-mujer-de-terracota)'
+sexo_autor: H
+paginas: 100
+nota: 3,75
 ---
 
 ## Sinopsis

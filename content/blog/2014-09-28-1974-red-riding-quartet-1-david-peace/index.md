@@ -23,6 +23,9 @@ editoriales:
 - Alba
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9643298-1974)'
+sexo_autor: V
+paginas: 454
+nota: '3'
 ---
 
 ## Sinopsis

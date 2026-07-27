@@ -23,6 +23,9 @@ editoriales:
 - Alianza Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59404134-cuentos-victorianos-de-navidad)'
+sexo_autor: O
+paginas: 400
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -45,4 +48,4 @@ El extenso periodo victoriano fue, por diversas y variadas circunstancias, quien
 
 - **Inicio:** 2025/12/23
 - **Fin:** 2026/01/10
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

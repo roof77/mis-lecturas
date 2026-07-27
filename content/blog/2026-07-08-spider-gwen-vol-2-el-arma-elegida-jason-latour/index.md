@@ -14,6 +14,9 @@ editoriales:
 - Panini Comics España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39099830-spider-gwen-vol-2)'
+sexo_autor: V
+paginas: 160
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -37,4 +40,4 @@ Contiene Spider-Gwen v2, 9-15 y Annual 1 USA
 
 - **Inicio:** 2026/07/08
 - **Fin:** 2026/07/08
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

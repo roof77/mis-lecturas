@@ -24,6 +24,9 @@ editoriales:
 - Cabaret Voltaire
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49394460-los-a-os)'
+sexo_autor: H
+paginas: 322
+nota: '3'
 ---
 
 ## Sinopsis

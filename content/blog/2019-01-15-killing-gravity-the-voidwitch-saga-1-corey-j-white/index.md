@@ -22,6 +22,9 @@ editoriales:
 - Tor.com
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33091587-killing-gravity)'
+sexo_autor: V
+paginas: 176
+nota: '3'
 ---
 
 ## Sinopsis

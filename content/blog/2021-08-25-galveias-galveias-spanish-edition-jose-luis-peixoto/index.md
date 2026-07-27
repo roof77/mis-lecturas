@@ -20,6 +20,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32332855-galveias-galveias)'
+sexo_autor: V
+paginas: 215
+nota: 4,25
 ---
 
 ## Sinopsis

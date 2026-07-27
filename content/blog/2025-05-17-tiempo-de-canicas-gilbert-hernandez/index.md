@@ -20,6 +20,9 @@ editoriales:
 - Ediciones La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22079435-tiempo-de-canicas)'
+sexo_autor: V
+paginas: 148
+nota: '3'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Acantilado
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9813860-winesburg-ohio)'
+sexo_autor: V
+paginas: 256
+nota: '4'
 ---
 
 ## Sinopsis

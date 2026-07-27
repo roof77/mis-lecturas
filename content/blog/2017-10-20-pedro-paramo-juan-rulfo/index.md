@@ -25,6 +25,9 @@ editoriales:
 - Editorial RM - Fundación Juan Rulfo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38667.Pedro_P_ramo)'
+sexo_autor: V
+paginas: 136
+nota: '4'
 ---
 
 ## Sinopsis

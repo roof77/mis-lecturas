@@ -23,6 +23,9 @@ editoriales:
 - Alpha Decay
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25281370-lo-contrario-de-la-soledad)'
+sexo_autor: H
+paginas: 208
+nota: '4'
 ---
 
 ## Sinopsis

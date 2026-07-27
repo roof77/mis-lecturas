@@ -24,6 +24,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38737360-sex-criminals-vol-2)'
+sexo_autor: V
+paginas: 128
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -50,4 +53,4 @@ En el segundo volumen de Sex Criminals, los elementos de thriller cobran un peso
 
 - **Inicio:** 2026/06/23
 - **Fin:** 2026/06/23
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

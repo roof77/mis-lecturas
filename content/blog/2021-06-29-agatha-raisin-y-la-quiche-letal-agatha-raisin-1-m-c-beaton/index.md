@@ -24,6 +24,9 @@ editoriales:
 - Circulo de Lectores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22556556-agatha-raisin-y-la-quiche-letal)'
+sexo_autor: H
+paginas: 274
+nota: 3,5
 ---
 
 ## Sinopsis

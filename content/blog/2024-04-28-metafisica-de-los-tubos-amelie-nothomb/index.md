@@ -23,6 +23,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/71530.Metaf_sica_de_los_tubos)'
+sexo_autor: H
+paginas: 144
+nota: 3,75
 ---
 
 ## Sinopsis

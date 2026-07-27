@@ -20,6 +20,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22753996-sex-criminals-8)'
+sexo_autor: V
+paginas: 22
+nota: '3'
 ---
 
 ## Sinopsis

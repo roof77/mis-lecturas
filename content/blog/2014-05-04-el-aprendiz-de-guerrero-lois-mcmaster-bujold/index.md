@@ -23,6 +23,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3389882-el-aprendiz-de-guerrero)'
+sexo_autor: V
+paginas: 432
+nota: '4'
 ---
 
 ## Sinopsis

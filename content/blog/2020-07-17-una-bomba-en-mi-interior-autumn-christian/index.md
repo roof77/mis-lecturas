@@ -25,6 +25,9 @@ editoriales:
 - Orciny Press
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52085771-una-bomba-en-mi-interior)'
+sexo_autor: H
+paginas: 270
+nota: '3'
 ---
 
 ## Sinopsis

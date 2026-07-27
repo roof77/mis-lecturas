@@ -21,6 +21,9 @@ editoriales:
 - Nórdica Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/227931868-quince-a-os)'
+sexo_autor: H
+paginas: 184
+nota: Bien
 ---
 
 ## Sinopsis
@@ -50,4 +53,4 @@ La simulación de su madre sorprende a Paula, que ahora está rodeada de mentira
 
 - **Inicio:** 2026/05/17
 - **Fin:** 2026/06/04
-- **Calificación:** Bien/5
+- **Calificación:** Bien

@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202795005-el-dique)'
+sexo_autor: V
+paginas: 272
+nota: 3,5
 ---
 
 ## Sinopsis

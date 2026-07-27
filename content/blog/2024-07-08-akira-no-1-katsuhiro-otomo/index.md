@@ -23,6 +23,9 @@ editoriales:
 - NORMA EDITORIAL, S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13052287-akira-no-1)'
+sexo_autor: V
+paginas: 362
+nota: '4'
 ---
 
 ## Sinopsis

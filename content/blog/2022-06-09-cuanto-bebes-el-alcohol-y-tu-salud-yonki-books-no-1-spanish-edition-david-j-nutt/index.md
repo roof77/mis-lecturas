@@ -25,6 +25,9 @@ editoriales:
 - Yonki Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60655387-cu-nto-bebes)'
+sexo_autor: V
+paginas: 360
+nota: 4,5
 ---
 
 ## Sinopsis

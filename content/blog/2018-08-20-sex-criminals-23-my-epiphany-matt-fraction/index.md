@@ -17,6 +17,9 @@ editoriales:
 - Image
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38218852-sex-criminals-23)'
+sexo_autor: V
+paginas: 28
+nota: '3'
 ---
 
 ## Sinopsis

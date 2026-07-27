@@ -24,6 +24,9 @@ editoriales:
 - Obscura
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58859756-ring-shout-nuestro-c-ntico)'
+sexo_autor: V
+paginas: 204
+nota: '4'
 ---
 
 ## Sinopsis

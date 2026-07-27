@@ -24,6 +24,9 @@ editoriales:
 - Duomo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31700094-me-llamo-lucy-barton)'
+sexo_autor: H
+paginas: 208
+nota: '4'
 ---
 
 ## Sinopsis

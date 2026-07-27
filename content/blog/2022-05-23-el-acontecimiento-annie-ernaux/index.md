@@ -25,6 +25,9 @@ editoriales:
 - Tusquets Editores S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/466265.El_acontecimiento)'
+sexo_autor: H
+paginas: 128
+nota: '4'
 ---
 
 ## Sinopsis

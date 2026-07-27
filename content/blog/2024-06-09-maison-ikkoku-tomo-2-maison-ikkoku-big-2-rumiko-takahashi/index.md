@@ -22,6 +22,9 @@ editoriales:
 - Ediciones Glénat España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345411.Maison_Ikkoku_tomo_2)'
+sexo_autor: H
+paginas: 356
+nota: 3,75
 ---
 
 ## Sinopsis

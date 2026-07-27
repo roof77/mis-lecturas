@@ -16,6 +16,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25479309-pronto-ser-de-noche)'
+sexo_autor: V
+paginas: 256
+nota: '3'
 ---
 
 ## Sinopsis

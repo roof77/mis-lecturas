@@ -17,6 +17,9 @@ editoriales:
 - ECC Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30345572-phil-mon-integral-01-de-3)'
+sexo_autor: V
+paginas: 304
+nota: 4,5
 ---
 
 ## Sinopsis

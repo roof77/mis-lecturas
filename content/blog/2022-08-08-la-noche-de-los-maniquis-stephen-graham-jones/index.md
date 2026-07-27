@@ -24,6 +24,9 @@ editoriales:
 - La Biblioteca de Carfax
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61135970-la-noche-de-los-maniqu-s)'
+sexo_autor: V
+paginas: 156
+nota: '4'
 ---
 
 ## Sinopsis

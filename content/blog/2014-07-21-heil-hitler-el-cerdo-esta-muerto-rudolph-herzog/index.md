@@ -24,6 +24,9 @@ editoriales:
 - Capitan Swing
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22517674-heil-hitler-el-cerdo-est-muerto)'
+sexo_autor: V
+paginas: 224
+nota: '4'
 ---
 
 ## Sinopsis

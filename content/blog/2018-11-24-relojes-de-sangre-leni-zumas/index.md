@@ -24,6 +24,9 @@ editoriales:
 - Destino
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40624107-relojes-de-sangre)'
+sexo_autor: H
+paginas: 412
+nota: '4'
 ---
 
 ## Sinopsis

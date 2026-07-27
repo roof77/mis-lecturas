@@ -21,6 +21,9 @@ autores:
 - Charlotte Perkins Gilman
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39690043-el-tapiz-amarillo)'
+sexo_autor: H
+paginas: 40
+nota: 4,5
 ---
 
 ## Sinopsis

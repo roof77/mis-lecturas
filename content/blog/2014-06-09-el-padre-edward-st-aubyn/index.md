@@ -24,6 +24,9 @@ editoriales:
 - Mondadori
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18801636-el-padre)'
+sexo_autor: V
+paginas: 400
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Alianza
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41731406-ah-abajo-entre-ra-ces-y-huesos)'
+sexo_autor: H
+paginas: 200
+nota: '4'
 ---
 
 ## Sinopsis

@@ -22,6 +22,9 @@ editoriales:
 - Sexto Piso
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37541805-apegos-feroces)'
+sexo_autor: H
+paginas: 195
+nota: '4'
 ---
 
 ## Sinopsis

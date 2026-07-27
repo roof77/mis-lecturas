@@ -24,6 +24,9 @@ editoriales:
 - Roca Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34651531-the-power)'
+sexo_autor: H
+paginas: 352
+nota: '4'
 ---
 
 ## Sinopsis

@@ -22,6 +22,9 @@ editoriales:
 - Ediciones Glénat España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345426.Maison_Ikkoku_tomo_4)'
+sexo_autor: H
+paginas: 340
+nota: '4'
 ---
 
 ## Sinopsis

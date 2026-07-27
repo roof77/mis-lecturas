@@ -24,6 +24,9 @@ editoriales:
 - los tres editores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/209302470-caminar-por-aguas-cristalinas-en-una-piscina-pintada-de-negro)'
+sexo_autor: H
+paginas: 324
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +50,4 @@ Con los textos incluidos en este volumen, inéditos en castellano, la autora ocu
 
 - **Inicio:** 2026/03/05
 - **Fin:** 2026/03/11
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

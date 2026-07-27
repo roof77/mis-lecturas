@@ -25,6 +25,9 @@ editoriales:
 - La biblioteca de Carfax
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35504947-experimental-film)'
+sexo_autor: H
+paginas: 354
+nota: 3,75
 ---
 
 ## Sinopsis

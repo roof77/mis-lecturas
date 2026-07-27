@@ -15,6 +15,9 @@ editoriales:
 - La Fuga Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25720480-el-condominio)'
+sexo_autor: V
+paginas: 158
+nota: '3'
 ---
 
 ## Sinopsis

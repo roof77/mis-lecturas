@@ -22,6 +22,9 @@ editoriales:
 - La Biblioteca de Carfax
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/152047655-ac-rcate)'
+sexo_autor: H
+paginas: 224
+nota: '4'
 ---
 
 ## Sinopsis

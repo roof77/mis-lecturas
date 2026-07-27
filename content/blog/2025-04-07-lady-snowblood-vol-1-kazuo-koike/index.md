@@ -19,6 +19,9 @@ editoriales:
 - Planeta Cómic
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/120802099-lady-snowblood-vol-1)'
+sexo_autor: V
+paginas: 512
+nota: '5'
 ---
 
 ## Sinopsis

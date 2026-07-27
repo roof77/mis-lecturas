@@ -25,6 +25,9 @@ editoriales:
 - Errata Naturae
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22734631-la-chica-de-ojos-verdes)'
+sexo_autor: H
+paginas: 336
+nota: '4'
 ---
 
 ## Sinopsis

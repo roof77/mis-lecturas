@@ -23,6 +23,9 @@ editoriales:
 - Baile del Sol
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17840080-stoner)'
+sexo_autor: V
+paginas: 242
+nota: '5'
 ---
 
 ## Sinopsis

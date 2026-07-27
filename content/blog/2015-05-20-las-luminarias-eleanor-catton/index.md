@@ -23,6 +23,9 @@ editoriales:
 - 'Siruela '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23053532-las-luminarias)'
+sexo_autor: H
+paginas: 808
+nota: '4'
 ---
 
 ## Sinopsis

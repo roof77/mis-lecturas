@@ -22,6 +22,9 @@ editoriales:
 - Barbara Fiore
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25971303-hilda-y-el-trol)'
+sexo_autor: V
+paginas: 44
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -49,4 +52,4 @@ Un emocionante cuento para niños y adultos.
 
 - **Inicio:** 2026/02/15
 - **Fin:** 2026/02/15
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

@@ -24,6 +24,9 @@ editoriales:
 - Sajalín
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12534865-perro-come-perro)'
+sexo_autor: V
+paginas: 339
+nota: '4'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18270865-espejismo)'
+sexo_autor: V
+paginas: 46
+nota: '4'
 ---
 
 ## Sinopsis

@@ -25,6 +25,9 @@ editoriales:
 - Booket
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6745890-la-princesa-prometida)'
+sexo_autor: V
+paginas: 480
+nota: '4'
 ---
 
 ## Sinopsis

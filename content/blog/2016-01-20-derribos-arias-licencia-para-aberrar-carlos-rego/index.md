@@ -14,6 +14,9 @@ editoriales:
 - 66rpm
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28618687-derribos-arias-licencia-para-aberrar)'
+sexo_autor: V
+paginas: 141
+nota: '4'
 ---
 
 ## Sinopsis

@@ -15,6 +15,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31374678-el-desapego-es-una-manera-de-querernos)'
+sexo_autor: H
+paginas: 304
+nota: '3'
 ---
 
 ## Sinopsis

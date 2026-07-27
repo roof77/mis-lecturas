@@ -24,6 +24,9 @@ editoriales:
 - Alianza Runas
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58433415-la-casa-al-final-de-needless-street)'
+sexo_autor: H
+paginas: 320
+nota: 3,25
 ---
 
 ## Sinopsis

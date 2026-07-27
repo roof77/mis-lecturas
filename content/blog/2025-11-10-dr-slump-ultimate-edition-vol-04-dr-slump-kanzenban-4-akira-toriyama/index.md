@@ -16,6 +16,9 @@ editoriales:
 - Planeta DeAgostini
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15754079-dr-slump-ultimate-edition-vol-04)'
+sexo_autor: V
+paginas: 239
+nota: '4'
 ---
 
 ## Sinopsis

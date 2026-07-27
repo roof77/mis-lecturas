@@ -14,6 +14,9 @@ editoriales:
 - Literaturas Com Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21654488-m-sica-moderna)'
+sexo_autor: V
+paginas: 111
+nota: '4'
 ---
 
 ## Sinopsis

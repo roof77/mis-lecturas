@@ -22,6 +22,9 @@ editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13614119-astro-city-6)'
+sexo_autor: V
+paginas: 256
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -45,4 +48,4 @@ Astro City, la década de los 70. Nixon es el actual y polémico presidente; el 
 
 - **Inicio:** 2026/02/28
 - **Fin:** 2026/02/28
-- **Calificación:** Imprescindible/5
+- **Calificación:** Imprescindible

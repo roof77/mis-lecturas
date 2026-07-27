@@ -23,6 +23,9 @@ editoriales:
 - Ediciones Glénat España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15769086-maison-ikkoku-tomo-5)'
+sexo_autor: H
+paginas: 344
+nota: '4'
 ---
 
 ## Sinopsis

@@ -25,6 +25,9 @@ editoriales:
 - Duermevela
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61401172-el-se-or-de-los-djinn)'
+sexo_autor: V
+paginas: 523
+nota: 4,75
 ---
 
 ## Sinopsis

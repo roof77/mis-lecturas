@@ -24,6 +24,9 @@ editoriales:
 - Crononauta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49502990-binti-la-mascarada-nocturna)'
+sexo_autor: H
+paginas: 266
+nota: '2'
 ---
 
 ## Sinopsis

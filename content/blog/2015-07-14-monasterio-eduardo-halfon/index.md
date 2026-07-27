@@ -19,6 +19,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22313983-monasterio)'
+sexo_autor: V
+paginas: 58
+nota: '3'
 ---
 
 ## Sinopsis

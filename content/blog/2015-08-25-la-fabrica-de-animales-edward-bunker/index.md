@@ -24,6 +24,9 @@ editoriales:
 - Sajalín Editores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28637008-la-f-brica-de-animales)'
+sexo_autor: V
+paginas: 315
+nota: '4'
 ---
 
 ## Sinopsis

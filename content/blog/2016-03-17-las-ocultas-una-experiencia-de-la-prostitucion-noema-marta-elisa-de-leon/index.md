@@ -14,6 +14,9 @@ editoriales:
 - Turner
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29434242-las-ocultas-una-experiencia-de-la-prostituci-n)'
+sexo_autor: H
+paginas: 255
+nota: '1'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28668555-armada)'
+sexo_autor: V
+paginas: 428
+nota: '3'
 ---
 
 ## Sinopsis

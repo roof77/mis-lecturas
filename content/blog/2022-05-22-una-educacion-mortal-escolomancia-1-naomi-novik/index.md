@@ -23,6 +23,9 @@ editoriales:
 - Umbriel
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55189714-una-educacion-mortal)'
+sexo_autor: H
+paginas: 352
+nota: 4,5
 ---
 
 ## Sinopsis

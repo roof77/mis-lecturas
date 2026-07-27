@@ -24,6 +24,9 @@ editoriales:
 - Seix Barral
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39287181-lincoln-en-el-bardo)'
+sexo_autor: V
+paginas: 440
+nota: 4,5
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/92984.Rock_Springs)'
+sexo_autor: V
+paginas: 256
+nota: '4'
 ---
 
 ## Sinopsis

@@ -15,6 +15,9 @@ editoriales:
 - Equipo Sirius
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9547513-la-silla)'
+sexo_autor: V
+paginas: 210
+nota: '2'
 ---
 
 ## Sinopsis

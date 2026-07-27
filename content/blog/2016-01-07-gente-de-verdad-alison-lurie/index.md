@@ -18,6 +18,9 @@ editoriales:
 - Alba Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18753133-gente-de-verdad)'
+sexo_autor: H
+paginas: 184
+nota: '4'
 ---
 
 ## Sinopsis

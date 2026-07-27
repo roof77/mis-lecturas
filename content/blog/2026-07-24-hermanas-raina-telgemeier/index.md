@@ -23,6 +23,9 @@ editoriales:
 - Maeva Young
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34810287-hermanas)'
+sexo_autor: H
+paginas: 208
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -47,4 +50,4 @@ Raina siempre había querido tener una hermana, pero cuando nació Amara las cos
 
 - **Inicio:** 2026/07/24
 - **Fin:** 2026/07/24
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

@@ -25,6 +25,9 @@ editoriales:
 - Destino
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/293393.Una_soledad_demasiado_ruidosa)'
+sexo_autor: V
+paginas: 160
+nota: '1'
 ---
 
 ## Sinopsis

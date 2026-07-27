@@ -16,6 +16,9 @@ editoriales:
 - Mondo Brutto
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8859580-los-millones)'
+sexo_autor: V
+paginas: 205
+nota: '3'
 ---
 
 ## Sinopsis

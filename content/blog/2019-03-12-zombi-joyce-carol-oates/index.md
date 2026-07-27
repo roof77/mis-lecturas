@@ -25,6 +25,9 @@ editoriales:
 - Debolsillo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2760667-zombi)'
+sexo_autor: H
+paginas: 216
+nota: '3'
 ---
 
 ## Sinopsis

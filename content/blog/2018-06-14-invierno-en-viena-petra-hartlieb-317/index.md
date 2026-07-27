@@ -25,6 +25,9 @@ editoriales:
 - Siruela
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36243131-invierno-en-viena)'
+sexo_autor: H
+paginas: 152
+nota: '4'
 ---
 
 ## Sinopsis

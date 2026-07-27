@@ -17,6 +17,9 @@ editoriales:
 - Dark horse
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25543298-lady-killer-5)'
+sexo_autor: H
+paginas: 28
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -39,4 +42,4 @@ Josie closes in on the truth behind who really wants to end her life as a cheerf
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/05
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

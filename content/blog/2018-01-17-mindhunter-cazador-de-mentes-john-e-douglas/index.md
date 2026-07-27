@@ -24,6 +24,9 @@ editoriales:
 - Crítica
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37543890-mindhunter)'
+sexo_autor: V
+paginas: 432
+nota: '3'
 ---
 
 ## Sinopsis

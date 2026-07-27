@@ -24,6 +24,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35086757-los-amores-de-nishino)'
+sexo_autor: H
+paginas: 202
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -84,4 +87,4 @@ Revista Paula (Chile)
 
 - **Inicio:** 2026/04/14
 - **Fin:** 2026/04/16
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

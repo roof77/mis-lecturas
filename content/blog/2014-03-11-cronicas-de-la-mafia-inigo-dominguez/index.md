@@ -16,6 +16,9 @@ editoriales:
 - Libros del K.O.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20627474-cr-nicas-de-la-mafia)'
+sexo_autor: V
+paginas: 431
+nota: '4'
 ---
 
 ## Sinopsis

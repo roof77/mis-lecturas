@@ -24,6 +24,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57753596-d-nde-est-s-mundo-bello)'
+sexo_autor: H
+paginas: 326
+nota: 3,5
 ---
 
 ## Sinopsis

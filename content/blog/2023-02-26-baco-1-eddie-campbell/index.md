@@ -16,6 +16,9 @@ editoriales:
 - 'Astiberri '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25451026-baco-1)'
+sexo_autor: V
+paginas: 216
+nota: '3'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/181903268-nada-es-verdad)'
+sexo_autor: H
+paginas: 216
+nota: '4'
 ---
 
 ## Sinopsis

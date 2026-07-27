@@ -24,6 +24,9 @@ editoriales:
 - Crononauta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37877850-binti)'
+sexo_autor: H
+paginas: 110
+nota: '4'
 ---
 
 ## Sinopsis

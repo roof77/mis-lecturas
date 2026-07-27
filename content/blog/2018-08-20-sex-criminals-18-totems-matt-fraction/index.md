@@ -20,6 +20,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34667740-sex-criminals-18)'
+sexo_autor: V
+paginas: 32
+nota: '3'
 ---
 
 ## Sinopsis

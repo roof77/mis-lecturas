@@ -23,6 +23,9 @@ editoriales:
 - Marvel Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/343662.Daredevil)'
+sexo_autor: V
+paginas: 176
+nota: '5'
 ---
 
 ## Sinopsis

@@ -21,6 +21,9 @@ editoriales:
 - Sajalín Editores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25442541-los-reyes-del-jaco)'
+sexo_autor: V
+paginas: 267
+nota: '5'
 ---
 
 ## Sinopsis

@@ -16,6 +16,9 @@ editoriales:
 - ASTIBERRI EDICIONES
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/235058109-la-cantina-de-medianoche-8)'
+sexo_autor: V
+paginas: 296
+nota: Muy recomendable
 ---
 
 ## Ficha del libro
@@ -34,4 +37,4 @@ image:
 
 - **Inicio:** 2026/06/13
 - **Fin:** 2026/06/20
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

@@ -24,6 +24,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50065849-los-testamentos)'
+sexo_autor: H
+paginas: 506
+nota: '3'
 ---
 
 ## Sinopsis

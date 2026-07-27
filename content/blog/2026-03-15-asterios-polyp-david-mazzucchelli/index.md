@@ -21,6 +21,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24978609-asterios-polyp)'
+sexo_autor: V
+paginas: 344
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +50,4 @@ image:
 
 - **Inicio:** 2026/03/11
 - **Fin:** 2026/03/15
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

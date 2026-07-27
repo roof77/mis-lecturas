@@ -30,6 +30,9 @@ editoriales:
 - Triskel Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36387329-i-premio-ripley)'
+sexo_autor: H
+paginas: 228
+nota: '4'
 ---
 
 ## Sinopsis

@@ -25,6 +25,9 @@ editoriales:
 - Duermevela Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/219473684-aunque-ya-supiera-el-final)'
+sexo_autor: H
+paginas: 165
+nota: 3,75
 ---
 
 ## Sinopsis

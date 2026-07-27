@@ -25,6 +25,9 @@ editoriales:
 - Acantilado
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18590777-las-dos-amigas-y-el-envenenamiento)'
+sexo_autor: V
+paginas: 120
+nota: '5'
 ---
 
 ## Sinopsis

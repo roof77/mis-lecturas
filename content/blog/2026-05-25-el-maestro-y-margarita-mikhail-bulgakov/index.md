@@ -25,6 +25,9 @@ editoriales:
 - Navona
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61217133-el-maestro-y-margarita)'
+sexo_autor: V
+paginas: 560
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -50,4 +53,4 @@ Una tarde de primavera, el Diablo sale de las sombras hacia Moscú arrastrando e
 
 - **Inicio:** 2026/04/17
 - **Fin:** 2026/05/25
-- **Calificación:** Imprescindible/5
+- **Calificación:** Imprescindible

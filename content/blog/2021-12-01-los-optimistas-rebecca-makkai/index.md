@@ -24,6 +24,9 @@ editoriales:
 - Sexto Piso
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59353944-los-optimistas)'
+sexo_autor: H
+paginas: 572
+nota: '4'
 ---
 
 ## Sinopsis

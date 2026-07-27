@@ -23,6 +23,9 @@ editoriales:
 - Scholastic en Español
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30254974-fantasmas)'
+sexo_autor: H
+paginas: 256
+nota: 3,75
 ---
 
 ## Sinopsis

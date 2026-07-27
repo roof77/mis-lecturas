@@ -23,6 +23,9 @@ editoriales:
 - ASTIBERRI EDICIONES
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50353594-la-cantina-de-medianoche-2)'
+sexo_autor: V
+paginas: 296
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ C’è un piccolo ristorante, in un vicoletto di Shinjuku, a Tokyo. Apre a mezza
 
 - **Inicio:** 2026/03/19
 - **Fin:** 2026/03/22
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

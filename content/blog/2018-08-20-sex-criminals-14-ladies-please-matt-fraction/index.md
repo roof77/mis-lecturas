@@ -16,6 +16,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26057237-sex-criminals-14)'
+sexo_autor: V
+paginas: 23
+nota: '3'
 ---
 
 ## Sinopsis

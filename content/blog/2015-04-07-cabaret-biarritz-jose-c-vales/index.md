@@ -16,6 +16,9 @@ editoriales:
 - Destino
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24816973-cabaret-biarritz)'
+sexo_autor: V
+paginas: 456
+nota: '4'
 ---
 
 ## Sinopsis

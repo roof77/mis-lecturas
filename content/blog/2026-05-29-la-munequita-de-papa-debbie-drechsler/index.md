@@ -21,6 +21,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2420469.La_mu_equita_de_pap_)'
+sexo_autor: H
+paginas: 96
+nota: Bien
 ---
 
 ## Sinopsis
@@ -43,4 +46,4 @@ Una estremecedora historia de incesto magistralmente narrada por una de sus víc
 
 - **Inicio:** 2026/05/29
 - **Fin:** 2026/05/29
-- **Calificación:** Bien/5
+- **Calificación:** Bien

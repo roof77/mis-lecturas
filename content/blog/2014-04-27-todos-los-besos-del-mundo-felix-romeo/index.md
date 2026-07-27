@@ -14,6 +14,9 @@ editoriales:
 - Xordica Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16096920-todos-los-besos-del-mundo)'
+sexo_autor: V
+paginas: 144
+nota: '4'
 ---
 
 ## Sinopsis

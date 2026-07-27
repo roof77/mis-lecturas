@@ -21,6 +21,9 @@ editoriales:
 - Ediciones Alfabia
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9891064-sukkwan-island)'
+sexo_autor: V
+paginas: 210
+nota: '4'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Editorial Periférica
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/126517815-un-caballero-a-la-deriva)'
+sexo_autor: V
+paginas: 116
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -49,4 +52,4 @@ Un caballero a la deriva es una novella visionaria, una pieza magistral por su s
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/10
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

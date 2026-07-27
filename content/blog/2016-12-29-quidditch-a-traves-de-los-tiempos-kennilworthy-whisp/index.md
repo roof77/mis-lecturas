@@ -24,6 +24,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9395411-quidditch-a-trav-s-de-los-tiempos)'
+sexo_autor: H
+paginas: 73
+nota: '2'
 ---
 
 ## Sinopsis

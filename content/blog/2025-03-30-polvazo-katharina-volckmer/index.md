@@ -24,6 +24,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/222779748-polvazo)'
+sexo_autor: H
+paginas: 168
+nota: '3'
 ---
 
 ## Sinopsis

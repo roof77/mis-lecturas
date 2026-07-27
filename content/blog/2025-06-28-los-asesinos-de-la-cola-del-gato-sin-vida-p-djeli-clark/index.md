@@ -25,6 +25,9 @@ editoriales:
 - Obscura Editorial, SL
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/221482309-los-asesinos-de-la-cola-del-gato-sin-vida)'
+sexo_autor: V
+paginas: 214
+nota: '4'
 ---
 
 ## Sinopsis

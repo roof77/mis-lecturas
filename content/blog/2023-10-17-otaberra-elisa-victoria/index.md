@@ -19,6 +19,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/183535471-otaberra)'
+sexo_autor: H
+paginas: 192
+nota: '4'
 ---
 
 ## Sinopsis

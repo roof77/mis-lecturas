@@ -22,6 +22,9 @@ editoriales:
 - Lunwerg Editores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36351146-el-final-de-todos-los-agostos)'
+sexo_autor: V
+paginas: 152
+nota: 3,25
 ---
 
 ## Sinopsis

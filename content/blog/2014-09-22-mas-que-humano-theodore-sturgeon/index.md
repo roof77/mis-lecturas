@@ -23,6 +23,9 @@ editoriales:
 - Ediciones Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8138083-m-s-que-humano)'
+sexo_autor: V
+paginas: 240
+nota: '3'
 ---
 
 ## Sinopsis

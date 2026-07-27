@@ -24,6 +24,9 @@ editoriales:
 - ZETA BOLSILLO
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8510514-hijos-de-hombres)'
+sexo_autor: H
+paginas: 352
+nota: '3'
 ---
 
 ## Sinopsis

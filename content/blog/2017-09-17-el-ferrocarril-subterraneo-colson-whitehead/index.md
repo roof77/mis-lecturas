@@ -24,6 +24,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34921069-el-ferrocarril-subterr-neo)'
+sexo_autor: V
+paginas: 320
+nota: '3'
 ---
 
 ## Sinopsis

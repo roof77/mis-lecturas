@@ -22,6 +22,9 @@ editoriales:
 - Ediciones Glénat España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345406.Maison_Ikkoku_3)'
+sexo_autor: H
+paginas: 340
+nota: 3,75
 ---
 
 ## Sinopsis

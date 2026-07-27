@@ -17,6 +17,9 @@ editoriales:
 - VERGARA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43580250-educar-sin-perder-los-nervios)'
+sexo_autor: H
+paginas: 391
+nota: '3'
 ---
 
 ## Sinopsis

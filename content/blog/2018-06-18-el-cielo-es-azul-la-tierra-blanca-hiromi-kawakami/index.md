@@ -25,6 +25,9 @@ editoriales:
 - Acantilado
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6832714-el-cielo-es-azul-la-tierra-blanca)'
+sexo_autor: H
+paginas: 214
+nota: 4,5
 ---
 
 ## Sinopsis

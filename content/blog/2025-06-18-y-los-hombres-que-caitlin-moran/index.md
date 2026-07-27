@@ -24,6 +24,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/229262898-y-los-hombres-qu)'
+sexo_autor: H
+paginas: 280
+nota: 3,5
 ---
 
 ## Sinopsis

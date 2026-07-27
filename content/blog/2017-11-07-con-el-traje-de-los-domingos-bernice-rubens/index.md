@@ -16,6 +16,9 @@ editoriales:
 - Alba
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36059810-con-el-traje-de-los-domingos)'
+sexo_autor: H
+paginas: 312
+nota: '4'
 ---
 
 ## Sinopsis

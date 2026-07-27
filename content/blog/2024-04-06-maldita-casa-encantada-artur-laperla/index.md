@@ -14,6 +14,9 @@ editoriales:
 - Sapristi
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43216634-maldita-casa-encantada)'
+sexo_autor: V
+paginas: 128
+nota: '4'
 ---
 
 ## Sinopsis

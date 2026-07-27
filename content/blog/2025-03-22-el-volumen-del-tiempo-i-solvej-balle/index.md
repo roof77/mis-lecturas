@@ -24,6 +24,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/219485014-el-volumen-del-tiempo-i)'
+sexo_autor: H
+paginas: 184
+nota: '4'
 ---
 
 ## Sinopsis

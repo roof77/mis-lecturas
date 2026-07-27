@@ -25,6 +25,9 @@ editoriales:
 - Editorial Seix Barral
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7639059-la-colina-de-watership)'
+sexo_autor: V
+paginas: 451
+nota: '4'
 ---
 
 ## Sinopsis

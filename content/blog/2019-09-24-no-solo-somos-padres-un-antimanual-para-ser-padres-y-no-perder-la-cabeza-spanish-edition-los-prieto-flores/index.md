@@ -16,6 +16,9 @@ editoriales:
 - EDICIONES B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46114664-no-solo-somos-padres)'
+sexo_autor: O
+paginas: 151
+nota: '3'
 ---
 
 ## Sinopsis

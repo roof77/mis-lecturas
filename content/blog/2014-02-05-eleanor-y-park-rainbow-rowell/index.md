@@ -22,6 +22,9 @@ editoriales:
 - Alfaguara Juvenil
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20447452-eleanor-y-park)'
+sexo_autor: V
+paginas: 347
+nota: '3'
 ---
 
 ## Sinopsis

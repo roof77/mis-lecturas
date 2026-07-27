@@ -24,6 +24,9 @@ editoriales:
 - Temas de hoy
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51484920-almendra)'
+sexo_autor: H
+paginas: 256
+nota: 3,5
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26529549-todos-deber-amos-ser-feministas)'
+sexo_autor: H
+paginas: 32
+nota: '5'
 ---
 
 ## Sinopsis

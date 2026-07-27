@@ -23,6 +23,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/238543483-hija-de-la-venganza)'
+sexo_autor: V
+paginas: 408
+nota: '4'
 ---
 
 ## Sinopsis

@@ -25,6 +25,9 @@ editoriales:
 - Alianza
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6598945-las-uvas-de-la-ira)'
+sexo_autor: V
+paginas: 688
+nota: '5'
 ---
 
 ## Sinopsis

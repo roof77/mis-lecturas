@@ -24,6 +24,9 @@ editoriales:
 - RBA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16089505-en-las-ant-podas)'
+sexo_autor: V
+paginas: 414
+nota: '3'
 ---
 
 ## Sinopsis

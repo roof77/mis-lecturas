@@ -24,6 +24,9 @@ editoriales:
 - Sajalin
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35102269-carter)'
+sexo_autor: V
+paginas: 269
+nota: '5'
 ---
 
 ## Sinopsis

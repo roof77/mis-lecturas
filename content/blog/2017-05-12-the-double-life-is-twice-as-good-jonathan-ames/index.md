@@ -21,6 +21,9 @@ editoriales:
 - Scribner
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6224991-the-double-life-is-twice-as-good)'
+sexo_autor: V
+paginas: 223
+nota: '3'
 ---
 
 ## Sinopsis

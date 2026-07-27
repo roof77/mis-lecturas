@@ -24,6 +24,9 @@ editoriales:
 - 'Plan B '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50058115-se-oras-que-se-empotraron-hace-mucho)'
+sexo_autor: V
+paginas: 224
+nota: '4'
 ---
 
 ## Sinopsis

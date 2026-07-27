@@ -15,6 +15,9 @@ editoriales:
 - Fulgencio Pimentel
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30830358-un-verano-en-las-dunas)'
+sexo_autor: V
+paginas: 88
+nota: 4,5
 ---
 
 ## Sinopsis

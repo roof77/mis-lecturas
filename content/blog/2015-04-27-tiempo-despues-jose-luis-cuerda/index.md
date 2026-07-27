@@ -14,6 +14,9 @@ editoriales:
 - Pepitas de Calabaza
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25438440-tiempo-despu-s)'
+sexo_autor: V
+paginas: 141
+nota: '3'
 ---
 
 ## Sinopsis

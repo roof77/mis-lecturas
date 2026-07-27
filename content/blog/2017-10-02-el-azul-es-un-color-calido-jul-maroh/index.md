@@ -23,6 +23,9 @@ editoriales:
 - Dibbuks
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17182033-el-azul-es-un-color-c-lido)'
+sexo_autor: H
+paginas: 161
+nota: '5'
 ---
 
 ## Sinopsis

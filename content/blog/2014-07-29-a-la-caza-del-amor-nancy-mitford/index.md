@@ -23,6 +23,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22294792-a-la-caza-del-amor)'
+sexo_autor: H
+paginas: 228
+nota: '5'
 ---
 
 ## Sinopsis

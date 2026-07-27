@@ -18,6 +18,9 @@ editoriales:
 - Ediciones Glénat España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/91824.Dr_Inugami)'
+sexo_autor: V
+paginas: 192
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Editorial Sudamericana S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/74505.El_coraz_n_de_las_tinieblas)'
+sexo_autor: V
+paginas: 176
+nota: '4'
 ---
 
 ## Sinopsis

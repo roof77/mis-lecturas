@@ -25,6 +25,9 @@ editoriales:
 - Panini Cómics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52737348-el-marido-de-mi-hermano-vol-1)'
+sexo_autor: V
+paginas: 360
+nota: '4'
 ---
 
 ## Sinopsis

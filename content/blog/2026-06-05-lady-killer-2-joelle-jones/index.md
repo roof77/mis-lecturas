@@ -19,6 +19,9 @@ editoriales:
 - Dark Horse Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24872041-lady-killer-2)'
+sexo_autor: H
+paginas: 26
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -41,4 +44,4 @@ image:
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/05
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

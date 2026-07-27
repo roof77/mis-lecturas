@@ -25,6 +25,9 @@ editoriales:
 - Insólita
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35287062-el-archivo-de-atrocidades)'
+sexo_autor: V
+paginas: 410
+nota: '2'
 ---
 
 ## Sinopsis

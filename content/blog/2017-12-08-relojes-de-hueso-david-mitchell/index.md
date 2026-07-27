@@ -24,6 +24,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29662504-relojes-de-hueso)'
+sexo_autor: V
+paginas: 720
+nota: '3'
 ---
 
 ## Sinopsis

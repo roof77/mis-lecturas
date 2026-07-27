@@ -21,6 +21,9 @@ editoriales:
 - BLACKIE BOOKS
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29769609-marcel-n)'
+sexo_autor: V
+paginas: 127
+nota: '5'
 ---
 
 ## Sinopsis

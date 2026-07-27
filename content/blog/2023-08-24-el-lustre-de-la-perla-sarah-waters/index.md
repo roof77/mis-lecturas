@@ -25,6 +25,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/131117.El_lustre_de_la_perla)'
+sexo_autor: H
+paginas: 504
+nota: '4'
 ---
 
 ## Sinopsis

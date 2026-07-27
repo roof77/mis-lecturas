@@ -23,6 +23,9 @@ editoriales:
 - 'Seix Barral '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/241418.El_contrabajo)'
+sexo_autor: V
+paginas: 92
+nota: '3'
 ---
 
 ## Sinopsis

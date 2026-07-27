@@ -16,6 +16,9 @@ editoriales:
 - Editorial Cerbero
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36181081-la-chica-descalza-en-la-colina-de-los-ar-ndanos)'
+sexo_autor: H
+paginas: 136
+nota: '3'
 ---
 
 ## Sinopsis

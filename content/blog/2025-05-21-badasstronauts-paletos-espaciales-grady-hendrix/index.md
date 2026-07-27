@@ -22,6 +22,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/231481248-badasstronauts)'
+sexo_autor: V
+paginas: 163
+nota: '3'
 ---
 
 ## Sinopsis

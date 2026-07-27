@@ -26,6 +26,9 @@ editoriales:
 - Libros del silencio
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11227453-knockemstiff)'
+sexo_autor: V
+paginas: 304
+nota: 4,5
 ---
 
 ## Sinopsis

@@ -19,6 +19,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34667808-sex-criminals-19)'
+sexo_autor: V
+paginas: 32
+nota: '3'
 ---
 
 ## Sinopsis

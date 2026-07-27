@@ -26,6 +26,9 @@ editoriales:
 - Mondadori (IT)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2209887.Fant_mas)'
+sexo_autor: V
+paginas: 328
+nota: '3'
 ---
 
 ## Sinopsis

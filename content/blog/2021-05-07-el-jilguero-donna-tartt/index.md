@@ -23,6 +23,9 @@ editoriales:
 - Lumen
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21451588-el-jilguero)'
+sexo_autor: H
+paginas: 1152
+nota: '4'
 ---
 
 ## Sinopsis

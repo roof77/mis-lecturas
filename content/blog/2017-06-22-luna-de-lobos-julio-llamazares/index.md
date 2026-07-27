@@ -24,6 +24,9 @@ editoriales:
 - Seix Barral
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/348018.Luna_de_lobos)'
+sexo_autor: V
+paginas: 153
+nota: '4'
 ---
 
 ## Sinopsis

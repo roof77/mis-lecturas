@@ -25,6 +25,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/237920009-calliope-la-voz-de-las-llamas)'
+sexo_autor: O
+paginas: 556
+nota: '3'
 ---
 
 ## Sinopsis

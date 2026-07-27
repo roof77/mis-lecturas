@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/48995695-todos-quieren-a-daisy-jones)'
+sexo_autor: H
+paginas: 421
+nota: 3,75
 ---
 
 ## Sinopsis

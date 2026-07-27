@@ -24,6 +24,9 @@ editoriales:
 - Turner
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29973159-inocentes-y-otras)'
+sexo_autor: H
+paginas: 280
+nota: '3'
 ---
 
 ## Sinopsis

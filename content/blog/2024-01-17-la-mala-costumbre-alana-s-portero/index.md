@@ -23,6 +23,9 @@ editoriales:
 - Seix Barral
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123723946-la-mala-costumbre)'
+sexo_autor: H
+paginas: 252
+nota: 4,75
 ---
 
 ## Sinopsis

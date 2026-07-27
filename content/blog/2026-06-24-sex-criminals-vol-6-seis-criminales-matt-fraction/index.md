@@ -23,6 +23,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59222719-sex-criminals-vol-6)'
+sexo_autor: V
+paginas: 136
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -50,4 +53,4 @@ Matt Fraction y Chip Zdarsky ponen fin con este sexto volumen a Sex Criminals, l
 
 - **Inicio:** 2026/06/24
 - **Fin:** 2026/06/24
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

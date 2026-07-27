@@ -22,6 +22,9 @@ editoriales:
 - Alba
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18164264-los-huesos-del-invierno)'
+sexo_autor: H
+paginas: 216
+nota: '3'
 ---
 
 ## Sinopsis

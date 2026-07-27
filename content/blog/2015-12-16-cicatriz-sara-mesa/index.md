@@ -23,6 +23,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25076998-cicatriz)'
+sexo_autor: H
+paginas: 200
+nota: '4'
 ---
 
 ## Sinopsis

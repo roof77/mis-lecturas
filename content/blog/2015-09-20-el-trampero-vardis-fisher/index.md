@@ -24,6 +24,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17792161-el-trampero)'
+sexo_autor: V
+paginas: 400
+nota: '4'
 ---
 
 ## Sinopsis

@@ -26,6 +26,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1132694.Enormes_cambios_de_ltimo_minuto)'
+sexo_autor: H
+paginas: 160
+nota: '2'
 ---
 
 ## Sinopsis

@@ -16,6 +16,9 @@ editoriales:
 - Xordica
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28108674-el-reverso-de-los-dem-s)'
+sexo_autor: H
+paginas: 96
+nota: 2,75
 ---
 
 ## Sinopsis

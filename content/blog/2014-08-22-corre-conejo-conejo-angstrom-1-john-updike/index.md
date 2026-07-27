@@ -25,6 +25,9 @@ editoriales:
 - Maxi-Tusquets
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2059336.Corre_Conejo)'
+sexo_autor: V
+paginas: 368
+nota: '4'
 ---
 
 ## Sinopsis

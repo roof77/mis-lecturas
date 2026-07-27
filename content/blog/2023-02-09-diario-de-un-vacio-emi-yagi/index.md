@@ -23,6 +23,9 @@ editoriales:
 - Temas de Hoy
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59732139-diario-de-un-vac-o)'
+sexo_autor: H
+paginas: 173
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54919980-la-librer-a-del-se-or-livingstone)'
+sexo_autor: H
+paginas: 288
+nota: '2'
 ---
 
 ## Sinopsis

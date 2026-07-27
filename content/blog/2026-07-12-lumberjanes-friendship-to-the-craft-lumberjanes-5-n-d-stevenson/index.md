@@ -24,6 +24,9 @@ editoriales:
 - BOOM! - BOOM! Box
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25233409-lumberjanes)'
+sexo_autor: V
+paginas: 26
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ image:
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

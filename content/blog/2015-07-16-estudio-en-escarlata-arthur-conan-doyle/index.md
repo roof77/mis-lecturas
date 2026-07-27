@@ -20,6 +20,9 @@ autores:
 - Arthur Conan Doyle
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11197507-estudio-en-escarlata)'
+sexo_autor: V
+paginas: 152
+nota: '4'
 ---
 
 ## Sinopsis

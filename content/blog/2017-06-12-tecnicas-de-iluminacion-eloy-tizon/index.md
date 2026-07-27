@@ -15,6 +15,9 @@ editoriales:
 - Páginas de Espuma
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18587528-t-cnicas-de-iluminaci-n)'
+sexo_autor: V
+paginas: 168
+nota: 0,25
 ---
 
 ## Sinopsis

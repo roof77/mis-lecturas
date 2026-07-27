@@ -21,6 +21,9 @@ editoriales:
 - Orciny Press
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40648029-porno-religioso-improvisado)'
+sexo_autor: H
+paginas: 194
+nota: '4'
 ---
 
 ## Sinopsis

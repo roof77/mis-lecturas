@@ -14,6 +14,9 @@ editoriales:
 - Caballo de Troya
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38348401-y-ahora-lo-importante)'
+sexo_autor: H
+paginas: 272
+nota: '4'
 ---
 
 ## Sinopsis

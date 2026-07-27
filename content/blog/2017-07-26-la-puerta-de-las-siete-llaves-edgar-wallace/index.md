@@ -23,6 +23,9 @@ editoriales:
 - Open Road Español
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22005685-la-puerta-de-las-siete-llaves)'
+sexo_autor: V
+paginas: 154
+nota: '3'
 ---
 
 ## Sinopsis

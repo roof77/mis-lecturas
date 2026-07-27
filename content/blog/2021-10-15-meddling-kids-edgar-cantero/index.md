@@ -26,6 +26,9 @@ editoriales:
 - Insólita
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56222628-meddling-kids)'
+sexo_autor: V
+paginas: 407
+nota: 2,5
 ---
 
 ## Sinopsis

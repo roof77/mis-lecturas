@@ -25,6 +25,9 @@ editoriales:
 - RBA Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6404106-la-sociedad-literaria-y-el-pastel-de-piel-de-patata-de-guernsey)'
+sexo_autor: H
+paginas: 304
+nota: '4'
 ---
 
 ## Sinopsis

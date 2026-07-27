@@ -23,6 +23,9 @@ editoriales:
 - Crown Publishers
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9969571-ready-player-one)'
+sexo_autor: V
+paginas: 480
+nota: '3'
 ---
 
 ## Sinopsis

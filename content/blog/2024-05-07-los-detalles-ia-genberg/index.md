@@ -24,6 +24,9 @@ editoriales:
 - Gatopardo Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/122764891-los-detalles)'
+sexo_autor: H
+paginas: 160
+nota: 4,25
 ---
 
 ## Sinopsis

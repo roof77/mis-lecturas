@@ -14,6 +14,9 @@ editoriales:
 - Mortal y Rosa
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52592471-california-rocket-fuel)'
+sexo_autor: V
+paginas: 134
+nota: '4'
 ---
 
 ## Sinopsis

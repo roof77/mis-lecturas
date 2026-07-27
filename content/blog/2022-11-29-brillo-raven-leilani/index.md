@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60229744-brillo)'
+sexo_autor: H
+paginas: 240
+nota: 3,75
 ---
 
 ## Sinopsis

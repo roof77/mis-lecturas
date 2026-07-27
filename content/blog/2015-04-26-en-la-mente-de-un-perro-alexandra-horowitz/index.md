@@ -22,6 +22,9 @@ editoriales:
 - RBA Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19385488-en-la-mente-de-un-perro)'
+sexo_autor: H
+paginas: 415
+nota: '4'
 ---
 
 ## Sinopsis

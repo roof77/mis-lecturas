@@ -24,6 +24,9 @@ editoriales:
 - Crossbooks
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53803300-mi-persona-favorita)'
+sexo_autor: H
+paginas: 320
+nota: 4,5
 ---
 
 ## Sinopsis

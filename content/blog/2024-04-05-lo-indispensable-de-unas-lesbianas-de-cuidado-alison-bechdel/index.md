@@ -23,6 +23,9 @@ editoriales:
 - RESERVOIR BOOKS
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25652453-lo-indispensable-de-unas-lesbianas-de-cuidado)'
+sexo_autor: H
+paginas: 404
+nota: 4,5
 ---
 
 ## Sinopsis

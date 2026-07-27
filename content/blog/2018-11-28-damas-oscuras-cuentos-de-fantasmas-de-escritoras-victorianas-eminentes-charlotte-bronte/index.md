@@ -42,6 +42,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36240327-damas-oscuras)'
+sexo_autor: H
+paginas: 496
+nota: '4'
 ---
 
 ## Sinopsis

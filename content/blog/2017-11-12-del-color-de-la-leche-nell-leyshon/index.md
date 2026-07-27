@@ -24,6 +24,9 @@ editoriales:
 - Sexto Piso
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18510721-del-color-de-la-leche)'
+sexo_autor: H
+paginas: 174
+nota: '4'
 ---
 
 ## Sinopsis

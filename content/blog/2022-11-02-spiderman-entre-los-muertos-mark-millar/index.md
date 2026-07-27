@@ -23,6 +23,9 @@ editoriales:
 - Panini España, S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38730536-spiderman)'
+sexo_autor: V
+paginas: 312
+nota: 4,5
 ---
 
 ## Sinopsis

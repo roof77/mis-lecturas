@@ -23,6 +23,9 @@ editoriales:
 - Nórdica Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22023611-elling-el-baile-de-los-pajaritos)'
+sexo_autor: V
+paginas: 246
+nota: '3'
 ---
 
 ## Sinopsis

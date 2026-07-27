@@ -22,6 +22,9 @@ editoriales:
 - Alpha Decay
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59110540-visi-n)'
+sexo_autor: H
+paginas: 96
+nota: No es para mi
 ---
 
 ## Sinopsis
@@ -45,4 +48,4 @@ A través de líneas finas y desgastadas, de representaciones degradadas y desco
 
 - **Inicio:** 2026/06/21
 - **Fin:** 2026/06/21
-- **Calificación:** No es para mi/5
+- **Calificación:** No es para mi

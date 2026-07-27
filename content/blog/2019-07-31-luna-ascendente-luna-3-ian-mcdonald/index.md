@@ -24,6 +24,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45457141-luna-ascendente)'
+sexo_autor: V
+paginas: 464
+nota: '3'
 ---
 
 ## Sinopsis

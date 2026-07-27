@@ -24,6 +24,9 @@ editoriales:
 - DeBolsillo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6893343-los-papeles-p-stumos-del-club-pickwick)'
+sexo_autor: V
+paginas: 1007
+nota: '5'
 ---
 
 ## Sinopsis

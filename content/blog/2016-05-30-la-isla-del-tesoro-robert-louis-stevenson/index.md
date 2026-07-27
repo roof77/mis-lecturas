@@ -24,6 +24,9 @@ editoriales:
 - Penguin Clásicos
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26029208-la-isla-del-tesoro)'
+sexo_autor: V
+paginas: 360
+nota: '4'
 ---
 
 ## Sinopsis

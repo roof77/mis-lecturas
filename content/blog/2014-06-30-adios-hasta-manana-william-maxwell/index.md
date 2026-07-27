@@ -25,6 +25,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5070249-adi-s-hasta-ma-ana)'
+sexo_autor: V
+paginas: 172
+nota: '5'
 ---
 
 ## Sinopsis

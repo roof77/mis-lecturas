@@ -21,6 +21,9 @@ editoriales:
 - ASTIBERRI EDICIONES
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/153244661-la-cantina-de-medianoche-6)'
+sexo_autor: V
+paginas: 296
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -44,4 +47,4 @@ image:
 
 - **Inicio:** 2026/03/26
 - **Fin:** 2026/03/28
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

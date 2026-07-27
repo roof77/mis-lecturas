@@ -22,6 +22,9 @@ editoriales:
 - Salamandra Black
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41740970-caballos-lentos)'
+sexo_autor: V
+paginas: 384
+nota: '4'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44224500-sex-criminals-vol-4)'
+sexo_autor: V
+paginas: 128
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -50,4 +53,4 @@ Sex Criminals recibió los premios Eisner y Harvey a la mejor serie de cómic en
 
 - **Inicio:** 2026/06/23
 - **Fin:** 2026/06/24
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

@@ -23,6 +23,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/102040.84_Charing_Cross_Road)'
+sexo_autor: H
+paginas: 126
+nota: '4'
 ---
 
 ## Sinopsis

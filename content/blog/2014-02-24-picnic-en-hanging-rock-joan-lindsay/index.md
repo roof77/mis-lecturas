@@ -26,6 +26,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9738320-picnic-en-hanging-rock)'
+sexo_autor: H
+paginas: 307
+nota: '4'
 ---
 
 ## Sinopsis

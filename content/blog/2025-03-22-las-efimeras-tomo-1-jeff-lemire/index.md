@@ -15,6 +15,9 @@ editoriales:
 - ASTIBERRI EDICIONES
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/211172597-las-ef-meras-tomo-1)'
+sexo_autor: V
+paginas: 176
+nota: 3,5
 ---
 
 ## Ficha del libro

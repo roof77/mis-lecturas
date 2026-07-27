@@ -19,6 +19,9 @@ editoriales:
 - Editorial Periférica
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30162057-la-pelirroja)'
+sexo_autor: V
+paginas: 153
+nota: '2'
 ---
 
 ## Sinopsis

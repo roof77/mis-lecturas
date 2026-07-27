@@ -23,6 +23,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34993083-ropa-m-sica-chicos)'
+sexo_autor: V
+paginas: 535
+nota: '2'
 ---
 
 ## Sinopsis

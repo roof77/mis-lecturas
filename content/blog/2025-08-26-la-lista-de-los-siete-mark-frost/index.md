@@ -24,6 +24,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/230878041-la-lista-de-los-siete)'
+sexo_autor: V
+paginas: 432
+nota: 3,75
 ---
 
 ## Sinopsis

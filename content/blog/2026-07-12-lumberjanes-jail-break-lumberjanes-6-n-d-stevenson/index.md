@@ -24,6 +24,9 @@ editoriales:
 - BOOM!Box
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25233412-lumberjanes)'
+sexo_autor: V
+paginas: 26
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +50,4 @@ An intense game of Capture the Flag gets even crazier when mythical ancient bein
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

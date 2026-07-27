@@ -25,6 +25,9 @@ editoriales:
 - RBA Bolsillo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/439804.Trampa_22)'
+sexo_autor: V
+paginas: 656
+nota: '4'
 ---
 
 ## Sinopsis

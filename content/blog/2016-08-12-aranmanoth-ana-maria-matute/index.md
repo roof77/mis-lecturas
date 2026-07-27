@@ -23,6 +23,9 @@ editoriales:
 - Espasa-Calpe SA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/102835.Aranmanoth)'
+sexo_autor: H
+paginas: 191
+nota: '3'
 ---
 
 ## Sinopsis

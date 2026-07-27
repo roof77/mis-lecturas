@@ -20,6 +20,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18716473-el-rbol-del-ahorcado-y-otros-relatos-de-la-frontera)'
+sexo_autor: H
+paginas: 304
+nota: '4'
 ---
 
 ## Sinopsis

@@ -26,6 +26,9 @@ editoriales:
 - Nórdica Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28053317-lady-macbeth-de-mtsensk)'
+sexo_autor: V
+paginas: 136
+nota: '4'
 ---
 
 ## Sinopsis

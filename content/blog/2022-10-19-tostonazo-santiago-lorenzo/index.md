@@ -19,6 +19,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61930624-tostonazo)'
+sexo_autor: V
+paginas: 192
+nota: 4,75
 ---
 
 ## Sinopsis

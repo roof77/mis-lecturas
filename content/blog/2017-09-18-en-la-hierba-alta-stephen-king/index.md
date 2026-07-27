@@ -24,6 +24,9 @@ editoriales:
 - RHM FLASH
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18755202-en-la-hierba-alta)'
+sexo_autor: V
+paginas: 56
+nota: '3'
 ---
 
 ## Sinopsis

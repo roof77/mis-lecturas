@@ -23,6 +23,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4467763-los-vagabundos-de-la-cosecha)'
+sexo_autor: V
+paginas: 120
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41587567-los-asquerosos)'
+sexo_autor: V
+paginas: 221
+nota: '4'
 ---
 
 ## Sinopsis

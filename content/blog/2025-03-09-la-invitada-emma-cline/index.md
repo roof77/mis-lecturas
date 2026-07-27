@@ -24,6 +24,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/216403835-la-invitada)'
+sexo_autor: H
+paginas: 296
+nota: '4'
 ---
 
 ## Sinopsis

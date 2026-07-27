@@ -20,6 +20,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27237130-la-oficina)'
+sexo_autor: V
+paginas: 251
+nota: '3'
 ---
 
 ## Sinopsis

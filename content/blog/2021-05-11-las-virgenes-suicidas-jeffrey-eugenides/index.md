@@ -25,6 +25,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/85618.Las_v_rgenes_suicidas)'
+sexo_autor: V
+paginas: 256
+nota: '4'
 ---
 
 ## Sinopsis

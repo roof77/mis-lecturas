@@ -22,6 +22,9 @@ editoriales:
 - Reservoir Books / Mondadori
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16285826-fun-home-una-familia-tragic-mica)'
+sexo_autor: H
+paginas: 238
+nota: 4,75
 ---
 
 ## Sinopsis

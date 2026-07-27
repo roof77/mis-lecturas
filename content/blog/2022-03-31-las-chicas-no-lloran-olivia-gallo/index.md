@@ -14,6 +14,9 @@ editoriales:
 - ALPHA DECAY
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60581589-las-chicas-no-lloran)'
+sexo_autor: H
+paginas: 112
+nota: '4'
 ---
 
 ## Sinopsis

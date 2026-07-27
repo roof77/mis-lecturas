@@ -18,6 +18,9 @@ editoriales:
 - Dibbuks
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31700248-la-isla-de-las-mujeres)'
+sexo_autor: V
+paginas: 80
+nota: Bien
 ---
 
 ## Sinopsis
@@ -39,4 +42,4 @@ Céleste Bompard es el objeto de deseo de todas las mujeres por su habilidad y d
 
 - **Inicio:** 2026/05/29
 - **Fin:** 2026/05/29
-- **Calificación:** Bien/5
+- **Calificación:** Bien

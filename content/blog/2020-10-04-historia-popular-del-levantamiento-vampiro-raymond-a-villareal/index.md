@@ -24,6 +24,9 @@ editoriales:
 - Nocturna Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50058049-historia-popular-del-levantamiento-vampiro)'
+sexo_autor: V
+paginas: 512
+nota: '2'
 ---
 
 ## Sinopsis

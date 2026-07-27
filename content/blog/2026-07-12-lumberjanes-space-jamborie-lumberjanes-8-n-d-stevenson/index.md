@@ -24,6 +24,9 @@ editoriales:
 - BOOM!Box
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25233663-lumberjanes)'
+sexo_autor: V
+paginas: 27
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +50,4 @@ This crazy war between Apollo and Artemis finally reaches its peak and it's up t
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

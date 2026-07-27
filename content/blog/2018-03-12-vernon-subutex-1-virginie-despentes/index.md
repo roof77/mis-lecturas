@@ -24,6 +24,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30126158-vernon-subutex-1)'
+sexo_autor: H
+paginas: 352
+nota: '4'
 ---
 
 ## Sinopsis

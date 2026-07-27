@@ -23,6 +23,9 @@ editoriales:
 - Molino
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16077173-cada-d-a)'
+sexo_autor: V
+paginas: 302
+nota: '3'
 ---
 
 ## Sinopsis

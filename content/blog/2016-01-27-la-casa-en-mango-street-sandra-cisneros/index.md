@@ -23,6 +23,9 @@ editoriales:
 - VINTAGE ESPAÑOL
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19023066-la-casa-en-mango-street)'
+sexo_autor: H
+paginas: 146
+nota: '4'
 ---
 
 ## Sinopsis

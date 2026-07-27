@@ -23,6 +23,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29515170-manual-para-mujeres-de-la-limpieza)'
+sexo_autor: H
+paginas: 432
+nota: '4'
 ---
 
 ## Sinopsis

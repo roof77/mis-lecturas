@@ -16,6 +16,9 @@ editoriales:
 - Melusina
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53416910-macarras-interseculares)'
+sexo_autor: V
+paginas: 457
+nota: '4'
 ---
 
 ## Sinopsis

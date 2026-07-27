@@ -18,6 +18,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46000531-no-cerramos-en-agosto)'
+sexo_autor: V
+paginas: 250
+nota: '4'
 ---
 
 ## Sinopsis

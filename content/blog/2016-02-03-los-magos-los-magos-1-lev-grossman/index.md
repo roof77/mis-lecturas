@@ -23,6 +23,9 @@ editoriales:
 - B de Bolsillo (Ediciones B)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8725223-los-magos)'
+sexo_autor: V
+paginas: 496
+nota: '3'
 ---
 
 ## Sinopsis

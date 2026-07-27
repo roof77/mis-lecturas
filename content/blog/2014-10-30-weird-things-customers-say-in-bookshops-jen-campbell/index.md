@@ -23,6 +23,9 @@ editoriales:
 - Constable and Robinson
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12640991-weird-things-customers-say-in-bookshops)'
+sexo_autor: V
+paginas: 119
+nota: '5'
 ---
 
 ## Sinopsis

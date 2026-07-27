@@ -23,6 +23,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18171929-c-mo-ser-mujer)'
+sexo_autor: H
+paginas: 354
+nota: '3'
 ---
 
 ## Sinopsis

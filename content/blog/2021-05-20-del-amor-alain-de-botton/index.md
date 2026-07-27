@@ -24,6 +24,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15813492-del-amor)'
+sexo_autor: V
+paginas: 373
+nota: '3'
 ---
 
 ## Sinopsis

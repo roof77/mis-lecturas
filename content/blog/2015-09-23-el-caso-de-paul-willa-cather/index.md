@@ -24,6 +24,9 @@ editoriales:
 - Nordica Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13199136-el-caso-de-paul)'
+sexo_autor: H
+paginas: 72
+nota: '5'
 ---
 
 ## Sinopsis

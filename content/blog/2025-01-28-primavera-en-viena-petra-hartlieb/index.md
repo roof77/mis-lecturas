@@ -19,6 +19,9 @@ editoriales:
 - Siruela
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52762972-primavera-en-viena)'
+sexo_autor: H
+paginas: 184
+nota: 4,25
 ---
 
 ## Sinopsis

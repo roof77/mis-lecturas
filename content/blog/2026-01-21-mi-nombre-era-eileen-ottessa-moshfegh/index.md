@@ -23,6 +23,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33384705-mi-nombre-era-eileen)'
+sexo_autor: H
+paginas: 280
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +54,4 @@ Cuando la brillante, guapa y alegre Rebecca Saint John hace su aparición como n
 
 - **Inicio:** 2026/01/11
 - **Fin:** 2026/01/21
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

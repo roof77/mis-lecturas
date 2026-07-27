@@ -23,6 +23,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25001116-sin-ti-no-hay-nosotros)'
+sexo_autor: H
+paginas: 324
+nota: '3'
 ---
 
 ## Sinopsis

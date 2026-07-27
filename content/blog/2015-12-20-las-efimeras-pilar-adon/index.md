@@ -16,6 +16,9 @@ editoriales:
 - Galaxia Gutenberg
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27465360-las-ef-meras)'
+sexo_autor: H
+paginas: 240
+nota: '4'
 ---
 
 ## Sinopsis

@@ -26,6 +26,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61476.El_antrop_logo_inocente)'
+sexo_autor: V
+paginas: 240
+nota: 4,5
 ---
 
 ## Sinopsis

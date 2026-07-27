@@ -23,6 +23,9 @@ editoriales:
 - Dos bigotes
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30986988-la-incre-ble-boda-de-gilbert-y-moira)'
+sexo_autor: V
+paginas: 376
+nota: '5'
 ---
 
 ## Sinopsis

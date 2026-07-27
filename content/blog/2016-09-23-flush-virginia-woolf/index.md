@@ -24,6 +24,9 @@ editoriales:
 - Ediciones Destino
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13502476-flush)'
+sexo_autor: H
+paginas: 160
+nota: '4'
 ---
 
 ## Sinopsis

@@ -25,6 +25,9 @@ editoriales:
 - Seix Barral
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2774939-el-coraz-n-es-un-cazador-solitario)'
+sexo_autor: H
+paginas: 384
+nota: '4'
 ---
 
 ## Sinopsis

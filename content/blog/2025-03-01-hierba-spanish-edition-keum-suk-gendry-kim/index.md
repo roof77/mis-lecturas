@@ -25,6 +25,9 @@ editoriales:
 - RESERVOIR BOOKS
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60575724-hierba)'
+sexo_autor: H
+paginas: 483
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - 'LUMEN '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19317918-la-amiga-estupenda)'
+sexo_autor: V
+paginas: 392
+nota: '4'
 ---
 
 ## Sinopsis

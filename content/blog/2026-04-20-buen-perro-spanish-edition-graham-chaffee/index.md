@@ -21,6 +21,9 @@ editoriales:
 - Ediciones La Cúpula, S.L.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/71574171-buen-perro)'
+sexo_autor: V
+paginas: 104
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -43,4 +46,4 @@ Iván es un buen perro atormentado por pesadillas de conejos y gallinas, cuya vi
 
 - **Inicio:** 2026/04/20
 - **Fin:** 2026/04/20
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

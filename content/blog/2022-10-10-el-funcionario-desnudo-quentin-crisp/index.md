@@ -23,6 +23,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40513699-el-funcionario-desnudo)'
+sexo_autor: V
+paginas: 268
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Grijalbo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11942952-no-conf-es-en-nadie)'
+sexo_autor: V
+paginas: 384
+nota: '3'
 ---
 
 ## Sinopsis

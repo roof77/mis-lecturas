@@ -26,6 +26,9 @@ editoriales:
 - Nevsky Prospects
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16158844-el-vivo)'
+sexo_autor: H
+paginas: 382
+nota: '3'
 ---
 
 ## Sinopsis

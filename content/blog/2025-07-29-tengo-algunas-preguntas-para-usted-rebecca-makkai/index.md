@@ -23,6 +23,9 @@ editoriales:
 - Sexto Piso
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/205869219-tengo-algunas-preguntas-para-usted)'
+sexo_autor: H
+paginas: 500
+nota: 4,25
 ---
 
 ## Sinopsis

@@ -14,6 +14,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6845059-discoth-que)'
+sexo_autor: V
+paginas: 224
+nota: '4'
 ---
 
 ## Sinopsis

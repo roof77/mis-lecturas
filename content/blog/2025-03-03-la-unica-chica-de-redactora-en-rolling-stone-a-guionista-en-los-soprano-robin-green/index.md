@@ -13,6 +13,9 @@ editoriales:
 - Liburuak
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/205147538-la-nica-chica)'
+sexo_autor: H
+paginas: 304
+nota: '3'
 ---
 
 ## Ficha del libro

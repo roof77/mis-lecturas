@@ -24,6 +24,9 @@ editoriales:
 - Edhasa
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/14041146-la-mujer-de-negro)'
+sexo_autor: H
+paginas: 192
+nota: '3'
 ---
 
 ## Sinopsis

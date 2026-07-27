@@ -23,6 +23,9 @@ editoriales:
 - Gigamesh Digital
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55526282-por-qu-me-com-a-padre)'
+sexo_autor: V
+paginas: 169
+nota: '4'
 ---
 
 ## Sinopsis

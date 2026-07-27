@@ -22,6 +22,9 @@ editoriales:
 - 'Dilatando Mentes Editorial '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/194947181-caramelo-cido)'
+sexo_autor: V
+paginas: 146
+nota: '4'
 ---
 
 ## Sinopsis

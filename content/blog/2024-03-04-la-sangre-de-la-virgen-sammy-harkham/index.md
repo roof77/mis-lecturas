@@ -22,6 +22,9 @@ editoriales:
 - Fulgencio Pimentel S.L.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/125607047-la-sangre-de-la-virgen)'
+sexo_autor: V
+paginas: 296
+nota: 4,25
 ---
 
 ## Sinopsis

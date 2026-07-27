@@ -24,6 +24,9 @@ editoriales:
 - Oz
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36317313-r-os-de-londres)'
+sexo_autor: V
+paginas: 336
+nota: '3'
 ---
 
 ## Sinopsis

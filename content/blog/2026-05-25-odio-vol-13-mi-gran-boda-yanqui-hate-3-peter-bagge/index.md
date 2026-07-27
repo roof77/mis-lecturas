@@ -15,6 +15,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2751002-odio-vol-13)'
+sexo_autor: V
+paginas: 52
+nota: Bien
 ---
 
 ## Ficha del libro
@@ -34,4 +37,4 @@ image:
 
 - **Inicio:** 2026/05/25
 - **Fin:** 2026/05/25
-- **Calificación:** Bien/5
+- **Calificación:** Bien

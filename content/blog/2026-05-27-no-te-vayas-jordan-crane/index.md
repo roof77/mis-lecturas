@@ -22,6 +22,9 @@ editoriales:
 - La cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202308894-no-te-vayas)'
+sexo_autor: V
+paginas: 324
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -45,4 +48,4 @@ Will y Connie han discutido en el viaje. Minucias, cosas de pareja. Al llegar a 
 
 - **Inicio:** 2026/05/27
 - **Fin:** 2026/05/27
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

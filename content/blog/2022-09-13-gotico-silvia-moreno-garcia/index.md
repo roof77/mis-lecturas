@@ -24,6 +24,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57394345-g-tico)'
+sexo_autor: H
+paginas: 349
+nota: 3,75
 ---
 
 ## Sinopsis

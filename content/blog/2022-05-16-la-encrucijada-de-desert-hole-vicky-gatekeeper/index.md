@@ -13,6 +13,9 @@ editoriales:
 - Proyecto Estefanía
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58444559-la-encrucijada-de-desert-hole)'
+sexo_autor: H
+paginas: 42
+nota: '3'
 ---
 
 ## Ficha del libro

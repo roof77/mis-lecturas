@@ -23,6 +23,9 @@ editoriales:
 - Alba Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23150340-los-millones-de-brewster)'
+sexo_autor: V
+paginas: 304
+nota: '4'
 ---
 
 ## Sinopsis

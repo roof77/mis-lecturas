@@ -22,6 +22,9 @@ editoriales:
 - Astiberr
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54496841-sex-criminals-volumen-cinco)'
+sexo_autor: V
+paginas: 128
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -43,4 +46,4 @@ Suzie and Jon have that special something—when they have sex, they freeze time
 
 - **Inicio:** 2026/06/24
 - **Fin:** 2026/06/24
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

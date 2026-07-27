@@ -23,6 +23,9 @@ editoriales:
 - ROCA EDITORIAL
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45894335-el-aspecto-del-diablo)'
+sexo_autor: V
+paginas: 496
+nota: 3,75
 ---
 
 ## Sinopsis

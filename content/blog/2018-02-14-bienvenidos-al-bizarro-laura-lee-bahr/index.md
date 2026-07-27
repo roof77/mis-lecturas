@@ -29,6 +29,9 @@ editoriales:
 - Orciny Press
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34400061-bienvenidos-al-bizarro)'
+sexo_autor: O
+paginas: 256
+nota: '3'
 ---
 
 ## Sinopsis

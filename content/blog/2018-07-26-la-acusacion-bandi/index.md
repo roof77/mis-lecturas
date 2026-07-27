@@ -25,6 +25,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35061049-la-acusaci-n)'
+sexo_autor: O
+paginas: 242
+nota: '3'
 ---
 
 ## Sinopsis

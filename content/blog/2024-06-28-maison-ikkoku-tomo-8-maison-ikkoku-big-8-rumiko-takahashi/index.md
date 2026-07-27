@@ -23,6 +23,9 @@ editoriales:
 - Ediciones Glénat España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345434.Maison_Ikkoku_tomo_8)'
+sexo_autor: H
+paginas: 340
+nota: 3,75
 ---
 
 ## Sinopsis

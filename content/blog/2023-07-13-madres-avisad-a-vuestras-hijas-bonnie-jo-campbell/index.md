@@ -25,6 +25,9 @@ editoriales:
 - Dirty Works Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57770651-madres-avisad-a-vuestras-hijas)'
+sexo_autor: H
+paginas: 296
+nota: '4'
 ---
 
 ## Sinopsis

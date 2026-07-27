@@ -23,6 +23,9 @@ editoriales:
 - Duomo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/223531991-la-ceremonia)'
+sexo_autor: H
+paginas: 256
+nota: '3'
 ---
 
 ## Sinopsis

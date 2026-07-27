@@ -15,6 +15,9 @@ editoriales:
 - Norma Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22033238-belleville-story)'
+sexo_autor: V
+paginas: 168
+nota: '4'
 ---
 
 ## Sinopsis

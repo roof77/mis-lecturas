@@ -24,6 +24,9 @@ editoriales:
 - Hoja de Lata
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55219495-cluny-brown)'
+sexo_autor: H
+paginas: 280
+nota: '4'
 ---
 
 ## Sinopsis

@@ -14,6 +14,9 @@ editoriales:
 - Alianza
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57108753-un-tablao-en-otro-mundo)'
+sexo_autor: V
+paginas: 240
+nota: 3,75
 ---
 
 ## Sinopsis

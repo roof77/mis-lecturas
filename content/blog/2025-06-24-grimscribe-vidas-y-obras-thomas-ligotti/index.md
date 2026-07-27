@@ -25,6 +25,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25463269-grimscribe)'
+sexo_autor: V
+paginas: 256
+nota: 3,5
 ---
 
 ## Sinopsis

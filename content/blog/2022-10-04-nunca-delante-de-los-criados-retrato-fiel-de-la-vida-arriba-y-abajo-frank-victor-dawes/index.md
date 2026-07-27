@@ -22,6 +22,9 @@ editoriales:
 - Periférica
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61152520-nunca-delante-de-los-criados)'
+sexo_autor: V
+paginas: 256
+nota: 3,75
 ---
 
 ## Sinopsis

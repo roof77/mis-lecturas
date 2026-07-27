@@ -16,6 +16,9 @@ editoriales:
 - UNKNO
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2751013-odio-vol-3)'
+sexo_autor: V
+paginas: 68
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -39,4 +42,4 @@ The bestselling alternative comic of the 1990's, Odio (Hate) chronicles the misa
 
 - **Inicio:** 2026/05/12
 - **Fin:** 2026/05/12
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

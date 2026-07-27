@@ -23,6 +23,9 @@ editoriales:
 - Libros del Silencio
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16247251-el-diablo-a-todas-horas)'
+sexo_autor: V
+paginas: 376
+nota: '5'
 ---
 
 ## Sinopsis

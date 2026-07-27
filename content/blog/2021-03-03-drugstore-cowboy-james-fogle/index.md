@@ -22,6 +22,9 @@ editoriales:
 - Sajalín Editores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40716911-drugstore-cowboy)'
+sexo_autor: V
+paginas: 220
+nota: '4'
 ---
 
 ## Sinopsis

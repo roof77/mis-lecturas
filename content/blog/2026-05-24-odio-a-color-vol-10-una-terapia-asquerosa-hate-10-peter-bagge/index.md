@@ -14,6 +14,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40224974-odio-a-color-vol-10)'
+sexo_autor: V
+paginas: 68
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -36,4 +39,4 @@ image:
 
 - **Inicio:** 2026/05/23
 - **Fin:** 2026/05/24
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

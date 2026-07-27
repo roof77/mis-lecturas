@@ -16,6 +16,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34644421-un-mill-n-de-a-os)'
+sexo_autor: V
+paginas: 120
+nota: 3,75
 ---
 
 ## Sinopsis

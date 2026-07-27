@@ -23,6 +23,9 @@ editoriales:
 - Ediciones Glénat España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345429.Maison_Ikkoku_9)'
+sexo_autor: H
+paginas: 348
+nota: 3,75
 ---
 
 ## Sinopsis

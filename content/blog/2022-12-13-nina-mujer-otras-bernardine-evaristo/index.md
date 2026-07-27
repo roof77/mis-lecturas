@@ -24,6 +24,9 @@ editoriales:
 - Alianza Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51477392-ni-a-mujer-otras)'
+sexo_autor: H
+paginas: 496
+nota: 4,25
 ---
 
 ## Sinopsis

@@ -21,6 +21,9 @@ editoriales:
 - ASTIBERRI EDICIONES
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61351748-la-cantina-de-medianoche-5)'
+sexo_autor: V
+paginas: 296
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -44,4 +47,4 @@ Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el ba
 
 - **Inicio:** 2026/03/25
 - **Fin:** 2026/03/26
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

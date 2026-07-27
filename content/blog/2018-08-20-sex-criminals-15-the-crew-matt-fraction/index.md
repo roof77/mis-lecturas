@@ -19,6 +19,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26224461-sex-criminals-15)'
+sexo_autor: V
+paginas: 31
+nota: '3'
 ---
 
 ## Sinopsis

@@ -26,6 +26,9 @@ editoriales:
 - Libros del K.O.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51817538-creedme)'
+sexo_autor: V
+paginas: 344
+nota: '4'
 ---
 
 ## Sinopsis

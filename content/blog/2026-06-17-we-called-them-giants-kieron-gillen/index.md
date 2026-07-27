@@ -24,6 +24,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/210999862-we-called-them-giants)'
+sexo_autor: O
+paginas: 104
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +56,4 @@ The award-winning team behind dark fantasy smash DIE release their first stand a
 
 - **Inicio:** 2026/06/17
 - **Fin:** 2026/06/17
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

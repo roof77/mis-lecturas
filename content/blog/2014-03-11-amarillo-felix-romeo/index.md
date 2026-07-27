@@ -14,6 +14,9 @@ editoriales:
 - Plot.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6845058-amarillo)'
+sexo_autor: V
+paginas: 155
+nota: '4'
 ---
 
 ## Sinopsis

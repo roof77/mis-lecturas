@@ -24,6 +24,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20433715-todas-las-almas)'
+sexo_autor: V
+paginas: 280
+nota: '4'
 ---
 
 ## Sinopsis

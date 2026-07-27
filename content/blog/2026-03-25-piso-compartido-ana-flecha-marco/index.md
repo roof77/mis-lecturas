@@ -17,6 +17,9 @@ editoriales:
 - Mrs. Danvers
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57818147-piso-compartido)'
+sexo_autor: H
+paginas: 112
+nota: Entretenido
 ---
 
 ## Sinopsis
@@ -38,4 +41,4 @@ Piso compartido es una novela de interior. Un relato costumbrista donde magia, m
 
 - **Inicio:** 2026/03/22
 - **Fin:** 2026/03/25
-- **Calificación:** Entretenido/5
+- **Calificación:** Entretenido

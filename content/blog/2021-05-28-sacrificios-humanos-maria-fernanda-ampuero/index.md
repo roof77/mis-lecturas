@@ -22,6 +22,9 @@ editoriales:
 - Páginas de Espuma
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56509274-sacrificios-humanos)'
+sexo_autor: H
+paginas: 144
+nota: '4'
 ---
 
 ## Sinopsis

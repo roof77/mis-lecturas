@@ -14,6 +14,9 @@ editoriales:
 - Global Rhythm Press
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13198221-lili-marleen)'
+sexo_autor: H
+paginas: 216
+nota: '5'
 ---
 
 ## Sinopsis

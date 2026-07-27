@@ -23,6 +23,9 @@ editoriales:
 - DeBolsillo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4381.Fahrenheit_451)'
+sexo_autor: V
+paginas: 158
+nota: '5'
 ---
 
 ## Sinopsis

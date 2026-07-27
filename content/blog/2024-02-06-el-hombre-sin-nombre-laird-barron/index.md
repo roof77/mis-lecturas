@@ -25,6 +25,9 @@ editoriales:
 - La Biblioteca de Carfax
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/204376061-el-hombre-sin-nombre)'
+sexo_autor: V
+paginas: 128
+nota: 1,75
 ---
 
 ## Sinopsis

@@ -22,6 +22,9 @@ editoriales:
 - RESERVOIR BOOKS
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40171304-filmish)'
+sexo_autor: V
+paginas: 200
+nota: 4,75
 ---
 
 ## Sinopsis

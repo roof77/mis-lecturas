@@ -18,6 +18,8 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40207692-sex-criminals-25)'
+sexo_autor: V
+nota: '3'
 ---
 
 ## Sinopsis

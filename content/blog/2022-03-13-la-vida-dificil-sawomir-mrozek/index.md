@@ -19,6 +19,9 @@ editoriales:
 - Acantilado
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6046799-la-vida-dif-cil)'
+sexo_autor: H
+paginas: 200
+nota: '3'
 ---
 
 ## Sinopsis

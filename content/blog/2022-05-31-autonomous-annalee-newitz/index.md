@@ -25,6 +25,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52433171-autonomous)'
+sexo_autor: H
+paginas: 320
+nota: 3,75
 ---
 
 ## Sinopsis

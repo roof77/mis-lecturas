@@ -14,6 +14,9 @@ editoriales:
 - Bruguera (Ediciones B)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50032631-felino-man-aco-homicida)'
+sexo_autor: V
+paginas: 176
+nota: 4,25
 ---
 
 ## Sinopsis

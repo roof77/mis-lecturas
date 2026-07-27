@@ -24,6 +24,9 @@ editoriales:
 - Colmena Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25393346-las-primeras-quince-vidas-de-harry-august)'
+sexo_autor: H
+paginas: 544
+nota: '5'
 ---
 
 ## Sinopsis

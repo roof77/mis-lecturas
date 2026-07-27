@@ -26,6 +26,9 @@ editoriales:
 - Galaxia Gutenberg
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32711738-ella-en-la-otra-orilla)'
+sexo_autor: H
+paginas: 224
+nota: '5'
 ---
 
 ## Sinopsis

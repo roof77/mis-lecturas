@@ -23,6 +23,9 @@ editoriales:
 - Temas de Hoy
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58957605-yo-no-s-de-otras-cosas)'
+sexo_autor: H
+paginas: 176
+nota: 4,75
 ---
 
 ## Sinopsis

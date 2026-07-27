@@ -14,6 +14,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56895328-odio-integral-vol-6)'
+sexo_autor: V
+paginas: 132
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -36,4 +39,4 @@ Eh, pero que nada cambie también tiene su parte buena: ¡Peter Bagge sigue sien
 
 - **Inicio:** 2026/05/25
 - **Fin:** 2026/05/25
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

@@ -24,6 +24,9 @@ editoriales:
 - Colmena Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38491831-la-s-bita-aparici-n-de-hope)'
+sexo_autor: H
+paginas: 614
+nota: 3,5
 ---
 
 ## Sinopsis

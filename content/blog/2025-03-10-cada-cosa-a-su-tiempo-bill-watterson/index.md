@@ -21,6 +21,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/961688.Cada_cosa_a_su_tiempo)'
+sexo_autor: V
+paginas: 180
+nota: '4'
 ---
 
 ## Sinopsis

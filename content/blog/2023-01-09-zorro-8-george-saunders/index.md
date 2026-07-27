@@ -25,6 +25,9 @@ editoriales:
 - Seix Barral
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/62668733-zorro-8)'
+sexo_autor: V
+paginas: 64
+nota: '4'
 ---
 
 ## Sinopsis

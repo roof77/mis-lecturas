@@ -24,6 +24,9 @@ editoriales:
 - Alianza
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39926991-cada-coraz-n-un-umbral)'
+sexo_autor: H
+paginas: 183
+nota: '4'
 ---
 
 ## Sinopsis

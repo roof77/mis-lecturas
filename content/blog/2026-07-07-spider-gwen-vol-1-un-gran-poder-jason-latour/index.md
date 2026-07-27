@@ -16,6 +16,9 @@ editoriales:
 - Panini Comics España (Marvel Comics)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30166509-spider-gwen-vol-1)'
+sexo_autor: V
+paginas: 160
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -40,4 +43,4 @@ Contiene Spider-Gwen #1-6 y Gwenpool Special 1 USA
 
 - **Inicio:** 2026/07/07
 - **Fin:** 2026/07/07
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

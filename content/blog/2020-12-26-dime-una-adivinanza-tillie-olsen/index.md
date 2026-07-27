@@ -26,6 +26,9 @@ editoriales:
 - Las Afueras
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53361948-dime-una-adivinanza)'
+sexo_autor: H
+paginas: 184
+nota: '4'
 ---
 
 ## Sinopsis

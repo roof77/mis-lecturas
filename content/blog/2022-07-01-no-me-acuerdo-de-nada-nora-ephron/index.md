@@ -23,6 +23,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59747182-no-me-acuerdo-de-nada)'
+sexo_autor: H
+paginas: 176
+nota: '5'
 ---
 
 ## Sinopsis

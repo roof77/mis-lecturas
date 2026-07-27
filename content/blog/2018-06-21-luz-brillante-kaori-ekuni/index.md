@@ -25,6 +25,9 @@ editoriales:
 - Funambulista
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36634846-luz-brillante)'
+sexo_autor: H
+paginas: 232
+nota: '4'
 ---
 
 ## Sinopsis

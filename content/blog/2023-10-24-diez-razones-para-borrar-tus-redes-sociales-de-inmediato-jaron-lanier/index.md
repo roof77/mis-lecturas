@@ -23,6 +23,9 @@ editoriales:
 - Debate
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41166667-diez-razones-para-borrar-tus-redes-sociales-de-inmediato)'
+sexo_autor: V
+paginas: 192
+nota: 3,5
 ---
 
 ## Sinopsis

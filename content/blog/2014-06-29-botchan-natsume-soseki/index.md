@@ -26,6 +26,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4458271-botchan)'
+sexo_autor: V
+paginas: 240
+nota: '4'
 ---
 
 ## Sinopsis

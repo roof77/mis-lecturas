@@ -25,6 +25,9 @@ editoriales:
 - Editorial Impedimenta SL
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20750606-henry-y-cato)'
+sexo_autor: H
+paginas: 415
+nota: '4'
 ---
 
 ## Sinopsis

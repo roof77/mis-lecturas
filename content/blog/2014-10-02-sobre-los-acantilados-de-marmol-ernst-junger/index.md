@@ -24,6 +24,9 @@ editoriales:
 - TusQuets
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6069877-sobre-los-acantilados-de-m-rmol)'
+sexo_autor: V
+paginas: 224
+nota: '3'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Ediciones La Cúpula, S.L.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51082517-haarmann)'
+sexo_autor: V
+paginas: 180
+nota: '3'
 ---
 
 ## Sinopsis

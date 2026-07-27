@@ -22,6 +22,9 @@ editoriales:
 - Random House Mondadori
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17857915-eres-mi-madre)'
+sexo_autor: H
+paginas: 290
+nota: 3,5
 ---
 
 ## Sinopsis

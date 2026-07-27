@@ -24,6 +24,9 @@ editoriales:
 - Acantilado
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12497034-hotel-savoy)'
+sexo_autor: V
+paginas: 176
+nota: '4'
 ---
 
 ## Sinopsis

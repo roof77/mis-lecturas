@@ -24,6 +24,9 @@ editoriales:
 - Alianza
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38450660-agentes-de-dreamland)'
+sexo_autor: H
+paginas: 120
+nota: '3'
 ---
 
 ## Sinopsis

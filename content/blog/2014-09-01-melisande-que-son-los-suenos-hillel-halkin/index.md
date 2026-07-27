@@ -19,6 +19,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20898843-melisande-qu-son-los-sue-os)'
+sexo_autor: V
+paginas: 264
+nota: '4'
 ---
 
 ## Sinopsis

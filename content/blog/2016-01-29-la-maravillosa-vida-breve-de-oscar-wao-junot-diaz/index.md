@@ -23,6 +23,9 @@ editoriales:
 - Random House Mondadori
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5149889-la-maravillosa-vida-breve-de-scar-wao)'
+sexo_autor: V
+paginas: 320
+nota: '4'
 ---
 
 ## Sinopsis

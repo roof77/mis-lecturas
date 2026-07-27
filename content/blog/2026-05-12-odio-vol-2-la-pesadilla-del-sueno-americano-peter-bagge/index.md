@@ -15,6 +15,8 @@ editoriales:
 - UNKNO
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1098703.Odio_Vol_2)'
+sexo_autor: V
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -36,4 +38,4 @@ ODIO (HATE): 1991 HARVEY WINNER Best Cartoonist, Best New Series The bestselling
 
 - **Inicio:** 2026/05/12
 - **Fin:** 2026/05/12
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

@@ -17,6 +17,9 @@ editoriales:
 - Norma Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56280301-conviviendo-19-d-as)'
+sexo_autor: V
+paginas: 184
+nota: 3,75
 ---
 
 ## Sinopsis

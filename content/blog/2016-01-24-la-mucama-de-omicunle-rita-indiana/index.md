@@ -24,6 +24,9 @@ editoriales:
 - Periférica
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25477041-la-mucama-de-omicunl)'
+sexo_autor: H
+paginas: 181
+nota: '4'
 ---
 
 ## Sinopsis

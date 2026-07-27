@@ -13,6 +13,9 @@ editoriales:
 - Tropismos
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/107636876-la-se-orita-stark)'
+sexo_autor: V
+paginas: 0
+nota: 3,25
 ---
 
 ## Sinopsis

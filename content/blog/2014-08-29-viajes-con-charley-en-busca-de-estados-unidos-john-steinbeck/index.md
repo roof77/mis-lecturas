@@ -23,6 +23,9 @@ editoriales:
 - Nórdica
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22555261-viajes-con-charley-en-busca-de-estados-unidos)'
+sexo_autor: V
+paginas: 292
+nota: '3'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Alpha Decay
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16153172-trilobites)'
+sexo_autor: V
+paginas: 232
+nota: '4'
 ---
 
 ## Sinopsis

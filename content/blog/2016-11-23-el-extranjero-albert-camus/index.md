@@ -25,6 +25,9 @@ editoriales:
 - Alianza Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1836303.El_extranjero)'
+sexo_autor: V
+paginas: 124
+nota: '3'
 ---
 
 ## Sinopsis

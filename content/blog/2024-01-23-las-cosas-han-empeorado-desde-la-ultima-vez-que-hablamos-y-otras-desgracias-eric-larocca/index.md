@@ -27,6 +27,9 @@ editoriales:
 - Dilatando Mentes
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/63141636-las-cosas-han-empeorado-desde-la-ltima-vez-que-hablamos)'
+sexo_autor: V
+paginas: 268
+nota: '4'
 ---
 
 ## Sinopsis

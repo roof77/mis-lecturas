@@ -22,6 +22,9 @@ editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13457470-astro-city-5)'
+sexo_autor: V
+paginas: 256
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -44,4 +47,4 @@ LOCAL HEROES kicks off with three stand- alone stories that reintroduce the hero
 
 - **Inicio:** 2026/02/27
 - **Fin:** 2026/02/27
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

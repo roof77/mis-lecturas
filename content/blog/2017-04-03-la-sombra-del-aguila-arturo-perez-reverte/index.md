@@ -23,6 +23,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/785481.La_sombra_del_guila)'
+sexo_autor: V
+paginas: 160
+nota: '4'
 ---
 
 ## Sinopsis

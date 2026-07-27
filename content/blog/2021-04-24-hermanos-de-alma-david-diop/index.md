@@ -25,6 +25,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53016418-hermanos-de-alma)'
+sexo_autor: V
+paginas: 156
+nota: '4'
 ---
 
 ## Sinopsis

@@ -21,6 +21,9 @@ editoriales:
 - Granta Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40211405-sabrina)'
+sexo_autor: V
+paginas: 208
+nota: 4,25
 ---
 
 ## Sinopsis

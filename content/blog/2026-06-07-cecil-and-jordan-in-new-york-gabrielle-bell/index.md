@@ -21,6 +21,9 @@ editoriales:
 - Drawn and Quarterly
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3061857-cecil-and-jordan-in-new-york)'
+sexo_autor: H
+paginas: 148
+nota: Bien
 ---
 
 ## Sinopsis
@@ -42,4 +45,4 @@ Short stories, including the adapted-to-film original Cecil and Jordan in New Yo
 
 - **Inicio:** 2026/06/06
 - **Fin:** 2026/06/07
-- **Calificación:** Bien/5
+- **Calificación:** Bien

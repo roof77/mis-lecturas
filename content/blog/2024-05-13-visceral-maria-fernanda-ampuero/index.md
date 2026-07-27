@@ -18,6 +18,8 @@ editoriales:
 - Páginas de Espuma
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/204112798-visceral)'
+sexo_autor: H
+nota: 3,75
 ---
 
 ## Sinopsis

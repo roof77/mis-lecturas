@@ -28,6 +28,9 @@ editoriales:
 - Homage Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/72112.Astro_City_Vol_2)'
+sexo_autor: V
+paginas: 298
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -53,4 +56,4 @@ Brian Kinney struggles to become the sidekick to Astro City's vigilante, known a
 
 - **Inicio:** 2026/02/08
 - **Fin:** 2026/02/08
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

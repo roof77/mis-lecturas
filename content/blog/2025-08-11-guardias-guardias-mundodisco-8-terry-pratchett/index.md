@@ -24,6 +24,9 @@ editoriales:
 - DeBolsillo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6725527-guardias-guardias)'
+sexo_autor: V
+paginas: 395
+nota: '4'
 ---
 
 ## Sinopsis

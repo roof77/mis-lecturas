@@ -15,6 +15,9 @@ editoriales:
 - Panini Comics España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38330870-thor-integral)'
+sexo_autor: V
+paginas: 488
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -38,4 +41,4 @@ El Hijo de Odín vuelve a la vida para protagonizar una fabulosa etapa con un eq
 
 - **Inicio:** 2026/07/08
 - **Fin:** 2026/07/11
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39084706-la-extraordinaria-familia-telemacus)'
+sexo_autor: V
+paginas: 552
+nota: '4'
 ---
 
 ## Sinopsis

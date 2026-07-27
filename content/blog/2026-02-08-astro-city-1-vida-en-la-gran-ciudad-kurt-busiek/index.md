@@ -22,6 +22,9 @@ editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7904191-astro-city-1)'
+sexo_autor: V
+paginas: 192
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -48,4 +51,4 @@ Astro City es una ciudad de superhéroes y villanos, de magos y monstruos, donde
 
 - **Inicio:** 2026/02/08
 - **Fin:** 2026/02/08
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

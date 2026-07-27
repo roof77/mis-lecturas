@@ -21,6 +21,9 @@ editoriales:
 - Reservoir Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34113811-que-alguien-se-acueste-conmigo-por-favor)'
+sexo_autor: H
+paginas: 144
+nota: '2'
 ---
 
 ## Sinopsis

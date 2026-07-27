@@ -22,6 +22,9 @@ editoriales:
 - ALFAGUARA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12535048-las-hermanas-grimes)'
+sexo_autor: V
+paginas: 232
+nota: '4'
 ---
 
 ## Sinopsis

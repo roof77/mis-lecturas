@@ -23,6 +23,9 @@ editoriales:
 - Ediciones Martínez Roca
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2206684.Fantasmas)'
+sexo_autor: V
+paginas: 374
+nota: '4'
 ---
 
 ## Sinopsis

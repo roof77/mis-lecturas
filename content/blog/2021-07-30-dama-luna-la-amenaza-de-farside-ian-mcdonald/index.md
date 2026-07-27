@@ -25,6 +25,9 @@ editoriales:
 - Ed. Apache Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54361178-dama-luna-la-amenaza-de-farside)'
+sexo_autor: V
+paginas: 186
+nota: 3,5
 ---
 
 ## Sinopsis

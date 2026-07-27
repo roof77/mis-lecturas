@@ -24,6 +24,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/264704.La_leyenda_del_Santo_Bebedor)'
+sexo_autor: V
+paginas: 96
+nota: '5'
 ---
 
 ## Sinopsis

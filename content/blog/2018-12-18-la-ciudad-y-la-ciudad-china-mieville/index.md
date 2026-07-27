@@ -23,6 +23,9 @@ editoriales:
 - La Factoría de Ideas
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13561231-la-ciudad-y-la-ciudad)'
+sexo_autor: V
+paginas: 320
+nota: '4'
 ---
 
 ## Sinopsis

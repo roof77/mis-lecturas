@@ -25,6 +25,9 @@ editoriales:
 - Mondadori
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6713167-la-mec-nica-del-coraz-n)'
+sexo_autor: V
+paginas: 176
+nota: '3'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Editorial Sexto Piso
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/127620938-donantes-de-sue-o)'
+sexo_autor: H
+paginas: 176
+nota: 3,75
 ---
 
 ## Sinopsis

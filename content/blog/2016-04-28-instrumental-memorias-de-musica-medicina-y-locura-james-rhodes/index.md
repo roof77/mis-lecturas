@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27783561-instrumental)'
+sexo_autor: V
+paginas: 280
+nota: '4'
 ---
 
 ## Sinopsis

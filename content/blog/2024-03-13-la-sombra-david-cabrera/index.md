@@ -15,6 +15,9 @@ editoriales:
 - Libros del K.O.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61254837-la-sombra)'
+sexo_autor: V
+paginas: 256
+nota: '4'
 ---
 
 ## Sinopsis

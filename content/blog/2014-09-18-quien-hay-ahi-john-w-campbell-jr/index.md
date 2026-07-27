@@ -23,6 +23,9 @@ editoriales:
 - 'Editor digital: Titivillus'
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41216167-qui-n-hay-ah)'
+sexo_autor: V
+paginas: 145
+nota: '2'
 ---
 
 ## Sinopsis

@@ -20,6 +20,9 @@ editoriales:
 - Random House Mondadori, S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20318498-george-sprott-1894-1975)'
+sexo_autor: V
+paginas: 64
+nota: '5'
 ---
 
 ## Sinopsis

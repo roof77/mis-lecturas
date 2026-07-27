@@ -14,6 +14,9 @@ editoriales:
 - Páginas de Espuma
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/216572664-cuentos-completos)'
+sexo_autor: V
+paginas: 384
+nota: '4'
 ---
 
 ## Sinopsis

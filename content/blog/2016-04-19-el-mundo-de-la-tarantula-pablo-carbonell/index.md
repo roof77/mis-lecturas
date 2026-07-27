@@ -14,6 +14,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29914494-el-mundo-de-la-tar-ntula)'
+sexo_autor: V
+paginas: 384
+nota: '4'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55108658-no-es-un-r-o)'
+sexo_autor: H
+paginas: 104
+nota: 4,75
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Stefano Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/238337593-bunny)'
+sexo_autor: H
+paginas: 352
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -63,4 +66,4 @@ Bunny, la nueva y fascinante novela de una de las cronistas más intrépidas de 
 
 - **Inicio:** 2026/01/21
 - **Fin:** 2026/01/29
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

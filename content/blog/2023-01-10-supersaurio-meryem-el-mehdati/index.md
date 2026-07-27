@@ -23,6 +23,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60373913-supersaurio)'
+sexo_autor: H
+paginas: 320
+nota: 4,25
 ---
 
 ## Sinopsis

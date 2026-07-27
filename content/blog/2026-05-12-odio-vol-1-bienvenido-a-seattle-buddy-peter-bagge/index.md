@@ -15,6 +15,9 @@ editoriales:
 - UNKNO
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/514826.Odio_vol_1)'
+sexo_autor: V
+paginas: 64
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -37,4 +40,4 @@ ODIO (HATE): 1991 HARVEY WINNER FOR BEST CARTOONIST, BEST NEW SERIES. The bestse
 
 - **Inicio:** 2026/05/11
 - **Fin:** 2026/05/12
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

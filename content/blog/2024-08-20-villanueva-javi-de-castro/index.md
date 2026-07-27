@@ -18,6 +18,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59227328-villanueva)'
+sexo_autor: V
+paginas: 157
+nota: 3,75
 ---
 
 ## Sinopsis

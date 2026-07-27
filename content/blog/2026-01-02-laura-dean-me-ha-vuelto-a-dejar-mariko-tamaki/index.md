@@ -25,6 +25,9 @@ editoriales:
 - Ediciones La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45710371-laura-dean-me-ha-vuelto-a-dejar)'
+sexo_autor: H
+paginas: 304
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +58,4 @@ Mariko Tamaki y Rosemary Valero O’Conell fraguan una historia de amor efervesc
 
 - **Inicio:** 2026/04/01
 - **Fin:** 2026/01/02
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

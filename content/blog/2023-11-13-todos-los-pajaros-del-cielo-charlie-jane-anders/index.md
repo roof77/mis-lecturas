@@ -25,6 +25,9 @@ editoriales:
 - Insólita
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40609399-todos-los-p-jaros-del-cielo)'
+sexo_autor: H
+paginas: 380
+nota: '4'
 ---
 
 ## Sinopsis

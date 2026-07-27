@@ -18,6 +18,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25699332-sex-criminals-12)'
+sexo_autor: V
+paginas: 22
+nota: '3'
 ---
 
 ## Sinopsis

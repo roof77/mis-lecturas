@@ -23,6 +23,9 @@ editoriales:
 - Bibliópolis
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6404872-a-punta-de-espada)'
+sexo_autor: H
+paginas: 288
+nota: 3,75
 ---
 
 ## Sinopsis

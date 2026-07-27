@@ -25,6 +25,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21398782-la-joven-ahogada)'
+sexo_autor: H
+paginas: 392
+nota: '2'
 ---
 
 ## Sinopsis

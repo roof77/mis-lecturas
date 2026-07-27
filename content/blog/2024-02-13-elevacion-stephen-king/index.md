@@ -23,6 +23,9 @@ editoriales:
 - Suma
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/48570953-elevaci-n)'
+sexo_autor: V
+paginas: 176
+nota: '4'
 ---
 
 ## Sinopsis

@@ -18,6 +18,9 @@ editoriales:
 - Candaya
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42410823-la-primera-vez-que-vi-un-fantasma)'
+sexo_autor: H
+paginas: 139
+nota: '4'
 ---
 
 ## Sinopsis

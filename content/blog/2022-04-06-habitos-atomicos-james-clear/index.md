@@ -22,6 +22,9 @@ editoriales:
 - Paidos México
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45028173-h-bitos-at-micos)'
+sexo_autor: V
+paginas: 339
+nota: '4'
 ---
 
 ## Sinopsis

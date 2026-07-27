@@ -14,6 +14,9 @@ editoriales:
 - The New Yorker Magazine
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25135673-el-dinero-en-the-new-yorker)'
+sexo_autor: N
+paginas: 260
+nota: '3'
 ---
 
 ## Sinopsis

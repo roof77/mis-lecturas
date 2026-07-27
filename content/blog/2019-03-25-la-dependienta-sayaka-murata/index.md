@@ -24,6 +24,9 @@ editoriales:
 - 'Duomo ediciones '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43764278-la-dependienta)'
+sexo_autor: H
+paginas: 176
+nota: '4'
 ---
 
 ## Sinopsis

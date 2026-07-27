@@ -15,6 +15,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13595302-canci-n-de-rachel)'
+sexo_autor: V
+paginas: 148
+nota: '2'
 ---
 
 ## Sinopsis

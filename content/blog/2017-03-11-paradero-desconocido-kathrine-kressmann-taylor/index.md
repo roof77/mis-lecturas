@@ -24,6 +24,9 @@ editoriales:
 - RBA Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/395665.Paradero_desconocido)'
+sexo_autor: H
+paginas: 82
+nota: '5'
 ---
 
 ## Sinopsis

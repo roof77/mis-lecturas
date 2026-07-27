@@ -17,6 +17,9 @@ editoriales:
 - Penguin Random House Grupo Editorial, S. A. U.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35378867-anatom-a-de-las-distancias-cortas)'
+sexo_autor: H
+paginas: 132
+nota: '2'
 ---
 
 ## Sinopsis

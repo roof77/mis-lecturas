@@ -23,6 +23,9 @@ editoriales:
 - SAPRISTI
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/199436926-mi-bella-vampira)'
+sexo_autor: H
+paginas: 106
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ La preciosa y rubia Clover -a medio camino entre Barbarella y Brigitte Bardot- s
 
 - **Inicio:** 2026/05/01
 - **Fin:** 2026/05/01
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

@@ -24,6 +24,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1053630.El_hombre_ilustrado)'
+sexo_autor: V
+paginas: 283
+nota: 4,5
 ---
 
 ## Sinopsis

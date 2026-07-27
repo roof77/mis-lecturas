@@ -14,6 +14,9 @@ editoriales:
 - Narrativa
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/240706980-la-fiesta)'
+sexo_autor: H
+paginas: 108
+nota: '4'
 ---
 
 ## Ficha del libro

@@ -15,6 +15,9 @@ editoriales:
 - UNKNO
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/514827.Buddy_y_los_Bradley_vol_2)'
+sexo_autor: V
+paginas: 80
+nota: Bien
 ---
 
 ## Sinopsis
@@ -37,4 +40,4 @@ Meet the Bradleys, America's most dysfunctional family. Yes, even more dysfuncti
 
 - **Inicio:** 2026/05/10
 - **Fin:** 2026/05/11
-- **Calificación:** Bien/5
+- **Calificación:** Bien

@@ -23,6 +23,9 @@ editoriales:
 - Lumen
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123364621-la-malnacida)'
+sexo_autor: H
+paginas: 242
+nota: '3'
 ---
 
 ## Sinopsis

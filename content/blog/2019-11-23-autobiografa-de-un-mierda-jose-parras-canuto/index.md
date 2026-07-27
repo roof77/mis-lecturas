@@ -14,6 +14,9 @@ editoriales:
 - Independently Published
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52529097-autobiograf-a-de-un-mierda)'
+sexo_autor: V
+paginas: 282
+nota: '3'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43982486-en-la-mitad-de-la-vida)'
+sexo_autor: V
+paginas: 216
+nota: '3'
 ---
 
 ## Sinopsis

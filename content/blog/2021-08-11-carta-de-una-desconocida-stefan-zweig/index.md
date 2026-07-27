@@ -24,6 +24,9 @@ editoriales:
 - Acantilado
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45732.Carta_de_una_desconocida)'
+sexo_autor: V
+paginas: 72
+nota: 4,5
 ---
 
 ## Sinopsis

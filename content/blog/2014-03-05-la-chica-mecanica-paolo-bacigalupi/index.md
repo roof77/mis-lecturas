@@ -25,6 +25,9 @@ editoriales:
 - Plaza & Janés
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11516349-la-chica-mec-nica)'
+sexo_autor: V
+paginas: 538
+nota: '3'
 ---
 
 ## Sinopsis

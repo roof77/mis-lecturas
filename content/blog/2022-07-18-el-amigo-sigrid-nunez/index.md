@@ -24,6 +24,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45479295-el-amigo)'
+sexo_autor: H
+paginas: 208
+nota: 3,75
 ---
 
 ## Sinopsis

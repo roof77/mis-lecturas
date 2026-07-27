@@ -24,6 +24,9 @@ editoriales:
 - Milky Way Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58473976-insomniacs-after-school-vol-2)'
+sexo_autor: H
+paginas: 192
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +54,4 @@ En esta historia ambientada en Noto, dos estudiantes de secundaria, Isaki y Gant
 
 - **Inicio:** 2026/07/25
 - **Fin:** 2026/07/25
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

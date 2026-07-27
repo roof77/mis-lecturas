@@ -24,6 +24,9 @@ editoriales:
 - DeBolsillo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/372389.Dioses_menores)'
+sexo_autor: V
+paginas: 352
+nota: '2'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - TusQuets
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54868914-la-guerra-de-los-pobres)'
+sexo_autor: V
+paginas: 96
+nota: '3'
 ---
 
 ## Sinopsis

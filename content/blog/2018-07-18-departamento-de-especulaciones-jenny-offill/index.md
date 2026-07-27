@@ -24,6 +24,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28503741-departamento-de-especulaciones)'
+sexo_autor: H
+paginas: 172
+nota: '3'
 ---
 
 ## Sinopsis

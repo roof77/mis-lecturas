@@ -24,6 +24,9 @@ editoriales:
 - Nova
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57299481-proyecto-hail-mary)'
+sexo_autor: V
+paginas: 543
+nota: '4'
 ---
 
 ## Sinopsis

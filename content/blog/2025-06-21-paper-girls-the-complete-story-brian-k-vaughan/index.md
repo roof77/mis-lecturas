@@ -26,6 +26,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58155174-paper-girls)'
+sexo_autor: V
+paginas: 784
+nota: 4,75
 ---
 
 ## Sinopsis

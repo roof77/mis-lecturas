@@ -24,6 +24,9 @@ editoriales:
 - Duomo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54622627-la-mujer-de-la-falda-violeta)'
+sexo_autor: H
+paginas: 192
+nota: 2,5
 ---
 
 ## Sinopsis

@@ -27,6 +27,9 @@ editoriales:
 - Dilatando Mentes
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51874034-las-doncellas-de-xido)'
+sexo_autor: H
+paginas: 304
+nota: '4'
 ---
 
 ## Sinopsis

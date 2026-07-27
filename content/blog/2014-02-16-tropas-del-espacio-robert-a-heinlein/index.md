@@ -23,6 +23,9 @@ editoriales:
 - Martinez Roca
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1911989.Tropas_del_espacio)'
+sexo_autor: V
+paginas: 242
+nota: '4'
 ---
 
 ## Sinopsis

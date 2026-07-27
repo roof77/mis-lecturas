@@ -25,6 +25,9 @@ editoriales:
 - DeBolsillo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3069540-la-mujer-del-viajero-en-el-tiempo)'
+sexo_autor: H
+paginas: 595
+nota: '4'
 ---
 
 ## Sinopsis

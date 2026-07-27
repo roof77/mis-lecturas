@@ -24,6 +24,9 @@ editoriales:
 - Sudamericana
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1442372.El_cuento_de_Navidad_de_Auggie_Wren)'
+sexo_autor: V
+paginas: 32
+nota: '4'
 ---
 
 ## Sinopsis

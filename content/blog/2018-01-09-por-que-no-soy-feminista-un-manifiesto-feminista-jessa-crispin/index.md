@@ -23,6 +23,9 @@ editoriales:
 - Lince Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36527354-por-qu-no-soy-feminista-un-manifiesto-feminista)'
+sexo_autor: V
+paginas: 124
+nota: '4'
 ---
 
 ## Sinopsis

@@ -21,6 +21,9 @@ editoriales:
 - DC Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53263929-100-bullets-omnibus-vol-1)'
+sexo_autor: V
+paginas: 1376
+nota: '4'
 ---
 
 ## Sinopsis

@@ -25,6 +25,9 @@ editoriales:
 - Siruela
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30981924-lolly-willowes)'
+sexo_autor: H
+paginas: 212
+nota: '4'
 ---
 
 ## Sinopsis

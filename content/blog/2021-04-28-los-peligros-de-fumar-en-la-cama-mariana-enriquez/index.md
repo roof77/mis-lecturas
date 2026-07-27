@@ -24,6 +24,9 @@ editoriales:
 - Emecé Editores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13121960-los-peligros-de-fumar-en-la-cama)'
+sexo_autor: H
+paginas: 221
+nota: '4'
 ---
 
 ## Sinopsis

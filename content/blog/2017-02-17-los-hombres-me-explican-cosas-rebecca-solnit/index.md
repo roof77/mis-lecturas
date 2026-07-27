@@ -24,6 +24,9 @@ editoriales:
 - Capitán Swing
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31574965-los-hombres-me-explican-cosas)'
+sexo_autor: H
+paginas: 143
+nota: '3'
 ---
 
 ## Sinopsis

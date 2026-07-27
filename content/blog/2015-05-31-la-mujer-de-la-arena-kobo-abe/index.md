@@ -25,6 +25,9 @@ editoriales:
 - Siruela
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59949.La_mujer_de_la_arena)'
+sexo_autor: V
+paginas: 208
+nota: '4'
 ---
 
 ## Sinopsis

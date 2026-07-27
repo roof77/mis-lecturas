@@ -23,6 +23,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202794989-la-casa)'
+sexo_autor: V
+paginas: 272
+nota: '4'
 ---
 
 ## Sinopsis

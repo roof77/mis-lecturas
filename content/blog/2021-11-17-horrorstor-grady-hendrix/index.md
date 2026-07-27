@@ -24,6 +24,9 @@ editoriales:
 - Colmena Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24675211-horrorst-r)'
+sexo_autor: V
+paginas: 248
+nota: 4,5
 ---
 
 ## Sinopsis

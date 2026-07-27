@@ -24,6 +24,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58103015-piranesi)'
+sexo_autor: H
+paginas: 272
+nota: '5'
 ---
 
 ## Sinopsis

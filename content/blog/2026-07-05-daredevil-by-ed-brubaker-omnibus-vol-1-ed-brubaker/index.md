@@ -33,6 +33,9 @@ editoriales:
 - Marvel
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6203215-daredevil-by-ed-brubaker-omnibus-vol-1)'
+sexo_autor: V
+paginas: 608
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -59,4 +62,4 @@ Collecting: Daredevil 82-105
 
 - **Inicio:** 2026/07/04
 - **Fin:** 2026/07/05
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

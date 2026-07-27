@@ -23,6 +23,9 @@ editoriales:
 - Harper
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25109947-lovecraft-country)'
+sexo_autor: V
+paginas: 400
+nota: '4'
 ---
 
 ## Sinopsis

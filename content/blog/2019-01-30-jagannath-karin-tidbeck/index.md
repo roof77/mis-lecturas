@@ -28,6 +28,9 @@ editoriales:
 - Ediciones Nevsky
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20652503-jagannath)'
+sexo_autor: H
+paginas: 192
+nota: '3'
 ---
 
 ## Sinopsis

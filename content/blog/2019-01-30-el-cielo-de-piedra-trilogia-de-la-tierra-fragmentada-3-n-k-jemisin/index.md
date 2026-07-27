@@ -24,6 +24,9 @@ editoriales:
 - Nova
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41577333-el-cielo-de-piedra)'
+sexo_autor: H
+paginas: 398
+nota: '4'
 ---
 
 ## Sinopsis

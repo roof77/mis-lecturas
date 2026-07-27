@@ -24,6 +24,9 @@ editoriales:
 - Alethé
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50839395-condici-n-artificial)'
+sexo_autor: H
+paginas: 158
+nota: '4'
 ---
 
 ## Sinopsis

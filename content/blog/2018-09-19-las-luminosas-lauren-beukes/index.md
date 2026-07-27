@@ -24,6 +24,9 @@ editoriales:
 - RBA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18105545-las-luminosas)'
+sexo_autor: H
+paginas: 416
+nota: '4'
 ---
 
 ## Sinopsis

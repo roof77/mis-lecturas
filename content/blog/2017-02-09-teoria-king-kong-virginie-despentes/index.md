@@ -25,6 +25,9 @@ editoriales:
 - Melusina
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6364510-teor-a-king-kong)'
+sexo_autor: H
+paginas: 126
+nota: '4'
 ---
 
 ## Sinopsis

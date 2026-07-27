@@ -24,6 +24,9 @@ editoriales:
 - Astiberri Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58655129-la-cantina-de-medianoche-4)'
+sexo_autor: V
+paginas: 296
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +50,4 @@ Esa minúscula taberna situada en una callejuela del barrio de Shinjuku acoge a 
 
 - **Inicio:** 2026/03/24
 - **Fin:** 2026/03/25
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

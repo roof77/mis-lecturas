@@ -22,6 +22,9 @@ editoriales:
 - 'Sexto Piso '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29914913-la-maldici-n-de-lono)'
+sexo_autor: V
+paginas: 208
+nota: '2'
 ---
 
 ## Sinopsis

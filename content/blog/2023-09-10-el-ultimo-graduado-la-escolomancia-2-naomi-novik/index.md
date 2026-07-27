@@ -23,6 +23,9 @@ editoriales:
 - Umbriel
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60030509-el-ltimo-graduado)'
+sexo_autor: H
+paginas: 384
+nota: '4'
 ---
 
 ## Sinopsis

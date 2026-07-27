@@ -20,6 +20,9 @@ editoriales:
 - ECC
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36436640-el-club-del-divorcio-1)'
+sexo_autor: V
+paginas: 504
+nota: 3,75
 ---
 
 ## Sinopsis

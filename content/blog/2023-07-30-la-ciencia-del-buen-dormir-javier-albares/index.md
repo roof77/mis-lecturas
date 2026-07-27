@@ -16,6 +16,9 @@ editoriales:
 - Ediciones Península
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/124199888-la-ciencia-del-buen-dormir)'
+sexo_autor: V
+paginas: 336
+nota: '4'
 ---
 
 ## Sinopsis

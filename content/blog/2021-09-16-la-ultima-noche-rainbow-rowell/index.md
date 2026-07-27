@@ -24,6 +24,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52791492-la-ltima-noche)'
+sexo_autor: H
+paginas: 224
+nota: '3'
 ---
 
 ## Sinopsis

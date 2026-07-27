@@ -23,6 +23,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45479294-lo-est-s-deseando)'
+sexo_autor: H
+paginas: 288
+nota: 3,75
 ---
 
 ## Sinopsis

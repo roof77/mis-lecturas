@@ -23,6 +23,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20892128-trabajos-de-amor-ensangrentados)'
+sexo_autor: V
+paginas: 336
+nota: '4'
 ---
 
 ## Sinopsis

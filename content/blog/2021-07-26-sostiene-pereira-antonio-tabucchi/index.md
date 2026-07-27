@@ -25,6 +25,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/562212.Sostiene_Pereira)'
+sexo_autor: V
+paginas: 192
+nota: 3,75
 ---
 
 ## Sinopsis

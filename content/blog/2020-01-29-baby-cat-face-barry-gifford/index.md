@@ -13,6 +13,9 @@ autores:
 - Barry Gifford
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39722728-baby-cat-face)'
+sexo_autor: V
+paginas: 192
+nota: '3'
 ---
 
 ## Sinopsis

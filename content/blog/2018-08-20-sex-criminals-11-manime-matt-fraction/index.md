@@ -18,6 +18,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25604437-sex-criminals-11)'
+sexo_autor: V
+paginas: 22
+nota: '3'
 ---
 
 ## Sinopsis

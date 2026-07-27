@@ -23,6 +23,9 @@ editoriales:
 - Periférica
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27272970-mi-maravillosa-librer-a)'
+sexo_autor: H
+paginas: 240
+nota: '3'
 ---
 
 ## Sinopsis

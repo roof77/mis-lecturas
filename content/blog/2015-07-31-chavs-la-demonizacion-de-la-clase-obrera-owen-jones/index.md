@@ -24,6 +24,9 @@ editoriales:
 - Capitán Swing
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17229088-chavs)'
+sexo_autor: V
+paginas: 360
+nota: '4'
 ---
 
 ## Sinopsis

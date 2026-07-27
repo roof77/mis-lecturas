@@ -21,6 +21,9 @@ editoriales:
 - Alba
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35144489-no-mam-no)'
+sexo_autor: H
+paginas: 120
+nota: '4'
 ---
 
 ## Sinopsis

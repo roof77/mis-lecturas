@@ -19,6 +19,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2788920-el-maestro-juan-mart-nez-que-estaba-all)'
+sexo_autor: V
+paginas: 320
+nota: '4'
 ---
 
 ## Sinopsis

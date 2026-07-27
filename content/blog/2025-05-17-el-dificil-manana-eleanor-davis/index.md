@@ -22,6 +22,9 @@ editoriales:
 - ASTIBERRI EDICIONES
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55293267-el-dif-cil-ma-ana)'
+sexo_autor: H
+paginas: 152
+nota: 3,5
 ---
 
 ## Sinopsis

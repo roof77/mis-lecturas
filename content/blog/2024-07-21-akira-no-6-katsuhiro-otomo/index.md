@@ -24,6 +24,9 @@ editoriales:
 - Norma Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15780696-akira-no-6)'
+sexo_autor: V
+paginas: 440
+nota: '4'
 ---
 
 ## Sinopsis

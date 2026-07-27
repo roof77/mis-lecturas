@@ -17,6 +17,9 @@ autores:
 - Laura Allred
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25069392-lady-killer-3)'
+sexo_autor: H
+paginas: 26
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -43,4 +46,4 @@ The pressure is on for Josie as the conflict increases between her cozy suburban
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/05
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

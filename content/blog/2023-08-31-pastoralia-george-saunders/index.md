@@ -24,6 +24,9 @@ editoriales:
 - Alfabia
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22594577-pastoralia)'
+sexo_autor: V
+paginas: 248
+nota: '3'
 ---
 
 ## Sinopsis

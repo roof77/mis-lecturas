@@ -22,6 +22,9 @@ editoriales:
 - Muñeca infinita editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60901058-de-c-mo-recib-mi-herencia)'
+sexo_autor: H
+paginas: 176
+nota: 4,5
 ---
 
 ## Sinopsis

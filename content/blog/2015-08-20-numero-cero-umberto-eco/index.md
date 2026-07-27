@@ -24,6 +24,9 @@ editoriales:
 - Lumen
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25273399-n-mero-cero)'
+sexo_autor: V
+paginas: 192
+nota: '2'
 ---
 
 ## Sinopsis

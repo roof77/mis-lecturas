@@ -23,6 +23,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6839093-chew-vol-1)'
+sexo_autor: V
+paginas: 128
+nota: '4'
 ---
 
 ## Sinopsis

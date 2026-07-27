@@ -24,6 +24,9 @@ editoriales:
 - LA FACTORÍA DE IDEAS
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2202304.Un_trabajo_muy_sucio)'
+sexo_autor: H
+paginas: 352
+nota: '3'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Eterna Cadencia
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59111053-cosas-peque-as-como-esas)'
+sexo_autor: H
+paginas: 83
+nota: '4'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Eterna Cadencia
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/211993455-bien-tarde-en-el-d-a)'
+sexo_autor: H
+paginas: 38
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ Un cajón exclusivo en el armario. La copia de una llave. Un te amo dicho a tiem
 
 - **Inicio:** 2026/06/10
 - **Fin:** 2026/06/10
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

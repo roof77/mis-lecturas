@@ -24,6 +24,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6801443-juliet-desnuda)'
+sexo_autor: V
+paginas: 352
+nota: '4'
 ---
 
 ## Sinopsis

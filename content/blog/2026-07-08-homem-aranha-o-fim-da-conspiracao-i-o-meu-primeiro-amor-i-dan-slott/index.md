@@ -18,6 +18,9 @@ editoriales:
 - Goody
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38928263-homem-aranha---o-fim-da-conspira-o-i-o-meu-primeiro-amor-i)'
+sexo_autor: V
+paginas: 128
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -47,4 +50,4 @@ SPIDER-GWEN (2015) #16 – Por JASON LATOUR, ROBBI RODRIGUEZ e RICO RENZI
 
 - **Inicio:** 2026/07/08
 - **Fin:** 2026/07/08
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

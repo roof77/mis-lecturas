@@ -22,6 +22,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1605607.Harry_Potter_y_el_c_liz_de_fuego)'
+sexo_autor: H
+paginas: 672
+nota: '4'
 ---
 
 ## Sinopsis

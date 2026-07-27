@@ -23,6 +23,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22211783-chicas-muertas)'
+sexo_autor: V
+paginas: 187
+nota: '3'
 ---
 
 ## Sinopsis

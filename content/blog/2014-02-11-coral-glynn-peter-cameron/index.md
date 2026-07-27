@@ -23,6 +23,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18461760-coral-glynn)'
+sexo_autor: V
+paginas: 269
+nota: '3'
 ---
 
 ## Sinopsis

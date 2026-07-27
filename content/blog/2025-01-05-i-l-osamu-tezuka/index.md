@@ -19,6 +19,9 @@ editoriales:
 - Planeta Cómic
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58392764-i-l)'
+sexo_autor: V
+paginas: 336
+nota: 4,25
 ---
 
 ## Sinopsis

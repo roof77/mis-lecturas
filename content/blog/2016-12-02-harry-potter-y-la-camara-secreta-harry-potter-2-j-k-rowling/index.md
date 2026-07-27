@@ -24,6 +24,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/357545.Harry_Potter_y_la_c_mara_secreta)'
+sexo_autor: H
+paginas: 286
+nota: '3'
 ---
 
 ## Sinopsis

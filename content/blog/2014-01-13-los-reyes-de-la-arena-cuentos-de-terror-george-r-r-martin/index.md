@@ -24,6 +24,9 @@ editoriales:
 - PLAZA JANÉS
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37118735-los-reyes-de-la-arena)'
+sexo_autor: V
+paginas: 362
+nota: '5'
 ---
 
 ## Sinopsis

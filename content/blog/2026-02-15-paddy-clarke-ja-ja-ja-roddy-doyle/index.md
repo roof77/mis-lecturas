@@ -24,6 +24,9 @@ editoriales:
 - FisicalBook
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/67725753-paddy-clarke-ja-ja-ja)'
+sexo_autor: V
+paginas: 0
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -49,4 +52,4 @@ image:
 
 - **Inicio:** 2026/02/09
 - **Fin:** 2026/02/15
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

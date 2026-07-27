@@ -22,6 +22,9 @@ editoriales:
 - Sajalín
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13340609-el-koala-asesino)'
+sexo_autor: V
+paginas: 212
+nota: '3'
 ---
 
 ## Sinopsis

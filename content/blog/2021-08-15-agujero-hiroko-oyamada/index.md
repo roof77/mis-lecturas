@@ -25,6 +25,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57443651-agujero)'
+sexo_autor: H
+paginas: 200
+nota: 2,5
 ---
 
 ## Sinopsis

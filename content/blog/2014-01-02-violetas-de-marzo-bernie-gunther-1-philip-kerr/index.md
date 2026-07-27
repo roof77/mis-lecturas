@@ -23,6 +23,9 @@ editoriales:
 - RBA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2122406.Violetas_de_marzo)'
+sexo_autor: V
+paginas: 383
+nota: '3'
 ---
 
 ## Sinopsis

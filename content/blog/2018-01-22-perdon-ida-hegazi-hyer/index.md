@@ -22,6 +22,9 @@ editoriales:
 - Nórdica Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36110334-perd-n)'
+sexo_autor: H
+paginas: 204
+nota: '4'
 ---
 
 ## Sinopsis

@@ -18,6 +18,9 @@ editoriales:
 - Planeta DeAgostini
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35833660-adolf-integral-vol-menes-1-y-2)'
+sexo_autor: V
+paginas: 1200
+nota: '5'
 ---
 
 ## Sinopsis

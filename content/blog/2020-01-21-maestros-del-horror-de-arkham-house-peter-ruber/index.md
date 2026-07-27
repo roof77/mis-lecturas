@@ -42,6 +42,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17440145-maestros-del-horror-de-arkham-house)'
+sexo_autor: V
+paginas: 608
+nota: '3'
 ---
 
 ## Sinopsis

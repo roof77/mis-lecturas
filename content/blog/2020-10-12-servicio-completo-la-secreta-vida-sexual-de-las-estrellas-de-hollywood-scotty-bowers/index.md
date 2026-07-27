@@ -25,6 +25,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18768528-servicio-completo)'
+sexo_autor: V
+paginas: 328
+nota: '2'
 ---
 
 ## Sinopsis

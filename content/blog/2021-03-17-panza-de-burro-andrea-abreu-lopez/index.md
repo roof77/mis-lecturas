@@ -25,6 +25,9 @@ editoriales:
 - Editorial Barrett
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53412888-panza-de-burro)'
+sexo_autor: H
+paginas: 172
+nota: '4'
 ---
 
 ## Sinopsis

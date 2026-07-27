@@ -24,6 +24,9 @@ editoriales:
 - Puck
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40043351-al-final-mueren-los-dos)'
+sexo_autor: V
+paginas: 384
+nota: '3'
 ---
 
 ## Sinopsis

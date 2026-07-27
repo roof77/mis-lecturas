@@ -16,6 +16,9 @@ editoriales:
 - Panini España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/62969532-providence)'
+sexo_autor: V
+paginas: 720
+nota: '0'
 ---
 
 ## Sinopsis

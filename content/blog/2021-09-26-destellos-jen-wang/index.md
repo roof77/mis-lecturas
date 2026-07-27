@@ -23,6 +23,9 @@ editoriales:
 - Sapristi
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49439764-destellos)'
+sexo_autor: H
+paginas: 224
+nota: '4'
 ---
 
 ## Sinopsis

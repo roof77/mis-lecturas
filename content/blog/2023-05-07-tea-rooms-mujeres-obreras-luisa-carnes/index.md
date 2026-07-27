@@ -24,6 +24,9 @@ editoriales:
 - Hoja de Lata
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12856395-tea-rooms)'
+sexo_autor: H
+paginas: 256
+nota: '4'
 ---
 
 ## Sinopsis

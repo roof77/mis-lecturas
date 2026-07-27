@@ -23,6 +23,9 @@ editoriales:
 - Nova
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36006321-artemisa)'
+sexo_autor: V
+paginas: 324
+nota: '4'
 ---
 
 ## Sinopsis

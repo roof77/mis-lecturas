@@ -21,6 +21,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57249196-el-evangelio)'
+sexo_autor: H
+paginas: 304
+nota: 4,5
 ---
 
 ## Sinopsis

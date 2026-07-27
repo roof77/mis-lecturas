@@ -24,6 +24,9 @@ editoriales:
 - Lumen
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33662956-tan-poca-vida)'
+sexo_autor: H
+paginas: 1008
+nota: '4'
 ---
 
 ## Sinopsis

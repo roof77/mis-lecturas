@@ -21,6 +21,9 @@ editoriales:
 - Norma Editorial, S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7842146-la-balada-del-mar-salado)'
+sexo_autor: V
+paginas: 200
+nota: '4'
 ---
 
 ## Sinopsis

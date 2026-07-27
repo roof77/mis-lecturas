@@ -24,6 +24,9 @@ editoriales:
 - Bibliópolis
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8284655-el-ltimo-deseo)'
+sexo_autor: V
+paginas: 256
+nota: '3'
 ---
 
 ## Sinopsis

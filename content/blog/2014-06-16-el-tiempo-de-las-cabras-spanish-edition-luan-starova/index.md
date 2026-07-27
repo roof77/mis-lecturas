@@ -16,6 +16,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9464114-el-tiempo-de-las-cabras)'
+sexo_autor: V
+paginas: 232
+nota: '4'
 ---
 
 ## Sinopsis

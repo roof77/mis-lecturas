@@ -18,6 +18,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33656744-sex-criminals-16)'
+sexo_autor: V
+paginas: 40
+nota: '3'
 ---
 
 ## Sinopsis

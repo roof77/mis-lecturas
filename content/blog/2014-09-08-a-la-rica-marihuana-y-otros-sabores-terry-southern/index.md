@@ -24,6 +24,9 @@ editoriales:
 - 'Capitán Swing libros '
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3358198-a-la-rica-marihuana-y-otros-sabores)'
+sexo_autor: V
+paginas: 288
+nota: '0'
 ---
 
 ## Sinopsis

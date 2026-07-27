@@ -24,6 +24,9 @@ editoriales:
 - Maeva Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30349597-sonr-e)'
+sexo_autor: H
+paginas: 216
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -50,4 +53,4 @@ Raina solo quiere ser normal. Pero una noche, tras una reunión de los scouts, s
 
 - **Inicio:** 2026/06/18
 - **Fin:** 2026/06/18
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

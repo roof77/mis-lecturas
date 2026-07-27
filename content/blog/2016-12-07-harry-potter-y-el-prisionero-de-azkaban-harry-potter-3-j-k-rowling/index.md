@@ -22,6 +22,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/47532.Harry_Potter_y_el_prisionero_de_Azkaban)'
+sexo_autor: H
+paginas: 359
+nota: '3'
 ---
 
 ## Sinopsis

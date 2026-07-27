@@ -23,6 +23,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15868.Harry_Potter_y_la_piedra_filosofal)'
+sexo_autor: H
+paginas: 264
+nota: '3'
 ---
 
 ## Sinopsis

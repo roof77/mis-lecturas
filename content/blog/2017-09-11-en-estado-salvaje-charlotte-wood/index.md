@@ -24,6 +24,9 @@ editoriales:
 - Lumen
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35528769-en-estado-salvaje)'
+sexo_autor: H
+paginas: 256
+nota: '4'
 ---
 
 ## Sinopsis

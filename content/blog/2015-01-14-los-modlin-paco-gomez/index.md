@@ -16,6 +16,9 @@ editoriales:
 - Fracaso Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20806597-los-modlin)'
+sexo_autor: V
+paginas: 288
+nota: '4'
 ---
 
 ## Sinopsis

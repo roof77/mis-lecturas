@@ -14,6 +14,9 @@ editoriales:
 - Panini Comics España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26853456-capit-n-am-rica)'
+sexo_autor: V
+paginas: 336
+nota: '4'
 ---
 
 ## Sinopsis

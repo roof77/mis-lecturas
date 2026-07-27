@@ -23,6 +23,9 @@ editoriales:
 - Nova
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13080449-el-apag-n)'
+sexo_autor: H
+paginas: 624
+nota: '3'
 ---
 
 ## Sinopsis

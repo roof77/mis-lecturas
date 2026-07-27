@@ -23,6 +23,9 @@ editoriales:
 - NORMA EDITORIAL, S.A.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/75543287-atrevidas)'
+sexo_autor: H
+paginas: 312
+nota: '5'
 ---
 
 ## Sinopsis

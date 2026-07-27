@@ -24,6 +24,9 @@ editoriales:
 - Nova
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29242989-elantris)'
+sexo_autor: V
+paginas: 794
+nota: '4'
 ---
 
 ## Sinopsis

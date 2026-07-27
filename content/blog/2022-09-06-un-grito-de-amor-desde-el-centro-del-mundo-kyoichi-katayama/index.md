@@ -24,6 +24,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4655733-un-grito-de-amor-desde-el-centro-del-mundo)'
+sexo_autor: V
+paginas: 200
+nota: '4'
 ---
 
 ## Sinopsis

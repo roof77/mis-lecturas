@@ -14,6 +14,9 @@ editoriales:
 - Gestión 2000
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20579027-productividad-personal-en-una-semana)'
+sexo_autor: O
+paginas: 67
+nota: '3'
 ---
 
 ## Sinopsis

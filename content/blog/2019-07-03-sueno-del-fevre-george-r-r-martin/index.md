@@ -24,6 +24,9 @@ editoriales:
 - Gigamesh
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7530864-sue-o-del-fevre)'
+sexo_autor: V
+paginas: 354
+nota: '4'
 ---
 
 ## Sinopsis

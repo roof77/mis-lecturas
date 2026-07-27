@@ -24,6 +24,9 @@ editoriales:
 - Alfaguara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43185028-mi-a-o-de-descanso-y-relajaci-n)'
+sexo_autor: H
+paginas: 256
+nota: '4'
 ---
 
 ## Sinopsis

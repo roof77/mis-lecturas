@@ -21,6 +21,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34029996-un-polic-a-en-la-luna)'
+sexo_autor: V
+paginas: 96
+nota: '4'
 ---
 
 ## Sinopsis

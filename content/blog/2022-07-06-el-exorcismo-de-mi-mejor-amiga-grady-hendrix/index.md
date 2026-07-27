@@ -24,6 +24,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61028152-el-exorcismo-de-mi-mejor-amiga)'
+sexo_autor: V
+paginas: 351
+nota: 4,5
 ---
 
 ## Sinopsis

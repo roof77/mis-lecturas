@@ -23,6 +23,9 @@ editoriales:
 - Alfaguara Juvenil
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30833310-j-venes-poetas-rebeldes)'
+sexo_autor: V
+paginas: 288
+nota: 3,75
 ---
 
 ## Sinopsis

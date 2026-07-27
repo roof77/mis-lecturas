@@ -22,6 +22,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7704643-bartleby-el-escribiente-y-otros-cuentos)'
+sexo_autor: V
+paginas: 0
+nota: '4'
 ---
 
 ## Sinopsis

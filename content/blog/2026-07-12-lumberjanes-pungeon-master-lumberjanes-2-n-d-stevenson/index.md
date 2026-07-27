@@ -24,6 +24,9 @@ editoriales:
 - BOOM!Box
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25088157-lumberjanes)'
+sexo_autor: V
+paginas: 25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +50,4 @@ When you’re a scout, nothing is more important than being prepared, but how do
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

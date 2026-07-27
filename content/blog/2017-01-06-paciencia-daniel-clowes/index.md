@@ -20,6 +20,9 @@ editoriales:
 - Fulgencio Pimentel
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29243251-paciencia)'
+sexo_autor: V
+paginas: 180
+nota: '5'
 ---
 
 ## Sinopsis

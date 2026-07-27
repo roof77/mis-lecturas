@@ -25,6 +25,9 @@ editoriales:
 - Ponent Mon
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1187426.Barrio_Lejano_Tomo_2_Nouvelle_Manga_)'
+sexo_autor: V
+paginas: 200
+nota: 4,5
 ---
 
 ## Sinopsis

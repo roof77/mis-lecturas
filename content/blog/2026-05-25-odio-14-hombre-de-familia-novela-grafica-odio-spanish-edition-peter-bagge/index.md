@@ -14,6 +14,9 @@ editoriales:
 - Ediciones La Cúpula, S.L.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2751012-odio-14-hombre-de-familia-novela-grafica-odio)'
+sexo_autor: V
+paginas: 52
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -36,4 +39,4 @@ Odio 14, Hombre de familia
 
 - **Inicio:** 2026/05/25
 - **Fin:** 2026/05/25
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

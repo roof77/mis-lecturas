@@ -24,6 +24,9 @@ editoriales:
 - Alba
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33617543-mi-prima-rachel)'
+sexo_autor: H
+paginas: 456
+nota: '3'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Nocturna Ediciones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/238639933-antes-viv-amos-aqu)'
+sexo_autor: V
+paginas: 303
+nota: '4'
 ---
 
 ## Sinopsis

@@ -16,6 +16,9 @@ editoriales:
 - ALFAGUARA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51154652-el-sonido-de-las-olas)'
+sexo_autor: H
+paginas: 284
+nota: '4'
 ---
 
 ## Sinopsis

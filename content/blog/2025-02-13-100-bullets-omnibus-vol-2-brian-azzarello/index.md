@@ -21,6 +21,9 @@ editoriales:
 - DC Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59205112-100-bullets-omnibus-vol-2)'
+sexo_autor: V
+paginas: 1008
+nota: '4'
 ---
 
 ## Sinopsis

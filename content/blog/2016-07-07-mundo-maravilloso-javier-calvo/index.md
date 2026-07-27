@@ -19,6 +19,9 @@ editoriales:
 - Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5227421-mundo-maravilloso)'
+sexo_autor: V
+paginas: 550
+nota: '2'
 ---
 
 ## Sinopsis

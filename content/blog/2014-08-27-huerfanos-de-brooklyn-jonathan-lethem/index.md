@@ -23,6 +23,9 @@ editoriales:
 - Debolsillo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9819.Hu_rfanos_de_Brooklyn)'
+sexo_autor: V
+paginas: 368
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Mondadori
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5972245-ahora-es-el-momento)'
+sexo_autor: V
+paginas: 576
+nota: '4'
 ---
 
 ## Sinopsis

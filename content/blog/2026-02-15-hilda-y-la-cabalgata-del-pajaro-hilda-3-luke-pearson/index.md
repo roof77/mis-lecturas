@@ -22,6 +22,9 @@ editoriales:
 - Barbara Fiore
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22386038-hilda-y-la-cabalgata-del-p-jaro)'
+sexo_autor: V
+paginas: 44
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -49,4 +52,4 @@ La verdadera historia de esta misteriosa ave será revelada en la Cabalgata del 
 
 - **Inicio:** 2026/02/15
 - **Fin:** 2026/02/15
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

@@ -27,6 +27,9 @@ editoriales:
 - Valdemar
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4503434-narrativa-completa)'
+sexo_autor: V
+paginas: 832
+nota: '4'
 ---
 
 ## Sinopsis

@@ -21,6 +21,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18177653-los-hombres-lobo-de-montpellier)'
+sexo_autor: V
+paginas: 48
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -43,4 +46,4 @@ Sven, un artista escandinavo semibohemio que ha ido a parar a la ciudad francesa
 
 - **Inicio:** 2026/02/07
 - **Fin:** 2026/02/07
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

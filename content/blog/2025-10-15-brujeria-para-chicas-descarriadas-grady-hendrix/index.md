@@ -24,6 +24,9 @@ editoriales:
 - Minotauro
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/236280582-brujer-a-para-chicas-descarriadas)'
+sexo_autor: V
+paginas: 496
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Hyspamerica, Madrid.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12134591-marciano-vete-a-casa)'
+sexo_autor: V
+paginas: 158
+nota: '3'
 ---
 
 ## Sinopsis

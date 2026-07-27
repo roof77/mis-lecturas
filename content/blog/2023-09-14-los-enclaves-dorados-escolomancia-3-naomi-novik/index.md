@@ -23,6 +23,9 @@ editoriales:
 - Umbriel
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/75130247-los-enclaves-dorados)'
+sexo_autor: H
+paginas: 416
+nota: 3,75
 ---
 
 ## Sinopsis

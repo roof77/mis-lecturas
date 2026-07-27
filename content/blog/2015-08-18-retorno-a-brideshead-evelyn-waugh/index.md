@@ -24,6 +24,9 @@ editoriales:
 - Tusquets
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6561568-retorno-a-brideshead)'
+sexo_autor: V
+paginas: 416
+nota: '3'
 ---
 
 ## Sinopsis

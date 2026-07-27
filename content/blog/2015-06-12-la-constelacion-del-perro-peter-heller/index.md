@@ -25,6 +25,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23658837-la-constelaci-n-del-perro)'
+sexo_autor: V
+paginas: 311
+nota: '3'
 ---
 
 ## Sinopsis

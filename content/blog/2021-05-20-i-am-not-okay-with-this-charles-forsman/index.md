@@ -23,6 +23,9 @@ editoriales:
 - Fantagraphics Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34445185-i-am-not-okay-with-this)'
+sexo_autor: V
+paginas: 160
+nota: '4'
 ---
 
 ## Sinopsis

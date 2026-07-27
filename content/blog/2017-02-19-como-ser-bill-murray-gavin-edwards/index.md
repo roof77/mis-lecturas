@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33152703-c-mo-ser-bill-murray)'
+sexo_autor: V
+paginas: 320
+nota: '4'
 ---
 
 ## Sinopsis

@@ -21,6 +21,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27420709-cicatriz)'
+sexo_autor: V
+paginas: 576
+nota: '3'
 ---
 
 ## Sinopsis

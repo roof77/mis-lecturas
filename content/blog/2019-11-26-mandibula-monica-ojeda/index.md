@@ -23,6 +23,9 @@ editoriales:
 - Candaya
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39391224-mand-bula)'
+sexo_autor: H
+paginas: 288
+nota: '3'
 ---
 
 ## Sinopsis

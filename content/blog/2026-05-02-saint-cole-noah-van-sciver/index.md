@@ -19,6 +19,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41728561-saint-cole)'
+sexo_autor: V
+paginas: 124
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -44,4 +47,4 @@ Noah Van Sciver (New Jersey, 1984) empezó a llamar la atención de los lectores
 
 - **Inicio:** 2026/05/02
 - **Fin:** 2026/05/02
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

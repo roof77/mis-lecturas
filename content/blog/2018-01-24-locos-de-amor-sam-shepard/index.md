@@ -22,6 +22,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/687389.Locos_de_amor)'
+sexo_autor: V
+paginas: 106
+nota: '3'
 ---
 
 ## Sinopsis

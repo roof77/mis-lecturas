@@ -25,6 +25,9 @@ editoriales:
 - Orciny Press
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29505093-la-casa-de-arenas-movedizas)'
+sexo_autor: V
+paginas: 254
+nota: '3'
 ---
 
 ## Sinopsis

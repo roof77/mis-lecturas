@@ -17,6 +17,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12245826-la-isla-de-los-perros)'
+sexo_autor: V
+paginas: 240
+nota: '4'
 ---
 
 ## Sinopsis

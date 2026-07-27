@@ -12,6 +12,9 @@ autores:
 - Enrique Jardiel Poncela
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18301011-usted-tiene-ojos-de-mujer-fatal)'
+sexo_autor: V
+paginas: 80
+nota: '3'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Ediciones Glénat España
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17865068-the-crow)'
+sexo_autor: V
+paginas: 248
+nota: '3'
 ---
 
 ## Sinopsis

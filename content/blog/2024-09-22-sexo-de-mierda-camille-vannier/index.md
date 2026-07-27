@@ -15,6 +15,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60718865-sexo-de-mierda)'
+sexo_autor: H
+paginas: 112
+nota: '3'
 ---
 
 ## Sinopsis

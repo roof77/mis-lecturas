@@ -22,6 +22,9 @@ editoriales:
 - SALAMANDRA GRAPHIC
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/211174142-la-fil-sofa-el-perro-y-la-boda)'
+sexo_autor: H
+paginas: 299
+nota: '4'
 ---
 
 ## Sinopsis

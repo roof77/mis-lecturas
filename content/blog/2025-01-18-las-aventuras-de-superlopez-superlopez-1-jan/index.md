@@ -16,6 +16,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19537438-las-aventuras-de-superl-pez)'
+sexo_autor: V
+paginas: 65
+nota: 3,75
 ---
 
 ## Sinopsis

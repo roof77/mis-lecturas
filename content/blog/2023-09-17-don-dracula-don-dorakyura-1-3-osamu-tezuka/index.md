@@ -14,6 +14,9 @@ editoriales:
 - Planeta Cómic
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/63038735-don-dr-cula)'
+sexo_autor: V
+paginas: 888
+nota: '4'
 ---
 
 ## Sinopsis

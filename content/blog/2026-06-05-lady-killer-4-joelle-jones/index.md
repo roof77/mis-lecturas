@@ -18,6 +18,9 @@ editoriales:
 - Dark Horse
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25272003-lady-killer-4)'
+sexo_autor: H
+paginas: 32
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -40,4 +43,4 @@ Josie is a happily dedicated housewife and mother in 1960s suburban Seattle—bu
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/05
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

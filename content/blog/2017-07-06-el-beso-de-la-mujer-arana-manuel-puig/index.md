@@ -24,6 +24,9 @@ editoriales:
 - Vintage Espanol
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/63219.El_beso_de_la_mujer_ara_a)'
+sexo_autor: V
+paginas: 288
+nota: '3'
 ---
 
 ## Sinopsis

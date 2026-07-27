@@ -24,6 +24,9 @@ editoriales:
 - Blackie Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202795132-la-riada)'
+sexo_autor: V
+paginas: 250
+nota: 3,75
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Ático de los Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42299255-las-siete-muertes-de-evelyn-hardcastle)'
+sexo_autor: V
+paginas: 496
+nota: '4'
 ---
 
 ## Sinopsis

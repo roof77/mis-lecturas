@@ -23,6 +23,9 @@ editoriales:
 - Minúscula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16084530-el-tiempo-es-un-canalla)'
+sexo_autor: H
+paginas: 408
+nota: '4'
 ---
 
 ## Sinopsis

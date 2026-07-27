@@ -25,6 +25,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42507908-su-cuerpo-y-otras-fiestas)'
+sexo_autor: H
+paginas: 251
+nota: 3,5
 ---
 
 ## Sinopsis

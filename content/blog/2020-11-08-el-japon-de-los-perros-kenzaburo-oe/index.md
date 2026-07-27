@@ -25,6 +25,9 @@ editoriales:
 - Satori
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53402504-el-jap-n-de-los-perros)'
+sexo_autor: O
+paginas: 208
+nota: '3'
 ---
 
 ## Sinopsis

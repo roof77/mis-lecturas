@@ -19,6 +19,9 @@ editoriales:
 - Image Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24734770-sex-criminals-10)'
+sexo_autor: V
+paginas: 24
+nota: '3'
 ---
 
 ## Sinopsis

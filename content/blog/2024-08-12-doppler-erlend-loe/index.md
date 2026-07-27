@@ -24,6 +24,9 @@ editoriales:
 - Nórdica Libros
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43885426-doppler)'
+sexo_autor: V
+paginas: 176
+nota: 4,25
 ---
 
 ## Sinopsis

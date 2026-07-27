@@ -17,6 +17,9 @@ editoriales:
 - Planeta DeAgostini
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13490321-dr-slump-ultimate-edition-n-2)'
+sexo_autor: V
+paginas: 250
+nota: '4'
 ---
 
 ## Sinopsis

@@ -21,6 +21,9 @@ editoriales:
 - Nocturna
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46273171-un-asunto-de-familia)'
+sexo_autor: V
+paginas: 232
+nota: '4'
 ---
 
 ## Sinopsis

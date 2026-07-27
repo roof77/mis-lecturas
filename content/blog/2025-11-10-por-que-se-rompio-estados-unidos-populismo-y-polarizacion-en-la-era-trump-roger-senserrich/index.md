@@ -16,6 +16,9 @@ editoriales:
 - DEBATE
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/205456506-por-qu-se-rompi-estados-unidos)'
+sexo_autor: V
+paginas: 307
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24841640-para-acabar-con-eddy-bellegueule)'
+sexo_autor: V
+paginas: 192
+nota: '3'
 ---
 
 ## Sinopsis

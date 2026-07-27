@@ -24,6 +24,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33852769-a-sangre-y-fuego)'
+sexo_autor: V
+paginas: 316
+nota: '5'
 ---
 
 ## Sinopsis

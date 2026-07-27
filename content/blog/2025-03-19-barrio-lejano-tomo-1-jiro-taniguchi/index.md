@@ -22,6 +22,9 @@ editoriales:
 - Ponent Mon
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1187423.Barrio_lejano_Tomo_1)'
+sexo_autor: V
+paginas: 200
+nota: 4,5
 ---
 
 ## Sinopsis

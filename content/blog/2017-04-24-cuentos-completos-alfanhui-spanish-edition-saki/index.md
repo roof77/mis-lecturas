@@ -24,6 +24,9 @@ editoriales:
 - Ediciones Alpha Decay
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8763588-cuentos-completos-alfanhu)'
+sexo_autor: V
+paginas: 840
+nota: '4'
 ---
 
 ## Sinopsis

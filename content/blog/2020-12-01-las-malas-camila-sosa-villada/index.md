@@ -23,6 +23,9 @@ editoriales:
 - Tusquets
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44438256-las-malas)'
+sexo_autor: H
+paginas: 224
+nota: '4'
 ---
 
 ## Sinopsis

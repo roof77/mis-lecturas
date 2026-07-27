@@ -22,6 +22,9 @@ editoriales:
 - Suma de Letras
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24525748-el-bueno-de-oliver)'
+sexo_autor: H
+paginas: 288
+nota: '4'
 ---
 
 ## Sinopsis

@@ -24,6 +24,9 @@ editoriales:
 - NOVA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34418540-la-quinta-estaci-n)'
+sexo_autor: H
+paginas: 448
+nota: '4'
 ---
 
 ## Sinopsis

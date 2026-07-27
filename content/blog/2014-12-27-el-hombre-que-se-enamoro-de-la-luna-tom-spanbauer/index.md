@@ -24,6 +24,9 @@ editoriales:
 - Quinteto
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/257621.El_hombre_que_se_enamor_de_la_luna)'
+sexo_autor: V
+paginas: 453
+nota: '4'
 ---
 
 ## Sinopsis

@@ -23,6 +23,9 @@ editoriales:
 - Almuzara
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3893586-guerra-mundial-z)'
+sexo_autor: V
+paginas: 464
+nota: '5'
 ---
 
 ## Sinopsis

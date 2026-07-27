@@ -24,6 +24,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17436260-trilog-a-sucia-de-la-habana)'
+sexo_autor: V
+paginas: 359
+nota: '3'
 ---
 
 ## Sinopsis

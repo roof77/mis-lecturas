@@ -25,6 +25,9 @@ editoriales:
 - Alba editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60713677-el-c-sped-de-manzanilla)'
+sexo_autor: H
+paginas: 464
+nota: 4,25
 ---
 
 ## Sinopsis

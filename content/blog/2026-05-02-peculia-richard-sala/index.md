@@ -18,6 +18,9 @@ editoriales:
 - Fantagraphics Books
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/808944.Peculia)'
+sexo_autor: V
+paginas: 104
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -42,4 +45,4 @@ Collects Evil Eye #1-9 and a brand new colour chapter Doll Parts.
 
 - **Inicio:** 2026/05/01
 - **Fin:** 2026/05/02
-- **Calificación:** Muy bien/5
+- **Calificación:** Muy bien

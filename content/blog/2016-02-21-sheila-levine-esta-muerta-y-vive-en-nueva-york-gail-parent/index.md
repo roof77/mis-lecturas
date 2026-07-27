@@ -25,6 +25,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25975508-sheila-levine-est-muerta-y-vive-en-nueva-york)'
+sexo_autor: H
+paginas: 288
+nota: '3'
 ---
 
 ## Sinopsis

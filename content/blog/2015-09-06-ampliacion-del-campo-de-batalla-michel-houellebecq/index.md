@@ -24,6 +24,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/106901.Ampliaci_n_del_campo_de_batalla)'
+sexo_autor: V
+paginas: 176
+nota: '4'
 ---
 
 ## Sinopsis

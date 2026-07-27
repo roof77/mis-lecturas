@@ -25,6 +25,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22053587-qu-fue-de-sophie-wilder)'
+sexo_autor: V
+paginas: 304
+nota: '3'
 ---
 
 ## Sinopsis

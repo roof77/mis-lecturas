@@ -23,6 +23,9 @@ editoriales:
 - Libros del Kultrum
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59834525-monty-python-autobiograf-a)'
+sexo_autor: V
+paginas: 608
+nota: '5'
 ---
 
 ## Sinopsis

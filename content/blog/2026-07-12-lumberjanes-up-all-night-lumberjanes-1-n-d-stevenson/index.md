@@ -25,6 +25,9 @@ editoriales:
 - BOOM! Studios
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25088104-lumberjanes)'
+sexo_autor: V
+paginas: 27
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -48,4 +51,4 @@ Jo, April, Mal, Molly and Ripley are five best pals determined to have an awesom
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

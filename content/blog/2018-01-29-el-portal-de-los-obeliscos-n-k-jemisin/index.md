@@ -24,6 +24,9 @@ editoriales:
 - NOVA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36402881-el-portal-de-los-obeliscos)'
+sexo_autor: V
+paginas: 400
+nota: '3'
 ---
 
 ## Sinopsis

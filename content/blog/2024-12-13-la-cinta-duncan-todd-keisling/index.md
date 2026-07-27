@@ -24,6 +24,9 @@ editoriales:
 - La biblioteca de Carfax
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/218507754-la-cinta-duncan)'
+sexo_autor: V
+paginas: 160
+nota: '4'
 ---
 
 ## Sinopsis

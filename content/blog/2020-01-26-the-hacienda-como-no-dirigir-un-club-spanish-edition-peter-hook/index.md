@@ -23,6 +23,9 @@ editoriales:
 - Contra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44025626-the-ha-ienda)'
+sexo_autor: V
+paginas: 448
+nota: '4'
 ---
 
 ## Sinopsis

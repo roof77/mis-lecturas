@@ -25,6 +25,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2297722.Vinieron_como_golondrinas)'
+sexo_autor: V
+paginas: 210
+nota: '5'
 ---
 
 ## Sinopsis

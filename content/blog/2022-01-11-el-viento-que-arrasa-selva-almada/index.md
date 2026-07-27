@@ -23,6 +23,9 @@ editoriales:
 - Mardulce
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13630363-el-viento-que-arrasa)'
+sexo_autor: H
+paginas: 168
+nota: 3,75
 ---
 
 ## Sinopsis

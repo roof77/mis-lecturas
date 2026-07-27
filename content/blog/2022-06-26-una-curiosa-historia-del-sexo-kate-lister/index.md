@@ -25,6 +25,9 @@ editoriales:
 - Capitán Swing
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61151436-una-curiosa-historia-del-sexo)'
+sexo_autor: H
+paginas: 400
+nota: '4'
 ---
 
 ## Sinopsis

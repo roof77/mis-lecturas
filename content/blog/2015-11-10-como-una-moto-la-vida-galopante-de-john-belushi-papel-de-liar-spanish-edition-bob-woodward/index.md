@@ -22,6 +22,9 @@ editoriales:
 - Global Rhythm Press
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9083717-como-una-moto)'
+sexo_autor: V
+paginas: 528
+nota: '4'
 ---
 
 ## Sinopsis

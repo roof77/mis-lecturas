@@ -23,6 +23,9 @@ editoriales:
 - Alba Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24295815-house-of-cards)'
+sexo_autor: V
+paginas: 439
+nota: '4'
 ---
 
 ## Sinopsis

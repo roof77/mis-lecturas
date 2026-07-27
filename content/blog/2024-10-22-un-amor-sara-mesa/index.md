@@ -23,6 +23,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55170929-un-amor)'
+sexo_autor: H
+paginas: 143
+nota: '4'
 ---
 
 ## Sinopsis

@@ -17,6 +17,9 @@ editoriales:
 - La Cúpula
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2362614.Mujeres)'
+sexo_autor: V
+paginas: 161
+nota: Bien
 ---
 
 ## Sinopsis
@@ -41,4 +44,4 @@ Cada mujer es un mundo, y los retratos que el maestro Tatsumi hace de cada una d
 
 - **Inicio:** 2026/07/25
 - **Fin:** 2026/07/25
-- **Calificación:** Bien/5
+- **Calificación:** Bien

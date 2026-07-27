@@ -22,6 +22,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23821855-sam-zabel-y-la-pluma-m-gica)'
+sexo_autor: V
+paginas: 228
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +49,4 @@ El autor Dylan Horrocks regresa con esta largamente esperada novela gráfica, la
 
 - **Inicio:** 2026/05/03
 - **Fin:** 2026/05/03
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

@@ -14,6 +14,9 @@ editoriales:
 - Caballo De Troya
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44663371-hab-a-una-fiesta)'
+sexo_autor: H
+paginas: 192
+nota: '3'
 ---
 
 ## Sinopsis

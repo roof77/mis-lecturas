@@ -20,6 +20,9 @@ editoriales:
 - Planeta DeAgostini Comics
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12536799-pereza)'
+sexo_autor: V
+paginas: 192
+nota: '4'
 ---
 
 ## Sinopsis

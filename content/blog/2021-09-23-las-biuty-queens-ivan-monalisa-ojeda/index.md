@@ -25,6 +25,9 @@ editoriales:
 - Astra House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54224000-las-biuty-queens)'
+sexo_autor: H
+paginas: 176
+nota: 4,25
 ---
 
 ## Sinopsis

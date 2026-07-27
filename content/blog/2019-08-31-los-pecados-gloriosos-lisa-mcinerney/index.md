@@ -23,6 +23,9 @@ editoriales:
 - Alianza de Novelas
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33013019-los-pecados-gloriosos)'
+sexo_autor: H
+paginas: 432
+nota: '4'
 ---
 
 ## Sinopsis

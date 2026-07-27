@@ -21,6 +21,9 @@ editoriales:
 - Fulgencio Pimentel
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12152073-consumido)'
+sexo_autor: V
+paginas: 128
+nota: Entretenido
 ---
 
 ## Sinopsis
@@ -43,4 +46,4 @@ Meet the original antihero Joe Matt: a master of a domain that includes more tha
 
 - **Inicio:** 2026/05/31
 - **Fin:** 2026/05/31
-- **Calificación:** Entretenido/5
+- **Calificación:** Entretenido

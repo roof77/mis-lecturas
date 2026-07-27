@@ -21,6 +21,9 @@ editoriales:
 - Martínez Roca
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13647260-canciones-que-cantan-los-muertos)'
+sexo_autor: V
+paginas: 196
+nota: '4'
 ---
 
 ## Sinopsis

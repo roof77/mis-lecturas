@@ -23,6 +23,9 @@ editoriales:
 - Alba Editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26255730-pioneros-minus-n-39)'
+sexo_autor: H
+paginas: 203
+nota: '3'
 ---
 
 ## Sinopsis

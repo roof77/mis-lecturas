@@ -25,6 +25,9 @@ editoriales:
 - Ediciones B
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17311048-la-guerra-interminable)'
+sexo_autor: V
+paginas: 293
+nota: '4'
 ---
 
 ## Sinopsis

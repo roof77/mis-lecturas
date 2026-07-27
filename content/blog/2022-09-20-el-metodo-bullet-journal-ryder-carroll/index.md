@@ -24,6 +24,9 @@ editoriales:
 - Editorial Planeta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42441564-el-m-todo-bullet-journal)'
+sexo_autor: V
+paginas: 315
+nota: 3,5
 ---
 
 ## Sinopsis

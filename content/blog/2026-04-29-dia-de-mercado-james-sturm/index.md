@@ -21,6 +21,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11106982-d-a-de-mercado)'
+sexo_autor: V
+paginas: 96
+nota: Bien
 ---
 
 ## Sinopsis
@@ -42,4 +45,4 @@ La vida de Mendleman, futuro padre, se ve trastornada cuando descubre que no pue
 
 - **Inicio:** 2026/04/29
 - **Fin:** 2026/04/29
-- **Calificación:** Bien/5
+- **Calificación:** Bien

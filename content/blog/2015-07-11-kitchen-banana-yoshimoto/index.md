@@ -26,6 +26,9 @@ editoriales:
 - Tusquets
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15749264-kitchen)'
+sexo_autor: H
+paginas: 201
+nota: '3'
 ---
 
 ## Sinopsis

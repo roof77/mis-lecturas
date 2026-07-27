@@ -26,6 +26,9 @@ editoriales:
 - Gatopardo
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31309565-la-gente-del-abismo)'
+sexo_autor: V
+paginas: 280
+nota: '3'
 ---
 
 ## Sinopsis

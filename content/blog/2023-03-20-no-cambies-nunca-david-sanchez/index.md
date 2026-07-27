@@ -15,6 +15,9 @@ editoriales:
 - Astiberri
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13640753-no-cambies-nunca)'
+sexo_autor: V
+paginas: 96
+nota: '3'
 ---
 
 ## Sinopsis

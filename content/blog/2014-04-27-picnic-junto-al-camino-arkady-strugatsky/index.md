@@ -25,6 +25,9 @@ editoriales:
 - Nova
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15830041-p-cnic-junto-al-camino)'
+sexo_autor: V
+paginas: 240
+nota: '5'
 ---
 
 ## Sinopsis

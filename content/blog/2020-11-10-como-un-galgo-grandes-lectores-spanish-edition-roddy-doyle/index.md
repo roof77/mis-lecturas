@@ -23,6 +23,9 @@ editoriales:
 - Bambú
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17802228-como-un-galgo-grandes-lectores)'
+sexo_autor: V
+paginas: 176
+nota: '4'
 ---
 
 ## Sinopsis

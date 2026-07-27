@@ -19,6 +19,9 @@ editoriales:
 - Dark Horse
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24427062-lady-killer-1)'
+sexo_autor: H
+paginas: 31
+nota: Pasable
 ---
 
 ## Sinopsis
@@ -47,4 +50,4 @@ Josie Schuller is a picture-perfect homemaker, wife, and mother--but she's also 
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/05
-- **Calificación:** Pasable/5
+- **Calificación:** Pasable

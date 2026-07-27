@@ -24,6 +24,9 @@ editoriales:
 - Impedimenta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/10751720-las-se-oritas-de-escasos-medios)'
+sexo_autor: H
+paginas: 182
+nota: '4'
 ---
 
 ## Sinopsis

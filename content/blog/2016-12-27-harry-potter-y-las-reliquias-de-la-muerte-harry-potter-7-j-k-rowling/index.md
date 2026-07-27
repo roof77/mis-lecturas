@@ -23,6 +23,9 @@ editoriales:
 - Salamandra
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2366001.Harry_Potter_y_las_reliquias_de_la_muerte)'
+sexo_autor: H
+paginas: 638
+nota: '3'
 ---
 
 ## Sinopsis

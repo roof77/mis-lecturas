@@ -17,6 +17,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59418672-la-se-ora-potter-no-es-exactamente-santa-claus)'
+sexo_autor: H
+paginas: 605
+nota: '0'
 ---
 
 ## Sinopsis

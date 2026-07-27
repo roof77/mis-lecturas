@@ -24,6 +24,9 @@ editoriales:
 - dÉpoca editorial
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23304574-el-misterio-de-gramercy-park)'
+sexo_autor: H
+paginas: 400
+nota: '4'
 ---
 
 ## Sinopsis

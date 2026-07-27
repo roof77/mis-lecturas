@@ -26,6 +26,9 @@ editoriales:
 - Reino de Cordelia
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22295459-la-cruzada-de-los-ni-os)'
+sexo_autor: V
+paginas: 64
+nota: '4'
 ---
 
 ## Sinopsis

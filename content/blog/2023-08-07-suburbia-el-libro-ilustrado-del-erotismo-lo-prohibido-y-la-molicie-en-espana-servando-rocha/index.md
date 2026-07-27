@@ -14,6 +14,9 @@ editoriales:
 - La Felguera Editores
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/148791985-suburbia-el-libro-ilustrado-del-erotismo-lo-prohibido-y-la-molicie-en)'
+sexo_autor: V
+paginas: 432
+nota: 3,75
 ---
 
 ## Sinopsis

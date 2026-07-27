@@ -25,6 +25,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8317912-cuatro-hermanas)'
+sexo_autor: H
+paginas: 412
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +54,4 @@ Cuatro hermanas, la primera y única novela de Jetta Carleton, fue publicada por
 
 - **Inicio:** 2026/07/13
 - **Fin:** 2026/07/23
-- **Calificación:** Muy recomendable/5
+- **Calificación:** Muy recomendable

@@ -19,6 +19,9 @@ editoriales:
 - Editorial Café con leche
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29367864-un-encargo-f-cil)'
+sexo_autor: H
+paginas: 95
+nota: '3'
 ---
 
 ## Sinopsis

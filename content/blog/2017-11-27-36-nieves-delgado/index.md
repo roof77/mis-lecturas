@@ -18,6 +18,9 @@ editoriales:
 - Editorial Cerbero
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34600079-36)'
+sexo_autor: H
+paginas: 212
+nota: '4'
 ---
 
 ## Sinopsis

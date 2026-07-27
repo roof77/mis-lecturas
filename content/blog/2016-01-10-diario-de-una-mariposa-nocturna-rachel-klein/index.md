@@ -25,6 +25,9 @@ editoriales:
 - Planeta
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16116506-diario-de-una-mariposa-nocturna)'
+sexo_autor: H
+paginas: 336
+nota: '4'
 ---
 
 ## Sinopsis

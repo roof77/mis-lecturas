@@ -22,6 +22,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26807496-montecristo)'
+sexo_autor: V
+paginas: 320
+nota: '4'
 ---
 
 ## Sinopsis

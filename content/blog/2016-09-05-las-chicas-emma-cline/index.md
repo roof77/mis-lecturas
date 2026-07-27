@@ -24,6 +24,9 @@ editoriales:
 - Editorial Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30088893-las-chicas)'
+sexo_autor: H
+paginas: 344
+nota: '4'
 ---
 
 ## Sinopsis

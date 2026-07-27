@@ -21,6 +21,9 @@ editoriales:
 - Plan B Publicaciones, S.L.
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/126285448-barbarella)'
+sexo_autor: V
+paginas: 184
+nota: 3,75
 ---
 
 ## Sinopsis

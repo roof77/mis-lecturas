@@ -24,6 +24,9 @@ editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8817266-astro-city-4)'
+sexo_autor: V
+paginas: 224
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -48,4 +51,4 @@ Carl Donewizc es también conocido como Acero . Acaba de salir de la cárcel y a
 
 - **Inicio:** 2026/02/26
 - **Fin:** 2026/02/27
-- **Calificación:** Recomendable/5
+- **Calificación:** Recomendable

@@ -19,6 +19,9 @@ editoriales:
 - Image
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38193825-sex-criminals-21)'
+sexo_autor: V
+paginas: 31
+nota: '3'
 ---
 
 ## Sinopsis

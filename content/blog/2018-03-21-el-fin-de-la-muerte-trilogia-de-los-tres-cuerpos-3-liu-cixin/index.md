@@ -24,6 +24,9 @@ editoriales:
 - NOVA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32827109-el-fin-de-la-muerte)'
+sexo_autor: V
+paginas: 734
+nota: '4'
 ---
 
 ## Sinopsis

@@ -25,6 +25,9 @@ editoriales:
 - NOVA
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32827084-el-bosque-oscuro)'
+sexo_autor: V
+paginas: 576
+nota: '5'
 ---
 
 ## Sinopsis

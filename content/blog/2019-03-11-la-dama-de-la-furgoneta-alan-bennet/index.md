@@ -24,6 +24,9 @@ editoriales:
 - Anagrama
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/10553712-la-dama-de-la-furgoneta)'
+sexo_autor: V
+paginas: 93
+nota: '4'
 ---
 
 ## Sinopsis

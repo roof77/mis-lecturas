@@ -24,6 +24,9 @@ editoriales:
 - Libros del Asteroide
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3718548-el-delator)'
+sexo_autor: V
+paginas: 252
+nota: '4'
 ---
 
 ## Sinopsis

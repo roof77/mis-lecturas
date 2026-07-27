@@ -24,6 +24,9 @@ editoriales:
 - Literatura Random House
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49366712-gente-normal)'
+sexo_autor: H
+paginas: 222
+nota: '4'
 ---
 
 ## Sinopsis
