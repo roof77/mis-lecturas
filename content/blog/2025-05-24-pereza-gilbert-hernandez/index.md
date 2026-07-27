@@ -7,12 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Graphic Novels Comics
-- Fantasy
-- Young Adult
+- Ficción
+- Fantasía
+- Jovenes adultos
+- Adultos
 autores:
 - Gilbert Hernández
 editoriales:
@@ -29,17 +29,17 @@ Troubled teenager Miguel Serra becomes a walking urban legend after he wills him
 
 ## Ficha del libro
 
-- **Autor:** Gilbert Hernández
+- **Autor:** [Gilbert Hernández](/autores/gilbert-hernandez/)
 - **Editorial:** Planeta DeAgostini Comics
 - **Formato:** Perfect Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467438495 / 9788467438499
 - **Publicación original:** 2007-01-01
-- **Géneros:** Graphic Novels, Comics, Fiction, Graphic Novels Comics, Fantasy, Young Adult, Comix, Sequential Art, Adult, Comic Book
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Pereza](https://www.goodreads.com/book/show/12536799-pereza)
 
 ## Mi lectura
 
 - **Inicio:** 2025/05/23
 - **Fin:** 2025/05/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

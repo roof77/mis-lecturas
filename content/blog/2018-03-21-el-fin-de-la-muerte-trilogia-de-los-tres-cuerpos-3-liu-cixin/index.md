@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Audiobook
+- Ciencia ficción
+- Ficción
 - China
-- Fantasy
-- Science Fiction Fantasy
+- Fantasía
+- Ciencia Ficción
+- Espacio
+- Extraterrestres
+- Space Opera
+- Ficción especulativa
 autores:
 - Liu Cixin
+- Agustín Alepuz Morales
 editoriales:
 - NOVA
 image:
@@ -35,15 +39,15 @@ Cixin Liu es el escritor de ciencia ficción más relevante de China, capaz de l
 
 ## Ficha del libro
 
-- **Autor:** Liu Cixin
+- **Autor:** [Liu Cixin](/autores/liu-cixin/)
 - **Serie:** Remembrance of Earth's Past (#3)
-- **Colaboradores:** Agustín Alepuz Morales (Translator)
+- **Colaboradores:** [Agustín Alepuz Morales](/autores/agustin-alepuz-morales/) (Translator)
 - **Editorial:** NOVA
 - **Formato:** Paperback, 734 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417347011 / 9788417347017
 - **Publicación original:** 2018-03-15
-- **Géneros:** Science Fiction, Fiction, Audiobook, China, Fantasy, Science Fiction Fantasy, Space, Aliens, Space Opera, Speculative Fiction
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [China](/tags/china/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Espacio](/tags/espacio/), [Extraterrestres](/tags/extraterrestres/), [Space Opera](/tags/space-opera/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Personajes:** Manuel Rey Diaz, Zhang Beihai, Secretary General Say, Luo Ji, Ye Wenjie, Yang Dong, Ding Yi
 - **Lugares:** China, Istanbul (Turkey), Beijing (China), New York City, New York (United States), Australia
 - **Premios ganados:** Locus Award (2017)
@@ -54,4 +58,4 @@ Cixin Liu es el escritor de ciencia ficción más relevante de China, capaz de l
 
 - **Inicio:** 2018/03/15
 - **Fin:** 2018/03/21
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

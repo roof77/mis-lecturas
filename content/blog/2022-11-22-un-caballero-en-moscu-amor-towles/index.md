@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Historical Fiction
-- Fiction
-- Book Club
-- Historical
-- Russia
-- Audiobook
+- Ficción histórica
+- Ficción
+- Club de lectura
+- Histórico
+- Rusia
+- Ficción Literaria
+- Novela
+- Adultos
+- Ficción adulta
 autores:
 - Amor Towles
+- Gemma Rovira Ortega
 editoriales:
 - Salamandra
 image:
@@ -33,14 +37,14 @@ Además de mantenerse durante casi cincuenta semanas en las principales listas d
 
 ## Ficha del libro
 
-- **Autor:** Amor Towles
-- **Colaboradores:** Gemma Rovira Ortega (Translator)
+- **Autor:** [Amor Towles](/autores/amor-towles/)
+- **Colaboradores:** [Gemma Rovira Ortega](/autores/gemma-rovira-ortega/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 509 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498388988 / 9788498388985
 - **Publicación original:** 2018-10-01
-- **Géneros:** Historical Fiction, Fiction, Book Club, Historical, Russia, Audiobook, Literary Fiction, Novels, Adult, Adult Fiction
+- **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/), [Rusia](/tags/rusia/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Adultos](/tags/adultos/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Personajes:** Count Alexander Rostov, Mikhail Fyodorovich Mindich, Anna Urbanova, Nina Kulikova, Sofia Kulikova
 - **Lugares:** Moscow (Russian Federation), Russian Federation, Russia
 - **Nominaciones:** Kirkus Prize (2016), Goodreads Choice Award (2016), Book of the Month Book of the Year Award (2016), Dublin Literary Award (2018), Readers' Favorite Historical Fiction (2016)
@@ -50,4 +54,4 @@ Además de mantenerse durante casi cincuenta semanas en las principales listas d
 
 - **Inicio:** 2022/10/24
 - **Fin:** 2022/11/22
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

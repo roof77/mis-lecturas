@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- LGBT
+- Ficción
+- LGTBIQ+
 - Queer
 - Gay
-- Coming Of Age
-- Young Adult
+- Coming of age
+- Jovenes adultos
+- Ficción histórica
+- Novela
+- Contemporaneo
 autores:
 - Tom Spanbauer
+- Aurora Echevarría
 editoriales:
 - Mondadori
 image:
@@ -33,14 +37,14 @@ Ahora es el momento ha sido elegida por la revista Publishers Weekly como una de
 
 ## Ficha del libro
 
-- **Autor:** Tom Spanbauer
-- **Colaboradores:** Aurora Echevarría (translator)
+- **Autor:** [Tom Spanbauer](/autores/tom-spanbauer/)
+- **Colaboradores:** [Aurora Echevarría](/autores/aurora-echevarria/) (translator)
 - **Editorial:** Mondadori
 - **Formato:** Hardcover, 576 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439720572 / 9788439720577
 - **Publicación original:** 2007-04-28
-- **Géneros:** Fiction, LGBT, Queer, Gay, Coming Of Age, Young Adult, Gay Fiction, Historical Fiction, Novels, Contemporary
+- **Géneros:** [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Gay](/tags/gay/), [Coming of age](/tags/coming-of-age/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/)
 - **Nominaciones:** Lambda Literary Award (2006)
 - **Ficha en Goodreads:** [Ahora es el momento](https://www.goodreads.com/book/show/5972245-ahora-es-el-momento)
 
@@ -48,4 +52,4 @@ Ahora es el momento ha sido elegida por la revista Publishers Weekly como una de
 
 - **Inicio:** 2015/09/28
 - **Fin:** 2015/10/04
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

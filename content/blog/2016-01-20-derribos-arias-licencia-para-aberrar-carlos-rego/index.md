@@ -25,7 +25,7 @@ Desde sus inicios como La Banda sin Futuro hasta la disolución del grupo y la d
 
 ## Ficha del libro
 
-- **Autor:** Carlos Rego
+- **Autor:** [Carlos Rego](/autores/carlos-rego/)
 - **Editorial:** 66rpm
 - **Formato:** Paperback, 141 páginas
 - **Idioma:** Spanish; Castilian
@@ -37,4 +37,4 @@ Desde sus inicios como La Banda sin Futuro hasta la disolución del grupo y la d
 
 - **Inicio:** 2016/01/19
 - **Fin:** 2016/01/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Magical Realism
-- Spanish Literature
-- Latin American
-- Literature
+- Ficción
+- Clásico
+- Realismo mágico
+- Literatura hispana
+- Latino américa
+- Literatura
+- Novela
+- Fantasía
+- Literatura latinoamericana
+- Siglo XX
 autores:
 - Juan Rulfo
+- Fundación Juan Rulfo
 editoriales:
 - Editorial RM - Fundación Juan Rulfo
 image:
@@ -29,13 +34,13 @@ La obra de Juan Rulfo es sin duda la creación literaria mexicana que ha recibid
 
 ## Ficha del libro
 
-- **Autor:** Juan Rulfo
-- **Colaboradores:** Fundación Juan Rulfo (Editor)
+- **Autor:** [Juan Rulfo](/autores/juan-rulfo/)
+- **Colaboradores:** [Fundación Juan Rulfo](/autores/fundacion-juan-rulfo/) (Editor)
 - **Editorial:** Editorial RM - Fundación Juan Rulfo
 - **Formato:** Paperback, 136 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2017-06-01
-- **Géneros:** Fiction, Classics, Magical Realism, Spanish Literature, Latin American, Literature, Novels, Fantasy, Latin American Literature, 20th Century
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Realismo mágico](/tags/realismo-magico/), [Literatura hispana](/tags/literatura-hispana/), [Latino américa](/tags/latino-america/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Fantasía](/tags/fantasia/), [Literatura latinoamericana](/tags/literatura-latinoamericana/), [Siglo XX](/tags/siglo-xx/)
 - **Personajes:** Juan Preciado
 - **Lugares:** Comala (Mexico), Mexico
 - **Ficha en Goodreads:** [Pedro Páramo](https://www.goodreads.com/book/show/38667.Pedro_P_ramo)
@@ -44,4 +49,4 @@ La obra de Juan Rulfo es sin duda la creación literaria mexicana que ha recibid
 
 - **Inicio:** 2017/10/16
 - **Fin:** 2017/10/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Nonfiction
-- LGBT
+- No Ficción
+- LGTBIQ+
 autores:
 - David Ramírez
 editoriales:
@@ -30,17 +30,17 @@ Un cómic repleto de amor, risas y sentimientos a flor de piel que el autor publ
 
 ## Ficha del libro
 
-- **Autor:** David Ramírez
+- **Autor:** [David Ramírez](/autores/david-ramirez/)
 - **Editorial:** Norma Editorial
 - **Formato:** Hardcover, 184 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467943939 / 9788467943931
 - **Publicación original:** 2020-12-11
-- **Géneros:** Comics, Nonfiction, LGBT
+- **Géneros:** [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [LGTBIQ+](/tags/lgtbiq/)
 - **Ficha en Goodreads:** [Conviviendo 19 días](https://www.goodreads.com/book/show/56280301-conviviendo-19-d-as)
 
 ## Mi lectura
 
 - **Inicio:** 2025/05/10
 - **Fin:** 2025/05/10
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

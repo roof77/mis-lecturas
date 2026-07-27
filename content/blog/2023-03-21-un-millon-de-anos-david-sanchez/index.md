@@ -8,8 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Bande Dessinée
-- Fantasy
+- Fantasía
 autores:
 - David Sánchez
 editoriales:
@@ -39,16 +38,16 @@ Paco Alcázar
 
 ## Ficha del libro
 
-- **Autor:** David Sánchez
+- **Autor:** [David Sánchez](/autores/david-sanchez/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 120 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2017-03-17
-- **Géneros:** Comics, Bande Dessinée, Fantasy
+- **Géneros:** [Comics](/tags/comics/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Un millón de años](https://www.goodreads.com/book/show/34644421-un-mill-n-de-a-os)
 
 ## Mi lectura
 
 - **Inicio:** 2023/03/20
 - **Fin:** 2023/03/21
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

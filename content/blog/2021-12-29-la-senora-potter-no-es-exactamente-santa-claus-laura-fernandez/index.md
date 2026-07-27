@@ -7,9 +7,9 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Humor
-- Novels
+- Novela
 autores:
 - Laura Fernández
 editoriales:
@@ -28,13 +28,13 @@ Bajo la exuberante prosa y la imaginación sin límites de Laura Fernández, se 
 
 ## Ficha del libro
 
-- **Autor:** Laura Fernández
+- **Autor:** [Laura Fernández](/autores/laura-fernandez/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 605 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439738072 / 9788439738077
 - **Publicación original:** 2021-11-04
-- **Géneros:** Fiction, Humor, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Novela](/tags/novela/)
 - **Premios ganados:** Premio Kelvin 505 (2021), Premio Las librerías Recomiendan (2021), Premio Finestres de Narrativa en Castellano (2021), Premio El Ojo Crítico de Narrativa (2021)
 - **Ficha en Goodreads:** [La señora Potter no es exactamente Santa Claus](https://www.goodreads.com/book/show/59418672-la-se-ora-potter-no-es-exactamente-santa-claus)
 
@@ -42,4 +42,4 @@ Bajo la exuberante prosa y la imaginación sin límites de Laura Fernández, se 
 
 - **Inicio:** 2021/12/19
 - **Fin:** 2021/12/29
-- **Mi valoración:** ☆☆☆☆☆ (0/5)
+- **Calificación:** ☆☆☆☆☆ (0/5)

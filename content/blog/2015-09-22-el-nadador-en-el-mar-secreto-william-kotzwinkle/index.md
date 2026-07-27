@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Novella
-- Short Stories
+- Relatos
 - Drama
-- The United States Of America
-- American
+- EEUU
+- Literatura
+- Colecciones
+- Literatura hispana
+- Novela
 autores:
 - William Kotzwinkle
 editoriales:
@@ -31,17 +34,17 @@ El nadador en el mar secreto es la historia del arduo nacimiento de un niño con
 
 ## Ficha del libro
 
-- **Autor:** William Kotzwinkle
+- **Autor:** [William Kotzwinkle](/autores/william-kotzwinkle/)
 - **Editorial:** Navona
 - **Formato:** Hardcover, 90 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416259003 / 9788416259007
 - **Publicación original:** 2014-11-01
-- **Géneros:** Fiction, Novella, Short Stories, Drama, The United States Of America, American, Literature, Collections, Spanish Literature, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Relatos](/tags/relatos/), [Drama](/tags/drama/), [EEUU](/tags/eeuu/), [Literatura](/tags/literatura/), [Colecciones](/tags/colecciones/), [Literatura hispana](/tags/literatura-hispana/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [El nadador en el mar secreto](https://www.goodreads.com/book/show/23572099-el-nadador-en-el-mar-secreto)
 
 ## Mi lectura
 
 - **Inicio:** 2015/09/22
 - **Fin:** 2015/09/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

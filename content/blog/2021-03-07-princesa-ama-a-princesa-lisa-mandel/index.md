@@ -7,12 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Bande Dessinée
 - Comics
-- LGBT
-- Lesbian
+- LGTBIQ+
+- Lesbianismo
 - Queer
-- Graphic Novels
+- Novela gráfica
+- Francia
 autores:
 - Lisa Mandel
 editoriales:
@@ -31,17 +31,17 @@ Lisa Mandel (Marsella, 1977) nos propone una historia singular y divertida, mezc
 
 ## Ficha del libro
 
-- **Autor:** Lisa Mandel
+- **Autor:** [Lisa Mandel](/autores/lisa-mandel/)
 - **Editorial:** Ediciones Kraken
 - **Formato:** Hardcover, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8492534206 / 9788492534203
 - **Publicación original:** 2010-09-10
-- **Géneros:** Bande Dessinée, Comics, LGBT, Lesbian, Queer, Graphic Novels, France
+- **Géneros:** [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Lesbianismo](/tags/lesbianismo/), [Queer](/tags/queer/), [Novela gráfica](/tags/novela-grafica/), [Francia](/tags/francia/)
 - **Ficha en Goodreads:** [Princesa ama a Princesa](https://www.goodreads.com/book/show/36536635-princesa-ama-a-princesa)
 
 ## Mi lectura
 
 - **Inicio:** 2021/03/07
 - **Fin:** 2021/03/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

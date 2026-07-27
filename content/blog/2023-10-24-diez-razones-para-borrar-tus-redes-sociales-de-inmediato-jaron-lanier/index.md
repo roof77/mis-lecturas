@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Technology
-- Psychology
-- Self Help
-- Audiobook
-- Social Media
+- No Ficción
+- Tecnología
+- Psicología
+- Autoayuda
+- Redes sociales
+- Ciencia
+- Filosofía
+- Sociología
+- Política
 autores:
 - Jaron Lanier
 editoriales:
@@ -33,17 +36,17 @@ Si quieres una vida más feliz, un mundo más justo y pacífico, o simplemente l
 
 ## Ficha del libro
 
-- **Autor:** Jaron Lanier
+- **Autor:** [Jaron Lanier](/autores/jaron-lanier/)
 - **Editorial:** Debate
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8499929176 / 9788499929170
 - **Publicación original:** 2018-12-24
-- **Géneros:** Nonfiction, Technology, Psychology, Self Help, Audiobook, Social Media, Science, Philosophy, Sociology, Politics
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Tecnología](/tags/tecnologia/), [Psicología](/tags/psicologia/), [Autoayuda](/tags/autoayuda/), [Redes sociales](/tags/redes-sociales/), [Ciencia](/tags/ciencia/), [Filosofía](/tags/filosofia/), [Sociología](/tags/sociologia/), [Política](/tags/politica/)
 - **Ficha en Goodreads:** [Diez Razones Para Borrar Tus Redes Sociales de Inmediato](https://www.goodreads.com/book/show/41166667-diez-razones-para-borrar-tus-redes-sociales-de-inmediato)
 
 ## Mi lectura
 
 - **Inicio:** 2023/10/18
 - **Fin:** 2023/10/24
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

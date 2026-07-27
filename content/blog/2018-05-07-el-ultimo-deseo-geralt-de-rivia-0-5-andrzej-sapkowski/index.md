@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Short Stories
-- Audiobook
-- High Fantasy
-- Magic
+- Fantasía
+- Ficción
+- Relatos
+- Alta fantasía
+- Mágia
+- Adultos
+- Aventuras
+- Fantasía épica
+- Literatura polaca
 autores:
 - Andrzej Sapkowski
+- José María Faraldo
 editoriales:
 - Bibliópolis
 image:
@@ -29,15 +33,15 @@ Geralt de Rivia, brujo y mutante sobrehumano, se gana la vida como cazador de mo
 
 ## Ficha del libro
 
-- **Autor:** Andrzej Sapkowski
+- **Autor:** [Andrzej Sapkowski](/autores/andrzej-sapkowski/)
 - **Serie:** The Witcher (#0.5)
-- **Colaboradores:** José María Faraldo (Translator)
+- **Colaboradores:** [José María Faraldo](/autores/jose-maria-faraldo/) (Translator)
 - **Editorial:** Bibliópolis
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849328369X / 9788493283698
 - **Publicación original:** 2007-11-01
-- **Géneros:** Fantasy, Fiction, Short Stories, Audiobook, High Fantasy, Magic, Adult, Adventure, Epic Fantasy, Polish Literature
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Alta fantasía](/tags/alta-fantasia/), [Mágia](/tags/magia/), [Adultos](/tags/adultos/), [Aventuras](/tags/aventuras/), [Fantasía épica](/tags/fantasia-epica/), [Literatura polaca](/tags/literatura-polaca/)
 - **Personajes:** Dandelion, Yennefer, Geralt of Rivia, Nenneke
 - **Premios ganados:** Premio Ignotus (2003), Tähtifantasia Award (2011)
 - **Ficha en Goodreads:** [El último deseo (Geralt de Rivia, #0.5)](https://www.goodreads.com/book/show/8284655-el-ltimo-deseo)
@@ -46,4 +50,4 @@ Geralt de Rivia, brujo y mutante sobrehumano, se gana la vida como cazador de mo
 
 - **Inicio:** 2018/05/03
 - **Fin:** 2018/05/07
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

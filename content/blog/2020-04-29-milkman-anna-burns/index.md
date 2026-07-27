@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Ireland
-- Book Club
-- Literary Fiction
-- Irish Literature
+- Ficción
+- Ficción histórica
+- Irlanda
+- Club de lectura
+- Ficción Literaria
+- Literatura irlandesa
+- Contemporaneo
+- Novela
+- Histórico
 autores:
 - Anna Burns
+- Maia Figueroa Evans
 editoriales:
 - Alianza Editorial
 image:
@@ -31,14 +35,14 @@ En esta ciudad anónima, ser interesante es peligroso. La hermana mediana, nuest
 
 ## Ficha del libro
 
-- **Autor:** Anna Burns
-- **Colaboradores:** Maia Figueroa Evans (Translator)
+- **Autor:** [Anna Burns](/autores/anna-burns/)
+- **Colaboradores:** [Maia Figueroa Evans](/autores/maia-figueroa-evans/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491814345 / 9788491814344
 - **Publicación original:** 2019-04-01
-- **Géneros:** Fiction, Historical Fiction, Ireland, Book Club, Literary Fiction, Irish Literature, Audiobook, Contemporary, Novels, Historical
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Irlanda](/tags/irlanda/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Histórico](/tags/historico/)
 - **Lugares:** Northern Ireland (United Kingdom)
 - **Premios ganados:** Booker Prize (2018), Orwell Prize (2019), National Book Critics Circle Award (2018), Dublin Literary Award (2020)
 - **Nominaciones:** Women's Prize for Fiction (2019), Writers' Prize (2019)
@@ -48,4 +52,4 @@ En esta ciudad anónima, ser interesante es peligroso. La hermana mediana, nuest
 
 - **Inicio:** 2020/04/15
 - **Fin:** 2020/04/29
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

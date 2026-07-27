@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Thriller
 - Suspense
-- Mystery
-- Science Fiction
+- Misterio
+- Ciencia ficción
+- Paranormal
+- Sobrenatural
+- Fantasía
 autores:
 - Dean Koontz
 editoriales:
@@ -29,13 +32,13 @@ Cuando Jennifer Paige y su hermana adolescente Lisa regresan a Snowfield, donde 
 
 ## Ficha del libro
 
-- **Autor:** Dean Koontz
+- **Autor:** [Dean Koontz](/autores/dean-koontz/)
 - **Editorial:** Ediciones Martínez Roca
 - **Formato:** Paperback, 374 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 842701242X / 9788427012424
 - **Publicación original:** 1988-01-01
-- **Géneros:** Horror, Fiction, Thriller, Suspense, Mystery, Science Fiction, Paranormal, Supernatural, Fantasy, Audiobook
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Suspense](/tags/suspense/), [Misterio](/tags/misterio/), [Ciencia ficción](/tags/ciencia-ficcion/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/), [Fantasía](/tags/fantasia/)
 - **Lugares:** Snowfieldin (fictive), California (United States)
 - **Ficha en Goodreads:** [Fantasmas](https://www.goodreads.com/book/show/2206684.Fantasmas)
 
@@ -43,4 +46,4 @@ Cuando Jennifer Paige y su hermana adolescente Lisa regresan a Snowfield, donde 
 
 - **Inicio:** 2014/08/15
 - **Fin:** 2014/08/17
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

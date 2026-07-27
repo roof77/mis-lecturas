@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
+- Fantasía
 - Novella
 - Steampunk
-- Fiction
-- Historical Fiction
-- Science Fiction
+- Ficción
+- Ficción histórica
+- Ciencia ficción
+- Misterio
+- Fantasía urbana
+- Ucronía
 autores:
 - P. Djèlí Clark
+- Rebeca Cardeñoso
 editoriales:
 - Duermevela Ediciones
 image:
@@ -37,15 +41,15 @@ Esta edición cuenta con un posfacio a cargo de Cristina Jurado y varios detalle
 
 ## Ficha del libro
 
-- **Autor:** P. Djèlí Clark
+- **Autor:** [P. Djèlí Clark](/autores/p-djeli-clark/)
 - **Serie:** Dead Djinn Universe (#0.3)
-- **Colaboradores:** Rebeca Cardeñoso (Translator)
+- **Colaboradores:** [Rebeca Cardeñoso](/autores/rebeca-cardenoso/) (Translator)
 - **Editorial:** Duermevela Ediciones
 - **Formato:** Paperback, 165 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412319664 / 9788412319668
 - **Publicación original:** 2021-06-01
-- **Géneros:** Fantasy, Novella, Steampunk, Fiction, Historical Fiction, Science Fiction, Mystery, Urban Fantasy, Audiobook, Alternate History
+- **Géneros:** [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Steampunk](/tags/steampunk/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Misterio](/tags/misterio/), [Fantasía urbana](/tags/fantasia-urbana/), [Ucronía](/tags/ucronia/)
 - **Nominaciones:** Hugo Award (2020), Nebula Award (2019), Locus Award (2020), Mythopoeic Fantasy Award (2020), Ignyte Award (2020)
 - **Ficha en Goodreads:** [La maldición del tranvía 015 (Dead Djinn Universe, #0.3)](https://www.goodreads.com/book/show/58111092-la-maldici-n-del-tranv-a-015)
 
@@ -53,4 +57,4 @@ Esta edición cuenta con un posfacio a cargo de Cristina Jurado y varios detalle
 
 - **Inicio:** 2021/07/25
 - **Fin:** 2021/07/29
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Young Adult
-- Audiobook
+- Terror
+- Ficción
+- Jovenes adultos
 - Paranormal
 - Thriller
+- Fantasía
+- Sobrenatural
+- Club de lectura
+- Adultos
 autores:
 - Grady Hendrix
+- Joan Josep Mussarra Roca
 editoriales:
 - Minotauro
 image:
@@ -33,14 +37,14 @@ Un espeluznante cruce entre Eternamente amigas y El exorcista, combina las angus
 
 ## Ficha del libro
 
-- **Autor:** Grady Hendrix
-- **Colaboradores:** Joan Josep Mussarra Roca (Translator)
+- **Autor:** [Grady Hendrix](/autores/grady-hendrix/)
+- **Colaboradores:** [Joan Josep Mussarra Roca](/autores/joan-josep-mussarra-roca/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 351 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445012487 / 9788445012482
 - **Publicación original:** 2022-06-29
-- **Géneros:** Horror, Fiction, Young Adult, Audiobook, Paranormal, Thriller, Fantasy, Supernatural, Book Club, Adult
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Paranormal](/tags/paranormal/), [Thriller](/tags/thriller/), [Fantasía](/tags/fantasia/), [Sobrenatural](/tags/sobrenatural/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/)
 - **Personajes:** Abby Rivers, Gretchen Lang, Margaret Middleton, Glee Wanamaker
 - **Lugares:** Charleston, South Carolina (United States), The United States of America
 - **Nominaciones:** Goodreads Choice Award (2016), RUSA CODES Reading List (2017), Readers' Favorite Horror (2016)
@@ -50,4 +54,4 @@ Un espeluznante cruce entre Eternamente amigas y El exorcista, combina las angus
 
 - **Inicio:** 2022/07/04
 - **Fin:** 2022/07/06
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

@@ -7,14 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Horror
-- Feminism
+- Ficción
+- Terror
+- Feminismo
 - Drama
-- Book Club
-- Womens
+- Club de lectura
+- Mujeres
 autores:
 - Verity Bargate
+- Mireia Bofill Abelló
 editoriales:
 - Alba
 image:
@@ -33,18 +34,18 @@ No, mamá, no (1978), la primera novela de Verity Bargate, es un extraño y esti
 
 ## Ficha del libro
 
-- **Autor:** Verity Bargate
-- **Colaboradores:** Mireia Bofill Abelló (Translator)
+- **Autor:** [Verity Bargate](/autores/verity-bargate/)
+- **Colaboradores:** [Mireia Bofill Abelló](/autores/mireia-bofill-abello/) (Translator)
 - **Editorial:** Alba
 - **Formato:** Kindle Edition, 120 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490653232 / 9788490653234
 - **Publicación original:** 2017-05-10
-- **Géneros:** Fiction, Horror, Feminism, Drama, Book Club, Womens
+- **Géneros:** [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Feminismo](/tags/feminismo/), [Drama](/tags/drama/), [Club de lectura](/tags/club-de-lectura/), [Mujeres](/tags/mujeres/)
 - **Ficha en Goodreads:** [No, mamá, no](https://www.goodreads.com/book/show/35144489-no-mam-no)
 
 ## Mi lectura
 
 - **Inicio:** 2017/09/19
 - **Fin:** 2017/09/19
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

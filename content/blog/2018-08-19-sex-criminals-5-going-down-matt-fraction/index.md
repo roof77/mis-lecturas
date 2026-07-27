@@ -8,13 +8,14 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Comic Book
-- Fantasy
-- Ebooks
+- Novela gráfica
+- Fantasía
+- Sexualidad
+- Comedia
+- Romance
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -29,18 +30,18 @@ The best part of a new relationship is the first three weeks, right? The rush of
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 32 páginas
 - **Idioma:** English
 - **Publicación original:** 2014-03-19
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Comic Book, Fantasy, Ebooks, Sexuality, Comedy, Romance, Sequential Art
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Sexualidad](/tags/sexualidad/), [Comedia](/tags/comedia/), [Romance](/tags/romance/)
 - **Ficha en Goodreads:** [Sex Criminals #5: Going Down](https://www.goodreads.com/book/show/18875817-sex-criminals-5)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/19
 - **Fin:** 2018/08/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

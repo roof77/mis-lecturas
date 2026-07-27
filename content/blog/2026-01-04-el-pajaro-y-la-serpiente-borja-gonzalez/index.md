@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Bande Dessinée
-- Graphic Novels
-- Fantasy
-- Spanish Literature
-- Comics Bd
+- Novela gráfica
+- Fantasía
+- Literatura hispana
+- España
+- Ficción
 autores:
 - Borja González
 editoriales:
@@ -46,18 +46,18 @@ Fran J. Ortiz, Abandonad toda esperanza
 
 ## Ficha del libro
 
-- **Autor:** Borja González
+- **Autor:** [Borja González](/autores/borja-gonzalez/)
 - **Serie:** Las tres noches (#3)
 - **Editorial:** RESERVOIR BOOKS
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419437158 / 9788419437150
 - **Publicación original:** 2023-09-21
-- **Géneros:** Comics, Bande Dessinée, Graphic Novels, Fantasy, Spanish Literature, Comics Bd, Spain, Fiction, Sequential Art
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [El pájaro y la serpiente](https://www.goodreads.com/book/show/172870462-el-p-jaro-y-la-serpiente)
 
 ## Mi lectura
 
 - **Inicio:** 2025/12/31
 - **Fin:** 2026/01/04
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

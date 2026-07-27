@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Humor
-- Spanish Literature
-- Novels
-- Spain
-- Contemporary
+- Literatura hispana
+- Novela
+- España
+- Contemporaneo
+- Drama
+- Crimen
+- Comedia
 autores:
 - Santiago Lorenzo
+- Guim Tió
 editoriales:
 - Blackie Books
 image:
@@ -29,18 +33,18 @@ Manuel acuchilla a un policía antidisturbios que quería pegarle. Huye. Se esco
 
 ## Ficha del libro
 
-- **Autor:** Santiago Lorenzo
-- **Colaboradores:** Guim Tió (Illustrator)
+- **Autor:** [Santiago Lorenzo](/autores/santiago-lorenzo/)
+- **Colaboradores:** [Guim Tió](/autores/guim-tio/) (Illustrator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 221 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417059997 / 9788417059996
 - **Publicación original:** 2018-10-01
-- **Géneros:** Fiction, Humor, Spanish Literature, Novels, Spain, Contemporary, Drama, Crime, Comedy
+- **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Literatura hispana](/tags/literatura-hispana/), [Novela](/tags/novela/), [España](/tags/espana/), [Contemporaneo](/tags/contemporaneo/), [Drama](/tags/drama/), [Crimen](/tags/crimen/), [Comedia](/tags/comedia/)
 - **Ficha en Goodreads:** [Los asquerosos](https://www.goodreads.com/book/show/41587567-los-asquerosos)
 
 ## Mi lectura
 
 - **Inicio:** 2019/01/07
 - **Fin:** 2019/01/08
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

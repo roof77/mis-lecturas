@@ -9,9 +9,8 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Horror
-- Graphic Novels
-- Bande Dessinée
+- Terror
+- Novela gráfica
 autores:
 - Suehiro Maruo
 editoriales:
@@ -28,17 +27,17 @@ Una terrorífica y deliciosa historia del maestro Maruo. Una densa trama de sata
 
 ## Ficha del libro
 
-- **Autor:** Suehiro Maruo
+- **Autor:** [Suehiro Maruo](/autores/suehiro-maruo/)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484498050 / 9788484498056
 - **Publicación original:** 2005-10-30
-- **Géneros:** Manga, Comics, Horror, Graphic Novels, Bande Dessinée
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Terror](/tags/terror/), [Novela gráfica](/tags/novela-grafica/)
 - **Ficha en Goodreads:** [Dr. Inugami](https://www.goodreads.com/book/show/91824.Dr_Inugami)
 
 ## Mi lectura
 
 - **Inicio:** 2025/04/24
 - **Fin:** 2025/04/25
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

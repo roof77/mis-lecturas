@@ -8,11 +8,10 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Comic Book
+- Novela gráfica
 autores:
 - Joëlle Jones
+- Jamie S.Rich
 editoriales:
 - Dark horse
 image:
@@ -29,15 +28,16 @@ Josie closes in on the truth behind who really wants to end her life as a cheerf
 
 ## Ficha del libro
 
-- **Autor:** Joëlle Jones
+- **Autor:** [Joëlle Jones](/autores/joelle-jones/)
 - **Serie:** Lady Killer (Single Issues)
-- **Colaboradores:** Jamie S.Rich (Author)
+- **Colaboradores:** [Jamie S.Rich](/autores/jamie-s-rich/) (Author)
 - **Editorial:** Dark horse
 - **Formato:** Unknown Binding, 28 páginas
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Comic Book
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/)
 - **Ficha en Goodreads:** [Lady Killer #5](https://www.goodreads.com/book/show/25543298-lady-killer-5)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/05
+- **Calificación:** Pasable/5

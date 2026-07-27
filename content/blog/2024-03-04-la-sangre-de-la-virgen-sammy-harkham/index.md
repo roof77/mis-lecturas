@@ -8,13 +8,15 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fiction
-- Historical Fiction
-- Graphic Novels Comics
-- Film
+- Novela gráfica
+- Ficción
+- Ficción histórica
+- Películas
+- Judaismo
+- Terror
 autores:
 - Sammy Harkham
+- Alberto García Marcos
 editoriales:
 - Fulgencio Pimentel S.L.
 image:
@@ -29,14 +31,14 @@ California. 1971. Un joven ambicioso trata de abrirse camino en la industria del
 
 ## Ficha del libro
 
-- **Autor:** Sammy Harkham
-- **Colaboradores:** Alberto García Marcos (Translator)
+- **Autor:** [Sammy Harkham](/autores/sammy-harkham/)
+- **Colaboradores:** [Alberto García Marcos](/autores/alberto-garcia-marcos/) (Translator)
 - **Editorial:** Fulgencio Pimentel S.L.
 - **Formato:** Hardcover, 296 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419737070 / 9788419737076
 - **Publicación original:** 2023-04-10
-- **Géneros:** Comics, Graphic Novels, Fiction, Historical Fiction, Graphic Novels Comics, Film, Comix, Jewish, Horror, Comic Book
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Películas](/tags/peliculas/), [Judaismo](/tags/judaismo/), [Terror](/tags/terror/)
 - **Nominaciones:** Los Angeles Times Book Prize (2023)
 - **Ficha en Goodreads:** [La sangre de la virgen](https://www.goodreads.com/book/show/125607047-la-sangre-de-la-virgen)
 
@@ -44,4 +46,4 @@ California. 1971. Un joven ambicioso trata de abrirse camino en la industria del
 
 - **Inicio:** 2024/02/26
 - **Fin:** 2024/03/04
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

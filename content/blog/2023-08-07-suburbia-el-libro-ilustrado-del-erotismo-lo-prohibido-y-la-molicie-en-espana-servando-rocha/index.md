@@ -23,7 +23,7 @@ Un espectacular recorrido ilustrado por nuestros mundos más oscuros y «deprava
 
 ## Ficha del libro
 
-- **Autor:** Servando Rocha
+- **Autor:** [Servando Rocha](/autores/servando-rocha/)
 - **Editorial:** La Felguera Editores
 - **Formato:** Paperback, 432 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ Un espectacular recorrido ilustrado por nuestros mundos más oscuros y «deprava
 
 - **Inicio:** 2023/07/27
 - **Fin:** 2023/08/07
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

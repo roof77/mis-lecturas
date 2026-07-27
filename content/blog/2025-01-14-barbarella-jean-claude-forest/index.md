@@ -8,11 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Science Fiction
-- Graphic Novels Comics
-- Fiction
-- France
+- Novela gráfica
+- Ciencia ficción
+- Ficción
+- Francia
+- Fantasía
+- Romance
 autores:
 - Jean-Claude Forest
 editoriales:
@@ -29,18 +30,18 @@ Viene de otro lugar, de otro tiempo, y salta de un planeta a otro, de unos brazo
 
 ## Ficha del libro
 
-- **Autor:** Jean-Claude Forest
+- **Autor:** [Jean-Claude Forest](/autores/jean-claude-forest/)
 - **Serie:** Barbarella (#1)
 - **Editorial:** Plan B Publicaciones, S.L.
 - **Formato:** Hardcover, 184 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419740004 / 9788419740007
 - **Publicación original:** 2023-03-30
-- **Géneros:** Comics, Graphic Novels, Science Fiction, Graphic Novels Comics, Fiction, France, Comic Book, Fantasy, Bande Dessinée, Romance
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Fantasía](/tags/fantasia/), [Romance](/tags/romance/)
 - **Ficha en Goodreads:** [Barbarella](https://www.goodreads.com/book/show/126285448-barbarella)
 
 ## Mi lectura
 
 - **Inicio:** 2025/01/11
 - **Fin:** 2025/01/14
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

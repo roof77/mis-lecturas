@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Memoir
-- Short Stories
-- Essays
+- No Ficción
+- Memorias
+- Relatos
+- Ensayo
 - Queer
-- Biography
+- Biografía
+- LGTBIQ+
+- Arte
+- Nueva York
 autores:
 - Cookie Mueller
+- Rodrigo Olavarría
 editoriales:
 - los tres editores
 image:
@@ -30,17 +34,18 @@ Con los textos incluidos en este volumen, inéditos en castellano, la autora ocu
 
 ## Ficha del libro
 
-- **Autor:** Cookie Mueller
-- **Colaboradores:** Rodrigo Olavarría (translator)
+- **Autor:** [Cookie Mueller](/autores/cookie-mueller/)
+- **Colaboradores:** [Rodrigo Olavarría](/autores/rodrigo-olavarria/) (translator)
 - **Editorial:** los tres editores
 - **Formato:** Paperback, 324 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412447964 / 9788412447965
 - **Publicación original:** 2024-03-04
-- **Géneros:** Nonfiction, Memoir, Short Stories, Essays, Queer, Biography, LGBT, Art, New York, Biography Memoir
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Relatos](/tags/relatos/), [Ensayo](/tags/ensayo/), [Queer](/tags/queer/), [Biografía](/tags/biografia/), [LGTBIQ+](/tags/lgtbiq/), [Arte](/tags/arte/), [Nueva York](/tags/nueva-york/)
 - **Ficha en Goodreads:** [Caminar por aguas cristalinas en una piscina pintada de negro](https://www.goodreads.com/book/show/209302470-caminar-por-aguas-cristalinas-en-una-piscina-pintada-de-negro)
 
 ## Mi lectura
 
 - **Inicio:** 2026/03/05
 - **Fin:** 2026/03/11
+- **Calificación:** Muy recomendable/5

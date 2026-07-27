@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Young Adult
+- Jovenes adultos
 - Romance
-- Fantasy
-- Fiction
-- Contemporary
-- LGBT
+- Fantasía
+- Ficción
+- Contemporaneo
+- LGTBIQ+
+- Realismo mágico
+- Paranormal
+- Adolescencia
 autores:
 - David Levithan
 editoriales:
@@ -29,14 +32,14 @@ Cada mañana, A despierta en el cuerpo y la vida de una persona diferente. Nunca
 
 ## Ficha del libro
 
-- **Autor:** David Levithan
+- **Autor:** [David Levithan](/autores/david-levithan/)
 - **Serie:** Every Day (#1)
 - **Editorial:** Molino
 - **Formato:** Paperback, 302 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8427203225 / 9788427203228
 - **Publicación original:** 2012-10-25
-- **Géneros:** Young Adult, Romance, Fantasy, Fiction, Contemporary, LGBT, Magical Realism, Paranormal, Teen, Audiobook
+- **Géneros:** [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [LGTBIQ+](/tags/lgtbiq/), [Realismo mágico](/tags/realismo-magico/), [Paranormal](/tags/paranormal/), [Adolescencia](/tags/adolescencia/)
 - **Personajes:** A, Nathan Daldry, Justin (Every Day), Anderson Poole, Rhiannon (Every Day)
 - **Lugares:** Maryland (United States), The United States of America
 - **Premios ganados:** Deutscher Jugendliteraturpreis (2015), NAIBA Book of the Year (2013)
@@ -47,4 +50,4 @@ Cada mañana, A despierta en el cuerpo y la vida de una persona diferente. Nunca
 
 - **Inicio:** 2018/11/28
 - **Fin:** 2018/12/03
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

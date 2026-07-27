@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Ireland
-- Audiobook
-- Book Club
-- Christmas
+- Ficción
+- Ficción histórica
+- Irlanda
+- Club de lectura
+- Navidad
+- Ficción Literaria
+- Novella
+- Literatura irlandesa
+- Histórico
 autores:
 - Claire Keegan
+- Jorge Fondebrider
 editoriales:
 - Eterna Cadencia
 image:
@@ -31,14 +35,14 @@ Claire Keegan, una de las voces más potentes de la literatura irlandesa contemp
 
 ## Ficha del libro
 
-- **Autor:** Claire Keegan
-- **Colaboradores:** Jorge Fondebrider (Translator)
+- **Autor:** [Claire Keegan](/autores/claire-keegan/)
+- **Colaboradores:** [Jorge Fondebrider](/autores/jorge-fondebrider/) (Translator)
 - **Editorial:** Eterna Cadencia
 - **Formato:** Kindle Edition, 83 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9877122413 / 9789877122411
 - **Publicación original:** 2021-09-24
-- **Géneros:** Fiction, Historical Fiction, Ireland, Audiobook, Book Club, Christmas, Literary Fiction, Novella, Irish Literature, Historical
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Irlanda](/tags/irlanda/), [Club de lectura](/tags/club-de-lectura/), [Navidad](/tags/navidad/), [Ficción Literaria](/tags/ficcion-literaria/), [Novella](/tags/novella/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Histórico](/tags/historico/)
 - **Personajes:** Bill Furlong, Eileen Furlong, Kathleen Furlong, Joan Furlong, Sheila Furlong, Grace Furlong, Loretta Furlong
 - **Lugares:** Ireland
 - **Premios ganados:** Orwell Prize (2022), Kerry Group Irish Fiction Award (2022)
@@ -49,4 +53,4 @@ Claire Keegan, una de las voces más potentes de la literatura irlandesa contemp
 
 - **Inicio:** 2025/07/30
 - **Fin:** 2025/07/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -23,7 +23,7 @@ En La vida cotidiana del dibujante under­ground, centrado en sus andanzas en la
 
 ## Ficha del libro
 
-- **Autor:** Nazario
+- **Autor:** [Nazario](/autores/nazario/)
 - **Editorial:** Anagrama
 - **Formato:** Kindle Edition, 326 páginas
 - **Idioma:** Catalan; Valencian
@@ -35,4 +35,4 @@ En La vida cotidiana del dibujante under­ground, centrado en sus andanzas en la
 
 - **Inicio:** 2019/01/30
 - **Fin:** 2019/02/11
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

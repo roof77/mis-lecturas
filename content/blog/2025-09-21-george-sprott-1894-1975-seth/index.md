@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fiction
-- Graphic Novels Comics
+- Novela gráfica
+- Ficción
 - Canada
-- Comix
+- Manga
+- Arte
 autores:
 - Seth
 editoriales:
@@ -29,13 +29,13 @@ George Sprott 1894-1975. Una novela gráfica del dibujante Seth. "Este libro es 
 
 ## Ficha del libro
 
-- **Autor:** Seth
+- **Autor:** [Seth](/autores/seth/)
 - **Editorial:** Random House Mondadori, S.A.
 - **Formato:** Paperback, 64 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439722001 / 9788439722007
 - **Publicación original:** 2009-10-01
-- **Géneros:** Comics, Graphic Novels, Fiction, Graphic Novels Comics, Canada, Comix, Comic Book, Sequential Art, Comics Manga, Art
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Canada](/tags/canada/), [Manga](/tags/manga/), [Arte](/tags/arte/)
 - **Lugares:** Ontario (Canada)
 - **Ficha en Goodreads:** [George Sprott, 1894-1975](https://www.goodreads.com/book/show/20318498-george-sprott-1894-1975)
 
@@ -43,4 +43,4 @@ George Sprott 1894-1975. Una novela gráfica del dibujante Seth. "Este libro es 
 
 - **Inicio:** 2025/09/21
 - **Fin:** 2025/09/21
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

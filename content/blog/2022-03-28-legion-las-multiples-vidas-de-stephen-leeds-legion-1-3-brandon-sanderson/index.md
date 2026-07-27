@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Science Fiction
-- Fiction
-- Audiobook
-- Mystery
-- Adult
+- Fantasía
+- Ciencia ficción
+- Ficción
+- Misterio
+- Adultos
+- Relatos
+- Fantasía urbana
+- Thriller
+- Novella
 autores:
 - Brandon Sanderson
+- Manu Viciano
+- Rafael Marín Trechera
 editoriales:
 - Ediciones B
 image:
@@ -35,19 +40,19 @@ Incluye Legion (ya publicado por Fantascy en 2014), Legión: A flor de piel, nun
 
 ## Ficha del libro
 
-- **Autor:** Brandon Sanderson
+- **Autor:** [Brandon Sanderson](/autores/brandon-sanderson/)
 - **Serie:** Legion (#1-3)
-- **Colaboradores:** Manu Viciano (Translator), Rafael Marín Trechera (Translator)
+- **Colaboradores:** [Manu Viciano](/autores/manu-viciano/) (Translator), [Rafael Marín Trechera](/autores/rafael-marin-trechera/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 349 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417347321 / 9788417347321
 - **Publicación original:** 2019-11-14
-- **Géneros:** Fantasy, Science Fiction, Fiction, Audiobook, Mystery, Adult, Short Stories, Urban Fantasy, Thriller, Novella
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Relatos](/tags/relatos/), [Fantasía urbana](/tags/fantasia-urbana/), [Thriller](/tags/thriller/), [Novella](/tags/novella/)
 - **Ficha en Goodreads:** [Legión: Las múltiples vidas de Stephen Leeds (Legión, #1-3)](https://www.goodreads.com/book/show/51098395-legi-n)
 
 ## Mi lectura
 
 - **Inicio:** 2022/03/22
 - **Fin:** 2022/03/28
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Manga
-- Graphic Novels
-- Japan
+- Novela gráfica
+- Japón
 - Comics
-- Bande Dessinée
-- Food
+- Comida
+- Ficción
+- Relatos
+- Seinen manga
 autores:
 - Yarō Abe
+- Alberto Sakai Fonseca
 editoriales:
 - ASTIBERRI EDICIONES
 image:
@@ -29,18 +32,19 @@ C’è un piccolo ristorante, in un vicoletto di Shinjuku, a Tokyo. Apre a mezza
 
 ## Ficha del libro
 
-- **Autor:** Yarō Abe
+- **Autor:** [Yarō Abe](/autores/yaro-abe/)
 - **Serie:** 深夜食堂 [Shinya Shokudou] (#3-4)
-- **Colaboradores:** Alberto Sakai Fonseca (Translator)
+- **Colaboradores:** [Alberto Sakai Fonseca](/autores/alberto-sakai-fonseca/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 296 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417575731 / 9788417575731
 - **Publicación original:** 2019-11-28
-- **Géneros:** Manga, Graphic Novels, Japan, Comics, Bande Dessinée, Food, Graphic Novels Comics, Fiction, Short Stories, Seinen
+- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Comics](/tags/comics/), [Comida](/tags/comida/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Seinen manga](/tags/seinen-manga/)
 - **Ficha en Goodreads:** [La cantina de medianoche 2](https://www.goodreads.com/book/show/50353594-la-cantina-de-medianoche-2)
 
 ## Mi lectura
 
 - **Inicio:** 2026/03/19
 - **Fin:** 2026/03/22
+- **Calificación:** Muy recomendable/5

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Classics
+- Ficción
+- Ficción histórica
+- Clásico
 - Humor
-- British Literature
-- Audiobook
+- Literatura británica
+- Romance
+- Histórico
+- Novela
+- Coming of age
 autores:
 - Margery Sharp
+- Raquel García Rojas
 editoriales:
 - Hoja de Lata
 image:
@@ -31,13 +35,13 @@ Año 1938. Arnold Porritt, un próspero fontanero londinense, ya no sabe qué ha
 
 ## Ficha del libro
 
-- **Autor:** Margery Sharp
-- **Colaboradores:** Raquel García Rojas (Traductora)
+- **Autor:** [Margery Sharp](/autores/margery-sharp/)
+- **Colaboradores:** [Raquel García Rojas](/autores/raquel-garcia-rojas/) (Traductora)
 - **Editorial:** Hoja de Lata
 - **Formato:** Paperback, 280 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2020-11-01
-- **Géneros:** Fiction, Historical Fiction, Classics, Humor, British Literature, Audiobook, Romance, Historical, Novels, Coming Of Age
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Clásico](/tags/clasico/), [Humor](/tags/humor/), [Literatura británica](/tags/literatura-britanica/), [Romance](/tags/romance/), [Histórico](/tags/historico/), [Novela](/tags/novela/), [Coming of age](/tags/coming-of-age/)
 - **Lugares:** Devon, England
 - **Ficha en Goodreads:** [Cluny Brown](https://www.goodreads.com/book/show/55219495-cluny-brown)
 
@@ -45,4 +49,4 @@ Año 1938. Arnold Porritt, un próspero fontanero londinense, ya no sabe qué ha
 
 - **Inicio:** 2022/12/14
 - **Fin:** 2022/12/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

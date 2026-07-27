@@ -23,7 +23,7 @@ Marta Elisa de León fue al infierno y volvió. El infierno era la mentira, la a
 
 ## Ficha del libro
 
-- **Autor:** Marta Elisa de León
+- **Autor:** [Marta Elisa de León](/autores/marta-elisa-de-leon/)
 - **Editorial:** Turner
 - **Formato:** Kindle Edition, 255 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ Marta Elisa de León fue al infierno y volvió. El infierno era la mentira, la a
 
 - **Inicio:** 2016/03/16
 - **Fin:** 2016/03/17
-- **Mi valoración:** ★☆☆☆☆ (1/5)
+- **Calificación:** ★☆☆☆☆ (1/5)

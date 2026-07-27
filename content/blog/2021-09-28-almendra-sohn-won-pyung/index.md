@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Young Adult
-- Literary Fiction
-- Mental Health
-- Asian Literature
+- Ficción
+- Contemporaneo
+- Jovenes adultos
+- Ficción Literaria
+- Salud mentál
+- Literatura asiática
+- Coming of age
+- Ásia
+- Club de lectura
 autores:
 - Sohn Won-Pyung
+- Sunme Yoon
 editoriales:
 - Temas de hoy
 image:
@@ -37,14 +41,14 @@ Una novela breve y lacerante en la que solo la empatía puede llevar a la espera
 
 ## Ficha del libro
 
-- **Autor:** Sohn Won-Pyung
-- **Colaboradores:** Sunme Yoon (Translator)
+- **Autor:** [Sohn Won-Pyung](/autores/sohn-won-pyung/)
+- **Colaboradores:** [Sunme Yoon](/autores/sunme-yoon/) (Translator)
 - **Editorial:** Temas de hoy
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8499987915 / 9788499987910
 - **Publicación original:** 2020-03-03
-- **Géneros:** Fiction, Contemporary, Young Adult, Literary Fiction, Mental Health, Asian Literature, Coming Of Age, Audiobook, Asia, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción Literaria](/tags/ficcion-literaria/), [Salud mentál](/tags/salud-mental/), [Literatura asiática](/tags/literatura-asiatica/), [Coming of age](/tags/coming-of-age/), [Ásia](/tags/asia/), [Club de lectura](/tags/club-de-lectura/)
 - **Premios ganados:** 本屋大賞 (2020), 창비청소년문학상 (2016)
 - **Ficha en Goodreads:** [Almendra](https://www.goodreads.com/book/show/51484920-almendra)
 
@@ -52,4 +56,4 @@ Una novela breve y lacerante en la que solo la empatía puede llevar a la espera
 
 - **Inicio:** 2021/09/25
 - **Fin:** 2021/09/28
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

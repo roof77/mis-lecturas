@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
+- Fantasía
 - Harry Potter
-- Fiction
-- Short Stories
-- Young Adult
-- Magic
+- Ficción
+- Relatos
+- Jovenes adultos
+- Mágia
+- Niños
+- Brujas
 autores:
 - J.K. Rowling
 editoriales:
@@ -33,18 +35,18 @@ Con Hogwarts: una guía incompleta y poco fiable viajarás al Colegio Hogwarts d
 
 ## Ficha del libro
 
-- **Autor:** J.K. Rowling
+- **Autor:** [J.K. Rowling](/autores/j-k-rowling/)
 - **Serie:** Pottermore Presents (#3)
 - **Editorial:** Pottermore Publishing
 - **Formato:** Kindle Edition, 90 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 1781106355 / 9781781106358
 - **Publicación original:** 2016-09-06
-- **Géneros:** Fantasy, Harry Potter, Fiction, Short Stories, Young Adult, Magic, Ebooks, Childrens, Middle Grade, Witches
+- **Géneros:** [Fantasía](/tags/fantasia/), [Harry Potter](/tags/harry-potter/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Jovenes adultos](/tags/jovenes-adultos/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Brujas](/tags/brujas/)
 - **Ficha en Goodreads:** [Hogwarts: una guía incompleta y poco fiable (Pottermore presenta, #3)](https://www.goodreads.com/book/show/31540509-hogwarts)
 
 ## Mi lectura
 
 - **Inicio:** 2016/12/30
 - **Fin:** 2016/12/30
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

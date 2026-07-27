@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
+- Clásico
+- Ficción
 - Romance
-- Gothic
-- Historical Fiction
-- Literature
+- Gótico
+- Ficción histórica
+- Literatura
+- Histórico
+- Colegio
+- Literatura clásica
 autores:
 - Charlotte Brontë
+- Carmen Martín Gaite
 editoriales:
 - Alba Editorial
 image:
@@ -31,14 +35,14 @@ Carmen Martín Gaite ha rescatado el vigor, la riqueza y la naturalidad expresiv
 
 ## Ficha del libro
 
-- **Autor:** Charlotte Brontë
-- **Colaboradores:** Carmen Martín Gaite (Translator)
+- **Autor:** [Charlotte Brontë](/autores/charlotte-bronte/)
+- **Colaboradores:** [Carmen Martín Gaite](/autores/carmen-martin-gaite/) (Translator)
 - **Editorial:** Alba Editorial
 - **Formato:** Paperback, 694 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490651930 / 9788490651933
 - **Publicación original:** 2016-04-06
-- **Géneros:** Classics, Fiction, Romance, Gothic, Historical Fiction, Literature, Historical, Audiobook, School, Classic Literature
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Histórico](/tags/historico/), [Colegio](/tags/colegio/), [Literatura clásica](/tags/literatura-clasica/)
 - **Personajes:** Jane Eyre, Grace Poole, Blanche Ingram, Adèle Varens, St. John Rivers, Helen Burns, Richard Mason, Diana Rivers, Mary Rivers, Maria Temple
 - **Lugares:** Thornfield Hall (United Kingdom), England, United Kingdom
 - **Ficha en Goodreads:** [Jane Eyre](https://www.goodreads.com/book/show/29321463-jane-eyre)
@@ -47,4 +51,4 @@ Carmen Martín Gaite ha rescatado el vigor, la riqueza y la naturalidad expresiv
 
 - **Inicio:** 2021/05/31
 - **Fin:** 2021/06/14
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

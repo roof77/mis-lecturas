@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Graphic Novels Comics
+- Ficción
 - Romance
-- Adult
+- Adultos
+- Salud mentál
+- Contemporaneo
+- Muerte
 autores:
 - Jordan Crane
 editoriales:
@@ -29,14 +31,14 @@ Will y Connie han discutido en el viaje. Minucias, cosas de pareja. Al llegar a 
 
 ## Ficha del libro
 
-- **Autor:** Jordan Crane
+- **Autor:** [Jordan Crane](/autores/jordan-crane/)
 - **Serie:** Keeping Two (#1-8)
 - **Editorial:** La cúpula
 - **Formato:** Paperback, 324 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418809809 / 9788418809804
 - **Publicación original:** 2023-10-19
-- **Géneros:** Graphic Novels, Comics, Fiction, Graphic Novels Comics, Romance, Adult, Bande Dessinée, Mental Health, Contemporary, Death
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Adultos](/tags/adultos/), [Salud mentál](/tags/salud-mental/), [Contemporaneo](/tags/contemporaneo/), [Muerte](/tags/muerte/)
 - **Nominaciones:** Foreword INDIES Book of the Year Award (2022)
 - **Ficha en Goodreads:** [No te vayas](https://www.goodreads.com/book/show/202308894-no-te-vayas)
 
@@ -44,3 +46,4 @@ Will y Connie han discutido en el viaje. Minucias, cosas de pareja. Al llegar a 
 
 - **Inicio:** 2026/05/27
 - **Fin:** 2026/05/27
+- **Calificación:** Muy bien/5

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fantasy
-- Young Adult
-- Graphic Novels Comics
-- Fiction
+- Fantasía
+- Jovenes adultos
+- Ficción
+- Fantasmas
+- Paranormal
+- Ficción histórica
+- Realismo mágico
 autores:
 - Borja González
 editoriales:
@@ -33,18 +36,18 @@ Gloria, Laura y Cristina quieren montar una banda de aires punk llamada The Blac
 
 ## Ficha del libro
 
-- **Autor:** Borja González
+- **Autor:** [Borja González](/autores/borja-gonzalez/)
 - **Serie:** Las tres noches (#1)
 - **Editorial:** Reservoir Books
 - **Formato:** Hardcover, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417125647 / 9788417125646
 - **Publicación original:** 2018-06-14
-- **Géneros:** Graphic Novels, Comics, Fantasy, Young Adult, Graphic Novels Comics, Fiction, Ghosts, Paranormal, Historical Fiction, Magical Realism
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Fantasmas](/tags/fantasmas/), [Paranormal](/tags/paranormal/), [Ficción histórica](/tags/ficcion-historica/), [Realismo mágico](/tags/realismo-magico/)
 - **Ficha en Goodreads:** [The Black Holes (Las tres noches, #1)](https://www.goodreads.com/book/show/40522789-the-black-holes)
 
 ## Mi lectura
 
 - **Inicio:** 2025/12/22
 - **Fin:** 2025/12/30
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

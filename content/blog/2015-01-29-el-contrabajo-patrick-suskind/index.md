@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Plays
-- German Literature
-- Music
-- Germany
-- Classics
+- Ficción
+- Teatro
+- Literatura alemana
+- Música
+- Alemania
+- Clásico
+- Drama
+- Contemporaneo
+- Siglo XX
 autores:
 - Patrick Süskind
 editoriales:
@@ -33,13 +36,13 @@ Como la pasión y poderío olfativos del protagonista de El perfume, el instrume
 
 ## Ficha del libro
 
-- **Autor:** Patrick Süskind
+- **Autor:** [Patrick Süskind](/autores/patrick-suskind/)
 - **Editorial:** Seix Barral 
 - **Formato:** Paperback, 92 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8432205516 / 9788432205514
 - **Publicación original:** 1984-09-01
-- **Géneros:** Fiction, Plays, German Literature, Music, Germany, Classics, Theatre, Drama, Contemporary, 20th Century
+- **Géneros:** [Ficción](/tags/ficcion/), [Teatro](/tags/teatro/), [Literatura alemana](/tags/literatura-alemana/), [Música](/tags/musica/), [Alemania](/tags/alemania/), [Clásico](/tags/clasico/), [Drama](/tags/drama/), [Contemporaneo](/tags/contemporaneo/), [Siglo XX](/tags/siglo-xx/)
 - **Premios ganados:** Schlegel-Tieck Prize (1988)
 - **Ficha en Goodreads:** [El contrabajo](https://www.goodreads.com/book/show/241418.El_contrabajo)
 
@@ -47,4 +50,4 @@ Como la pasión y poderío olfativos del protagonista de El perfume, el instrume
 
 - **Inicio:** 2015/01/28
 - **Fin:** 2015/01/29
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

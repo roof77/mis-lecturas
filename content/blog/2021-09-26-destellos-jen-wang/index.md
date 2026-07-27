@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Middle Grade
+- Novela gráfica
 - Comics
-- Friendship
-- Realistic Fiction
-- Fiction
+- Amistad
+- Ficción realista
+- Ficción
+- Niños
+- Contemporaneo
+- Jovenes adultos
 autores:
 - Jen Wang
+- Julia Osuna Aguilar
 editoriales:
 - Sapristi
 image:
@@ -29,14 +32,14 @@ Moon es todo lo que Christine no es: impulsiva, segura y creativa. A pesar de ha
 
 ## Ficha del libro
 
-- **Autor:** Jen Wang
-- **Colaboradores:** Julia Osuna Aguilar (Translator)
+- **Autor:** [Jen Wang](/autores/jen-wang/)
+- **Colaboradores:** [Julia Osuna Aguilar](/autores/julia-osuna-aguilar/) (Translator)
 - **Editorial:** Sapristi
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412059077 / 9788412059076
 - **Publicación original:** 2020-04-30
-- **Géneros:** Graphic Novels, Middle Grade, Comics, Friendship, Realistic Fiction, Fiction, Childrens, Contemporary, Young Adult, Graphic Novels Comics
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Amistad](/tags/amistad/), [Ficción realista](/tags/ficcion-realista/), [Ficción](/tags/ficcion/), [Niños](/tags/ninos/), [Contemporaneo](/tags/contemporaneo/), [Jovenes adultos](/tags/jovenes-adultos/)
 - **Premios ganados:** Asian/Pacific American Award for Literature (2020), Oklahoma Sequoyah Book Award (2021)
 - **Nominaciones:** Judy Lopez Memorial Award for Children's Literature (2020)
 - **Ficha en Goodreads:** [Destellos](https://www.goodreads.com/book/show/49439764-destellos)
@@ -45,4 +48,4 @@ Moon es todo lo que Christine no es: impulsiva, segura y creativa. A pesar de ha
 
 - **Inicio:** 2021/09/23
 - **Fin:** 2021/09/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

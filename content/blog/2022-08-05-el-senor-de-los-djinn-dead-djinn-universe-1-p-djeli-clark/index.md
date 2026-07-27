@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Historical Fiction
+- Fantasía
+- Ficción
+- Ficción histórica
 - Steampunk
-- Mystery
+- Misterio
 - Queer
+- Histórico
+- LGTBIQ+
+- Ciencia ficción
 autores:
 - P. Djèlí Clark
+- Rebeca Cardeñoso
+- Sofía Sanz
 editoriales:
 - Duermevela
 image:
@@ -37,15 +42,15 @@ Este volumen contiene Muerte de un djinn en El Cairo, el primer relato ambientad
 
 ## Ficha del libro
 
-- **Autor:** P. Djèlí Clark
+- **Autor:** [P. Djèlí Clark](/autores/p-djeli-clark/)
 - **Serie:** Dead Djinn Universe (#1)
-- **Colaboradores:** Rebeca Cardeñoso (Translator), Sofía Sanz (Illustrator)
+- **Colaboradores:** [Rebeca Cardeñoso](/autores/rebeca-cardenoso/) (Translator), [Sofía Sanz](/autores/sofia-sanz/) (Illustrator)
 - **Editorial:** Duermevela
 - **Formato:** Paperback, 523 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788412572 / 9788412572506
 - **Publicación original:** 2022-07-01
-- **Géneros:** Fantasy, Fiction, Historical Fiction, Steampunk, Mystery, Queer, Historical, LGBT, Audiobook, Science Fiction
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Steampunk](/tags/steampunk/), [Misterio](/tags/misterio/), [Queer](/tags/queer/), [Histórico](/tags/historico/), [LGTBIQ+](/tags/lgtbiq/), [Ciencia ficción](/tags/ciencia-ficcion/)
 - **Lugares:** Cairo (Egypt), Egypt, Middle East, North Africa
 - **Premios ganados:** Nebula Award (2021), Locus Award (2022), Compton Crook Award (2022), Ignyte Award (2022), RUSA CODES Reading List (2022)
 - **Nominaciones:** Hugo Award (2022), World Fantasy Award (2022), Mythopoeic Fantasy Award (2022), Goodreads Choice Award (2021), Dragon Award (2021), Seiun Award 星雲賞 (2025), Readers' Favorite Fantasy (2021)
@@ -55,4 +60,4 @@ Este volumen contiene Muerte de un djinn en El Cairo, el primer relato ambientad
 
 - **Inicio:** 2022/07/21
 - **Fin:** 2022/08/05
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

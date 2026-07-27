@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Spanish Literature
-- Spain
-- Literary Fiction
-- Novels
-- Literature
+- Ficción
+- Literatura hispana
+- España
+- Ficción Literaria
+- Novela
+- Literatura
+- Contemporaneo
+- Clásicos modernos
+- Clásico
+- Universidad
 autores:
 - Javier Marías
 editoriales:
@@ -29,12 +33,12 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Javier Marías
+- **Autor:** [Javier Marías](/autores/javier-marias/)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 280 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2010-07-15
-- **Géneros:** Fiction, Spanish Literature, Spain, Literary Fiction, Novels, Literature, Contemporary, Modern Classics, Classics, Academia
+- **Géneros:** [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Contemporaneo](/tags/contemporaneo/), [Clásicos modernos](/tags/clasicos-modernos/), [Clásico](/tags/clasico/), [Universidad](/tags/universidad/)
 - **Personajes:** Clare Bayes
 - **Lugares:** Oxford, Oxfordshire, England
 - **Premios ganados:** Premi Ciutat de Barcelona (1989)
@@ -44,4 +48,4 @@ image:
 
 - **Inicio:** 2014/04/13
 - **Fin:** 2014/04/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

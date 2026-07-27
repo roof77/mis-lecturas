@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Audiobook
-- Fiction
+- Ciencia ficción
+- Ficción
 - Novella
-- Adult
-- Space
+- Adultos
+- Espacio
+- Ciencia Ficción
+- Fantasía
+- Robots
+- Space Opera
 autores:
 - Martha Wells
+- Carla Bataller Estruch
 editoriales:
 - Alethé
 image:
@@ -33,15 +37,15 @@ Sus descubrimientos harán que su forma de pensar cambie para siempre.
 
 ## Ficha del libro
 
-- **Autor:** Martha Wells
+- **Autor:** [Martha Wells](/autores/martha-wells/)
 - **Serie:** The Murderbot Diaries (#2)
-- **Colaboradores:** Carla Bataller Estruch (Translator)
+- **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (Translator)
 - **Editorial:** Alethé
 - **Formato:** Hardcover, 158 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491646752 / 9788491646754
 - **Publicación original:** 2019-11-06
-- **Géneros:** Science Fiction, Audiobook, Fiction, Novella, Adult, Space, Science Fiction Fantasy, Fantasy, Robots, Space Opera
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Adultos](/tags/adultos/), [Espacio](/tags/espacio/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Robots](/tags/robots/), [Space Opera](/tags/space-opera/)
 - **Personajes:** Murderbot, Tlacey, Tapan, ART | Perihelion, ComfortUnit, Rami, Maro
 - **Premios ganados:** Hugo Award (2019), Locus Award (2019)
 - **Nominaciones:** Nebula Award (2018), Goodreads Choice Award (2018), Readers' Favorite Science Fiction (2018)
@@ -51,4 +55,4 @@ Sus descubrimientos harán que su forma de pensar cambie para siempre.
 
 - **Inicio:** 2025/06/30
 - **Fin:** 2025/07/05
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,36 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Short Stories
-- Anthologies
+- Terror
+- Relatos
+- Antología
 - Pulp
-- Fantasy
-- Weird Fiction
+- Fantasía
+- Ficción extraña
+- Lovecraftiano
 autores:
 - Peter Ruber
+- Arthur J. Burks
+- August Derleth
+- Carl Jacobi
+- Clark Ashton Smith
+- David H. Keller
+- Donald Wandrei
+- E. Hoffmann Price
+- Frank Belknap Long
+- Greye La Spina
+- Henry S. Whitehead
+- H. Russell Wakefield
+- H.P. Lovecraft
+- Howard Wandrei
+- Mark Schorer
+- Mary Elizabeth Counselman
+- Nelson S. Bond
+- Ramsey Campbell
+- Ray Bradbury
+- Robert Bloch
+- Robert E. Howard
+- Seabury Quinn
 editoriales:
 - Valdemar
 image:
@@ -29,18 +51,18 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Peter Ruber
-- **Colaboradores:** Arthur J. Burks (Author), August Derleth (Author), Carl Jacobi (Author), Clark Ashton Smith (Author), David H. Keller (Author), Donald Wandrei (Author), E. Hoffmann Price (Author), Frank Belknap Long (Author), Greye La Spina (Author), Henry S. Whitehead (Author), H. Russell Wakefield (Author), H.P. Lovecraft (Author), Howard Wandrei (Author), Mark Schorer (Author), Mary Elizabeth Counselman (Author), Nelson S. Bond (Author), Ramsey Campbell (Author), Ray Bradbury (Author), Robert Bloch (Author), Robert E. Howard (Author), Seabury Quinn (Author)
+- **Autor:** [Peter Ruber](/autores/peter-ruber/)
+- **Colaboradores:** [Arthur J. Burks](/autores/arthur-j-burks/) (Author), [August Derleth](/autores/august-derleth/) (Author), [Carl Jacobi](/autores/carl-jacobi/) (Author), [Clark Ashton Smith](/autores/clark-ashton-smith/) (Author), [David H. Keller](/autores/david-h-keller/) (Author), [Donald Wandrei](/autores/donald-wandrei/) (Author), [E. Hoffmann Price](/autores/e-hoffmann-price/) (Author), [Frank Belknap Long](/autores/frank-belknap-long/) (Author), [Greye La Spina](/autores/greye-la-spina/) (Author), [Henry S. Whitehead](/autores/henry-s-whitehead/) (Author), [H. Russell Wakefield](/autores/h-russell-wakefield/) (Author), [H.P. Lovecraft](/autores/h-p-lovecraft/) (Author), [Howard Wandrei](/autores/howard-wandrei/) (Author), [Mark Schorer](/autores/mark-schorer/) (Author), [Mary Elizabeth Counselman](/autores/mary-elizabeth-counselman/) (Author), [Nelson S. Bond](/autores/nelson-s-bond/) (Author), [Ramsey Campbell](/autores/ramsey-campbell/) (Author), [Ray Bradbury](/autores/ray-bradbury/) (Author), [Robert Bloch](/autores/robert-bloch/) (Author), [Robert E. Howard](/autores/robert-e-howard/) (Author), [Seabury Quinn](/autores/seabury-quinn/) (Author)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 608 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477024480 / 9788477024484
 - **Publicación original:** 2003-11-01
-- **Géneros:** Horror, Short Stories, Anthologies, Pulp, Fantasy, Weird Fiction, Lovecraftian
+- **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Antología](/tags/antologia/), [Pulp](/tags/pulp/), [Fantasía](/tags/fantasia/), [Ficción extraña](/tags/ficcion-extrana/), [Lovecraftiano](/tags/lovecraftiano/)
 - **Ficha en Goodreads:** [Maestros del horror de Arkham House](https://www.goodreads.com/book/show/17440145-maestros-del-horror-de-arkham-house)
 
 ## Mi lectura
 
 - **Inicio:** 2019/12/08
 - **Fin:** 2020/01/21
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

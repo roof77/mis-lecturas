@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Horror
-- Fiction
-- Fantasy
-- Feminism
+- Relatos
+- Terror
+- Ficción
+- Fantasía
+- Feminismo
 - Queer
+- LGTBIQ+
+- Realismo mágico
+- Contemporaneo
+- Adultos
 autores:
 - Carmen Maria Machado
+- Laura Salas Rodríguez
 editoriales:
 - Anagrama
 image:
@@ -29,14 +34,14 @@ Una mujer se niega a permitir que su marido le quite una misteriosa cinta verde 
 
 ## Ficha del libro
 
-- **Autor:** Carmen Maria Machado
-- **Colaboradores:** Laura Salas Rodríguez (Translator)
+- **Autor:** [Carmen Maria Machado](/autores/carmen-maria-machado/)
+- **Colaboradores:** [Laura Salas Rodríguez](/autores/laura-salas-rodriguez/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Kindle Edition, 251 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433939858 / 9788433939852
 - **Publicación original:** 2018-10-10
-- **Géneros:** Short Stories, Horror, Fiction, Fantasy, Feminism, Queer, LGBT, Magical Realism, Contemporary, Adult
+- **Géneros:** [Relatos](/tags/relatos/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Feminismo](/tags/feminismo/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Realismo mágico](/tags/realismo-magico/), [Contemporaneo](/tags/contemporaneo/), [Adultos](/tags/adultos/)
 - **Premios ganados:** Shirley Jackson Award (2017), Lambda Literary Award (2017), National Book Critics Circle Award (2017), NAIBA Book of the Year (2018), National Book Award Finalist (2017), The Bard Fiction Prize (2018), Brooklyn Public Library Literary Prize (2018)
 - **Nominaciones:** Nebula Award (2015), World Fantasy Award (2018), PEN/Robert W. Bingham Prize (2018), Los Angeles Times Book Prize (2017), James Tiptree Jr. Award (2017), Dylan Thomas Prize (2018), Kirkus Prize (2017), The Publishing Triangle Award (2018)
 - **Ficha en Goodreads:** [Su cuerpo y otras fiestas](https://www.goodreads.com/book/show/42507908-su-cuerpo-y-otras-fiestas)
@@ -45,4 +50,4 @@ Una mujer se niega a permitir que su marido le quite una misteriosa cinta verde 
 
 - **Inicio:** 2023/09/28
 - **Fin:** 2023/10/09
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

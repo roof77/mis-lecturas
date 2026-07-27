@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Philosophy
-- France
-- Literature
-- Novels
+- Clásico
+- Ficción
+- Filosofía
+- Francia
+- Literatura
+- Novela
+- Literatura francesa
+- Colegio
+- Ficción Literaria
+- Siglo XX
 autores:
 - Albert Camus
+- José Ángel Valente
 editoriales:
 - Alianza Editorial
 image:
@@ -29,13 +34,13 @@ Guía moral e intelectual de la generación llegada a la madurez entre las ruina
 
 ## Ficha del libro
 
-- **Autor:** Albert Camus
-- **Colaboradores:** José Ángel Valente (Translator)
+- **Autor:** [Albert Camus](/autores/albert-camus/)
+- **Colaboradores:** [José Ángel Valente](/autores/jose-angel-valente/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Unknown Binding, 124 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 1999-01-01
-- **Géneros:** Classics, Fiction, Philosophy, France, Literature, Novels, French Literature, School, Literary Fiction, 20th Century
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Filosofía](/tags/filosofia/), [Francia](/tags/francia/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Literatura francesa](/tags/literatura-francesa/), [Colegio](/tags/colegio/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/)
 - **Personajes:** Meursault, Raymond Sintès, Marie Cardona, Salamano
 - **Lugares:** Algeria, North Africa, New Mexico (United States)
 - **Premios ganados:** PEN Translation Prize (1989)
@@ -45,4 +50,4 @@ Guía moral e intelectual de la generación llegada a la madurez entre las ruina
 
 - **Inicio:** 2016/11/21
 - **Fin:** 2016/11/23
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

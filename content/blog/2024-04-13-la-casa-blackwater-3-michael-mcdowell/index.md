@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- Gothic
-- Historical Fiction
-- Mystery
+- Terror
+- Fantasía
+- Ficción
+- Gótico
+- Ficción histórica
+- Misterio
+- Thriller
+- Gótico sureño
 autores:
 - Michael McDowell
+- Carles Andreu
 editoriales:
 - Blackie Books
 image:
@@ -30,15 +33,15 @@ El clan Caskey se desmorona con la cruenta guerra personal entre Mary-Love y Eli
 
 ## Ficha del libro
 
-- **Autor:** Michael McDowell
+- **Autor:** [Michael McDowell](/autores/michael-mcdowell/)
 - **Serie:** Blackwater (#3)
-- **Colaboradores:** Carles Andreu (translator)
+- **Colaboradores:** [Carles Andreu](/autores/carles-andreu/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Mass Market Paperback, 272 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419654930 / 9788419654939
 - **Publicación original:** 2024-03-06
-- **Géneros:** Horror, Fantasy, Fiction, Gothic, Historical Fiction, Mystery, Thriller, Audiobook, Southern Gothic, Roman
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Gótico sureño](/tags/gotico-sureno/)
 - **Lugares:** Perdido, Alabama (United States)
 - **Ficha en Goodreads:** [La casa (Blackwater, #3)](https://www.goodreads.com/book/show/202794989-la-casa)
 
@@ -46,4 +49,4 @@ El clan Caskey se desmorona con la cruenta guerra personal entre Mary-Love y Eli
 
 - **Inicio:** 2024/04/09
 - **Fin:** 2024/04/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

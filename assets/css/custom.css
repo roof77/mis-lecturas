@@ -1,0 +1,243 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   Tipografia personalizada del blog
+   - Nunito       -> fuente principal del sitio (titulos, menu, UI, texto general)
+   - PT Sans      -> texto de las entradas del blog (contenido dentro de .prose)
+
+   Los ficheros de fuente van autoalojados (sin llamadas a Google Fonts).
+   Coloca los ficheros descargados en:
+
+     static/fonts/nunito/Nunito-*.ttf   (16 ficheros, ver mas abajo)
+     static/fonts/pt-sans/PTSans-*.ttf  (4 ficheros)
+
+   Todo lo que esta dentro de "static/" Hugo lo copia tal cual a la raiz del
+   sitio publicado, asi que esas rutas quedan servidas en:
+     /fonts/nunito/Nunito-Regular.ttf
+     /fonts/pt-sans/PTSans-Regular.ttf
+   ══════════════════════════════════════════════════════════════════════════ */
+
+/* ---- Nunito (fuente principal) ------------------------------------------ */
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-ExtraBoldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("/fonts/nunito/Nunito-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ---- PT Sans (texto de los posts) --------------------------------------- */
+
+@font-face {
+  font-family: "PT Sans";
+  src: url("/fonts/pt-sans/PTSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  src: url("/fonts/pt-sans/PTSans-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  src: url("/fonts/pt-sans/PTSans-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  src: url("/fonts/pt-sans/PTSans-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ---- Aplicar: Nunito como fuente principal del sitio --------------------
+   El tema controla la tipografia con estas dos variables (definidas por el
+   theme pack elegido en config/_default/params.yaml -> hugoblox.typography.pack).
+   Sobreescribirlas aqui tiene prioridad porque este fichero se carga despues. */
+:root {
+  --hb-font-heading: "Nunito", var(--hb-font-family-sans);
+  --hb-font-body: "Nunito", var(--hb-font-family-sans);
+}
+
+/* ---- Aplicar: PT Sans solo al texto de las entradas del blog -------------
+   El contenido de cada post (lo que escribes en Markdown) se renderiza
+   dentro de un contenedor con la clase "prose" (Tailwind Typography).
+   Los titulos, fechas, menu, etc. quedan fuera de "prose", asi que no les
+   afecta y siguen en Nunito. */
+.prose {
+  font-family: "PT Sans", var(--hb-font-family-sans);
+}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   Paleta de color personalizada (solo tema claro)
+   - Fondo:    #E7E8D1
+   - Titulos:  #B85042
+   - Texto:    #415848
+
+   Nota de accesibilidad: el verde de texto pedido originalmente, #A7BEAE,
+   solo da 1.59:1 de contraste sobre #E7E8D1 (el minimo WCAG AA para texto
+   normal es 4.5:1) -> practicamente ilegible para texto largo como una
+   reseña de libro. #415848 es el MISMO tono, solo mas oscuro, y sube el
+   contraste a 6.21:1 (supera AA con holgura, casi AAA).
+
+   Se aplica solo cuando NO esta activo el modo oscuro (":not(.dark)"), para
+   no tocar esa paleta. */
+
+:root:not(.dark) {
+  --hb-color-background: #E7E8D1;
+  --hb-color-foreground: #415848;
+  --hb-color-header-bg: #E7E8D1;
+  --hb-color-header-fg: #415848;
+  --hb-color-footer-bg: #E7E8D1;
+  --hb-color-footer-fg: #415848;
+}
+
+/* Titulos (h1-h6) fuera del contenido de los posts: el tema los pinta con
+   clases Tailwind fijas (p.ej. "text-slate-900"), asi que hace falta
+   sobreescribirlos directamente en vez de con una variable. */
+:root:not(.dark) h1,
+:root:not(.dark) h2,
+:root:not(.dark) h3,
+:root:not(.dark) h4,
+:root:not(.dark) h5,
+:root:not(.dark) h6 {
+  color: #B85042;
+}
+
+/* Titulos y parrafos DENTRO del contenido de cada post (envuelto en .prose,
+   el plugin Tailwind Typography), que se controlan con sus propias
+   variables en vez de las de arriba. */
+:root:not(.dark) .prose {
+  --tw-prose-headings: #B85042;
+  --tw-prose-body: #415848;
+  --tw-prose-bold: #415848;
+}

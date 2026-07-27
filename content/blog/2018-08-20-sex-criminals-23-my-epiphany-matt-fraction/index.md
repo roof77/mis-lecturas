@@ -7,12 +7,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Fantasy
-- Comic Book
+- Novela gráfica
+- Fantasía
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image
 image:
@@ -29,18 +28,18 @@ It’s all been building to this: Alix gets hit by a bus. (She’s okay.)
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image
 - **Formato:** Kindle Edition, 28 páginas
 - **Idioma:** English
 - **Publicación original:** 2018-04-04
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Fantasy, Comic Book
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Sex Criminals #23: My Epiphany](https://www.goodreads.com/book/show/38218852-sex-criminals-23)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

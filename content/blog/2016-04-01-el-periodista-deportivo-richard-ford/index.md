@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Novels
-- Literary Fiction
-- Literature
-- American
-- Classics
+- Ficción
+- Novela
+- Ficción Literaria
+- Literatura
+- EEUU
+- Clásico
+- Deportes
+- Contemporaneo
 autores:
 - Richard Ford
+- Isabel Núñez
+- José Aguirre
 editoriales:
 - Editorial Anagrama
 image:
@@ -29,15 +33,15 @@ Frank Bascombe tiene treinta y ocho años y un magnífico porvenir como escritor
 
 ## Ficha del libro
 
-- **Autor:** Richard Ford
+- **Autor:** [Richard Ford](/autores/richard-ford/)
 - **Serie:** Frank Bascombe (#1)
-- **Colaboradores:** Isabel Núñez (Translator), José Aguirre (Translator)
+- **Colaboradores:** [Isabel Núñez](/autores/isabel-nunez/) (Translator), [José Aguirre](/autores/jose-aguirre/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Mass Market Paperback, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433967517 / 9788433967510
 - **Publicación original:** 2003-05-01
-- **Géneros:** Fiction, Novels, Literary Fiction, Literature, American, Classics, Sports, Contemporary, The United States Of America, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Clásico](/tags/clasico/), [Deportes](/tags/deportes/), [Contemporaneo](/tags/contemporaneo/)
 - **Personajes:** Frank Bascombe, Walter Luckett, Vicki Arcenault
 - **Lugares:** New Jersey (United States), Detroit, Michigan (United States)
 - **Premios ganados:** Mississippi Institute of Arts and Letters Award (1987)
@@ -48,4 +52,4 @@ Frank Bascombe tiene treinta y ocho años y un magnífico porvenir como escritor
 
 - **Inicio:** 2016/03/25
 - **Fin:** 2016/04/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

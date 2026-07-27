@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Historical Fiction
-- Literature
-- Novels
+- Clásico
+- Ficción
+- Ficción histórica
+- Literatura
+- Novela
 - Dark Academia
+- Literatura británica
+- Club de lectura
+- Ficción Literaria
+- Siglo XX
 autores:
 - Evelyn Waugh
 editoriales:
@@ -30,13 +34,13 @@ Retorno a Brideshead, una de las novelas más importantes de la aclamada obra de
 
 ## Ficha del libro
 
-- **Autor:** Evelyn Waugh
+- **Autor:** [Evelyn Waugh](/autores/evelyn-waugh/)
 - **Editorial:** Tusquets
 - **Formato:** Mass Market Paperback, 416 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8483835274 / 9788483835272
 - **Publicación original:** 2008-10-01
-- **Géneros:** Classics, Fiction, Historical Fiction, Literature, Novels, Dark Academia, British Literature, Book Club, Literary Fiction, 20th Century
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Dark Academia](/tags/dark-academia/), [Literatura británica](/tags/literatura-britanica/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/)
 - **Personajes:** Charles Ryder, Lord Sebastian Flyte, Lady Julia Flyte, Rex Mottram, Anthony Blanche
 - **Lugares:** England, Oxford, Oxfordshire, England, Venice (Italy), Oxford University, Oxford, England, London, England
 - **Ficha en Goodreads:** [Retorno a Brideshead](https://www.goodreads.com/book/show/6561568-retorno-a-brideshead)
@@ -45,4 +49,4 @@ Retorno a Brideshead, una de las novelas más importantes de la aclamada obra de
 
 - **Inicio:** 2015/08/13
 - **Fin:** 2015/08/18
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

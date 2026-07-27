@@ -8,11 +8,15 @@ authors:
 tags:
 - Lecturas
 - Romance
-- Fiction
-- Contemporary
-- Books About Books
-- Cozy
-- Spanish Literature
+- Ficción
+- Contemporaneo
+- Libros sobre libros
+- Comfortable
+- Literatura hispana
+- España
+- Literatura
+- Novela
+- Adultos
 autores:
 - Mónica Gutiérrez Artero
 editoriales:
@@ -33,17 +37,17 @@ La joven acepta y poco a poco va descubriendo el encanto de esta pequeña librer
 
 ## Ficha del libro
 
-- **Autor:** Mónica Gutiérrez Artero
+- **Autor:** [Mónica Gutiérrez Artero](/autores/monica-gutierrez-artero/)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 846666856X / 9788466668569
 - **Publicación original:** 2020-10-15
-- **Géneros:** Romance, Fiction, Contemporary, Books About Books, Cozy, Spanish Literature, Spain, Literature, Novels, Adult
+- **Géneros:** [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Libros sobre libros](/tags/libros-sobre-libros/), [Comfortable](/tags/comfortable/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [La librería del señor Livingstone](https://www.goodreads.com/book/show/54919980-la-librer-a-del-se-or-livingstone)
 
 ## Mi lectura
 
 - **Inicio:** 2022/12/30
 - **Fin:** 2022/01/04
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

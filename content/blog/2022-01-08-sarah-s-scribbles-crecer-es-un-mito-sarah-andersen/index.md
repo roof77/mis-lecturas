@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
 - Humor
-- Nonfiction
-- Graphic Novels Comics
-- Adult
+- No Ficción
+- Adultos
+- Comedia
+- Contemporaneo
 autores:
 - Sarah Andersen
+- Helena Pons
 editoriales:
 - Bridge
 image:
@@ -35,15 +37,15 @@ Sarah Andersen es una ilustradora de Brooklyn. Este libro NO es autobiográfico.
 
 ## Ficha del libro
 
-- **Autor:** Sarah Andersen
+- **Autor:** [Sarah Andersen](/autores/sarah-andersen/)
 - **Serie:** Sarah's Scribbles (#1)
-- **Colaboradores:** Helena Pons (Translator)
+- **Colaboradores:** [Helena Pons](/autores/helena-pons/) (Translator)
 - **Editorial:** Bridge
 - **Formato:** Hardcover, 109 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416670064 / 9788416670062
 - **Publicación original:** 2016-10-19
-- **Géneros:** Graphic Novels, Comics, Humor, Nonfiction, Graphic Novels Comics, Adult, Comedy, Contemporary, Ebooks, Comic Book
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Humor](/tags/humor/), [No Ficción](/tags/no-ficcion/), [Adultos](/tags/adultos/), [Comedia](/tags/comedia/), [Contemporaneo](/tags/contemporaneo/)
 - **Premios ganados:** Goodreads Choice Award (2016)
 - **Nominaciones:** Readers' Favorite Graphic Novels & Comics (2016)
 - **Ficha en Goodreads:** [Sarah's Scribbles: Crecer es un mito](https://www.goodreads.com/book/show/31927662-sarah-s-scribbles)
@@ -52,4 +54,4 @@ Sarah Andersen es una ilustradora de Brooklyn. Este libro NO es autobiográfico.
 
 - **Inicio:** 2022/01/08
 - **Fin:** 2022/01/08
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

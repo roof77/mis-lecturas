@@ -9,12 +9,17 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Bande Dessinée
-- Japan
-- Graphic Novels
-- Food
+- Japón
+- Novela gráfica
+- Comida
+- Ficción
+- Ásia
+- Literatura japanesa
+- Seinen manga
 autores:
 - Jirō Taniguchi
+- Masayuki Kusumi
+- Alberto Sakai
 editoriales:
 - Astiberri Ediciones
 image:
@@ -31,19 +36,19 @@ A través de la mirada curiosa de este viajero gastronómico, los autores, Jiro 
 
 ## Ficha del libro
 
-- **Autor:** Jirō Taniguchi
+- **Autor:** [Jirō Taniguchi](/autores/jiro-taniguchi/)
 - **Serie:** 孤独のグルメ [Kodoku no Gourmet] (#1)
-- **Colaboradores:** Masayuki Kusumi (Author), Alberto Sakai (Translator)
+- **Colaboradores:** [Masayuki Kusumi](/autores/masayuki-kusumi/) (Author), [Alberto Sakai](/autores/alberto-sakai/) (Translator)
 - **Editorial:** Astiberri Ediciones
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8492769688 / 9788492769681
 - **Publicación original:** 2010-12-01
-- **Géneros:** Manga, Comics, Bande Dessinée, Japan, Graphic Novels, Food, Fiction, Asia, Japanese Literature, Seinen
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Comida](/tags/comida/), [Ficción](/tags/ficcion/), [Ásia](/tags/asia/), [Literatura japanesa](/tags/literatura-japanesa/), [Seinen manga](/tags/seinen-manga/)
 - **Ficha en Goodreads:** [El gourmet solitario](https://www.goodreads.com/book/show/10824374-el-gourmet-solitario)
 
 ## Mi lectura
 
 - **Inicio:** 2024/07/22
 - **Fin:** 2024/07/23
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

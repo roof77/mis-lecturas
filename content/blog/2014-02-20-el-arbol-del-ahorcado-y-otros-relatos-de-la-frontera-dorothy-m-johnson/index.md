@@ -7,12 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Westerns
-- Fiction
-- Short Stories
-- Classics
-- Historical Fiction
-- Novels
+- Oeste
+- Ficción
+- Relatos
+- Clásico
+- Ficción histórica
+- Novela
 autores:
 - Dorothy M. Johnson
 editoriales:
@@ -30,17 +30,17 @@ Los relatos que componen el presente volumen fueron publicados por vez primera e
 
 ## Ficha del libro
 
-- **Autor:** Dorothy M. Johnson
+- **Autor:** [Dorothy M. Johnson](/autores/dorothy-m-johnson/)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477027544 / 9788477027546
 - **Publicación original:** 2013-01-01
-- **Géneros:** Westerns, Fiction, Short Stories, Classics, Historical Fiction, Novels
+- **Géneros:** [Oeste](/tags/oeste/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [El árbol del ahorcado y otros relatos de la Frontera](https://www.goodreads.com/book/show/18716473-el-rbol-del-ahorcado-y-otros-relatos-de-la-frontera)
 
 ## Mi lectura
 
 - **Inicio:** 2014/02/16
 - **Fin:** 2014/02/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

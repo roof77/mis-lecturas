@@ -9,6 +9,7 @@ tags:
 - Lecturas
 autores:
 - Jason Latour
+- Robbi Rodriguez
 editoriales:
 - Panini Comics España
 image:
@@ -25,9 +26,9 @@ Contiene Spider-Gwen v2, 19-24 USA
 
 ## Ficha del libro
 
-- **Autor:** Jason Latour
+- **Autor:** [Jason Latour](/autores/jason-latour/)
 - **Serie:** Spider-Gwen (2015-2018) (Single Issues) (#19-24)
-- **Colaboradores:** Robbi Rodriguez (Illustrator)
+- **Colaboradores:** [Robbi Rodriguez](/autores/robbi-rodriguez/) (Illustrator)
 - **Editorial:** Panini Comics España
 - **Formato:** Paperback, 144 páginas
 - **Idioma:** Spanish; Castilian
@@ -39,3 +40,4 @@ Contiene Spider-Gwen v2, 19-24 USA
 
 - **Inicio:** 2026/07/08
 - **Fin:** 2026/07/08
+- **Calificación:** Pasable/5

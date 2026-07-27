@@ -7,13 +7,17 @@ authors:
 tags:
 - Lecturas
 - Noir
-- Mystery
-- Crime
-- Fiction
-- France
+- Misterio
+- Crimen
+- Ficción
+- Francia
 - Thriller
+- Internacional
+- Literatura francesa
+- Detectives
 autores:
 - Léo Malet
+- Luisa Feliu
 editoriales:
 - Libros del Asteroide
 image:
@@ -28,18 +32,18 @@ The first Nestor Burma mystery. Translated from the French. Cover photo by Rober
 
 ## Ficha del libro
 
-- **Autor:** Léo Malet
-- **Colaboradores:** Luisa Feliu (Translator)
+- **Autor:** [Léo Malet](/autores/leo-malet/)
+- **Colaboradores:** [Luisa Feliu](/autores/luisa-feliu/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 248 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8492663146 / 9788492663149
 - **Publicación original:** 2009-02-01
-- **Géneros:** Noir, Mystery, Crime, Fiction, France, Thriller, Roman, International, French Literature, Detective
+- **Géneros:** [Noir](/tags/noir/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Thriller](/tags/thriller/), [Internacional](/tags/internacional/), [Literatura francesa](/tags/literatura-francesa/), [Detectives](/tags/detectives/)
 - **Ficha en Goodreads:** [Calle de la Estación, 120](https://www.goodreads.com/book/show/9396226-calle-de-la-estaci-n-120)
 
 ## Mi lectura
 
 - **Inicio:** 2014/07/08
 - **Fin:** 2014/07/09
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

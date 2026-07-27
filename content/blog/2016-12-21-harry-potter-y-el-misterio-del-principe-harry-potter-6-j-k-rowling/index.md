@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Young Adult
+- Fantasía
+- Ficción
+- Jovenes adultos
 - Harry Potter
-- Magic
-- Audiobook
+- Mágia
+- Niños
+- Aventuras
+- Clásico
 autores:
 - J.K. Rowling
 editoriales:
@@ -29,14 +31,14 @@ Con dieciséis años cumplidos, Harry Potter inicia el sexto curso en Hogwarts e
 
 ## Ficha del libro
 
-- **Autor:** J.K. Rowling
+- **Autor:** [J.K. Rowling](/autores/j-k-rowling/)
 - **Serie:** Harry Potter (#6)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 602 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478889930 / 9788478889938
 - **Publicación original:** 2006-02-28
-- **Géneros:** Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook, Childrens, Adventure, Middle Grade, Classics
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)
 - **Personajes:** Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Severus Snape, Lord Voldemort, Neville Longbottom, Fred Weasley, George Weasley, Ginny Weasley
 - **Lugares:** Hogwarts School of Witchcraft and Wizardry (United Kingdom), England
 - **Premios ganados:** The Quill Award (2005)
@@ -47,4 +49,4 @@ Con dieciséis años cumplidos, Harry Potter inicia el sexto curso en Hogwarts e
 
 - **Inicio:** 2016/12/20
 - **Fin:** 2016/12/21
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

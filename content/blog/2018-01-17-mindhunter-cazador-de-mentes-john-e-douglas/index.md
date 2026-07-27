@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- True Crime
-- Nonfiction
-- Crime
-- Psychology
-- Audiobook
-- History
+- Crime real
+- No Ficción
+- Crimen
+- Psicología
+- Historia
+- Biografía
+- Memorias
+- Misterio
+- Adultos
 autores:
 - John E. Douglas
+- Mark Olshaker
 editoriales:
 - Crítica
 image:
@@ -29,15 +33,15 @@ Es la historia, contada por él mismo, de John Douglas, el hombre que revolucion
 
 ## Ficha del libro
 
-- **Autor:** John E. Douglas
+- **Autor:** [John E. Douglas](/autores/john-e-douglas/)
 - **Serie:** Mind Hunter (#1)
-- **Colaboradores:** Mark Olshaker (Author)
+- **Colaboradores:** [Mark Olshaker](/autores/mark-olshaker/) (Author)
 - **Editorial:** Crítica
 - **Formato:** Paperback, 432 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417067590 / 9788417067595
 - **Publicación original:** 2018-01-09
-- **Géneros:** True Crime, Nonfiction, Crime, Psychology, Audiobook, History, Biography, Memoir, Mystery, Adult
+- **Géneros:** [Crime real](/tags/crime-real/), [No Ficción](/tags/no-ficcion/), [Crimen](/tags/crimen/), [Psicología](/tags/psicologia/), [Historia](/tags/historia/), [Biografía](/tags/biografia/), [Memorias](/tags/memorias/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/)
 - **Nominaciones:** Anthony Award (1996), Edgar Award (1996)
 - **Ficha en Goodreads:** [Mindhunter: Cazador de mentes](https://www.goodreads.com/book/show/37543890-mindhunter)
 
@@ -45,4 +49,4 @@ Es la historia, contada por él mismo, de John Douglas, el hombre que revolucion
 
 - **Inicio:** 2018/01/09
 - **Fin:** 2018/01/17
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

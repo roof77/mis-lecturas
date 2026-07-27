@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Literature
+- Clásico
+- Ficción
+- Literatura
 - Humor
-- 19th Century
-- Victorian
+- Siglo XIX
+- Victoriano
+- Literatura británica
+- Ficción histórica
+- Novela
 autores:
 - Charles Dickens
+- José María Valverde
 editoriales:
 - DeBolsillo
 image:
@@ -34,14 +38,14 @@ Los papeles póstumos del Club Pickwick de Charles Dickens, que ofrecemos aquí 
 
 ## Ficha del libro
 
-- **Autor:** Charles Dickens
-- **Colaboradores:** José María Valverde (translator)
+- **Autor:** [Charles Dickens](/autores/charles-dickens/)
+- **Colaboradores:** [José María Valverde](/autores/jose-maria-valverde/) (translator)
 - **Editorial:** DeBolsillo
 - **Formato:** Hardcover, 1007 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484506959 / 9788484506959
 - **Publicación original:** 2009-03-01
-- **Géneros:** Classics, Fiction, Literature, Humor, 19th Century, Victorian, British Literature, Historical Fiction, Novels, Audiobook
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Literatura](/tags/literatura/), [Humor](/tags/humor/), [Siglo XIX](/tags/siglo-xix/), [Victoriano](/tags/victoriano/), [Literatura británica](/tags/literatura-britanica/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/)
 - **Personajes:** Samuel Pickwick, Nathaniel Winkle, Augustus Snodgrass, Tracy Tupman, Sam Weller, Tony Weller, Alfred Jingle, Job Trotter, Mr. Wardle, Emily Wardle
 - **Ficha en Goodreads:** [Los papeles póstumos del club Pickwick](https://www.goodreads.com/book/show/6893343-los-papeles-p-stumos-del-club-pickwick)
 
@@ -49,4 +53,4 @@ Los papeles póstumos del Club Pickwick de Charles Dickens, que ofrecemos aquí 
 
 - **Inicio:** 2016/02/03
 - **Fin:** 2016/02/17
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

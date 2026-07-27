@@ -8,11 +8,12 @@ authors:
 tags:
 - Lecturas
 - Thriller
-- Audiobook
-- Fiction
-- Spanish Literature
+- Ficción
+- Literatura hispana
 - Suspense
-- Crime
+- Crimen
+- Misterio
+- Novela
 autores:
 - Juan Gómez-Jurado
 editoriales:
@@ -39,18 +40,18 @@ Simon Sax podría ser un tipo afortunado. Es joven, listo y está punto de conve
 
 ## Ficha del libro
 
-- **Autor:** Juan Gómez-Jurado
+- **Autor:** [Juan Gómez-Jurado](/autores/juan-gomez-jurado/)
 - **Serie:** Universo Reina Roja (#2)
 - **Editorial:** Ediciones B
 - **Formato:** Hardcover, 576 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8466657991 / 9788466657990
 - **Publicación original:** 2015-11-18
-- **Géneros:** Thriller, Audiobook, Fiction, Spanish Literature, Suspense, Crime, Mystery, Novels, Ebooks, Mystery Thriller
+- **Géneros:** [Thriller](/tags/thriller/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Suspense](/tags/suspense/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Cicatriz](https://www.goodreads.com/book/show/27420709-cicatriz)
 
 ## Mi lectura
 
 - **Inicio:** 2016/03/07
 - **Fin:** 2016/03/09
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

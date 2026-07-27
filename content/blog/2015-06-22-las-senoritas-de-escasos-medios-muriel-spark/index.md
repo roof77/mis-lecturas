@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Historical Fiction
-- British Literature
-- 20th Century
-- Literary Fiction
+- Ficción
+- Clásico
+- Ficción histórica
+- Literatura británica
+- Siglo XX
+- Ficción Literaria
+- Novela
+- Novella
+- Literatura
 autores:
 - Muriel Spark
+- Gabriela Bustelo
 editoriales:
 - Impedimenta
 image:
@@ -29,14 +33,14 @@ Ambientada en las ruinas de Londres durante la difícil primavera y el verano in
 
 ## Ficha del libro
 
-- **Autor:** Muriel Spark
-- **Colaboradores:** Gabriela Bustelo (Translation)
+- **Autor:** [Muriel Spark](/autores/muriel-spark/)
+- **Colaboradores:** [Gabriela Bustelo](/autores/gabriela-bustelo/) (Translation)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 182 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415130058 / 9788415130055
 - **Publicación original:** 2011-01-01
-- **Géneros:** Fiction, Classics, Historical Fiction, British Literature, 20th Century, Literary Fiction, Novels, Audiobook, Novella, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Literatura británica](/tags/literatura-britanica/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Novella](/tags/novella/), [Literatura](/tags/literatura/)
 - **Personajes:** Jane Wright, Nicholas Farringdon, Selina Redwood, Anne Markham, Joanna Childe, Pauline Fox
 - **Lugares:** London, England, England
 - **Ficha en Goodreads:** [Las señoritas de escasos medios](https://www.goodreads.com/book/show/10751720-las-se-oritas-de-escasos-medios)
@@ -45,4 +49,4 @@ Ambientada en las ruinas de Londres durante la difícil primavera y el verano in
 
 - **Inicio:** 2015/06/21
 - **Fin:** 2015/06/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

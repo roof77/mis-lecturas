@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
+- Terror
 - Novella
-- Fiction
-- Audiobook
+- Ficción
 - Thriller
-- Adult
+- Adultos
+- Relatos
+- Jovenes adultos
+- Índigenas
 autores:
 - Stephen Graham Jones
+- Manuel de los Reyes
+- Tomás Hijo
 editoriales:
 - La Biblioteca de Carfax
 image:
@@ -40,14 +44,14 @@ Night of the Mannequins  (2020)
 
 ## Ficha del libro
 
-- **Autor:** Stephen Graham Jones
-- **Colaboradores:** Manuel de los Reyes (translator), Tomás Hijo (ilustraciones)
+- **Autor:** [Stephen Graham Jones](/autores/stephen-graham-jones/)
+- **Colaboradores:** [Manuel de los Reyes](/autores/manuel-de-los-reyes/) (translator), [Tomás Hijo](/autores/tomas-hijo/) (ilustraciones)
 - **Editorial:** La Biblioteca de Carfax
 - **Formato:** Paperback, 156 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412281381 / 9788412281385
 - **Publicación original:** 2022-07-18
-- **Géneros:** Horror, Novella, Fiction, Audiobook, Thriller, Adult, Short Stories, Young Adult, Horror Thriller, Indigenous
+- **Géneros:** [Terror](/tags/terror/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Relatos](/tags/relatos/), [Jovenes adultos](/tags/jovenes-adultos/), [Índigenas](/tags/indigenas/)
 - **Premios ganados:** Bram Stoker Award (2020), Shirley Jackson Award (2020)
 - **Ficha en Goodreads:** [La noche de los maniquís](https://www.goodreads.com/book/show/61135970-la-noche-de-los-maniqu-s)
 
@@ -55,4 +59,4 @@ Night of the Mannequins  (2020)
 
 - **Inicio:** 2022/08/06
 - **Fin:** 2022/08/08
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Audiobook
+- Ciencia ficción
+- Ficción
 - Novella
-- Fantasy
-- Adult
+- Fantasía
+- Adultos
+- Espacio
+- Ciencia Ficción
+- Club de lectura
+- Robots
 autores:
 - Martha Wells
+- Carla Bataller Estruch
 editoriales:
 - Alethé
 image:
@@ -31,15 +35,15 @@ Un equipo de científicos lleva a cabo pruebas en la superficie de un planeta le
 
 ## Ficha del libro
 
-- **Autor:** Martha Wells
+- **Autor:** [Martha Wells](/autores/martha-wells/)
 - **Serie:** The Murderbot Diaries (#1)
-- **Colaboradores:** Carla Bataller Estruch (Translator)
+- **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (Translator)
 - **Editorial:** Alethé
 - **Formato:** Paperback, 150 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788491644903
 - **Publicación original:** 2019-02-06
-- **Géneros:** Science Fiction, Fiction, Audiobook, Novella, Fantasy, Adult, Space, Science Fiction Fantasy, Book Club, Robots
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Espacio](/tags/espacio/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Robots](/tags/robots/)
 - **Personajes:** Murderbot, Dr. Ayda Mensah, Dr. Ratthi, Dr. Pin-Lee, Dr. Gurathin, Dr. Bharadwaj, Overse, Dr. Arada, Dr. Volescu
 - **Premios ganados:** Hugo Award (2018), Nebula Award (2017), Locus Award (2018), ALA Alex Award (2018), Premio Ignotus (2020), Blogistanian Globalia (2023)
 - **Nominaciones:** Philip K. Dick Award (2018), Prometheus Award (2019), Goodreads Choice Award (2017), Readers' Favorite Science Fiction (2017)
@@ -49,4 +53,4 @@ Un equipo de científicos lleva a cabo pruebas en la superficie de un planeta le
 
 - **Inicio:** 2025/06/02
 - **Fin:** 2025/06/04
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

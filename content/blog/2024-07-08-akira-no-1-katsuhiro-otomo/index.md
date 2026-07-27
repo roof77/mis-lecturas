@@ -9,10 +9,13 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Graphic Novels
-- Science Fiction
-- Fiction
+- Novela gráfica
+- Ciencia ficción
+- Ficción
 - Cyberpunk
+- Japón
+- Distopía
+- Literatura japanesa
 autores:
 - Katsuhiro Otomo
 editoriales:
@@ -30,14 +33,14 @@ En la hostil y caótica megalópolis de Neo Tokyo, Tetsuo y sus compañeros debe
 
 ## Ficha del libro
 
-- **Autor:** Katsuhiro Otomo
+- **Autor:** [Katsuhiro Otomo](/autores/katsuhiro-otomo/)
 - **Serie:** Akira [アキラ] (#1)
 - **Editorial:** NORMA EDITORIAL, S.A.
 - **Formato:** Paperback, 362 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498143594 / 9788498143591
 - **Publicación original:** 2005-11-01
-- **Géneros:** Manga, Comics, Graphic Novels, Science Fiction, Fiction, Cyberpunk, Japan, Dystopia, Graphic Novels Comics, Japanese Literature
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Japón](/tags/japon/), [Distopía](/tags/distopia/), [Literatura japanesa](/tags/literatura-japanesa/)
 - **Lugares:** Japan
 - **Premios ganados:** Kodansha Manga Award (1984)
 - **Ficha en Goodreads:** [Akira, No. 1](https://www.goodreads.com/book/show/13052287-akira-no-1)
@@ -46,4 +49,4 @@ En la hostil y caótica megalópolis de Neo Tokyo, Tetsuo y sus compañeros debe
 
 - **Inicio:** 2024/07/05
 - **Fin:** 2024/07/08
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

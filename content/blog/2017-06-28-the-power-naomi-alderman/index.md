@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Science Fiction
-- Book Club
-- Feminism
-- Dystopia
-- Fantasy
+- Ficción
+- Ciencia ficción
+- Club de lectura
+- Feminismo
+- Distopía
+- Fantasía
+- Ficción especulativa
+- Adultos
+- Contemporaneo
 autores:
 - Naomi Alderman
+- Ana Guelbenzu
 editoriales:
 - Roca Editorial
 image:
@@ -29,14 +33,14 @@ Una niña en la América profunda escapa de un padre maltratador. Un chico en Ni
 
 ## Ficha del libro
 
-- **Autor:** Naomi Alderman
-- **Colaboradores:** Ana Guelbenzu (Translator)
+- **Autor:** [Naomi Alderman](/autores/naomi-alderman/)
+- **Colaboradores:** [Ana Guelbenzu](/autores/ana-guelbenzu/) (Translator)
 - **Editorial:** Roca Editorial
 - **Formato:** Hardcover, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788416700677
 - **Publicación original:** 2017-06-22
-- **Géneros:** Fiction, Science Fiction, Book Club, Feminism, Dystopia, Fantasy, Audiobook, Speculative Fiction, Adult, Contemporary
+- **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Feminismo](/tags/feminismo/), [Distopía](/tags/distopia/), [Fantasía](/tags/fantasia/), [Ficción especulativa](/tags/ficcion-especulativa/), [Adultos](/tags/adultos/), [Contemporaneo](/tags/contemporaneo/)
 - **Personajes:** Roxy Monke, Allie Montgomery-Taylor (Mother Eve), Olatunde "Tunde" Edo, Margot Cleary, Jocelyn Cleary, Tatiana Moskalev, Darrell Monke
 - **Lugares:** Lagos (Nigeria), Riyadh (Saudi Arabia), Manfouha (Saudi Arabia), Chișinău (Moldova), Delhi (India), Tucson, Arizona (United States), Basarabeasca (Moldova)
 - **Premios ganados:** Women's Prize for Fiction (2017)
@@ -47,4 +51,4 @@ Una niña en la América profunda escapa de un padre maltratador. Un chico en Ni
 
 - **Inicio:** 2017/06/24
 - **Fin:** 2017/06/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

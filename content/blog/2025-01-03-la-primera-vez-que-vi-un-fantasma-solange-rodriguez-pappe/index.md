@@ -7,10 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Short Stories
-- Fiction
-- Fantasy
+- Terror
+- Relatos
+- Ficción
+- Fantasía
 autores:
 - Solange Rodríguez Pappe
 editoriales:
@@ -29,17 +29,17 @@ La escritora ecuatoriana Solange Rodríguez Pappe, hábil para suponer tramas pe
 
 ## Ficha del libro
 
-- **Autor:** Solange Rodríguez Pappe
+- **Autor:** [Solange Rodríguez Pappe](/autores/solange-rodriguez-pappe/)
 - **Editorial:** Candaya
 - **Formato:** Paperback, 139 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415934564 / 9788415934561
 - **Publicación original:** 2018-10-15
-- **Géneros:** Horror, Short Stories, Fiction, Fantasy
+- **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [La primera vez que vi un fantasma](https://www.goodreads.com/book/show/42410823-la-primera-vez-que-vi-un-fantasma)
 
 ## Mi lectura
 
 - **Inicio:** 2024/12/25
 - **Fin:** 2025/01/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

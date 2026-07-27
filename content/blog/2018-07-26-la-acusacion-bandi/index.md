@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Asia
-- Historical Fiction
-- Politics
-- Contemporary
+- Relatos
+- Ficción
+- Ásia
+- Ficción histórica
+- Política
+- Contemporaneo
+- Literatura asiática
+- Histórico
+- Adultos
 autores:
 - Bandi
+- Hèctor Bofill
+- Hye Young Yu
 editoriales:
 - Libros del Asteroide
 image:
@@ -31,14 +36,14 @@ Ambientados en la década de 1990, en los últimos años del liderazgo de Kim Il
 
 ## Ficha del libro
 
-- **Autor:** Bandi
-- **Colaboradores:** Hèctor Bofill (Translator), Hye Young Yu (Translator)
+- **Autor:** [Bandi](/autores/bandi/)
+- **Colaboradores:** [Hèctor Bofill](/autores/hector-bofill/) (Translator), [Hye Young Yu](/autores/hye-young-yu/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 242 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417007075 / 9788417007072
 - **Publicación original:** 2017-05-29
-- **Géneros:** Short Stories, Fiction, Asia, Historical Fiction, Politics, Contemporary, Asian Literature, Audiobook, Historical, Adult
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Ásia](/tags/asia/), [Ficción histórica](/tags/ficcion-historica/), [Política](/tags/politica/), [Contemporaneo](/tags/contemporaneo/), [Literatura asiática](/tags/literatura-asiatica/), [Histórico](/tags/historico/), [Adultos](/tags/adultos/)
 - **Lugares:** North Korea (Korea, Democratic People's Republic of)
 - **Nominaciones:** Aspen Words Literary Prize (2018)
 - **Ficha en Goodreads:** [La acusación](https://www.goodreads.com/book/show/35061049-la-acusaci-n)
@@ -47,4 +52,4 @@ Ambientados en la década de 1990, en los últimos años del liderazgo de Kim Il
 
 - **Inicio:** 2018/07/23
 - **Fin:** 2018/07/26
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

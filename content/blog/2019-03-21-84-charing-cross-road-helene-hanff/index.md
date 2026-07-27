@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Books About Books
-- Memoir
-- Classics
-- Biography
-- Audiobook
+- No Ficción
+- Libros sobre libros
+- Memorias
+- Clásico
+- Biografía
+- Club de lectura
+- Literatura británica
+- Historia
 autores:
 - Helene Hanff
+- Francisco Javier Calzada
 editoriales:
 - Editorial Anagrama
 image:
@@ -29,14 +32,14 @@ Un día, en octubre de 1949, Helene Hanff, una joven escritora desconocida, env�
 
 ## Ficha del libro
 
-- **Autor:** Helene Hanff
-- **Colaboradores:** Francisco Javier Calzada (Translator)
+- **Autor:** [Helene Hanff](/autores/helene-hanff/)
+- **Colaboradores:** [Francisco Javier Calzada](/autores/francisco-javier-calzada/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 126 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 843396982X / 9788433969828
 - **Publicación original:** 2002-01-01
-- **Géneros:** Nonfiction, Books About Books, Memoir, Classics, Biography, Audiobook, Book Club, British Literature, Biography Memoir, History
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Libros sobre libros](/tags/libros-sobre-libros/), [Memorias](/tags/memorias/), [Clásico](/tags/clasico/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Literatura británica](/tags/literatura-britanica/), [Historia](/tags/historia/)
 - **Personajes:** Frank Doel, Helene Hanff
 - **Lugares:** London, England, New York City, New York (United States)
 - **Ficha en Goodreads:** [84, Charing Cross Road](https://www.goodreads.com/book/show/102040.84_Charing_Cross_Road)
@@ -45,4 +48,4 @@ Un día, en octubre de 1949, Helene Hanff, una joven escritora desconocida, env�
 
 - **Inicio:** 2019/03/20
 - **Fin:** 2019/03/21
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Spanish Literature
-- Historical
-- Fiction
-- Spain
-- Audiobook
+- Fantasía
+- Literatura hispana
+- Histórico
+- Ficción
+- España
+- Coming of age
+- Cuentos de hadas
+- Novela
+- Literatura portuguesa
 autores:
 - Ana María Matute
 editoriales:
@@ -29,18 +32,18 @@ Aranmanoth es una novela de iniciación a la vida y al amor, protagonizada por u
 
 ## Ficha del libro
 
-- **Autor:** Ana María Matute
+- **Autor:** [Ana María Matute](/autores/ana-maria-matute/)
 - **Serie:** Trilogía medieval (#3)
 - **Editorial:** Espasa-Calpe SA
 - **Formato:** Hardcover, 191 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8423979741 / 9788423979745
 - **Publicación original:** 2000-01-01
-- **Géneros:** Fantasy, Spanish Literature, Historical, Fiction, Spain, Audiobook, Coming Of Age, Fairy Tales, Novels, Portuguese Literature
+- **Géneros:** [Fantasía](/tags/fantasia/), [Literatura hispana](/tags/literatura-hispana/), [Histórico](/tags/historico/), [Ficción](/tags/ficcion/), [España](/tags/espana/), [Coming of age](/tags/coming-of-age/), [Cuentos de hadas](/tags/cuentos-de-hadas/), [Novela](/tags/novela/), [Literatura portuguesa](/tags/literatura-portuguesa/)
 - **Ficha en Goodreads:** [Aranmanoth](https://www.goodreads.com/book/show/102835.Aranmanoth)
 
 ## Mi lectura
 
 - **Inicio:** 2016/08/09
 - **Fin:** 2016/08/12
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Nonfiction
-- Memoir
+- Novela gráfica
+- No Ficción
+- Memorias
 - Comics
 - Canada
-- Biography
+- Biografía
+- Club de lectura
+- Adultos
 autores:
 - Kate Beaton
 editoriales:
@@ -31,13 +33,13 @@ La habilidad natural de Beaton para dibujar se muestra con toda su fuerza cuando
 
 ## Ficha del libro
 
-- **Autor:** Kate Beaton
+- **Autor:** [Kate Beaton](/autores/kate-beaton/)
 - **Editorial:** Norma Editorial
 - **Formato:** Hardcover, 436 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467960485 / 9788467960488
 - **Publicación original:** 2023-02-17
-- **Géneros:** Graphic Novels, Nonfiction, Memoir, Comics, Canada, Biography, Book Club, Biography Memoir, Graphic Novels Comics, Adult
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Comics](/tags/comics/), [Canada](/tags/canada/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/)
 - **Lugares:** Cape Breton Island, Nova Scotia (Canada), Alberta (Canada), Victoria, British Columbia (Canada), Canada, Nova Scotia (Canada)
 - **Premios ganados:** Doug Wright Award (2023), Will Eisner Comic Industry Awards (2023), CBC Canada Reads (2023), OLA Evergreen Award (2023)
 - **Nominaciones:** Goodreads Choice Award (2022), Brooklyn Public Library Literary Prize (2023), Readers' Favorite Graphic Novels & Comics (2022)
@@ -47,4 +49,4 @@ La habilidad natural de Beaton para dibujar se muestra con toda su fuerza cuando
 
 - **Inicio:** 2025/08/12
 - **Fin:** 2025/08/16
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

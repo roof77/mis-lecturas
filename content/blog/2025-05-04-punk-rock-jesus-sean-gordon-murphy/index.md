@@ -10,11 +10,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fiction
-- Religion
-- Comic Book
-- Science Fiction
+- Novela gráfica
+- Ficción
+- Religión
+- Ciencia ficción
+- Música
+- DC
 autores:
 - Sean Gordon Murphy
 editoriales:
@@ -41,14 +42,14 @@ Along with his artistic credits on JOE THE BARBARIAN and AMERICAN  SURVIVAL OF T
 
 ## Ficha del libro
 
-- **Autor:** Sean Gordon Murphy
+- **Autor:** [Sean Gordon Murphy](/autores/sean-gordon-murphy/)
 - **Serie:** Punk Rock Jesus (#1-6)
 - **Editorial:** Vertigo
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** English
 - **ISBN:** 1401237681 / 9781401237684
 - **Publicación original:** 2013-04-09
-- **Géneros:** Comics, Graphic Novels, Fiction, Religion, Comic Book, Science Fiction, Graphic Novels Comics, Bande Dessinée, Music, Dc Comics
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Religión](/tags/religion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Música](/tags/musica/), [DC](/tags/dc/)
 - **Premios ganados:** Prix de la meilleure bande dessinée de science-fiction (2014), IGN Award (2012)
 - **Ficha en Goodreads:** [Punk Rock Jesus](https://www.goodreads.com/book/show/15798792-punk-rock-jesus)
 
@@ -56,4 +57,4 @@ Along with his artistic credits on JOE THE BARBARIAN and AMERICAN  SURVIVAL OF T
 
 - **Inicio:** 2025/04/30
 - **Fin:** 2025/05/04
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

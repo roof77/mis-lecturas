@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Fiction
-- Graphic Novels Comics
+- Novela gráfica
+- Fantasía
+- Ficción
 - Romance
+- Adultos
+- Humor
+- Ciencia ficción
 autores:
 - Matt Fraction
+- Chip Zdarsky
+- Santiago García
 editoriales:
 - Astiberri
 image:
@@ -31,15 +35,15 @@ En el segundo volumen de Sex Criminals, los elementos de thriller cobran un peso
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals
-- **Colaboradores:** Chip Zdarsky (Illustrator), Santiago García (Translator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator), [Santiago García](/autores/santiago-garcia/) (Translator)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416880468 / 9788416880461
 - **Publicación original:** 2018-01-01
-- **Géneros:** Comics, Graphic Novels, Fantasy, Fiction, Graphic Novels Comics, Romance, Adult, Humor, Comic Book, Science Fiction
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Adultos](/tags/adultos/), [Humor](/tags/humor/), [Ciencia ficción](/tags/ciencia-ficcion/)
 - **Nominaciones:** Goodreads Choice Award (2015), Readers' Favorite Graphic Novels & Comics (2015)
 - **Ficha en Goodreads:** [Sex Criminals, Vol. 2: Dos mundos, una policía](https://www.goodreads.com/book/show/38737360-sex-criminals-vol-2)
 
@@ -47,3 +51,4 @@ En el segundo volumen de Sex Criminals, los elementos de thriller cobran un peso
 
 - **Inicio:** 2026/06/23
 - **Fin:** 2026/06/23
+- **Calificación:** Muy recomendable/5

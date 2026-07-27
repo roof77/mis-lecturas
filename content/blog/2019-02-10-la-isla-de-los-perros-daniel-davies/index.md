@@ -9,7 +9,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 autores:
 - Daniel Davies
 editoriales:
@@ -28,13 +28,13 @@ Jeremy Shepherd has relinquished his London life and moved back home. By day, he
 
 ## Ficha del libro
 
-- **Autor:** Daniel Davies
+- **Autor:** [Daniel Davies](/autores/daniel-davies/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433975188 / 9788433975188
 - **Publicación original:** 2009-10-28
-- **Géneros:** Fiction
+- **Géneros:** [Ficción](/tags/ficcion/)
 - **Lugares:** England
 - **Ficha en Goodreads:** [La Isla De Los Perros](https://www.goodreads.com/book/show/12245826-la-isla-de-los-perros)
 
@@ -42,4 +42,4 @@ Jeremy Shepherd has relinquished his London life and moved back home. By day, he
 
 - **Inicio:** 2019/02/04
 - **Fin:** 2019/02/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

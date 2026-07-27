@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Magical Realism
+- Terror
+- Ficción
+- Realismo mágico
 - Queer
-- Contemporary
-- Fantasy
+- Contemporaneo
+- Fantasía
+- LGTBIQ+
+- Ficción Literaria
+- Adultos
+- Bizarro
 autores:
 - Autumn Christian
+- Hugo Camacho
 editoriales:
 - Orciny Press
 image:
@@ -68,18 +73,18 @@ Redrum Reviews
 
 ## Ficha del libro
 
-- **Autor:** Autumn Christian
-- **Colaboradores:** Hugo Camacho (Translator)
+- **Autor:** [Autumn Christian](/autores/autumn-christian/)
+- **Colaboradores:** [Hugo Camacho](/autores/hugo-camacho/) (Translator)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 270 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494995375 / 9788494995378
 - **Publicación original:** 2020-03-02
-- **Géneros:** Horror, Fiction, Magical Realism, Queer, Contemporary, Fantasy, LGBT, Literary Fiction, Adult, Bizarro Fiction
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Realismo mágico](/tags/realismo-magico/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Fantasía](/tags/fantasia/), [LGTBIQ+](/tags/lgtbiq/), [Ficción Literaria](/tags/ficcion-literaria/), [Adultos](/tags/adultos/), [Bizarro](/tags/bizarro/)
 - **Ficha en Goodreads:** [Una bomba en mi interior](https://www.goodreads.com/book/show/52085771-una-bomba-en-mi-interior)
 
 ## Mi lectura
 
 - **Inicio:** 2020/07/12
 - **Fin:** 2020/07/17
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

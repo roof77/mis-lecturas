@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Horror
-- Science Fiction
-- Short Stories
-- Collections
-- Ebooks
+- Fantasía
+- Terror
+- Ciencia ficción
+- Relatos
+- Colecciones
+- Ficción
+- Colección de relatos
 autores:
 - George R.R. Martin
 editoriales:
@@ -29,17 +30,17 @@ George R. Martin, ganador de un premio Nébula y tres Hugo por sus obras de cien
 
 ## Ficha del libro
 
-- **Autor:** George R.R. Martin
+- **Autor:** [George R.R. Martin](/autores/george-r-r-martin/)
 - **Editorial:** Martínez Roca
 - **Formato:** Paperback, 196 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8427010087 / 9788427010086
 - **Publicación original:** 1986-01-01
-- **Géneros:** Fantasy, Horror, Science Fiction, Short Stories, Collections, Ebooks, Fiction, Short Story Collection
+- **Géneros:** [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Ciencia ficción](/tags/ciencia-ficcion/), [Relatos](/tags/relatos/), [Colecciones](/tags/colecciones/), [Ficción](/tags/ficcion/), [Colección de relatos](/tags/coleccion-de-relatos/)
 - **Ficha en Goodreads:** [Canciones que cantan los muertos](https://www.goodreads.com/book/show/13647260-canciones-que-cantan-los-muertos)
 
 ## Mi lectura
 
 - **Inicio:** 2017/08/25
 - **Fin:** 2017/08/30
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

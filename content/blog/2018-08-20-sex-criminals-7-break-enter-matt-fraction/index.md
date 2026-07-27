@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Fantasy
-- Ebooks
-- Sequential Art
+- Novela gráfica
+- Fantasía
+- Adultos
+- Humor
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -29,18 +29,18 @@ Jon breaks into Kegelface’s house and oh my golly what on EARTH do you think h
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 32 páginas
 - **Idioma:** English
 - **Publicación original:** 2014-08-06
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Fantasy, Ebooks, Sequential Art, Bande Dessinée, Adult, Comic Book, Humor
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Sex Criminals #7: Break, Enter](https://www.goodreads.com/book/show/22012856-sex-criminals-7)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

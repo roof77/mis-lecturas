@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- France
-- Contemporary
-- Roman
-- Japan
-- Novels
+- Ficción
+- Francia
+- Contemporaneo
+- Japón
+- Novela
+- Literatura francesa
+- Bélgica
+- Literatura
 autores:
 - Amélie Nothomb
+- Sergi Pàmies
 editoriales:
 - Editorial Anagrama
 image:
@@ -29,14 +32,14 @@ Esta novela narra los primeros años de la vida de una niña obsesionada por el 
 
 ## Ficha del libro
 
-- **Autor:** Amélie Nothomb
-- **Colaboradores:** Sergi Pàmies (Translator)
+- **Autor:** [Amélie Nothomb](/autores/amelie-nothomb/)
+- **Colaboradores:** [Sergi Pàmies](/autores/sergi-pamies/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 144 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433969536 / 9788433969538
 - **Publicación original:** 2001-12-01
-- **Géneros:** Fiction, France, Contemporary, Roman, Japan, Novels, French Literature, Belgium, Literature, Belgian
+- **Géneros:** [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Novela](/tags/novela/), [Literatura francesa](/tags/literatura-francesa/), [Bélgica](/tags/belgica/), [Literatura](/tags/literatura/)
 - **Premios ganados:** Premio San Clemente (2003)
 - **Ficha en Goodreads:** [Metafísica de los tubos](https://www.goodreads.com/book/show/71530.Metaf_sica_de_los_tubos)
 
@@ -44,4 +47,4 @@ Esta novela narra los primeros años de la vida de una niña obsesionada por el 
 
 - **Inicio:** 2024/04/25
 - **Fin:** 2024/04/28
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

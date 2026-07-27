@@ -24,17 +24,17 @@ Relanzamiento con nuevo diseño de la serie Calvin y Hobbes, uno de los grandes 
 
 ## Ficha del libro
 
-- **Autor:** Bill Watterson
+- **Autor:** [Bill Watterson](/autores/bill-watterson/)
 - **Editorial:** Bruguera
 - **Formato:** Hardcover, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8402421962 / 9788402421968
 - **Publicación original:** 2018-11-02
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Calvin y Hobbes 1 - En todas partes hay tesoros](https://www.goodreads.com/book/show/54355778-calvin-y-hobbes-1---en-todas-partes-hay-tesoros)
 
 ## Mi lectura
 
 - **Inicio:** 2025/03/05
 - **Fin:** 2025/03/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

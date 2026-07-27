@@ -8,13 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Graphic Novels Comics
-- Bande Dessinée
-- Sequential Art
+- Novela gráfica
+- Fantasía
+- Humor
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -29,18 +28,18 @@ In which Jon and Suzie learn just how alone together we all are, and the stakes 
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Art)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Art)
 - **Editorial:** Image Comics
 - **Formato:** Unknown Binding, 24 páginas
 - **Idioma:** English
 - **Publicación original:** 2015-01-28
-- **Géneros:** Comics, Graphic Novels, Fantasy, Graphic Novels Comics, Bande Dessinée, Sequential Art, Ebooks, Humor
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Sex Criminals #10: Alone Together](https://www.goodreads.com/book/show/24734770-sex-criminals-10)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

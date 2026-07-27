@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- British Literature
+- Literatura británica
 autores:
 - Bernice Rubens
+- Íñigo Fernández Fernández-Lomana
 editoriales:
 - Alba
 image:
@@ -26,18 +27,18 @@ la policía lo buscará como sospechoso de un asesinato.
 
 ## Ficha del libro
 
-- **Autor:** Bernice Rubens
-- **Colaboradores:** Íñigo Fernández Fernández-Lomana (Translator)
+- **Autor:** [Bernice Rubens](/autores/bernice-rubens/)
+- **Colaboradores:** [Íñigo Fernández Fernández-Lomana](/autores/inigo-fernandez-fernandez-lomana/) (Translator)
 - **Editorial:** Alba
 - **Formato:** Paperback, 312 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490653453 / 9788490653456
 - **Publicación original:** 2017-10-01
-- **Géneros:** British Literature
+- **Géneros:** [Literatura británica](/tags/literatura-britanica/)
 - **Ficha en Goodreads:** [Con el traje de los domingos](https://www.goodreads.com/book/show/36059810-con-el-traje-de-los-domingos)
 
 ## Mi lectura
 
 - **Inicio:** 2017/11/05
 - **Fin:** 2017/11/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

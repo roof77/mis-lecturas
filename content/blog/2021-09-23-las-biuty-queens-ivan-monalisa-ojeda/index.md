@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- LGBT
-- Fiction
+- Relatos
+- LGTBIQ+
+- Ficción
 - Queer
-- Latinx
-- Transgender
+- Latinos
+- Transgenero
+- Contemporaneo
+- Adultos
+- Nueva York
 autores:
 - Iván Monalisa Ojeda
+- Hannah Kauders
+- Pedro Almodóvar
 editoriales:
 - Astra House
 image:
@@ -33,18 +38,18 @@ On every page, Iván Monalisa's unique narrative talent is on display as he artf
 
 ## Ficha del libro
 
-- **Autor:** Iván Monalisa Ojeda
-- **Colaboradores:** Hannah Kauders (Translator), Pedro Almodóvar (Introduction)
+- **Autor:** [Iván Monalisa Ojeda](/autores/ivan-monalisa-ojeda/)
+- **Colaboradores:** [Hannah Kauders](/autores/hannah-kauders/) (Translator), [Pedro Almodóvar](/autores/pedro-almodovar/) (Introduction)
 - **Editorial:** Astra House
 - **Formato:** Hardcover, 176 páginas
 - **Idioma:** English
 - **ISBN:** 1662600305 / 9781662600302
 - **Publicación original:** 2021-06-01
-- **Géneros:** Short Stories, LGBT, Fiction, Queer, Latinx, Transgender, Contemporary, Adult, New York, Audiobook
+- **Géneros:** [Relatos](/tags/relatos/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Queer](/tags/queer/), [Latinos](/tags/latinos/), [Transgenero](/tags/transgenero/), [Contemporaneo](/tags/contemporaneo/), [Adultos](/tags/adultos/), [Nueva York](/tags/nueva-york/)
 - **Ficha en Goodreads:** [Las Biuty Queens](https://www.goodreads.com/book/show/54224000-las-biuty-queens)
 
 ## Mi lectura
 
 - **Inicio:** 2021/09/22
 - **Fin:** 2021/09/23
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

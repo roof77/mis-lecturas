@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- Gothic
-- Historical Fiction
-- Audiobook
+- Terror
+- Fantasía
+- Ficción
+- Gótico
+- Ficción histórica
+- Misterio
+- Gótico sureño
+- Thriller
 autores:
 - Michael McDowell
+- Carles Andreu
 editoriales:
 - Blackie Books
 image:
@@ -29,19 +32,19 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Michael McDowell
+- **Autor:** [Michael McDowell](/autores/michael-mcdowell/)
 - **Serie:** Blackwater (#6)
-- **Colaboradores:** Carles Andreu (translator)
+- **Colaboradores:** [Carles Andreu](/autores/carles-andreu/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Mass Market Paperback, 272 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841965499X / 9788419654991
 - **Publicación original:** 2024-04-17
-- **Géneros:** Horror, Fantasy, Fiction, Gothic, Historical Fiction, Audiobook, Mystery, Southern Gothic, Thriller, Roman
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Gótico sureño](/tags/gotico-sureno/), [Thriller](/tags/thriller/)
 - **Ficha en Goodreads:** [Lluvia (Blackwater, #6)](https://www.goodreads.com/book/show/202794928-lluvia)
 
 ## Mi lectura
 
 - **Inicio:** 2024/04/21
 - **Fin:** 2024/04/23
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

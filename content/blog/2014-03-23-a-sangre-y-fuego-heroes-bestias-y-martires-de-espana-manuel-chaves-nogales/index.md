@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- History
-- Nonfiction
-- Spain
-- Spanish Literature
-- War
-- Historical
+- Historia
+- No Ficción
+- España
+- Literatura hispana
+- Guerra
+- Histórico
+- Relatos
+- Periodismo
+- Guerra civil española
+- Política
 autores:
 - Manuel Chaves Nogales
 editoriales:
@@ -29,17 +33,17 @@ Los relatos que componen este libro están considerados por muchos como lo mejor
 
 ## Ficha del libro
 
-- **Autor:** Manuel Chaves Nogales
+- **Autor:** [Manuel Chaves Nogales](/autores/manuel-chaves-nogales/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 316 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841562557X / 9788415625575
 - **Publicación original:** 2013-07-13
-- **Géneros:** History, Nonfiction, Spain, Spanish Literature, War, Historical, Short Stories, Journalism, Spanish Civil War, Politics
+- **Géneros:** [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Guerra](/tags/guerra/), [Histórico](/tags/historico/), [Relatos](/tags/relatos/), [Periodismo](/tags/periodismo/), [Guerra civil española](/tags/guerra-civil-espanola/), [Política](/tags/politica/)
 - **Ficha en Goodreads:** [A sangre y fuego: Héroes, bestias y mártires de España](https://www.goodreads.com/book/show/33852769-a-sangre-y-fuego)
 
 ## Mi lectura
 
 - **Inicio:** 2014/03/20
 - **Fin:** 2014/03/23
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

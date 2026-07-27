@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Science Fiction
-- Dystopia
-- Book Club
-- Post Apocalyptic
-- Audiobook
+- Ficción
+- Ciencia ficción
+- Distopía
+- Club de lectura
+- Postapocalíptico
+- Fantasía
+- Adultos
+- Ficción Literaria
+- Apocalipsis
 autores:
 - Emily St. John Mandel
+- María del Puerto Barruetabeña Díez
 editoriales:
 - Kailas Editorial
 image:
@@ -29,14 +33,14 @@ Un inesperado virus mortal acaba con la humanidad tal y como la conocemos: ya no
 
 ## Ficha del libro
 
-- **Autor:** Emily St. John Mandel
-- **Colaboradores:** María del Puerto Barruetabeña Díez (Translator)
+- **Autor:** [Emily St. John Mandel](/autores/emily-st-john-mandel/)
+- **Colaboradores:** [María del Puerto Barruetabeña Díez](/autores/maria-del-puerto-barruetabena-diez/) (Translator)
 - **Editorial:** Kailas Editorial
 - **Formato:** Kindle Edition, 379 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416023913 / 9788416023912
 - **Publicación original:** 2015-11-03
-- **Géneros:** Fiction, Science Fiction, Dystopia, Book Club, Post Apocalyptic, Audiobook, Fantasy, Adult, Literary Fiction, Apocalyptic
+- **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Club de lectura](/tags/club-de-lectura/), [Postapocalíptico](/tags/postapocaliptico/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Ficción Literaria](/tags/ficcion-literaria/), [Apocalipsis](/tags/apocalipsis/)
 - **Personajes:** Miranda Carroll, Clark Thompson, Kirsten Raymonde, Jeevan Chaudhary, Arthur Leander, Elizabeth Colton, August (Station Eleven), Tyler Leander
 - **Lugares:** Toronto, Ontario (Canada), Ontario (Canada), Canada, Great Lakes Region (United States), The United States of America
 - **Premios ganados:** Arthur C. Clarke Award (2015), NAIBA Book of the Year (2015), The Great Michigan Read (2015), National Book Award Finalist (2014), The Rooster -- The Morning News Tournament of Books (2015)
@@ -47,4 +51,4 @@ Un inesperado virus mortal acaba con la humanidad tal y como la conocemos: ya no
 
 - **Inicio:** 2024/06/11
 - **Fin:** 2024/06/19
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

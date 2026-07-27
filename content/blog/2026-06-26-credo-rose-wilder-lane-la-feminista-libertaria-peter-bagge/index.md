@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Biography
-- Nonfiction
-- History
+- Novela gráfica
+- Biografía
+- No Ficción
+- Historia
 - Comics
-- Politics
+- Política
+- Memorias
+- Feminismo
 autores:
 - Peter Bagge
 editoriales:
@@ -31,13 +33,13 @@ Credo es una inmersión profundamente documentada en una figura histórica cuyas
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 116 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417442588 / 9788417442583
 - **Publicación original:** 2020-01-01
-- **Géneros:** Graphic Novels, Biography, Nonfiction, History, Comics, Politics, Graphic Novels Comics, Biography Memoir, Feminism, Comix
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Biografía](/tags/biografia/), [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Comics](/tags/comics/), [Política](/tags/politica/), [Memorias](/tags/memorias/), [Feminismo](/tags/feminismo/)
 - **Personajes:** Rose Wilder Lane
 - **Ficha en Goodreads:** [Credo. Rose Wilder Lane, la feminista libertaria](https://www.goodreads.com/book/show/50689969-credo-rose-wilder-lane-la-feminista-libertaria)
 
@@ -45,3 +47,4 @@ Credo es una inmersión profundamente documentada en una figura histórica cuyas
 
 - **Inicio:** 2026/06/26
 - **Fin:** 2026/06/26
+- **Calificación:** Bien/5

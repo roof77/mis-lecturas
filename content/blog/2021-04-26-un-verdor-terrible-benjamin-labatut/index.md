@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science
-- Nonfiction
-- History
-- Philosophy
-- Short Stories
-- Essays
+- Ciencia
+- No Ficción
+- Historia
+- Filosofía
+- Relatos
+- Ensayo
+- Física
+- Ficción Literaria
+- Club de lectura
 autores:
 - Benjamín Labatut
 editoriales:
@@ -35,12 +38,12 @@ La literatura explora la ciencia, la ciencia se convierte en literatura. Benjam�
 
 ## Ficha del libro
 
-- **Autor:** Benjamín Labatut
+- **Autor:** [Benjamín Labatut](/autores/benjamin-labatut/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 213 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2020-04-01
-- **Géneros:** Science, Nonfiction, History, Philosophy, Short Stories, Essays, Audiobook, Physics, Literary Fiction, Book Club
+- **Géneros:** [Ciencia](/tags/ciencia/), [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Filosofía](/tags/filosofia/), [Relatos](/tags/relatos/), [Ensayo](/tags/ensayo/), [Física](/tags/fisica/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/)
 - **Premios ganados:** National Book Award Finalist (2021), Premio Municipal de Literatura de Santiago (2021)
 - **Nominaciones:** Los Angeles Times Book Prize (2021), International Booker Prize (2021), Metų verstinė knyga (2022)
 - **Ficha en Goodreads:** [Un verdor terrible](https://www.goodreads.com/book/show/55756916-un-verdor-terrible)
@@ -49,4 +52,4 @@ La literatura explora la ciencia, la ciencia se convierte en literatura. Benjam�
 
 - **Inicio:** 2021/04/25
 - **Fin:** 2021/04/26
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

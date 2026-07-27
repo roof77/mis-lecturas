@@ -23,17 +23,18 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Odio: Hate (#10)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 68 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478335463 / 9788478335466
 - **Publicación original:** 2003-11-01
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio a color, vol. 10: Una terapia asquerosa (Hate, #10)](https://www.goodreads.com/book/show/40224974-odio-a-color-vol-10)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/23
 - **Fin:** 2026/05/24
+- **Calificación:** Recomendable/5

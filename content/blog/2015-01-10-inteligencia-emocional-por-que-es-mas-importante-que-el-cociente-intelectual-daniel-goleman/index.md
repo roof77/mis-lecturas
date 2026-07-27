@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Psychology
-- Nonfiction
-- Self Help
-- Business
-- Personal Development
-- Science
+- Psicología
+- No Ficción
+- Autoayuda
+- Negocios
+- Desarrollo personal
+- Ciencia
+- Liderazgo
+- Educación
 autores:
 - Daniel Goleman
 editoriales:
@@ -29,12 +31,12 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Daniel Goleman
+- **Autor:** [Daniel Goleman](/autores/daniel-goleman/)
 - **Editorial:** Ediciones B
 - **Formato:** Hardcover, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2007-10-01
-- **Géneros:** Psychology, Nonfiction, Self Help, Business, Personal Development, Science, Leadership, Audiobook, Personal Growth, Education
+- **Géneros:** [Psicología](/tags/psicologia/), [No Ficción](/tags/no-ficcion/), [Autoayuda](/tags/autoayuda/), [Negocios](/tags/negocios/), [Desarrollo personal](/tags/desarrollo-personal/), [Ciencia](/tags/ciencia/), [Liderazgo](/tags/liderazgo/), [Educación](/tags/educacion/)
 - **Personajes:** Matilda Crabtree, Joyce Andrews
 - **Ficha en Goodreads:** [Inteligencia emocional. Por qué es más importante que el cociente intelectual](https://www.goodreads.com/book/show/20651133-inteligencia-emocional-por-qu-es-m-s-importante-que-el-cociente-intele)
 
@@ -42,4 +44,4 @@ image:
 
 - **Inicio:** 2014/12/27
 - **Fin:** 2015/01/10
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

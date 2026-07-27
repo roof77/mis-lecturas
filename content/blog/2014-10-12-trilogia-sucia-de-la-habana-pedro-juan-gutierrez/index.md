@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Short Stories
-- Literature
-- Latin American
-- Spanish Literature
-- Contemporary
+- Ficción
+- Relatos
+- Literatura
+- Latino américa
+- Literatura hispana
+- Contemporaneo
+- Novela
+- Siglo XX
+- Literatura latinoamericana
+- Romance
 autores:
 - Pedro Juan Gutiérrez
 editoriales:
@@ -31,14 +35,14 @@ Escrita con un ritmo implacable, a medio camino entre la exuberancia tropical y 
 
 ## Ficha del libro
 
-- **Autor:** Pedro Juan Gutiérrez
+- **Autor:** [Pedro Juan Gutiérrez](/autores/pedro-juan-gutierrez/)
 - **Serie:** Centro Havana
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 359 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433976893 / 9788433976895
 - **Publicación original:** 2016-02-01
-- **Géneros:** Fiction, Short Stories, Literature, Latin American, Spanish Literature, Contemporary, Novels, 20th Century, Latin American Literature, Romance
+- **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [Latino américa](/tags/latino-america/), [Literatura hispana](/tags/literatura-hispana/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Siglo XX](/tags/siglo-xx/), [Literatura latinoamericana](/tags/literatura-latinoamericana/), [Romance](/tags/romance/)
 - **Personajes:** Pedro Juan
 - **Lugares:** Havana (Cuba)
 - **Ficha en Goodreads:** [Trilogía sucia de La Habana](https://www.goodreads.com/book/show/17436260-trilog-a-sucia-de-la-habana)
@@ -47,4 +51,4 @@ Escrita con un ritmo implacable, a medio camino entre la exuberancia tropical y 
 
 - **Inicio:** 2014/10/07
 - **Fin:** 2014/10/12
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

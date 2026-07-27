@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Bizarro Fiction
-- Fantasy
-- Science Fiction
-- Fiction
-- Weird Fiction
+- Terror
+- Bizarro
+- Fantasía
+- Ciencia ficción
+- Ficción
+- Ficción extraña
+- EEUU
+- Fantasía oscura
+- Gótico
 autores:
 - Carlton Mellick III
+- Hugo Camacho
+- Branca Studio
 editoriales:
 - Orciny Press
 image:
@@ -35,18 +40,18 @@ Mellick ha sido galardonado con el premio Wonderland de bizarro, y en 2013 el di
 
 ## Ficha del libro
 
-- **Autor:** Carlton Mellick III
-- **Colaboradores:** Hugo Camacho (Translator), Branca Studio (Illustrator)
+- **Autor:** [Carlton Mellick III](/autores/carlton-mellick-iii/)
+- **Colaboradores:** [Hugo Camacho](/autores/hugo-camacho/) (Translator), [Branca Studio](/autores/branca-studio/) (Illustrator)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 254 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788494518102
 - **Publicación original:** 2016-03-11
-- **Géneros:** Horror, Bizarro Fiction, Fantasy, Science Fiction, Fiction, Weird Fiction, The United States Of America, American, Dark Fantasy, Gothic
+- **Géneros:** [Terror](/tags/terror/), [Bizarro](/tags/bizarro/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Ficción extraña](/tags/ficcion-extrana/), [EEUU](/tags/eeuu/), [Fantasía oscura](/tags/fantasia-oscura/), [Gótico](/tags/gotico/)
 - **Ficha en Goodreads:** [La casa de arenas movedizas](https://www.goodreads.com/book/show/29505093-la-casa-de-arenas-movedizas)
 
 ## Mi lectura
 
 - **Inicio:** 2016/06/18
 - **Fin:** 2016/06/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

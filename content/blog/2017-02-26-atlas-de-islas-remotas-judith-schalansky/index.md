@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Travel
-- History
-- Geography
-- Maps
-- Art
+- No Ficción
+- Viajes
+- Historia
+- Geografía
+- Mapas
+- Arte
+- Poesía
+- Cartografía
+- Naturaleza
+- Literatura alemana
 autores:
 - Judith Schalansky
 editoriales:
@@ -31,13 +35,13 @@ Con sus impresionantes mapas a todo color y su aire de misteriosa aventura, Atla
 
 ## Ficha del libro
 
-- **Autor:** Judith Schalansky
+- **Autor:** [Judith Schalansky](/autores/judith-schalansky/)
 - **Editorial:** Nórdica Libros
 - **Formato:** Hardcover, 150 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494169076 / 9788494169076
 - **Publicación original:** 2013-01-01
-- **Géneros:** Nonfiction, Travel, History, Geography, Maps, Art, Poetry, Cartography, Nature, German Literature
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Viajes](/tags/viajes/), [Historia](/tags/historia/), [Geografía](/tags/geografia/), [Mapas](/tags/mapas/), [Arte](/tags/arte/), [Poesía](/tags/poesia/), [Cartografía](/tags/cartografia/), [Naturaleza](/tags/naturaleza/), [Literatura alemana](/tags/literatura-alemana/)
 - **Nominaciones:** LovelyBooks Leserpreis (2009)
 - **Ficha en Goodreads:** [Atlas de islas remotas](https://www.goodreads.com/book/show/18909379-atlas-de-islas-remotas)
 
@@ -45,4 +49,4 @@ Con sus impresionantes mapas a todo color y su aire de misteriosa aventura, Atla
 
 - **Inicio:** 2017/02/26
 - **Fin:** 2017/02/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

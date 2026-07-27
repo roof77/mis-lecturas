@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- War
-- Post Apocalyptic
-- Politics
+- Ficción
+- Guerra
+- Postapocalíptico
+- Política
+- Literatura británica
+- Niños
+- Ciencia ficción
 autores:
 - Raymond Briggs
+- Rosa Montero
 editoriales:
 - Blackie Books
 image:
@@ -30,14 +34,14 @@ En ella los Blogg, un matrimonio inglés atemorizado por un posible ataque sovi�
 
 ## Ficha del libro
 
-- **Autor:** Raymond Briggs
-- **Colaboradores:** Rosa Montero (translator)
+- **Autor:** [Raymond Briggs](/autores/raymond-briggs/)
+- **Colaboradores:** [Rosa Montero](/autores/rosa-montero/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 80 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8410025108 / 9788410025103
 - **Publicación original:** 2024-02-14
-- **Géneros:** Graphic Novels, Comics, Fiction, War, Post Apocalyptic, Politics, Graphic Novels Comics, British Literature, Childrens, Science Fiction
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Guerra](/tags/guerra/), [Postapocalíptico](/tags/postapocaliptico/), [Política](/tags/politica/), [Literatura británica](/tags/literatura-britanica/), [Niños](/tags/ninos/), [Ciencia ficción](/tags/ciencia-ficcion/)
 - **Premios ganados:** The Other Award (1982)
 - **Ficha en Goodreads:** [Cuando el viento sopla](https://www.goodreads.com/book/show/206197004-cuando-el-viento-sopla)
 
@@ -45,4 +49,4 @@ En ella los Blogg, un matrimonio inglés atemorizado por un posible ataque sovi�
 
 - **Inicio:** 2025/09/15
 - **Fin:** 2025/09/15
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

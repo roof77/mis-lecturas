@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Spain
+- España
 autores:
 - Isaac Rosa
 editoriales:
@@ -28,17 +28,17 @@ La habitación oscura es una exploración de las posibilidades literarias de la 
 
 ## Ficha del libro
 
-- **Autor:** Isaac Rosa
+- **Autor:** [Isaac Rosa](/autores/isaac-rosa/)
 - **Editorial:** Seix Barral
 - **Formato:** Hardcover, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788432215728
 - **Publicación original:** 2013-09-12
-- **Géneros:** Spain
+- **Géneros:** [España](/tags/espana/)
 - **Ficha en Goodreads:** [La habitación oscura](https://www.goodreads.com/book/show/18456158-la-habitaci-n-oscura)
 
 ## Mi lectura
 
 - **Inicio:** 2014/06/11
 - **Fin:** 2014/06/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

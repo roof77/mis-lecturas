@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Horror
-- Fiction
-- Science Fiction
-- Gothic
-- Fantasy
+- Clásico
+- Terror
+- Ficción
+- Ciencia ficción
+- Gótico
+- Fantasía
+- Colegio
+- Literatura
+- Club de lectura
 autores:
 - Mary Wollstonecraft Shelley
 editoriales:
@@ -33,13 +36,13 @@ En la noche del 17 de junio de 1816, después de una velada en compañía de Lor
 
 ## Ficha del libro
 
-- **Autor:** Mary Wollstonecraft Shelley
+- **Autor:** [Mary Wollstonecraft Shelley](/autores/mary-wollstonecraft-shelley/)
 - **Editorial:** Valdemar
 - **Formato:** Paperback, 317 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477027390 / 9788477027393
 - **Publicación original:** 2013-01-10
-- **Géneros:** Classics, Horror, Fiction, Science Fiction, Gothic, Fantasy, School, Literature, Audiobook, Book Club
+- **Géneros:** [Clásico](/tags/clasico/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Gótico](/tags/gotico/), [Fantasía](/tags/fantasia/), [Colegio](/tags/colegio/), [Literatura](/tags/literatura/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Elizabeth Lavenza, Robert Walton, Henry Clerval, Alphonse Frankenstein, Justine Moritz, Victor Frankenstein, The Monster (Frankenstein)
 - **Lugares:** Geneva (Switzerland), Ingolstadt (Germany), Switzerland, Germany, Arctic Circle
 - **Ficha en Goodreads:** [Frankenstein, o el moderno Prometeo](https://www.goodreads.com/book/show/17839921-frankenstein-o-el-moderno-prometeo)
@@ -48,4 +51,4 @@ En la noche del 17 de junio de 1816, después de una velada en compañía de Lor
 
 - **Inicio:** 2018/09/27
 - **Fin:** 2018/10/08
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

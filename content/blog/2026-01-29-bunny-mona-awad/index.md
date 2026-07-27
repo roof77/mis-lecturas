@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Dark Academia
-- Contemporary
+- Contemporaneo
 - Thriller
-- Fantasy
+- Fantasía
+- Realismo mágico
+- Club de lectura
+- Ficción Literaria
 autores:
 - Mona Awad
+- Jaime Valero Martínez
 editoriales:
 - Stefano Books
 image:
@@ -41,15 +45,15 @@ Bunny, la nueva y fascinante novela de una de las cronistas más intrépidas de 
 
 ## Ficha del libro
 
-- **Autor:** Mona Awad
+- **Autor:** [Mona Awad](/autores/mona-awad/)
 - **Serie:** Bunny (#1)
-- **Colaboradores:** Jaime Valero Martínez (Translator)
+- **Colaboradores:** [Jaime Valero Martínez](/autores/jaime-valero-martinez/) (Translator)
 - **Editorial:** Stefano Books
 - **Formato:** Paperback, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9791387595241
 - **Publicación original:** 2025-10-21
-- **Géneros:** Horror, Fiction, Dark Academia, Contemporary, Thriller, Fantasy, Magical Realism, Book Club, Audiobook, Literary Fiction
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Dark Academia](/tags/dark-academia/), [Contemporaneo](/tags/contemporaneo/), [Thriller](/tags/thriller/), [Fantasía](/tags/fantasia/), [Realismo mágico](/tags/realismo-magico/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Personajes:** Samantha Heather Mackey
 - **Lugares:** New England (United States)
 - **Premios ganados:** Ladies of Horror Fiction Award (2019)
@@ -60,3 +64,4 @@ Bunny, la nueva y fascinante novela de una de las cronistas más intrépidas de 
 
 - **Inicio:** 2026/01/21
 - **Fin:** 2026/01/29
+- **Calificación:** Muy bien/5

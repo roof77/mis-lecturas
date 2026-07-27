@@ -7,8 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Spanish Literature
-- Spain
+- Literatura hispana
+- España
 autores:
 - Pilar Adón
 editoriales:
@@ -31,17 +31,17 @@ Las efímeras es una novela sobre la dominación, la dependencia y el deseo de a
 
 ## Ficha del libro
 
-- **Autor:** Pilar Adón
+- **Autor:** [Pilar Adón](/autores/pilar-adon/)
 - **Editorial:** Galaxia Gutenberg
 - **Formato:** Hardcover, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788416495283
 - **Publicación original:** 2015-11-04
-- **Géneros:** Spanish Literature, Spain
+- **Géneros:** [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/)
 - **Ficha en Goodreads:** [Las efímeras](https://www.goodreads.com/book/show/27465360-las-ef-meras)
 
 ## Mi lectura
 
 - **Inicio:** 2015/12/20
 - **Fin:** 2015/12/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

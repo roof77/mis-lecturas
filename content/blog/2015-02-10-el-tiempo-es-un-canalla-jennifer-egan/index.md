@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Book Club
-- Contemporary
-- Music
-- Short Stories
-- Literary Fiction
+- Ficción
+- Club de lectura
+- Contemporaneo
+- Música
+- Relatos
+- Ficción Literaria
+- Novela
+- Literatura
+- Ficción adulta
 autores:
 - Jennifer Egan
 editoriales:
@@ -29,14 +32,14 @@ En plena crisis de madurez, Bennie Salazar, que en los setenta formó parte de u
 
 ## Ficha del libro
 
-- **Autor:** Jennifer Egan
+- **Autor:** [Jennifer Egan](/autores/jennifer-egan/)
 - **Serie:** Goon Squad (#1)
 - **Editorial:** Minúscula
 - **Formato:** Paperback, 408 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8495587831 / 9788495587831
 - **Publicación original:** 2011-11-01
-- **Géneros:** Fiction, Book Club, Contemporary, Music, Short Stories, Literary Fiction, Novels, Audiobook, Literature, Adult Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Música](/tags/musica/), [Relatos](/tags/relatos/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Personajes:** Bennie Salazar, Lou Kline, Scotty Hausmann, Bill Duff, Jules Jones, Dolly Peale, Kitty Jackson, Ted Hollander, Sasha Blake, Andy Grady
 - **Lugares:** San Francisco, California (United States), New York City, New York (United States), Crandale, New York (United States), Naples (Italy), Pompeii (Italy), Los Angeles, California (United States), Times Square, New York City, New York (United States)
 - **Premios ganados:** Pulitzer Prize (2011), Los Angeles Times Book Prize (2010), National Book Critics Circle Award (2010), Galaxy National Book Award (2011), The Rooster -- The Morning News Tournament of Books (2011)
@@ -47,4 +50,4 @@ En plena crisis de madurez, Bennie Salazar, que en los setenta formó parte de u
 
 - **Inicio:** 2015/01/28
 - **Fin:** 2015/02/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Erotic Horror
+- Horror erótico
 autores:
 - Graham Masterton
+- Marta Lila Murillo
 editoriales:
 - Valdemar
 image:
@@ -24,18 +25,18 @@ En El Hijo de la Bestia y otras historias de terror y sexo extravagante, Graham 
 
 ## Ficha del libro
 
-- **Autor:** Graham Masterton
-- **Colaboradores:** Marta Lila Murillo (Translator)
+- **Autor:** [Graham Masterton](/autores/graham-masterton/)
+- **Colaboradores:** [Marta Lila Murillo](/autores/marta-lila-murillo/) (Translator)
 - **Editorial:** Valdemar
 - **Formato:** Paperback, 464 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477027560 / 9788477027560
 - **Publicación original:** 2013-12-01
-- **Géneros:** Erotic Horror
+- **Géneros:** [Horror erótico](/tags/horror-erotico/)
 - **Ficha en Goodreads:** [El hijo de la bestia y otros relatos de terror y sexo extravagante](https://www.goodreads.com/book/show/18723980-el-hijo-de-la-bestia-y-otros-relatos-de-terror-y-sexo-extravagante)
 
 ## Mi lectura
 
 - **Inicio:** 2015/01/30
 - **Fin:** 2015/02/06
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

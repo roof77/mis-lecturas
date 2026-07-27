@@ -8,13 +8,18 @@ authors:
 tags:
 - Lecturas
 - Romance
-- Graphic Novels
-- LGBT
-- Young Adult
+- Novela gráfica
+- LGTBIQ+
+- Jovenes adultos
 - Queer
-- Contemporary
+- Contemporaneo
+- Comics
+- Ficción
+- Salud mentál
+- Gay
 autores:
 - Alice Oseman
+- Victoria Simó
 editoriales:
 - Destino
 image:
@@ -33,15 +38,15 @@ Las semanas pasan y, en este nuevo curso escolar, Charlie y Nick están a punto 
 
 ## Ficha del libro
 
-- **Autor:** Alice Oseman
+- **Autor:** [Alice Oseman](/autores/alice-oseman/)
 - **Serie:** Heartstopper (#4)
-- **Colaboradores:** Victoria Simó (Translator)
+- **Colaboradores:** [Victoria Simó](/autores/victoria-simo/) (Translator)
 - **Editorial:** Destino
 - **Formato:** Paperback, 384 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408243225 / 9788408243229
 - **Publicación original:** 2021-06-16
-- **Géneros:** Romance, Graphic Novels, LGBT, Young Adult, Queer, Contemporary, Comics, Fiction, Mental Health, Gay
+- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Salud mentál](/tags/salud-mental/), [Gay](/tags/gay/)
 - **Lugares:** Kent, England (United Kingdom)
 - **Premios ganados:** Teen Buckeye Book Award (2023), Goodreads Choice Award (2022)
 - **Nominaciones:** British Book Award (2022), Will Eisner Comic Industry Awards (2023), Readers' Favorite Graphic Novels & Comics (2022)
@@ -51,4 +56,4 @@ Las semanas pasan y, en este nuevo curso escolar, Charlie y Nick están a punto 
 
 - **Inicio:** 2022/09/15
 - **Fin:** 2022/09/15
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

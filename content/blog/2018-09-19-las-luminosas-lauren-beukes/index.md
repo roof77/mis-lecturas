@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Horror
-- Mystery
+- Ficción
+- Terror
+- Misterio
 - Thriller
-- Time Travel
-- Science Fiction
+- Viaje en el tiempo
+- Ciencia ficción
+- Crimen
+- Fantasía
+- Club de lectura
 autores:
 - Lauren Beukes
+- Pilar Ramírez Tello
 editoriales:
 - RBA
 image:
@@ -31,14 +35,14 @@ Chicago, 1992. La vida de Kirby Mazrachi se ha trastocado tras el brutal intento
 
 ## Ficha del libro
 
-- **Autor:** Lauren Beukes
-- **Colaboradores:** Pilar Ramírez Tello (Translator)
+- **Autor:** [Lauren Beukes](/autores/lauren-beukes/)
+- **Colaboradores:** [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Translator)
 - **Editorial:** RBA
 - **Formato:** Paperback, 416 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788490066621
 - **Publicación original:** 2013-09-01
-- **Géneros:** Fiction, Horror, Mystery, Thriller, Time Travel, Science Fiction, Crime, Fantasy, Mystery Thriller, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Ciencia ficción](/tags/ciencia-ficcion/), [Crimen](/tags/crimen/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Kirby Mazrachi, Harper Curtis, Dan Velasquez
 - **Lugares:** Chicago, Illinois (United States), Chicago, Illinois (United States), Illinois (United States)
 - **Premios ganados:** Strand Critics Award  (2013), British Fantasy Award (2014)
@@ -49,4 +53,4 @@ Chicago, 1992. La vida de Kirby Mazrachi se ha trastocado tras el brutal intento
 
 - **Inicio:** 2018/09/18
 - **Fin:** 2018/09/19
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Music
-- Biography
-- Memoir
-- Mental Health
-- Psychology
+- No Ficción
+- Música
+- Biografía
+- Memorias
+- Salud mentál
+- Psicología
+- Autobiografía
+- Literatura británica
+- Enfermedad mentál
 autores:
-- James  Rhodes
+- James Rhodes
+- Ismael Attrache
 editoriales:
 - Blackie Books
 image:
@@ -37,18 +41,18 @@ James Rhodes es uno de los más eminentes concertistas de piano de la actualidad
 
 ## Ficha del libro
 
-- **Autor:** James  Rhodes
-- **Colaboradores:** Ismael Attrache (Translator)
+- **Autor:** [James Rhodes](/autores/james-rhodes/)
+- **Colaboradores:** [Ismael Attrache](/autores/ismael-attrache/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 280 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416290431 / 9788416290437
 - **Publicación original:** 2015-11-09
-- **Géneros:** Nonfiction, Music, Biography, Memoir, Mental Health, Psychology, Biography Memoir, Autobiography, British Literature, Mental Illness
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Música](/tags/musica/), [Biografía](/tags/biografia/), [Memorias](/tags/memorias/), [Salud mentál](/tags/salud-mental/), [Psicología](/tags/psicologia/), [Autobiografía](/tags/autobiografia/), [Literatura británica](/tags/literatura-britanica/), [Enfermedad mentál](/tags/enfermedad-mental/)
 - **Ficha en Goodreads:** [Instrumental: Memorias de música, medicina y locura](https://www.goodreads.com/book/show/27783561-instrumental)
 
 ## Mi lectura
 
 - **Inicio:** 2016/04/25
 - **Fin:** 2016/04/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

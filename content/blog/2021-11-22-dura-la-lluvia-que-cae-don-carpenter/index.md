@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Crime
+- Ficción
+- Clásico
+- Crimen
 - Noir
-- Novels
-- Literary Fiction
+- Novela
+- Ficción Literaria
+- Literatura
+- Misterio
+- EEUU
+- Siglo XX
 autores:
 - Don Carpenter
 editoriales:
@@ -29,13 +33,13 @@ Dura la lluvia que cae es una novela de crimen, castigo y la búsqueda de una re
 
 ## Ficha del libro
 
-- **Autor:** Don Carpenter
+- **Autor:** [Don Carpenter](/autores/don-carpenter/)
 - **Editorial:** Duomo Ediciones
 - **Formato:** Hardcover, 348 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415355165 / 9788415355168
 - **Publicación original:** 2012-03-01
-- **Géneros:** Fiction, Classics, Crime, Noir, Novels, Literary Fiction, Literature, Mystery, American, 20th Century
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Crimen](/tags/crimen/), [Noir](/tags/noir/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Misterio](/tags/misterio/), [EEUU](/tags/eeuu/), [Siglo XX](/tags/siglo-xx/)
 - **Personajes:** Jack Levitt, Billy Lancing
 - **Lugares:** Portland, Oregon (United States), California (United States)
 - **Ficha en Goodreads:** [Dura la lluvia que cae](https://www.goodreads.com/book/show/17258367-dura-la-lluvia-que-cae)
@@ -44,4 +48,4 @@ Dura la lluvia que cae es una novela de crimen, castigo y la búsqueda de una re
 
 - **Inicio:** 2021/11/01
 - **Fin:** 2021/11/22
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

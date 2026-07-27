@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Literary Fiction
-- Novels
-- Spain
-- Spanish Literature
-- Audiobook
+- Ficción
+- Ficción Literaria
+- Novela
+- España
+- Literatura hispana
+- Contemporaneo
+- Distopía
+- Novella
+- Drama
 autores:
 - Elisa Levi
 editoriales:
@@ -35,17 +38,17 @@ Yo no sé de otras cosas es la historia de alguien que quiere conocerlo todo, vi
 
 ## Ficha del libro
 
-- **Autor:** Elisa Levi
+- **Autor:** [Elisa Levi](/autores/elisa-levi/)
 - **Editorial:** Temas de Hoy
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8499988857 / 9788499988856
 - **Publicación original:** 2021-09-22
-- **Géneros:** Fiction, Literary Fiction, Novels, Spain, Spanish Literature, Audiobook, Contemporary, Dystopia, Novella, Drama
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Contemporaneo](/tags/contemporaneo/), [Distopía](/tags/distopia/), [Novella](/tags/novella/), [Drama](/tags/drama/)
 - **Ficha en Goodreads:** [Yo no sé de otras cosas](https://www.goodreads.com/book/show/58957605-yo-no-s-de-otras-cosas)
 
 ## Mi lectura
 
 - **Inicio:** 2024/02/06
 - **Fin:** 2024/02/11
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

@@ -7,14 +7,36 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Short Stories
-- Classics
+- Terror
+- Relatos
+- Clásico
 - Paranormal
-- Victorian
-- Gothic
+- Victoriano
+- Gótico
+- Halloween
+- Oscuro
 autores:
 - Charlotte Brontë
+- Elizabeth Gaskell
+- Charlotte Riddell
+- Mrs. Oliphant
+- Lanoe Falconer
+- Louisa Baldwin
+- Violet Hunt
+- Mary Cholmondeley
+- Ella d'Arcy
+- Gertrude Atherton
+- Willa Cather
+- Mary Eleanor Wilkins Freeman
+- Dinah Maria Mulock Craik
+- Isabella Varley Banks
+- Catherine Crowe
+- Mary Elizabeth Braddon
+- Rosa Mulholland
+- Amelia B. Edwards
+- Rhoda Broughton
+- Mrs. Henry Wood
+- Vernon Lee
 editoriales:
 - Impedimenta
 image:
@@ -31,18 +53,18 @@ Porque si hay algo que caracteriza a los victorianos es su maestría a la hora d
 
 ## Ficha del libro
 
-- **Autor:** Charlotte Brontë
-- **Colaboradores:** Elizabeth Gaskell (Author), Charlotte Riddell (Author), Mrs. Oliphant (Author), Lanoe Falconer (Author), Louisa Baldwin (Author), Violet Hunt (Author), Mary Cholmondeley (Author), Ella d'Arcy (Author), Gertrude Atherton (Author), Willa Cather (Author), Mary Eleanor Wilkins Freeman (Author), Dinah Maria Mulock Craik (Author), Isabella Varley Banks (Author), Catherine Crowe (Author), Mary Elizabeth Braddon (Author), Rosa Mulholland (Author), Amelia B. Edwards (Author), Rhoda Broughton (Author), Mrs. Henry Wood (Author), Vernon Lee (Author)
+- **Autor:** [Charlotte Brontë](/autores/charlotte-bronte/)
+- **Colaboradores:** [Elizabeth Gaskell](/autores/elizabeth-gaskell/) (Author), [Charlotte Riddell](/autores/charlotte-riddell/) (Author), [Mrs. Oliphant](/autores/mrs-oliphant/) (Author), [Lanoe Falconer](/autores/lanoe-falconer/) (Author), [Louisa Baldwin](/autores/louisa-baldwin/) (Author), [Violet Hunt](/autores/violet-hunt/) (Author), [Mary Cholmondeley](/autores/mary-cholmondeley/) (Author), [Ella d'Arcy](/autores/ella-d-arcy/) (Author), [Gertrude Atherton](/autores/gertrude-atherton/) (Author), [Willa Cather](/autores/willa-cather/) (Author), [Mary Eleanor Wilkins Freeman](/autores/mary-eleanor-wilkins-freeman/) (Author), [Dinah Maria Mulock Craik](/autores/dinah-maria-mulock-craik/) (Author), [Isabella Varley Banks](/autores/isabella-varley-banks/) (Author), [Catherine Crowe](/autores/catherine-crowe/) (Author), [Mary Elizabeth Braddon](/autores/mary-elizabeth-braddon/) (Author), [Rosa Mulholland](/autores/rosa-mulholland/) (Author), [Amelia B. Edwards](/autores/amelia-b-edwards/) (Author), [Rhoda Broughton](/autores/rhoda-broughton/) (Author), [Mrs. Henry Wood](/autores/mrs-henry-wood/) (Author), [Vernon Lee](/autores/vernon-lee/) (Author)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 496 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788416542970
 - **Publicación original:** 2017-11-13
-- **Géneros:** Horror, Short Stories, Classics, Paranormal, Victorian, Gothic, Halloween, Dark
+- **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Clásico](/tags/clasico/), [Paranormal](/tags/paranormal/), [Victoriano](/tags/victoriano/), [Gótico](/tags/gotico/), [Halloween](/tags/halloween/), [Oscuro](/tags/oscuro/)
 - **Ficha en Goodreads:** [Damas oscuras: Cuentos de fantasmas de escritoras victorianas eminentes](https://www.goodreads.com/book/show/36240327-damas-oscuras)
 
 ## Mi lectura
 
 - **Inicio:** 2018/10/29
 - **Fin:** 2018/11/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

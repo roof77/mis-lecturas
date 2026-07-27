@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
+- Clásico
+- Ficción
 - Romance
-- Russia
-- Historical Fiction
-- Russian Literature
+- Rusia
+- Ficción histórica
+- Literatura rusa
+- Literatura
+- Novela
+- Histórico
 autores:
 - Leo Tolstoy
+- Víctor Gallego Ballestero
 editoriales:
 - Alba Editorial
 image:
@@ -29,14 +33,14 @@ La sola mención del nombre de Anna Karénina sugiere inmediatamente dos grandes
 
 ## Ficha del libro
 
-- **Autor:** Leo Tolstoy
-- **Colaboradores:** Víctor Gallego Ballestero (Translator)
+- **Autor:** [Leo Tolstoy](/autores/leo-tolstoy/)
+- **Colaboradores:** [Víctor Gallego Ballestero](/autores/victor-gallego-ballestero/) (Translator)
 - **Editorial:** Alba Editorial
 - **Formato:** Hardcover, 1002 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 84284925 / 9788484284925
 - **Publicación original:** 2010-01-01
-- **Géneros:** Classics, Fiction, Romance, Russia, Historical Fiction, Russian Literature, Literature, Novels, Audiobook, Historical
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Rusia](/tags/rusia/), [Ficción histórica](/tags/ficcion-historica/), [Literatura rusa](/tags/literatura-rusa/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Histórico](/tags/historico/)
 - **Personajes:** Princess Ekaterina "Kitty" Aleksandrovna Shcherbatskaya, Anna Arkadyevna Karenina, Count Aleksei Kirillovich Vronsky, Konstantin "Kostya" Dmitrievitch Levin, Prince Stepan "Stiva" Arkadyevitch Oblonsky
 - **Lugares:** Russia, Russian Empire
 - **Premios ganados:** Premio literatura rusa en España (2012), Read Russia Prize (2012)
@@ -46,4 +50,4 @@ La sola mención del nombre de Anna Karénina sugiere inmediatamente dos grandes
 
 - **Inicio:** 2016/01/10
 - **Fin:** 2016/01/19
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

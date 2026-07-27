@@ -9,10 +9,13 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Graphic Novels
-- Science Fiction
-- Fiction
+- Novela gráfica
+- Ciencia ficción
+- Ficción
 - Cyberpunk
+- Japón
+- Distopía
+- Literatura japanesa
 autores:
 - Katsuhiro Otomo
 editoriales:
@@ -30,14 +33,14 @@ En un caótico Neo-Tokio recién emergido de las cenizas de la III Guerra Mundia
 
 ## Ficha del libro
 
-- **Autor:** Katsuhiro Otomo
+- **Autor:** [Katsuhiro Otomo](/autores/katsuhiro-otomo/)
 - **Serie:** Akira [アキラ] (#2)
 - **Editorial:** Norma Editorial
 - **Formato:** Paperback, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498144167 / 9788498144161
 - **Publicación original:** 2006-02-01
-- **Géneros:** Manga, Comics, Graphic Novels, Science Fiction, Fiction, Cyberpunk, Japan, Dystopia, Comics Manga, Japanese Literature
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Japón](/tags/japon/), [Distopía](/tags/distopia/), [Literatura japanesa](/tags/literatura-japanesa/)
 - **Lugares:** Japan
 - **Ficha en Goodreads:** [Akira, No. 2](https://www.goodreads.com/book/show/13052288-akira-no-2)
 
@@ -45,4 +48,4 @@ En un caótico Neo-Tokio recién emergido de las cenizas de la III Guerra Mundia
 
 - **Inicio:** 2024/07/08
 - **Fin:** 2024/07/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

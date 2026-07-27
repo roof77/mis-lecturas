@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- LGBT
+- LGTBIQ+
 autores:
 - Melani Penna Tosso
 editoriales:
@@ -24,17 +24,17 @@ Bollo es la historia de Nat, de María o de Ratja en diálogo con Elena Fortún,
 
 ## Ficha del libro
 
-- **Autor:** Melani Penna Tosso
+- **Autor:** [Melani Penna Tosso](/autores/melani-penna-tosso/)
 - **Editorial:** Dos Bigotes
 - **Formato:** Paperback, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412261763 / 9788412261769
 - **Publicación original:** 2021-01-01
-- **Géneros:** LGBT
+- **Géneros:** [LGTBIQ+](/tags/lgtbiq/)
 - **Ficha en Goodreads:** [Bollo](https://www.goodreads.com/book/show/57964550-bollo)
 
 ## Mi lectura
 
 - **Inicio:** 2022/05/04
 - **Fin:** 2022/05/05
-- **Mi valoración:** ★★☆☆☆ (2,5/5)
+- **Calificación:** ★★☆☆☆ (2,5/5)

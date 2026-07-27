@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Music
-- Nonfiction
-- History
-- Pop Culture
-- Cultural
-- Cultural Studies
+- Música
+- No Ficción
+- Historia
+- Cultura Pop
+- Estudios culturales
+- Biografía
+- Sociología
+- Crítica
+- Siglo XXI
 autores:
 - Bob Stanley
 editoriales:
@@ -29,14 +32,14 @@ Tan divertido de criticar como de citar, Yeah! explora las raíces de la música
 
 ## Ficha del libro
 
-- **Autor:** Bob Stanley
-- **Colaboradores:** Bob Stanley (Author)
+- **Autor:** [Bob Stanley](/autores/bob-stanley/)
+- **Colaboradores:** [Bob Stanley](/autores/bob-stanley/) (Author)
 - **Editorial:** Turner
 - **Formato:** Paperback, 748 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841614222X / 9788416142224
 - **Publicación original:** 2015-12-01
-- **Géneros:** Music, Nonfiction, History, Pop Culture, Cultural, Cultural Studies, Biography, Sociology, Criticism, 21st Century
+- **Géneros:** [Música](/tags/musica/), [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Cultura Pop](/tags/cultura-pop/), [Estudios culturales](/tags/estudios-culturales/), [Biografía](/tags/biografia/), [Sociología](/tags/sociologia/), [Crítica](/tags/critica/), [Siglo XXI](/tags/siglo-xxi/)
 - **Personajes:** Bob Dylan, Stevie Nicks, David Bowie, Mick Jagger, Patti Smith, Michael Jackson, Beyoncé Knowles, James Hetfield, Aretha Franklin, Bill Haley
 - **Nominaciones:** Penderyn Music Book Prize (2015)
 - **Ficha en Goodreads:** [Yeah! Yeah! Yeah! La historia del pop moderno](https://www.goodreads.com/book/show/28271884-yeah-yeah-yeah-la-historia-del-pop-moderno)
@@ -45,4 +48,4 @@ Tan divertido de criticar como de citar, Yeah! explora las raíces de la música
 
 - **Inicio:** 2016/02/25
 - **Fin:** 2016/03/15
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

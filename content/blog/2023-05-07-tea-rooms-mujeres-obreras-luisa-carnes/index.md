@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Feminism
-- Fiction
-- Classics
-- Spanish Literature
-- Historical Fiction
-- Spain
+- Feminismo
+- Ficción
+- Clásico
+- Literatura hispana
+- Ficción histórica
+- España
+- Mujeres
+- Sociedad
+- Novela
+- Autoras
 autores:
 - Luisa Carnés
 editoriales:
@@ -31,17 +35,17 @@ Autora sinsombrero de la Generación del 27, Luisa Carnés escribió esta porten
 
 ## Ficha del libro
 
-- **Autor:** Luisa Carnés
+- **Autor:** [Luisa Carnés](/autores/luisa-carnes/)
 - **Editorial:** Hoja de Lata
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416537119 / 9788416537112
 - **Publicación original:** 2016-01-01
-- **Géneros:** Feminism, Fiction, Classics, Spanish Literature, Historical Fiction, Spain, Womens, Social, Novels, Female Authors
+- **Géneros:** [Feminismo](/tags/feminismo/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura hispana](/tags/literatura-hispana/), [Ficción histórica](/tags/ficcion-historica/), [España](/tags/espana/), [Mujeres](/tags/mujeres/), [Sociedad](/tags/sociedad/), [Novela](/tags/novela/), [Autoras](/tags/autoras/)
 - **Ficha en Goodreads:** [Tea Rooms: Mujeres obreras](https://www.goodreads.com/book/show/12856395-tea-rooms)
 
 ## Mi lectura
 
 - **Inicio:** 2023/05/04
 - **Fin:** 2023/05/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

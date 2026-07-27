@@ -8,11 +8,15 @@ authors:
 tags:
 - Lecturas
 - Romance
-- Graphic Novels
-- LGBT
-- Young Adult
+- Novela gráfica
+- LGTBIQ+
+- Jovenes adultos
 - Queer
-- Contemporary
+- Contemporaneo
+- Comics
+- Ficción
+- Gay
+- Salud mentál
 autores:
 - Alice Oseman
 editoriales:
@@ -33,14 +37,14 @@ Nick y Charlie están muy enamorados. Por fin se han dicho esas dos palabras que
 
 ## Ficha del libro
 
-- **Autor:** Alice Oseman
+- **Autor:** [Alice Oseman](/autores/alice-oseman/)
 - **Serie:** Heartstopper (#5)
 - **Editorial:** Crossbooks
 - **Formato:** Paperback, 336 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408283537 / 9788408283539
 - **Publicación original:** 2024-02-14
-- **Géneros:** Romance, Graphic Novels, LGBT, Young Adult, Queer, Contemporary, Comics, Fiction, Gay, Mental Health
+- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/), [Salud mentál](/tags/salud-mental/)
 - **Premios ganados:** Goodreads Choice Award (2024), She Reads Best of Award (2023)
 - **Nominaciones:** British Book Award (2024), Readers' Favorite Young Adult Fiction (2024)
 - **Ficha en Goodreads:** [Heartstopper 5. Creciendo contigo](https://www.goodreads.com/book/show/202748429-heartstopper-5-creciendo-contigo)
@@ -49,4 +53,4 @@ Nick y Charlie están muy enamorados. Por fin se han dicho esas dos palabras que
 
 - **Inicio:** 2024/03/27
 - **Fin:** 2024/03/27
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

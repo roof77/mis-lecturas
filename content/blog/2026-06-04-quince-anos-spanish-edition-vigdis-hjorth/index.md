@@ -7,14 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Roman
-- Audiobook
-- Novels
-- Family
+- Ficción
+- Contemporaneo
+- Novela
+- Familia
+- Coming of age
 autores:
 - Vigdis Hjorth
+- Kirsti Baggethun
+- Asunción Lorenzo
 editoriales:
 - Nórdica Libros
 image:
@@ -35,14 +36,14 @@ La simulación de su madre sorprende a Paula, que ahora está rodeada de mentira
 
 ## Ficha del libro
 
-- **Autor:** Vigdis Hjorth
-- **Colaboradores:** Kirsti Baggethun (translator), Asunción Lorenzo (translator)
+- **Autor:** [Vigdis Hjorth](/autores/vigdis-hjorth/)
+- **Colaboradores:** [Kirsti Baggethun](/autores/kirsti-baggethun/) (translator), [Asunción Lorenzo](/autores/asuncion-lorenzo/) (translator)
 - **Editorial:** Nórdica Libros
 - **Formato:** Paperback, 184 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9791387563080
 - **Publicación original:** 2025-03-10
-- **Géneros:** Fiction, Contemporary, Roman, Audiobook, Novels, Family, Coming Of Age
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Familia](/tags/familia/), [Coming of age](/tags/coming-of-age/)
 - **Nominaciones:** Brageprisen (2022)
 - **Ficha en Goodreads:** [Quince años (Spanish Edition)](https://www.goodreads.com/book/show/227931868-quince-a-os)
 
@@ -50,3 +51,4 @@ La simulación de su madre sorprende a Paula, que ahora está rodeada de mentira
 
 - **Inicio:** 2026/05/17
 - **Fin:** 2026/06/04
+- **Calificación:** Bien/5

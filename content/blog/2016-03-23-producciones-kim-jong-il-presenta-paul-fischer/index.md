@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- History
-- Biography
-- Asia
-- Politics
-- True Crime
+- No Ficción
+- Historia
+- Biografía
+- Ásia
+- Política
+- Crime real
+- Club de lectura
+- Películas
+- Histórico
 autores:
-- Paul   Fischer
+- Paul Fischer
+- Ferran Esteve
 editoriales:
 - Turner
 image:
@@ -33,14 +37,14 @@ Juntos iban a producir una de las películas más denostadas y celebradas de la 
 
 ## Ficha del libro
 
-- **Autor:** Paul   Fischer
-- **Colaboradores:** Ferran Esteve (Translator)
+- **Autor:** [Paul Fischer](/autores/paul-fischer/)
+- **Colaboradores:** [Ferran Esteve](/autores/ferran-esteve/) (Translator)
 - **Editorial:** Turner
 - **Formato:** Paperback, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416354367 / 9788416354368
 - **Publicación original:** 2015-01-01
-- **Géneros:** Nonfiction, History, Biography, Asia, Politics, True Crime, Book Club, Audiobook, Film, Historical
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Biografía](/tags/biografia/), [Ásia](/tags/asia/), [Política](/tags/politica/), [Crime real](/tags/crime-real/), [Club de lectura](/tags/club-de-lectura/), [Películas](/tags/peliculas/), [Histórico](/tags/historico/)
 - **Lugares:** North Korea (Korea, Democratic People's Republic of)
 - **Nominaciones:** Goodreads Choice Award (2015), ALCS Dagger for Non-fiction (2015), Readers' Favorite History & Biography (2015)
 - **Ficha en Goodreads:** [Producciones Kim Jong-Il presenta...](https://www.goodreads.com/book/show/28250205-producciones-kim-jong-il-presenta)
@@ -49,4 +53,4 @@ Juntos iban a producir una de las películas más denostadas y celebradas de la 
 
 - **Inicio:** 2016/03/17
 - **Fin:** 2016/03/23
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

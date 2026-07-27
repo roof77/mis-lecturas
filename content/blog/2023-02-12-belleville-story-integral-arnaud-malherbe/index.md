@@ -28,17 +28,17 @@ Arnaud Malherbe y Vincent Perriot retratan la parte más oscura y siniestra de u
 
 ## Ficha del libro
 
-- **Autor:** Arnaud Malherbe
+- **Autor:** [Arnaud Malherbe](/autores/arnaud-malherbe/)
 - **Editorial:** Norma Editorial
 - **Formato:** Hardcover, 168 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467914696 / 9788467914696
 - **Publicación original:** 2014-04-01
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Belleville Story (Integral)](https://www.goodreads.com/book/show/22033238-belleville-story)
 
 ## Mi lectura
 
 - **Inicio:** 2023/02/12
 - **Fin:** 2023/02/12
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

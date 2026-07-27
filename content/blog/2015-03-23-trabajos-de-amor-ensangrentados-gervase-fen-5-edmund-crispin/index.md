@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Mystery
-- Fiction
-- Crime
-- Detective
-- Golden Age Mystery
-- British Literature
+- Misterio
+- Ficción
+- Crimen
+- Detectives
+- Edad de oro
+- Literatura británica
+- Asesinato
+- Thriller
 autores:
 - Edmund Crispin
+- José C. Vales
 editoriales:
 - Impedimenta
 image:
@@ -30,15 +33,15 @@ La escuela Castrevenford está inmersa en los preparativos para celebrar el fin 
 
 ## Ficha del libro
 
-- **Autor:** Edmund Crispin
+- **Autor:** [Edmund Crispin](/autores/edmund-crispin/)
 - **Serie:** Gervase Fen (#5)
-- **Colaboradores:** José C. Vales (Translator)
+- **Colaboradores:** [José C. Vales](/autores/jose-c-vales/) (Translator)
 - **Editorial:** Impedimenta
 - **Formato:** Hardcover, 336 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415578962 / 9788415578963
 - **Publicación original:** 2014-02-01
-- **Géneros:** Mystery, Fiction, Crime, Detective, Golden Age Mystery, British Literature, Audiobook, Murder Mystery, Mystery Thriller, Thriller
+- **Géneros:** [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Detectives](/tags/detectives/), [Edad de oro](/tags/edad-de-oro/), [Literatura británica](/tags/literatura-britanica/), [Asesinato](/tags/asesinato/), [Thriller](/tags/thriller/)
 - **Personajes:** Gervase Fen, Brenda Boyce, Mr. Merrythought, Michael Somers, Mrs. Bly, Dr. Stanford, Miss Parry, Wells, Mr. Etherege, Mr. Philpotts
 - **Lugares:** Warwickshire, England (United Kingdom), England
 - **Ficha en Goodreads:** [Trabajos de amor ensangrentados (Gervase Fen, #5)](https://www.goodreads.com/book/show/20892128-trabajos-de-amor-ensangrentados)
@@ -47,4 +50,4 @@ La escuela Castrevenford está inmersa en los preparativos para celebrar el fin 
 
 - **Inicio:** 2015/03/20
 - **Fin:** 2015/03/23
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

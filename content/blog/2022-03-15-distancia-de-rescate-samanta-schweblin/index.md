@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Magical Realism
-- Literary Fiction
+- Terror
+- Ficción
+- Realismo mágico
+- Ficción Literaria
 - Novella
-- Contemporary
+- Contemporaneo
+- Misterio
+- Literatura hispana
+- Club de lectura
 autores:
 - Samanta Schweblin
 editoriales:
@@ -33,13 +36,13 @@ Samanta Schweblin ha escrito un relato extraordinario e hipnótico, urgente y pe
 
 ## Ficha del libro
 
-- **Autor:** Samanta Schweblin
+- **Autor:** [Samanta Schweblin](/autores/samanta-schweblin/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788439729488
 - **Publicación original:** 2015-02-01
-- **Géneros:** Horror, Fiction, Magical Realism, Literary Fiction, Novella, Contemporary, Mystery, Audiobook, Spanish Literature, Book Club
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/), [Novella](/tags/novella/), [Contemporaneo](/tags/contemporaneo/), [Misterio](/tags/misterio/), [Literatura hispana](/tags/literatura-hispana/), [Club de lectura](/tags/club-de-lectura/)
 - **Premios ganados:** Shirley Jackson Award (2017), Tähtifantasia Award (2019), Premio Tigre Juan (2015), The Rooster -- The Morning News Tournament of Books (2018)
 - **Nominaciones:** Warwick Prize for Women in Translation (2017), International Booker Prize (2017)
 - **Ficha en Goodreads:** [Distancia de rescate](https://www.goodreads.com/book/show/23153581-distancia-de-rescate)
@@ -48,4 +51,4 @@ Samanta Schweblin ha escrito un relato extraordinario e hipnótico, urgente y pe
 
 - **Inicio:** 2022/03/14
 - **Fin:** 2022/03/15
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

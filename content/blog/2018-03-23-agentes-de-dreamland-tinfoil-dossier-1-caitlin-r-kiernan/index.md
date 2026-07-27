@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Science Fiction
-- Fiction
-- Fantasy
+- Terror
+- Ciencia ficción
+- Ficción
+- Fantasía
 - Novella
-- Lovecraftian
+- Lovecraftiano
+- Ficción extraña
+- Ficción especulativa
+- Misterio
 autores:
 - Caitlín R. Kiernan
+- María Pilar San Román
 editoriales:
 - Alianza
 image:
@@ -35,15 +39,15 @@ Y una mujer que flota fuera del tiempo busca en el futuro y en el pasado respues
 
 ## Ficha del libro
 
-- **Autor:** Caitlín R. Kiernan
+- **Autor:** [Caitlín R. Kiernan](/autores/caitlin-r-kiernan/)
 - **Serie:** Tinfoil Dossier (#1)
-- **Colaboradores:** María Pilar San Román (Translator)
+- **Colaboradores:** [María Pilar San Román](/autores/maria-pilar-san-roman/) (Translator)
 - **Editorial:** Alianza
 - **Formato:** Hardcover, 120 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491810730 / 9788491810735
 - **Publicación original:** 2018-03-15
-- **Géneros:** Horror, Science Fiction, Fiction, Fantasy, Novella, Lovecraftian, Weird Fiction, Speculative Fiction, Mystery, Audiobook
+- **Géneros:** [Terror](/tags/terror/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Lovecraftiano](/tags/lovecraftiano/), [Ficción extraña](/tags/ficcion-extrana/), [Ficción especulativa](/tags/ficcion-especulativa/), [Misterio](/tags/misterio/)
 - **Nominaciones:** Bram Stoker Award (2017)
 - **Ficha en Goodreads:** [Agentes de Dreamland (Tinfoil Dossier, #1)](https://www.goodreads.com/book/show/38450660-agentes-de-dreamland)
 
@@ -51,4 +55,4 @@ Y una mujer que flota fuera del tiempo busca en el futuro y en el pasado respues
 
 - **Inicio:** 2018/03/21
 - **Fin:** 2018/03/23
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

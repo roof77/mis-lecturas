@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Fantasy
+- Terror
+- Ficción
+- Fantasía
 - Thriller
-- Mystery
-- Supernatural
+- Misterio
+- Sobrenatural
+- Paranormal
+- Adultos
+- Club de lectura
 autores:
-- Joe  Hill
+- Joe Hill
 editoriales:
 - Suma
 image:
@@ -31,13 +34,13 @@ Joe Hill, príncipe del terror y autor prodigio de la exitosa novela El traje de
 
 ## Ficha del libro
 
-- **Autor:** Joe  Hill
+- **Autor:** [Joe Hill](/autores/joe-hill/)
 - **Editorial:** Suma
 - **Formato:** Paperback, 476 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6071107164 / 9786071107169
 - **Publicación original:** 2010-10-01
-- **Géneros:** Horror, Fiction, Fantasy, Thriller, Mystery, Supernatural, Paranormal, Audiobook, Adult, Book Club
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Sobrenatural](/tags/sobrenatural/), [Paranormal](/tags/paranormal/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Ignatius Perrish, Lee Tourneau
 - **Lugares:** Gideon, New Hampshire (United States), New Hampshire (United States)
 - **Nominaciones:** Bram Stoker Award (2010), Locus Award (2011), Goodreads Choice Award (2010)
@@ -47,4 +50,4 @@ Joe Hill, príncipe del terror y autor prodigio de la exitosa novela El traje de
 
 - **Inicio:** 2015/09/10
 - **Fin:** 2015/09/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

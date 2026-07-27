@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
+- Relatos
 - Queer
-- Fiction
-- LGBT
-- Audiobook
+- Ficción
+- LGTBIQ+
 - Romance
+- Literatura hispana
+- Realismo mágico
+- Latinos
+- Literatura latinoamericana
 autores:
 - Camila Sosa Villada
 editoriales:
@@ -29,13 +32,13 @@ En plena decada de los años 90 una mujer se gana la vida como novia de alquiler
 
 ## Ficha del libro
 
-- **Autor:** Camila Sosa Villada
+- **Autor:** [Camila Sosa Villada](/autores/camila-sosa-villada/)
 - **Editorial:** Tusquets
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8411070891 / 9788411070898
 - **Publicación original:** 2022-03-09
-- **Géneros:** Short Stories, Queer, Fiction, LGBT, Audiobook, Romance, Spanish Literature, Magical Realism, Latinx, Latin American Literature
+- **Géneros:** [Relatos](/tags/relatos/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Romance](/tags/romance/), [Literatura hispana](/tags/literatura-hispana/), [Realismo mágico](/tags/realismo-magico/), [Latinos](/tags/latinos/), [Literatura latinoamericana](/tags/literatura-latinoamericana/)
 - **Nominaciones:** TFR Readers' Choice Award (2024)
 - **Ficha en Goodreads:** [Soy una tonta por quererte](https://www.goodreads.com/book/show/60117883-soy-una-tonta-por-quererte)
 
@@ -43,4 +46,4 @@ En plena decada de los años 90 una mujer se gana la vida como novia de alquiler
 
 - **Inicio:** 2022/06/27
 - **Fin:** 2022/06/29
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

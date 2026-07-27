@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Historical Fiction
-- Fiction
+- Terror
+- Fantasía
+- Ficción histórica
+- Ficción
 - Novella
-- Audiobook
+- Histórico
+- Adultos
+- Ciencia ficción
+- Club de lectura
 autores:
 - P. Djèlí Clark
+- Raúl García Campos
 editoriales:
 - Obscura
 image:
@@ -29,14 +33,14 @@ Una fantasía histórica oscura y de lo más sonada con un final apoteósico que
 
 ## Ficha del libro
 
-- **Autor:** P. Djèlí Clark
-- **Colaboradores:** Raúl García Campos (Translator)
+- **Autor:** [P. Djèlí Clark](/autores/p-djeli-clark/)
+- **Colaboradores:** [Raúl García Campos](/autores/raul-garcia-campos/) (Translator)
 - **Editorial:** Obscura
 - **Formato:** Paperback, 204 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412324358 / 9788412324358
 - **Publicación original:** 2021-09-23
-- **Géneros:** Horror, Fantasy, Historical Fiction, Fiction, Novella, Audiobook, Historical, Adult, Science Fiction, Book Club
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Histórico](/tags/historico/), [Adultos](/tags/adultos/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/)
 - **Lugares:** Georgia (United States), Macon, Georgia (United States), The United States of America
 - **Premios ganados:** Nebula Award (2020), Locus Award (2021), Prix Julia Verlanger (2022), British Fantasy Award (2021)
 - **Nominaciones:** Hugo Award (2021), World Fantasy Award (2021), Shirley Jackson Award (2020), Hurston/Wright Legacy Award (2021), Goodreads Choice Award (2020), Ignyte Award (2021), RUSA CODES Reading List (2021), Readers' Favorite Horror (2020)
@@ -46,4 +50,4 @@ Una fantasía histórica oscura y de lo más sonada con un final apoteósico que
 
 - **Inicio:** 2022/02/07
 - **Fin:** 2022/03/04
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

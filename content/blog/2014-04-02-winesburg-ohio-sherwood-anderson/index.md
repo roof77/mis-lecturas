@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Short Stories
-- Literature
-- American
-- Literary Fiction
+- Ficción
+- Clásico
+- Relatos
+- Literatura
+- EEUU
+- Ficción Literaria
+- Siglo XX
+- Novela
+- Ficción histórica
 autores:
 - Sherwood Anderson
+- Miguel Temprano García
 editoriales:
 - Acantilado
 image:
@@ -29,14 +33,14 @@ El joven George Willard, reportero del periódico local, observa la vida de los 
 
 ## Ficha del libro
 
-- **Autor:** Sherwood Anderson
-- **Colaboradores:** Miguel Temprano García (Translator)
+- **Autor:** [Sherwood Anderson](/autores/sherwood-anderson/)
+- **Colaboradores:** [Miguel Temprano García](/autores/miguel-temprano-garcia/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849264916X / 9788492649167
 - **Publicación original:** 2000-01-01
-- **Géneros:** Fiction, Classics, Short Stories, Literature, American, Literary Fiction, 20th Century, The United States Of America, Novels, Historical Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/), [Novela](/tags/novela/), [Ficción histórica](/tags/ficcion-historica/)
 - **Personajes:** Elizabeth Willard, Doctor Parcival, Louise Trunnion, Jesse Bentley, Louise Bentley, David Hardy, Joe Welling, Alice Hindman, Wash Williams, Seth Richmond
 - **Lugares:** Ohio (United States), Midwest (United States)
 - **Premios ganados:** Premi Llibreter de narrativa (2009)
@@ -46,4 +50,4 @@ El joven George Willard, reportero del periódico local, observa la vida de los 
 
 - **Inicio:** 2014/04/01
 - **Fin:** 2014/04/02
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

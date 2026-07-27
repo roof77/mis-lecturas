@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Thriller
-- Fiction
-- Mystery
-- Book Club
-- Mystery Thriller
+- Ficción
+- Misterio
+- Club de lectura
 - Suspense
+- Crimen
+- Contemporaneo
+- Thriller psicológico
+- Adultos
 autores:
 - S.J. Watson
+- Matuca Fernández de Villavicencio
 editoriales:
 - Grijalbo
 image:
@@ -33,14 +37,14 @@ Este es el angustioso mapa de los intentos de Christine por lograr que todo lo q
 
 ## Ficha del libro
 
-- **Autor:** S.J. Watson
-- **Colaboradores:** Matuca Fernández de Villavicencio (Translator)
+- **Autor:** [S.J. Watson](/autores/s-j-watson/)
+- **Colaboradores:** [Matuca Fernández de Villavicencio](/autores/matuca-fernandez-de-villavicencio/) (Translator)
 - **Editorial:** Grijalbo
 - **Formato:** Paperback, 384 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 0307883027 / 9780307883025
 - **Publicación original:** 2011-11-01
-- **Géneros:** Thriller, Fiction, Mystery, Book Club, Mystery Thriller, Suspense, Crime, Contemporary, Psychological Thriller, Adult
+- **Géneros:** [Thriller](/tags/thriller/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Club de lectura](/tags/club-de-lectura/), [Suspense](/tags/suspense/), [Crimen](/tags/crimen/), [Contemporaneo](/tags/contemporaneo/), [Thriller psicológico](/tags/thriller-psicologico/), [Adultos](/tags/adultos/)
 - **Personajes:** Ben, Christine Lucas, Dr. Nash, Clare
 - **Lugares:** Crouch End (United Kingdom)
 - **Premios ganados:** CWA New Blood Dagger (2011), Galaxy National Book Award (2011), Prix SNCF du polar (2012)
@@ -51,4 +55,4 @@ Este es el angustioso mapa de los intentos de Christine por lograr que todo lo q
 
 - **Inicio:** 2016/04/20
 - **Fin:** 2016/04/24
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

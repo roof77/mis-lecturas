@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Southern Gothic
-- Americana
-- Southern
-- American
+- Relatos
+- Ficción
+- Gótico sureño
+- EEUU
+- Sureño
+- Literatura
+- Ficción histórica
+- Ficción Literaria
 autores:
 - Chris Offutt
+- Javier Lucini
 editoriales:
 - Sajalín
 image:
@@ -31,18 +34,18 @@ Chris Offutt debutó en 1992 con esta colección de relatos con la que quiso «b
 
 ## Ficha del libro
 
-- **Autor:** Chris Offutt
-- **Colaboradores:** Javier Lucini (Transaltor)
+- **Autor:** [Chris Offutt](/autores/chris-offutt/)
+- **Colaboradores:** [Javier Lucini](/autores/javier-lucini/) (Transaltor)
 - **Editorial:** Sajalín
 - **Formato:** Paperback, 180 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494850121 / 9788494850127
 - **Publicación original:** 2019-03-01
-- **Géneros:** Short Stories, Fiction, Southern Gothic, Americana, Southern, American, The United States Of America, Literature, Historical Fiction, Literary Fiction
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Gótico sureño](/tags/gotico-sureno/), [EEUU](/tags/eeuu/), [Sureño](/tags/sureno/), [Literatura](/tags/literatura/), [Ficción histórica](/tags/ficcion-historica/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Ficha en Goodreads:** [Kentucky seco](https://www.goodreads.com/book/show/45155250-kentucky-seco)
 
 ## Mi lectura
 
 - **Inicio:** 2020/07/21
 - **Fin:** 2020/07/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

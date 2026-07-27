@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Manga
-- Japan
+- Japón
 - Comics
-- Graphic Novels
-- Food
-- Short Stories
+- Novela gráfica
+- Comida
+- Relatos
+- Literatura japanesa
+- Cocina
 autores:
 - Yarō Abe
+- Alberto Sakai Fonseca
 editoriales:
 - Astiberri
 image:
@@ -29,18 +32,19 @@ Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el ba
 
 ## Ficha del libro
 
-- **Autor:** Yarō Abe
+- **Autor:** [Yarō Abe](/autores/yaro-abe/)
 - **Serie:** 深夜食堂 [Shinya Shokudou] (#5-6)
-- **Colaboradores:** Alberto Sakai Fonseca (Translator)
+- **Colaboradores:** [Alberto Sakai Fonseca](/autores/alberto-sakai-fonseca/) (Translator)
 - **Editorial:** Astiberri
 - **Formato:** Paperback, 296 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841757591X / 9788417575915
 - **Publicación original:** 2022-04-25
-- **Géneros:** Manga, Japan, Comics, Graphic Novels, Food, Short Stories, Graphic Novels Comics, Japanese Literature, Cuisine, Cooking
+- **Géneros:** [Manga](/tags/manga/), [Japón](/tags/japon/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Comida](/tags/comida/), [Relatos](/tags/relatos/), [Literatura japanesa](/tags/literatura-japanesa/), [Cocina](/tags/cocina/)
 - **Ficha en Goodreads:** [La cantina de medianoche 3](https://www.goodreads.com/book/show/55316119-la-cantina-de-medianoche-3)
 
 ## Mi lectura
 
 - **Inicio:** 2026/03/22
 - **Fin:** 2026/03/24
+- **Calificación:** Muy recomendable/5

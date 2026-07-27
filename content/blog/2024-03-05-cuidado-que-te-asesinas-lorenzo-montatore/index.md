@@ -8,7 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Fiction
+- Ficción
 autores:
 - Lorenzo Montatore
 editoriales:
@@ -37,17 +37,17 @@ Una movida considerable.
 
 ## Ficha del libro
 
-- **Autor:** Lorenzo Montatore
+- **Autor:** [Lorenzo Montatore](/autores/lorenzo-montatore/)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 104 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416400946 / 9788416400942
 - **Publicación original:** 2018-02-22
-- **Géneros:** Comics, Fiction
+- **Géneros:** [Comics](/tags/comics/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [¡Cuidado, que te asesinas!](https://www.goodreads.com/book/show/38937406-cuidado-que-te-asesinas)
 
 ## Mi lectura
 
 - **Inicio:** 2024/03/05
 - **Fin:** 2024/03/05
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

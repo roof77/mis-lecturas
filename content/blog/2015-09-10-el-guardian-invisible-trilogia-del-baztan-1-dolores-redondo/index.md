@@ -8,11 +8,13 @@ authors:
 tags:
 - Lecturas
 - Thriller
-- Mystery
-- Crime
-- Fiction
-- Spain
-- Spanish Literature
+- Misterio
+- Crimen
+- Ficción
+- España
+- Literatura hispana
+- Suspense
+- Fantasía
 autores:
 - Dolores Redondo
 editoriales:
@@ -29,14 +31,14 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Dolores Redondo
+- **Autor:** [Dolores Redondo](/autores/dolores-redondo/)
 - **Serie:** Trilogía del Baztán (#1)
 - **Editorial:** Destino
 - **Formato:** Kindle Edition, 440 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8423346048 / 9788423346042
 - **Publicación original:** 2013-01-15
-- **Géneros:** Thriller, Mystery, Crime, Fiction, Spain, Spanish Literature, Mystery Thriller, Suspense, Audiobook, Fantasy
+- **Géneros:** [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Suspense](/tags/suspense/), [Fantasía](/tags/fantasia/)
 - **Personajes:** Amaia Salazar
 - **Lugares:** Valle del Baztán, Navarra (Spain)
 - **Nominaciones:** CWA International Dagger (2015)
@@ -46,4 +48,4 @@ image:
 
 - **Inicio:** 2015/09/07
 - **Fin:** 2015/09/10
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

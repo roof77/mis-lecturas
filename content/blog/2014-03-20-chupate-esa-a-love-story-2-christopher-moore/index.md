@@ -8,11 +8,15 @@ authors:
 tags:
 - Lecturas
 - Humor
-- Fiction
-- Fantasy
-- Vampires
-- Comedy
+- Ficción
+- Fantasía
+- Vampiros
+- Comedia
 - Paranormal
+- Fantasía urbana
+- Terror
+- Romance
+- Sobrenatural
 autores:
 - Christopher Moore
 editoriales:
@@ -31,14 +35,14 @@ Lo malo es que corre el rumor de que el chupasangre que mordió a Jody no debía
 
 ## Ficha del libro
 
-- **Autor:** Christopher Moore
+- **Autor:** [Christopher Moore](/autores/christopher-moore/)
 - **Serie:** A Love Story (#2)
 - **Editorial:** LA FACTORÍA DE IDEAS
 - **Formato:** Paperback, 317 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849800411X / 9788498004113
 - **Publicación original:** 2008-01-01
-- **Géneros:** Humor, Fiction, Fantasy, Vampires, Comedy, Paranormal, Urban Fantasy, Horror, Romance, Supernatural
+- **Géneros:** [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Vampiros](/tags/vampiros/), [Comedia](/tags/comedia/), [Paranormal](/tags/paranormal/), [Fantasía urbana](/tags/fantasia-urbana/), [Terror](/tags/terror/), [Romance](/tags/romance/), [Sobrenatural](/tags/sobrenatural/)
 - **Personajes:** Jody Stroud, C. Thomas Flood, The Emperor of San Francisco, Abby Normal
 - **Ficha en Goodreads:** [¡Chúpate esa! (A Love Story, #2)](https://www.goodreads.com/book/show/6461637-ch-pate-esa)
 
@@ -46,4 +50,4 @@ Lo malo es que corre el rumor de que el chupasangre que mordió a Jody no debía
 
 - **Inicio:** 2014/03/18
 - **Fin:** 2014/03/20
-- **Mi valoración:** ★★★☆☆ (3,25/5)
+- **Calificación:** ★★★☆☆ (3,25/5)

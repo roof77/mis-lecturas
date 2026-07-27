@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Literary Fiction
-- Contemporary
-- Latin American
-- Audiobook
-- Spanish Literature
+- Ficción
+- Ficción Literaria
+- Contemporaneo
+- Latino américa
+- Literatura hispana
+- Novella
+- Literatura
+- Religión
+- Novela
 autores:
 - Selva Almada
 editoriales:
@@ -29,13 +32,13 @@ Un reverendo y su hija de viaje por el Chaco, en un clima de conflictos y tormen
 
 ## Ficha del libro
 
-- **Autor:** Selva Almada
+- **Autor:** [Selva Almada](/autores/selva-almada/)
 - **Editorial:** Mardulce
 - **Formato:** Paperback, 168 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 987269656X / 9789872696566
 - **Publicación original:** 2012-01-01
-- **Géneros:** Fiction, Literary Fiction, Contemporary, Latin American, Audiobook, Spanish Literature, Novella, Literature, Religion, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Latino américa](/tags/latino-america/), [Literatura hispana](/tags/literatura-hispana/), [Novella](/tags/novella/), [Literatura](/tags/literatura/), [Religión](/tags/religion/), [Novela](/tags/novela/)
 - **Lugares:** Argentina
 - **Premios ganados:** Saltire Society Literary Award (2019), First Book Award - Edinburgh International Book Festival (2019)
 - **Nominaciones:** BTBA Best Translated Book Award (2020)
@@ -45,4 +48,4 @@ Un reverendo y su hija de viaje por el Chaco, en un clima de conflictos y tormen
 
 - **Inicio:** 2022/01/09
 - **Fin:** 2022/01/11
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

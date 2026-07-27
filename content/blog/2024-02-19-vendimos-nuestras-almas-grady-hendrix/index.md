@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Fantasy
-- Audiobook
-- Music
+- Terror
+- Ficción
+- Fantasía
+- Música
 - Paranormal
+- Adultos
+- Thriller
+- Sobrenatural
+- Contemporaneo
 autores:
 - Grady Hendrix
 editoriales:
@@ -35,13 +38,13 @@ Kris se lanza a la carretera con la esperanza de reunir a Dürt Würk y enfrenta
 
 ## Ficha del libro
 
-- **Autor:** Grady Hendrix
+- **Autor:** [Grady Hendrix](/autores/grady-hendrix/)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445014897 / 9788445014899
 - **Publicación original:** 2024-01-17
-- **Géneros:** Horror, Fiction, Fantasy, Audiobook, Music, Paranormal, Adult, Thriller, Supernatural, Contemporary
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Música](/tags/musica/), [Paranormal](/tags/paranormal/), [Adultos](/tags/adultos/), [Thriller](/tags/thriller/), [Sobrenatural](/tags/sobrenatural/), [Contemporaneo](/tags/contemporaneo/)
 - **Nominaciones:** Locus Award (2019), Shirley Jackson Award (2018), Goodreads Choice Award (2018), Dragon Award (2019), Readers' Favorite Horror (2018)
 - **Ficha en Goodreads:** [Vendimos nuestras almas](https://www.goodreads.com/book/show/123509137-vendimos-nuestras-almas)
 
@@ -49,4 +52,4 @@ Kris se lanza a la carretera con la esperanza de reunir a Dürt Würk y enfrenta
 
 - **Inicio:** 2024/02/14
 - **Fin:** 2024/02/19
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

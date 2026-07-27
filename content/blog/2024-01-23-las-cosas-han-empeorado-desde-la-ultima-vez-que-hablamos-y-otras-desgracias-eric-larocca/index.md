@@ -7,14 +7,21 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- LGBT
+- Terror
+- Ficción
+- LGTBIQ+
 - Queer
 - Novella
 - Thriller
+- Adultos
+- Relatos
+- Lesbianismo
+- Contemporaneo
 autores:
 - Eric LaRocca
+- José Ángel de Dios
+- Raúl Ruiz
+- Maria Teresa Aranda Morata
 editoriales:
 - Dilatando Mentes
 image:
@@ -40,13 +47,13 @@ Tres oscuras y perturbadoras historias de terror de una nueva y sorprendente voz
 
 ## Ficha del libro
 
-- **Autor:** Eric LaRocca
-- **Colaboradores:** José Ángel de Dios (translator), Raúl Ruiz (illustrator), Maria Teresa Aranda Morata (editor)
+- **Autor:** [Eric LaRocca](/autores/eric-larocca/)
+- **Colaboradores:** [José Ángel de Dios](/autores/jose-angel-de-dios/) (translator), [Raúl Ruiz](/autores/raul-ruiz/) (illustrator), [Maria Teresa Aranda Morata](/autores/maria-teresa-aranda-morata/) (editor)
 - **Editorial:** Dilatando Mentes
 - **Formato:** Board book, 268 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2022-10-25
-- **Géneros:** Horror, Fiction, LGBT, Queer, Novella, Thriller, Adult, Short Stories, Lesbian, Contemporary
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Novella](/tags/novella/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Relatos](/tags/relatos/), [Lesbianismo](/tags/lesbianismo/), [Contemporaneo](/tags/contemporaneo/)
 - **Nominaciones:** Bram Stoker Award (2021)
 - **Ficha en Goodreads:** [Las cosas han empeorado desde la última vez que hablamos (y otras desgracias)](https://www.goodreads.com/book/show/63141636-las-cosas-han-empeorado-desde-la-ltima-vez-que-hablamos)
 
@@ -54,4 +61,4 @@ Tres oscuras y perturbadoras historias de terror de una nueva y sorprendente voz
 
 - **Inicio:** 2024/01/20
 - **Fin:** 2024/01/23
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -25,7 +25,7 @@ En las anteriores palabras, Romeo hace referencia implícita a un asesinato que 
 
 ## Ficha del libro
 
-- **Autor:** Félix Romeo
+- **Autor:** [Félix Romeo](/autores/felix-romeo/)
 - **Editorial:** Mondadori
 - **Formato:** Hardcover, 144 páginas
 - **Idioma:** Spanish; Castilian
@@ -37,4 +37,4 @@ En las anteriores palabras, Romeo hace referencia implícita a un asesinato que 
 
 - **Inicio:** 2015/05/02
 - **Fin:** 2015/05/02
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

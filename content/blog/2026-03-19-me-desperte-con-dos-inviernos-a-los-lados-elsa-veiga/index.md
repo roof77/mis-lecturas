@@ -27,7 +27,7 @@ La autora recrea con meticulosidad una atmósfera doméstica opresiva en la que 
 
 ## Ficha del libro
 
-- **Autor:** Elsa Veiga
+- **Autor:** [Elsa Veiga](/autores/elsa-veiga/)
 - **Editorial:** Tres Hermanas
 - **Formato:** Paperback, 208 páginas
 - **Idioma:** Spanish; Castilian
@@ -39,3 +39,4 @@ La autora recrea con meticulosidad una atmósfera doméstica opresiva en la que 
 
 - **Inicio:** 2026/03/13
 - **Fin:** 2026/03/19
+- **Calificación:** Pasable/5

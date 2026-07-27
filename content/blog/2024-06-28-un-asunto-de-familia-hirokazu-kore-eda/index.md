@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Drama
-- Japan
-- Japanese Literature
-- Literature
-- Novels
+- Japón
+- Literatura japanesa
+- Literatura
+- Novela
+- Ásia
 autores:
 - Hirokazu Kore-eda
 editoriales:
@@ -33,12 +34,12 @@ Así arranca esta preciosa novela de Hirokazu Kore-eda sobre una familia que, co
 
 ## Ficha del libro
 
-- **Autor:** Hirokazu Kore-eda
+- **Autor:** [Hirokazu Kore-eda](/autores/hirokazu-kore-eda/)
 - **Editorial:** Nocturna
 - **Formato:** Paperback, 232 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2019-06-01
-- **Géneros:** Fiction, Drama, Japan, Japanese Literature, Literature, Novels, Asia
+- **Géneros:** [Ficción](/tags/ficcion/), [Drama](/tags/drama/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Ásia](/tags/asia/)
 - **Personajes:** Osamu Shibata, Nobuyo Shibata, Shota Shibata, Yuri
 - **Ficha en Goodreads:** [Un asunto de familia](https://www.goodreads.com/book/show/46273171-un-asunto-de-familia)
 
@@ -46,4 +47,4 @@ Así arranca esta preciosa novela de Hirokazu Kore-eda sobre una familia que, co
 
 - **Inicio:** 2024/06/21
 - **Fin:** 2024/06/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

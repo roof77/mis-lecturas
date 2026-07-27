@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Literature
-- American
-- Classics
-- Literary Fiction
+- Relatos
+- Ficción
+- Literatura
+- EEUU
+- Clásico
+- Ficción Literaria
+- Siglo XX
+- Mujeres
+- Judaismo
 autores:
 - Grace Paley
 editoriales:
@@ -29,17 +32,17 @@ Grace Paley (Nueva York, 1922 - Vermont, 2007) vivió entre dos culturas: la de 
 
 ## Ficha del libro
 
-- **Autor:** Grace Paley
+- **Autor:** [Grace Paley](/autores/grace-paley/)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433930036 / 9788433930033
 - **Publicación original:** 2016-04-18
-- **Géneros:** Short Stories, Fiction, Literature, American, Classics, Literary Fiction, 20th Century, The United States Of America, Womens, Jewish
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Clásico](/tags/clasico/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/), [Mujeres](/tags/mujeres/), [Judaismo](/tags/judaismo/)
 - **Ficha en Goodreads:** [Batallas de amor](https://www.goodreads.com/book/show/33833677-batallas-de-amor)
 
 ## Mi lectura
 
 - **Inicio:** 2019/11/03
 - **Fin:** 2019/11/12
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

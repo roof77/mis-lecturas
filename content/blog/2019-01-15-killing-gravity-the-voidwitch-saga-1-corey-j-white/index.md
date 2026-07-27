@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
+- Ciencia ficción
 - Novella
-- Fiction
+- Ficción
 - Space Opera
-- Space
-- Fantasy
+- Espacio
+- Fantasía
+- Queer
+- Ciencia Ficción
 autores:
 - Corey J. White
 editoriales:
@@ -31,18 +33,18 @@ Penned in on all sides, Mariam chases rumors to find the one who sold her out. T
 
 ## Ficha del libro
 
-- **Autor:** Corey J. White
+- **Autor:** [Corey J. White](/autores/corey-j-white/)
 - **Serie:** Voidwitch Saga (#1)
 - **Editorial:** Tor.com
 - **Formato:** Kindle Edition, 176 páginas
 - **Idioma:** English
 - **ISBN:** 0765395088 / 9780765395085
 - **Publicación original:** 2017-05-09
-- **Géneros:** Science Fiction, Novella, Fiction, Space Opera, Space, Fantasy, Ebooks, Queer, Science Fiction Fantasy, Audiobook
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Space Opera](/tags/space-opera/), [Espacio](/tags/espacio/), [Fantasía](/tags/fantasia/), [Queer](/tags/queer/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Ficha en Goodreads:** [Killing Gravity (The Voidwitch Saga, #1)](https://www.goodreads.com/book/show/33091587-killing-gravity)
 
 ## Mi lectura
 
 - **Inicio:** 2018/12/18
 - **Fin:** 2019/01/15
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

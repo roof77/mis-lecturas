@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- American
-- New York
-- Novels
-- The United States Of America
+- Ficción
+- Contemporaneo
+- EEUU
+- Nueva York
+- Novela
+- Literatura
+- Ficción Literaria
+- Club de lectura
 autores:
 - Paul Auster
+- Benito Gómez Ibáñez
 editoriales:
 - Anagrama
 image:
@@ -29,14 +32,14 @@ Nathan Glass ha sobrevivido a un cáncer de pulmón y a un divorcio después de 
 
 ## Ficha del libro
 
-- **Autor:** Paul Auster
-- **Colaboradores:** Benito Gómez Ibáñez (Translator)
+- **Autor:** [Paul Auster](/autores/paul-auster/)
+- **Colaboradores:** [Benito Gómez Ibáñez](/autores/benito-gomez-ibanez/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433970925 / 9788433970923
 - **Publicación original:** 2006-03-01
-- **Géneros:** Fiction, Contemporary, American, New York, Novels, The United States Of America, Literature, Literary Fiction, Book Club, Americana
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [EEUU](/tags/eeuu/), [Nueva York](/tags/nueva-york/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Nathan Glass, Tom Wood, Harry Brightman
 - **Lugares:** Brooklyn, New York City, New York (United States), New York City, New York (United States)
 - **Ficha en Goodreads:** [Brooklyn Follies](https://www.goodreads.com/book/show/846182.Brooklyn_Follies)
@@ -45,4 +48,4 @@ Nathan Glass ha sobrevivido a un cáncer de pulmón y a un divorcio después de 
 
 - **Inicio:** 2014/09/15
 - **Fin:** 2014/09/18
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

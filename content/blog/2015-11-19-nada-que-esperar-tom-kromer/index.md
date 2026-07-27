@@ -7,11 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
+- Ficción
+- Clásico
 - Noir
-- American
-- Novels
+- EEUU
+- Novela
 autores:
 - Tom Kromer
 editoriales:
@@ -29,12 +29,12 @@ Publicada en 1935 e inédita hasta ahora en castellano, Nada que esperar es la �
 
 ## Ficha del libro
 
-- **Autor:** Tom Kromer
+- **Autor:** [Tom Kromer](/autores/tom-kromer/)
 - **Editorial:** Sajalín Editores
 - **Formato:** Paperback, 214 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2015-05-01
-- **Géneros:** Fiction, Classics, Noir, American, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Noir](/tags/noir/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/)
 - **Lugares:** The United States of America
 - **Ficha en Goodreads:** [Nada que esperar](https://www.goodreads.com/book/show/25715003-nada-que-esperar)
 
@@ -42,4 +42,4 @@ Publicada en 1935 e inédita hasta ahora en castellano, Nada que esperar es la �
 
 - **Inicio:** 2015/11/17
 - **Fin:** 2015/11/19
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

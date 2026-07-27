@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Science Fiction
-- Fiction
-- Time Travel
-- Fantasy
-- Dystopia
+- Clásico
+- Ciencia ficción
+- Ficción
+- Viaje en el tiempo
+- Fantasía
+- Distopía
+- Literatura
+- Aventuras
+- Ciencia Ficción
 autores:
 - H.G. Wells
 editoriales:
@@ -33,13 +36,13 @@ La máquina del tiempo fue la primera obra de éxito de G. H. Wells y pionera en
 
 ## Ficha del libro
 
-- **Autor:** H.G. Wells
+- **Autor:** [H.G. Wells](/autores/h-g-wells/)
 - **Editorial:** Austral
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 607076109X / 9786070761096
 - **Publicación original:** 2019-06-18
-- **Géneros:** Classics, Science Fiction, Fiction, Time Travel, Fantasy, Dystopia, Audiobook, Literature, Adventure, Science Fiction Fantasy
+- **Géneros:** [Clásico](/tags/clasico/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Fantasía](/tags/fantasia/), [Distopía](/tags/distopia/), [Literatura](/tags/literatura/), [Aventuras](/tags/aventuras/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Personajes:** Weena, The Time Traveller
 - **Lugares:** London, England, England, United Kingdom
 - **Ficha en Goodreads:** [La máquina del tiempo](https://www.goodreads.com/book/show/49903411-la-m-quina-del-tiempo)
@@ -48,4 +51,4 @@ La máquina del tiempo fue la primera obra de éxito de G. H. Wells y pionera en
 
 - **Inicio:** 2014/01/18
 - **Fin:** 2014/01/20
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Science Fiction
-- Audiobook
-- Dystopia
-- Science Fiction Fantasy
+- Fantasía
+- Ficción
+- Ciencia ficción
+- Distopía
+- Ciencia Ficción
+- Adultos
+- Postapocalíptico
+- Mágia
+- Ficción especulativa
 autores:
 - N.K. Jemisin
+- David Tejera Expósito
 editoriales:
 - NOVA
 image:
@@ -31,15 +35,15 @@ Toda era tiene que llegar a su fin. Ha dado comienzo una estación de desenlaces
 
 ## Ficha del libro
 
-- **Autor:** N.K. Jemisin
+- **Autor:** [N.K. Jemisin](/autores/n-k-jemisin/)
 - **Serie:** The Broken Earth (#2)
-- **Colaboradores:** David Tejera Expósito (Translator)
+- **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** NOVA
 - **Formato:** Paperback, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788466662673
 - **Publicación original:** 2018-01-25
-- **Géneros:** Fantasy, Fiction, Science Fiction, Audiobook, Dystopia, Science Fiction Fantasy, Adult, Post Apocalyptic, Magic, Speculative Fiction
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/), [Postapocalíptico](/tags/postapocaliptico/), [Mágia](/tags/magia/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Personajes:** Alabaster, Essun, Hoa, Nassun, Schaffa, Ykka
 - **Premios ganados:** Hugo Award (2017)
 - **Nominaciones:** Nebula Award (2016), Locus Award (2017), World Fantasy Award (2017), James Tiptree Jr. Award (2016), Goodreads Choice Award (2016), Readers' Favorite Fantasy (2016)
@@ -49,4 +53,4 @@ Toda era tiene que llegar a su fin. Ha dado comienzo una estación de desenlaces
 
 - **Inicio:** 2018/01/25
 - **Fin:** 2018/01/29
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

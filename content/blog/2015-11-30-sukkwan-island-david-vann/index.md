@@ -7,14 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Thriller
-- Roman
-- The United States Of America
-- Contemporary
-- Ebooks
+- EEUU
+- Contemporaneo
+- Novela
+- Siglo XXI
 autores:
 - David Vann
+- Daniel Gascón
 editoriales:
 - Ediciones Alfabia
 image:
@@ -29,14 +30,14 @@ Una isla salvaje en el sur de Alaska, a la que solamente puede accederse en barc
 
 ## Ficha del libro
 
-- **Autor:** David Vann
-- **Colaboradores:** Daniel Gascón (Translator)
+- **Autor:** [David Vann](/autores/david-vann/)
+- **Colaboradores:** [Daniel Gascón](/autores/daniel-gascon/) (Translator)
 - **Editorial:** Ediciones Alfabia
 - **Formato:** Paperback, 210 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493794325 / 9788493794323
 - **Publicación original:** 2010-10-25
-- **Géneros:** Fiction, Thriller, Roman, The United States Of America, Contemporary, Ebooks, Novels, American, Audiobook, 21st Century
+- **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [EEUU](/tags/eeuu/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Siglo XXI](/tags/siglo-xxi/)
 - **Premios ganados:** Prix Médicis étranger (2010), Prix des Lecteurs de L'Express-BFMTV (2010), Premi Llibreter de narrativa (2011)
 - **Ficha en Goodreads:** [Sukkwan Island](https://www.goodreads.com/book/show/9891064-sukkwan-island)
 
@@ -44,4 +45,4 @@ Una isla salvaje en el sur de Alaska, a la que solamente puede accederse en barc
 
 - **Inicio:** 2015/11/27
 - **Fin:** 2015/11/30
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

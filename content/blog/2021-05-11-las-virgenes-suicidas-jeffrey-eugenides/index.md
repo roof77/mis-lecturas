@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Contemporary
-- Literary Fiction
-- Young Adult
-- Coming Of Age
+- Ficción
+- Clásico
+- Contemporaneo
+- Ficción Literaria
+- Jovenes adultos
+- Coming of age
+- Salud mentál
+- Club de lectura
+- Novela
+- Adultos
 autores:
 - Jeffrey Eugenides
+- Roser Berdagué
 editoriales:
 - Editorial Anagrama
 image:
@@ -31,14 +36,14 @@ Los jovencitos del barrio habían estado siempre fascinados por esas inalcanzabl
 
 ## Ficha del libro
 
-- **Autor:** Jeffrey Eugenides
-- **Colaboradores:** Roser Berdagué (Translator)
+- **Autor:** [Jeffrey Eugenides](/autores/jeffrey-eugenides/)
+- **Colaboradores:** [Roser Berdagué](/autores/roser-berdague/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Mass Market Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433966820 / 9788433966827
 - **Publicación original:** 2022-07-01
-- **Géneros:** Fiction, Classics, Contemporary, Literary Fiction, Young Adult, Coming Of Age, Mental Health, Book Club, Novels, Adult
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Jovenes adultos](/tags/jovenes-adultos/), [Coming of age](/tags/coming-of-age/), [Salud mentál](/tags/salud-mental/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)
 - **Personajes:** Cecilia Lisbon, Lux Lisbon, Mary Lisbon, Therese Lisbon, Bonnie Lisbon
 - **Lugares:** Michigan (United States), Midwest (United States), Grosse Pointe, Michigan (United States)
 - **Ficha en Goodreads:** [Las vírgenes suicidas](https://www.goodreads.com/book/show/85618.Las_v_rgenes_suicidas)
@@ -47,4 +52,4 @@ Los jovencitos del barrio habían estado siempre fascinados por esas inalcanzabl
 
 - **Inicio:** 2021/05/09
 - **Fin:** 2021/05/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Fantasy
-- Classics
-- Science Fiction Fantasy
-- Novels
+- Ciencia ficción
+- Ficción
+- Fantasía
+- Clásico
+- Ciencia Ficción
+- Novela
+- Ficción especulativa
+- Siglo XX
+- Club de lectura
 autores:
 - Theodore Sturgeon
 editoriales:
@@ -31,13 +34,13 @@ Más que humano es la historia de un grupo de personajes que no encuentran su pa
 
 ## Ficha del libro
 
-- **Autor:** Theodore Sturgeon
+- **Autor:** [Theodore Sturgeon](/autores/theodore-sturgeon/)
 - **Editorial:** Ediciones Minotauro
 - **Formato:** Hardcover, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445077066 / 9788445077061
 - **Publicación original:** 2008-10-14
-- **Géneros:** Science Fiction, Fiction, Fantasy, Classics, Science Fiction Fantasy, Novels, Speculative Fiction, Audiobook, 20th Century, Book Club
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Clásico](/tags/clasico/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Novela](/tags/novela/), [Ficción especulativa](/tags/ficcion-especulativa/), [Siglo XX](/tags/siglo-xx/), [Club de lectura](/tags/club-de-lectura/)
 - **Premios ganados:** International Fantasy Award (-504892800000), Retro Hugo Award (2004)
 - **Ficha en Goodreads:** [Más que humano](https://www.goodreads.com/book/show/8138083-m-s-que-humano)
 
@@ -45,4 +48,4 @@ Más que humano es la historia de un grupo de personajes que no encuentran su pa
 
 - **Inicio:** 2014/09/18
 - **Fin:** 2014/09/22
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

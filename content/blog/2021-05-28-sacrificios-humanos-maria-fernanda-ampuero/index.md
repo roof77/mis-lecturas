@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Short Stories
-- Fiction
-- Feminism
+- Terror
+- Relatos
+- Ficción
+- Feminismo
 - Thriller
-- Audiobook
+- Gótico
+- Adultos
+- Literatura hispana
 autores:
 - María Fernanda Ampuero
 editoriales:
@@ -29,13 +31,13 @@ María Fernanda Ampuero se ha convertido en una de las voces indispensables de l
 
 ## Ficha del libro
 
-- **Autor:** María Fernanda Ampuero
+- **Autor:** [María Fernanda Ampuero](/autores/maria-fernanda-ampuero/)
 - **Editorial:** Páginas de Espuma
 - **Formato:** Paperback, 144 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 848393289X / 9788483932896
 - **Publicación original:** 2021-02-01
-- **Géneros:** Horror, Short Stories, Fiction, Feminism, Thriller, Audiobook, Horror Thriller, Gothic, Adult, Spanish Literature
+- **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Thriller](/tags/thriller/), [Gótico](/tags/gotico/), [Adultos](/tags/adultos/), [Literatura hispana](/tags/literatura-hispana/)
 - **Lugares:** Argentina
 - **Ficha en Goodreads:** [Sacrificios humanos](https://www.goodreads.com/book/show/56509274-sacrificios-humanos)
 
@@ -43,4 +45,4 @@ María Fernanda Ampuero se ha convertido en una de las voces indispensables de l
 
 - **Inicio:** 2021/05/26
 - **Fin:** 2021/05/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

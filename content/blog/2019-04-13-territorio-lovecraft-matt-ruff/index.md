@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- Historical Fiction
-- Science Fiction
-- Audiobook
+- Terror
+- Fantasía
+- Ficción
+- Ficción histórica
+- Ciencia ficción
+- Histórico
+- Lovecraftiano
+- Club de lectura
+- Sobrenatural
 autores:
 - Matt Ruff
+- Javier Calvo Perales
 editoriales:
 - Destino
 image:
@@ -31,15 +35,15 @@ En la mansión, Atticus descubre a su padre encerrado, prisionero de una socieda
 
 ## Ficha del libro
 
-- **Autor:** Matt Ruff
+- **Autor:** [Matt Ruff](/autores/matt-ruff/)
 - **Serie:** Lovecraft Country (#1)
-- **Colaboradores:** Javier Calvo Perales (Translator)
+- **Colaboradores:** [Javier Calvo Perales](/autores/javier-calvo-perales/) (Translator)
 - **Editorial:** Destino
 - **Formato:** Kindle Edition, 448 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8423355306 / 9788423355303
 - **Publicación original:** 2019-03-12
-- **Géneros:** Horror, Fantasy, Fiction, Historical Fiction, Science Fiction, Audiobook, Historical, Lovecraftian, Book Club, Supernatural
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Histórico](/tags/historico/), [Lovecraftiano](/tags/lovecraftiano/), [Club de lectura](/tags/club-de-lectura/), [Sobrenatural](/tags/sobrenatural/)
 - **Personajes:** Atticus Turner, George Berry, Montrose Turner, Letitia Dandridge
 - **Lugares:** The United States of America, Chicago, Illinois (United States), Ardham, Massachusetts (United States)
 - **Premios ganados:** Endeavour Award (2017), Prix Elbakin.net (2019)
@@ -50,4 +54,4 @@ En la mansión, Atticus descubre a su padre encerrado, prisionero de una socieda
 
 - **Inicio:** 2019/04/06
 - **Fin:** 2019/04/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

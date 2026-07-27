@@ -8,8 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
+- Novela gráfica
 autores:
 - Eddie Campbell
 editoriales:
@@ -27,18 +26,18 @@ En este primer volumen de la serie de Baco, publicada originalmente entre 1986 y
 
 ## Ficha del libro
 
-- **Autor:** Eddie Campbell
+- **Autor:** [Eddie Campbell](/autores/eddie-campbell/)
 - **Serie:** Bacchus (#1-2)
 - **Editorial:** Astiberri 
 - **Formato:** Paperback, 216 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415685114 / 9788415685111
 - **Publicación original:** 2013-04-05
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/)
 - **Ficha en Goodreads:** [Baco 1](https://www.goodreads.com/book/show/25451026-baco-1)
 
 ## Mi lectura
 
 - **Inicio:** 2023/02/14
 - **Fin:** 2023/02/26
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

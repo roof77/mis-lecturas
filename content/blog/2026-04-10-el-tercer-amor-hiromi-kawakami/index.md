@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Japan
-- Japanese Literature
-- Historical Fiction
+- Ficción
+- Japón
+- Literatura japanesa
+- Ficción histórica
 - Romance
-- Magical Realism
+- Realismo mágico
+- Ficción Literaria
+- Literatura asiática
+- Contemporaneo
+- Ásia
 autores:
 - Hiromi Kawakami
+- Yoko Ogihara
+- Fernando Cordobés
 editoriales:
 - Alfaguara
 image:
@@ -29,16 +35,17 @@ Después de casarse con su amor de infancia, Riko se encuentra atrapada en una r
 
 ## Ficha del libro
 
-- **Autor:** Hiromi Kawakami
-- **Colaboradores:** Yoko Ogihara (Traductora), Fernando Cordobés (Traductor)
+- **Autor:** [Hiromi Kawakami](/autores/hiromi-kawakami/)
+- **Colaboradores:** [Yoko Ogihara](/autores/yoko-ogihara/) (Traductora), [Fernando Cordobés](/autores/fernando-cordobes/) (Traductor)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2025-02-13
-- **Géneros:** Fiction, Japan, Japanese Literature, Historical Fiction, Romance, Magical Realism, Literary Fiction, Asian Literature, Contemporary, Asia
+- **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Ficción histórica](/tags/ficcion-historica/), [Romance](/tags/romance/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/), [Contemporaneo](/tags/contemporaneo/), [Ásia](/tags/asia/)
 - **Ficha en Goodreads:** [El tercer amor](https://www.goodreads.com/book/show/223333748-el-tercer-amor)
 
 ## Mi lectura
 
 - **Inicio:** 2026/03/27
 - **Fin:** 2026/04/10
+- **Calificación:** Recomendable/5

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Middle Grade
-- Fantasy
-- Fiction
-- Young Adult
-- Ghosts
-- Ireland
+- Fantasía
+- Ficción
+- Jovenes adultos
+- Fantasmas
+- Irlanda
+- Niños
+- Familia
+- Muerte
+- Paranormal
 autores:
 - Roddy Doyle
 editoriales:
@@ -31,13 +34,13 @@ Una novela divertida y entrañable que no te dejará indiferente.
 
 ## Ficha del libro
 
-- **Autor:** Roddy Doyle
+- **Autor:** [Roddy Doyle](/autores/roddy-doyle/)
 - **Editorial:** Bambú
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8483432110 / 9788483432112
 - **Publicación original:** 2013-11-01
-- **Géneros:** Middle Grade, Fantasy, Fiction, Young Adult, Ghosts, Ireland, Childrens, Family, Death, Paranormal
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Fantasmas](/tags/fantasmas/), [Irlanda](/tags/irlanda/), [Niños](/tags/ninos/), [Familia](/tags/familia/), [Muerte](/tags/muerte/), [Paranormal](/tags/paranormal/)
 - **Lugares:** Ireland
 - **Nominaciones:** Carnegie Medal (2013)
 - **Ficha en Goodreads:** [Como un galgo (Grandes Lectores) (Spanish Edition)](https://www.goodreads.com/book/show/17802228-como-un-galgo-grandes-lectores)
@@ -46,4 +49,4 @@ Una novela divertida y entrañable que no te dejará indiferente.
 
 - **Inicio:** 2020/11/03
 - **Fin:** 2020/11/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

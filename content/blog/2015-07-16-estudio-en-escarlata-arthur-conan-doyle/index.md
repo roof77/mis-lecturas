@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Mystery
-- Fiction
-- Crime
-- Audiobook
-- Detective
+- Clásico
+- Misterio
+- Ficción
+- Crimen
+- Detectives
+- Thriller
+- Ficción histórica
+- Siglo XIX
 autores:
 - Arthur Conan Doyle
 image:
@@ -27,12 +29,12 @@ La publicación en 1887 de ESTUDIO EN ESCARLATA significó para la historia del 
 
 ## Ficha del libro
 
-- **Autor:** Arthur Conan Doyle
+- **Autor:** [Arthur Conan Doyle](/autores/arthur-conan-doyle/)
 - **Serie:** Sherlock Holmes (#1)
 - **Formato:** Kindle Edition, 152 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2011-03-04
-- **Géneros:** Classics, Mystery, Fiction, Crime, Audiobook, Detective, Mystery Thriller, Thriller, Historical Fiction, 19th Century
+- **Géneros:** [Clásico](/tags/clasico/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Detectives](/tags/detectives/), [Thriller](/tags/thriller/), [Ficción histórica](/tags/ficcion-historica/), [Siglo XIX](/tags/siglo-xix/)
 - **Personajes:** Jefferson Hope, Inspector Lestrade, Enoch Drebber, Lucy Ferrier, John Ferrier, Joseph Stangerson, Inspector Tobias Gregson, John Watson, Sherlock Holmes
 - **Lugares:** London, England, Utah (United States), Salt Lake City, Utah (United States)
 - **Ficha en Goodreads:** [Estudio en escarlata](https://www.goodreads.com/book/show/11197507-estudio-en-escarlata)
@@ -41,4 +43,4 @@ La publicación en 1887 de ESTUDIO EN ESCARLATA significó para la historia del 
 
 - **Inicio:** 2015/07/14
 - **Fin:** 2015/07/16
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

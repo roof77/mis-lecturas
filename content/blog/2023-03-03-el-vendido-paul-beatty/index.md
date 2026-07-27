@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Book Club
+- Ficción
+- Club de lectura
 - Humor
-- Satire
-- Contemporary
-- Race
+- Sátira
+- Contemporaneo
+- Raza
+- Ficción Literaria
+- Novela
+- Afroamericanos
+- Literatura
 autores:
 - Paul Beatty
+- Íñigo García Ureta
 editoriales:
 - Malpaso
 image:
@@ -34,14 +39,14 @@ Sobre tan disfuncional y variopinta estampa arranca El vendido, una desternillan
 
 ## Ficha del libro
 
-- **Autor:** Paul Beatty
-- **Colaboradores:** Íñigo García Ureta (Translator)
+- **Autor:** [Paul Beatty](/autores/paul-beatty/)
+- **Colaboradores:** [Íñigo García Ureta](/autores/inigo-garcia-ureta/) (Translator)
 - **Editorial:** Malpaso
 - **Formato:** Hardcover, 342 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416665699 / 9788416665693
 - **Publicación original:** 2017-05-22
-- **Géneros:** Fiction, Book Club, Humor, Satire, Contemporary, Race, Literary Fiction, Novels, African American, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Humor](/tags/humor/), [Sátira](/tags/satira/), [Contemporaneo](/tags/contemporaneo/), [Raza](/tags/raza/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Afroamericanos](/tags/afroamericanos/), [Literatura](/tags/literatura/)
 - **Lugares:** California (United States)
 - **Premios ganados:** Booker Prize (2016), National Book Critics Circle Award (2015), The Rooster -- The Morning News Tournament of Books (2016)
 - **Nominaciones:** Bollinger Everyman Wodehouse Prize (2016), Hurston/Wright Legacy Award (2016), Dublin Literary Award (2017)
@@ -51,4 +56,4 @@ Sobre tan disfuncional y variopinta estampa arranca El vendido, una desternillan
 
 - **Inicio:** 2023/02/23
 - **Fin:** 2023/03/03
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

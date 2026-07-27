@@ -8,11 +8,14 @@ authors:
 tags:
 - Lecturas
 - Queer
-- Fiction
-- LGBT
-- Spanish Literature
-- Contemporary
-- Spain
+- Ficción
+- LGTBIQ+
+- Literatura hispana
+- Contemporaneo
+- España
+- Feminismo
+- Transgenero
+- Drama
 autores:
 - Alana S. Portero
 editoriales:
@@ -31,13 +34,13 @@ La mala costumbre es una novela cruda y feroz, pero también poética y conmoved
 
 ## Ficha del libro
 
-- **Autor:** Alana S. Portero
+- **Autor:** [Alana S. Portero](/autores/alana-s-portero/)
 - **Editorial:** Seix Barral
 - **Formato:** Kindle Edition, 252 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8432242187 / 9788432242182
 - **Publicación original:** 2023-05-03
-- **Géneros:** Queer, Fiction, LGBT, Spanish Literature, Contemporary, Spain, Audiobook, Feminism, Transgender, Drama
+- **Géneros:** [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Literatura hispana](/tags/literatura-hispana/), [Contemporaneo](/tags/contemporaneo/), [España](/tags/espana/), [Feminismo](/tags/feminismo/), [Transgenero](/tags/transgenero/), [Drama](/tags/drama/)
 - **Lugares:** Spain, Madrid (Spain)
 - **Premios ganados:** TFR Readers' Choice Award (2024)
 - **Ficha en Goodreads:** [La mala costumbre](https://www.goodreads.com/book/show/123723946-la-mala-costumbre)
@@ -46,4 +49,4 @@ La mala costumbre es una novela cruda y feroz, pero también poética y conmoved
 
 - **Inicio:** 2024/01/12
 - **Fin:** 2024/01/17
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

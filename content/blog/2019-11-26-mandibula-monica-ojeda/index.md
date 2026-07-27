@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Thriller
 - Queer
-- LGBT
-- Contemporary
+- LGTBIQ+
+- Contemporaneo
+- Dark Academia
+- Misterio
+- Adultos
 autores:
 - Mónica Ojeda
 editoriales:
@@ -31,13 +34,13 @@ Una adolescente fanática del horror y de las "creepypastas" (historias de terro
 
 ## Ficha del libro
 
-- **Autor:** Mónica Ojeda
+- **Autor:** [Mónica Ojeda](/autores/monica-ojeda/)
 - **Editorial:** Candaya
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415934491 / 9788415934493
 - **Publicación original:** 2018-03-12
-- **Géneros:** Horror, Fiction, Thriller, Queer, LGBT, Contemporary, Dark Academia, Audiobook, Mystery, Adult
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Contemporaneo](/tags/contemporaneo/), [Dark Academia](/tags/dark-academia/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/)
 - **Lugares:** Guayaquil (Ecuador), Ecuador
 - **Premios ganados:** National Book Award Finalist (2022)
 - **Nominaciones:** Lambda Literary Award (2023)
@@ -47,4 +50,4 @@ Una adolescente fanática del horror y de las "creepypastas" (historias de terro
 
 - **Inicio:** 2019/11/18
 - **Fin:** 2019/11/26
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

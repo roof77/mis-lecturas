@@ -23,7 +23,7 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** The New Yorker
+- **Autor:** [The New Yorker](/autores/the-new-yorker/)
 - **Editorial:** The New Yorker Magazine
 - **Formato:** Paperback, 260 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ image:
 
 - **Inicio:** 2016/01/09
 - **Fin:** 2016/01/09
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

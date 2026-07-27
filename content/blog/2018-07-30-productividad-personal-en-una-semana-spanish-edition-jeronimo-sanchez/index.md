@@ -23,7 +23,7 @@ Para alcanzar nuestras metas profesionales y personales debemos desear realment
 
 ## Ficha del libro
 
-- **Autor:** Jerónimo Sánchez
+- **Autor:** [Jerónimo Sánchez](/autores/jeronimo-sanchez/)
 - **Editorial:** Gestión 2000
 - **Formato:** Kindle Edition, 67 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ Para alcanzar nuestras metas profesionales y personales debemos desear realment
 
 - **Inicio:** 2018/07/25
 - **Fin:** 2018/07/30
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

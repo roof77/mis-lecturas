@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Feminism
-- Nonfiction
-- Essays
-- France
-- Womens
-- Politics
+- Feminismo
+- No Ficción
+- Ensayo
+- Francia
+- Mujeres
+- Política
+- Filosofía
+- Queer
+- Género
+- Literatura francesa
 autores:
 - Virginie Despentes
+- Paul B. Preciado
 editoriales:
 - Melusina
 image:
@@ -35,14 +40,14 @@ La diva destroy punk de las letras francesas, escritora de novelas en las que la
 
 ## Ficha del libro
 
-- **Autor:** Virginie Despentes
-- **Colaboradores:** Paul B. Preciado (Translator)
+- **Autor:** [Virginie Despentes](/autores/virginie-despentes/)
+- **Colaboradores:** [Paul B. Preciado](/autores/paul-b-preciado/) (Translator)
 - **Editorial:** Melusina
 - **Formato:** Paperback, 126 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8496614271 / 9788496614765
 - **Publicación original:** 2009-01-01
-- **Géneros:** Feminism, Nonfiction, Essays, France, Womens, Politics, Philosophy, Queer, Gender, French Literature
+- **Géneros:** [Feminismo](/tags/feminismo/), [No Ficción](/tags/no-ficcion/), [Ensayo](/tags/ensayo/), [Francia](/tags/francia/), [Mujeres](/tags/mujeres/), [Política](/tags/politica/), [Filosofía](/tags/filosofia/), [Queer](/tags/queer/), [Género](/tags/genero/), [Literatura francesa](/tags/literatura-francesa/)
 - **Premios ganados:** Lambda Literary Award (2011)
 - **Ficha en Goodreads:** [Teoría King Kong](https://www.goodreads.com/book/show/6364510-teor-a-king-kong)
 
@@ -50,4 +55,4 @@ La diva destroy punk de las letras francesas, escritora de novelas en las que la
 
 - **Inicio:** 2017/01/31
 - **Fin:** 2017/02/09
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

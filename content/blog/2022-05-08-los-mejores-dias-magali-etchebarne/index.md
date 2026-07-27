@@ -7,10 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
+- Relatos
+- Ficción
 autores:
-- Magalí  Etchebarne
+- Magalí Etchebarne
 editoriales:
 - Las Afueras
 image:
@@ -27,17 +27,17 @@ Desde su publicación en Argentina, Los mejores días ha pasado de ser un secret
 
 ## Ficha del libro
 
-- **Autor:** Magalí  Etchebarne
+- **Autor:** [Magalí Etchebarne](/autores/magali-etchebarne/)
 - **Editorial:** Las Afueras
 - **Formato:** Paperback, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494983709 / 9788494983702
 - **Publicación original:** 2019-03-01
-- **Géneros:** Short Stories, Fiction
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Los mejores días](https://www.goodreads.com/book/show/44581187-los-mejores-d-as)
 
 ## Mi lectura
 
 - **Inicio:** 2022/05/06
 - **Fin:** 2022/05/08
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

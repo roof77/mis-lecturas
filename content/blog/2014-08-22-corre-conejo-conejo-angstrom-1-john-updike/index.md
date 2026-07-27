@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Literature
-- Novels
-- American
-- Literary Fiction
+- Ficción
+- Clásico
+- Literatura
+- Novela
+- EEUU
+- Ficción Literaria
+- Club de lectura
+- Libros prohibidos
+- Siglo XX
+- Contemporaneo
 autores:
 - John Updike
+- Jordi Fibla
 editoriales:
 - Maxi-Tusquets
 image:
@@ -29,15 +34,15 @@ Parece ya muy antigua la leyenda del hombre que sale un día de casa a buscar ta
 
 ## Ficha del libro
 
-- **Autor:** John Updike
+- **Autor:** [John Updike](/autores/john-updike/)
 - **Serie:** Rabbit Angstrom (#1)
-- **Colaboradores:** Jordi Fibla (Translator)
+- **Colaboradores:** [Jordi Fibla](/autores/jordi-fibla/) (Translator)
 - **Editorial:** Maxi-Tusquets
 - **Formato:** Mass Market Paperback, 368 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8483105039 / 9788483105030
 - **Publicación original:** 1996-10-01
-- **Géneros:** Fiction, Classics, Literature, Novels, American, Literary Fiction, Book Club, Banned Books, 20th Century, Contemporary
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [EEUU](/tags/eeuu/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Libros prohibidos](/tags/libros-prohibidos/), [Siglo XX](/tags/siglo-xx/), [Contemporaneo](/tags/contemporaneo/)
 - **Personajes:** Ruth Leonard, Jack Eccles, Janice Angstrom, Nelson  Angstrom, Harry “Rabbit” Angstrom, Marty Tothero
 - **Lugares:** Brewer, Pennsylvania (United States), Pennsylvania (United States)
 - **Premios ganados:** National Book Award Finalist (-283968000000)
@@ -47,4 +52,4 @@ Parece ya muy antigua la leyenda del hombre que sale un día de casa a buscar ta
 
 - **Inicio:** 2014/08/17
 - **Fin:** 2014/08/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

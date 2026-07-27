@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
 - Queer
-- LGBT
-- Fiction
-- Feminism
+- LGTBIQ+
+- Ficción
+- Feminismo
+- Lesbianismo
+- Humor
+- Gay
 autores:
 - Alison Bechdel
 editoriales:
@@ -29,14 +32,14 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Alison Bechdel
+- **Autor:** [Alison Bechdel](/autores/alison-bechdel/)
 - **Serie:** Dykes to Watch Out For
 - **Editorial:** RESERVOIR BOOKS
 - **Formato:** Kindle Edition, 404 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416195110 / 9788416195114
 - **Publicación original:** 2014-12-04
-- **Géneros:** Graphic Novels, Comics, Queer, LGBT, Fiction, Feminism, Lesbian, Humor, Graphic Novels Comics, Gay
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Lesbianismo](/tags/lesbianismo/), [Humor](/tags/humor/), [Gay](/tags/gay/)
 - **Premios ganados:** Ferro-Grumley Award (2009), Lambda Literary Award (1992), The Publishing Triangle Award (2009)
 - **Ficha en Goodreads:** [Lo indispensable de Unas lesbianas de cuidado](https://www.goodreads.com/book/show/25652453-lo-indispensable-de-unas-lesbianas-de-cuidado)
 
@@ -44,4 +47,4 @@ image:
 
 - **Inicio:** 2024/03/10
 - **Fin:** 2024/04/05
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

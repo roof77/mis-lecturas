@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Classics
-- Literature
-- Feminism
-- Womens
+- Relatos
+- Ficción
+- Clásico
+- Literatura
+- Feminismo
+- Mujeres
+- EEUU
+- Ficción Literaria
+- Siglo XX
 autores:
 - Tillie Olsen
+- Blanca Gago Domínguez
+- Jane Lazarre
+- Laurie Olsen
 editoriales:
 - Las Afueras
 image:
@@ -29,18 +35,18 @@ Dime una adivinanza está considerado, con justicia, un verdadero clásico de la
 
 ## Ficha del libro
 
-- **Autor:** Tillie Olsen
-- **Colaboradores:** Blanca Gago Domínguez (Translator), Jane Lazarre (Foreword), Laurie Olsen (Epílogo)
+- **Autor:** [Tillie Olsen](/autores/tillie-olsen/)
+- **Colaboradores:** [Blanca Gago Domínguez](/autores/blanca-gago-dominguez/) (Translator), [Jane Lazarre](/autores/jane-lazarre/) (Foreword), [Laurie Olsen](/autores/laurie-olsen/) (Epílogo)
 - **Editorial:** Las Afueras
 - **Formato:** Paperback, 184 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412145763 / 9788412145762
 - **Publicación original:** 2020-06-01
-- **Géneros:** Short Stories, Fiction, Classics, Literature, Feminism, Womens, American, The United States Of America, Literary Fiction, 20th Century
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Feminismo](/tags/feminismo/), [Mujeres](/tags/mujeres/), [EEUU](/tags/eeuu/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/)
 - **Ficha en Goodreads:** [Dime una adivinanza](https://www.goodreads.com/book/show/53361948-dime-una-adivinanza)
 
 ## Mi lectura
 
 - **Inicio:** 2020/12/25
 - **Fin:** 2020/12/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

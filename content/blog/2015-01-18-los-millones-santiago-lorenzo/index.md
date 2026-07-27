@@ -8,7 +8,7 @@ authors:
 tags:
 - Lecturas
 - Humor
-- Fiction
+- Ficción
 autores:
 - Santiago Lorenzo
 editoriales:
@@ -25,17 +25,17 @@ Marzo de 1986. A uno del GRAPO le tocan doscientos millones de pesetas en la Lot
 
 ## Ficha del libro
 
-- **Autor:** Santiago Lorenzo
+- **Autor:** [Santiago Lorenzo](/autores/santiago-lorenzo/)
 - **Editorial:** Mondo Brutto
 - **Formato:** Paperback, 205 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8461388992 / 9788461388998
 - **Publicación original:** 2010-01-01
-- **Géneros:** Humor, Fiction
+- **Géneros:** [Humor](/tags/humor/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Los millones](https://www.goodreads.com/book/show/8859580-los-millones)
 
 ## Mi lectura
 
 - **Inicio:** 2015/01/14
 - **Fin:** 2015/01/18
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

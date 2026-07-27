@@ -7,8 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Spanish Literature
-- Nonfiction
+- Literatura hispana
+- No Ficción
 autores:
 - Paco Gómez
 editoriales:
@@ -36,17 +36,17 @@ Conforma un relato que se lee mientras se ve o se ve mientras se lee. Texto e im
 
 ## Ficha del libro
 
-- **Autor:** Paco Gómez
+- **Autor:** [Paco Gómez](/autores/paco-gomez/)
 - **Editorial:** Fracaso Books
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8461665945 / 9788461665945
 - **Publicación original:** 2013-11-01
-- **Géneros:** Spanish Literature, Nonfiction
+- **Géneros:** [Literatura hispana](/tags/literatura-hispana/), [No Ficción](/tags/no-ficcion/)
 - **Ficha en Goodreads:** [Los Modlin](https://www.goodreads.com/book/show/20806597-los-modlin)
 
 ## Mi lectura
 
 - **Inicio:** 2015/01/13
 - **Fin:** 2015/01/14
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

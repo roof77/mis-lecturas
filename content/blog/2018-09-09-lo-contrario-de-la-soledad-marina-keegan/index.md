@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Short Stories
-- Essays
-- Memoir
-- Contemporary
-- Book Club
+- No Ficción
+- Relatos
+- Ensayo
+- Memorias
+- Contemporaneo
+- Club de lectura
+- Biografía
+- Adultos
 autores:
 - Marina Keegan
+- Regina López Muñoz
 editoriales:
 - Alpha Decay
 image:
@@ -39,14 +42,14 @@ A pesar de que sólo contaba veintidós años cuando murió, Marina dejó un val
 
 ## Ficha del libro
 
-- **Autor:** Marina Keegan
-- **Colaboradores:** Regina López Muñoz (Translator:)
+- **Autor:** [Marina Keegan](/autores/marina-keegan/)
+- **Colaboradores:** [Regina López Muñoz](/autores/regina-lopez-munoz/) (Translator:)
 - **Editorial:** Alpha Decay
 - **Formato:** Paperback, 208 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8492837861 / 9788492837861
 - **Publicación original:** 2015-03-31
-- **Géneros:** Nonfiction, Short Stories, Essays, Memoir, Contemporary, Book Club, Biography, Audiobook, Adult, Biography Memoir
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Relatos](/tags/relatos/), [Ensayo](/tags/ensayo/), [Memorias](/tags/memorias/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [Biografía](/tags/biografia/), [Adultos](/tags/adultos/)
 - **Premios ganados:** Goodreads Choice Award (2014)
 - **Nominaciones:** Waterstones Book of the Year (2014), Readers' Favorite Nonfiction (2014)
 - **Ficha en Goodreads:** [Lo contrario de la soledad](https://www.goodreads.com/book/show/25281370-lo-contrario-de-la-soledad)
@@ -55,4 +58,4 @@ A pesar de que sólo contaba veintidós años cuando murió, Marina dejó un val
 
 - **Inicio:** 2018/09/03
 - **Fin:** 2018/09/09
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

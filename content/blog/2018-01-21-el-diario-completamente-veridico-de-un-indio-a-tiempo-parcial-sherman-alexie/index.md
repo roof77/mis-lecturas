@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Young Adult
-- Fiction
-- Contemporary
-- Realistic Fiction
+- Jovenes adultos
+- Ficción
+- Contemporaneo
+- Ficción realista
 - Humor
-- Book Club
+- Club de lectura
+- Libros prohibidos
+- Nativo americano
+- Coming of age
+- Colegio
 autores:
 - Sherman Alexie
+- Ellen Forney
+- Clara Ministral
 editoriales:
 - Siruela
 image:
@@ -29,14 +35,14 @@ Arnold Spirit Junior, de 14 años, nació y creció en la Reserva India Spokane.
 
 ## Ficha del libro
 
-- **Autor:** Sherman Alexie
-- **Colaboradores:** Ellen Forney (Illustrator), Clara Ministral (Translator)
+- **Autor:** [Sherman Alexie](/autores/sherman-alexie/)
+- **Colaboradores:** [Ellen Forney](/autores/ellen-forney/) (Illustrator), [Clara Ministral](/autores/clara-ministral/) (Translator)
 - **Editorial:** Siruela
 - **Formato:** Hardcover, 264 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498412730 / 9788498412734
 - **Publicación original:** 2009-05-28
-- **Géneros:** Young Adult, Fiction, Contemporary, Realistic Fiction, Humor, Book Club, Banned Books, Native American, Coming Of Age, School
+- **Géneros:** [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción realista](/tags/ficcion-realista/), [Humor](/tags/humor/), [Club de lectura](/tags/club-de-lectura/), [Libros prohibidos](/tags/libros-prohibidos/), [Nativo americano](/tags/nativo-americano/), [Coming of age](/tags/coming-of-age/), [Colegio](/tags/colegio/)
 - **Personajes:** Arnold "Junior" Spirit, Coach, Rowdy, Mary "Runs Away" Spirit, Mr. P, Agnes Adams / Spirit, Melinda, Mr. Grant, Penelope (divers), Micah
 - **Lugares:** The United States of America, Washington (state) (United States), Pacific Northwest (United States), Wellpinit, Washington (United States)
 - **Premios ganados:** National Book Award (2007), Odyssey Award (2009), Boston Globe-Horn Book Award (2008), California Young Readers Medal (2010), The Inky Awards Shortlist (2009)
@@ -47,4 +53,4 @@ Arnold Spirit Junior, de 14 años, nació y creció en la Reserva India Spokane.
 
 - **Inicio:** 2018/01/17
 - **Fin:** 2018/01/21
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

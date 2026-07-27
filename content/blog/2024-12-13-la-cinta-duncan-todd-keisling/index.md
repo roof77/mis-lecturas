@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
+- Terror
 - Novella
-- Fiction
+- Ficción
 - Paranormal
-- Short Stories
-- Horror Thriller
+- Relatos
+- Thriller
+- Adultos
+- Oscuro
+- Fantasmas
 autores:
 - Todd Keisling
+- Shaila Correa
 editoriales:
 - La biblioteca de Carfax
 image:
@@ -29,18 +33,18 @@ Robby y sus amigos solo quieren descargarse algo de porno un viernes por la noch
 
 ## Ficha del libro
 
-- **Autor:** Todd Keisling
-- **Colaboradores:** Shaila Correa (Translator)
+- **Autor:** [Todd Keisling](/autores/todd-keisling/)
+- **Colaboradores:** [Shaila Correa](/autores/shaila-correa/) (Translator)
 - **Editorial:** La biblioteca de Carfax
 - **Formato:** Paperback, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412822129 / 9788412822120
 - **Publicación original:** 2024-09-09
-- **Géneros:** Horror, Novella, Fiction, Paranormal, Short Stories, Horror Thriller, Adult, Dark, Thriller, Ghosts
+- **Géneros:** [Terror](/tags/terror/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Paranormal](/tags/paranormal/), [Relatos](/tags/relatos/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Oscuro](/tags/oscuro/), [Fantasmas](/tags/fantasmas/)
 - **Ficha en Goodreads:** [La cinta Duncan](https://www.goodreads.com/book/show/218507754-la-cinta-duncan)
 
 ## Mi lectura
 
 - **Inicio:** 2024/12/10
 - **Fin:** 2024/12/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

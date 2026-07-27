@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
+- Terror
 - Thriller
-- Fiction
-- Mystery
-- Audiobook
-- Mystery Thriller
+- Ficción
+- Misterio
+- Adultos
+- Club de lectura
+- Contemporaneo
+- Suspense
 autores:
 - Grady Hendrix
+- Víctor Manuel García de Isusi
 editoriales:
 - Minotauro
 image:
@@ -37,14 +40,14 @@ La cuestión con las Final Girls es que da igual lo bajas que sean las probabili
 
 ## Ficha del libro
 
-- **Autor:** Grady Hendrix
-- **Colaboradores:** Víctor Manuel García de Isusi (Translator)
+- **Autor:** [Grady Hendrix](/autores/grady-hendrix/)
+- **Colaboradores:** [Víctor Manuel García de Isusi](/autores/victor-manuel-garcia-de-isusi/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 384 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445013122 / 9788445013120
 - **Publicación original:** 2022-08-31
-- **Géneros:** Horror, Thriller, Fiction, Mystery, Audiobook, Mystery Thriller, Adult, Book Club, Contemporary, Suspense
+- **Géneros:** [Terror](/tags/terror/), [Thriller](/tags/thriller/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Suspense](/tags/suspense/)
 - **Personajes:** Russell Thorn, Carol Elliott, Garrett Cannon, Stephanie Fugate, Chrissy Mercer, Skye Elliott, Lynnette Tarkington
 - **Lugares:** Los Angeles, California (United States)
 - **Premios ganados:** Goodreads Choice Award (2021)
@@ -55,4 +58,4 @@ La cuestión con las Final Girls es que da igual lo bajas que sean las probabili
 
 - **Inicio:** 2022/09/27
 - **Fin:** 2022/09/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

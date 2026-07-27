@@ -9,6 +9,7 @@ tags:
 - Lecturas
 autores:
 - Miguel Barnet
+- Italo Calvino
 editoriales:
 - Libros del Asteroide
 image:
@@ -23,8 +24,8 @@ Canción de Rachel cuenta la azarosa existencia de una vedette durante los rutil
 
 ## Ficha del libro
 
-- **Autor:** Miguel Barnet
-- **Colaboradores:** Italo Calvino (Introduction)
+- **Autor:** [Miguel Barnet](/autores/miguel-barnet/)
+- **Colaboradores:** [Italo Calvino](/autores/italo-calvino/) (Introduction)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 148 páginas
 - **Idioma:** Spanish; Castilian
@@ -37,4 +38,4 @@ Canción de Rachel cuenta la azarosa existencia de una vedette durante los rutil
 
 - **Inicio:** 2015/06/28
 - **Fin:** 2015/06/29
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Canada
-- Classics
+- Clásico
 - Romance
-- Literary Fiction
-- Book Club
+- Ficción Literaria
+- Club de lectura
+- Fantasía
+- Animales
+- Literatura
+- Literatura canadiense
 autores:
 - Marian Engel
+- Magdalena Palmer
 editoriales:
 - Impedimenta
 image:
@@ -31,14 +36,14 @@ En todos los sentidos. A pesar de las críticas que recibió por su controvertid
 
 ## Ficha del libro
 
-- **Autor:** Marian Engel
-- **Colaboradores:** Magdalena Palmer (Translator)
+- **Autor:** [Marian Engel](/autores/marian-engel/)
+- **Colaboradores:** [Magdalena Palmer](/autores/magdalena-palmer/) (Translator)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 168 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415979568 / 9788415979562
 - **Publicación original:** 2015-04-13
-- **Géneros:** Fiction, Canada, Classics, Romance, Literary Fiction, Book Club, Fantasy, Animals, Literature, Canadian Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Canada](/tags/canada/), [Clásico](/tags/clasico/), [Romance](/tags/romance/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/), [Animales](/tags/animales/), [Literatura](/tags/literatura/), [Literatura canadiense](/tags/literatura-canadiense/)
 - **Premios ganados:** Governor General's Literary Awards / Prix littéraires du Gouverneur général (1976)
 - **Ficha en Goodreads:** [Oso](https://www.goodreads.com/book/show/25382522-oso)
 
@@ -46,4 +51,4 @@ En todos los sentidos. A pesar de las críticas que recibió por su controvertid
 
 - **Inicio:** 2025/05/21
 - **Fin:** 2025/05/25
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

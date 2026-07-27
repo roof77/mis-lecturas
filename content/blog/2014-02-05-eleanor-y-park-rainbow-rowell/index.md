@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Young Adult
+- Jovenes adultos
 - Romance
-- Fiction
-- Contemporary
-- Realistic Fiction
-- Audiobook
+- Ficción
+- Contemporaneo
+- Ficción realista
+- Club de lectura
+- Coming of age
+- Adolescencia
 autores:
 - Rainbow Rowell
 editoriales:
@@ -33,12 +35,12 @@ Todo empieza cuando Park accede a que Eleanor se siente a su lado en el autobús
 
 ## Ficha del libro
 
-- **Autor:** Rainbow Rowell
+- **Autor:** [Rainbow Rowell](/autores/rainbow-rowell/)
 - **Editorial:** Alfaguara Juvenil
 - **Formato:** Kindle Edition, 347 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2013-10-22
-- **Géneros:** Young Adult, Romance, Fiction, Contemporary, Realistic Fiction, Audiobook, Book Club, Coming Of Age, Teen, Young Adult Contemporary
+- **Géneros:** [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción realista](/tags/ficcion-realista/), [Club de lectura](/tags/club-de-lectura/), [Coming of age](/tags/coming-of-age/), [Adolescencia](/tags/adolescencia/)
 - **Personajes:** Park Sheridan, Eleanor Douglas
 - **Lugares:** Omaha, Nebraska (United States)
 - **Premios ganados:** Georgia Peach Book Award (2014), All About Romance (AAR) Annual Reader Poll (2014), Pennsylvania Young Readers' Choice Award (2015), Rhode Island Teen Book Award (2015), Milwaukee County Teen Book Award (2014), Michigan Library Association Thumbs Up! Award (2014), Amelia Elizabeth Walden Award (2014), Boston Globe-Horn Book Award (2013), Dioraphte Jongerenliteratuurprijs (2015), Lincoln Award (2015), North Carolina Young Adult Book Award (2016), Goodreads Choice Award (2018), The Magnolia Award (2015)
@@ -49,4 +51,4 @@ Todo empieza cuando Park accede a que Eleanor se siente a su lado en el autobús
 
 - **Inicio:** 2014/02/04
 - **Fin:** 2014/02/05
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Espionage
+- Ficción
+- Clásico
+- Espionaje
 - Humor
 - Thriller
-- Mystery
+- Misterio
+- Literatura
+- Novela
+- Club de lectura
+- Literatura británica
 autores:
 - Graham Greene
+- Ana Goldar
 editoriales:
 - Alianza Editorial
 image:
@@ -29,14 +34,14 @@ En la vasta obra narrativa de GRAHAM GREENE (1904-1991) figuran varios relatos q
 
 ## Ficha del libro
 
-- **Autor:** Graham Greene
-- **Colaboradores:** Ana Goldar (Translator)
+- **Autor:** [Graham Greene](/autores/graham-greene/)
+- **Colaboradores:** [Ana Goldar](/autores/ana-goldar/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 280 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420677698 / 9788420677699
 - **Publicación original:** 2002-10-31
-- **Géneros:** Fiction, Classics, Espionage, Humor, Thriller, Mystery, Literature, Novels, Book Club, British Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Espionaje](/tags/espionaje/), [Humor](/tags/humor/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Literatura británica](/tags/literatura-britanica/)
 - **Personajes:** James Wormold, Hawthorne, Beatrice Severn, Captain Segura, Dr. Hasselbacher, Milly Wormold
 - **Lugares:** Havana (Cuba), London, England
 - **Ficha en Goodreads:** [Nuestro hombre en la Habana: Un entretenimiento (El Libro de Bolsillo)](https://www.goodreads.com/book/show/602776.Nuestro_hombre_en_la_Habana)
@@ -45,4 +50,4 @@ En la vasta obra narrativa de GRAHAM GREENE (1904-1991) figuran varios relatos q
 
 - **Inicio:** 2022/05/08
 - **Fin:** 2022/05/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Fantasy
+- Ciencia ficción
+- Ficción
+- Fantasía
 - Novella
-- Audiobook
-- Young Adult
+- Jovenes adultos
+- Ciencia Ficción
+- África
+- Extraterrestres
+- Ficción especulativa
 autores:
 - Nnedi Okorafor
+- Carla Bataller Estruch
 editoriales:
 - Crononauta
 image:
@@ -37,15 +41,15 @@ En esta segunda entrega, podemos ver cómo Binti debe enfrentarse a familia y am
 
 ## Ficha del libro
 
-- **Autor:** Nnedi Okorafor
+- **Autor:** [Nnedi Okorafor](/autores/nnedi-okorafor/)
 - **Serie:** Binti (#2)
-- **Colaboradores:** Carla Bataller Estruch (Translator)
+- **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (Translator)
 - **Editorial:** Crononauta
 - **Formato:** Paperback, 190 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494795848 / 9788494795848
 - **Publicación original:** 2018-11-08
-- **Géneros:** Science Fiction, Fiction, Fantasy, Novella, Audiobook, Young Adult, Science Fiction Fantasy, Africa, Aliens, Speculative Fiction
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Jovenes adultos](/tags/jovenes-adultos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [África](/tags/africa/), [Extraterrestres](/tags/extraterrestres/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Nominaciones:** Locus Award (2018), Goodreads Choice Award (2017), Nommo Award (2018), Readers' Favorite Science Fiction (2017)
 - **Ficha en Goodreads:** [Hogar (Binti, #2)](https://www.goodreads.com/book/show/42036106-hogar)
 
@@ -53,4 +57,4 @@ En esta segunda entrega, podemos ver cómo Binti debe enfrentarse a familia y am
 
 - **Inicio:** 2019/11/29
 - **Fin:** 2019/12/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

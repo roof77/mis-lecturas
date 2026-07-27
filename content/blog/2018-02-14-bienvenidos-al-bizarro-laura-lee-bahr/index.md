@@ -7,10 +7,23 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Bizarro Fiction
+- Bizarro
 - Humor
 autores:
 - Laura Lee Bahr
+- Garrett Cook
+- Robert Devereaux
+- Kevin L. Donihe
+- Jeremy Robert Johnson
+- Violet LeVoit
+- Carlton Mellick III
+- Matthew Revert
+- Tamara Romero
+- Grant Wamack
+- D. Harlan Wilson
+- Hugo Camacho
+- Branca Studio
+- Marta Maldonado
 editoriales:
 - Orciny Press
 image:
@@ -33,18 +46,18 @@ Ofrecemos, por primera vez en español, una antología de relatos de diferentes 
 
 ## Ficha del libro
 
-- **Autor:** Laura Lee Bahr
-- **Colaboradores:** Garrett Cook (Author), Robert Devereaux (Author), Kevin L. Donihe (Author), Jeremy Robert Johnson (Author), Violet LeVoit (Author), Carlton Mellick III (Author), Matthew Revert (Author), Tamara Romero (Author), Grant Wamack (Author), D. Harlan Wilson (Author), Hugo Camacho (Translator), Branca Studio (Illustrator), Marta Maldonado (Illustrator)
+- **Autor:** [Laura Lee Bahr](/autores/laura-lee-bahr/)
+- **Colaboradores:** [Garrett Cook](/autores/garrett-cook/) (Author), [Robert Devereaux](/autores/robert-devereaux/) (Author), [Kevin L. Donihe](/autores/kevin-l-donihe/) (Author), [Jeremy Robert Johnson](/autores/jeremy-robert-johnson/) (Author), [Violet LeVoit](/autores/violet-levoit/) (Author), [Carlton Mellick III](/autores/carlton-mellick-iii/) (Author), [Matthew Revert](/autores/matthew-revert/) (Author), [Tamara Romero](/autores/tamara-romero/) (Author), [Grant Wamack](/autores/grant-wamack/) (Author), [D. Harlan Wilson](/autores/d-harlan-wilson/) (Author), [Hugo Camacho](/autores/hugo-camacho/) (Translator), [Branca Studio](/autores/branca-studio/) (Illustrator), [Marta Maldonado](/autores/marta-maldonado/) (Illustrator)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788494518164
 - **Publicación original:** 2017-03-01
-- **Géneros:** Bizarro Fiction, Humor
+- **Géneros:** [Bizarro](/tags/bizarro/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Bienvenidos al bizarro](https://www.goodreads.com/book/show/34400061-bienvenidos-al-bizarro)
 
 ## Mi lectura
 
 - **Inicio:** 2018/02/11
 - **Fin:** 2018/02/14
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,13 +7,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Graphic Novels Comics
-- Crime
+- Novela gráfica
+- Fantasía
+- Crimen
 - Humor
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -28,18 +28,18 @@ Kegel Face steals Jon's files from his therapist.
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Artist)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Artist)
 - **Editorial:** Image Comics
 - **Formato:** Kindle Edition, 31 páginas
 - **Idioma:** English
 - **Publicación original:** 2016-04-27
-- **Géneros:** Comics, Graphic Novels, Fantasy, Graphic Novels Comics, Crime, Humor
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Crimen](/tags/crimen/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Sex Criminals #15: The Crew](https://www.goodreads.com/book/show/26224461-sex-criminals-15)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

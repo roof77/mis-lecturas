@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Mystery
+- Ficción
+- Misterio
 - Thriller
-- Book Club
-- Mystery Thriller
-- Crime
+- Club de lectura
+- Crimen
+- Suspense
+- Contemporaneo
+- Adultos
 autores:
 - Paula Hawkins
+- Aleix Montoto
 editoriales:
 - Planeta Internacional
 image:
@@ -39,14 +42,14 @@ Tú no la conoces. Ella a ti, sí.
 
 ## Ficha del libro
 
-- **Autor:** Paula Hawkins
-- **Colaboradores:** Aleix Montoto (Translator)
+- **Autor:** [Paula Hawkins](/autores/paula-hawkins/)
+- **Colaboradores:** [Aleix Montoto](/autores/aleix-montoto/) (Translator)
 - **Editorial:** Planeta Internacional
 - **Formato:** Hardcover, 496 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408141473 / 9788408141471
 - **Publicación original:** 2015-06-02
-- **Géneros:** Fiction, Mystery, Thriller, Book Club, Mystery Thriller, Crime, Suspense, Audiobook, Contemporary, Adult
+- **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Crimen](/tags/crimen/), [Suspense](/tags/suspense/), [Contemporaneo](/tags/contemporaneo/), [Adultos](/tags/adultos/)
 - **Personajes:** Rachel Watson, Anna Watson, Tom Watson, Megan Hipwell, Scott Hipwell, Kamal Abdic, Cathy (The Girl on the Train), Detective Gaskill, Detective Sergeant Riley
 - **Lugares:** London, England, England
 - **Premios ganados:** Audie Award (2016), Goodreads Choice Award (2015), Woman & Home Reader's Choice Award (2016)
@@ -57,4 +60,4 @@ Tú no la conoces. Ella a ti, sí.
 
 - **Inicio:** 2015/08/01
 - **Fin:** 2015/08/04
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

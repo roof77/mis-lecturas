@@ -26,7 +26,7 @@ Eh, pero que nada cambie también tiene su parte buena: ¡Peter Bagge sigue sien
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 132 páginas
 - **Idioma:** Spanish; Castilian
@@ -37,3 +37,4 @@ Eh, pero que nada cambie también tiene su parte buena: ¡Peter Bagge sigue sien
 
 - **Inicio:** 2026/05/25
 - **Fin:** 2026/05/25
+- **Calificación:** Muy bien/5

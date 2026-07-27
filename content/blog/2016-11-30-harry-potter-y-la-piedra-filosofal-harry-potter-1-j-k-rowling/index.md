@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Young Adult
+- Fantasía
+- Ficción
+- Jovenes adultos
 - Harry Potter
-- Magic
-- Childrens
+- Mágia
+- Niños
+- Clásico
+- Aventuras
 autores:
 - J.K. Rowling
+- Alicia Dellepiane
 editoriales:
 - Salamandra
 image:
@@ -29,15 +32,15 @@ Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y e
 
 ## Ficha del libro
 
-- **Autor:** J.K. Rowling
+- **Autor:** [J.K. Rowling](/autores/j-k-rowling/)
 - **Serie:** Harry Potter (#1)
-- **Colaboradores:** Alicia Dellepiane (Author)
+- **Colaboradores:** [Alicia Dellepiane](/autores/alicia-dellepiane/) (Author)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 264 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478886540 / 9788478886548
 - **Publicación original:** 1999-08-01
-- **Géneros:** Fantasy, Fiction, Young Adult, Harry Potter, Magic, Childrens, Audiobook, Middle Grade, Classics, Adventure
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Clásico](/tags/clasico/), [Aventuras](/tags/aventuras/)
 - **Personajes:** Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Severus Snape, Quirinus Quirrell, Rubeus Hagrid, Lord Voldemort, Minerva McGonagall, Neville Longbottom
 - **Lugares:** London, England, Hogwarts School of Witchcraft and Wizardry (United Kingdom), England
 - **Premios ganados:** Mythopoeic Fantasy Award (2008), British Book Award (1998), Prijs van de Nederlandse Kinderjury (2002), American Booksellers Book Of The Year  Award (1999), Audie Award (2000), West Australian Young Readers' Book Award (WAYRBA) (2000), South Carolina Book Award (2001), Grand Canyon Reader Award (2000), Charlotte Award (2000), Nene Award (2000), Massachusetts Children's Book Award (2000), Colorado Blue Spruce Young Adult Book Award (2001), Blue Hen Book Award (2001), Nevada Young Readers' Award (2000), Golden Archer Award (2000), Indian Paintbrush Book Award (2000), Hotze de Roosprijs (2002), Nestlé Smarties Book Prize (1997), Eliot Rosewater Indiana High School Book Award (2001), Kinderboekwinkelprijs (1999), Parenting Book of the Year Award (1998), North East Teenage Book Award (1999), Specsavers National Book Award (1998), Washington State Sasquatch Award (2000), Literaturpreis der Jury der jungen Leser (1999), Rebecca Caudill Young Readers' Book Award (2001), Premi Protagonista Jove (1999), Premio Cento (1998)
@@ -48,4 +51,4 @@ Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y e
 
 - **Inicio:** 2016/11/29
 - **Fin:** 2016/11/30
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

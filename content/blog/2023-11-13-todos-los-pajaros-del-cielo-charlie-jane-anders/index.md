@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Science Fiction
-- Fiction
-- Magical Realism
-- Magic
+- Fantasía
+- Ciencia ficción
+- Ficción
+- Realismo mágico
+- Mágia
 - Romance
+- Fantasía urbana
+- Ciencia Ficción
+- Club de lectura
+- Adultos
 autores:
 - Charlie Jane Anders
+- Natalia Cervera
 editoriales:
 - Insólita
 image:
@@ -35,15 +40,15 @@ Además de aportar una mirada fresca a algunos de los temas clásicos de la cien
 
 ## Ficha del libro
 
-- **Autor:** Charlie Jane Anders
+- **Autor:** [Charlie Jane Anders](/autores/charlie-jane-anders/)
 - **Serie:** All the Birds in the Sky
-- **Colaboradores:** Natalia Cervera (Translator)
+- **Colaboradores:** [Natalia Cervera](/autores/natalia-cervera/) (Translator)
 - **Editorial:** Insólita
 - **Formato:** Paperback, 380 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494898604 / 9788494898600
 - **Publicación original:** 2018-07-16
-- **Géneros:** Fantasy, Science Fiction, Fiction, Magical Realism, Magic, Romance, Urban Fantasy, Science Fiction Fantasy, Book Club, Adult
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Realismo mágico](/tags/realismo-magico/), [Mágia](/tags/magia/), [Romance](/tags/romance/), [Fantasía urbana](/tags/fantasia-urbana/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/)
 - **Lugares:** San Francisco, California (United States), California (United States)
 - **Premios ganados:** Nebula Award (2016), Locus Award (2017), IAFA William L. Crawford Fantasy Award (2017)
 - **Nominaciones:** Hugo Award (2017), Goodreads Choice Award (2016), Readers' Favorite Fantasy (2016)
@@ -53,4 +58,4 @@ Además de aportar una mirada fresca a algunos de los temas clásicos de la cien
 
 - **Inicio:** 2023/11/07
 - **Fin:** 2023/11/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

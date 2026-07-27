@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Science Fiction
-- Dystopia
-- Post Apocalyptic
+- Ficción
+- Ciencia ficción
+- Distopía
+- Postapocalíptico
 - Thriller
-- Mystery
+- Misterio
+- Club de lectura
+- Fantasía
+- Ficción especulativa
+- Ciencia Ficción
 autores:
 - P.D. James
 editoriales:
@@ -29,13 +33,13 @@ La capacidad reproductiva de la humanidad ha desaparecido súbitamente. Theo Far
 
 ## Ficha del libro
 
-- **Autor:** P.D. James
+- **Autor:** [P.D. James](/autores/p-d-james/)
 - **Editorial:** ZETA BOLSILLO
 - **Formato:** Mass Market Paperback, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849658190X / 9788496581906
 - **Publicación original:** 2006-10-18
-- **Géneros:** Fiction, Science Fiction, Dystopia, Post Apocalyptic, Thriller, Mystery, Book Club, Fantasy, Speculative Fiction, Science Fiction Fantasy
+- **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Postapocalíptico](/tags/postapocaliptico/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/), [Ficción especulativa](/tags/ficcion-especulativa/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Personajes:** Theo Faron, Xan Lyppiatt
 - **Lugares:** England
 - **Ficha en Goodreads:** [Hijos de hombres](https://www.goodreads.com/book/show/8510514-hijos-de-hombres)
@@ -44,4 +48,4 @@ La capacidad reproductiva de la humanidad ha desaparecido súbitamente. Theo Far
 
 - **Inicio:** 2016/01/01
 - **Fin:** 2016/01/04
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

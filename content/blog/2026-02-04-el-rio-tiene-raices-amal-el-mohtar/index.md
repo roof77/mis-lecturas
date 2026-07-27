@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
+- Fantasía
+- Ficción
 - Novella
 - Romance
-- Audiobook
 - Queer
+- LGTBIQ+
+- Adultos
+- Hadas
+- Mágia
 autores:
 - Amal El-Mohtar
+- Pilar Ramírez Tello
 editoriales:
 - Obscura Editorial, SL
 image:
@@ -38,14 +42,14 @@ Amal El-Mohtar nos deslumbra con un trágico cuento de hadas en el que las palab
 
 ## Ficha del libro
 
-- **Autor:** Amal El-Mohtar
-- **Colaboradores:** Pilar Ramírez Tello (Translator)
+- **Autor:** [Amal El-Mohtar](/autores/amal-el-mohtar/)
+- **Colaboradores:** [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Translator)
 - **Editorial:** Obscura Editorial, SL
 - **Formato:** Paperback, 112 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412990633 / 9788412990638
 - **Publicación original:** 2025-07-02
-- **Géneros:** Fantasy, Fiction, Novella, Romance, Audiobook, Queer, LGBT, Adult, Fae, Magic
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Romance](/tags/romance/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Adultos](/tags/adultos/), [Hadas](/tags/hadas/), [Mágia](/tags/magia/)
 - **Personajes:** Esther Hawthorn, Ysabel Hawthorn, Rin Hawthorn, Samuel Pollard, Agnes Crow, Rowan Crow, Eileen Hawthorn, Hugh Hawthorn
 - **Premios ganados:** Audie Award (2026)
 - **Nominaciones:** Goodreads Choice Award (2025), She Reads Best of Award (2025), RUSA CODES Reading List (2026), Readers' Favorite Fantasy (2025)
@@ -55,3 +59,4 @@ Amal El-Mohtar nos deslumbra con un trágico cuento de hadas en el que las palab
 
 - **Inicio:** 2026/01/29
 - **Fin:** 2026/02/04
+- **Calificación:** Muy recomendable/5

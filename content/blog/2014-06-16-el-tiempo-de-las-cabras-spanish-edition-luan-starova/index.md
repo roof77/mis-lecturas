@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 autores:
 - Luan Starova
+- Ramón Sánchez Lizarralde
 editoriales:
 - Libros del Asteroide
 image:
@@ -28,14 +29,14 @@ Basada en un episodio aparentemente trivial de la reciente historia balcánica, 
 
 ## Ficha del libro
 
-- **Autor:** Luan Starova
-- **Colaboradores:** Ramón Sánchez Lizarralde (Translator)
+- **Autor:** [Luan Starova](/autores/luan-starova/)
+- **Colaboradores:** [Ramón Sánchez Lizarralde](/autores/ramon-sanchez-lizarralde/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 232 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493659703 / 9788493659707
 - **Publicación original:** 2008-10-01
-- **Géneros:** Fiction
+- **Géneros:** [Ficción](/tags/ficcion/)
 - **Nominaciones:** Angelus (2006)
 - **Ficha en Goodreads:** [El tiempo de las cabras (Spanish Edition)](https://www.goodreads.com/book/show/9464114-el-tiempo-de-las-cabras)
 
@@ -43,4 +44,4 @@ Basada en un episodio aparentemente trivial de la reciente historia balcánica, 
 
 - **Inicio:** 2014/06/15
 - **Fin:** 2014/06/16
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

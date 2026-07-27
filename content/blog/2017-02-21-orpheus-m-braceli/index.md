@@ -25,7 +25,7 @@ When his father was appointed to work on Minos, an asteroid in a dying galaxy, O
 
 ## Ficha del libro
 
-- **Autor:** M. Braceli
+- **Autor:** [M. Braceli](/autores/m-braceli/)
 - **Editorial:** Kelonia
 - **Formato:** Paperback, 172 páginas
 - **Idioma:** Spanish; Castilian
@@ -37,4 +37,4 @@ When his father was appointed to work on Minos, an asteroid in a dying galaxy, O
 
 - **Inicio:** 2017/02/19
 - **Fin:** 2017/02/21
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
+- Ciencia ficción
 - Humor
-- Fiction
-- Fantasy
-- Comedy
-- Aliens
+- Ficción
+- Fantasía
+- Comedia
+- Extraterrestres
+- Ficción especulativa
+- Novela
+- Clásico
+- Ciencia Ficción
 autores:
 - Fredric Brown
 editoriales:
@@ -30,17 +34,17 @@ No vienen como conquistadores, sencillamente, su interés es molestar. Pueden ve
 
 ## Ficha del libro
 
-- **Autor:** Fredric Brown
+- **Autor:** [Fredric Brown](/autores/fredric-brown/)
 - **Editorial:** Hyspamerica, Madrid.
 - **Formato:** Paperback, 158 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8427007035 / 9788427007031
 - **Publicación original:** 1985-01-01
-- **Géneros:** Science Fiction, Humor, Fiction, Fantasy, Comedy, Aliens, Speculative Fiction, Novels, Classics, Science Fiction Fantasy
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Comedia](/tags/comedia/), [Extraterrestres](/tags/extraterrestres/), [Ficción especulativa](/tags/ficcion-especulativa/), [Novela](/tags/novela/), [Clásico](/tags/clasico/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Ficha en Goodreads:** [Marciano, vete a casa](https://www.goodreads.com/book/show/12134591-marciano-vete-a-casa)
 
 ## Mi lectura
 
 - **Inicio:** 2019/11/27
 - **Fin:** 2019/12/08
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Classics
-- Fiction
+- Fantasía
+- Clásico
+- Ficción
 - Romance
 - Humor
-- Adventure
+- Aventuras
+- Jovenes adultos
+- Club de lectura
+- Comedia
+- Ciencia Ficción
 autores:
 - William Goldman
+- Celia Filipetto Isicato
 editoriales:
 - Booket
 image:
@@ -31,14 +36,14 @@ El mejor esgrimista, el hombre más inteligente y el más fuerte del mundo son c
 
 ## Ficha del libro
 
-- **Autor:** William Goldman
-- **Colaboradores:** Celia Filipetto Isicato (Translator)
+- **Autor:** [William Goldman](/autores/william-goldman/)
+- **Colaboradores:** [Celia Filipetto Isicato](/autores/celia-filipetto-isicato/) (Translator)
 - **Editorial:** Booket
 - **Formato:** Paperback, 480 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 842703105X / 9788427031050
 - **Publicación original:** 2005-06-30
-- **Géneros:** Fantasy, Classics, Fiction, Romance, Humor, Adventure, Young Adult, Book Club, Comedy, Science Fiction Fantasy
+- **Géneros:** [Fantasía](/tags/fantasia/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Aventuras](/tags/aventuras/), [Jovenes adultos](/tags/jovenes-adultos/), [Club de lectura](/tags/club-de-lectura/), [Comedia](/tags/comedia/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Personajes:** Buttercup, Westley, Prince Humperdinck, Inigo Montoya, Fezzik, Vizzini, Count Rugen, Miracle Max, The Dread Pirate Roberts, Ty Cobb
 - **Ficha en Goodreads:** [La princesa prometida](https://www.goodreads.com/book/show/6745890-la-princesa-prometida)
 
@@ -46,4 +51,4 @@ El mejor esgrimista, el hombre más inteligente y el más fuerte del mundo son c
 
 - **Inicio:** 2018/08/16
 - **Fin:** 2018/08/21
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- History
-- Nonfiction
-- Historical
-- Victorian
-- Biography
-- 19th Century
+- Historia
+- No Ficción
+- Histórico
+- Victoriano
+- Biografía
+- Siglo XIX
+- Downton Abbey
 autores:
 - Frank Victor Dawes
+- Ángeles de los Santos
 editoriales:
 - Periférica
 image:
@@ -29,18 +31,18 @@ Whole armies of butlers, cooks and housemaids were employed in the great househo
 
 ## Ficha del libro
 
-- **Autor:** Frank Victor Dawes
-- **Colaboradores:** Ángeles de los Santos (Translator)
+- **Autor:** [Frank Victor Dawes](/autores/frank-victor-dawes/)
+- **Colaboradores:** [Ángeles de los Santos](/autores/angeles-de-los-santos/) (Translator)
 - **Editorial:** Periférica
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418838337 / 9788418838330
 - **Publicación original:** 2022-05-09
-- **Géneros:** History, Nonfiction, Historical, Victorian, Biography, 19th Century, Downton Abbey
+- **Géneros:** [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [Histórico](/tags/historico/), [Victoriano](/tags/victoriano/), [Biografía](/tags/biografia/), [Siglo XIX](/tags/siglo-xix/), [Downton Abbey](/tags/downton-abbey/)
 - **Ficha en Goodreads:** [Nunca delante de los criados: Retrato fiel de la vida arriba y abajo](https://www.goodreads.com/book/show/61152520-nunca-delante-de-los-criados)
 
 ## Mi lectura
 
 - **Inicio:** 2022/09/27
 - **Fin:** 2022/10/04
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

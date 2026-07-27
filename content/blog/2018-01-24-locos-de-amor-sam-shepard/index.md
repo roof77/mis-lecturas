@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Plays
+- Teatro
 - Drama
-- Theatre
-- Fiction
-- Classics
-- College
+- Ficción
+- Clásico
+- Universidad
+- EEUU
+- Romance
 autores:
 - Sam Shepard
+- Gustavo Pérez de Ayala
 editoriales:
 - Editorial Anagrama
 image:
@@ -29,14 +31,14 @@ En un zarrapastroso motel en el confín del desierto de Mojave dos destructivos 
 
 ## Ficha del libro
 
-- **Autor:** Sam Shepard
-- **Colaboradores:** Gustavo Pérez de Ayala (Translator)
+- **Autor:** [Sam Shepard](/autores/sam-shepard/)
+- **Colaboradores:** [Gustavo Pérez de Ayala](/autores/gustavo-perez-de-ayala/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 106 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433912720 / 9788433912725
 - **Publicación original:** 2006-04-18
-- **Géneros:** Plays, Drama, Theatre, Fiction, Classics, College, American, The United States Of America, Romance, Read For School
+- **Géneros:** [Teatro](/tags/teatro/), [Drama](/tags/drama/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Universidad](/tags/universidad/), [EEUU](/tags/eeuu/), [Romance](/tags/romance/)
 - **Premios ganados:** Obie (1984)
 - **Ficha en Goodreads:** [Locos de amor](https://www.goodreads.com/book/show/687389.Locos_de_amor)
 
@@ -44,4 +46,4 @@ En un zarrapastroso motel en el confín del desierto de Mojave dos destructivos 
 
 - **Inicio:** 2018/01/20
 - **Fin:** 2018/01/24
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

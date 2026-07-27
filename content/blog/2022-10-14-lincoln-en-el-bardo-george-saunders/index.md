@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Audiobook
-- Book Club
-- Fantasy
-- Literary Fiction
+- Ficción
+- Ficción histórica
+- Club de lectura
+- Fantasía
+- Ficción Literaria
+- Histórico
+- Realismo mágico
+- Novela
+- Literatura
 autores:
 - George Saunders
+- Javier Calvo
 editoriales:
 - Seix Barral
 image:
@@ -30,14 +34,14 @@ A partir de este hecho histórico, Saunders despliega una historia inolvidable s
 
 ## Ficha del libro
 
-- **Autor:** George Saunders
-- **Colaboradores:** Javier Calvo (Translator )
+- **Autor:** [George Saunders](/autores/george-saunders/)
+- **Colaboradores:** [Javier Calvo](/autores/javier-calvo/) (Translator)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 440 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8432233595 / 9788432233593
 - **Publicación original:** 2018-04-01
-- **Géneros:** Fiction, Historical Fiction, Audiobook, Book Club, Fantasy, Literary Fiction, Historical, Magical Realism, Novels, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/), [Realismo mágico](/tags/realismo-magico/), [Novela](/tags/novela/), [Literatura](/tags/literatura/)
 - **Personajes:** Abraham Lincoln
 - **Lugares:** Washington, D.C. (United States)
 - **Premios ganados:** Booker Prize (2017)
@@ -48,4 +52,4 @@ A partir de este hecho histórico, Saunders despliega una historia inolvidable s
 
 - **Inicio:** 2022/10/10
 - **Fin:** 2022/10/14
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

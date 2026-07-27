@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Thriller
-- Historical Fiction
-- Crime
-- Southern Gothic
+- Ficción histórica
+- Crimen
+- Gótico sureño
+- Misterio
+- Gótico
 autores:
 - Donald Ray Pollock
+- Javier Calvo
 editoriales:
 - Libros del Silencio
 image:
@@ -29,14 +32,14 @@ Cuando Willard Russell, veterano de la segunda guerra mundial, descubre que el c
 
 ## Ficha del libro
 
-- **Autor:** Donald Ray Pollock
-- **Colaboradores:** Javier Calvo (Translator)
+- **Autor:** [Donald Ray Pollock](/autores/donald-ray-pollock/)
+- **Colaboradores:** [Javier Calvo](/autores/javier-calvo/) (Translator)
 - **Editorial:** Libros del Silencio
 - **Formato:** Paperback, 376 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494015656 / 9788494015656
 - **Publicación original:** 2012-11-01
-- **Géneros:** Horror, Fiction, Thriller, Historical Fiction, Crime, Southern Gothic, Mystery, Gothic, Audiobook, Mystery Thriller
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Ficción histórica](/tags/ficcion-historica/), [Crimen](/tags/crimen/), [Gótico sureño](/tags/gotico-sureno/), [Misterio](/tags/misterio/), [Gótico](/tags/gotico/)
 - **Personajes:** Arvin Eugene Russell, Willard Russell, Snooks Snyder, Charlotte Russell
 - **Lugares:** Ohio (United States), West Virginia (United States)
 - **Premios ganados:** Grand Prix de Littérature Policière (2012), Deutscher Krimi Preis (2013)
@@ -47,4 +50,4 @@ Cuando Willard Russell, veterano de la segunda guerra mundial, descubre que el c
 
 - **Inicio:** 2016/10/20
 - **Fin:** 2016/10/26
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

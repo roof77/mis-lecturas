@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Young Adult
-- Contemporary
-- Fiction
+- Jovenes adultos
+- Contemporaneo
+- Ficción
 - Romance
-- Realistic Fiction
-- Coming Of Age
+- Ficción realista
+- Coming of age
+- Salud mentál
+- Adolescencia
 autores:
 - Matthew Quick
+- Julio Hermoso
 editoriales:
 - Alfaguara Juvenil
 image:
@@ -29,18 +32,18 @@ Nanette O´Hare es una sencilla adolescente que lleva mucho tiempo interpretando
 
 ## Ficha del libro
 
-- **Autor:** Matthew Quick
-- **Colaboradores:** Julio Hermoso (Translator)
+- **Autor:** [Matthew Quick](/autores/matthew-quick/)
+- **Colaboradores:** [Julio Hermoso](/autores/julio-hermoso/) (Translator)
 - **Editorial:** Alfaguara Juvenil
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 842048444X / 9788420484440
 - **Publicación original:** 2016-10-02
-- **Géneros:** Young Adult, Contemporary, Fiction, Romance, Realistic Fiction, Coming Of Age, Mental Health, Audiobook, Teen, Young Adult Contemporary
+- **Géneros:** [Jovenes adultos](/tags/jovenes-adultos/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Ficción realista](/tags/ficcion-realista/), [Coming of age](/tags/coming-of-age/), [Salud mentál](/tags/salud-mental/), [Adolescencia](/tags/adolescencia/)
 - **Ficha en Goodreads:** [Jóvenes poetas rebeldes](https://www.goodreads.com/book/show/30833310-j-venes-poetas-rebeldes)
 
 ## Mi lectura
 
 - **Inicio:** 2023/04/25
 - **Fin:** 2023/04/28
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

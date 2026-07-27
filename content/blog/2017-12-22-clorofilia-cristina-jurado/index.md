@@ -7,12 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Spanish Literature
-- Horror
-- Environment
+- Ciencia ficción
+- Literatura hispana
+- Terror
+- Medio Ambiente
 autores:
-- Cristina   Jurado
+- Cristina Jurado
 editoriales:
 - Editorial Cerbero
 image:
@@ -27,17 +27,17 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Cristina   Jurado
+- **Autor:** [Cristina Jurado](/autores/cristina-jurado/)
 - **Editorial:** Editorial Cerbero
 - **Formato:** Paperback, 142 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494642235 / 9788494642234
 - **Publicación original:** 2017-03-01
-- **Géneros:** Science Fiction, Spanish Literature, Horror, Environment
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Terror](/tags/terror/), [Medio Ambiente](/tags/medio-ambiente/)
 - **Ficha en Goodreads:** [CloroFilia](https://www.goodreads.com/book/show/34599969-clorofilia)
 
 ## Mi lectura
 
 - **Inicio:** 2017/12/22
 - **Fin:** 2017/12/22
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

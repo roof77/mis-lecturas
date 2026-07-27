@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Historical Fiction
-- Fiction
-- Book Club
-- Historical
-- Audiobook
-- Literary Fiction
+- Ficción histórica
+- Ficción
+- Club de lectura
+- Histórico
+- Ficción Literaria
+- Adultos
+- Shakespeare
+- Literatura británica
+- Novela
 autores:
 - Maggie O'Farrell
+- Concha Cardeñoso
 editoriales:
 - Libros del Asteroide
 image:
@@ -30,14 +34,14 @@ Partiendo de la historia familiar de Shakespeare, Maggie O’Farrell transita en
 
 ## Ficha del libro
 
-- **Autor:** Maggie O'Farrell
-- **Colaboradores:** Concha Cardeñoso (Translator)
+- **Autor:** [Maggie O'Farrell](/autores/maggie-o-farrell/)
+- **Colaboradores:** [Concha Cardeñoso](/autores/concha-cardenoso/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417977589 / 9788417977580
 - **Publicación original:** 2021-02-22
-- **Géneros:** Historical Fiction, Fiction, Book Club, Historical, Audiobook, Literary Fiction, Adult, Shakespeare, British Literature, Novels
+- **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/), [Adultos](/tags/adultos/), [Shakespeare](/tags/shakespeare/), [Literatura británica](/tags/literatura-britanica/), [Novela](/tags/novela/)
 - **Personajes:** Anne Hathaway, Hamnet Shakespeare, William Shakespeare
 - **Lugares:** Warwickshire, England (United Kingdom), England, Stratford-upon-Avon, Warwickshire, England
 - **Premios ganados:** National Book Critics Circle Award (2020), Women's Prize for Fiction (2020), Waterstones Book of the Year (2020)
@@ -48,4 +52,4 @@ Partiendo de la historia familiar de Shakespeare, Maggie O’Farrell transita en
 
 - **Inicio:** 2021/05/20
 - **Fin:** 2021/05/26
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

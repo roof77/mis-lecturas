@@ -8,13 +8,15 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Fiction
-- Graphic Novels Comics
-- Comic Book
+- Novela gráfica
+- Fantasía
+- Ficción
+- Arte
+- Aventuras
+- Ciencia ficción
 autores:
 - Dylan Horrocks
+- Óscar Palmer Yáñez
 editoriales:
 - Astiberri
 image:
@@ -30,14 +32,14 @@ El autor Dylan Horrocks regresa con esta largamente esperada novela gráfica, la
 
 ## Ficha del libro
 
-- **Autor:** Dylan Horrocks
-- **Colaboradores:** Óscar Palmer Yáñez (Traductor)
+- **Autor:** [Dylan Horrocks](/autores/dylan-horrocks/)
+- **Colaboradores:** [Óscar Palmer Yáñez](/autores/oscar-palmer-yanez/) (Traductor)
 - **Editorial:** Astiberri
 - **Formato:** Paperback, 228 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415685785 / 9788415685784
 - **Publicación original:** 2014-12-01
-- **Géneros:** Comics, Graphic Novels, Fantasy, Fiction, Graphic Novels Comics, Comic Book, Art, Adventure, Comix, Science Fiction
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Arte](/tags/arte/), [Aventuras](/tags/aventuras/), [Ciencia ficción](/tags/ciencia-ficcion/)
 - **Nominaciones:** Will Eisner Comic Industry Awards (2016)
 - **Ficha en Goodreads:** [Sam Zabel y la pluma mágica](https://www.goodreads.com/book/show/23821855-sam-zabel-y-la-pluma-m-gica)
 
@@ -45,3 +47,4 @@ El autor Dylan Horrocks regresa con esta largamente esperada novela gráfica, la
 
 - **Inicio:** 2026/05/03
 - **Fin:** 2026/05/03
+- **Calificación:** Recomendable/5

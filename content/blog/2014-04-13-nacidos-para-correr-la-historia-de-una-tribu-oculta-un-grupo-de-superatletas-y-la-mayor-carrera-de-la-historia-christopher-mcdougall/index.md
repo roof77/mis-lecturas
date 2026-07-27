@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Sports
-- Health
-- Audiobook
+- No Ficción
+- Deportes
+- Salud
 - Fitness
-- Science
+- Ciencia
+- Aventuras
+- Memorias
+- Biografía
+- Club de lectura
 autores:
 - Christopher McDougall
 editoriales:
@@ -29,13 +32,13 @@ En busca de una respuesta, Christopher MacDougall se encuentra con la tribu de l
 
 ## Ficha del libro
 
-- **Autor:** Christopher McDougall
+- **Autor:** [Christopher McDougall](/autores/christopher-mcdougall/)
 - **Editorial:** DEBATE
 - **Formato:** Kindle Edition, 370 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8499920470
 - **Publicación original:** 2011-04-01
-- **Géneros:** Nonfiction, Sports, Health, Audiobook, Fitness, Science, Adventure, Memoir, Biography, Book Club
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Deportes](/tags/deportes/), [Salud](/tags/salud/), [Fitness](/tags/fitness/), [Ciencia](/tags/ciencia/), [Aventuras](/tags/aventuras/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/)
 - **Lugares:** Mexico, Colorado (United States)
 - **Nominaciones:** Goodreads Choice Award (2009)
 - **Ficha en Goodreads:** [Nacidos para correr: La historia de una tribu oculta, un grupo de superatletas y la mayor carrera de la historia](https://www.goodreads.com/book/show/19291960-nacidos-para-correr)
@@ -44,4 +47,4 @@ En busca de una respuesta, Christopher MacDougall se encuentra con la tribu de l
 
 - **Inicio:** 2014/04/08
 - **Fin:** 2014/04/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

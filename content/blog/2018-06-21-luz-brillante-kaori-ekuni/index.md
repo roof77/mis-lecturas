@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Japan
-- Japanese Literature
-- LGBT
+- Ficción
+- Japón
+- Literatura japanesa
+- LGTBIQ+
 - Romance
 - Queer
+- Contemporaneo
+- Ásia
+- Literatura asiática
+- Novela
 autores:
 - Kaori Ekuni
+- Juan Francisco González Sánchez
 editoriales:
 - Funambulista
 image:
@@ -33,18 +38,18 @@ Kaori Ekuni, en esta mítica novela en Japón, tierna, apasionada y positiva, ga
 
 ## Ficha del libro
 
-- **Autor:** Kaori Ekuni
-- **Colaboradores:** Juan Francisco González Sánchez (Traductor)
+- **Autor:** [Kaori Ekuni](/autores/kaori-ekuni/)
+- **Colaboradores:** [Juan Francisco González Sánchez](/autores/juan-francisco-gonzalez-sanchez/) (Traductor)
 - **Editorial:** Funambulista
 - **Formato:** Paperback, 232 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494712985 / 9788494712982
 - **Publicación original:** 2017-11-01
-- **Géneros:** Fiction, Japan, Japanese Literature, LGBT, Romance, Queer, Contemporary, Asia, Asian Literature, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [LGTBIQ+](/tags/lgtbiq/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ásia](/tags/asia/), [Literatura asiática](/tags/literatura-asiatica/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Luz brillante](https://www.goodreads.com/book/show/36634846-luz-brillante)
 
 ## Mi lectura
 
 - **Inicio:** 2018/06/18
 - **Fin:** 2018/06/21
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

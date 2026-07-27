@@ -8,13 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Comic Book
-- Graphic Novels Comics
-- Historical Fiction
-- Fiction
+- Novela gráfica
+- Ficción histórica
+- Ficción
 autores:
 - Joëlle Jones
+- Jamie S. Rich
 editoriales:
 - Dark Horse
 image:
@@ -35,17 +34,18 @@ Josie Schuller is a picture-perfect homemaker, wife, and mother--but she's also 
 
 ## Ficha del libro
 
-- **Autor:** Joëlle Jones
+- **Autor:** [Joëlle Jones](/autores/joelle-jones/)
 - **Serie:** Lady Killer (Single Issues)
-- **Colaboradores:** Jamie S. Rich (Author)
+- **Colaboradores:** [Jamie S. Rich](/autores/jamie-s-rich/) (Author)
 - **Editorial:** Dark Horse
 - **Formato:** Paperback, 31 páginas
 - **Idioma:** English
 - **Publicación original:** 2015-01-07
-- **Géneros:** Comics, Graphic Novels, Comic Book, Graphic Novels Comics, Historical Fiction, Fiction
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Lady Killer #1](https://www.goodreads.com/book/show/24427062-lady-killer-1)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/05
+- **Calificación:** Pasable/5

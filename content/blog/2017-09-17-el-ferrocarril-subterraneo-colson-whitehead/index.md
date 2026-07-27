@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Historical Fiction
-- Fiction
-- Book Club
-- Historical
-- Audiobook
-- Literary Fiction
+- Ficción histórica
+- Ficción
+- Club de lectura
+- Histórico
+- Ficción Literaria
+- Raza
+- Afroamericanos
+- Novela
+- Adultos
 autores:
 - Colson Whitehead
+- Cruz Rodríguez Juiz
 editoriales:
 - Literatura Random House
 image:
@@ -35,13 +39,13 @@ Whitehead nos brinda una historia universal, onírica y a la vez brutalmente rea
 
 ## Ficha del libro
 
-- **Autor:** Colson Whitehead
-- **Colaboradores:** Cruz Rodríguez Juiz (Translator)
+- **Autor:** [Colson Whitehead](/autores/colson-whitehead/)
+- **Colaboradores:** [Cruz Rodríguez Juiz](/autores/cruz-rodriguez-juiz/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2017-09-01
-- **Géneros:** Historical Fiction, Fiction, Book Club, Historical, Audiobook, Literary Fiction, Race, African American, Novels, Adult
+- **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/), [Raza](/tags/raza/), [Afroamericanos](/tags/afroamericanos/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)
 - **Personajes:** Caesar (The Underground Railroad), Cora Randall, Mabel Randall, Arnold Ridgeway, Martin Wells, Ethel Wells, Royal (The Underground Railroad), Homer (The Underground Railroad), Boseman (The Underground Railroad), Ajarry (The Underground Railroad)
 - **Lugares:** Georgia (United States), South Carolina (United States), North Carolina (United States), Tennessee (United States), Indiana (United States), The United States of America
 - **Premios ganados:** Pulitzer Prize (2017), National Book Award (2016), Arthur C. Clarke Award (2017), Hurston/Wright Legacy Award (2017), NAIBA Book of the Year (2017), Andrew Carnegie Medal (2017), Goodreads Choice Award (2016), The Rooster -- The Morning News Tournament of Books (2017)
@@ -52,4 +56,4 @@ Whitehead nos brinda una historia universal, onírica y a la vez brutalmente rea
 
 - **Inicio:** 2017/09/14
 - **Fin:** 2017/09/17
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -8,10 +8,9 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Horror
-- Graphic Novels
-- Fiction
-- Bande Dessinée
+- Terror
+- Novela gráfica
+- Ficción
 autores:
 - Javi de Castro
 editoriales:
@@ -32,17 +31,17 @@ Villanueva —el topónimo más común de España, con 132 localidades homónima
 
 ## Ficha del libro
 
-- **Autor:** Javi de Castro
+- **Autor:** [Javi de Castro](/autores/javi-de-castro/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 157 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418215739 / 9788418215735
 - **Publicación original:** 2021-10-07
-- **Géneros:** Comics, Horror, Graphic Novels, Fiction, Bande Dessinée
+- **Géneros:** [Comics](/tags/comics/), [Terror](/tags/terror/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Villanueva](https://www.goodreads.com/book/show/59227328-villanueva)
 
 ## Mi lectura
 
 - **Inicio:** 2024/08/19
 - **Fin:** 2024/08/20
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

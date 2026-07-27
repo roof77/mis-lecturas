@@ -24,17 +24,18 @@ Meet the Bradleys, America's most dysfunctional family. Yes, even more dysfuncti
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Buddy y los Bradley (#2)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 80 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 1594971285 / 9781594971280
 - **Publicación original:** 2005-04-25
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Buddy y los Bradley, vol. 2: La tribu De Los Bradley](https://www.goodreads.com/book/show/514827.Buddy_y_los_Bradley_vol_2)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/10
 - **Fin:** 2026/05/11
+- **Calificación:** Bien/5

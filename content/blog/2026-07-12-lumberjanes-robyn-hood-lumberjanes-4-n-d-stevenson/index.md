@@ -8,13 +8,18 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Young Adult
-- Graphic Novels Comics
-- Adventure
+- Novela gráfica
+- Fantasía
+- Jovenes adultos
+- Aventuras
+- Ficción
+- LGTBIQ+
+- Queer
 autores:
 - N.D. Stevenson
+- Grace Ellis
+- Shannon Watters
+- Brooke A. Allen
 editoriales:
 - BOOM! - BOOM! Box
 image:
@@ -29,18 +34,19 @@ After a lot of convincing, the girls are able to agree to get Jen to take them o
 
 ## Ficha del libro
 
-- **Autor:** N.D. Stevenson
+- **Autor:** [N.D. Stevenson](/autores/n-d-stevenson/)
 - **Serie:** Lumberjanes (Single Issues) (#4)
-- **Colaboradores:** Grace Ellis (Author), Shannon Watters (Author), Brooke A. Allen (Illustrator)
+- **Colaboradores:** [Grace Ellis](/autores/grace-ellis/) (Author), [Shannon Watters](/autores/shannon-watters/) (Author), [Brooke A. Allen](/autores/brooke-a-allen/) (Illustrator)
 - **Editorial:** BOOM! - BOOM! Box
 - **Formato:** Kindle Edition, 27 páginas
 - **Idioma:** English
 - **ISBN:** 1613986890 / 9781613986899
 - **Publicación original:** 2014-07-09
-- **Géneros:** Comics, Graphic Novels, Fantasy, Young Adult, Graphic Novels Comics, Adventure, Fiction, Comic Book, LGBT, Queer
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Aventuras](/tags/aventuras/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/)
 - **Ficha en Goodreads:** [Lumberjanes: Robyn Hood (Lumberjanes, #4)](https://www.goodreads.com/book/show/25233408-lumberjanes)
 
 ## Mi lectura
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
+- **Calificación:** Recomendable/5

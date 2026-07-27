@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Mystery
-- Fiction
-- Fantasy
+- Terror
+- Misterio
+- Ficción
+- Fantasía
 - Paranormal
 - Humor
+- Adultos
+- Thriller
+- LGTBIQ+
 autores:
 - Edgar Cantero
+- Christian Rodriguez
+- Fran Mariscal Mancilla
+- Sara Segovia Esteban
 editoriales:
 - Insólita
 image:
@@ -39,14 +45,14 @@ El autor, Edgar Cantero, es un escritor y dibujante nacido en Barcelona en 1981.
 
 ## Ficha del libro
 
-- **Autor:** Edgar Cantero
-- **Colaboradores:** Christian Rodriguez (Translator), Fran Mariscal Mancilla (Illustrator), Sara Segovia Esteban (Corrector)
+- **Autor:** [Edgar Cantero](/autores/edgar-cantero/)
+- **Colaboradores:** [Christian Rodriguez](/autores/christian-rodriguez/) (Translator), [Fran Mariscal Mancilla](/autores/fran-mariscal-mancilla/) (Illustrator), [Sara Segovia Esteban](/autores/sara-segovia-esteban/) (Corrector)
 - **Editorial:** Insólita
 - **Formato:** Paperback, 407 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412104366 / 9788412104363
 - **Publicación original:** 2021-01-18
-- **Géneros:** Horror, Mystery, Fiction, Fantasy, Paranormal, Humor, Adult, Mystery Thriller, LGBT, Audiobook
+- **Géneros:** [Terror](/tags/terror/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Paranormal](/tags/paranormal/), [Humor](/tags/humor/), [Adultos](/tags/adultos/), [Thriller](/tags/thriller/), [LGTBIQ+](/tags/lgtbiq/)
 - **Personajes:** Andy Rodriguez, Kerri Hollis, Nate Rogers, Peter Manner, Tim (Meddling Kids), Sean (Meddling Kids), A. Z. Kimrean
 - **Nominaciones:** Goodreads Choice Award (2017), Readers' Favorite Horror (2017)
 - **Ficha en Goodreads:** [Meddling Kids](https://www.goodreads.com/book/show/56222628-meddling-kids)
@@ -55,4 +61,4 @@ El autor, Edgar Cantero, es un escritor y dibujante nacido en Barcelona en 1981.
 
 - **Inicio:** 2021/10/09
 - **Fin:** 2021/10/15
-- **Mi valoración:** ★★☆☆☆ (2,5/5)
+- **Calificación:** ★★☆☆☆ (2,5/5)

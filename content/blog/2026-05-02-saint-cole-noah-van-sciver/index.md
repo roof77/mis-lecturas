@@ -8,11 +8,10 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Fiction
-- Comix
-- The United States Of America
+- Novela gráfica
+- Ficción
+- EEUU
+- Slice of life
 autores:
 - Noah Van Sciver
 editoriales:
@@ -33,16 +32,17 @@ Noah Van Sciver (New Jersey, 1984) empezó a llamar la atención de los lectores
 
 ## Ficha del libro
 
-- **Autor:** Noah Van Sciver
+- **Autor:** [Noah Van Sciver](/autores/noah-van-sciver/)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 124 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416400970 / 9788416400973
 - **Publicación original:** 2018-03-22
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Fiction, Comix, The United States Of America, Comic Book, Slice Of Life
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [EEUU](/tags/eeuu/), [Slice of life](/tags/slice-of-life/)
 - **Ficha en Goodreads:** [Saint Cole](https://www.goodreads.com/book/show/41728561-saint-cole)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/02
 - **Fin:** 2026/05/02
+- **Calificación:** Recomendable/5

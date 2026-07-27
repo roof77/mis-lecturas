@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Romance
-- Graphic Novels
-- LGBT
-- Young Adult
+- Novela gráfica
+- LGTBIQ+
+- Jovenes adultos
 - Queer
-- Contemporary
+- Contemporaneo
+- Comics
+- Ficción
+- Gay
 autores:
 - Alice Oseman
+- Victoria Simó
 editoriales:
 - Crossbooks
 image:
@@ -29,15 +33,15 @@ Después de lanzarse a besar a Nick, Charlie cree que todo se ha acabado, pero..
 
 ## Ficha del libro
 
-- **Autor:** Alice Oseman
+- **Autor:** [Alice Oseman](/autores/alice-oseman/)
 - **Serie:** Heartstopper (#2)
-- **Colaboradores:** Victoria Simó (translator)
+- **Colaboradores:** [Victoria Simó](/autores/victoria-simo/) (translator)
 - **Editorial:** Crossbooks
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408229788 / 9788408229780
 - **Publicación original:** 2020-07-07
-- **Géneros:** Romance, Graphic Novels, LGBT, Young Adult, Queer, Contemporary, Comics, Fiction, Gay, Graphic Novels Comics
+- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/)
 - **Personajes:** Charlie Spring, Nick  Nelson
 - **Lugares:** Kent, England (United Kingdom)
 - **Nominaciones:** Goodreads Choice Award (2019), Readers' Favorite Graphic Novels & Comics (2019)
@@ -47,4 +51,4 @@ Después de lanzarse a besar a Nick, Charlie cree que todo se ha acabado, pero..
 
 - **Inicio:** 2022/06/29
 - **Fin:** 2022/06/29
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

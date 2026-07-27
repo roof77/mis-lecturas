@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Young Adult
-- Fantasy
-- Dystopia
-- Audiobook
+- Ciencia ficción
+- Ficción
+- Jovenes adultos
+- Fantasía
+- Distopía
+- Club de lectura
+- Aventuras
+- Ciencia Ficción
+- Cyberpunk
 autores:
 - Ernest Cline
 editoriales:
@@ -33,14 +36,14 @@ But when Wade stumbles upon the first clue, he finds himself beset by players wi
 
 ## Ficha del libro
 
-- **Autor:** Ernest Cline
+- **Autor:** [Ernest Cline](/autores/ernest-cline/)
 - **Serie:** Ready Player One (#1)
 - **Editorial:** Crown Publishers
 - **Formato:** Hardcover, 480 páginas
 - **Idioma:** English
 - **ISBN:** 030788743X / 9780307887436
 - **Publicación original:** 2011-08-16
-- **Géneros:** Science Fiction, Fiction, Young Adult, Fantasy, Dystopia, Audiobook, Book Club, Adventure, Science Fiction Fantasy, Cyberpunk
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Fantasía](/tags/fantasia/), [Distopía](/tags/distopia/), [Club de lectura](/tags/club-de-lectura/), [Aventuras](/tags/aventuras/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Cyberpunk](/tags/cyberpunk/)
 - **Personajes:** Wade Owen Watts, James Halliday, Ogden Morrow, Helen Harris, Samantha Cook, Nolan Sorrento, Akihide Karatsu, Toshiro Yoshiaki
 - **Lugares:** Columbus, Ohio (United States), The United States of America, Ohio (United States), OASIS
 - **Premios ganados:** Prometheus Award (2012), ALA Alex Award (2012), Mary Shelley Award for Outstanding Fictional Work (2016), Premi Ictineu (2017)
@@ -51,4 +54,4 @@ But when Wade stumbles upon the first clue, he finds himself beset by players wi
 
 - **Inicio:** 2014/01/09
 - **Fin:** 2014/01/12
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

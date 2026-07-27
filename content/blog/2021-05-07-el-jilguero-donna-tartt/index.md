@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Book Club
-- Contemporary
-- Literary Fiction
-- Audiobook
+- Ficción
+- Club de lectura
+- Contemporaneo
+- Ficción Literaria
 - Dark Academia
+- Misterio
+- Arte
+- Novela
+- Coming of age
 autores:
 - Donna Tartt
 editoriales:
@@ -30,13 +33,13 @@ Al acercarnos a El jilguero, vamos enfocando una habitación de hotel en Amsterd
 
 ## Ficha del libro
 
-- **Autor:** Donna Tartt
+- **Autor:** [Donna Tartt](/autores/donna-tartt/)
 - **Editorial:** Lumen
 - **Formato:** Hardcover, 1152 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8426422438 / 9788426422439
 - **Publicación original:** 2014-03-13
-- **Géneros:** Fiction, Book Club, Contemporary, Literary Fiction, Audiobook, Dark Academia, Mystery, Art, Novels, Coming Of Age
+- **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Dark Academia](/tags/dark-academia/), [Misterio](/tags/misterio/), [Arte](/tags/arte/), [Novela](/tags/novela/), [Coming of age](/tags/coming-of-age/)
 - **Personajes:** Boris Pavlikovsky (The Goldfinch), Theo Decker, Pippa, Hobie
 - **Lugares:** Amsterdam (Netherlands), Las Vegas, Nevada (United States), New York City, New York (United States), Upper East Side, New York City, New York (United States)
 - **Premios ganados:** Pulitzer Prize (2014), Audie Award (2014), Andrew Carnegie Medal (2014)
@@ -47,4 +50,4 @@ Al acercarnos a El jilguero, vamos enfocando una habitación de hotel en Amsterd
 
 - **Inicio:** 2021/04/29
 - **Fin:** 2021/05/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

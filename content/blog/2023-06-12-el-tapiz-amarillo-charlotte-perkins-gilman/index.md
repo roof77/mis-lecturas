@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Short Stories
-- Fiction
-- Horror
-- Feminism
-- Gothic
+- Clásico
+- Relatos
+- Ficción
+- Terror
+- Feminismo
+- Gótico
+- Salud mentál
+- Colegio
+- Literatura
 autores:
 - Charlotte Perkins Gilman
 image:
@@ -27,15 +30,15 @@ Charlotte Anna Perkins , fue una intelectual norteamericana multidisciplinar, mu
 
 ## Ficha del libro
 
-- **Autor:** Charlotte Perkins Gilman
+- **Autor:** [Charlotte Perkins Gilman](/autores/charlotte-perkins-gilman/)
 - **Formato:** Kindle Edition, 40 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2018-03-06
-- **Géneros:** Classics, Short Stories, Fiction, Horror, Feminism, Gothic, Mental Health, School, Audiobook, Literature
+- **Géneros:** [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Feminismo](/tags/feminismo/), [Gótico](/tags/gotico/), [Salud mentál](/tags/salud-mental/), [Colegio](/tags/colegio/), [Literatura](/tags/literatura/)
 - **Ficha en Goodreads:** [El tapiz amarillo](https://www.goodreads.com/book/show/39690043-el-tapiz-amarillo)
 
 ## Mi lectura
 
 - **Inicio:** 2023/06/12
 - **Fin:** 2023/06/12
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

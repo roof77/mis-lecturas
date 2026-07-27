@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Japan
-- Contemporary
-- Feminism
-- Japanese Literature
-- Literary Fiction
+- Ficción
+- Japón
+- Contemporaneo
+- Feminismo
+- Literatura japanesa
+- Ficción Literaria
+- Literatura asiática
+- Ásia
+- Club de lectura
 autores:
 - Mieko Kawakami
 editoriales:
@@ -31,13 +34,13 @@ Reunidas en un barrio de clase trabajadora en Tokio, pasarán juntas unos días 
 
 ## Ficha del libro
 
-- **Autor:** Mieko Kawakami
+- **Autor:** [Mieko Kawakami](/autores/mieko-kawakami/)
 - **Editorial:** Planeta Publishing
 - **Formato:** Paperback, 496 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6070783360 / 9786070783364
 - **Publicación original:** 2022-04-12
-- **Géneros:** Fiction, Japan, Contemporary, Feminism, Japanese Literature, Literary Fiction, Asian Literature, Audiobook, Asia, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Contemporaneo](/tags/contemporaneo/), [Feminismo](/tags/feminismo/), [Literatura japanesa](/tags/literatura-japanesa/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/), [Ásia](/tags/asia/), [Club de lectura](/tags/club-de-lectura/)
 - **Nominaciones:** 本屋大賞 (2020), ALTA National Translation Award (2021), Warwick Prize for Women in Translation (2021)
 - **Ficha en Goodreads:** [Pechos y huevos (Seix Barral Biblioteca Formentor) (Spanish Edition)](https://www.goodreads.com/book/show/60728716-pechos-y-huevos-seix-barral-biblioteca-formentor)
 
@@ -45,4 +48,4 @@ Reunidas en un barrio de clase trabajadora en Tokio, pasarán juntas unos días 
 
 - **Inicio:** 2024/10/23
 - **Fin:** 2024/11/21
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

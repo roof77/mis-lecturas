@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Young Adult
-- Contemporary
-- Coming Of Age
+- Ficción
+- Jovenes adultos
+- Contemporaneo
+- Coming of age
 - Romance
-- Adult Fiction
+- Ficción adulta
+- Literatura
+- Comedia
+- Literatura británica
+- Novela
 autores:
 - Ben Brooks
 editoriales:
@@ -41,13 +45,13 @@ Hilarious, fearless and utterly outrageous, Lolito is a truly twenty-first centu
 
 ## Ficha del libro
 
-- **Autor:** Ben Brooks
+- **Autor:** [Ben Brooks](/autores/ben-brooks/)
 - **Editorial:** Canongate
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** English
 - **ISBN:** 1782111581 / 9781782111580
 - **Publicación original:** 2013-08-01
-- **Géneros:** Fiction, Young Adult, Contemporary, Coming Of Age, Romance, Adult Fiction, Literature, Comedy, British Literature, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Contemporaneo](/tags/contemporaneo/), [Coming of age](/tags/coming-of-age/), [Romance](/tags/romance/), [Ficción adulta](/tags/ficcion-adulta/), [Literatura](/tags/literatura/), [Comedia](/tags/comedia/), [Literatura británica](/tags/literatura-britanica/), [Novela](/tags/novela/)
 - **Premios ganados:** Somerset Maugham Award (2015), Jerwood Fiction Uncovered Prize (2014)
 - **Ficha en Goodreads:** [Lolito](https://www.goodreads.com/book/show/18169682-lolito)
 
@@ -55,4 +59,4 @@ Hilarious, fearless and utterly outrageous, Lolito is a truly twenty-first centu
 
 - **Inicio:** 2014/04/27
 - **Fin:** 2014/04/29
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

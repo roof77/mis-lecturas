@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
+- No Ficción
 - Humor
-- Travel
-- Memoir
-- Audiobook
-- Biography
+- Viajes
+- Memorias
+- Biografía
+- Comedia
+- Club de lectura
+- Queer
 autores:
-- John   Waters
+- John Waters
 editoriales:
 - Farrar, Straus and Giroux
 image:
@@ -31,13 +33,13 @@ Before he leaves for this bizarre adventure, Waters fantasizes about the best an
 
 ## Ficha del libro
 
-- **Autor:** John   Waters
+- **Autor:** [John Waters](/autores/john-waters/)
 - **Editorial:** Farrar, Straus and Giroux
 - **Formato:** Hardcover, 323 páginas
 - **Idioma:** English
 - **ISBN:** 0374298637 / 9780374298630
 - **Publicación original:** 2014-06-03
-- **Géneros:** Nonfiction, Humor, Travel, Memoir, Audiobook, Biography, Comedy, Biography Memoir, Book Club, Queer
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Humor](/tags/humor/), [Viajes](/tags/viajes/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Comedia](/tags/comedia/), [Club de lectura](/tags/club-de-lectura/), [Queer](/tags/queer/)
 - **Nominaciones:** Grammy Award (2015)
 - **Ficha en Goodreads:** [Carsick: John Waters Hitchhikes Across America](https://www.goodreads.com/book/show/18490657-carsick)
 
@@ -45,4 +47,4 @@ Before he leaves for this bizarre adventure, Waters fantasizes about the best an
 
 - **Inicio:** 2014/11/24
 - **Fin:** 2014/11/27
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

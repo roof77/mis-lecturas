@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Mystery
-- Historical Fiction
+- Clásico
+- Ficción
+- Misterio
+- Ficción histórica
 - Australia
-- Horror
+- Terror
+- Gótico
+- Histórico
+- Dark Academia
+- Club de lectura
 autores:
 - Joan Lindsay
+- Pilar Adón
+- Miguel Cane
 editoriales:
 - Impedimenta
 image:
@@ -29,15 +35,15 @@ Febrero de 1900. Un grupo de alumnas del selecto colegio Appleyard para señorit
 
 ## Ficha del libro
 
-- **Autor:** Joan Lindsay
+- **Autor:** [Joan Lindsay](/autores/joan-lindsay/)
 - **Serie:** Hanging Rock (#1)
-- **Colaboradores:** Pilar Adón (Traducción), Miguel  Cane (Prólogo)
+- **Colaboradores:** [Pilar Adón](/autores/pilar-adon/) (Traducción), [Miguel Cane](/autores/miguel-cane/) (Prólogo)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 307 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415130031 / 9788415130031
 - **Publicación original:** 2010-11-01
-- **Géneros:** Classics, Fiction, Mystery, Historical Fiction, Australia, Horror, Gothic, Historical, Dark Academia, Book Club
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Ficción histórica](/tags/ficcion-historica/), [Australia](/tags/australia/), [Terror](/tags/terror/), [Gótico](/tags/gotico/), [Histórico](/tags/historico/), [Dark Academia](/tags/dark-academia/), [Club de lectura](/tags/club-de-lectura/)
 - **Lugares:** Australia, Australian Outback (Australia)
 - **Ficha en Goodreads:** [Picnic en Hanging Rock](https://www.goodreads.com/book/show/9738320-picnic-en-hanging-rock)
 
@@ -45,4 +51,4 @@ Febrero de 1900. Un grupo de alumnas del selecto colegio Appleyard para señorit
 
 - **Inicio:** 2014/02/20
 - **Fin:** 2014/02/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

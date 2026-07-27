@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Crime
-- Italy
-- True Crime
-- History
-- Italian Literature
+- No Ficción
+- Crimen
+- Italia
+- Crime real
+- Historia
+- Literatura italiana
+- Política
+- Periodismo
+- Contemporaneo
 autores:
 - Roberto Saviano
 editoriales:
@@ -30,13 +33,13 @@ El autor describe minuciosamente métodos y operaciones, revela la manera en que
 
 ## Ficha del libro
 
-- **Autor:** Roberto Saviano
+- **Autor:** [Roberto Saviano](/autores/roberto-saviano/)
 - **Editorial:** Editorial Sudamericana
 - **Formato:** Paperback, 325 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9875665606 / 9789875665606
 - **Publicación original:** 2010-01-01
-- **Géneros:** Nonfiction, Crime, Italy, True Crime, History, Italian Literature, Politics, Journalism, Contemporary, Audiobook
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Crimen](/tags/crimen/), [Italia](/tags/italia/), [Crime real](/tags/crime-real/), [Historia](/tags/historia/), [Literatura italiana](/tags/literatura-italiana/), [Política](/tags/politica/), [Periodismo](/tags/periodismo/), [Contemporaneo](/tags/contemporaneo/)
 - **Lugares:** Naples (Italy)
 - **Premios ganados:** Βραβείο Λογοτεχνικής Μετάφρασης ΕΚΕΜΕΛ (2009)
 - **Ficha en Goodreads:** [Gomorra](https://www.goodreads.com/book/show/16156537-gomorra)
@@ -45,4 +48,4 @@ El autor describe minuciosamente métodos y operaciones, revela la manera en que
 
 - **Inicio:** 2015/10/21
 - **Fin:** 2015/10/26
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

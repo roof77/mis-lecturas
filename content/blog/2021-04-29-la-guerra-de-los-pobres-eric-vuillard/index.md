@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- History
-- Nonfiction
-- France
-- Historical
-- Religion
-- French Literature
+- Historia
+- No Ficción
+- Francia
+- Histórico
+- Religión
+- Literatura francesa
+- Novella
+- Política
+- Literatura
 autores:
 - Éric Vuillard
+- Javier Albiñana
 editoriales:
 - TusQuets
 image:
@@ -31,14 +35,14 @@ El espíritu que animó a aquellos valientes interpela incisivamente la realidad
 
 ## Ficha del libro
 
-- **Autor:** Éric Vuillard
-- **Colaboradores:** Javier Albiñana (Translator)
+- **Autor:** [Éric Vuillard](/autores/eric-vuillard/)
+- **Colaboradores:** [Javier Albiñana](/autores/javier-albinana/) (Translator)
 - **Editorial:** TusQuets
 - **Formato:** Kindle Edition, 96 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849066868X / 9788490668689
 - **Publicación original:** 2020-09-01
-- **Géneros:** History, Nonfiction, France, Historical, Religion, French Literature, Novella, Audiobook, Politics, Literature
+- **Géneros:** [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [Francia](/tags/francia/), [Histórico](/tags/historico/), [Religión](/tags/religion/), [Literatura francesa](/tags/literatura-francesa/), [Novella](/tags/novella/), [Política](/tags/politica/), [Literatura](/tags/literatura/)
 - **Personajes:** Thomas Müntzer
 - **Nominaciones:** International Booker Prize (2021)
 - **Ficha en Goodreads:** [La guerra de los pobres](https://www.goodreads.com/book/show/54868914-la-guerra-de-los-pobres)
@@ -47,4 +51,4 @@ El espíritu que animó a aquellos valientes interpela incisivamente la realidad
 
 - **Inicio:** 2021/04/28
 - **Fin:** 2021/04/29
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Feminism
-- Contemporary
-- Literary Fiction
-- Horror
+- Relatos
+- Ficción
+- Feminismo
+- Contemporaneo
+- Ficción Literaria
+- Terror
+- Club de lectura
+- Literatura hispana
+- Latino américa
 autores:
 - Dahlia de la Cerda
+- Rebeca Martínez
 editoriales:
 - Sexto Piso
 image:
@@ -31,14 +35,14 @@ Y es que las protagonistas de Perras de reserva comparten las dificultades y pel
 
 ## Ficha del libro
 
-- **Autor:** Dahlia de la Cerda
-- **Colaboradores:** Rebeca Martínez (Formación)
+- **Autor:** [Dahlia de la Cerda](/autores/dahlia-de-la-cerda/)
+- **Colaboradores:** [Rebeca Martínez](/autores/rebeca-martinez/) (Formación)
 - **Editorial:** Sexto Piso
 - **Formato:** Paperback, 144 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6078619659 / 9786078619658
 - **Publicación original:** 2022-01-01
-- **Géneros:** Short Stories, Fiction, Feminism, Contemporary, Literary Fiction, Horror, Book Club, Spanish Literature, Audiobook, Latin American
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Terror](/tags/terror/), [Club de lectura](/tags/club-de-lectura/), [Literatura hispana](/tags/literatura-hispana/), [Latino américa](/tags/latino-america/)
 - **Lugares:** Mexico, Guadalajara, Jalisco (Mexico), Jalisco (Mexico)
 - **Premios ganados:** Premio Nacional de Cuento Joven Comala (2019)
 - **Nominaciones:** International Booker Prize (2025)
@@ -48,4 +52,4 @@ Y es que las protagonistas de Perras de reserva comparten las dificultades y pel
 
 - **Inicio:** 2025/03/16
 - **Fin:** 2025/03/18
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

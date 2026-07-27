@@ -18,7 +18,7 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Vicky Gatekeeper
+- **Autor:** [Vicky Gatekeeper](/autores/vicky-gatekeeper/)
 - **Editorial:** Proyecto Estefanía
 - **Formato:** Paperback, 42 páginas
 - **Idioma:** Spanish; Castilian
@@ -29,4 +29,4 @@ image:
 
 - **Inicio:** 2022/05/16
 - **Fin:** 2022/05/16
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

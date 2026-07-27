@@ -9,10 +9,12 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Bande Dessinée
-- Japan
-- Graphic Novels
-- Food
+- Japón
+- Novela gráfica
+- Comida
+- Slice of life
+- Francia
+- Ásia
 autores:
 - Yarō Abe
 editoriales:
@@ -29,14 +31,14 @@ Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el ba
 
 ## Ficha del libro
 
-- **Autor:** Yarō Abe
+- **Autor:** [Yarō Abe](/autores/yaro-abe/)
 - **Serie:** 深夜食堂 [Shinya Shokudou] (#1-2)
 - **Editorial:** Astiberri
 - **Formato:** Paperback, 300 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417575243 / 9788417575243
 - **Publicación original:** 2019-05-01
-- **Géneros:** Manga, Comics, Bande Dessinée, Japan, Graphic Novels, Food, Slice Of Life, France, Asia, Graphic Novels Comics
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Comida](/tags/comida/), [Slice of life](/tags/slice-of-life/), [Francia](/tags/francia/), [Ásia](/tags/asia/)
 - **Premios ganados:** Prix Asie de la Critique (2017)
 - **Ficha en Goodreads:** [La cantina de medianoche 1](https://www.goodreads.com/book/show/45993418-la-cantina-de-medianoche-1)
 
@@ -44,3 +46,4 @@ Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el ba
 
 - **Inicio:** 2026/03/18
 - **Fin:** 2026/03/19
+- **Calificación:** Muy recomendable/5

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Historical Fiction
-- Gothic
-- Mystery
-- Fantasy
+- Terror
+- Ficción
+- Ficción histórica
+- Gótico
+- Misterio
+- Fantasía
+- Thriller
+- Club de lectura
+- Histórico
 autores:
 - Silvia Moreno-Garcia
+- Alexander Páez
 editoriales:
 - Minotauro
 image:
@@ -36,14 +40,14 @@ Premio Locus a Mejor Novela de Terror 2021.
 
 ## Ficha del libro
 
-- **Autor:** Silvia Moreno-Garcia
-- **Colaboradores:** Alexander Páez (traductor)
+- **Autor:** [Silvia Moreno-Garcia](/autores/silvia-moreno-garcia/)
+- **Colaboradores:** [Alexander Páez](/autores/alexander-paez/) (traductor)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 349 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445009818 / 9788445009819
 - **Publicación original:** 2021-06-23
-- **Géneros:** Horror, Fiction, Historical Fiction, Gothic, Mystery, Fantasy, Thriller, Book Club, Audiobook, Historical
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Gótico](/tags/gotico/), [Misterio](/tags/misterio/), [Fantasía](/tags/fantasia/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/)
 - **Personajes:** Noemi Taboada, Catalina Doyle, Francis Doyle, Virgil Doyle, Florence Doyle, Howard Doyle
 - **Lugares:** Mexico
 - **Premios ganados:** Locus Award (2021), British Fantasy Award (2021), Prix Aurora Award (2021), Goodreads Choice Award (2020)
@@ -54,4 +58,4 @@ Premio Locus a Mejor Novela de Terror 2021.
 
 - **Inicio:** 2022/09/07
 - **Fin:** 2022/09/13
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

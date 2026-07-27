@@ -8,13 +8,14 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Comic Book
-- Fantasy
-- Comedy
+- Novela gráfica
+- Fantasía
+- Comedia
+- Manga
+- Sexualidad
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image
 image:
@@ -29,19 +30,19 @@ How did these two end up in that bank, with those guns? Because they seemed like
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Artist)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Artist)
 - **Editorial:** Image
 - **Formato:** Kindle Edition, 32 páginas
 - **Idioma:** English
 - **ISBN:** 1106928725
 - **Publicación original:** 2013-11-20
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Comic Book, Fantasy, Comedy, Ebooks, Comics Manga, Sexuality, Sequential Art
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Comedia](/tags/comedia/), [Manga](/tags/manga/), [Sexualidad](/tags/sexualidad/)
 - **Ficha en Goodreads:** [Sex Criminals #3: My Sexual Errors and Misfortunes 2001-Present](https://www.goodreads.com/book/show/18941244-sex-criminals-3)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/19
 - **Fin:** 2018/08/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

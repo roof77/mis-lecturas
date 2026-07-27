@@ -24,17 +24,18 @@ Buddy y los Bradley nos ofrece las primeras aventuras del pringado de Buddy Brad
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Buddy y los Bradley (#1)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 84 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478333517 / 9788478333516
 - **Publicación original:** 2003-01-01
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Buddy y los Bradley: Aquellos odiosos años (Buddy y los Bradley, #1)](https://www.goodreads.com/book/show/5982502-buddy-y-los-bradley)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/09
 - **Fin:** 2026/05/10
+- **Calificación:** Muy bien/5

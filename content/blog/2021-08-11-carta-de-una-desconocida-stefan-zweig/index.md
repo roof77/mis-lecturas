@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
+- Clásico
+- Ficción
 - Romance
-- Short Stories
-- German Literature
-- Literature
+- Relatos
+- Literatura alemana
+- Literatura
+- Novela
+- Drama
+- Novella
 autores:
 - Stefan Zweig
+- Berta Conill Purgimon
 editoriales:
 - Acantilado
 image:
@@ -29,18 +33,18 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Stefan Zweig
-- **Colaboradores:** Berta Conill Purgimon (Translator)
+- **Autor:** [Stefan Zweig](/autores/stefan-zweig/)
+- **Colaboradores:** [Berta Conill Purgimon](/autores/berta-conill-purgimon/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 72 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8495359472 / 9788495359476
 - **Publicación original:** 2002-01-18
-- **Géneros:** Classics, Fiction, Romance, Short Stories, German Literature, Literature, Novels, Audiobook, Drama, Novella
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Relatos](/tags/relatos/), [Literatura alemana](/tags/literatura-alemana/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Drama](/tags/drama/), [Novella](/tags/novella/)
 - **Ficha en Goodreads:** [Carta de una desconocida](https://www.goodreads.com/book/show/45732.Carta_de_una_desconocida)
 
 ## Mi lectura
 
 - **Inicio:** 2021/08/11
 - **Fin:** 2021/08/11
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Biography
-- History
+- No Ficción
+- Biografía
+- Historia
 - Shakespeare
-- Audiobook
-- Historical
+- Histórico
+- Memorias
+- Humor
+- Literatura
+- Literatura británica
 autores:
 - Bill Bryson
+- Andres Ehrenhaus
 editoriales:
 - RBA Libros
 image:
@@ -29,13 +33,13 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Bill Bryson
-- **Colaboradores:** Andres Ehrenhaus (Translator)
+- **Autor:** [Bill Bryson](/autores/bill-bryson/)
+- **Colaboradores:** [Andres Ehrenhaus](/autores/andres-ehrenhaus/) (Translator)
 - **Editorial:** RBA Libros
 - **Formato:** Kindle Edition, 187 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2013-04-30
-- **Géneros:** Nonfiction, Biography, History, Shakespeare, Audiobook, Historical, Biography Memoir, Humor, Literature, British Literature
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Historia](/tags/historia/), [Shakespeare](/tags/shakespeare/), [Histórico](/tags/historico/), [Memorias](/tags/memorias/), [Humor](/tags/humor/), [Literatura](/tags/literatura/), [Literatura británica](/tags/literatura-britanica/)
 - **Personajes:** William Shakespeare
 - **Ficha en Goodreads:** [Shakespeare (DIVULGACIÓN nº 347) (Spanish Edition)](https://www.goodreads.com/book/show/20659953-shakespeare-divulgaci-n-n-347)
 
@@ -43,4 +47,4 @@ image:
 
 - **Inicio:** 2014/01/20
 - **Fin:** 2014/01/22
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

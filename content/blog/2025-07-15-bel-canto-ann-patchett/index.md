@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Book Club
-- Literary Fiction
-- Contemporary
-- Historical Fiction
-- Audiobook
+- Ficción
+- Club de lectura
+- Ficción Literaria
+- Contemporaneo
+- Ficción histórica
+- Música
+- Novela
+- Literatura
+- Ficción adulta
 autores:
 - Ann Patchett
 editoriales:
@@ -29,13 +32,13 @@ En algún lugar de Sudamérica, el vicepresidente de la nación celebra en su re
 
 ## Ficha del libro
 
-- **Autor:** Ann Patchett
+- **Autor:** [Ann Patchett](/autores/ann-patchett/)
 - **Editorial:** DIAGONAL
 - **Formato:** Hardcover, 381 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8497620577 / 9788497620574
 - **Publicación original:** 2003-01-01
-- **Géneros:** Fiction, Book Club, Literary Fiction, Contemporary, Historical Fiction, Audiobook, Music, Novels, Literature, Adult Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Ficción histórica](/tags/ficcion-historica/), [Música](/tags/musica/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Personajes:** Katsumi Hosokawa, Roxane Coss, Gen Watanabe, Carmen Lowell
 - **Lugares:** South America
 - **Premios ganados:** Orange Prize (2002), Book Sense Book of the Year Award (2003), PEN/Faulkner Award for Fiction (2002)
@@ -46,4 +49,4 @@ En algún lugar de Sudamérica, el vicepresidente de la nación celebra en su re
 
 - **Inicio:** 2025/07/06
 - **Fin:** 2025/07/15
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

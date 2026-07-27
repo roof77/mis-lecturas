@@ -7,10 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Family
+- Ficción
+- Familia
 autores:
 - Jane Smiley
+- Francisco González López
 editoriales:
 - Sexto Piso
 image:
@@ -27,18 +28,18 @@ En Un amor cualquiera, Jane Smiley retoma el universo de las relaciones familiar
 
 ## Ficha del libro
 
-- **Autor:** Jane Smiley
-- **Colaboradores:** Francisco González López (Translator)
+- **Autor:** [Jane Smiley](/autores/jane-smiley/)
+- **Colaboradores:** [Francisco González López](/autores/francisco-gonzalez-lopez/) (Translator)
 - **Editorial:** Sexto Piso
 - **Formato:** Paperback, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417517707 / 9788417517700
 - **Publicación original:** 2020-06-15
-- **Géneros:** Fiction, Family
+- **Géneros:** [Ficción](/tags/ficcion/), [Familia](/tags/familia/)
 - **Ficha en Goodreads:** [Un amor cualquiera](https://www.goodreads.com/book/show/53443162-un-amor-cualquiera)
 
 ## Mi lectura
 
 - **Inicio:** 2020/12/21
 - **Fin:** 2020/12/21
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

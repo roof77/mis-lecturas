@@ -8,11 +8,14 @@ authors:
 tags:
 - Lecturas
 - Queer
-- Fiction
-- LGBT
-- Contemporary
-- Feminism
-- Transgender
+- Ficción
+- LGTBIQ+
+- Contemporaneo
+- Feminismo
+- Transgenero
+- Literatura hispana
+- Realismo mágico
+- Ficción Literaria
 autores:
 - Camila Sosa Villada
 editoriales:
@@ -31,13 +34,13 @@ Cuando llegó a Córdoba capital para estudiar en la universidad, Camila Sosa Vi
 
 ## Ficha del libro
 
-- **Autor:** Camila Sosa Villada
+- **Autor:** [Camila Sosa Villada](/autores/camila-sosa-villada/)
 - **Editorial:** Tusquets
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9876704818 / 9789876704816
 - **Publicación original:** 2019-03-01
-- **Géneros:** Queer, Fiction, LGBT, Contemporary, Feminism, Transgender, Spanish Literature, Magical Realism, Audiobook, Literary Fiction
+- **Géneros:** [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Contemporaneo](/tags/contemporaneo/), [Feminismo](/tags/feminismo/), [Transgenero](/tags/transgenero/), [Literatura hispana](/tags/literatura-hispana/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Lugares:** Cordoba, Argentina (Argentina), Argentina
 - **Premios ganados:** Premio Sor Juana Inés de la Cruz (2020)
 - **Ficha en Goodreads:** [Las malas](https://www.goodreads.com/book/show/44438256-las-malas)
@@ -46,4 +49,4 @@ Cuando llegó a Córdoba capital para estudiar en la universidad, Camila Sosa Vi
 
 - **Inicio:** 2020/11/10
 - **Fin:** 2020/12/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

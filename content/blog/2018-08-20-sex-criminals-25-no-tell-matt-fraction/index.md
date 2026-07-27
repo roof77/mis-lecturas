@@ -8,12 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels Comics
-- Comic Book
-- Graphic Novels
-- Fantasy
+- Novela gráfica
+- Fantasía
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -30,18 +29,18 @@ How have we gotten through 24 issues already and not made an "exciting climax" j
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Unknown Binding
 - **Idioma:** English
 - **Publicación original:** 2018-06-27
-- **Géneros:** Comics, Graphic Novels Comics, Comic Book, Graphic Novels, Fantasy
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Sex Criminals #25: No Tell](https://www.goodreads.com/book/show/40207692-sex-criminals-25)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

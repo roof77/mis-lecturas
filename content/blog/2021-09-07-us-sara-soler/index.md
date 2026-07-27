@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- LGBT
+- Novela gráfica
+- LGTBIQ+
 - Queer
-- Nonfiction
+- No Ficción
 - Comics
-- Memoir
+- Memorias
+- Romance
+- Transgenero
+- Lesbianismo
 autores:
 - Sara Soler
 editoriales:
@@ -33,17 +36,17 @@ Us pretende visibilizar la realidad trans y aportar su visión y su granito de a
 
 ## Ficha del libro
 
-- **Autor:** Sara Soler
+- **Autor:** [Sara Soler](/autores/sara-soler/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 144 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418215186 / 9788418215186
 - **Publicación original:** 2021-05-20
-- **Géneros:** Graphic Novels, LGBT, Queer, Nonfiction, Comics, Memoir, Romance, Transgender, Lesbian, Bande Dessinée
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [No Ficción](/tags/no-ficcion/), [Comics](/tags/comics/), [Memorias](/tags/memorias/), [Romance](/tags/romance/), [Transgenero](/tags/transgenero/), [Lesbianismo](/tags/lesbianismo/)
 - **Ficha en Goodreads:** [Us](https://www.goodreads.com/book/show/58089618-us)
 
 ## Mi lectura
 
 - **Inicio:** 2021/09/07
 - **Fin:** 2021/09/07
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

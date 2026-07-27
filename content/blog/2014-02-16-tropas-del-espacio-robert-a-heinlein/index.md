@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Classics
-- Military Fiction
-- War
-- Science Fiction Fantasy
+- Ciencia ficción
+- Ficción
+- Clásico
+- Ficción militar
+- Guerra
+- Ciencia Ficción
+- Fantasía
+- Space Opera
+- Espacio
 autores:
 - Robert A. Heinlein
 editoriales:
@@ -29,13 +32,13 @@ Starship Troopers narra la formación de un soldado espacial y su aceptación fi
 
 ## Ficha del libro
 
-- **Autor:** Robert A. Heinlein
+- **Autor:** [Robert A. Heinlein](/autores/robert-a-heinlein/)
 - **Editorial:** Martinez Roca
 - **Formato:** Paperback, 242 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8427007345 / 9788427007345
 - **Publicación original:** 1982-01-01
-- **Géneros:** Science Fiction, Fiction, Classics, Military Fiction, War, Science Fiction Fantasy, Audiobook, Space Opera, Fantasy, Space
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción militar](/tags/ficcion-militar/), [Guerra](/tags/guerra/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Space Opera](/tags/space-opera/), [Espacio](/tags/espacio/)
 - **Personajes:** Juan Rico
 - **Premios ganados:** Hugo Award (-315590400000)
 - **Ficha en Goodreads:** [Tropas del espacio](https://www.goodreads.com/book/show/1911989.Tropas_del_espacio)
@@ -44,4 +47,4 @@ Starship Troopers narra la formación de un soldado espacial y su aceptación fi
 
 - **Inicio:** 2014/02/12
 - **Fin:** 2014/02/16
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

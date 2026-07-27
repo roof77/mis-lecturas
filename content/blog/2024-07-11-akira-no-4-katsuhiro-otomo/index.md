@@ -9,10 +9,13 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Graphic Novels
-- Science Fiction
-- Fiction
+- Novela gráfica
+- Ciencia ficción
+- Ficción
 - Cyberpunk
+- Japón
+- Literatura japanesa
+- Distopía
 autores:
 - Katsuhiro Otomo
 editoriales:
@@ -29,18 +32,18 @@ Tokio se encuentra en un estado post apocalíptico. La respuesta para detener a 
 
 ## Ficha del libro
 
-- **Autor:** Katsuhiro Otomo
+- **Autor:** [Katsuhiro Otomo](/autores/katsuhiro-otomo/)
 - **Serie:** Akira [アキラ] (#4)
 - **Editorial:** NORMA EDITORIAL, S.A.
 - **Formato:** Paperback, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498144183 / 9788498144185
 - **Publicación original:** 2005-08-01
-- **Géneros:** Manga, Comics, Graphic Novels, Science Fiction, Fiction, Cyberpunk, Japan, Japanese Literature, Comics Manga, Dystopia
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Distopía](/tags/distopia/)
 - **Ficha en Goodreads:** [Akira, No. 4](https://www.goodreads.com/book/show/13052297-akira-no-4)
 
 ## Mi lectura
 
 - **Inicio:** 2024/07/11
 - **Fin:** 2024/07/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

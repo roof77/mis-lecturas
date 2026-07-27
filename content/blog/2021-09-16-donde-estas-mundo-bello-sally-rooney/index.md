@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Romance
-- Contemporary
-- Literary Fiction
-- Audiobook
-- Book Club
+- Contemporaneo
+- Ficción Literaria
+- Club de lectura
+- Irlanda
+- Adultos
+- Literatura irlandesa
+- Novela
 autores:
 - Sally Rooney
+- Inga Pellisa
 editoriales:
 - Literatura Random House
 image:
@@ -33,14 +37,14 @@ Alice, Felix, Eileen y Simon todavía son jóvenes, pero pronto dejarán de serl
 
 ## Ficha del libro
 
-- **Autor:** Sally Rooney
-- **Colaboradores:** Inga Pellisa (Translator)
+- **Autor:** [Sally Rooney](/autores/sally-rooney/)
+- **Colaboradores:** [Inga Pellisa](/autores/inga-pellisa/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Mass Market Paperback, 326 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439739230 / 9788439739234
 - **Publicación original:** 2021-09-09
-- **Géneros:** Fiction, Romance, Contemporary, Literary Fiction, Audiobook, Book Club, Ireland, Adult, Irish Literature, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Irlanda](/tags/irlanda/), [Adultos](/tags/adultos/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Novela](/tags/novela/)
 - **Lugares:** Ireland, Rome (Italy), Dublin (Ireland), Italy
 - **Premios ganados:** Goodreads Choice Award (2021), Irish Book Awards (2021)
 - **Nominaciones:** British Book Award (2022), Europese Literatuurprijs (2022), Writers' Prize (2022), Readers' Favorite Fiction (2021)
@@ -50,4 +54,4 @@ Alice, Felix, Eileen y Simon todavía son jóvenes, pero pronto dejarán de serl
 
 - **Inicio:** 2021/09/11
 - **Fin:** 2021/09/16
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Russia
-- Classics
-- Dystopia
-- Russian Literature
+- Ciencia ficción
+- Ficción
+- Rusia
+- Clásico
+- Distopía
+- Literatura rusa
+- Fantasía
+- Novela
+- Club de lectura
 autores:
 - Arkady Strugatsky
+- Boris Strugatsky
+- Miquel Barceló
 editoriales:
 - Nova
 image:
@@ -33,14 +38,14 @@ Los hermanos Strugatski -Arkadi, el mayor, filólogo especializado en lenguas or
 
 ## Ficha del libro
 
-- **Autor:** Arkady Strugatsky
-- **Colaboradores:** Boris Strugatsky (Author), Miquel  Barceló (Translator)
+- **Autor:** [Arkady Strugatsky](/autores/arkady-strugatsky/)
+- **Colaboradores:** [Boris Strugatsky](/autores/boris-strugatsky/) (Author), [Miquel Barceló](/autores/miquel-barcelo/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Paperback, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788466605151
 - **Publicación original:** 2001-07-01
-- **Géneros:** Science Fiction, Fiction, Russia, Classics, Dystopia, Russian Literature, Fantasy, Audiobook, Novels, Book Club
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Rusia](/tags/rusia/), [Clásico](/tags/clasico/), [Distopía](/tags/distopia/), [Literatura rusa](/tags/literatura-rusa/), [Fantasía](/tags/fantasia/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Red Schuhart
 - **Lugares:** Russia
 - **Premios ganados:** Graoully d'Or (1981)
@@ -51,4 +56,4 @@ Los hermanos Strugatski -Arkadi, el mayor, filólogo especializado en lenguas or
 
 - **Inicio:** 2014/04/23
 - **Fin:** 2014/04/27
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

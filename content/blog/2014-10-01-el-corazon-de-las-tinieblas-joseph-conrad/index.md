@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Literature
-- Historical Fiction
-- Africa
-- School
+- Clásico
+- Ficción
+- Literatura
+- Ficción histórica
+- África
+- Colegio
+- Novela
+- Aventuras
 autores:
 - Joseph Conrad
+- Sergio Pitol
+- Mario Vargas Llosa
 editoriales:
 - Editorial Sudamericana S.A.
 image:
@@ -31,14 +35,14 @@ Una travesía frenética en el corazón de un continente hostil y devastado, don
 
 ## Ficha del libro
 
-- **Autor:** Joseph Conrad
-- **Colaboradores:** Sergio Pitol (Translator), Mario Vargas Llosa (Prologue)
+- **Autor:** [Joseph Conrad](/autores/joseph-conrad/)
+- **Colaboradores:** [Sergio Pitol](/autores/sergio-pitol/) (Translator), [Mario Vargas Llosa](/autores/mario-vargas-llosa/) (Prologue)
 - **Editorial:** Editorial Sudamericana S.A.
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9875662100 / 9789875662100
 - **Publicación original:** 2006-10-01
-- **Géneros:** Classics, Fiction, Literature, Historical Fiction, Africa, School, Novels, Audiobook, Adventure, Read For School
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Literatura](/tags/literatura/), [Ficción histórica](/tags/ficcion-historica/), [África](/tags/africa/), [Colegio](/tags/colegio/), [Novela](/tags/novela/), [Aventuras](/tags/aventuras/)
 - **Personajes:** Charles Marlow, Kurtz
 - **Lugares:** Africa, Brussels (Belgium), Belgium, Congo (Congo, the Democratic Republic of the), Central Africa
 - **Ficha en Goodreads:** [El corazón de las tinieblas](https://www.goodreads.com/book/show/74505.El_coraz_n_de_las_tinieblas)
@@ -47,4 +51,4 @@ Una travesía frenética en el corazón de un continente hostil y devastado, don
 
 - **Inicio:** 2014/09/29
 - **Fin:** 2014/10/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

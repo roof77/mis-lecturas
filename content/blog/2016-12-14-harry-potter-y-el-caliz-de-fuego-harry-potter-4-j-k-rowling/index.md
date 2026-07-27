@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Young Adult
+- Fantasía
+- Ficción
+- Jovenes adultos
 - Harry Potter
-- Magic
-- Audiobook
+- Mágia
+- Niños
+- Aventuras
+- Clásico
 autores:
 - J.K. Rowling
 editoriales:
@@ -29,14 +31,14 @@ Tras otro abominable verano con los Dursley, Harry se dispone a iniciar el cuart
 
 ## Ficha del libro
 
-- **Autor:** J.K. Rowling
+- **Autor:** [J.K. Rowling](/autores/j-k-rowling/)
 - **Serie:** Harry Potter (#4)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 672 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478886451 / 9788478886456
 - **Publicación original:** 2001-03-01
-- **Géneros:** Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook, Childrens, Middle Grade, Adventure, Classics
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)
 - **Personajes:** Sirius Black, Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Severus Snape, Rubeus Hagrid, Lord Voldemort, Minerva McGonagall, Neville Longbottom
 - **Lugares:** Hogwarts School of Witchcraft and Wizardry (United Kingdom), Scotland, United Kingdom
 - **Premios ganados:** Hugo Award (2001), Mythopoeic Fantasy Award (2008), Publieksprijs voor het Nederlandse Boek (2001), Audie Award (2001), West Australian Young Readers' Book Award (WAYRBA) (2001), Golden Archer Award (2002), Indian Paintbrush Book Award (2002), Deutscher Buchpreis (German Book Prize), Corine Internationaler Buchpreis (2001)
@@ -46,4 +48,4 @@ Tras otro abominable verano con los Dursley, Harry se dispone a iniciar el cuart
 
 - **Inicio:** 2016/12/08
 - **Fin:** 2016/12/14
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

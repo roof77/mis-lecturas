@@ -7,14 +7,21 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- War
-- Historical Fiction
-- Crime
-- Classics
-- Novels
+- Ficción
+- Guerra
+- Ficción histórica
+- Crimen
+- Clásico
+- Novela
+- Literatura
+- Misterio
+- Thriller
+- Ficción Literaria
 autores:
-- Robert  Stone
+- Robert Stone
+- Rodrigo Fresán
+- Mariano Antolín
+- Inga Pellisa
 editoriales:
 - Libros del Silencio
 image:
@@ -33,14 +40,14 @@ Todo ello con un ritmo brutal y una mirada despiadada que sitúan Dog Soldiers e
 
 ## Ficha del libro
 
-- **Autor:** Robert  Stone
-- **Colaboradores:** Rodrigo Fresán (Contributor), Mariano Antolín (Translator), Inga Pellisa (Translator)
+- **Autor:** [Robert Stone](/autores/robert-stone/)
+- **Colaboradores:** [Rodrigo Fresán](/autores/rodrigo-fresan/) (Contributor), [Mariano Antolín](/autores/mariano-antolin/) (Translator), [Inga Pellisa](/autores/inga-pellisa/) (Translator)
 - **Editorial:** Libros del Silencio
 - **Formato:** Paperback, 432 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493785652 / 9788493785659
 - **Publicación original:** 2010-10-01
-- **Géneros:** Fiction, War, Historical Fiction, Crime, Classics, Novels, Literature, Mystery, Thriller, Literary Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Guerra](/tags/guerra/), [Ficción histórica](/tags/ficcion-historica/), [Crimen](/tags/crimen/), [Clásico](/tags/clasico/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Lugares:** Saigon (Viet Nam), San Francisco, California (United States)
 - **Premios ganados:** National Book Award (1975)
 - **Ficha en Goodreads:** [Dog Soldiers](https://www.goodreads.com/book/show/12543800-dog-soldiers)
@@ -49,4 +56,4 @@ Todo ello con un ritmo brutal y una mirada despiadada que sitúan Dog Soldiers e
 
 - **Inicio:** 2019/05/16
 - **Fin:** 2019/05/29
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

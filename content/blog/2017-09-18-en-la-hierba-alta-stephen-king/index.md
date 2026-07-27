@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Short Stories
-- Fiction
-- Audiobook
+- Terror
+- Relatos
+- Ficción
 - Thriller
-- Ebooks
+- Novella
+- Fantasía
+- Adultos
+- Paranormal
 autores:
-- Stephen  King
+- Stephen King
+- Joe Hill
+- Manu Viciano
 editoriales:
 - RHM FLASH
 image:
@@ -39,14 +43,14 @@ Una historia terrorífica narrada con la maestría insuperable de Stephen King.
 
 ## Ficha del libro
 
-- **Autor:** Stephen  King
-- **Colaboradores:** Joe  Hill (Author), Manu Viciano (Translator)
+- **Autor:** [Stephen King](/autores/stephen-king/)
+- **Colaboradores:** [Joe Hill](/autores/joe-hill/) (Author), [Manu Viciano](/autores/manu-viciano/) (Translator)
 - **Editorial:** RHM FLASH
 - **Formato:** Kindle Edition, 56 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788415597742
 - **Publicación original:** 2013-10-17
-- **Géneros:** Horror, Short Stories, Fiction, Audiobook, Thriller, Ebooks, Novella, Fantasy, Adult, Paranormal
+- **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Novella](/tags/novella/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Paranormal](/tags/paranormal/)
 - **Premios ganados:** This is Horror Award (2012)
 - **Ficha en Goodreads:** [En la hierba alta](https://www.goodreads.com/book/show/18755202-en-la-hierba-alta)
 
@@ -54,4 +58,4 @@ Una historia terrorífica narrada con la maestría insuperable de Stephen King.
 
 - **Inicio:** 2017/09/17
 - **Fin:** 2017/09/18
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

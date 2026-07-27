@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Thriller
-- Mystery
-- Espionage
-- Audiobook
-- Crime
+- Misterio
+- Espionaje
+- Crimen
+- Espías
+- Literatura británica
+- Suspense
 autores:
 - Mick Herron
 editoriales:
@@ -31,14 +33,14 @@ Y aunque todos los indicios apuntan a un fulminante ataque al corazón, Jackson 
 
 ## Ficha del libro
 
-- **Autor:** Mick Herron
+- **Autor:** [Mick Herron](/autores/mick-herron/)
 - **Serie:** Slough House (#2)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418107235 / 9788418107238
 - **Publicación original:** 2020-09-03
-- **Géneros:** Fiction, Thriller, Mystery, Espionage, Audiobook, Crime, Mystery Thriller, Spy Thriller, British Literature, Suspense
+- **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Espionaje](/tags/espionaje/), [Crimen](/tags/crimen/), [Espías](/tags/espias/), [Literatura británica](/tags/literatura-britanica/), [Suspense](/tags/suspense/)
 - **Personajes:** Jackson Lamb, David Cartwright, James Webb., Min Harper, Richard Bough, Alexander Popov, Arkady Pashkin, Piotr & Kiril, Rebecca Mitchell., Marcus Longridge
 - **Lugares:** London, England, Upshott, Gloucestershire, England
 - **Premios ganados:** CWA Gold Dagger (2013)
@@ -48,4 +50,4 @@ Y aunque todos los indicios apuntan a un fulminante ataque al corazón, Jackson 
 
 - **Inicio:** 2022/04/23
 - **Fin:** 2022/05/04
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

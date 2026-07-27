@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- Gothic
-- Historical Fiction
-- Audiobook
+- Terror
+- Fantasía
+- Ficción
+- Gótico
+- Ficción histórica
+- Misterio
+- Gótico sureño
+- Thriller
+- Histórico
 autores:
 - Michael McDowell
+- Elena Cantoni
 editoriales:
 - BEAT
 image:
@@ -30,19 +34,19 @@ Una scoperta sorprendente e miracolosa – eccetto che per una persona – distr
 
 ## Ficha del libro
 
-- **Autor:** Michael McDowell
+- **Autor:** [Michael McDowell](/autores/michael-mcdowell/)
 - **Serie:** Blackwater (#5)
-- **Colaboradores:** Elena Cantoni (Translator)
+- **Colaboradores:** [Elena Cantoni](/autores/elena-cantoni/) (Translator)
 - **Editorial:** BEAT
 - **Formato:** Kindle Edition, 186 páginas
 - **Idioma:** Italian
 - **ISBN:** 9791255020691
 - **Publicación original:** 2023-03-14
-- **Géneros:** Horror, Fantasy, Fiction, Gothic, Historical Fiction, Audiobook, Mystery, Southern Gothic, Thriller, Historical
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Gótico sureño](/tags/gotico-sureno/), [Thriller](/tags/thriller/), [Histórico](/tags/historico/)
 - **Ficha en Goodreads:** [La fortuna (Blackwater, #5)](https://www.goodreads.com/book/show/71448863-la-fortuna)
 
 ## Mi lectura
 
 - **Inicio:** 2024/04/18
 - **Fin:** 2024/04/21
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Russia
-- Spain
-- Historical Fiction
+- Ficción
+- Rusia
+- España
+- Ficción histórica
 autores:
 - Manuel Chaves Nogales
+- Andrés Trapiello
 editoriales:
 - Libros del Asteroide
 image:
@@ -27,18 +28,18 @@ Después de triunfar en los cabarets de media Europa, el bailarín flamenco Juan
 
 ## Ficha del libro
 
-- **Autor:** Manuel Chaves Nogales
-- **Colaboradores:** Andrés Trapiello (Contributor)
+- **Autor:** [Manuel Chaves Nogales](/autores/manuel-chaves-nogales/)
+- **Colaboradores:** [Andrés Trapiello](/autores/andres-trapiello/) (Contributor)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493501867 / 9788493501860
 - **Publicación original:** 2007-02-01
-- **Géneros:** Fiction, Russia, Spain, Historical Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Rusia](/tags/rusia/), [España](/tags/espana/), [Ficción histórica](/tags/ficcion-historica/)
 - **Ficha en Goodreads:** [El maestro Juan Martínez que estaba allí](https://www.goodreads.com/book/show/2788920-el-maestro-juan-mart-nez-que-estaba-all)
 
 ## Mi lectura
 
 - **Inicio:** 2025/05/26
 - **Fin:** 2025/05/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

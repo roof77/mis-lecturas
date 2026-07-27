@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Music
-- Nonfiction
-- Memoir
-- Biography
-- History
-- Pop Culture
+- Música
+- No Ficción
+- Memorias
+- Biografía
+- Historia
+- Cultura Pop
+- Autobiografía
+- Literatura británica
+- Negocios
 autores:
 - Peter Hook
 editoriales:
@@ -29,17 +32,17 @@ After Ian Curtis’s suicide in 1980, the members of Joy Division reformed as Ne
 
 ## Ficha del libro
 
-- **Autor:** Peter Hook
+- **Autor:** [Peter Hook](/autores/peter-hook/)
 - **Editorial:** Contra
 - **Formato:** Paperback, 448 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494968440 / 9788494968440
 - **Publicación original:** 2019-12-01
-- **Géneros:** Music, Nonfiction, Memoir, Biography, History, Pop Culture, Autobiography, Audiobook, British Literature, Business
+- **Géneros:** [Música](/tags/musica/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Historia](/tags/historia/), [Cultura Pop](/tags/cultura-pop/), [Autobiografía](/tags/autobiografia/), [Literatura británica](/tags/literatura-britanica/), [Negocios](/tags/negocios/)
 - **Ficha en Goodreads:** [The Haçienda: Cómo no dirigir un club (Spanish Edition)](https://www.goodreads.com/book/show/44025626-the-ha-ienda)
 
 ## Mi lectura
 
 - **Inicio:** 2020/01/07
 - **Fin:** 2020/01/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

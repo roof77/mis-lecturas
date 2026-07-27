@@ -8,6 +8,9 @@ tags:
 - Lecturas
 autores:
 - Grant Morrison
+- Chris Weston
+- Gary Erskine
+- Matt Hollingsworth
 editoriales:
 - Norma Editorial (Vertigo Comics)
 image:
@@ -22,8 +25,8 @@ Volumen que traduce los números 9 al 13 del título estadounidense The Filth.
 
 ## Ficha del libro
 
-- **Autor:** Grant Morrison
-- **Colaboradores:** Chris Weston (Dibujo), Gary Erskine (Tinta), Matt Hollingsworth (Color)
+- **Autor:** [Grant Morrison](/autores/grant-morrison/)
+- **Colaboradores:** [Chris Weston](/autores/chris-weston/) (Dibujo), [Gary Erskine](/autores/gary-erskine/) (Tinta), [Matt Hollingsworth](/autores/matt-hollingsworth/) (Color)
 - **Editorial:** Norma Editorial (Vertigo Comics)
 - **Formato:** Paperback, 121 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +38,4 @@ Volumen que traduce los números 9 al 13 del título estadounidense The Filth.
 
 - **Inicio:** 2025/01/30
 - **Fin:** 2025/01/30
-- **Mi valoración:** ★★★☆☆ (3,25/5)
+- **Calificación:** ★★★☆☆ (3,25/5)

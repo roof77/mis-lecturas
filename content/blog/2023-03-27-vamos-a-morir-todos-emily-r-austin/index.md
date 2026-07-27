@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- LGBT
+- Ficción
+- Contemporaneo
+- LGTBIQ+
 - Queer
-- Mental Health
-- Audiobook
+- Salud mentál
+- Lesbianismo
+- Ficción Literaria
+- Adultos
+- Club de lectura
 autores:
 - Emily R. Austin
+- Julia Viejo
 editoriales:
 - Blackie Books
 image:
@@ -29,14 +33,14 @@ Gilda teme a la muerte, lo normal. Solo que también le da miedo seguir viva, y 
 
 ## Ficha del libro
 
-- **Autor:** Emily R. Austin
-- **Colaboradores:** Julia Viejo (Translator)
+- **Autor:** [Emily R. Austin](/autores/emily-r-austin/)
+- **Colaboradores:** [Julia Viejo](/autores/julia-viejo/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 280 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419172960 / 9788419172969
 - **Publicación original:** 2023-03-08
-- **Géneros:** Fiction, Contemporary, LGBT, Queer, Mental Health, Audiobook, Lesbian, Literary Fiction, Adult, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Salud mentál](/tags/salud-mental/), [Lesbianismo](/tags/lesbianismo/), [Ficción Literaria](/tags/ficcion-literaria/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/)
 - **Lugares:** St. Thomas, Ontario (Canada), Ontario (Canada)
 - **Nominaciones:** Stephen Leacock Memorial Medal (2022), Ottawa Book Award (2022), Amazon Canada First Novel Award (2022)
 - **Ficha en Goodreads:** [Vamos a morir todos](https://www.goodreads.com/book/show/122969874-vamos-a-morir-todos)
@@ -45,4 +49,4 @@ Gilda teme a la muerte, lo normal. Solo que también le da miedo seguir viva, y 
 
 - **Inicio:** 2023/03/20
 - **Fin:** 2023/03/27
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

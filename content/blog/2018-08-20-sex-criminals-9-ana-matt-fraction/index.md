@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Fantasy
-- Sequential Art
-- Bande Dessinée
+- Novela gráfica
+- Fantasía
+- Sexualidad
+- Humor
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -29,18 +29,18 @@ Suze and Jon meet Ana. Or rather, meet Ana AGAIN. Or should we say, meet...Ms. J
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Art)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Art)
 - **Editorial:** Image Comics
 - **Formato:** Comic, 32 páginas
 - **Idioma:** English
 - **Publicación original:** 2014-12-10
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Fantasy, Sequential Art, Bande Dessinée, Ebooks, Sexuality, Humor
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Sexualidad](/tags/sexualidad/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Sex Criminals #9: Ana](https://www.goodreads.com/book/show/23751779-sex-criminals-9)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

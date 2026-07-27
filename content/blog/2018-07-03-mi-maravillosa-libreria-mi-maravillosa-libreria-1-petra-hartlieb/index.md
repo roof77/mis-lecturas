@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Books About Books
-- Biography
-- German Literature
-- Contemporary
-- Memoir
+- No Ficción
+- Libros sobre libros
+- Biografía
+- Literatura alemana
+- Contemporaneo
+- Memorias
+- Club de lectura
+- Humor
 autores:
 - Petra Hartlieb
+- Manolo Laguillo
 editoriales:
 - Periférica
 image:
@@ -29,15 +32,15 @@ Petra Hartlieb tiene ahora una gran familia, un perro y una librería. Diez año
 
 ## Ficha del libro
 
-- **Autor:** Petra Hartlieb
+- **Autor:** [Petra Hartlieb](/autores/petra-hartlieb/)
 - **Serie:** Meine wundervolle Buchhandlung (#1)
-- **Colaboradores:** Manolo Laguillo (Translator)
+- **Colaboradores:** [Manolo Laguillo](/autores/manolo-laguillo/) (Translator)
 - **Editorial:** Periférica
 - **Formato:** Paperback, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416291217 / 9788416291212
 - **Publicación original:** 2015-10-21
-- **Géneros:** Nonfiction, Books About Books, Biography, German Literature, Contemporary, Memoir, Roman, Book Club, Biography Memoir, Humor
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Libros sobre libros](/tags/libros-sobre-libros/), [Biografía](/tags/biografia/), [Literatura alemana](/tags/literatura-alemana/), [Contemporaneo](/tags/contemporaneo/), [Memorias](/tags/memorias/), [Club de lectura](/tags/club-de-lectura/), [Humor](/tags/humor/)
 - **Lugares:** Vienna (Austria)
 - **Ficha en Goodreads:** [Mi maravillosa librería (Mi maravillosa librería, #1)](https://www.goodreads.com/book/show/27272970-mi-maravillosa-librer-a)
 
@@ -45,4 +48,4 @@ Petra Hartlieb tiene ahora una gran familia, un perro y una librería. Diez año
 
 - **Inicio:** 2018/07/01
 - **Fin:** 2018/07/03
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Feminism
-- Memoir
+- No Ficción
+- Feminismo
+- Memorias
 - Humor
-- Biography
-- Book Club
+- Biografía
+- Club de lectura
+- Mujeres
+- Ensayo
 autores:
 - Caitlin Moran
+- Marta Salís
 editoriales:
 - Anagrama
 image:
@@ -31,14 +34,14 @@ Así, alternando provocativas observaciones sobre la vida de las mujeres con his
 
 ## Ficha del libro
 
-- **Autor:** Caitlin Moran
-- **Colaboradores:** Marta Salís (Translator)
+- **Autor:** [Caitlin Moran](/autores/caitlin-moran/)
+- **Colaboradores:** [Marta Salís](/autores/marta-salis/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 354 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433978705 / 9788433978707
 - **Publicación original:** 2013-06-01
-- **Géneros:** Nonfiction, Feminism, Memoir, Humor, Biography, Book Club, Audiobook, Biography Memoir, Womens, Essays
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Memorias](/tags/memorias/), [Humor](/tags/humor/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Mujeres](/tags/mujeres/), [Ensayo](/tags/ensayo/)
 - **Premios ganados:** Galaxy National Book Award (2011)
 - **Nominaciones:** Goodreads Choice Award (2012)
 - **Ficha en Goodreads:** [Cómo ser mujer](https://www.goodreads.com/book/show/18171929-c-mo-ser-mujer)
@@ -47,4 +50,4 @@ Así, alternando provocativas observaciones sobre la vida de las mujeres con his
 
 - **Inicio:** 2014/03/23
 - **Fin:** 2014/03/26
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

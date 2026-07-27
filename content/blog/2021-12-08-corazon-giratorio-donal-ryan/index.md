@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Ireland
-- Irish Literature
-- Contemporary
-- Literary Fiction
-- Book Club
+- Ficción
+- Irlanda
+- Literatura irlandesa
+- Contemporaneo
+- Ficción Literaria
+- Club de lectura
+- Novela
+- Ficción adulta
+- Literatura
+- Relatos
 autores:
 - Donal Ryan
 editoriales:
@@ -31,14 +35,14 @@ Donal Ryan debutó en 2012 con esta novela, galardonada con varios premios y nom
 
 ## Ficha del libro
 
-- **Autor:** Donal Ryan
+- **Autor:** [Donal Ryan](/autores/donal-ryan/)
 - **Serie:** Rust (#1)
 - **Editorial:** Sajalín
 - **Formato:** Paperback, 177 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849485013X / 9788494850134
 - **Publicación original:** 2019-05-01
-- **Géneros:** Fiction, Ireland, Irish Literature, Contemporary, Literary Fiction, Book Club, Novels, Adult Fiction, Literature, Short Stories
+- **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Ficción adulta](/tags/ficcion-adulta/), [Literatura](/tags/literatura/), [Relatos](/tags/relatos/)
 - **Lugares:** Ireland
 - **Premios ganados:** Guardian First Book Award (2013), Bord Gáis Energy Irish Book Award (2012), Sunday Independent Newcomer of the Year (2012)
 - **Nominaciones:** Booker Prize (2013), Dublin Literary Award (2014)
@@ -48,4 +52,4 @@ Donal Ryan debutó en 2012 con esta novela, galardonada con varios premios y nom
 
 - **Inicio:** 2021/12/01
 - **Fin:** 2021/12/08
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

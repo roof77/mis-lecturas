@@ -7,10 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Spanish Literature
-- Horror
-- Womens
+- No Ficción
+- Literatura hispana
+- Terror
+- Mujeres
 autores:
 - María Fernanda Ampuero
 editoriales:
@@ -27,15 +27,15 @@ Un cadáver contagiado de virus covid yace amortajado sobre un sofá doméstico 
 
 ## Ficha del libro
 
-- **Autor:** María Fernanda Ampuero
+- **Autor:** [María Fernanda Ampuero](/autores/maria-fernanda-ampuero/)
 - **Editorial:** Páginas de Espuma
 - **Formato:** Unknown Binding
 - **Publicación original:** 2024-01-01
-- **Géneros:** Nonfiction, Spanish Literature, Horror, Womens
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Terror](/tags/terror/), [Mujeres](/tags/mujeres/)
 - **Ficha en Goodreads:** [Visceral](https://www.goodreads.com/book/show/204112798-visceral)
 
 ## Mi lectura
 
 - **Inicio:** 2024/05/10
 - **Fin:** 2024/05/13
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

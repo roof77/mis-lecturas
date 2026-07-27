@@ -9,12 +9,25 @@ tags:
 - Lecturas
 - Comics
 - Marvel
-- Graphic Novels
-- Comic Book
-- Fiction
-- Crime
+- Novela gráfica
+- Ficción
+- Crimen
+- Superheroes
+- Colecciones
+- Acción
 autores:
 - Ed Brubaker
+- Michael Lark
+- Stefano Gaudiano
+- David Aja
+- Lee Weeks
+- Marko Djurdjevic
+- John Romita Sr.
+- Gene Colan
+- Bill Sienkiewicz
+- Alex Maleev
+- Brian Michael Bendis
+- John Rhett Thomas
 editoriales:
 - Marvel
 image:
@@ -31,15 +44,15 @@ Collecting: Daredevil 82-105
 
 ## Ficha del libro
 
-- **Autor:** Ed Brubaker
+- **Autor:** [Ed Brubaker](/autores/ed-brubaker/)
 - **Serie:** Daredevil by Ed Brubaker Omnibus
-- **Colaboradores:** Michael Lark (Illustrator), Stefano Gaudiano (Illustrator), David Aja (Illustrator), Lee Weeks (Illustrator), Marko Djurdjevic (Illustrator), John Romita Sr. (Illustrator), Gene Colan (Illustrator), Bill Sienkiewicz (Illustrator), Alex Maleev (Illustrator), Brian Michael Bendis (Introduction), John Rhett Thomas (Interviewer)
+- **Colaboradores:** [Michael Lark](/autores/michael-lark/) (Illustrator), [Stefano Gaudiano](/autores/stefano-gaudiano/) (Illustrator), [David Aja](/autores/david-aja/) (Illustrator), [Lee Weeks](/autores/lee-weeks/) (Illustrator), [Marko Djurdjevic](/autores/marko-djurdjevic/) (Illustrator), [John Romita Sr.](/autores/john-romita-sr/) (Illustrator), [Gene Colan](/autores/gene-colan/) (Illustrator), [Bill Sienkiewicz](/autores/bill-sienkiewicz/) (Illustrator), [Alex Maleev](/autores/alex-maleev/) (Illustrator), [Brian Michael Bendis](/autores/brian-michael-bendis/) (Introduction), [John Rhett Thomas](/autores/john-rhett-thomas/) (Interviewer)
 - **Editorial:** Marvel
 - **Formato:** Hardcover, 608 páginas
 - **Idioma:** English
 - **ISBN:** 0785137858 / 9780785137856
 - **Publicación original:** 2009-01-01
-- **Géneros:** Comics, Marvel, Graphic Novels, Comic Book, Fiction, Crime, Superheroes, Graphic Novels Comics, Collections, Action
+- **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Superheroes](/tags/superheroes/), [Colecciones](/tags/colecciones/), [Acción](/tags/accion/)
 - **Lugares:** New York City, New York (United States)
 - **Ficha en Goodreads:** [Daredevil by Ed Brubaker Omnibus, Vol. 1](https://www.goodreads.com/book/show/6203215-daredevil-by-ed-brubaker-omnibus-vol-1)
 
@@ -47,3 +60,4 @@ Collecting: Daredevil 82-105
 
 - **Inicio:** 2026/07/04
 - **Fin:** 2026/07/05
+- **Calificación:** Muy recomendable/5

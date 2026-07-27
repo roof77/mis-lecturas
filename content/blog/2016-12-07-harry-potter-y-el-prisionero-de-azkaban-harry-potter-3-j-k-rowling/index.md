@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Young Adult
+- Fantasía
+- Ficción
+- Jovenes adultos
 - Harry Potter
-- Magic
-- Audiobook
+- Mágia
+- Niños
+- Aventuras
+- Clásico
 autores:
 - J.K. Rowling
 editoriales:
@@ -33,14 +35,14 @@ Igual que en las dos primeras partes de la serie -La piedra filosofal y La cáma
 
 ## Ficha del libro
 
-- **Autor:** J.K. Rowling
+- **Autor:** [J.K. Rowling](/autores/j-k-rowling/)
 - **Serie:** Harry Potter (#3)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 359 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478886559 / 9788478886555
 - **Publicación original:** 2001-01-01
-- **Géneros:** Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook, Childrens, Middle Grade, Adventure, Classics
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)
 - **Personajes:** Sirius Black, Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Severus Snape, Rubeus Hagrid, Minerva McGonagall, Neville Longbottom, Fred Weasley
 - **Lugares:** Hogwarts School of Witchcraft and Wizardry (United Kingdom), Scotland, United Kingdom
 - **Premios ganados:** Bram Stoker Award (1999), Locus Award (2000), Whitbread Award (1999), Mythopoeic Fantasy Award (2008), Books I Loved Best Yearly (BILBY) Awards (2005), Colorado Blue Spruce Young Adult Book Award (2004), Maine Student Book Award (2001), Golden Archer Award (2001), Indian Paintbrush Book Award (2004), Soaring Eagle Book Award (2002), Hotze de Roosprijs (2001), Nestlé Smarties Book Prize (1999)
@@ -51,4 +53,4 @@ Igual que en las dos primeras partes de la serie -La piedra filosofal y La cáma
 
 - **Inicio:** 2016/12/04
 - **Fin:** 2016/12/07
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Book Club
-- Contemporary
-- Literary Fiction
-- Audiobook
+- Ficción
+- Ficción histórica
+- Club de lectura
+- Contemporaneo
+- Ficción Literaria
+- Histórico
+- Coming of age
+- Adultos
+- Thriller
 autores:
 - Emma Cline
+- Inga Pellisa
 editoriales:
 - Editorial Anagrama
 image:
@@ -33,14 +37,14 @@ Esta novela es obra de una debutante que, dada su juventud, ha dejado boquiabier
 
 ## Ficha del libro
 
-- **Autor:** Emma Cline
-- **Colaboradores:** Inga Pellisa (Translator)
+- **Autor:** [Emma Cline](/autores/emma-cline/)
+- **Colaboradores:** [Inga Pellisa](/autores/inga-pellisa/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 344 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788433979582
 - **Publicación original:** 2016-08-31
-- **Géneros:** Fiction, Historical Fiction, Book Club, Contemporary, Literary Fiction, Audiobook, Historical, Coming Of Age, Adult, Thriller
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/), [Coming of age](/tags/coming-of-age/), [Adultos](/tags/adultos/), [Thriller](/tags/thriller/)
 - **Lugares:** California (United States)
 - **Premios ganados:** Shirley Jackson Award (2016)
 - **Nominaciones:** Los Angeles Times Book Prize (2016), Goodreads Choice Award (2016), The Center for Fiction First Novel Prize (2016), Readers' Favorite Fiction (2016)
@@ -50,4 +54,4 @@ Esta novela es obra de una debutante que, dada su juventud, ha dejado boquiabier
 
 - **Inicio:** 2016/08/20
 - **Fin:** 2016/09/05
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

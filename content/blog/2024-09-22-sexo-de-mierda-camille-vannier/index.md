@@ -24,17 +24,17 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Camille Vannier
+- **Autor:** [Camille Vannier](/autores/camille-vannier/)
 - **Editorial:** Astiberri
 - **Formato:** Paperback, 112 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841821595X / 9788418215957
 - **Publicación original:** 2022-03-10
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Sexo de mierda](https://www.goodreads.com/book/show/60718865-sexo-de-mierda)
 
 ## Mi lectura
 
 - **Inicio:** 2024/09/22
 - **Fin:** 2024/09/22
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

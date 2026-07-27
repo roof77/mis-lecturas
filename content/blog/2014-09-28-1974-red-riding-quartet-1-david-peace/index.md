@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Crime
-- Mystery
+- Ficción
+- Crimen
+- Misterio
 - Thriller
 - Noir
-- Historical Fiction
+- Ficción histórica
+- Novela
+- Literatura británica
+- Histórico
 autores:
 - David Peace
 editoriales:
@@ -33,14 +36,14 @@ David Peace, en su serie de cuatro novelas Red Riding (de la que 1974 es la prim
 
 ## Ficha del libro
 
-- **Autor:** David Peace
+- **Autor:** [David Peace](/autores/david-peace/)
 - **Serie:** Red Riding (#1)
 - **Editorial:** Alba
 - **Formato:** 454 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484285790 / 9788484285793
 - **Publicación original:** 2010-09-01
-- **Géneros:** Fiction, Crime, Mystery, Thriller, Noir, Historical Fiction, Mystery Thriller, Novels, British Literature, Historical
+- **Géneros:** [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Noir](/tags/noir/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Literatura británica](/tags/literatura-britanica/), [Histórico](/tags/historico/)
 - **Premios ganados:** Deutscher Krimi Preis (2006)
 - **Ficha en Goodreads:** [1974 (Red Riding Quartet, #1)](https://www.goodreads.com/book/show/9643298-1974)
 
@@ -48,4 +51,4 @@ David Peace, en su serie de cuatro novelas Red Riding (de la que 1974 es la prim
 
 - **Inicio:** 2014/09/24
 - **Fin:** 2014/09/28
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

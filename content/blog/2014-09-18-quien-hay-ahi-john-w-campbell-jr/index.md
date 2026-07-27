@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Science Fiction
-- Fiction
-- Classics
-- Short Stories
+- Terror
+- Ciencia ficción
+- Ficción
+- Clásico
+- Relatos
 - Novella
+- Extraterrestres
+- Thriller
+- Fantasía
 autores:
 - John W. Campbell Jr.
 editoriales:
@@ -27,11 +30,11 @@ Esta novela corta, seguramente la más conocida y trascendente de su producción
 
 ## Ficha del libro
 
-- **Autor:** John W. Campbell Jr.
+- **Autor:** [John W. Campbell Jr.](/autores/john-w-campbell-jr/)
 - **Editorial:** Editor digital: Titivillus
 - **Formato:** EPUB, 145 páginas
 - **Idioma:** Spanish; Castilian
-- **Géneros:** Horror, Science Fiction, Fiction, Classics, Short Stories, Novella, Audiobook, Aliens, Thriller, Fantasy
+- **Géneros:** [Terror](/tags/terror/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Novella](/tags/novella/), [Extraterrestres](/tags/extraterrestres/), [Thriller](/tags/thriller/), [Fantasía](/tags/fantasia/)
 - **Premios ganados:** Retro Hugo Award (2014)
 - **Ficha en Goodreads:** [¿Quién hay ahí?](https://www.goodreads.com/book/show/41216167-qui-n-hay-ah)
 
@@ -39,4 +42,4 @@ Esta novela corta, seguramente la más conocida y trascendente de su producción
 
 - **Inicio:** 2014/09/18
 - **Fin:** 2014/09/18
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

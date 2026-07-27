@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
+- Fantasía
 - Harry Potter
-- Fiction
-- Young Adult
-- Childrens
-- Magic
+- Ficción
+- Jovenes adultos
+- Niños
+- Mágia
+- Relatos
+- Ciencia Ficción
 autores:
 - Kennilworthy Whisp
+- J.K. Rowling
+- Alicia Dellepiane
 editoriales:
 - Salamandra
 image:
@@ -31,15 +35,15 @@ Los beneficios de la venta de este libro se destinarán a Comic Relief, que util
 
 ## Ficha del libro
 
-- **Autor:** Kennilworthy Whisp
+- **Autor:** [Kennilworthy Whisp](/autores/kennilworthy-whisp/)
 - **Serie:** Hogwarts Library (#2)
-- **Colaboradores:** J.K. Rowling (Author), Alicia Dellepiane (Translator)
+- **Colaboradores:** [J.K. Rowling](/autores/j-k-rowling/) (Author), [Alicia Dellepiane](/autores/alicia-dellepiane/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 73 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498382696 / 9788498382693
 - **Publicación original:** 2010-06-01
-- **Géneros:** Fantasy, Harry Potter, Fiction, Young Adult, Childrens, Magic, Middle Grade, Audiobook, Short Stories, Science Fiction Fantasy
+- **Géneros:** [Fantasía](/tags/fantasia/), [Harry Potter](/tags/harry-potter/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Niños](/tags/ninos/), [Mágia](/tags/magia/), [Relatos](/tags/relatos/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Lugares:** Hogwarts School of Witchcraft and Wizardry (United Kingdom)
 - **Ficha en Goodreads:** [Quidditch a través de los tiempos](https://www.goodreads.com/book/show/9395411-quidditch-a-trav-s-de-los-tiempos)
 
@@ -47,4 +51,4 @@ Los beneficios de la venta de este libro se destinarán a Comic Relief, que util
 
 - **Inicio:** 2016/12/27
 - **Fin:** 2016/12/29
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

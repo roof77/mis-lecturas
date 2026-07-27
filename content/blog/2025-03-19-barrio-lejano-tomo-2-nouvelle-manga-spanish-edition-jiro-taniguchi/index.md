@@ -8,13 +8,18 @@ authors:
 tags:
 - Lecturas
 - Manga
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Bande Dessinée
-- Japan
-- Fiction
+- Japón
+- Ficción
+- Viaje en el tiempo
+- Literatura japanesa
+- Seinen manga
 autores:
 - Jirō Taniguchi
+- Frédéric Boilet
+- M. Barrera
+- Keiko Suzuki
 editoriales:
 - Ponent Mon
 image:
@@ -29,15 +34,15 @@ Hiroshi, un padre de familia de 48 años, se siente transportado al adolescente 
 
 ## Ficha del libro
 
-- **Autor:** Jirō Taniguchi
+- **Autor:** [Jirō Taniguchi](/autores/jiro-taniguchi/)
 - **Serie:** A Distant Neighborhood / 遥かな町へ (#2)
-- **Colaboradores:** Frédéric Boilet (Adaptor), M. Barrera (Translator), Keiko Suzuki (Translator)
+- **Colaboradores:** [Frédéric Boilet](/autores/frederic-boilet/) (Adaptor), [M. Barrera](/autores/m-barrera/) (Translator), [Keiko Suzuki](/autores/keiko-suzuki/) (Translator)
 - **Editorial:** Ponent Mon
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493309362 / 9788493309367
 - **Publicación original:** 2003-09-01
-- **Géneros:** Manga, Graphic Novels, Comics, Bande Dessinée, Japan, Fiction, Time Travel, Japanese Literature, Seinen, Graphic Novels Comics
+- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Literatura japanesa](/tags/literatura-japanesa/), [Seinen manga](/tags/seinen-manga/)
 - **Premios ganados:** Gran Guinigi (2003)
 - **Ficha en Goodreads:** [Barrio Lejano Tomo 2 (Nouvelle Manga) (Spanish Edition)](https://www.goodreads.com/book/show/1187426.Barrio_Lejano_Tomo_2_Nouvelle_Manga_)
 
@@ -45,4 +50,4 @@ Hiroshi, un padre de familia de 48 años, se siente transportado al adolescente 
 
 - **Inicio:** 2025/03/19
 - **Fin:** 2025/03/19
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Dystopia
-- Science Fiction
-- Audiobook
-- Feminism
-- Classics
+- Ficción
+- Distopía
+- Ciencia ficción
+- Feminismo
+- Clásico
+- Club de lectura
+- Ficción Literaria
+- Ficción especulativa
+- Adultos
 autores:
 - Margaret Atwood
+- Eugenia Vázquez Nacarino
 editoriales:
 - Salamandra
 image:
@@ -33,15 +37,15 @@ Margaret Atwood recupera la historia quince años después de que Offred se aden
 
 ## Ficha del libro
 
-- **Autor:** Margaret Atwood
+- **Autor:** [Margaret Atwood](/autores/margaret-atwood/)
 - **Serie:** The Handmaid’s Tale  (#2)
-- **Colaboradores:** Eugenia Vázquez Nacarino (Translator)
+- **Colaboradores:** [Eugenia Vázquez Nacarino](/autores/eugenia-vazquez-nacarino/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 506 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498389496 / 9788498389494
 - **Publicación original:** 2019-09-01
-- **Géneros:** Fiction, Dystopia, Science Fiction, Audiobook, Feminism, Classics, Book Club, Literary Fiction, Speculative Fiction, Adult
+- **Géneros:** [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Feminismo](/tags/feminismo/), [Clásico](/tags/clasico/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción especulativa](/tags/ficcion-especulativa/), [Adultos](/tags/adultos/)
 - **Personajes:** Aunt Lydia, Agnes Jemima, Daisy
 - **Lugares:** Republic of Gilead, Toronto, Ontario (Canada)
 - **Premios ganados:** Booker Prize (2019), Kurd-Laßwitz-Preis (2020), Tähtivaeltaja Award (2020), Australian Book Industry Award (ABIA) (2020), Goodreads Choice Award (2019), Βραβείο Βιβλίου Public (2021), Blogistanian Globalia (2019)
@@ -52,4 +56,4 @@ Margaret Atwood recupera la historia quince años después de que Offred se aden
 
 - **Inicio:** 2019/10/15
 - **Fin:** 2019/10/17
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

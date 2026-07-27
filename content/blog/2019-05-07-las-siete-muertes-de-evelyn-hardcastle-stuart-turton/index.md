@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Mystery
-- Fiction
+- Misterio
+- Ficción
 - Thriller
-- Fantasy
-- Mystery Thriller
-- Book Club
+- Fantasía
+- Club de lectura
+- Crimen
+- Ficción histórica
+- Adultos
 autores:
 - Stuart Turton
+- Lorenzo F. Díaz
 editoriales:
 - Ático de los Libros
 image:
@@ -32,14 +35,14 @@ La única forma de romper este bucle es identificar al asesino. Pero cada vez qu
 
 ## Ficha del libro
 
-- **Autor:** Stuart Turton
-- **Colaboradores:** Lorenzo F. Díaz (Translator)
+- **Autor:** [Stuart Turton](/autores/stuart-turton/)
+- **Colaboradores:** [Lorenzo F. Díaz](/autores/lorenzo-f-diaz/) (Translator)
 - **Editorial:** Ático de los Libros
 - **Formato:** Paperback, 496 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416222819 / 9788416222810
 - **Publicación original:** 2018-10-03
-- **Géneros:** Mystery, Fiction, Thriller, Fantasy, Mystery Thriller, Book Club, Audiobook, Crime, Historical Fiction, Adult
+- **Géneros:** [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/), [Crimen](/tags/crimen/), [Ficción histórica](/tags/ficcion-historica/), [Adultos](/tags/adultos/)
 - **Personajes:** Evelyn Hardcastle, Michael Hardcastle, Dr. Sebastian Bell, Dr Richard Acker (Dickie), Daniel Coleridge, Ted Stanwin, Gregory Gold, Anna (The Seven Deaths of Evelyn Hardcastle), Aiden Bishop, Lord Peter Hardcastle
 - **Lugares:** Blackheath House, England, United Kingdom
 - **Premios ganados:** Costa Book Award (2018), Books Are My Bag Readers' Awards (2018)
@@ -50,4 +53,4 @@ La única forma de romper este bucle es identificar al asesino. Pero cada vez qu
 
 - **Inicio:** 2019/04/30
 - **Fin:** 2019/05/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

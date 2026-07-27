@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- History
-- Nonfiction
+- Historia
+- No Ficción
 - Humor
-- World War II
-- Germany
-- Politics
+- Segunda guerra mundial
+- Alemania
+- Política
+- Literatura alemana
+- Holocausto
+- Historia militar
 autores:
 - Rudolph Herzog
+- Begoña Llovet Barquero
 editoriales:
 - Capitan Swing
 image:
@@ -31,18 +35,18 @@ En los primeros años del régimen muchos alemanes se burlaron de Hitler y otros
 
 ## Ficha del libro
 
-- **Autor:** Rudolph Herzog
-- **Colaboradores:** Begoña Llovet Barquero (Traductora)
+- **Autor:** [Rudolph Herzog](/autores/rudolph-herzog/)
+- **Colaboradores:** [Begoña Llovet Barquero](/autores/begona-llovet-barquero/) (Traductora)
 - **Editorial:** Capitan Swing
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849422137X / 9788494221378
 - **Publicación original:** 2014-06-02
-- **Géneros:** History, Nonfiction, Humor, World War II, Germany, Politics, German Literature, Holocaust, Military History, Cultural
+- **Géneros:** [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [Humor](/tags/humor/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Alemania](/tags/alemania/), [Política](/tags/politica/), [Literatura alemana](/tags/literatura-alemana/), [Holocausto](/tags/holocausto/), [Historia militar](/tags/historia-militar/)
 - **Ficha en Goodreads:** [Heil Hitler, el cerdo está muerto](https://www.goodreads.com/book/show/22517674-heil-hitler-el-cerdo-est-muerto)
 
 ## Mi lectura
 
 - **Inicio:** 2014/07/18
 - **Fin:** 2014/07/21
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

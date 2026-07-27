@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Mystery
-- Graphic Novels Comics
-- Fantasy
+- Ficción
+- Misterio
+- Fantasía
+- Crimen
+- Terror
+- Humor
 autores:
 - John Layman
+- Rob Guillory
 editoriales:
 - Image Comics
 image:
@@ -31,15 +34,15 @@ Collects CHEW issues #1-5.
 
 ## Ficha del libro
 
-- **Autor:** John Layman
+- **Autor:** [John Layman](/autores/john-layman/)
 - **Serie:** Chew
-- **Colaboradores:** Rob Guillory (Illustrator)
+- **Colaboradores:** [Rob Guillory](/autores/rob-guillory/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 128 páginas
 - **Idioma:** English
 - **ISBN:** 1607061597 / 9781607061595
 - **Publicación original:** 2009-12-08
-- **Géneros:** Graphic Novels, Comics, Fiction, Mystery, Graphic Novels Comics, Fantasy, Comic Book, Crime, Horror, Humor
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Fantasía](/tags/fantasia/), [Crimen](/tags/crimen/), [Terror](/tags/terror/), [Humor](/tags/humor/)
 - **Personajes:** Tony Chu, John Colby, D-Bear, Chow Chu, Mason Savoy, Mike Applebee, Amelia Mintz, Governor Nomi Haupai
 - **Lugares:** Philadelphia, Pennsylvania (United States), New York City, New York (United States)
 - **Premios ganados:** Will Eisner Comic Industry Awards (2010)
@@ -49,4 +52,4 @@ Collects CHEW issues #1-5.
 
 - **Inicio:** 2018/08/19
 - **Fin:** 2018/08/19
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -8,13 +8,15 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Fiction
-- Comic Book
-- Fantasy
+- Novela gráfica
+- Ficción
+- Fantasía
+- Romance
+- Comedia
+- Humor
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -31,18 +33,18 @@ Suzie's a normal girl with an extraordinary ability: when she has sex, she stops
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 32 páginas
 - **Idioma:** English
 - **Publicación original:** 2013-09-25
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Fiction, Comic Book, Fantasy, Romance, Comedy, Humor, Ebooks
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Romance](/tags/romance/), [Comedia](/tags/comedia/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Sex Criminals #1: Suzie Down in the Quiet](https://www.goodreads.com/book/show/18711980-sex-criminals-1)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/19
 - **Fin:** 2018/08/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

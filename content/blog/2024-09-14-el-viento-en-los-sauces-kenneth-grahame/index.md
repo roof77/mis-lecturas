@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Childrens
-- Fantasy
-- Animals
-- Young Adult
+- Clásico
+- Ficción
+- Niños
+- Fantasía
+- Animales
+- Jovenes adultos
+- Aventuras
+- Literatura
 autores:
 - Kenneth Grahame
 editoriales:
@@ -31,13 +33,13 @@ El río donde viven Topo, Ratón, Tejón, Sapo, las nutrias y los demás habitan
 
 ## Ficha del libro
 
-- **Autor:** Kenneth Grahame
+- **Autor:** [Kenneth Grahame](/autores/kenneth-grahame/)
 - **Editorial:** Valdemar
 - **Formato:** Paperback, 313 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477025983 / 9788477025986
 - **Publicación original:** 2008-01-01
-- **Géneros:** Classics, Fiction, Childrens, Fantasy, Animals, Young Adult, Middle Grade, Audiobook, Adventure, Literature
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Niños](/tags/ninos/), [Fantasía](/tags/fantasia/), [Animales](/tags/animales/), [Jovenes adultos](/tags/jovenes-adultos/), [Aventuras](/tags/aventuras/), [Literatura](/tags/literatura/)
 - **Personajes:** Badger, Otter, Mole, Rat, Toad
 - **Premios ganados:** Lewis Carroll Shelf Award (-378662400000)
 - **Nominaciones:** Australian Book Industry Award (ABIA) (2008)
@@ -47,4 +49,4 @@ El río donde viven Topo, Ratón, Tejón, Sapo, las nutrias y los demás habitan
 
 - **Inicio:** 2024/09/10
 - **Fin:** 2024/09/14
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Fantasy
-- Young Adult
-- Animals
-- Adventure
+- Clásico
+- Ficción
+- Fantasía
+- Jovenes adultos
+- Animales
+- Aventuras
+- Niños
+- Literatura
+- Novela
 autores:
-- Richard  Adams
+- Richard Adams
+- Pilar Giralt Gorina
+- Encarna Quijada Vargas
 editoriales:
 - Editorial Seix Barral
 image:
@@ -29,15 +34,15 @@ Quinto, un joven y apacible conejo, sufre unas visiones aterradoras sobre el fut
 
 ## Ficha del libro
 
-- **Autor:** Richard  Adams
+- **Autor:** [Richard Adams](/autores/richard-adams/)
 - **Serie:** Watership Down (#1)
-- **Colaboradores:** Pilar Giralt Gorina (Translator), Encarna Quijada Vargas (Translator)
+- **Colaboradores:** [Pilar Giralt Gorina](/autores/pilar-giralt-gorina/) (Translator), [Encarna Quijada Vargas](/autores/encarna-quijada-vargas/) (Translator)
 - **Editorial:** Editorial Seix Barral
 - **Formato:** Paperback, 451 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8432228540 / 9788432228544
 - **Publicación original:** 2009-11-11
-- **Géneros:** Classics, Fiction, Fantasy, Young Adult, Animals, Adventure, Childrens, Audiobook, Literature, Novels
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Animales](/tags/animales/), [Aventuras](/tags/aventuras/), [Niños](/tags/ninos/), [Literatura](/tags/literatura/), [Novela](/tags/novela/)
 - **Personajes:** Bigwig, Fiver, El-Ahrairah, Hazel, Pipkin, Blackberry, Dandelion, Hyzenthlay, Frith, Silver (Watership Down)
 - **Lugares:** Watership Down, Hampshire (United Kingdom), Hampshire, England, England, United Kingdom
 - **Premios ganados:** Guardian Children's Fiction Prize (1973), Boston Globe-Horn Book Award (1975), California Young Readers Medal (1977), Carnegie Medal (1972)
@@ -48,4 +53,4 @@ Quinto, un joven y apacible conejo, sufre unas visiones aterradoras sobre el fut
 
 - **Inicio:** 2014/01/28
 - **Fin:** 2014/02/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

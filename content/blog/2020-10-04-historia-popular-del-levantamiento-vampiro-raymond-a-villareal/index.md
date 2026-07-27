@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Vampires
-- Fantasy
+- Terror
+- Ficción
+- Vampiros
+- Fantasía
 - Paranormal
-- Science Fiction
+- Ciencia ficción
+- Sobrenatural
+- Adultos
+- Distopía
 autores:
 - Raymond A. Villareal
+- Pilar Ramírez Tello
 editoriales:
 - Nocturna Ediciones
 image:
@@ -33,18 +37,18 @@ A la manera de Guerra Mundial Z, esta es la escalofriante crónica, narrada a tr
 
 ## Ficha del libro
 
-- **Autor:** Raymond A. Villareal
-- **Colaboradores:** Pilar Ramírez Tello (Traducción)
+- **Autor:** [Raymond A. Villareal](/autores/raymond-a-villareal/)
+- **Colaboradores:** [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Traducción)
 - **Editorial:** Nocturna Ediciones
 - **Formato:** Paperback, 512 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417834346 / 9788417834340
 - **Publicación original:** 2019-09-30
-- **Géneros:** Horror, Fiction, Vampires, Fantasy, Paranormal, Science Fiction, Supernatural, Adult, Audiobook, Dystopia
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Vampiros](/tags/vampiros/), [Fantasía](/tags/fantasia/), [Paranormal](/tags/paranormal/), [Ciencia ficción](/tags/ciencia-ficcion/), [Sobrenatural](/tags/sobrenatural/), [Adultos](/tags/adultos/), [Distopía](/tags/distopia/)
 - **Ficha en Goodreads:** [Historia popular del levantamiento vampiro](https://www.goodreads.com/book/show/50058049-historia-popular-del-levantamiento-vampiro)
 
 ## Mi lectura
 
 - **Inicio:** 2020/09/17
 - **Fin:** 2020/10/04
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

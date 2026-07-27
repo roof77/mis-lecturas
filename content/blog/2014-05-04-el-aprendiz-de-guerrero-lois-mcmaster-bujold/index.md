@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
+- Ciencia ficción
 - Space Opera
-- Fiction
-- Audiobook
-- Fantasy
-- Adventure
+- Ficción
+- Fantasía
+- Aventuras
+- Ciencia Ficción
+- Espacio
+- Ficción militar
+- Ficción especulativa
 autores:
 - Lois McMaster Bujold
 editoriales:
@@ -31,14 +34,14 @@ Lois McMaster Bujold obtuvo el premio Nebula 1988 por En caída libre y también
 
 ## Ficha del libro
 
-- **Autor:** Lois McMaster Bujold
+- **Autor:** [Lois McMaster Bujold](/autores/lois-mcmaster-bujold/)
 - **Serie:** Vorkosigan Saga (Publication Order) (#2)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 432 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8466617833 / 9788466617833
 - **Publicación original:** 2004-09-01
-- **Géneros:** Science Fiction, Space Opera, Fiction, Audiobook, Fantasy, Adventure, Science Fiction Fantasy, Space, Military Fiction, Speculative Fiction
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Space Opera](/tags/space-opera/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Aventuras](/tags/aventuras/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Espacio](/tags/espacio/), [Ficción militar](/tags/ficcion-militar/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Personajes:** Gregor Vorbarra, Miles Vorkosigan, Konstantin Bothari, Clement Koudelka, Elena Bothari, Piotr Pierre Vorkosigan, Elizabeth Naismith, Arde Mayhew, Bazil Jesek, Ky Tung
 - **Ficha en Goodreads:** [El aprendiz de guerrero](https://www.goodreads.com/book/show/3389882-el-aprendiz-de-guerrero)
 
@@ -46,4 +49,4 @@ Lois McMaster Bujold obtuvo el premio Nebula 1988 por En caída libre y también
 
 - **Inicio:** 2014/04/29
 - **Fin:** 2014/05/04
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

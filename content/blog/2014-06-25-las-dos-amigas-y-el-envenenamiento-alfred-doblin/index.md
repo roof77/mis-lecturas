@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Crime
-- German Literature
-- Classics
-- Psychology
-- LGBT
+- Ficción
+- Crimen
+- Literatura alemana
+- Clásico
+- Psicología
+- LGTBIQ+
+- Romance
+- Adultos
+- Queer
+- Ficción histórica
 autores:
 - Alfred Döblin
+- Joan Fontcuberta i Gel
 editoriales:
 - Acantilado
 image:
@@ -29,18 +34,18 @@ Inspirada en un proceso que saltó a las páginas de los periódicos en los año
 
 ## Ficha del libro
 
-- **Autor:** Alfred Döblin
-- **Colaboradores:** Joan Fontcuberta i Gel (Translator)
+- **Autor:** [Alfred Döblin](/autores/alfred-doblin/)
+- **Colaboradores:** [Joan Fontcuberta i Gel](/autores/joan-fontcuberta-i-gel/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 120 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849683414X / 9788496834149
 - **Publicación original:** 2007-01-01
-- **Géneros:** Fiction, Crime, German Literature, Classics, Psychology, LGBT, Romance, Adult, Queer, Historical Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Literatura alemana](/tags/literatura-alemana/), [Clásico](/tags/clasico/), [Psicología](/tags/psicologia/), [LGTBIQ+](/tags/lgtbiq/), [Romance](/tags/romance/), [Adultos](/tags/adultos/), [Queer](/tags/queer/), [Ficción histórica](/tags/ficcion-historica/)
 - **Ficha en Goodreads:** [Las dos amigas y el envenenamiento](https://www.goodreads.com/book/show/18590777-las-dos-amigas-y-el-envenenamiento)
 
 ## Mi lectura
 
 - **Inicio:** 2014/06/24
 - **Fin:** 2014/06/25
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fiction
-- Graphic Novels Comics
-- LGBT
-- Science Fiction
+- Novela gráfica
+- Ficción
+- LGTBIQ+
+- Ciencia ficción
+- Queer
 autores:
 - Jaime Hernández
 editoriales:
@@ -31,18 +31,18 @@ Maggie Chascarrillo es una joven chicana cuya historia comienza a primeros de lo
 
 ## Ficha del libro
 
-- **Autor:** Jaime Hernández
+- **Autor:** [Jaime Hernández](/autores/jaime-hernandez/)
 - **Serie:** Love and Rockets Library (#1)
 - **Editorial:** Ediciones La Cúpula, S.A.
 - **Formato:** Paperback, 276 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478337121 / 9788478337125
 - **Publicación original:** 2006-07-30
-- **Géneros:** Comics, Graphic Novels, Fiction, Graphic Novels Comics, LGBT, Science Fiction, Comic Book, Queer, Comix, Sequential Art
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Ciencia ficción](/tags/ciencia-ficcion/), [Queer](/tags/queer/)
 - **Ficha en Goodreads:** [Locas 1 (Love & Rockets, #1)](https://www.goodreads.com/book/show/1774327.Locas_1)
 
 ## Mi lectura
 
 - **Inicio:** 2025/01/05
 - **Fin:** 2025/01/10
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

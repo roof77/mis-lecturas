@@ -10,13 +10,14 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fiction
-- Philosophy
-- Graphic Novels Comics
-- Comic Book
+- Novela gráfica
+- Ficción
+- Filosofía
+- Manga
+- Estados Unidos
 autores:
 - Kevin Huizenga
+- Esther Cruz Santaella
 editoriales:
 - SALAMANDRA GRAPHIC
 image:
@@ -47,17 +48,18 @@ La crítica ha «Absolutamente conmovedor y en ocasiones mágico... Aunque el es
 
 ## Ficha del libro
 
-- **Autor:** Kevin Huizenga
-- **Colaboradores:** Esther Cruz Santaella (translator)
+- **Autor:** [Kevin Huizenga](/autores/kevin-huizenga/)
+- **Colaboradores:** [Esther Cruz Santaella](/autores/esther-cruz-santaella/) (translator)
 - **Editorial:** SALAMANDRA GRAPHIC
 - **Formato:** Kindle Edition, 216 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418621494 / 9788418621499
 - **Publicación original:** 2022-10-20
-- **Géneros:** Comics, Graphic Novels, Fiction, Philosophy, Graphic Novels Comics, Comic Book, Bande Dessinée, Graphic Novels Manga, United States, Sequential Art
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Filosofía](/tags/filosofia/), [Manga](/tags/manga/), [Estados Unidos](/tags/estados-unidos/)
 - **Ficha en Goodreads:** [Glenn Ganges en el río de noche (Spanish Edition)](https://www.goodreads.com/book/show/212992395-glenn-ganges-en-el-r-o-de-noche)
 
 ## Mi lectura
 
 - **Inicio:** 2026/04/23
 - **Fin:** 2026/04/27
+- **Calificación:** Entretenido/5

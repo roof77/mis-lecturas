@@ -9,6 +9,7 @@ tags:
 - Comics
 autores:
 - Jeff Lemire
+- Santiago García
 editoriales:
 - ASTIBERRI EDICIONES
 image:
@@ -19,18 +20,18 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Jeff Lemire
-- **Colaboradores:** Santiago García (translator)
+- **Autor:** [Jeff Lemire](/autores/jeff-lemire/)
+- **Colaboradores:** [Santiago García](/autores/santiago-garcia/) (translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841967074X / 9788419670748
 - **Publicación original:** 2024-04-11
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Las efímeras. Tomo 1](https://www.goodreads.com/book/show/211172597-las-ef-meras-tomo-1)
 
 ## Mi lectura
 
 - **Inicio:** 2025/03/22
 - **Fin:** 2025/03/22
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

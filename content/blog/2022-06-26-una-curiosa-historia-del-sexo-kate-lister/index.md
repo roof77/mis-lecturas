@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- History
-- Audiobook
-- Feminism
-- Sexuality
-- Science
+- No Ficción
+- Historia
+- Feminismo
+- Sexualidad
+- Ciencia
+- Sociología
+- Histórico
+- Humor
+- Adultos
 autores:
-- Kate  Lister
+- Kate Lister
+- Isadora Carolina Prieto
+- Anna Hernández
 editoriales:
 - Capitán Swing
 image:
@@ -29,16 +34,16 @@ Basado en el popular proyecto de investigación Whores of Yore (Putas de Antaño
 
 ## Ficha del libro
 
-- **Autor:** Kate  Lister
-- **Colaboradores:** Isadora Carolina Prieto (Traducción), Anna Hernández (Traducción)
+- **Autor:** [Kate Lister](/autores/kate-lister/)
+- **Colaboradores:** [Isadora Carolina Prieto](/autores/isadora-carolina-prieto/) (Traducción), [Anna Hernández](/autores/anna-hernandez/) (Traducción)
 - **Editorial:** Capitán Swing
 - **Formato:** Rústica con solapas, 400 páginas
 - **Idioma:** Spanish; Castilian
-- **Géneros:** Nonfiction, History, Audiobook, Feminism, Sexuality, Science, Sociology, Historical, Humor, Adult
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Feminismo](/tags/feminismo/), [Sexualidad](/tags/sexualidad/), [Ciencia](/tags/ciencia/), [Sociología](/tags/sociologia/), [Histórico](/tags/historico/), [Humor](/tags/humor/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Una Curiosa Historia del Sexo](https://www.goodreads.com/book/show/61151436-una-curiosa-historia-del-sexo)
 
 ## Mi lectura
 
 - **Inicio:** 2022/06/20
 - **Fin:** 2022/06/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

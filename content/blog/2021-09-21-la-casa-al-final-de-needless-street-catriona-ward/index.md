@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
+- Terror
 - Thriller
-- Mystery
-- Fiction
-- Audiobook
-- Mystery Thriller
+- Misterio
+- Ficción
+- Club de lectura
+- Adultos
+- Crimen
+- Gótico
 autores:
 - Catriona Ward
+- Cristina Macía
+- Octavi Segarra
 editoriales:
 - Alianza Runas
 image:
@@ -35,14 +39,14 @@ Esta es la historia de un asesino en serie. Una niña robada. Venganza. Muerte. 
 
 ## Ficha del libro
 
-- **Autor:** Catriona Ward
-- **Colaboradores:** Cristina Macía (Translator), Octavi Segarra (Illustrator)
+- **Autor:** [Catriona Ward](/autores/catriona-ward/)
+- **Colaboradores:** [Cristina Macía](/autores/cristina-macia/) (Translator), [Octavi Segarra](/autores/octavi-segarra/) (Illustrator)
 - **Editorial:** Alianza Runas
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788413624501
 - **Publicación original:** 2021-09-09
-- **Géneros:** Horror, Thriller, Mystery, Fiction, Audiobook, Mystery Thriller, Book Club, Adult, Crime, Gothic
+- **Géneros:** [Terror](/tags/terror/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Crimen](/tags/crimen/), [Gótico](/tags/gotico/)
 - **Premios ganados:** British Fantasy Award (2022)
 - **Nominaciones:** World Fantasy Award (2022), British Book Award (2022), The Kitschies (2022), Goodreads Choice Award (2021), Ladies of Horror Fiction Award (2021), Readers' Favorite Horror (2021)
 - **Ficha en Goodreads:** [La casa al final de Needless Street](https://www.goodreads.com/book/show/58433415-la-casa-al-final-de-needless-street)
@@ -51,4 +55,4 @@ Esta es la historia de un asesino en serie. Una niña robada. Venganza. Muerte. 
 
 - **Inicio:** 2021/09/16
 - **Fin:** 2021/09/21
-- **Mi valoración:** ★★★☆☆ (3,25/5)
+- **Calificación:** ★★★☆☆ (3,25/5)

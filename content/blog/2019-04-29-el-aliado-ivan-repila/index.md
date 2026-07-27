@@ -7,9 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Feminism
-- Audiobook
+- Ficción
+- Feminismo
 - Humor
 autores:
 - Iván Repila
@@ -30,17 +29,17 @@ Concebida como una novela con un pie en el realismo y otro en un posible futuro,
 
 ## Ficha del libro
 
-- **Autor:** Iván Repila
+- **Autor:** [Iván Repila](/autores/ivan-repila/)
 - **Editorial:** SEIX BARRAL
 - **Formato:** Hardcover, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788432234637
 - **Publicación original:** 2019-01-17
-- **Géneros:** Fiction, Feminism, Audiobook, Humor
+- **Géneros:** [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [El aliado](https://www.goodreads.com/book/show/43468739-el-aliado)
 
 ## Mi lectura
 
 - **Inicio:** 2019/04/29
 - **Fin:** 2019/04/29
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

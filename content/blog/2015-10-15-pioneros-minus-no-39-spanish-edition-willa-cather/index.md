@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Historical Fiction
-- Literature
-- Book Club
-- American
+- Clásico
+- Ficción
+- Ficción histórica
+- Literatura
+- Club de lectura
+- EEUU
+- Histórico
+- Oeste
+- Novela
 autores:
 - Willa Cather
 editoriales:
@@ -29,14 +32,14 @@ Situada en una pequeña localidad de Nebraska a finales del siglo XIX, Pioneros 
 
 ## Ficha del libro
 
-- **Autor:** Willa Cather
+- **Autor:** [Willa Cather](/autores/willa-cather/)
 - **Serie:** Great Plains Trilogy (#1)
 - **Editorial:** Alba Editorial
 - **Formato:** Kindle Edition, 203 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490650934 / 9788490650936
 - **Publicación original:** 2015-01-14
-- **Géneros:** Classics, Fiction, Historical Fiction, Literature, Book Club, American, Historical, Westerns, Novels, Audiobook
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Club de lectura](/tags/club-de-lectura/), [EEUU](/tags/eeuu/), [Histórico](/tags/historico/), [Oeste](/tags/oeste/), [Novela](/tags/novela/)
 - **Personajes:** Evesham Giyt, Alexandra Bergson
 - **Lugares:** Nebraska (United States)
 - **Premios ganados:** One Book One Nebraska (2013)
@@ -46,4 +49,4 @@ Situada en una pequeña localidad de Nebraska a finales del siglo XIX, Pioneros 
 
 - **Inicio:** 2015/10/06
 - **Fin:** 2015/10/15
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

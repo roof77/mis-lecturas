@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Bande Dessinée
-- Fantasy
-- Science Fiction
-- Dystopia
+- Novela gráfica
+- Fantasía
+- Ciencia ficción
+- Distopía
+- Misterio
+- Religión
+- Ficción
+- Space Opera
 autores:
 - Alessandro Barbucci
+- Barbara Canepa
 editoriales:
 - Norma Editorial
 image:
@@ -37,19 +41,19 @@ Incluye una historia inédita y galería de homenajes de artistas internacionale
 
 ## Ficha del libro
 
-- **Autor:** Alessandro Barbucci
+- **Autor:** [Alessandro Barbucci](/autores/alessandro-barbucci/)
 - **Serie:** Sky Doll (#0-3)
-- **Colaboradores:** Barbara Canepa (Author)
+- **Colaboradores:** [Barbara Canepa](/autores/barbara-canepa/) (Author)
 - **Editorial:** Norma Editorial
 - **Formato:** Hardcover, 232 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467909889 / 9788467909883
 - **Publicación original:** 2012-11-01
-- **Géneros:** Comics, Graphic Novels, Bande Dessinée, Fantasy, Science Fiction, Dystopia, Mystery, Religion, Fiction, Space Opera
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Misterio](/tags/misterio/), [Religión](/tags/religion/), [Ficción](/tags/ficcion/), [Space Opera](/tags/space-opera/)
 - **Ficha en Goodreads:** [Sky Doll: Decade 00>10](https://www.goodreads.com/book/show/18804135-sky-doll)
 
 ## Mi lectura
 
 - **Inicio:** 2025/05/27
 - **Fin:** 2025/05/30
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

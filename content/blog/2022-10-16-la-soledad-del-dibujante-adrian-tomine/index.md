@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Memoir
-- Nonfiction
-- Biography
+- Memorias
+- No Ficción
+- Biografía
 - Humor
+- Arte
 autores:
 - Adrian Tomine
 editoriales:
@@ -34,16 +35,16 @@ En esta ocasión el impecable estilo de Tomine se eleva a sus líneas más puras
 
 ## Ficha del libro
 
-- **Autor:** Adrian Tomine
+- **Autor:** [Adrian Tomine](/autores/adrian-tomine/)
 - **Editorial:** Sapristi
 - **Formato:** ebook, 166 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2020-09-17
-- **Géneros:** Graphic Novels, Comics, Memoir, Nonfiction, Biography, Humor, Graphic Novels Comics, Comix, Bande Dessinée, Art
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Humor](/tags/humor/), [Arte](/tags/arte/)
 - **Ficha en Goodreads:** [La soledad del dibujante](https://www.goodreads.com/book/show/55453071-la-soledad-del-dibujante)
 
 ## Mi lectura
 
 - **Inicio:** 2022/10/16
 - **Fin:** 2022/10/16
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

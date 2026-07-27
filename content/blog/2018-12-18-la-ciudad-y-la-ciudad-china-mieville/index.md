@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Science Fiction
-- Mystery
-- Crime
-- Urban Fantasy
+- Fantasía
+- Ficción
+- Ciencia ficción
+- Misterio
+- Crimen
+- Fantasía urbana
+- Ficción especulativa
+- Club de lectura
+- Ciencia Ficción
 autores:
 - China Miéville
 editoriales:
@@ -31,13 +34,13 @@ China Miéville es uno de los autores más importantes de los últimos años en 
 
 ## Ficha del libro
 
-- **Autor:** China Miéville
+- **Autor:** [China Miéville](/autores/china-mieville/)
 - **Editorial:** La Factoría de Ideas
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498007682 / 9788498007688
 - **Publicación original:** 2012-05-01
-- **Géneros:** Fantasy, Fiction, Science Fiction, Mystery, Crime, Urban Fantasy, Speculative Fiction, Book Club, Audiobook, Science Fiction Fantasy
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Fantasía urbana](/tags/fantasia-urbana/), [Ficción especulativa](/tags/ficcion-especulativa/), [Club de lectura](/tags/club-de-lectura/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Personajes:** Tyador Borlú
 - **Lugares:** Besźel, Ul Qoma
 - **Premios ganados:** Hugo Award (2010), Locus Award (2010), Arthur C. Clarke Award (2010), World Fantasy Award (2010), Kurd-Laßwitz-Preis (2011), British Science Fiction Association Award (2009), Grand Prix de l'Imaginaire (2012), Premio Ignotus (2013), The Kitschies (2009), SF ga Yomitai (2012), Prix Elbakin.net (2012)
@@ -48,4 +51,4 @@ China Miéville es uno de los autores más importantes de los últimos años en 
 
 - **Inicio:** 2018/12/10
 - **Fin:** 2018/12/18
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

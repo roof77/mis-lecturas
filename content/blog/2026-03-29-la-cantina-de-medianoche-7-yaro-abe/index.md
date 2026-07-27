@@ -9,12 +9,13 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Graphic Novels
-- Japan
-- Food
-- Fiction
+- Novela gráfica
+- Japón
+- Comida
+- Ficción
 autores:
 - Yarō Abe
+- Alberto Sakai Fonseca
 editoriales:
 - ASTIBERRI EDICIONES
 image:
@@ -29,18 +30,19 @@ Arriva il settimo volume del manga best seller di Abe Yaro. In questa nuova usci
 
 ## Ficha del libro
 
-- **Autor:** Yarō Abe
+- **Autor:** [Yarō Abe](/autores/yaro-abe/)
 - **Serie:** 深夜食堂 [Shinya Shokudou] (#13-14)
-- **Colaboradores:** Alberto Sakai Fonseca (translator)
+- **Colaboradores:** [Alberto Sakai Fonseca](/autores/alberto-sakai-fonseca/) (translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 296 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419670618 / 9788419670618
 - **Publicación original:** 2024-05-20
-- **Géneros:** Manga, Comics, Graphic Novels, Japan, Food, Fiction
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Comida](/tags/comida/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [La cantina de medianoche 7](https://www.goodreads.com/book/show/212116978-la-cantina-de-medianoche-7)
 
 ## Mi lectura
 
 - **Inicio:** 2026/03/28
 - **Fin:** 2026/03/29
+- **Calificación:** Muy recomendable/5

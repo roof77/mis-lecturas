@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Humor
-- Fiction
-- Fantasy
-- Comedy
+- Ficción
+- Fantasía
+- Comedia
 - Paranormal
-- Audiobook
+- Fantasía urbana
+- Terror
+- Sobrenatural
+- Club de lectura
 autores:
 - Christopher Moore
+- Victoria E. Horrillo Ledesma
 editoriales:
 - LA FACTORÍA DE IDEAS
 image:
@@ -29,15 +33,15 @@ Charlie Asher es dueño de un edificio en San Francisco, tiene una tienda de obj
 
 ## Ficha del libro
 
-- **Autor:** Christopher Moore
+- **Autor:** [Christopher Moore](/autores/christopher-moore/)
 - **Serie:** Grim Reaper (#1)
-- **Colaboradores:** Victoria E. Horrillo Ledesma (translator)
+- **Colaboradores:** [Victoria E. Horrillo Ledesma](/autores/victoria-e-horrillo-ledesma/) (translator)
 - **Editorial:** LA FACTORÍA DE IDEAS
 - **Formato:** Paperback, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498003512 / 9788498003512
 - **Publicación original:** 2007-01-01
-- **Géneros:** Humor, Fiction, Fantasy, Comedy, Paranormal, Audiobook, Urban Fantasy, Horror, Supernatural, Book Club
+- **Géneros:** [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Comedia](/tags/comedia/), [Paranormal](/tags/paranormal/), [Fantasía urbana](/tags/fantasia-urbana/), [Terror](/tags/terror/), [Sobrenatural](/tags/sobrenatural/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Charlie Asher, Minty Fresh, Ray Macy, Jane Asher
 - **Lugares:** San Francisco, California (United States)
 - **Premios ganados:** The Quill Award (2006)
@@ -47,4 +51,4 @@ Charlie Asher es dueño de un edificio en San Francisco, tiene una tienda de obj
 
 - **Inicio:** 2016/07/29
 - **Fin:** 2016/08/04
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

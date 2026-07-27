@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Fantasy
+- Novela gráfica
+- Fantasía
 - Comics
-- Young Adult
-- Fiction
-- LGBT
+- Jovenes adultos
+- Ficción
+- LGTBIQ+
+- Queer
+- Humor
+- Aventuras
 autores:
 - N.D. Stevenson
 editoriales:
@@ -35,12 +38,12 @@ But as small acts of mischief escalate into a vicious battle, Lord Blackheart re
 
 ## Ficha del libro
 
-- **Autor:** N.D. Stevenson
+- **Autor:** [N.D. Stevenson](/autores/n-d-stevenson/)
 - **Editorial:** Harper Collins
 - **Formato:** ebook, 272 páginas
 - **Idioma:** English
 - **Publicación original:** 2015-05-12
-- **Géneros:** Graphic Novels, Fantasy, Comics, Young Adult, Fiction, LGBT, Queer, Graphic Novels Comics, Humor, Adventure
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Comics](/tags/comics/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Humor](/tags/humor/), [Aventuras](/tags/aventuras/)
 - **Personajes:** Ballister Blackheart, Nimona, Ambrosius Goldenloin, Meredith Blitzmeyer
 - **Premios ganados:** Will Eisner Comic Industry Awards (2016), Children's Literature Council of Southern California Award (2016)
 - **Nominaciones:** National Book Award (2015), Locus Award (2016), Odyssey Award (2017), Rhode Island Teen Book Award (2017), Vermont Golden Dome Book Award (2017), Evergreen Teen Book Award (2018), Milwaukee County Teen Book Award (2016), British Fantasy Award (2016), Lincoln Award (2018), Andre Norton Award (2015), Goodreads Choice Award (2015), The Magnolia Award (2017), Readers' Favorite Graphic Novels & Comics (2015)
@@ -50,3 +53,4 @@ But as small acts of mischief escalate into a vicious battle, Lord Blackheart re
 
 - **Inicio:** 2026/06/30
 - **Fin:** 2026/07/01
+- **Calificación:** Recomendable/5

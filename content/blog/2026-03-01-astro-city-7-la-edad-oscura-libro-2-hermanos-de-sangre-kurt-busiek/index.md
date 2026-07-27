@@ -8,11 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Superheroes
-- Graphic Novels Comics
-- Fiction
-- Fantasy
+- Ficción
+- Fantasía
+- Ciencia ficción
+- Crimen
+- Acción
 autores:
 - Kurt Busiek
 editoriales:
@@ -29,17 +31,18 @@ Today Astro City is a shining metropolis on a hill where super-heroes patrol the
 
 ## Ficha del libro
 
-- **Autor:** Kurt Busiek
+- **Autor:** [Kurt Busiek](/autores/kurt-busiek/)
 - **Serie:** Astro City (#7)
 - **Editorial:** NORMA EDITORIAL, S.A.
 - **Formato:** Hardcover, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467905484 / 9788467905489
 - **Publicación original:** 2011-05-01
-- **Géneros:** Comics, Graphic Novels, Superheroes, Graphic Novels Comics, Fiction, Fantasy, Comic Book, Science Fiction, Crime, Action
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Crimen](/tags/crimen/), [Acción](/tags/accion/)
 - **Ficha en Goodreads:** [Astro City #7: La Edad Oscura Libro 2: Hermanos de sangre](https://www.goodreads.com/book/show/13616812-astro-city-7)
 
 ## Mi lectura
 
 - **Inicio:** 2026/03/01
 - **Fin:** 2026/03/01
+- **Calificación:** Bien/5

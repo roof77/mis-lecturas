@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Classics
-- Literary Fiction
-- Novels
-- Book Club
+- Ficción
+- Ficción histórica
+- Clásico
+- Ficción Literaria
+- Novela
+- Club de lectura
+- EEUU
+- Literatura
+- Novella
+- Coming of age
 autores:
 - William Maxwell
+- Gabriela Bustelo
 editoriales:
 - Libros del Asteroide
 image:
@@ -29,14 +34,14 @@ William Maxwell sitúa su novela más famosa en un pequeño pueblo del estado de
 
 ## Ficha del libro
 
-- **Autor:** William Maxwell
-- **Colaboradores:** Gabriela Bustelo (Translation)
+- **Autor:** [William Maxwell](/autores/william-maxwell/)
+- **Colaboradores:** [Gabriela Bustelo](/autores/gabriela-bustelo/) (Translation)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 172 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493591483 / 9788493591489
 - **Publicación original:** 2008-01-01
-- **Géneros:** Fiction, Historical Fiction, Classics, Literary Fiction, Novels, Book Club, American, Literature, Novella, Coming Of Age
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Clásico](/tags/clasico/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [EEUU](/tags/eeuu/), [Literatura](/tags/literatura/), [Novella](/tags/novella/), [Coming of age](/tags/coming-of-age/)
 - **Lugares:** Lincoln, Illinois (United States), Illinois (United States)
 - **Premios ganados:** National Book Award (1982), William Dean Howells Medal (1980), National Book Award Finalist (1981), Society of Midland Authors Award (1980)
 - **Nominaciones:** Pulitzer Prize (1981), National Book Critics Circle Award (1980), Waterstones Book of the Year (2025)
@@ -46,4 +51,4 @@ William Maxwell sitúa su novela más famosa en un pequeño pueblo del estado de
 
 - **Inicio:** 2014/06/25
 - **Fin:** 2014/06/30
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

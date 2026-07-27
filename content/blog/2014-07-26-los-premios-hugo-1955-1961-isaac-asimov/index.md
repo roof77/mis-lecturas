@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Short Stories
-- Anthologies
-- Fiction
-- Fantasy
-- Science Fiction Fantasy
+- Ciencia ficción
+- Relatos
+- Antología
+- Ficción
+- Fantasía
+- Ciencia Ficción
+- Premios Hugo
+- Colecciones
+- Ficción especulativa
 autores:
 - Isaac Asimov
 editoriales:
@@ -41,17 +44,17 @@ Contents:
 
 ## Ficha del libro
 
-- **Autor:** Isaac Asimov
+- **Autor:** [Isaac Asimov](/autores/isaac-asimov/)
 - **Serie:** The Hugo Winners (#1)
 - **Editorial:** Círculo de Lectores
 - **Formato:** Paperback, 331 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8422623943 / 9788422623946
-- **Géneros:** Science Fiction, Short Stories, Anthologies, Fiction, Fantasy, Science Fiction Fantasy, Hugo Awards, Audiobook, Collections, Speculative Fiction
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Relatos](/tags/relatos/), [Antología](/tags/antologia/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Premios Hugo](/tags/premios-hugo/), [Colecciones](/tags/colecciones/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Ficha en Goodreads:** [Los premios Hugo 1955-1961](https://www.goodreads.com/book/show/22746804-los-premios-hugo-1955-1961)
 
 ## Mi lectura
 
 - **Inicio:** 2014/07/20
 - **Fin:** 2014/07/26
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

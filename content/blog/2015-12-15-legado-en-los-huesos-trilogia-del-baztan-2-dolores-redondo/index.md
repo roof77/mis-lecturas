@@ -8,11 +8,13 @@ authors:
 tags:
 - Lecturas
 - Thriller
-- Mystery
-- Crime
-- Fiction
-- Spanish Literature
-- Spain
+- Misterio
+- Crimen
+- Ficción
+- Literatura hispana
+- España
+- Suspense
+- Fantasía
 autores:
 - Dolores Redondo
 editoriales:
@@ -30,14 +32,14 @@ El juicio contra el padrastro de la joven Johana Márquez está a punto de comen
 
 ## Ficha del libro
 
-- **Autor:** Dolores Redondo
+- **Autor:** [Dolores Redondo](/autores/dolores-redondo/)
 - **Serie:** Trilogía del Baztán (#2)
 - **Editorial:** Destino
 - **Formato:** Paperback, 560 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8423347451 / 9788423347452
 - **Publicación original:** 2013-11-19
-- **Géneros:** Thriller, Mystery, Crime, Fiction, Spanish Literature, Spain, Suspense, Audiobook, Fantasy, Mystery Thriller
+- **Géneros:** [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Suspense](/tags/suspense/), [Fantasía](/tags/fantasia/)
 - **Personajes:** Amaia Salazar
 - **Nominaciones:** CWA International Dagger (2017)
 - **Ficha en Goodreads:** [Legado en los huesos (Trilogía del Baztán, #2)](https://www.goodreads.com/book/show/18741291-legado-en-los-huesos)
@@ -46,4 +48,4 @@ El juicio contra el padrastro de la joven Johana Márquez está a punto de comen
 
 - **Inicio:** 2015/12/13
 - **Fin:** 2015/12/15
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

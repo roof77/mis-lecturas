@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Mystery
-- Italian Literature
-- Literature
-- Italy
-- Historical Fiction
+- Ficción
+- Misterio
+- Literatura italiana
+- Literatura
+- Italia
+- Ficción histórica
+- Novela
+- Contemporaneo
+- Ficción Literaria
 autores:
 - Umberto Eco
+- Helena Lozano Miralles
 editoriales:
 - Lumen
 image:
@@ -35,14 +39,14 @@ Todo parece ir sobre ruedas hasta que un cadáver tendido en una callejuela de M
 
 ## Ficha del libro
 
-- **Autor:** Umberto Eco
-- **Colaboradores:** Helena Lozano Miralles (Translator)
+- **Autor:** [Umberto Eco](/autores/umberto-eco/)
+- **Colaboradores:** [Helena Lozano Miralles](/autores/helena-lozano-miralles/) (Translator)
 - **Editorial:** Lumen
 - **Formato:** Kindle Edition, 192 páginas
 - **Idioma:** Italian
 - **ISBN:** 8426402372 / 9788426402370
 - **Publicación original:** 2015-04-09
-- **Géneros:** Fiction, Mystery, Italian Literature, Literature, Italy, Historical Fiction, Novels, Audiobook, Contemporary, Literary Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Literatura italiana](/tags/literatura-italiana/), [Literatura](/tags/literatura/), [Italia](/tags/italia/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Personajes:** Colonna, Maia Fresia, Romano Braggadocio
 - **Lugares:** Rome (Italy)
 - **Nominaciones:** Kirkus Prize (2016)
@@ -52,4 +56,4 @@ Todo parece ir sobre ruedas hasta que un cadáver tendido en una callejuela de M
 
 - **Inicio:** 2015/08/17
 - **Fin:** 2015/08/20
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- France
-- Short Stories
-- Literature
-- French Literature
-- Historical Fiction
+- Ficción
+- Francia
+- Relatos
+- Literatura
+- Literatura francesa
+- Ficción histórica
+- Novella
+- Clásico
+- Religión
+- Novela
 autores:
 - Marcel Schwob
+- Jean-Gabriel Daragnés
+- Luis Alberto de Cuenca
 editoriales:
 - Reino de Cordelia
 image:
@@ -29,17 +35,17 @@ En 1212 un adolescente aseguró al rey de Francia que Jesucristo en persona le h
 
 ## Ficha del libro
 
-- **Autor:** Marcel Schwob
-- **Colaboradores:** Jean-Gabriel Daragnés (Illustrator), Luis Alberto de Cuenca (Translator)
+- **Autor:** [Marcel Schwob](/autores/marcel-schwob/)
+- **Colaboradores:** [Jean-Gabriel Daragnés](/autores/jean-gabriel-daragnes/) (Illustrator), [Luis Alberto de Cuenca](/autores/luis-alberto-de-cuenca/) (Translator)
 - **Editorial:** Reino de Cordelia
 - **Formato:** Kindle Edition, 64 páginas
 - **Idioma:** English
 - **Publicación original:** 2012-01-08
-- **Géneros:** Fiction, France, Short Stories, Literature, French Literature, Historical Fiction, Novella, Classics, Religion, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [Literatura francesa](/tags/literatura-francesa/), [Ficción histórica](/tags/ficcion-historica/), [Novella](/tags/novella/), [Clásico](/tags/clasico/), [Religión](/tags/religion/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [La cruzada de los niños](https://www.goodreads.com/book/show/22295459-la-cruzada-de-los-ni-os)
 
 ## Mi lectura
 
 - **Inicio:** 2015/12/30
 - **Fin:** 2015/12/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

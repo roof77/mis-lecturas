@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Crime
+- Terror
+- Crimen
 - Novella
-- Fiction
-- Weird Fiction
+- Ficción
+- Ficción extraña
 - Noir
+- Lovecraftiano
+- Misterio
+- Fantasía
 autores:
 - Laird Barron
+- Antonio Rivas
+- Santiago Sequeiros
 editoriales:
 - La Biblioteca de Carfax
 image:
@@ -29,18 +34,18 @@ Nanashi (nombre que significa anónimo o sin nombre) ha llevado una vida de viol
 
 ## Ficha del libro
 
-- **Autor:** Laird Barron
-- **Colaboradores:** Antonio Rivas (Translator), Santiago Sequeiros (Illustrator)
+- **Autor:** [Laird Barron](/autores/laird-barron/)
+- **Colaboradores:** [Antonio Rivas](/autores/antonio-rivas/) (Translator), [Santiago Sequeiros](/autores/santiago-sequeiros/) (Illustrator)
 - **Editorial:** La Biblioteca de Carfax
 - **Formato:** Paperback, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412564073 / 9788412564075
 - **Publicación original:** 2024-01-29
-- **Géneros:** Horror, Crime, Novella, Fiction, Weird Fiction, Noir, Lovecraftian, Audiobook, Mystery, Fantasy
+- **Géneros:** [Terror](/tags/terror/), [Crimen](/tags/crimen/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Ficción extraña](/tags/ficcion-extrana/), [Noir](/tags/noir/), [Lovecraftiano](/tags/lovecraftiano/), [Misterio](/tags/misterio/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [El hombre sin nombre](https://www.goodreads.com/book/show/204376061-el-hombre-sin-nombre)
 
 ## Mi lectura
 
 - **Inicio:** 2024/02/04
 - **Fin:** 2024/02/06
-- **Mi valoración:** ★★☆☆☆ (1,75/5)
+- **Calificación:** ★★☆☆☆ (1,75/5)

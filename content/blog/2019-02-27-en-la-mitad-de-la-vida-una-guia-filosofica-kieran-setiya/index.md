@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Philosophy
-- Nonfiction
-- Self Help
-- Psychology
-- Personal Development
-- Audiobook
+- Filosofía
+- No Ficción
+- Autoayuda
+- Psicología
+- Desarrollo personal
+- Salud
+- Salud mentál
+- Ciencia
 autores:
 - Kieran Setiya
+- Ramón González Férriz
 editoriales:
 - Libros del Asteroide
 image:
@@ -35,18 +38,18 @@ Ranging from Aristotle, Schopenhauer, and John Stuart Mill to Virginia Woolf and
 
 ## Ficha del libro
 
-- **Autor:** Kieran Setiya
-- **Colaboradores:** Ramón González Férriz (Traductor)
+- **Autor:** [Kieran Setiya](/autores/kieran-setiya/)
+- **Colaboradores:** [Ramón González Férriz](/autores/ramon-gonzalez-ferriz/) (Traductor)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 216 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417007733 / 9788417007737
 - **Publicación original:** 2019-01-21
-- **Géneros:** Philosophy, Nonfiction, Self Help, Psychology, Personal Development, Audiobook, Personal Growth, Health, Mental Health, Science
+- **Géneros:** [Filosofía](/tags/filosofia/), [No Ficción](/tags/no-ficcion/), [Autoayuda](/tags/autoayuda/), [Psicología](/tags/psicologia/), [Desarrollo personal](/tags/desarrollo-personal/), [Salud](/tags/salud/), [Salud mentál](/tags/salud-mental/), [Ciencia](/tags/ciencia/)
 - **Ficha en Goodreads:** [En la mitad de la vida: una guía filosófica](https://www.goodreads.com/book/show/43982486-en-la-mitad-de-la-vida)
 
 ## Mi lectura
 
 - **Inicio:** 2019/02/19
 - **Fin:** 2019/02/27
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

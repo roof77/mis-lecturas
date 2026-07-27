@@ -10,12 +10,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Ebooks
-- Latin American Literature
-- Spanish Literature
-- Book Club
-- Marriage
+- Ficción
+- Literatura latinoamericana
+- Literatura hispana
+- Club de lectura
+- Matrimonio
+- Ficción Literaria
+- Contemporaneo
+- Latino américa
+- Mujeres
 autores:
 - Margarita García Robayo
 editoriales:
@@ -82,17 +85,17 @@ abc, España
 
 ## Ficha del libro
 
-- **Autor:** Margarita García Robayo
+- **Autor:** [Margarita García Robayo](/autores/margarita-garcia-robayo/)
 - **Editorial:** ALFAGUARA
 - **Formato:** Kindle Edition, 149 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 958542830X / 9789585428300
 - **Publicación original:** 2017-08-25
-- **Géneros:** Fiction, Ebooks, Latin American Literature, Spanish Literature, Book Club, Marriage, Literary Fiction, Contemporary, Latin American, Womens
+- **Géneros:** [Ficción](/tags/ficcion/), [Literatura latinoamericana](/tags/literatura-latinoamericana/), [Literatura hispana](/tags/literatura-hispana/), [Club de lectura](/tags/club-de-lectura/), [Matrimonio](/tags/matrimonio/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Latino américa](/tags/latino-america/), [Mujeres](/tags/mujeres/)
 - **Ficha en Goodreads:** [Tiempo muerto](https://www.goodreads.com/book/show/36250104-tiempo-muerto)
 
 ## Mi lectura
 
 - **Inicio:** 2017/09/12
 - **Fin:** 2017/09/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

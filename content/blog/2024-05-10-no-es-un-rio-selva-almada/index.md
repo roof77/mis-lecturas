@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Literary Fiction
+- Ficción
+- Ficción Literaria
 - Novella
-- Contemporary
-- Spanish Literature
-- Latin American
+- Contemporaneo
+- Literatura hispana
+- Latino américa
+- Novela
+- Literatura
+- Literatura latinoamericana
 autores:
 - Selva Almada
 editoriales:
@@ -33,13 +36,13 @@ Con No es un río, Selva Almada completa su trilogía de varones, inaugurada con
 
 ## Ficha del libro
 
-- **Autor:** Selva Almada
+- **Autor:** [Selva Almada](/autores/selva-almada/)
 - **Editorial:** Random House
 - **Formato:** Kindle Edition, 104 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 987769123X / 9789877691238
 - **Publicación original:** 2020-09-01
-- **Géneros:** Fiction, Literary Fiction, Novella, Contemporary, Spanish Literature, Latin American, Novels, Translated Fiction, Literature, Latin American Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Novella](/tags/novella/), [Contemporaneo](/tags/contemporaneo/), [Literatura hispana](/tags/literatura-hispana/), [Latino américa](/tags/latino-america/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Literatura latinoamericana](/tags/literatura-latinoamericana/)
 - **Lugares:** Argentina
 - **Nominaciones:** International Booker Prize (2024), Dublin Literary Award (2025)
 - **Ficha en Goodreads:** [No es un río](https://www.goodreads.com/book/show/55108658-no-es-un-r-o)
@@ -48,4 +51,4 @@ Con No es un río, Selva Almada completa su trilogía de varones, inaugurada con
 
 - **Inicio:** 2024/05/08
 - **Fin:** 2024/05/10
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

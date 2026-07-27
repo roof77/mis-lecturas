@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Africa
-- War
-- Historical
-- Literary Fiction
+- Ficción
+- Ficción histórica
+- África
+- Guerra
+- Histórico
+- Ficción Literaria
+- Senegal
+- Francia
+- Terror
+- Primera guerra mundial
 autores:
 - David Diop
+- Rubén Martín Giráldez
 editoriales:
 - Anagrama
 image:
@@ -29,14 +34,14 @@ Alfa Ndiaye es senegalés y ha acabado combatiendo con el ejército francés en 
 
 ## Ficha del libro
 
-- **Autor:** David Diop
-- **Colaboradores:** Rubén Martín Giráldez (Translator)
+- **Autor:** [David Diop](/autores/david-diop/)
+- **Colaboradores:** [Rubén Martín Giráldez](/autores/ruben-martin-giraldez/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 156 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433980521 / 9788433980526
 - **Publicación original:** 2019-11-13
-- **Géneros:** Fiction, Historical Fiction, Africa, War, Historical, Literary Fiction, Senegal, France, Horror, World War I
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [África](/tags/africa/), [Guerra](/tags/guerra/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/), [Senegal](/tags/senegal/), [Francia](/tags/francia/), [Terror](/tags/terror/), [Primera guerra mundial](/tags/primera-guerra-mundial/)
 - **Personajes:** Alfa Ndiaye, Mademba Diop, Fary Thiam, Jean-Baptiste, Penndo Ba, Captain Armand, Mademoiselle François, Doctor François, Ibrahima Seck, Yoro Ba
 - **Lugares:** Senegal, France
 - **Premios ganados:** Los Angeles Times Book Prize (2020), Prix Goncourt des Lycéens (2018), Europese Literatuurprijs (2020), Premio Strega Europeo (2019), International Booker Prize (2021)
@@ -47,4 +52,4 @@ Alfa Ndiaye es senegalés y ha acabado combatiendo con el ejército francés en 
 
 - **Inicio:** 2021/04/23
 - **Fin:** 2021/04/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

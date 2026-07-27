@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Time Travel
-- Historical Fiction
-- Fiction
-- Historical
-- Fantasy
+- Ciencia ficción
+- Viaje en el tiempo
+- Ficción histórica
+- Ficción
+- Histórico
+- Fantasía
+- Segunda guerra mundial
+- Premios Hugo
+- Ciencia Ficción
 autores:
 - Connie Willis
 editoriales:
@@ -30,14 +33,14 @@ En principio, nada se sale de lo meramente rutinario. Pero al llegar a sus desti
 
 ## Ficha del libro
 
-- **Autor:** Connie Willis
+- **Autor:** [Connie Willis](/autores/connie-willis/)
 - **Serie:** All Clear (#1)
 - **Editorial:** Nova
 - **Formato:** Paperback, 624 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8466649794 / 9788466649797
 - **Publicación original:** 2011-11-01
-- **Géneros:** Science Fiction, Time Travel, Historical Fiction, Fiction, Historical, Fantasy, World War II, Audiobook, Hugo Awards, Science Fiction Fantasy
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Histórico](/tags/historico/), [Fantasía](/tags/fantasia/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Premios Hugo](/tags/premios-hugo/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Personajes:** Polly Churchill, Merope Ward, Michael Davies
 - **Lugares:** Oxford, Oxfordshire, England, London, England
 - **Premios ganados:** Hugo Award (2011), Nebula Award (2010), Locus Award (2011)
@@ -48,4 +51,4 @@ En principio, nada se sale de lo meramente rutinario. Pero al llegar a sus desti
 
 - **Inicio:** 2018/04/15
 - **Fin:** 2018/04/23
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

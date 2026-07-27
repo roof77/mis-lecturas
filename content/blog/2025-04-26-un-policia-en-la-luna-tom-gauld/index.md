@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Science Fiction
-- Fiction
-- Graphic Novels Comics
-- Space
+- Ciencia ficción
+- Ficción
+- Espacio
+- Adultos
+- Humor
 autores:
 - Tom Gauld
 editoriales:
@@ -31,13 +32,13 @@ Con el reconocible estilo de su autor, sobrio pero de gran expresividad, Un poli
 
 ## Ficha del libro
 
-- **Autor:** Tom Gauld
+- **Autor:** [Tom Gauld](/autores/tom-gauld/)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 96 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416131287 / 9788416131280
 - **Publicación original:** 2017-02-01
-- **Géneros:** Graphic Novels, Comics, Science Fiction, Fiction, Graphic Novels Comics, Space, Comic Book, Bande Dessinée, Adult, Humor
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Espacio](/tags/espacio/), [Adultos](/tags/adultos/), [Humor](/tags/humor/)
 - **Nominaciones:** Will Eisner Comic Industry Awards (2017)
 - **Ficha en Goodreads:** [Un policía en la luna](https://www.goodreads.com/book/show/34029996-un-polic-a-en-la-luna)
 
@@ -45,4 +46,4 @@ Con el reconocible estilo de su autor, sobrio pero de gran expresividad, Un poli
 
 - **Inicio:** 2025/04/26
 - **Fin:** 2025/04/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

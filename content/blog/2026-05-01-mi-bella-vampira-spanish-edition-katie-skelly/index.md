@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Horror
-- Fantasy
-- Vampires
-- Graphic Novels Comics
+- Novela gráfica
+- Terror
+- Fantasía
+- Vampiros
+- Ficción
+- Adultos
+- Mujeres
 autores:
 - Katie Skelly
+- Julia Osuna Aguilar
 editoriales:
 - SAPRISTI
 image:
@@ -30,17 +33,18 @@ La preciosa y rubia Clover -a medio camino entre Barbarella y Brigitte Bardot- s
 
 ## Ficha del libro
 
-- **Autor:** Katie Skelly
-- **Colaboradores:** Julia Osuna Aguilar (Translator)
+- **Autor:** [Katie Skelly](/autores/katie-skelly/)
+- **Colaboradores:** [Julia Osuna Aguilar](/autores/julia-osuna-aguilar/) (Translator)
 - **Editorial:** SAPRISTI
 - **Formato:** Kindle Edition, 106 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412417755 / 9788412417753
 - **Publicación original:** 2022-03-17
-- **Géneros:** Comics, Graphic Novels, Horror, Fantasy, Vampires, Graphic Novels Comics, Fiction, Adult, Bande Dessinée, Womens
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Vampiros](/tags/vampiros/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/), [Mujeres](/tags/mujeres/)
 - **Ficha en Goodreads:** [Mi bella vampira (Spanish Edition)](https://www.goodreads.com/book/show/199436926-mi-bella-vampira)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/01
 - **Fin:** 2026/05/01
+- **Calificación:** Muy bien/5

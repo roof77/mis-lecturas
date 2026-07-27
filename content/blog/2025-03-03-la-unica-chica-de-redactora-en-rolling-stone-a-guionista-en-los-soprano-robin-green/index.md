@@ -18,7 +18,7 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Robin Green
+- **Autor:** [Robin Green](/autores/robin-green/)
 - **Editorial:** Liburuak
 - **Formato:** Hardcover, 304 páginas
 - **Idioma:** Spanish; Castilian
@@ -30,4 +30,4 @@ image:
 
 - **Inicio:** 2025/02/19
 - **Fin:** 2025/03/03
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

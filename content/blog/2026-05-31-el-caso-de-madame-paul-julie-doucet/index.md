@@ -8,11 +8,9 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Bande Dessinée
-- Comix
+- Novela gráfica
 - Canada
-- Graphic Novels Comics
+- Autobiografía
 autores:
 - Julie Doucet
 editoriales:
@@ -29,15 +27,16 @@ Julie Doucet and her boyfriend find a new apartment with cheap rent and a string
 
 ## Ficha del libro
 
-- **Autor:** Julie Doucet
+- **Autor:** [Julie Doucet](/autores/julie-doucet/)
 - **Editorial:** Inrevés SLL
 - **Formato:** Paperback, 48 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2002-04-01
-- **Géneros:** Comics, Graphic Novels, Bande Dessinée, Comix, Canada, Graphic Novels Comics, Autobiography, Sequential Art
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Canada](/tags/canada/), [Autobiografía](/tags/autobiografia/)
 - **Ficha en Goodreads:** [El caso de madame Paul](https://www.goodreads.com/book/show/57470153-el-caso-de-madame-paul)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/31
 - **Fin:** 2026/05/31
+- **Calificación:** Bien/5

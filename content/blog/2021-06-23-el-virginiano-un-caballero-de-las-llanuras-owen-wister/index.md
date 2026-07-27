@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Westerns
-- Classics
-- Fiction
-- Historical Fiction
-- Adventure
+- Oeste
+- Clásico
+- Ficción
+- Ficción histórica
+- Aventuras
 - Romance
+- Club de lectura
+- Novela
+- Histórico
+- Literatura
 autores:
 - Owen Wister
 editoriales:
@@ -35,13 +39,13 @@ El Virginiano refiere diferentes historias de vaqueros y de su vida en el rancho
 
 ## Ficha del libro
 
-- **Autor:** Owen Wister
+- **Autor:** [Owen Wister](/autores/owen-wister/)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 512 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477028753 / 9788477028758
 - **Publicación original:** 2018-02-01
-- **Géneros:** Westerns, Classics, Fiction, Historical Fiction, Adventure, Romance, Book Club, Novels, Historical, Literature
+- **Géneros:** [Oeste](/tags/oeste/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Aventuras](/tags/aventuras/), [Romance](/tags/romance/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Histórico](/tags/historico/), [Literatura](/tags/literatura/)
 - **Lugares:** Wyoming (United States)
 - **Ficha en Goodreads:** [El Virginiano: Un caballero de las llanuras](https://www.goodreads.com/book/show/38966260-el-virginiano)
 
@@ -49,4 +53,4 @@ El Virginiano refiere diferentes historias de vaqueros y de su vida en el rancho
 
 - **Inicio:** 2021/06/15
 - **Fin:** 2021/06/23
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

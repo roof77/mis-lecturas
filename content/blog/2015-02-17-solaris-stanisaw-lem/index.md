@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Classics
-- Polish Literature
-- Philosophy
-- Audiobook
+- Ciencia ficción
+- Ficción
+- Clásico
+- Literatura polaca
+- Filosofía
+- Fantasía
+- Ciencia Ficción
+- Novela
+- Polonia
 autores:
 - Stanisław Lem
+- Joanna Orzechowska
+- Jesús Palacios
 editoriales:
 - Impedimenta
 image:
@@ -29,13 +34,13 @@ Impedimenta se complace en presentar, por primera vez en traducción directa del
 
 ## Ficha del libro
 
-- **Autor:** Stanisław Lem
-- **Colaboradores:** Joanna Orzechowska (Translator), Jesús Palacios (Prologue)
+- **Autor:** [Stanisław Lem](/autores/stanisaw-lem/)
+- **Colaboradores:** [Joanna Orzechowska](/autores/joanna-orzechowska/) (Translator), [Jesús Palacios](/autores/jesus-palacios/) (Prologue)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 292 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2011-04-01
-- **Géneros:** Science Fiction, Fiction, Classics, Polish Literature, Philosophy, Audiobook, Fantasy, Science Fiction Fantasy, Novels, Poland
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura polaca](/tags/literatura-polaca/), [Filosofía](/tags/filosofia/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Novela](/tags/novela/), [Polonia](/tags/polonia/)
 - **Personajes:** Kris Kelvin, Sartorius, Gibarian, Snaut (Snow), Harey (Rheya)
 - **Lugares:** Solaris (Planet)
 - **Ficha en Goodreads:** [Solaris](https://www.goodreads.com/book/show/11253835-solaris)
@@ -44,4 +49,4 @@ Impedimenta se complace en presentar, por primera vez en traducción directa del
 
 - **Inicio:** 2015/02/15
 - **Fin:** 2015/02/17
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

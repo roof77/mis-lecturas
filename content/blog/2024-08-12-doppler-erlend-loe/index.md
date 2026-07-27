@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Humor
-- Contemporary
-- Scandinavian Literature
-- Novels
-- Roman
+- Contemporaneo
+- Literatura escandinava
+- Novela
+- Club de lectura
+- Literatura
+- Adultos
 autores:
 - Erlend Loe
+- Øyvind Fossam
+- Cristina Gómez-Baggethun
 editoriales:
 - Nórdica Libros
 image:
@@ -31,15 +35,15 @@ Esta satírica novela, que fue todo un éxito en Noruega, nos hace reflexionar s
 
 ## Ficha del libro
 
-- **Autor:** Erlend Loe
+- **Autor:** [Erlend Loe](/autores/erlend-loe/)
 - **Serie:** Doppler (#1)
-- **Colaboradores:** Øyvind Fossam (Translator), Cristina Gómez-Baggethun (Translator)
+- **Colaboradores:** [Øyvind Fossam](/autores/yvind-fossam/) (Translator), [Cristina Gómez-Baggethun](/autores/cristina-gomez-baggethun/) (Translator)
 - **Editorial:** Nórdica Libros
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417651152 / 9788417651152
 - **Publicación original:** 2019-01-01
-- **Géneros:** Fiction, Humor, Contemporary, Scandinavian Literature, Novels, Roman, Book Club, Audiobook, Literature, Adult
+- **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Contemporaneo](/tags/contemporaneo/), [Literatura escandinava](/tags/literatura-escandinava/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Literatura](/tags/literatura/), [Adultos](/tags/adultos/)
 - **Personajes:** Andreas Doppler
 - **Lugares:** Norway
 - **Nominaciones:** P2-lytternes romanpris (2004)
@@ -49,4 +53,4 @@ Esta satírica novela, que fue todo un éxito en Noruega, nos hace reflexionar s
 
 - **Inicio:** 2024/08/08
 - **Fin:** 2024/08/12
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

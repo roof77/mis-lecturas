@@ -23,7 +23,7 @@ Todas las experiencias que llevaron al protagonista, un amante de la cultura und
 
 ## Ficha del libro
 
-- **Autor:** Jose Parras Canuto
+- **Autor:** [Jose Parras Canuto](/autores/jose-parras-canuto/)
 - **Editorial:** Independently Published
 - **Formato:** Paperback, 282 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ Todas las experiencias que llevaron al protagonista, un amante de la cultura und
 
 - **Inicio:** 2019/11/15
 - **Fin:** 2019/11/23
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

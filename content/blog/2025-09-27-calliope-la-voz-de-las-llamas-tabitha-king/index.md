@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Mystery
+- Terror
+- Ficción
+- Misterio
 - Thriller
-- Ghosts
-- Gothic
+- Fantasmas
+- Gótico
+- Paranormal
+- Gótico sureño
+- Ficción histórica
 autores:
 - Tabitha King
+- Michael McDowell
+- Miguel Antón
 editoriales:
 - Minotauro
 image:
@@ -35,18 +40,18 @@ Allí Calley descubrirá que puede oír voces que no son de este mundo y que est
 
 ## Ficha del libro
 
-- **Autor:** Tabitha King
-- **Colaboradores:** Michael McDowell (Author), Miguel Antón (Translator)
+- **Autor:** [Tabitha King](/autores/tabitha-king/)
+- **Colaboradores:** [Michael McDowell](/autores/michael-mcdowell/) (Author), [Miguel Antón](/autores/miguel-anton/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Kindle Edition, 556 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445020943 / 9788445020944
 - **Publicación original:** 2025-09-03
-- **Géneros:** Horror, Fiction, Mystery, Thriller, Ghosts, Gothic, Paranormal, Southern Gothic, Audiobook, Historical Fiction
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Fantasmas](/tags/fantasmas/), [Gótico](/tags/gotico/), [Paranormal](/tags/paranormal/), [Gótico sureño](/tags/gotico-sureno/), [Ficción histórica](/tags/ficcion-historica/)
 - **Ficha en Goodreads:** [Calliope. La voz de las llamas](https://www.goodreads.com/book/show/237920009-calliope-la-voz-de-las-llamas)
 
 ## Mi lectura
 
 - **Inicio:** 2025/09/14
 - **Fin:** 2025/09/27
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

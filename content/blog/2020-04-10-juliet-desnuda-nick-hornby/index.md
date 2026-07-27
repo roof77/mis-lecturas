@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Music
-- Contemporary
+- Ficción
+- Música
+- Contemporaneo
 - Romance
 - Humor
-- Audiobook
+- Club de lectura
+- Novela
+- Literatura británica
+- Ficción adulta
 autores:
 - Nick Hornby
+- Jesús Zulaika
 editoriales:
 - Anagrama
 image:
@@ -29,13 +33,13 @@ Annie y Duncan están cerca de la cuarentena, y son una pareja de hecho desde ha
 
 ## Ficha del libro
 
-- **Autor:** Nick Hornby
-- **Colaboradores:** Jesús Zulaika (Translator)
+- **Autor:** [Nick Hornby](/autores/nick-hornby/)
+- **Colaboradores:** [Jesús Zulaika](/autores/jesus-zulaika/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2013-01-01
-- **Géneros:** Fiction, Music, Contemporary, Romance, Humor, Audiobook, Book Club, Novels, British Literature, Adult Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Música](/tags/musica/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Literatura británica](/tags/literatura-britanica/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Personajes:** Tucker Crowe, Duncan Thomson, Annie Platt
 - **Nominaciones:** Goodreads Choice Award (2009), LovelyBooks Leserpreis (2009)
 - **Ficha en Goodreads:** [Juliet, desnuda](https://www.goodreads.com/book/show/6801443-juliet-desnuda)
@@ -44,4 +48,4 @@ Annie y Duncan están cerca de la cuarentena, y son una pareja de hecho desde ha
 
 - **Inicio:** 2020/04/05
 - **Fin:** 2020/04/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

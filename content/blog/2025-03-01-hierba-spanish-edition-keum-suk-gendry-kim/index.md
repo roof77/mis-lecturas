@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Nonfiction
+- Novela gráfica
+- No Ficción
 - Comics
-- History
-- Memoir
-- War
+- Historia
+- Memorias
+- Guerra
+- Biografía
+- Histórico
+- Ásia
+- Manga
 autores:
 - Keum Suk Gendry-Kim
+- Joo Hasun
 editoriales:
 - RESERVOIR BOOKS
 image:
@@ -31,18 +36,18 @@ Partiendo de las entrevistas que mantuvo con Lee Ok-Sun en una residencia de anc
 
 ## Ficha del libro
 
-- **Autor:** Keum Suk Gendry-Kim
-- **Colaboradores:** Joo Hasun (Translator)
+- **Autor:** [Keum Suk Gendry-Kim](/autores/keum-suk-gendry-kim/)
+- **Colaboradores:** [Joo Hasun](/autores/joo-hasun/) (Translator)
 - **Editorial:** RESERVOIR BOOKS
 - **Formato:** Kindle Edition, 483 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418897449 / 9788418897443
 - **Publicación original:** 2022-02-24
-- **Géneros:** Graphic Novels, Nonfiction, Comics, History, Memoir, War, Biography, Historical, Asia, Manga
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [No Ficción](/tags/no-ficcion/), [Comics](/tags/comics/), [Historia](/tags/historia/), [Memorias](/tags/memorias/), [Guerra](/tags/guerra/), [Biografía](/tags/biografia/), [Histórico](/tags/historico/), [Ásia](/tags/asia/), [Manga](/tags/manga/)
 - **Ficha en Goodreads:** [Hierba (Spanish Edition)](https://www.goodreads.com/book/show/60575724-hierba)
 
 ## Mi lectura
 
 - **Inicio:** 2025/02/22
 - **Fin:** 2025/03/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

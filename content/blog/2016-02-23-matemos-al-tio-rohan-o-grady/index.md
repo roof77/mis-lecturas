@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Mystery
+- Ficción
+- Misterio
 - Humor
 - Canada
-- Horror
-- Book Club
+- Terror
+- Club de lectura
+- Clásico
+- Crimen
+- Gótico
+- Literatura
 autores:
 - Rohan O'Grady
+- Raquel Vicedo
 editoriales:
 - Impedimenta
 image:
@@ -31,14 +36,14 @@ Una lectura deliciosamente perversa. Oscura y mortalmente ingeniosa Matemos al t
 
 ## Ficha del libro
 
-- **Autor:** Rohan O'Grady
-- **Colaboradores:** Raquel Vicedo (Translator)
+- **Autor:** [Rohan O'Grady](/autores/rohan-o-grady/)
+- **Colaboradores:** [Raquel Vicedo](/autores/raquel-vicedo/) (Translator)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415979118 / 9788415979111
 - **Publicación original:** 2014-10-01
-- **Géneros:** Fiction, Mystery, Humor, Canada, Horror, Book Club, Classics, Crime, Gothic, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Humor](/tags/humor/), [Canada](/tags/canada/), [Terror](/tags/terror/), [Club de lectura](/tags/club-de-lectura/), [Clásico](/tags/clasico/), [Crimen](/tags/crimen/), [Gótico](/tags/gotico/), [Literatura](/tags/literatura/)
 - **Personajes:** Christie MacNab, Barnaby Gaunt, Sergeant Albert Edward George Coulter, Major Sylvester Murchison-Gaunt, Sydney Brooks, Agnes Duncan, Lady Syddyns, Rev. Rice-Hope, Gwynneth Rice-Hope, Miss Proudfoot
 - **Lugares:** British Columbia (Canada)
 - **Ficha en Goodreads:** [Matemos al tío](https://www.goodreads.com/book/show/23483122-matemos-al-t-o)
@@ -47,4 +52,4 @@ Una lectura deliciosamente perversa. Oscura y mortalmente ingeniosa Matemos al t
 
 - **Inicio:** 2016/02/21
 - **Fin:** 2016/02/23
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

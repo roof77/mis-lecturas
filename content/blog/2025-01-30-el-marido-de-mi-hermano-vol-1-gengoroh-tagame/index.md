@@ -8,13 +8,18 @@ authors:
 tags:
 - Lecturas
 - Manga
-- Graphic Novels
-- LGBT
+- Novela gráfica
+- LGTBIQ+
 - Queer
 - Comics
-- Fiction
+- Ficción
+- Contemporaneo
+- Japón
+- Adultos
+- Familia
 autores:
 - Gengoroh Tagame
+- Marc Bernabé
 editoriales:
 - Panini Cómics
 image:
@@ -29,15 +34,15 @@ Yaichi es un padre divorciado japonés muy tradicional y conservador que vive ju
 
 ## Ficha del libro
 
-- **Autor:** Gengoroh Tagame
+- **Autor:** [Gengoroh Tagame](/autores/gengoroh-tagame/)
 - **Serie:** 弟の夫 [Otōto no Otto] (#1-2)
-- **Colaboradores:** Marc Bernabé (translator)
+- **Colaboradores:** [Marc Bernabé](/autores/marc-bernabe/) (translator)
 - **Editorial:** Panini Cómics
 - **Formato:** Paperback, 360 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413342031 / 9788413342030
 - **Publicación original:** 2019-10-24
-- **Géneros:** Manga, Graphic Novels, LGBT, Queer, Comics, Fiction, Contemporary, Japan, Adult, Family
+- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Adultos](/tags/adultos/), [Familia](/tags/familia/)
 - **Lugares:** Tokyo (Japan)
 - **Premios ganados:** Will Eisner Comic Industry Awards (2018), VLA Graphic Novel Diversity Award (2017)
 - **Nominaciones:** Harvey Awards (2018), Lambda Literary Award (2017)
@@ -47,4 +52,4 @@ Yaichi es un padre divorciado japonés muy tradicional y conservador que vive ju
 
 - **Inicio:** 2025/01/30
 - **Fin:** 2025/01/30
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

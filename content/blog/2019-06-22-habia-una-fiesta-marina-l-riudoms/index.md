@@ -25,7 +25,7 @@ Con una prosa sencilla y directa que unas veces recuerda a las autoras de la Alt
 
 ## Ficha del libro
 
-- **Autor:** Marina L. Riudoms
+- **Autor:** [Marina L. Riudoms](/autores/marina-l-riudoms/)
 - **Editorial:** Caballo De Troya
 - **Formato:** Kindle Edition, 192 páginas
 - **Idioma:** Spanish; Castilian
@@ -37,4 +37,4 @@ Con una prosa sencilla y directa que unas veces recuerda a las autoras de la Alt
 
 - **Inicio:** 2019/06/22
 - **Fin:** 2019/06/22
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

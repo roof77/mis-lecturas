@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Spanish Literature
-- Novels
-- Spain
-- Feminism
+- Ficción
+- Contemporaneo
+- Literatura hispana
+- Novela
+- España
+- Feminismo
+- Sociedad
 autores:
 - Elisa Victoria
 editoriales:
@@ -33,17 +34,17 @@ La autora del éxito Vozdevieja, Elisa Victoria, se consolida con El Evangelio c
 
 ## Ficha del libro
 
-- **Autor:** Elisa Victoria
+- **Autor:** [Elisa Victoria](/autores/elisa-victoria/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418187808 / 9788418187803
 - **Publicación original:** 2021-03-31
-- **Géneros:** Fiction, Contemporary, Spanish Literature, Novels, Spain, Feminism, Social
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Literatura hispana](/tags/literatura-hispana/), [Novela](/tags/novela/), [España](/tags/espana/), [Feminismo](/tags/feminismo/), [Sociedad](/tags/sociedad/)
 - **Ficha en Goodreads:** [El evangelio](https://www.goodreads.com/book/show/57249196-el-evangelio)
 
 ## Mi lectura
 
 - **Inicio:** 2022/01/18
 - **Fin:** 2022/02/07
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

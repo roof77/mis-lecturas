@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Japan
-- Japanese Literature
-- Fiction
-- Asia
-- Novels
-- Asian Literature
+- Japón
+- Literatura japanesa
+- Ficción
+- Ásia
+- Novela
+- Literatura asiática
+- Contemporaneo
+- Ficción Literaria
+- Literatura
+- Siglo XXI
 autores:
 - Mitsuyo Kakuta
+- Yoko Ogihara
+- Fernando Cordobés
 editoriales:
 - Galaxia Gutenberg
 image:
@@ -31,14 +37,14 @@ Una novela rica en sensibilidad y en análisis psicológicos sobre la dificultad
 
 ## Ficha del libro
 
-- **Autor:** Mitsuyo Kakuta
-- **Colaboradores:** Yoko Ogihara (Translator), Fernando Cordobés (Translator)
+- **Autor:** [Mitsuyo Kakuta](/autores/mitsuyo-kakuta/)
+- **Colaboradores:** [Yoko Ogihara](/autores/yoko-ogihara/) (Translator), [Fernando Cordobés](/autores/fernando-cordobes/) (Translator)
 - **Editorial:** Galaxia Gutenberg
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8481097365 / 9788481097368
 - **Publicación original:** 2016-10-19
-- **Géneros:** Japan, Japanese Literature, Fiction, Asia, Novels, Asian Literature, Contemporary, Literary Fiction, Literature, 21st Century
+- **Géneros:** [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Ficción](/tags/ficcion/), [Ásia](/tags/asia/), [Novela](/tags/novela/), [Literatura asiática](/tags/literatura-asiatica/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Siglo XXI](/tags/siglo-xxi/)
 - **Lugares:** Japan
 - **Premios ganados:** Naoki Prize 直木三十五賞 (2004)
 - **Nominaciones:** 本屋大賞 (2005)
@@ -48,4 +54,4 @@ Una novela rica en sensibilidad y en análisis psicológicos sobre la dificultad
 
 - **Inicio:** 2020/06/14
 - **Fin:** 2020/06/21
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

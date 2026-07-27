@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Mystery
-- Contemporary
-- Crime
-- Book Club
+- Ficción
+- Misterio
+- Contemporaneo
+- Crimen
+- Club de lectura
 - Thriller
+- Ficción Literaria
+- Ficción adulta
 autores:
 - Daniel Woodrell
 editoriales:
@@ -31,13 +33,13 @@ Daniel Woodrell acuñó la expresión country noir para referirse a sus novelas,
 
 ## Ficha del libro
 
-- **Autor:** Daniel Woodrell
+- **Autor:** [Daniel Woodrell](/autores/daniel-woodrell/)
 - **Editorial:** Alba
 - **Formato:** Paperback, 216 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 848428803X / 9788484288039
 - **Publicación original:** 2012-01-01
-- **Géneros:** Fiction, Mystery, Contemporary, Crime, Book Club, Thriller, Audiobook, Mystery Thriller, Literary Fiction, Adult Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Contemporaneo](/tags/contemporaneo/), [Crimen](/tags/crimen/), [Club de lectura](/tags/club-de-lectura/), [Thriller](/tags/thriller/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Personajes:** Ree Dolly, Teardrop Dolly
 - **Lugares:** Ozark Mountains (United States), Missouri (United States)
 - **Premios ganados:** Audie Award (2011)
@@ -48,4 +50,4 @@ Daniel Woodrell acuñó la expresión country noir para referirse a sus novelas,
 
 - **Inicio:** 2014/10/31
 - **Fin:** 2014/11/03
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

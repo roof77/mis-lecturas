@@ -25,7 +25,7 @@ Disfrazada de vieja incógnita en círculos amplios de la sociedad, creída como
 
 ## Ficha del libro
 
-- **Autor:** Juan Carlos Uso
+- **Autor:** [Juan Carlos Uso](/autores/juan-carlos-uso/)
 - **Editorial:** Libros Crudos
 - **Formato:** Paperback, 272 páginas
 - **Idioma:** Spanish; Castilian
@@ -37,4 +37,4 @@ Disfrazada de vieja incógnita en círculos amplios de la sociedad, creída como
 
 - **Inicio:** 2018/05/20
 - **Fin:** 2018/05/23
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

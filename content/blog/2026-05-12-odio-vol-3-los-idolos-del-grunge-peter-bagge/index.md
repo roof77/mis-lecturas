@@ -10,6 +10,7 @@ tags:
 - Comics
 autores:
 - Peter Bagge
+- Hernán Migoya
 editoriales:
 - UNKNO
 image:
@@ -24,18 +25,19 @@ The bestselling alternative comic of the 1990's, Odio (Hate) chronicles the misa
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Odio: Hate (#3)
-- **Colaboradores:** Hernán Migoya (Author)
+- **Colaboradores:** [Hernán Migoya](/autores/hernan-migoya/) (Author)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 68 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 1594971307 / 9781594971303
 - **Publicación original:** 2005-08-30
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio Vol. 3: Los Idolos del Grunge!](https://www.goodreads.com/book/show/2751013-odio-vol-3)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/12
 - **Fin:** 2026/05/12
+- **Calificación:** Recomendable/5

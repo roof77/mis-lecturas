@@ -9,12 +9,12 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Graphic Novels
-- Seinen
+- Novela gráfica
+- Seinen manga
 - Drama
-- Bande Dessinée
 autores:
 - Kazuo Koike
+- Kazuo Kamimura
 editoriales:
 - Planeta Cómic
 image:
@@ -29,19 +29,19 @@ La sed de venganza de Osayo, una mujer que lo perdió todo a manos de cuatro ind
 
 ## Ficha del libro
 
-- **Autor:** Kazuo Koike
+- **Autor:** [Kazuo Koike](/autores/kazuo-koike/)
 - **Serie:** 修羅雪姫 [Shura Yukihime] (#2)
-- **Colaboradores:** Kazuo Kamimura (illustrator)
+- **Colaboradores:** [Kazuo Kamimura](/autores/kazuo-kamimura/) (illustrator)
 - **Editorial:** Planeta Cómic
 - **Formato:** Hardcover, 520 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8411123820 / 9788411123822
 - **Publicación original:** 2023-06-14
-- **Géneros:** Manga, Comics, Graphic Novels, Seinen, Drama, Bande Dessinée
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Seinen manga](/tags/seinen-manga/), [Drama](/tags/drama/)
 - **Ficha en Goodreads:** [Lady Snowblood, vol. 2](https://www.goodreads.com/book/show/123248034-lady-snowblood-vol-2)
 
 ## Mi lectura
 
 - **Inicio:** 2025/04/07
 - **Fin:** 2025/04/12
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

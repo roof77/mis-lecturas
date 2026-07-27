@@ -8,12 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Fantasy
-- Comic Book
+- Novela gráfica
+- Fantasía
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image
 image:
@@ -30,18 +29,18 @@ The long-awaited return of the most beloved piece of the SEX CRIMINALS phenomeno
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image
 - **Formato:** Kindle Edition, 28 páginas
 - **Idioma:** English
 - **Publicación original:** 2018-05-02
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Fantasy, Comic Book
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Sex Criminals #24: Do You Need Help With That](https://www.goodreads.com/book/show/38218859-sex-criminals-24)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

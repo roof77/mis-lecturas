@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Bizarro Fiction
-- Fiction
-- Mystery
+- Terror
+- Bizarro
+- Ficción
+- Misterio
 - Thriller
-- Crime
+- Crimen
+- Paranormal
+- EEUU
+- Mujeres
 autores:
 - Laura Lee Bahr
+- Hugo Camacho
+- Tamara Romero
+- Branca Studio
 editoriales:
 - Orciny Press
 image:
@@ -39,14 +45,14 @@ Traducción de Hugo Camacho.
 
 ## Ficha del libro
 
-- **Autor:** Laura Lee Bahr
-- **Colaboradores:** Hugo Camacho (Translator), Tamara Romero (Foreword), Branca Studio (Illustrator)
+- **Autor:** [Laura Lee Bahr](/autores/laura-lee-bahr/)
+- **Colaboradores:** [Hugo Camacho](/autores/hugo-camacho/) (Translator), [Tamara Romero](/autores/tamara-romero/) (Foreword), [Branca Studio](/autores/branca-studio/) (Illustrator)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 300 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788494318160
 - **Publicación original:** 2015-06-09
-- **Géneros:** Horror, Bizarro Fiction, Fiction, Mystery, Thriller, Crime, Mystery Thriller, Paranormal, American, Womens
+- **Géneros:** [Terror](/tags/terror/), [Bizarro](/tags/bizarro/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Paranormal](/tags/paranormal/), [EEUU](/tags/eeuu/), [Mujeres](/tags/mujeres/)
 - **Premios ganados:** Wonderland Book Award (2011)
 - **Ficha en Goodreads:** [Fantasma](https://www.goodreads.com/book/show/25630619-fantasma)
 
@@ -54,4 +60,4 @@ Traducción de Hugo Camacho.
 
 - **Inicio:** 2018/07/05
 - **Fin:** 2018/07/10
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
+- Fantasía
 - Romance
-- Fiction
+- Ficción
 - Steampunk
-- Young Adult
-- France
+- Jovenes adultos
+- Francia
+- Realismo mágico
+- Ficción histórica
+- Literatura francesa
 autores:
 - Mathias Malzieu
+- Vicenç Tuset
+- Benjamin Lacombe
 editoriales:
 - Mondadori
 image:
@@ -37,18 +42,18 @@ Deseemos suerte a Jack, y recuerda que, como en este cuento para ñinos grandes,
 
 ## Ficha del libro
 
-- **Autor:** Mathias Malzieu
-- **Colaboradores:** Vicenç Tuset (Traducción), Benjamin Lacombe (Ilustrador)
+- **Autor:** [Mathias Malzieu](/autores/mathias-malzieu/)
+- **Colaboradores:** [Vicenç Tuset](/autores/vicenc-tuset/) (Traducción), [Benjamin Lacombe](/autores/benjamin-lacombe/) (Ilustrador)
 - **Editorial:** Mondadori
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439721951 / 9788439721956
 - **Publicación original:** 2009-09-30
-- **Géneros:** Fantasy, Romance, Fiction, Steampunk, Young Adult, France, Magical Realism, Historical Fiction, Audiobook, French Literature
+- **Géneros:** [Fantasía](/tags/fantasia/), [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Steampunk](/tags/steampunk/), [Jovenes adultos](/tags/jovenes-adultos/), [Francia](/tags/francia/), [Realismo mágico](/tags/realismo-magico/), [Ficción histórica](/tags/ficcion-historica/), [Literatura francesa](/tags/literatura-francesa/)
 - **Ficha en Goodreads:** [La mecánica del corazón](https://www.goodreads.com/book/show/6713167-la-mec-nica-del-coraz-n)
 
 ## Mi lectura
 
 - **Inicio:** 2015/01/18
 - **Fin:** 2015/01/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

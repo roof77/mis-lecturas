@@ -7,10 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Literary Fiction
-- Novels
-- American
+- Ficción
+- Ficción Literaria
+- Novela
+- EEUU
 autores:
 - Alison Lurie
 editoriales:
@@ -27,17 +27,17 @@ En Gente de verdad seis personajes conviven durante dos semanas de verano en una
 
 ## Ficha del libro
 
-- **Autor:** Alison Lurie
+- **Autor:** [Alison Lurie](/autores/alison-lurie/)
 - **Editorial:** Alba Editorial
 - **Formato:** Paperback, 184 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484287599 / 9788484287599
 - **Publicación original:** 2012-09-12
-- **Géneros:** Fiction, Literary Fiction, Novels, American
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [EEUU](/tags/eeuu/)
 - **Ficha en Goodreads:** [Gente de verdad](https://www.goodreads.com/book/show/18753133-gente-de-verdad)
 
 ## Mi lectura
 
 - **Inicio:** 2016/01/04
 - **Fin:** 2016/01/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

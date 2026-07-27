@@ -8,11 +8,13 @@ authors:
 tags:
 - Lecturas
 - Manga
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Bande Dessinée
-- Japan
-- Fiction
+- Japón
+- Ficción
+- Viaje en el tiempo
+- Literatura japanesa
+- Seinen manga
 autores:
 - Jirō Taniguchi
 editoriales:
@@ -32,14 +34,14 @@ guionista Natsuo Sekigawa, “Ciudad sin defensa”, “El viento del oeste es b
 
 ## Ficha del libro
 
-- **Autor:** Jirō Taniguchi
+- **Autor:** [Jirō Taniguchi](/autores/jiro-taniguchi/)
 - **Serie:** A Distant Neighborhood / 遥かな町へ (#1)
 - **Editorial:** Ponent Mon
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493309311 / 9788493309312
 - **Publicación original:** 2003-04-01
-- **Géneros:** Manga, Graphic Novels, Comics, Bande Dessinée, Japan, Fiction, Time Travel, Japanese Literature, Seinen, Graphic Novels Comics
+- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Literatura japanesa](/tags/literatura-japanesa/), [Seinen manga](/tags/seinen-manga/)
 - **Lugares:** Kurayoshi (Japan)
 - **Premios ganados:** Prix du Festival d'Angoulême (2003), Gran Guinigi (2003)
 - **Ficha en Goodreads:** [Barrio lejano - Tomo 1](https://www.goodreads.com/book/show/1187423.Barrio_lejano_Tomo_1)
@@ -48,4 +50,4 @@ guionista Natsuo Sekigawa, “Ciudad sin defensa”, “El viento del oeste es b
 
 - **Inicio:** 2025/03/19
 - **Fin:** 2025/03/19
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

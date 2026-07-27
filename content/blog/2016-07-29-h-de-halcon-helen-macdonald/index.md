@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Memoir
-- Nature
-- Biography
-- Animals
-- Book Club
+- No Ficción
+- Memorias
+- Naturaleza
+- Biografía
+- Animales
+- Club de lectura
+- Pájaros
+- Aflicción
 autores:
 - Helen Macdonald
+- Joan Eloi Roca
 editoriales:
 - Ático de los Libros
 image:
@@ -33,14 +36,14 @@ A raíz de la inesperada muerte de su padre, Helen Macdonald decide comprar y ad
 
 ## Ficha del libro
 
-- **Autor:** Helen Macdonald
-- **Colaboradores:** Joan Eloi Roca (Translator)
+- **Autor:** [Helen Macdonald](/autores/helen-macdonald/)
+- **Colaboradores:** [Joan Eloi Roca](/autores/joan-eloi-roca/) (Translator)
 - **Editorial:** Ático de los Libros
 - **Formato:** Paperback, 384 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416222096 / 9788416222094
 - **Publicación original:** 2015-10-07
-- **Géneros:** Nonfiction, Memoir, Nature, Biography, Animals, Book Club, Audiobook, Birds, Biography Memoir, Grief
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Naturaleza](/tags/naturaleza/), [Biografía](/tags/biografia/), [Animales](/tags/animales/), [Club de lectura](/tags/club-de-lectura/), [Pájaros](/tags/pajaros/), [Aflicción](/tags/afliccion/)
 - **Personajes:** T.H. White
 - **Premios ganados:** Costa Book Award (2014), Prix du Meilleur Livre Étranger (2016), Costa Book of the Year (2014), The Baillie Gifford Prize for Non-Fiction (2014), Premio Merck Serono (2016)
 - **Nominaciones:** Orion Book Award (2016), National Book Critics Circle Award (2015), Andrew Carnegie Medal (2016), Kirkus Prize (2015), Goodreads Choice Award (2015), Waterstones Book of the Year (2014), The Wainwright Prize for UK Nature Writing (2015)
@@ -50,4 +53,4 @@ A raíz de la inesperada muerte de su padre, Helen Macdonald decide comprar y ad
 
 - **Inicio:** 2016/07/20
 - **Fin:** 2016/07/29
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

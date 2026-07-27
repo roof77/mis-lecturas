@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Young Adult
-- Graphic Novels Comics
-- Crime
+- Ficción
+- Jovenes adultos
+- Crimen
+- Contemporaneo
+- Romance
 autores:
 - Charles Forsman
 editoriales:
@@ -29,18 +30,18 @@ Fantagraphics is proud to publish this first-ever hardcover edition of TEotFW 
 
 ## Ficha del libro
 
-- **Autor:** Charles Forsman
+- **Autor:** [Charles Forsman](/autores/charles-forsman/)
 - **Serie:** The End of the Fucking World (#1-7)
 - **Editorial:** Fantagraphics
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** English
 - **ISBN:** 1606996673 / 9781606996676
 - **Publicación original:** 2013-08-03
-- **Géneros:** Graphic Novels, Comics, Fiction, Young Adult, Graphic Novels Comics, Crime, Contemporary, Romance, Comic Book, Bande Dessinée
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Crimen](/tags/crimen/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/)
 - **Ficha en Goodreads:** [The End of the Fucking World](https://www.goodreads.com/book/show/16255272-the-end-of-the-fucking-world)
 
 ## Mi lectura
 
 - **Inicio:** 2024/04/27
 - **Fin:** 2024/04/27
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
+- Fantasía
 - Harry Potter
-- Fiction
-- Young Adult
-- Magic
-- Childrens
+- Ficción
+- Jovenes adultos
+- Mágia
+- Niños
+- Relatos
+- Dragones
 autores:
 - Newt Scamander
+- Alicia Dellepiane Rawson
+- J.K. Rowling
 editoriales:
 - Salamandra
 image:
@@ -30,15 +34,15 @@ Lo que se origine de la venta de este libro se destinará a Comic Relief, lo que
 
 ## Ficha del libro
 
-- **Autor:** Newt Scamander
+- **Autor:** [Newt Scamander](/autores/newt-scamander/)
 - **Serie:** Hogwarts Library (#1)
-- **Colaboradores:** Alicia Dellepiane Rawson (Translator), J.K. Rowling (Author)
+- **Colaboradores:** [Alicia Dellepiane Rawson](/autores/alicia-dellepiane-rawson/) (Translator), [J.K. Rowling](/autores/j-k-rowling/) (Author)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 90 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478887245 / 9788478887248
 - **Publicación original:** 2001-10-01
-- **Géneros:** Fantasy, Harry Potter, Fiction, Young Adult, Magic, Childrens, Audiobook, Middle Grade, Short Stories, Dragons
+- **Géneros:** [Fantasía](/tags/fantasia/), [Harry Potter](/tags/harry-potter/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Relatos](/tags/relatos/), [Dragones](/tags/dragones/)
 - **Personajes:** Ron Weasley, Newt Scamander, Albus Dumbledore, Harry Potter, Hermione Granger
 - **Ficha en Goodreads:** [Animales fantásticos y dónde encontrarlos](https://www.goodreads.com/book/show/2490849.Animales_fant_sticos_y_d_nde_encontrarlos)
 
@@ -46,4 +50,4 @@ Lo que se origine de la venta de este libro se destinará a Comic Relief, lo que
 
 - **Inicio:** 2016/12/30
 - **Fin:** 2016/12/30
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- LGBT
+- LGTBIQ+
 - Queer
-- Fiction
+- Ficción
 - Humor
+- Lesbianismo
+- Política
+- Feminismo
 autores:
 - Alison Bechdel
+- Rocío de la Maya Retamar
 editoriales:
 - Reservoir Books
 image:
@@ -33,14 +37,14 @@ Sin embargo, su necesidad de obtener ingresos, sus propias contradicciones, y ta
 
 ## Ficha del libro
 
-- **Autor:** Alison Bechdel
-- **Colaboradores:** Rocío de la Maya Retamar (Translator)
+- **Autor:** [Alison Bechdel](/autores/alison-bechdel/)
+- **Colaboradores:** [Rocío de la Maya Retamar](/autores/rocio-de-la-maya-retamar/) (Translator)
 - **Editorial:** Reservoir Books
 - **Formato:** Paperback, 272 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419940860 / 9788419940865
 - **Publicación original:** 2025-10-18
-- **Géneros:** Graphic Novels, Comics, LGBT, Queer, Fiction, Humor, Graphic Novels Comics, Lesbian, Politics, Feminism
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Lesbianismo](/tags/lesbianismo/), [Política](/tags/politica/), [Feminismo](/tags/feminismo/)
 - **Nominaciones:** Libby Award (2026)
 - **Ficha en Goodreads:** [Consumida](https://www.goodreads.com/book/show/236081997-consumida)
 
@@ -48,3 +52,4 @@ Sin embargo, su necesidad de obtener ingresos, sus propias contradicciones, y ta
 
 - **Inicio:** 2026/03/07
 - **Fin:** 2026/03/08
+- **Calificación:** Muy recomendable/5

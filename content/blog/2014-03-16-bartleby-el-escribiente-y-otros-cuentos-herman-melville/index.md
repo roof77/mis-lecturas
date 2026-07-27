@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Short Stories
-- Literature
-- American
-- 19th Century
+- Clásico
+- Ficción
+- Relatos
+- Literatura
+- EEUU
+- Siglo XIX
+- Colegio
+- Novella
 autores:
 - Herman Melville
 editoriales:
@@ -30,12 +32,12 @@ The tale is one of the final works of fiction published by Melville before, slip
 
 ## Ficha del libro
 
-- **Autor:** Herman Melville
+- **Autor:** [Herman Melville](/autores/herman-melville/)
 - **Editorial:** Valdemar
 - **Formato:** Paperback
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477022844 / 9788477022848
-- **Géneros:** Classics, Fiction, Short Stories, Literature, American, 19th Century, School, Novella, Audiobook, The United States Of America
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Siglo XIX](/tags/siglo-xix/), [Colegio](/tags/colegio/), [Novella](/tags/novella/)
 - **Personajes:** Bartleby, Ginger Nut, Turkey, Nippers
 - **Lugares:** New York City, New York (United States)
 - **Ficha en Goodreads:** [Bartleby, el escribiente y otros cuentos](https://www.goodreads.com/book/show/7704643-bartleby-el-escribiente-y-otros-cuentos)
@@ -44,4 +46,4 @@ The tale is one of the final works of fiction published by Melville before, slip
 
 - **Inicio:** 2014/03/16
 - **Fin:** 2014/03/16
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

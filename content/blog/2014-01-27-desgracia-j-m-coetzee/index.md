@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Africa
-- South Africa
-- Classics
-- Literature
-- Novels
+- Ficción
+- África
+- Sudáfrica
+- Clásico
+- Literatura
+- Novela
+- Ficción Literaria
+- Contemporaneo
+- Premio Nobel
+- Club de lectura
 autores:
 - J.M. Coetzee
+- Miguel Martínez-Lage
 editoriales:
 - Debolsillo
 image:
@@ -30,14 +35,14 @@ Allá¬, en una sociedad donde los códigos de comportamiento, sean de blancos o
 
 ## Ficha del libro
 
-- **Autor:** J.M. Coetzee
-- **Colaboradores:** Miguel Martínez-Lage (Translator)
+- **Autor:** [J.M. Coetzee](/autores/j-m-coetzee/)
+- **Colaboradores:** [Miguel Martínez-Lage](/autores/miguel-martinez-lage/) (Translator)
 - **Editorial:** Debolsillo
 - **Formato:** Paperback, 272 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8497599446 / 9788497599443
 - **Publicación original:** 2012-06-01
-- **Géneros:** Fiction, Africa, South Africa, Classics, Literature, Novels, Literary Fiction, Contemporary, Nobel Prize, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [África](/tags/africa/), [Sudáfrica](/tags/sudafrica/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Premio Nobel](/tags/premio-nobel/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** David Lurie, Lucy Lurie, Petrus, Bev Shaw, Melanie Isaacs
 - **Lugares:** South Africa, Cape Town (South Africa), Grahamstown (South Africa)
 - **Premios ganados:** Booker Prize (1999), Commonwealth Writers' Prize (2000)
@@ -48,4 +53,4 @@ Allá¬, en una sociedad donde los códigos de comportamiento, sean de blancos o
 
 - **Inicio:** 2014/01/25
 - **Fin:** 2014/01/27
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fiction
-- Fantasy
-- Graphic Novels Comics
+- Novela gráfica
+- Ficción
+- Fantasía
 - Romance
+- Ciencia ficción
+- Humor
 autores:
 - Matt Fraction
+- Chip Zdarsky
+- Santiago García
 editoriales:
 - Astiberri
 image:
@@ -33,18 +36,19 @@ Matt Fraction y Chip Zdarsky ponen fin con este sexto volumen a Sex Criminals, l
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals
-- **Colaboradores:** Chip Zdarsky (Illustrator), Santiago García (Translator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator), [Santiago García](/autores/santiago-garcia/) (Translator)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 136 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418215852 / 9788418215858
 - **Publicación original:** 2021-09-01
-- **Géneros:** Comics, Graphic Novels, Fiction, Fantasy, Graphic Novels Comics, Romance, Comic Book, Science Fiction, Humor, Ebooks
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Romance](/tags/romance/), [Ciencia ficción](/tags/ciencia-ficcion/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Sex Criminals, Vol. 6: Seis criminales](https://www.goodreads.com/book/show/59222719-sex-criminals-vol-6)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/24
 - **Fin:** 2026/06/24
+- **Calificación:** Muy bien/5

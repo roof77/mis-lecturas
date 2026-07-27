@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Fantasy
+- Ciencia ficción
+- Ficción
+- Fantasía
 - Novella
-- Audiobook
-- Young Adult
+- Jovenes adultos
+- Ciencia Ficción
+- África
+- Extraterrestres
+- Adultos
 autores:
 - Nnedi Okorafor
+- Carla Bataller Estruch
 editoriales:
 - Crononauta
 image:
@@ -31,15 +35,15 @@ Lejos de su hogar cuando comienza la batalla, Binti viajará a contrarreloj entr
 
 ## Ficha del libro
 
-- **Autor:** Nnedi Okorafor
+- **Autor:** [Nnedi Okorafor](/autores/nnedi-okorafor/)
 - **Serie:** Binti (#3)
-- **Colaboradores:** Carla Bataller Estruch (Translator)
+- **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (Translator)
 - **Editorial:** Crononauta
 - **Formato:** Paperback, 266 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412059913 / 9788412059915
 - **Publicación original:** 2019-10-10
-- **Géneros:** Science Fiction, Fiction, Fantasy, Novella, Audiobook, Young Adult, Science Fiction Fantasy, Africa, Aliens, Adult
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Jovenes adultos](/tags/jovenes-adultos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [África](/tags/africa/), [Extraterrestres](/tags/extraterrestres/), [Adultos](/tags/adultos/)
 - **Nominaciones:** Hugo Award (2019), Goodreads Choice Award (2018), Nommo Award (2019), Readers' Favorite Science Fiction (2018)
 - **Ficha en Goodreads:** [Binti. La Mascarada Nocturna (Binti, #3)](https://www.goodreads.com/book/show/49502990-binti-la-mascarada-nocturna)
 
@@ -47,4 +51,4 @@ Lejos de su hogar cuando comienza la batalla, Binti viajará a contrarreloj entr
 
 - **Inicio:** 2019/12/02
 - **Fin:** 2019/12/06
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

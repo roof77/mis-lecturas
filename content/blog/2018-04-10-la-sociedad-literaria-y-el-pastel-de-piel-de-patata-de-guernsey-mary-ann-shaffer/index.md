@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Historical Fiction
-- Fiction
-- Book Club
+- Ficción histórica
+- Ficción
+- Club de lectura
 - Romance
-- Historical
-- World War II
+- Histórico
+- Segunda guerra mundial
+- Guerra
+- Libros sobre libros
+- Adultos
 autores:
 - Mary Ann Shaffer
+- Annie Barrows
+- Sandra Campos
 editoriales:
 - RBA Libros
 image:
@@ -31,14 +36,14 @@ Esta novela ostenta una galería de personajes profundamente peculiares, todos a
 
 ## Ficha del libro
 
-- **Autor:** Mary Ann Shaffer
-- **Colaboradores:** Annie Barrows (Author), Sandra Campos (Translator)
+- **Autor:** [Mary Ann Shaffer](/autores/mary-ann-shaffer/)
+- **Colaboradores:** [Annie Barrows](/autores/annie-barrows/) (Author), [Sandra Campos](/autores/sandra-campos/) (Translator)
 - **Editorial:** RBA Libros
 - **Formato:** Paperback, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849867395X / 9788498673951
 - **Publicación original:** 2009-01-01
-- **Géneros:** Historical Fiction, Fiction, Book Club, Romance, Historical, World War II, Audiobook, War, Books About Books, Adult
+- **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Romance](/tags/romance/), [Histórico](/tags/historico/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Guerra](/tags/guerra/), [Libros sobre libros](/tags/libros-sobre-libros/), [Adultos](/tags/adultos/)
 - **Personajes:** Sophie Kintock, Juliet Ashton, Dawsey Adams, Susan Scott, Sidney Stark, Elizabeth McKenna, Isola Pribby, Markham V. Reynolds, Jr., Kit McKenna, Adelaide Addison
 - **Lugares:** United Kingdom, Guernsey
 - **Premios ganados:** Indies Choice Book Award (2009)
@@ -49,4 +54,4 @@ Esta novela ostenta una galería de personajes profundamente peculiares, todos a
 
 - **Inicio:** 2018/04/08
 - **Fin:** 2018/04/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

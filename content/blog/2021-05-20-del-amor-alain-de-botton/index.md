@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Philosophy
-- Fiction
+- Filosofía
+- Ficción
 - Romance
-- Psychology
-- Love
-- Essays
+- Psicología
+- Amor
+- Ensayo
+- Relacciones
+- Contemporaneo
+- Novela
+- Autoayuda
 autores:
 - Alain de Botton
 editoriales:
@@ -30,17 +34,17 @@ Sin perder nunca la amenidad ni el sentido del humor, Alain de Botton construye 
 
 ## Ficha del libro
 
-- **Autor:** Alain de Botton
+- **Autor:** [Alain de Botton](/autores/alain-de-botton/)
 - **Editorial:** Ediciones B
 - **Formato:** Mass Market Paperback, 373 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 844068035X / 9788440680358
 - **Publicación original:** 1998-01-01
-- **Géneros:** Philosophy, Fiction, Romance, Psychology, Love, Essays, Relationships, Contemporary, Novels, Self Help
+- **Géneros:** [Filosofía](/tags/filosofia/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Psicología](/tags/psicologia/), [Amor](/tags/amor/), [Ensayo](/tags/ensayo/), [Relacciones](/tags/relacciones/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Autoayuda](/tags/autoayuda/)
 - **Ficha en Goodreads:** [Del Amor](https://www.goodreads.com/book/show/15813492-del-amor)
 
 ## Mi lectura
 
 - **Inicio:** 2021/05/12
 - **Fin:** 2021/05/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

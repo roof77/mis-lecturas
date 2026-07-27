@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Audiobook
-- High Fantasy
-- Epic Fantasy
-- Adult
+- Fantasía
+- Ficción
+- Alta fantasía
+- Fantasía épica
+- Adultos
+- Mágia
+- Romance
+- Ciencia Ficción
+- Ciencia ficción
 autores:
 - Brandon Sanderson
+- Rafael Marín Trechera
 editoriales:
 - Nova
 image:
@@ -33,15 +37,15 @@ Bienvenidos a la ciudad de Elantris, la poderosa y bella capital de Arelon llama
 
 ## Ficha del libro
 
-- **Autor:** Brandon Sanderson
+- **Autor:** [Brandon Sanderson](/autores/brandon-sanderson/)
 - **Serie:** Elantris (#1)
-- **Colaboradores:** Rafael Marín Trechera (Translator)
+- **Colaboradores:** [Rafael Marín Trechera](/autores/rafael-marin-trechera/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Hardcover, 794 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 846665884X / 9788466658843
 - **Publicación original:** 2016-04-13
-- **Géneros:** Fantasy, Fiction, Audiobook, High Fantasy, Epic Fantasy, Adult, Magic, Romance, Science Fiction Fantasy, Science Fiction
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Alta fantasía](/tags/alta-fantasia/), [Fantasía épica](/tags/fantasia-epica/), [Adultos](/tags/adultos/), [Mágia](/tags/magia/), [Romance](/tags/romance/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/)
 - **Personajes:** Prince Raoden, Princess Sarene, Gyorn Hrathen
 - **Premios ganados:** AML Award (2005)
 - **Nominaciones:** Grand Prix de l'Imaginaire (2010)
@@ -51,4 +55,4 @@ Bienvenidos a la ciudad de Elantris, la poderosa y bella capital de Arelon llama
 
 - **Inicio:** 2015/08/06
 - **Fin:** 2015/08/12
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

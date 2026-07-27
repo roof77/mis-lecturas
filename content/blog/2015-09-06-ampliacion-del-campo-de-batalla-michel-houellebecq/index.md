@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- France
-- Literature
-- Contemporary
-- French Literature
-- Novels
+- Ficción
+- Francia
+- Literatura
+- Contemporaneo
+- Literatura francesa
+- Novela
+- Filosofía
+- Siglo XX
+- Ficción Literaria
 autores:
 - Michel Houellebecq
+- Encarna Castejón
 editoriales:
 - Editorial Anagrama
 image:
@@ -29,14 +33,14 @@ Esta novela catapultada a la categoría de estandarte de una generación está p
 
 ## Ficha del libro
 
-- **Autor:** Michel Houellebecq
-- **Colaboradores:** Encarna Castejón (Translator)
+- **Autor:** [Michel Houellebecq](/autores/michel-houellebecq/)
+- **Colaboradores:** [Encarna Castejón](/autores/encarna-castejon/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Mass Market Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433966901 / 9788433966902
 - **Publicación original:** 2006-04-18
-- **Géneros:** Fiction, France, Literature, Contemporary, French Literature, Novels, Roman, Philosophy, 20th Century, Literary Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Literatura](/tags/literatura/), [Contemporaneo](/tags/contemporaneo/), [Literatura francesa](/tags/literatura-francesa/), [Novela](/tags/novela/), [Filosofía](/tags/filosofia/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Personajes:** Raphaël Tisserand, Le héros
 - **Lugares:** Paris (France)
 - **Ficha en Goodreads:** [Ampliación del campo de batalla](https://www.goodreads.com/book/show/106901.Ampliaci_n_del_campo_de_batalla)
@@ -45,4 +49,4 @@ Esta novela catapultada a la categoría de estandarte de una generación está p
 
 - **Inicio:** 2015/09/05
 - **Fin:** 2015/09/06
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

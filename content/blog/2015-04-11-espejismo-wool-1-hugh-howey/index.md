@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Dystopia
-- Post Apocalyptic
-- Fantasy
-- Audiobook
+- Ciencia ficción
+- Ficción
+- Distopía
+- Postapocalíptico
+- Fantasía
+- Relatos
+- Ciencia Ficción
+- Club de lectura
+- Apocalipsis
 autores:
 - Hugh Howey
 editoriales:
@@ -34,18 +37,18 @@ Espejismo fue publicado originalmente como cinco historias cortas; el éxito con
 
 ## Ficha del libro
 
-- **Autor:** Hugh Howey
+- **Autor:** [Hugh Howey](/autores/hugh-howey/)
 - **Serie:** Silo (#1A)
 - **Editorial:** Minotauro
 - **Formato:** Kindle Edition, 46 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788445001585
 - **Publicación original:** 2013-07-30
-- **Géneros:** Science Fiction, Fiction, Dystopia, Post Apocalyptic, Fantasy, Audiobook, Short Stories, Science Fiction Fantasy, Book Club, Apocalyptic
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Postapocalíptico](/tags/postapocaliptico/), [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Apocalipsis](/tags/apocalipsis/)
 - **Ficha en Goodreads:** [Espejismo (Wool, #1)](https://www.goodreads.com/book/show/18270865-espejismo)
 
 ## Mi lectura
 
 - **Inicio:** 2015/04/10
 - **Fin:** 2015/04/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

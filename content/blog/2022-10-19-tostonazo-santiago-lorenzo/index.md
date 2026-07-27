@@ -8,10 +8,10 @@ authors:
 tags:
 - Lecturas
 - Humor
-- Fiction
-- Spanish Literature
+- Ficción
+- Literatura hispana
 - Drama
-- Novels
+- Novela
 autores:
 - Santiago Lorenzo
 editoriales:
@@ -28,17 +28,17 @@ Un luminoso canto a la vida contra el aburrimiento. Leer esta novela es el mejor
 
 ## Ficha del libro
 
-- **Autor:** Santiago Lorenzo
+- **Autor:** [Santiago Lorenzo](/autores/santiago-lorenzo/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419172200 / 9788419172204
 - **Publicación original:** 2022-10-05
-- **Géneros:** Humor, Fiction, Spanish Literature, Drama, Novels
+- **Géneros:** [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Drama](/tags/drama/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Tostonazo](https://www.goodreads.com/book/show/61930624-tostonazo)
 
 ## Mi lectura
 
 - **Inicio:** 2022/10/16
 - **Fin:** 2022/10/19
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

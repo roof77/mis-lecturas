@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Literature
-- Literary Fiction
-- American
-- Westerns
+- Relatos
+- Ficción
+- Literatura
+- Ficción Literaria
+- EEUU
+- Oeste
+- Contemporaneo
+- Siglo XX
 autores:
 - Richard Ford
+- Jesús Zulaika Goicoechea
 editoriales:
 - Editorial Anagrama
 image:
@@ -29,18 +32,18 @@ Diez narraciones ambientadas en Montana, un lugar semisalvaje, un paisaje frío 
 
 ## Ficha del libro
 
-- **Autor:** Richard Ford
-- **Colaboradores:** Jesús Zulaika Goicoechea (Translator)
+- **Autor:** [Richard Ford](/autores/richard-ford/)
+- **Colaboradores:** [Jesús Zulaika Goicoechea](/autores/jesus-zulaika-goicoechea/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Mass Market Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 843396769X / 9788433967695
 - **Publicación original:** 2004-04-28
-- **Géneros:** Short Stories, Fiction, Literature, Literary Fiction, American, Westerns, Contemporary, 20th Century, The United States Of America, Americana
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/), [Oeste](/tags/oeste/), [Contemporaneo](/tags/contemporaneo/), [Siglo XX](/tags/siglo-xx/)
 - **Ficha en Goodreads:** [Rock Springs](https://www.goodreads.com/book/show/92984.Rock_Springs)
 
 ## Mi lectura
 
 - **Inicio:** 2020/10/25
 - **Fin:** 2020/11/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Young Adult
-- Fiction
+- Fantasía
+- Jovenes adultos
+- Ficción
 - Dark Academia
-- Audiobook
-- Magic
+- Mágia
+- Fantasía urbana
+- Romance
+- Ciencia Ficción
 autores:
 - Naomi Novik
+- Patricia Sebastián Hernández
 editoriales:
 - Umbriel
 image:
@@ -33,15 +36,15 @@ Mientras la misión para salvar a su amor verdadero se intensifica, El está a p
 
 ## Ficha del libro
 
-- **Autor:** Naomi Novik
+- **Autor:** [Naomi Novik](/autores/naomi-novik/)
 - **Serie:** The Scholomance (#3)
-- **Colaboradores:** Patricia Sebastián Hernández (Translator)
+- **Colaboradores:** [Patricia Sebastián Hernández](/autores/patricia-sebastian-hernandez/) (Translator)
 - **Editorial:** Umbriel
 - **Formato:** Paperback, 416 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419030163 / 9788419030160
 - **Publicación original:** 2023-03-01
-- **Géneros:** Fantasy, Young Adult, Fiction, Dark Academia, Audiobook, Magic, Urban Fantasy, Romance, Young Adult Fantasy, Science Fiction Fantasy
+- **Géneros:** [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Dark Academia](/tags/dark-academia/), [Mágia](/tags/magia/), [Fantasía urbana](/tags/fantasia-urbana/), [Romance](/tags/romance/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Personajes:** Galadriel Higgins
 - **Nominaciones:** Locus Award (2023), Goodreads Choice Award (2022), Lodestar Award (2023), Readers' Favorite Fantasy (2022)
 - **Ficha en Goodreads:** [Los enclaves dorados (Escolomancia, #3)](https://www.goodreads.com/book/show/75130247-los-enclaves-dorados)
@@ -50,4 +53,4 @@ Mientras la misión para salvar a su amor verdadero se intensifica, El está a p
 
 - **Inicio:** 2023/09/11
 - **Fin:** 2023/09/14
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

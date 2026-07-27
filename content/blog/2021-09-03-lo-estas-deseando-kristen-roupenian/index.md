@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Horror
-- Contemporary
-- Feminism
-- Audiobook
+- Relatos
+- Ficción
+- Terror
+- Contemporaneo
+- Feminismo
+- Ficción Literaria
+- Colección de relatos
+- Adultos
+- Club de lectura
 autores:
 - Kristen Roupenian
 editoriales:
@@ -37,17 +40,17 @@ Un libro cautivador sobre los roles de género, los misterios del deseo y el des
 
 ## Ficha del libro
 
-- **Autor:** Kristen Roupenian
+- **Autor:** [Kristen Roupenian](/autores/kristen-roupenian/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Kindle Edition, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433940341 / 9788433940346
 - **Publicación original:** 2019-05-22
-- **Géneros:** Short Stories, Fiction, Horror, Contemporary, Feminism, Audiobook, Literary Fiction, Short Story Collection, Adult, Book Club
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Contemporaneo](/tags/contemporaneo/), [Feminismo](/tags/feminismo/), [Ficción Literaria](/tags/ficcion-literaria/), [Colección de relatos](/tags/coleccion-de-relatos/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/)
 - **Ficha en Goodreads:** [Lo estás deseando](https://www.goodreads.com/book/show/45479294-lo-est-s-deseando)
 
 ## Mi lectura
 
 - **Inicio:** 2021/08/29
 - **Fin:** 2021/09/03
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

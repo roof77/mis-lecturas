@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- LGBT
+- Fantasía
+- Ficción
+- LGTBIQ+
 - Queer
 - Romance
-- M M Romance
+- Gay
+- Ciencia Ficción
+- Adultos
 autores:
 - Ellen Kushner
+- Manuel de los Reyes
 editoriales:
 - Bibliópolis
 image:
@@ -48,15 +51,15 @@ Guy Gavriel Kay
 
 ## Ficha del libro
 
-- **Autor:** Ellen Kushner
+- **Autor:** [Ellen Kushner](/autores/ellen-kushner/)
 - **Serie:** The World of Riverside (#1)
-- **Colaboradores:** Manuel de los Reyes (Translator)
+- **Colaboradores:** [Manuel de los Reyes](/autores/manuel-de-los-reyes/) (Translator)
 - **Editorial:** Bibliópolis
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8496173380 / 9788496173385
 - **Publicación original:** 2005-01-01
-- **Géneros:** Fantasy, Fiction, LGBT, Queer, Romance, M M Romance, Audiobook, Gay, Science Fiction Fantasy, Adult
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Romance](/tags/romance/), [Gay](/tags/gay/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/)
 - **Personajes:** Alec (Ellen Kushner), Richard St Vier
 - **Premios ganados:** Audie Award (2013)
 - **Ficha en Goodreads:** [A punta de espada](https://www.goodreads.com/book/show/6404872-a-punta-de-espada)
@@ -65,4 +68,4 @@ Guy Gavriel Kay
 
 - **Inicio:** 2014/03/26
 - **Fin:** 2014/03/31
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- LGBT
-- Vampires
+- LGTBIQ+
+- Vampiros
 - Romance
-- Classics
-- Short Stories
-- Gothic
+- Clásico
+- Relatos
+- Gótico
+- Terror
+- Queer
+- Literatura alemana
 autores:
 - Karl Heinrich Ulrichs
 image:
@@ -27,11 +30,11 @@ Manor, un joven marinero, rescata al pequeño Har de morir ahogado. A partir de 
 
 ## Ficha del libro
 
-- **Autor:** Karl Heinrich Ulrichs
+- **Autor:** [Karl Heinrich Ulrichs](/autores/karl-heinrich-ulrichs/)
 - **Formato:** ebook, 9 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 1884-01-01
-- **Géneros:** LGBT, Vampires, Romance, Classics, Short Stories, Gothic, Horror, Queer, Audiobook, German Literature
+- **Géneros:** [LGTBIQ+](/tags/lgtbiq/), [Vampiros](/tags/vampiros/), [Romance](/tags/romance/), [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Gótico](/tags/gotico/), [Terror](/tags/terror/), [Queer](/tags/queer/), [Literatura alemana](/tags/literatura-alemana/)
 - **Personajes:** Manor
 - **Ficha en Goodreads:** [Manor](https://www.goodreads.com/book/show/15982949-manor)
 
@@ -39,4 +42,4 @@ Manor, un joven marinero, rescata al pequeño Har de morir ahogado. A partir de 
 
 - **Inicio:** 2018/02/07
 - **Fin:** 2018/02/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Science
-- Health
-- Audiobook
-- Biology
-- Medicine
+- No Ficción
+- Ciencia
+- Salud
+- Biología
+- Medicina
+- Historia
+- Humor
+- Club de lectura
 autores:
 - Bill Bryson
+- Francisco J. Ramos Mena
 editoriales:
 - RBA Libros
 image:
@@ -29,14 +32,14 @@ Del autor de Una breve historia de casi todo (200.000 ejemplares vendidosNos pas
 
 ## Ficha del libro
 
-- **Autor:** Bill Bryson
-- **Colaboradores:** Francisco J. Ramos Mena (Translator)
+- **Autor:** [Bill Bryson](/autores/bill-bryson/)
+- **Colaboradores:** [Francisco J. Ramos Mena](/autores/francisco-j-ramos-mena/) (Translator)
 - **Editorial:** RBA Libros
 - **Formato:** Kindle Edition, 684 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849187626X / 9788491876267
 - **Publicación original:** 2020-02-27
-- **Géneros:** Nonfiction, Science, Health, Audiobook, Biology, Medicine, Medical, History, Humor, Book Club
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Ciencia](/tags/ciencia/), [Salud](/tags/salud/), [Biología](/tags/biologia/), [Medicina](/tags/medicina/), [Historia](/tags/historia/), [Humor](/tags/humor/), [Club de lectura](/tags/club-de-lectura/)
 - **Nominaciones:** Royal Society Science Book Prize (2020), PEN/E.O. Wilson Literary Science Writing Award (2020), Goodreads Choice Award (2019), Readers' Favorite Science & Technology (2019)
 - **Ficha en Goodreads:** [El cuerpo humano: Guía para ocupantes](https://www.goodreads.com/book/show/51808402-el-cuerpo-humano)
 
@@ -44,4 +47,4 @@ Del autor de Una breve historia de casi todo (200.000 ejemplares vendidosNos pas
 
 - **Inicio:** 2020/05/02
 - **Fin:** 2020/06/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

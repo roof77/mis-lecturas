@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Vampires
-- Fantasy
-- Fiction
+- Terror
+- Vampiros
+- Fantasía
+- Ficción
 - Paranormal
-- Science Fiction
+- Ciencia ficción
+- Gótico
+- Fantasía urbana
+- Sobrenatural
+- Ficción especulativa
 autores:
 - Suzy McKee Charnas
+- Albert Solé
 editoriales:
 - 'Madrid: Alamut'
 image:
@@ -37,14 +42,14 @@ Suzy McKee Charnas ha conseguido con El tapiz del vampiro un clásico moderno, t
 
 ## Ficha del libro
 
-- **Autor:** Suzy McKee Charnas
-- **Colaboradores:** Albert Solé (Translator)
+- **Autor:** [Suzy McKee Charnas](/autores/suzy-mckee-charnas/)
+- **Colaboradores:** [Albert Solé](/autores/albert-sole/) (Translator)
 - **Editorial:** Madrid: Alamut
 - **Formato:** Paperback, 248 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498890217 / 9788498890211
 - **Publicación original:** 2009-03-01
-- **Géneros:** Horror, Vampires, Fantasy, Fiction, Paranormal, Science Fiction, Gothic, Urban Fantasy, Supernatural, Speculative Fiction
+- **Géneros:** [Terror](/tags/terror/), [Vampiros](/tags/vampiros/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Paranormal](/tags/paranormal/), [Ciencia ficción](/tags/ciencia-ficcion/), [Gótico](/tags/gotico/), [Fantasía urbana](/tags/fantasia-urbana/), [Sobrenatural](/tags/sobrenatural/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Nominaciones:** Nebula Award (1981), Locus Award (1981), Balrog Award (1981)
 - **Ficha en Goodreads:** [El tapiz del vampiro](https://www.goodreads.com/book/show/6465034-el-tapiz-del-vampiro)
 
@@ -52,4 +57,4 @@ Suzy McKee Charnas ha conseguido con El tapiz del vampiro un clásico moderno, t
 
 - **Inicio:** 2016/09/25
 - **Fin:** 2016/10/01
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

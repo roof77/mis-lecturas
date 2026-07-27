@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Russia
-- Fiction
-- Russian Literature
-- Short Stories
-- 19th Century
+- Clásico
+- Rusia
+- Ficción
+- Literatura rusa
+- Relatos
+- Siglo XIX
+- Literatura
+- Romance
+- Novella
+- Crimen
 autores:
 - Nikolai Leskov
+- Ignasi Blanch Gisbert
+- Marta Sánchez-Nieves
 editoriales:
 - Nórdica Libros
 image:
@@ -29,14 +35,14 @@ Una de las mejores novelas rusas de todos los tiempos. La historia de un amor ap
 
 ## Ficha del libro
 
-- **Autor:** Nikolai Leskov
-- **Colaboradores:** Ignasi Blanch Gisbert (Illustrator), Marta Sánchez-Nieves (Translator)
+- **Autor:** [Nikolai Leskov](/autores/nikolai-leskov/)
+- **Colaboradores:** [Ignasi Blanch Gisbert](/autores/ignasi-blanch-gisbert/) (Illustrator), [Marta Sánchez-Nieves](/autores/marta-sanchez-nieves/) (Translator)
 - **Editorial:** Nórdica Libros
 - **Formato:** Paperback, 136 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416440182 / 9788416440184
 - **Publicación original:** 2015-09-07
-- **Géneros:** Classics, Russia, Fiction, Russian Literature, Short Stories, 19th Century, Literature, Romance, Novella, Crime
+- **Géneros:** [Clásico](/tags/clasico/), [Rusia](/tags/rusia/), [Ficción](/tags/ficcion/), [Literatura rusa](/tags/literatura-rusa/), [Relatos](/tags/relatos/), [Siglo XIX](/tags/siglo-xix/), [Literatura](/tags/literatura/), [Romance](/tags/romance/), [Novella](/tags/novella/), [Crimen](/tags/crimen/)
 - **Lugares:** Mtsensk (Russian Federation)
 - **Ficha en Goodreads:** [Lady Macbeth de Mtsensk](https://www.goodreads.com/book/show/28053317-lady-macbeth-de-mtsensk)
 
@@ -44,4 +50,4 @@ Una de las mejores novelas rusas de todos los tiempos. La historia de un amor ap
 
 - **Inicio:** 2018/01/14
 - **Fin:** 2018/01/15
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

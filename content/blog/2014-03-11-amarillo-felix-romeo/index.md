@@ -23,7 +23,7 @@ El 27 de febrero de 1992 Chusé Izuel se tira por el balcón. Años después, F�
 
 ## Ficha del libro
 
-- **Autor:** Félix Romeo
+- **Autor:** [Félix Romeo](/autores/felix-romeo/)
 - **Editorial:** Plot.
 - **Formato:** Paperback, 155 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ El 27 de febrero de 1992 Chusé Izuel se tira por el balcón. Años después, F�
 
 - **Inicio:** 2014/03/10
 - **Fin:** 2014/03/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

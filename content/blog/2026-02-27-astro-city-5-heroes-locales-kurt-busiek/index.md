@@ -8,11 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Superheroes
-- Fiction
-- Graphic Novels Comics
-- Comic Book
+- Ficción
+- Ciencia ficción
+- Fantasía
+- Relatos
+- Crimen
 autores:
 - Kurt Busiek
 editoriales:
@@ -29,17 +31,18 @@ LOCAL HEROES kicks off with three stand- alone stories that reintroduce the hero
 
 ## Ficha del libro
 
-- **Autor:** Kurt Busiek
+- **Autor:** [Kurt Busiek](/autores/kurt-busiek/)
 - **Serie:** Astro City (#5)
 - **Editorial:** Norma Editorial (Wildstorm Comics)
 - **Formato:** Hardcover, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467903236 / 9788467903232
 - **Publicación original:** 2010-12-01
-- **Géneros:** Comics, Graphic Novels, Superheroes, Fiction, Graphic Novels Comics, Comic Book, Science Fiction, Fantasy, Short Stories, Crime
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/), [Crimen](/tags/crimen/)
 - **Ficha en Goodreads:** [Astro City #5: Héroes locales](https://www.goodreads.com/book/show/13457470-astro-city-5)
 
 ## Mi lectura
 
 - **Inicio:** 2026/02/27
 - **Fin:** 2026/02/27
+- **Calificación:** Muy bien/5

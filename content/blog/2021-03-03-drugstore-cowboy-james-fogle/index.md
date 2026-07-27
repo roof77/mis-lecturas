@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Crime
-- Addiction
-- Drugs
-- Media Tie In
-- Contemporary
+- Ficción
+- Crimen
+- Adicción
+- Drogas
+- Contemporaneo
+- Literatura
+- Ficción Literaria
 autores:
 - James Fogle
+- Juan Carlos Postigo
 editoriales:
 - Sajalín Editores
 image:
@@ -31,18 +33,18 @@ Escrita en la cárcel y convertida en película de culto por Gus Van Sant, Drugs
 
 ## Ficha del libro
 
-- **Autor:** James Fogle
-- **Colaboradores:** Juan Carlos Postigo (Translator)
+- **Autor:** [James Fogle](/autores/james-fogle/)
+- **Colaboradores:** [Juan Carlos Postigo](/autores/juan-carlos-postigo/) (Translator)
 - **Editorial:** Sajalín Editores
 - **Formato:** Paperback, 220 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494680994 / 9788494680991
 - **Publicación original:** 2018-07-04
-- **Géneros:** Fiction, Crime, Addiction, Drugs, Media Tie In, Contemporary, Literature, Literary Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Adicción](/tags/adiccion/), [Drogas](/tags/drogas/), [Contemporaneo](/tags/contemporaneo/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Ficha en Goodreads:** [Drugstore cowboy](https://www.goodreads.com/book/show/40716911-drugstore-cowboy)
 
 ## Mi lectura
 
 - **Inicio:** 2021/03/03
 - **Fin:** 2021/03/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

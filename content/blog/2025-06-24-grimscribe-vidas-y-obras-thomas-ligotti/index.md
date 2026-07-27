@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Short Stories
-- Fiction
-- Weird Fiction
-- Fantasy
-- Lovecraftian
+- Terror
+- Relatos
+- Ficción
+- Ficción extraña
+- Fantasía
+- Lovecraftiano
+- Gótico
+- Colecciones
+- Ficción especulativa
+- Antología
 autores:
 - Thomas Ligotti
+- Marta Lila Murillo
 editoriales:
 - Valdemar
 image:
@@ -31,14 +36,14 @@ En las páginas de Grimscribe laten las obsesiones y paradojas filosóficas y ex
 
 ## Ficha del libro
 
-- **Autor:** Thomas Ligotti
-- **Colaboradores:** Marta Lila Murillo (Traducción)
+- **Autor:** [Thomas Ligotti](/autores/thomas-ligotti/)
+- **Colaboradores:** [Marta Lila Murillo](/autores/marta-lila-murillo/) (Traducción)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477027978 / 9788477027973
 - **Publicación original:** 2015-01-01
-- **Géneros:** Horror, Short Stories, Fiction, Weird Fiction, Fantasy, Lovecraftian, Gothic, Collections, Speculative Fiction, Anthologies
+- **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Ficción extraña](/tags/ficcion-extrana/), [Fantasía](/tags/fantasia/), [Lovecraftiano](/tags/lovecraftiano/), [Gótico](/tags/gotico/), [Colecciones](/tags/colecciones/), [Ficción especulativa](/tags/ficcion-especulativa/), [Antología](/tags/antologia/)
 - **Nominaciones:** World Fantasy Award (1992)
 - **Ficha en Goodreads:** [Grimscribe: Vidas y obras](https://www.goodreads.com/book/show/25463269-grimscribe)
 
@@ -46,4 +51,4 @@ En las páginas de Grimscribe laten las obsesiones y paradojas filosóficas y ex
 
 - **Inicio:** 2025/06/19
 - **Fin:** 2025/06/24
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

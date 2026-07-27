@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Japan
-- Magical Realism
-- Japanese Literature
-- Horror
-- Fantasy
+- Ficción
+- Japón
+- Realismo mágico
+- Literatura japanesa
+- Terror
+- Fantasía
+- Novella
+- Contemporaneo
+- Ásia
+- Literatura asiática
 autores:
 - Hiroko Oyamada
+- Tana Oshima
 editoriales:
 - Impedimenta
 image:
@@ -29,14 +34,14 @@ Al marido de Asa le han ofrecido un nuevo trabajo en una zona remota de Japón, 
 
 ## Ficha del libro
 
-- **Autor:** Hiroko Oyamada
-- **Colaboradores:** Tana Oshima (Translator)
+- **Autor:** [Hiroko Oyamada](/autores/hiroko-oyamada/)
+- **Colaboradores:** [Tana Oshima](/autores/tana-oshima/) (Translator)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418668059 / 9788418668050
 - **Publicación original:** 2021-05-03
-- **Géneros:** Fiction, Japan, Magical Realism, Japanese Literature, Horror, Fantasy, Novella, Contemporary, Asia, Asian Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Realismo mágico](/tags/realismo-magico/), [Literatura japanesa](/tags/literatura-japanesa/), [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Contemporaneo](/tags/contemporaneo/), [Ásia](/tags/asia/), [Literatura asiática](/tags/literatura-asiatica/)
 - **Premios ganados:** Akutagawa Prize 芥川龍之介賞 (2013)
 - **Nominaciones:** Locus Award (2021)
 - **Ficha en Goodreads:** [Agujero](https://www.goodreads.com/book/show/57443651-agujero)
@@ -45,4 +50,4 @@ Al marido de Asa le han ofrecido un nuevo trabajo en una zona remota de Japón, 
 
 - **Inicio:** 2021/08/11
 - **Fin:** 2021/08/15
-- **Mi valoración:** ★★☆☆☆ (2,5/5)
+- **Calificación:** ★★☆☆☆ (2,5/5)

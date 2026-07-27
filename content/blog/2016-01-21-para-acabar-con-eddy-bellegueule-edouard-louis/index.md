@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Queer
-- LGBT
-- France
-- Contemporary
-- French Literature
+- LGTBIQ+
+- Francia
+- Contemporaneo
+- Literatura francesa
+- Gay
+- Novela
+- Coming of age
 autores:
 - Édouard Louis
+- María Teresa Gallego Urrutia
 editoriales:
 - Salamandra
 image:
@@ -30,14 +34,14 @@ Salí corriendo de repente. Sólo me dio tiempo a oír a mi madre, que decía Pe
 
 ## Ficha del libro
 
-- **Autor:** Édouard Louis
-- **Colaboradores:** María Teresa Gallego Urrutia (Translator)
+- **Autor:** [Édouard Louis](/autores/edouard-louis/)
+- **Colaboradores:** [María Teresa Gallego Urrutia](/autores/maria-teresa-gallego-urrutia/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498386489 / 9788498386486
 - **Publicación original:** 2015-02-01
-- **Géneros:** Fiction, Queer, LGBT, France, Contemporary, French Literature, Gay, Roman, Novels, Coming Of Age
+- **Géneros:** [Ficción](/tags/ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Francia](/tags/francia/), [Contemporaneo](/tags/contemporaneo/), [Literatura francesa](/tags/literatura-francesa/), [Gay](/tags/gay/), [Novela](/tags/novela/), [Coming of age](/tags/coming-of-age/)
 - **Lugares:** France
 - **Nominaciones:** Lambda Literary Award (2017), Oxford-Weidenfeld Translation Prize (2018), Albertine Prize (2018)
 - **Ficha en Goodreads:** [Para acabar con Eddy Bellegueule](https://www.goodreads.com/book/show/24841640-para-acabar-con-eddy-bellegueule)
@@ -46,4 +50,4 @@ Salí corriendo de repente. Sólo me dio tiempo a oír a mi madre, que decía Pe
 
 - **Inicio:** 2016/01/20
 - **Fin:** 2016/01/21
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

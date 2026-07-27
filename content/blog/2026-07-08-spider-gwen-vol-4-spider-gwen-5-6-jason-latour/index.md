@@ -8,9 +8,9 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Science Fiction
-- Fantasy
+- Novela gráfica
+- Ciencia ficción
+- Fantasía
 - Marvel
 autores:
 - Jason Latour
@@ -28,17 +28,18 @@ Is Gwen Stacy's alternate Earth ready for...Gwenom?! Matt "Kingpin" Murdock's pl
 
 ## Ficha del libro
 
-- **Autor:** Jason Latour
+- **Autor:** [Jason Latour](/autores/jason-latour/)
 - **Serie:** Spider-Gwen (2015) (Collected Editions) (#5-6)
 - **Editorial:** Marvel Enterprises
 - **Formato:** Hardcover, 248 páginas
 - **Idioma:** English
 - **ISBN:** 1302916440 / 9781302916442
 - **Publicación original:** 2019-03-26
-- **Géneros:** Comics, Graphic Novels, Science Fiction, Fantasy, Marvel
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Marvel](/tags/marvel/)
 - **Ficha en Goodreads:** [Spider-Gwen, Vol. 4 (Spider-Gwen, #5-6)](https://www.goodreads.com/book/show/40943788-spider-gwen-vol-4)
 
 ## Mi lectura
 
 - **Inicio:** 2026/07/08
 - **Fin:** 2026/07/08
+- **Calificación:** Pasable/5

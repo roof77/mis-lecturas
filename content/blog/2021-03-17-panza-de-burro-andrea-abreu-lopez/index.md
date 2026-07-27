@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Queer
-- LGBT
-- Contemporary
-- Coming Of Age
-- Spain
+- LGTBIQ+
+- Contemporaneo
+- Coming of age
+- España
+- Verano
+- Ficción Literaria
+- Literatura hispana
+- Lesbianismo
 autores:
 - Andrea Abreu López
+- Sabina Urraca
 editoriales:
 - Editorial Barrett
 image:
@@ -35,17 +40,17 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Andrea Abreu López
-- **Colaboradores:** Sabina Urraca (Editor)
+- **Autor:** [Andrea Abreu López](/autores/andrea-abreu-lopez/)
+- **Colaboradores:** [Sabina Urraca](/autores/sabina-urraca/) (Editor)
 - **Editorial:** Editorial Barrett
 - **Formato:** Paperback, 172 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2020-07-07
-- **Géneros:** Fiction, Queer, LGBT, Contemporary, Coming Of Age, Spain, Summer, Literary Fiction, Spanish Literature, Lesbian
+- **Géneros:** [Ficción](/tags/ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Contemporaneo](/tags/contemporaneo/), [Coming of age](/tags/coming-of-age/), [España](/tags/espana/), [Verano](/tags/verano/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura hispana](/tags/literatura-hispana/), [Lesbianismo](/tags/lesbianismo/)
 - **Ficha en Goodreads:** [Panza de burro](https://www.goodreads.com/book/show/53412888-panza-de-burro)
 
 ## Mi lectura
 
 - **Inicio:** 2021/03/03
 - **Fin:** 2021/03/17
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

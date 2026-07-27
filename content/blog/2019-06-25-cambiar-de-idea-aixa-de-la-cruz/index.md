@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Feminism
-- Memoir
-- Spanish Literature
+- No Ficción
+- Feminismo
+- Memorias
+- Literatura hispana
 - Queer
-- Contemporary
+- Contemporaneo
+- España
+- Mujeres
 autores:
 - Aixa de la Cruz
 editoriales:
@@ -33,13 +35,13 @@ Cambiar de idea ofrece una escritura hipnótica que va mucho más allá de la si
 
 ## Ficha del libro
 
-- **Autor:** Aixa de la Cruz
+- **Autor:** [Aixa de la Cruz](/autores/aixa-de-la-cruz/)
 - **Editorial:** Caballo de Troya
 - **Formato:** Kindle Edition, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417417109 / 9788417417109
 - **Publicación original:** 2019-03-07
-- **Géneros:** Nonfiction, Feminism, Memoir, Spanish Literature, Queer, Contemporary, Spain, Womens
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Memorias](/tags/memorias/), [Literatura hispana](/tags/literatura-hispana/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [España](/tags/espana/), [Mujeres](/tags/mujeres/)
 - **Premios ganados:** Premio Euskadi de Literatura (2020)
 - **Ficha en Goodreads:** [Cambiar de idea](https://www.goodreads.com/book/show/43469036-cambiar-de-idea)
 
@@ -47,4 +49,4 @@ Cambiar de idea ofrece una escritura hipnótica que va mucho más allá de la si
 
 - **Inicio:** 2019/06/20
 - **Fin:** 2019/06/25
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

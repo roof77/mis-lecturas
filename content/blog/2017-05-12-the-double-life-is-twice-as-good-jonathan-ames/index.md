@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Essays
-- Nonfiction
-- Short Stories
+- Ensayo
+- No Ficción
+- Relatos
 - Humor
-- Collections
-- Memoir
+- Colecciones
+- Memorias
+- Periodismo
 autores:
 - Jonathan Ames
 editoriales:
@@ -29,17 +30,17 @@ JONATHAN AMES'S LATEST BOOK, his eighth, is a hilarious, erotically charged, and
 
 ## Ficha del libro
 
-- **Autor:** Jonathan Ames
+- **Autor:** [Jonathan Ames](/autores/jonathan-ames/)
 - **Editorial:** Scribner
 - **Formato:** Paperback, 223 páginas
 - **Idioma:** English
 - **ISBN:** 1439102333 / 9781439102336
 - **Publicación original:** 2009-07-14
-- **Géneros:** Essays, Nonfiction, Short Stories, Humor, Collections, Memoir, Journalism
+- **Géneros:** [Ensayo](/tags/ensayo/), [No Ficción](/tags/no-ficcion/), [Relatos](/tags/relatos/), [Humor](/tags/humor/), [Colecciones](/tags/colecciones/), [Memorias](/tags/memorias/), [Periodismo](/tags/periodismo/)
 - **Ficha en Goodreads:** [The Double Life is Twice as Good](https://www.goodreads.com/book/show/6224991-the-double-life-is-twice-as-good)
 
 ## Mi lectura
 
 - **Inicio:** 2017/05/07
 - **Fin:** 2017/05/12
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

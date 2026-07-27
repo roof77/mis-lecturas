@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Health
-- Science
-- Psychology
+- No Ficción
+- Salud
+- Ciencia
+- Psicología
 - Alcohol
-- Audiobook
+- Medicina
+- Drogas
+- Autoayuda
+- Comida
 autores:
 - David J. Nutt
+- Ex Estudi
+- Nemo Edición y Comunicación
 editoriales:
 - Yonki Books
 image:
@@ -33,18 +38,18 @@ Al final, tal vez optes por unirte a ese creciente número de personas que decid
 
 ## Ficha del libro
 
-- **Autor:** David J. Nutt
-- **Colaboradores:** Ex Estudi (Illustrator), Nemo Edición y Comunicación (Translator)
+- **Autor:** [David J. Nutt](/autores/david-j-nutt/)
+- **Colaboradores:** [Ex Estudi](/autores/ex-estudi/) (Illustrator), [Nemo Edición y Comunicación](/autores/nemo-edicion-y-comunicacion/) (Translator)
 - **Editorial:** Yonki Books
 - **Formato:** Kindle Edition, 360 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412476751 / 9788412476750
 - **Publicación original:** 2022-03-09
-- **Géneros:** Nonfiction, Health, Science, Psychology, Alcohol, Audiobook, Medicine, Drugs, Self Help, Food
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Salud](/tags/salud/), [Ciencia](/tags/ciencia/), [Psicología](/tags/psicologia/), [Alcohol](/tags/alcohol/), [Medicina](/tags/medicina/), [Drogas](/tags/drogas/), [Autoayuda](/tags/autoayuda/), [Comida](/tags/comida/)
 - **Ficha en Goodreads:** [¿Cuánto bebes?: El alcohol y tu salud (Yonki Books nº 1) (Spanish Edition)](https://www.goodreads.com/book/show/60655387-cu-nto-bebes)
 
 ## Mi lectura
 
 - **Inicio:** 2022/05/31
 - **Fin:** 2022/06/09
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

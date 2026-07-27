@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Mystery
-- Crime
-- France
-- French Literature
+- Ficción
+- Clásico
+- Misterio
+- Crimen
+- Francia
+- Literatura francesa
+- Siglo XX
+- Novela
+- Literatura
+- Thriller
 autores:
 - Marcel Allain
+- Pierre Souvestre
+- José Furió
 editoriales:
 - Mondadori (IT)
 image:
@@ -29,15 +35,15 @@ Recortado sobre los cielos de Paris, un hombre enmascarado y vestido de etiqueta
 
 ## Ficha del libro
 
-- **Autor:** Marcel Allain
+- **Autor:** [Marcel Allain](/autores/marcel-allain/)
 - **Serie:** Fantômas (#1)
-- **Colaboradores:** Pierre Souvestre (Author), José Furió (Translator)
+- **Colaboradores:** [Pierre Souvestre](/autores/pierre-souvestre/) (Author), [José Furió](/autores/jose-furio/) (Translator)
 - **Editorial:** Mondadori (IT)
 - **Formato:** Paperback, 328 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439701853 / 9788439701859
 - **Publicación original:** 2000-01-01
-- **Géneros:** Fiction, Classics, Mystery, Crime, France, French Literature, 20th Century, Novels, Literature, Mystery Thriller
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Francia](/tags/francia/), [Literatura francesa](/tags/literatura-francesa/), [Siglo XX](/tags/siglo-xx/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Thriller](/tags/thriller/)
 - **Personajes:** Juve, Gurn, Fantômas, Lady Maud Beltham, Jérôme Fandor, Etienne Rambert, Charles Rambert, Marquise de Langrune, Alice Rambert, Therese Auvernois
 - **Lugares:** France, Paris (France)
 - **Ficha en Goodreads:** [Fantômas](https://www.goodreads.com/book/show/2209887.Fant_mas)
@@ -46,4 +52,4 @@ Recortado sobre los cielos de Paris, un hombre enmascarado y vestido de etiqueta
 
 - **Inicio:** 2014/06/16
 - **Fin:** 2014/06/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

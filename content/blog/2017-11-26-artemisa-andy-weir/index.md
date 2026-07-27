@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Audiobook
-- Space
-- Fantasy
-- Book Club
+- Ciencia ficción
+- Ficción
+- Espacio
+- Fantasía
+- Club de lectura
+- Ciencia Ficción
+- Thriller
+- Adultos
+- Aventuras
 autores:
 - Andy Weir
 editoriales:
@@ -31,13 +34,13 @@ La vida en Artemisa, la primera y única ciudad de la Luna, es difícil si no er
 
 ## Ficha del libro
 
-- **Autor:** Andy Weir
+- **Autor:** [Andy Weir](/autores/andy-weir/)
 - **Editorial:** Nova
 - **Formato:** Kindle Edition, 324 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490698953 / 9788490698952
 - **Publicación original:** 2017-11-22
-- **Géneros:** Science Fiction, Fiction, Audiobook, Space, Fantasy, Book Club, Science Fiction Fantasy, Thriller, Adult, Adventure
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Espacio](/tags/espacio/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Aventuras](/tags/aventuras/)
 - **Personajes:** Jasmine "Jazz" Bashara, Trond Landvik, Ammar Bashara, Bob Lewis, Dale Shapiro, Kelvin Otieno, Rudy DuBois, Martin Svoboda, Jin Chu, Fidelis Ngugi
 - **Lugares:** The Moon
 - **Premios ganados:** Geffen Award (2019), Goodreads Choice Award (2017), Dragon Award (2018)
@@ -48,4 +51,4 @@ La vida en Artemisa, la primera y única ciudad de la Luna, es difícil si no er
 
 - **Inicio:** 2017/11/22
 - **Fin:** 2017/11/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

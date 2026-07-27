@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Literary Fiction
-- Audiobook
+- Ficción
+- Contemporaneo
+- Ficción Literaria
 - Romance
-- Adult
+- Adultos
+- Club de lectura
+- Raza
+- Novela
+- Ficción adulta
 autores:
 - Raven Leilani
+- Laura Ibáñez
 editoriales:
 - Blackie Books
 image:
@@ -37,14 +41,14 @@ Ganador de los premios NBCC John Leonard Prize, Kirkus, Premio Primera Novela de
 
 ## Ficha del libro
 
-- **Autor:** Raven Leilani
-- **Colaboradores:** Laura Ibáñez (Translator)
+- **Autor:** [Raven Leilani](/autores/raven-leilani/)
+- **Colaboradores:** [Laura Ibáñez](/autores/laura-ibanez/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841873387X / 9788418733871
 - **Publicación original:** 2022-02-16
-- **Géneros:** Fiction, Contemporary, Literary Fiction, Audiobook, Romance, Adult, Book Club, Race, Novels, Adult Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Romance](/tags/romance/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/), [Raza](/tags/raza/), [Novela](/tags/novela/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Premios ganados:** Dylan Thomas Prize (2021), National Book Critics Circle Award (2020), Kirkus Prize (2020), The Center for Fiction First Novel Prize (2020)
 - **Nominaciones:** British Book Award (2022), Women's Prize for Fiction (2021), Goodreads Choice Award (2020), PEN/Jean Stein Book Award (2021), Brooklyn Public Library Literary Prize (2021), PEN/Hemingway Award for Debut Novel (2021), Readers' Favorite Fiction (2020), Readers' Favorite Debut Novel (2020)
 - **Ficha en Goodreads:** [Brillo](https://www.goodreads.com/book/show/60229744-brillo)
@@ -53,4 +57,4 @@ Ganador de los premios NBCC John Leonard Prize, Kirkus, Premio Primera Novela de
 
 - **Inicio:** 2022/11/22
 - **Fin:** 2022/11/29
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

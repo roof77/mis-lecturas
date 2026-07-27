@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Young Adult
+- Fantasía
+- Ficción
+- Jovenes adultos
 - Harry Potter
-- Magic
-- Audiobook
+- Mágia
+- Niños
+- Aventuras
+- Clásico
 autores:
 - J.K. Rowling
+- Adolfo Muñoz García
+- Nieves Martín Azofra
 editoriales:
 - Salamandra
 image:
@@ -29,14 +33,14 @@ Tras derrotar una vez más a lord Voldemort, su siniestro enemigo en Harry Potte
 
 ## Ficha del libro
 
-- **Autor:** J.K. Rowling
+- **Autor:** [J.K. Rowling](/autores/j-k-rowling/)
 - **Serie:** Harry Potter (#2)
-- **Colaboradores:** Adolfo Muñoz García (Translator), Nieves Martín Azofra (Translator)
+- **Colaboradores:** [Adolfo Muñoz García](/autores/adolfo-munoz-garcia/) (Translator), [Nieves Martín Azofra](/autores/nieves-martin-azofra/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 286 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 1999-10-01
-- **Géneros:** Fantasy, Fiction, Young Adult, Harry Potter, Magic, Audiobook, Childrens, Middle Grade, Adventure, Classics
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)
 - **Personajes:** Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Severus Snape, Rubeus Hagrid, Lord Voldemort, Minerva McGonagall, Neville Longbottom, Fred Weasley
 - **Lugares:** Hogwarts School of Witchcraft and Wizardry (United Kingdom)
 - **Premios ganados:** Mythopoeic Fantasy Award (2008), British Book Award (1999), Prijs van de Jonge Jury (2002), Books I Loved Best Yearly (BILBY) Awards (2006), Colorado Blue Spruce Young Adult Book Award (2008), Golden Archer Award (2008), Nestlé Smarties Book Prize (1998), Premio Euskadi de Literatura (2002)
@@ -46,4 +50,4 @@ Tras derrotar una vez más a lord Voldemort, su siniestro enemigo en Harry Potte
 
 - **Inicio:** 2016/12/01
 - **Fin:** 2016/12/02
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

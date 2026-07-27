@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Japan
-- Japanese Literature
-- Short Stories
-- Contemporary
-- Asia
+- Ficción
+- Japón
+- Literatura japanesa
+- Relatos
+- Contemporaneo
+- Ásia
+- Ficción Literaria
+- Literatura asiática
+- Romance
+- Novela
 autores:
 - Banana Yoshimoto
+- Junichi Mattsuura
+- Lourdes Porta Fuentes
 editoriales:
 - Tusquets
 image:
@@ -33,14 +39,14 @@ Banana Yoshimoto (Tokio 1964) ganó con Kitchen su primera novela , el Newcomer 
 
 ## Ficha del libro
 
-- **Autor:** Banana Yoshimoto
-- **Colaboradores:** Junichi Mattsuura (Translator), Lourdes Porta Fuentes (Translator)
+- **Autor:** [Banana Yoshimoto](/autores/banana-yoshimoto/)
+- **Colaboradores:** [Junichi Mattsuura](/autores/junichi-mattsuura/) (Translator), [Lourdes Porta Fuentes](/autores/lourdes-porta-fuentes/) (Translator)
 - **Editorial:** Tusquets
 - **Formato:** Paperback, 201 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6074213135 / 9786074213133
 - **Publicación original:** 2012-03-01
-- **Géneros:** Fiction, Japan, Japanese Literature, Short Stories, Contemporary, Asia, Literary Fiction, Asian Literature, Romance, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Relatos](/tags/relatos/), [Contemporaneo](/tags/contemporaneo/), [Ásia](/tags/asia/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/), [Romance](/tags/romance/), [Novela](/tags/novela/)
 - **Personajes:** Mikage Sakurai, Yūichi Tanabe, Eriko Tanabe, Satsuki (Kitchen), Urara (Kitchen), Hiiragi
 - **Lugares:** Tokyo (Japan), Japan
 - **Premios ganados:** Nihon University Department of Arts Prize (1986), Kaien magazine New Writer Prize (1987)
@@ -51,4 +57,4 @@ Banana Yoshimoto (Tokio 1964) ganó con Kitchen su primera novela , el Newcomer 
 
 - **Inicio:** 2015/07/11
 - **Fin:** 2015/07/11
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

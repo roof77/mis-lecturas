@@ -8,11 +8,14 @@ authors:
 tags:
 - Lecturas
 - Romance
-- Graphic Novels
-- LGBT
-- Young Adult
+- Novela gráfica
+- LGTBIQ+
+- Jovenes adultos
 - Queer
-- Contemporary
+- Contemporaneo
+- Comics
+- Ficción
+- Gay
 autores:
 - Alice Oseman
 editoriales:
@@ -34,14 +37,14 @@ Pero el amor obra de formas inesperadas, y Nick está más interesado en Charlie
 
 ## Ficha del libro
 
-- **Autor:** Alice Oseman
+- **Autor:** [Alice Oseman](/autores/alice-oseman/)
 - **Serie:** Heartstopper (#1)
 - **Editorial:** VRYA
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6078712063 / 9786078712069
 - **Publicación original:** 2020-02-01
-- **Géneros:** Romance, Graphic Novels, LGBT, Young Adult, Queer, Contemporary, Comics, Fiction, Gay, Graphic Novels Comics
+- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/)
 - **Personajes:** Charlie  Spring, Nick  Nelson
 - **Lugares:** Kent, England (United Kingdom)
 - **Premios ganados:** Nutmeg Book Award (2024), Massachusetts Teen Choice Book Award (2022)
@@ -51,4 +54,4 @@ Pero el amor obra de formas inesperadas, y Nick está más interesado en Charlie
 
 - **Inicio:** 2022/03/24
 - **Fin:** 2022/03/24
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Horror
-- Fantasy
-- Audiobook
-- Short Stories
-- Mystery
+- Ficción
+- Terror
+- Fantasía
+- Relatos
+- Misterio
+- Novella
+- Ciencia ficción
+- Thriller
+- Adultos
 autores:
-- Stephen  King
+- Stephen King
 editoriales:
 - Suma
 image:
@@ -29,13 +32,13 @@ King vuelve a Castle Rock con un mensaje para nuestros tiempos. «La prueba de q
 
 ## Ficha del libro
 
-- **Autor:** Stephen  King
+- **Autor:** [Stephen King](/autores/stephen-king/)
 - **Editorial:** Suma
 - **Formato:** Kindle Edition, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491293760 / 9788491293767
 - **Publicación original:** 2019-11-07
-- **Géneros:** Fiction, Horror, Fantasy, Audiobook, Short Stories, Mystery, Novella, Science Fiction, Thriller, Adult
+- **Géneros:** [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/), [Misterio](/tags/misterio/), [Novella](/tags/novella/), [Ciencia ficción](/tags/ciencia-ficcion/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/)
 - **Lugares:** Maine (United States), Castle Rock, Maine (United States)
 - **Premios ganados:** Goodreads Choice Award (2018), Prémio Adamastor de Literatura Fantástica Estrangeira (2020)
 - **Nominaciones:** Readers' Favorite Horror (2018)
@@ -45,4 +48,4 @@ King vuelve a Castle Rock con un mensaje para nuestros tiempos. «La prueba de q
 
 - **Inicio:** 2024/02/12
 - **Fin:** 2024/02/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

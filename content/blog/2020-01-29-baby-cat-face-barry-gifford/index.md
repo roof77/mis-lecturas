@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 autores:
 - Barry Gifford
 image:
@@ -22,15 +22,15 @@ Después de haber sido secuestrada con un autobús lleno de pasajeros y forzada 
 
 ## Ficha del libro
 
-- **Autor:** Barry Gifford
+- **Autor:** [Barry Gifford](/autores/barry-gifford/)
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 1998-02-02
-- **Géneros:** Fiction
+- **Géneros:** [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Baby Cat-Face](https://www.goodreads.com/book/show/39722728-baby-cat-face)
 
 ## Mi lectura
 
 - **Inicio:** 2020/01/27
 - **Fin:** 2020/01/29
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

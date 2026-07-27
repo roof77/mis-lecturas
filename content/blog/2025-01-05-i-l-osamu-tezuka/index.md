@@ -8,9 +8,9 @@ authors:
 tags:
 - Lecturas
 - Manga
-- Graphic Novels
-- Fantasy
-- Fiction
+- Novela gráfica
+- Fantasía
+- Ficción
 - Comics
 autores:
 - Osamu Tezuka
@@ -28,17 +28,17 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Osamu Tezuka
+- **Autor:** [Osamu Tezuka](/autores/osamu-tezuka/)
 - **Editorial:** Planeta Cómic
 - **Formato:** Hardcover, 336 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413416531 / 9788413416533
 - **Publicación original:** 2021-06-01
-- **Géneros:** Manga, Graphic Novels, Fantasy, Fiction, Comics
+- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [I.L.](https://www.goodreads.com/book/show/58392764-i-l)
 
 ## Mi lectura
 
 - **Inicio:** 2025/01/04
 - **Fin:** 2025/01/05
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

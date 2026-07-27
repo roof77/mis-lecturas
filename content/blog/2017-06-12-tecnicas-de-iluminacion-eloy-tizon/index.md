@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
+- Relatos
 autores:
 - Eloy Tizón
 editoriales:
@@ -26,13 +26,13 @@ En todos estos relatos hay un reverso de sombra, un vértice de silencio, algo q
 
 ## Ficha del libro
 
-- **Autor:** Eloy Tizón
+- **Autor:** [Eloy Tizón](/autores/eloy-tizon/)
 - **Editorial:** Páginas de Espuma
 - **Formato:** Paperback, 168 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8483931524 / 9788483931523
 - **Publicación original:** 2013-10-02
-- **Géneros:** Short Stories
+- **Géneros:** [Relatos](/tags/relatos/)
 - **Premios ganados:** Premio La tormenta en un vaso (2013)
 - **Ficha en Goodreads:** [Técnicas de iluminación](https://www.goodreads.com/book/show/18587528-t-cnicas-de-iluminaci-n)
 
@@ -40,4 +40,4 @@ En todos estos relatos hay un reverso de sombra, un vértice de silencio, algo q
 
 - **Inicio:** 2017/06/06
 - **Fin:** 2017/06/12
-- **Mi valoración:** ☆☆☆☆☆ (0,25/5)
+- **Calificación:** ☆☆☆☆☆ (0,25/5)

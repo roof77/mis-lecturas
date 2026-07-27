@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Young Adult
-- Vampires
-- Gothic
-- Fiction
-- Fantasy
+- Terror
+- Jovenes adultos
+- Vampiros
+- Gótico
+- Ficción
+- Fantasía
+- Dark Academia
+- Paranormal
+- Misterio
+- LGTBIQ+
 autores:
 - Rachel Klein
+- Elisabete Fernández Arrieta
 editoriales:
 - Planeta
 image:
@@ -31,14 +36,14 @@ Tengo dieciséis años y estudio en un exclusivo internado americano, la Brangwy
 
 ## Ficha del libro
 
-- **Autor:** Rachel Klein
-- **Colaboradores:** Elisabete Fernández Arrieta (Translator)
+- **Autor:** [Rachel Klein](/autores/rachel-klein/)
+- **Colaboradores:** [Elisabete Fernández Arrieta](/autores/elisabete-fernandez-arrieta/) (Translator)
 - **Editorial:** Planeta
 - **Formato:** Paperback, 336 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408009273 / 9788408009276
 - **Publicación original:** 2012-10-01
-- **Géneros:** Horror, Young Adult, Vampires, Gothic, Fiction, Fantasy, Dark Academia, Paranormal, Mystery, LGBT
+- **Géneros:** [Terror](/tags/terror/), [Jovenes adultos](/tags/jovenes-adultos/), [Vampiros](/tags/vampiros/), [Gótico](/tags/gotico/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Dark Academia](/tags/dark-academia/), [Paranormal](/tags/paranormal/), [Misterio](/tags/misterio/), [LGTBIQ+](/tags/lgtbiq/)
 - **Personajes:** Ernessa Bloch
 - **Ficha en Goodreads:** [Diario de una mariposa nocturna](https://www.goodreads.com/book/show/16116506-diario-de-una-mariposa-nocturna)
 
@@ -46,4 +51,4 @@ Tengo dieciséis años y estudio en un exclusivo internado americano, la Brangwy
 
 - **Inicio:** 2016/01/09
 - **Fin:** 2016/01/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

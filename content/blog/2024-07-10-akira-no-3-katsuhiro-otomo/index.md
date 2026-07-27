@@ -9,12 +9,16 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Graphic Novels
-- Science Fiction
-- Fiction
+- Novela gráfica
+- Ciencia ficción
+- Ficción
 - Cyberpunk
+- Japón
+- Distopía
+- Literatura japanesa
 autores:
 - Katsuhiro Otomo
+- Steve Oliff
 editoriales:
 - Norma Editorial
 image:
@@ -29,19 +33,19 @@ En un caótico Neo-Tokio recién emergido de las cenizas de la III Guerra Mundia
 
 ## Ficha del libro
 
-- **Autor:** Katsuhiro Otomo
+- **Autor:** [Katsuhiro Otomo](/autores/katsuhiro-otomo/)
 - **Serie:** Akira [アキラ] (#3)
-- **Colaboradores:** Steve Oliff (Color)
+- **Colaboradores:** [Steve Oliff](/autores/steve-oliff/) (Color)
 - **Editorial:** Norma Editorial
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498144175 / 9788498144178
 - **Publicación original:** 2006-05-01
-- **Géneros:** Manga, Comics, Graphic Novels, Science Fiction, Fiction, Cyberpunk, Japan, Dystopia, Comics Manga, Japanese Literature
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Japón](/tags/japon/), [Distopía](/tags/distopia/), [Literatura japanesa](/tags/literatura-japanesa/)
 - **Ficha en Goodreads:** [Akira, No. 3](https://www.goodreads.com/book/show/15780573-akira-no-3)
 
 ## Mi lectura
 
 - **Inicio:** 2024/07/10
 - **Fin:** 2024/07/10
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

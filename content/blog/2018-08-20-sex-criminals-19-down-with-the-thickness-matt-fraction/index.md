@@ -7,13 +7,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Fiction
-- Graphic Novels Comics
-- Graphic Novels
-- Science Fiction
-- Comic Book
+- Ficción
+- Novela gráfica
+- Ciencia ficción
+- Fantasía
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -28,18 +28,18 @@ Everybody goes deeper and, no, for the first time, we do NOT mean it like that.
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 32 páginas
 - **Idioma:** English
 - **Publicación original:** 2017-05-31
-- **Géneros:** Comics, Fiction, Graphic Novels Comics, Graphic Novels, Science Fiction, Comic Book, Fantasy
+- **Géneros:** [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Sex Criminals #19: Down With The Thickness](https://www.goodreads.com/book/show/34667808-sex-criminals-19)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

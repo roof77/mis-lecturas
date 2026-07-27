@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Memoir
-- Biography
-- Short Stories
+- No Ficción
+- Memorias
+- Biografía
+- Relatos
 - Humor
-- Audiobook
+- Teatro
+- Club de lectura
+- Literatura británica
+- Contemporaneo
 autores:
 - Alan Bennet
+- Jaime Zulaika
 editoriales:
 - Anagrama
 image:
@@ -34,18 +38,18 @@ Aunque, afirma el escritor, él jamás se engañó pensando que su impulso obede
 
 ## Ficha del libro
 
-- **Autor:** Alan Bennet
-- **Colaboradores:** Jaime Zulaika (translator)
+- **Autor:** [Alan Bennet](/autores/alan-bennet/)
+- **Colaboradores:** [Jaime Zulaika](/autores/jaime-zulaika/) (translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 93 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433974939 / 9788433974938
 - **Publicación original:** 2009-02-01
-- **Géneros:** Nonfiction, Memoir, Biography, Short Stories, Humor, Audiobook, Plays, Book Club, British Literature, Contemporary
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Relatos](/tags/relatos/), [Humor](/tags/humor/), [Teatro](/tags/teatro/), [Club de lectura](/tags/club-de-lectura/), [Literatura británica](/tags/literatura-britanica/), [Contemporaneo](/tags/contemporaneo/)
 - **Ficha en Goodreads:** [La dama de la furgoneta](https://www.goodreads.com/book/show/10553712-la-dama-de-la-furgoneta)
 
 ## Mi lectura
 
 - **Inicio:** 2019/03/11
 - **Fin:** 2019/03/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

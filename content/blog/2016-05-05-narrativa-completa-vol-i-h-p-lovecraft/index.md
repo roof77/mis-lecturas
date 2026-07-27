@@ -7,14 +7,21 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Lovecraftian
-- Classics
-- The United States Of America
-- Short Stories
+- Terror
+- Fantasía
+- Lovecraftiano
+- Clásico
+- EEUU
+- Relatos
+- Ciencia ficción
+- Pulp
+- Ficción
+- Literatura
 autores:
 - H.P. Lovecraft
+- Juan Antonio Molina Foix
+- Francisco Torres Oliver
+- José María Nebreda
 editoriales:
 - Valdemar
 image:
@@ -31,19 +38,19 @@ Howard Phillips Lovecraft (1890-1937) fue un ave nocturna y un cazador de sueño
 
 ## Ficha del libro
 
-- **Autor:** H.P. Lovecraft
+- **Autor:** [H.P. Lovecraft](/autores/h-p-lovecraft/)
 - **Serie:** Narrativa completa Lovecraft 
-- **Colaboradores:** Juan Antonio Molina Foix (Editor), Francisco Torres Oliver (Translator), José María Nebreda (Translator)
+- **Colaboradores:** [Juan Antonio Molina Foix](/autores/juan-antonio-molina-foix/) (Editor), [Francisco Torres Oliver](/autores/francisco-torres-oliver/) (Translator), [José María Nebreda](/autores/jose-maria-nebreda/) (Translator)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 832 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477025290 / 9788477025290
 - **Publicación original:** 2005-01-01
-- **Géneros:** Horror, Fantasy, Lovecraftian, Classics, The United States Of America, Short Stories, Science Fiction, Pulp, Fiction, Literature
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Lovecraftiano](/tags/lovecraftiano/), [Clásico](/tags/clasico/), [EEUU](/tags/eeuu/), [Relatos](/tags/relatos/), [Ciencia ficción](/tags/ciencia-ficcion/), [Pulp](/tags/pulp/), [Ficción](/tags/ficcion/), [Literatura](/tags/literatura/)
 - **Ficha en Goodreads:** [Narrativa completa (vol. I)](https://www.goodreads.com/book/show/4503434-narrativa-completa)
 
 ## Mi lectura
 
 - **Inicio:** 2016/04/28
 - **Fin:** 2016/05/05
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

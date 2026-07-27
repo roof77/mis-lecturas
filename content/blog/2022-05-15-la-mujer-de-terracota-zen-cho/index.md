@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Short Stories
-- LGBT
-- Fiction
+- Fantasía
+- Relatos
+- LGTBIQ+
+- Ficción
 - Queer
 - Novella
+- Lesbianismo
+- Adultos
+- Ciencia ficción
+- Mitología
 autores:
 - Zen Cho
+- Rebeca Cardeñoso Viña
+- Qu Lan
 editoriales:
 - Duermevela
 image:
@@ -35,18 +41,18 @@ La mujer de terracota es un relato de Zen Cho que aúna la sátira y la esperanz
 
 ## Ficha del libro
 
-- **Autor:** Zen Cho
-- **Colaboradores:** Rebeca Cardeñoso Viña (Translator), Qu Lan (Illustrator)
+- **Autor:** [Zen Cho](/autores/zen-cho/)
+- **Colaboradores:** [Rebeca Cardeñoso Viña](/autores/rebeca-cardenoso-vina/) (Translator), [Qu Lan](/autores/qu-lan/) (Illustrator)
 - **Editorial:** Duermevela
 - **Formato:** Paperback, 100 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412437500 / 9788412437508
 - **Publicación original:** 2021-10-14
-- **Géneros:** Fantasy, Short Stories, LGBT, Fiction, Queer, Novella, Lesbian, Adult, Science Fiction, Mythology
+- **Géneros:** [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Queer](/tags/queer/), [Novella](/tags/novella/), [Lesbianismo](/tags/lesbianismo/), [Adultos](/tags/adultos/), [Ciencia ficción](/tags/ciencia-ficcion/), [Mitología](/tags/mitologia/)
 - **Ficha en Goodreads:** [La mujer de terracota](https://www.goodreads.com/book/show/59130247-la-mujer-de-terracota)
 
 ## Mi lectura
 
 - **Inicio:** 2022/05/14
 - **Fin:** 2022/05/15
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

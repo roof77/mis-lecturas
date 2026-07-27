@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Science Fiction
-- Dystopia
+- Ficción
+- Ciencia ficción
+- Distopía
 - Novella
-- Horror
-- Short Stories
+- Terror
+- Relatos
+- Fantasía
+- Ficción especulativa
+- Ciencia Ficción
 autores:
 - Karen Russell
+- Rubén Martín Giráldez
 editoriales:
 - Editorial Sexto Piso
 image:
@@ -35,18 +39,18 @@ Clarividente y perturbadora, Donantes de sueño indaga en valores como la empat�
 
 ## Ficha del libro
 
-- **Autor:** Karen Russell
-- **Colaboradores:** Rubén Martín Giráldez (Translator)
+- **Autor:** [Karen Russell](/autores/karen-russell/)
+- **Colaboradores:** [Rubén Martín Giráldez](/autores/ruben-martin-giraldez/) (Translator)
 - **Editorial:** Editorial Sexto Piso
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419261475 / 9788419261472
 - **Publicación original:** 2023-05-08
-- **Géneros:** Fiction, Science Fiction, Dystopia, Novella, Horror, Short Stories, Fantasy, Speculative Fiction, Science Fiction Fantasy, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Novella](/tags/novella/), [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Fantasía](/tags/fantasia/), [Ficción especulativa](/tags/ficcion-especulativa/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Ficha en Goodreads:** [Donantes de sueño](https://www.goodreads.com/book/show/127620938-donantes-de-sue-o)
 
 ## Mi lectura
 
 - **Inicio:** 2023/11/03
 - **Fin:** 2023/11/06
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

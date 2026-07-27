@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Thriller
-- Politics
-- Mystery
-- Political Thriller
-- Crime
+- Política
+- Misterio
+- Thriller político
+- Crimen
+- Novela
+- Contemporaneo
+- Literatura británica
 autores:
-- Michael   Dobbs
+- Michael Dobbs
 editoriales:
 - Alba Editorial
 image:
@@ -37,18 +40,18 @@ House of Cards se publicó en 1989 y pronto se convirtió en una famosa serie de
 
 ## Ficha del libro
 
-- **Autor:** Michael   Dobbs
+- **Autor:** [Michael Dobbs](/autores/michael-dobbs/)
 - **Serie:** Francis Urquhart (#1)
 - **Editorial:** Alba Editorial
 - **Formato:** Kindle Edition, 439 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490650586 / 9788490650585
 - **Publicación original:** 2014-11-19
-- **Géneros:** Fiction, Thriller, Politics, Mystery, Political Thriller, Crime, Novels, Contemporary, Audiobook, British Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Política](/tags/politica/), [Misterio](/tags/misterio/), [Thriller político](/tags/thriller-politico/), [Crimen](/tags/crimen/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/), [Literatura británica](/tags/literatura-britanica/)
 - **Ficha en Goodreads:** [House of Cards (Francis Urquhart, #1)](https://www.goodreads.com/book/show/24295815-house-of-cards)
 
 ## Mi lectura
 
 - **Inicio:** 2015/03/05
 - **Fin:** 2015/03/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

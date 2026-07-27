@@ -27,18 +27,18 @@ Dr. Slump es la obra más delirante de Akira Toriyama, el creador de Dragon Ball
 
 ## Ficha del libro
 
-- **Autor:** Akira Toriyama
+- **Autor:** [Akira Toriyama](/autores/akira-toriyama/)
 - **Serie:** Dr.スランプ [Dr. Slump] (#4)
 - **Editorial:** Planeta DeAgostini
 - **Formato:** Paperback, 239 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467483113 / 9788467483116
 - **Publicación original:** 2009-01-01
-- **Géneros:** Manga, Comics
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Dr. Slump Ultimate Edition, Vol. 04 (Dr. Slump Kanzenban, #4)](https://www.goodreads.com/book/show/15754079-dr-slump-ultimate-edition-vol-04)
 
 ## Mi lectura
 
 - **Inicio:** 2025/11/10
 - **Fin:** 2025/11/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Graphic Novels Comics
 - Humor
-- Comix
-- Sexuality
+- Sexualidad
+- Memorias
+- No Ficción
+- Mujeres
 autores:
 - Gina Wynbrandt
 editoriales:
@@ -31,17 +32,17 @@ Tras plantar el campamento base en un territorio surreal y desternillante donde 
 
 ## Ficha del libro
 
-- **Autor:** Gina Wynbrandt
+- **Autor:** [Gina Wynbrandt](/autores/gina-wynbrandt/)
 - **Editorial:** Reservoir Books
 - **Formato:** Paperback, 144 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841670936X / 9788416709366
 - **Publicación original:** 2017-01-01
-- **Géneros:** Graphic Novels, Comics, Graphic Novels Comics, Humor, Comix, Sexuality, Memoir, Nonfiction, Comic Book, Womens
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Humor](/tags/humor/), [Sexualidad](/tags/sexualidad/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Mujeres](/tags/mujeres/)
 - **Ficha en Goodreads:** [Que alguien se acueste conmigo, por favor](https://www.goodreads.com/book/show/34113811-que-alguien-se-acueste-conmigo-por-favor)
 
 ## Mi lectura
 
 - **Inicio:** 2021/06/15
 - **Fin:** 2021/06/15
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

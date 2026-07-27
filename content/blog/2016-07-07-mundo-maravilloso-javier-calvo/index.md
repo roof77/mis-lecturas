@@ -7,11 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Spain
-- Spanish Literature
-- Mystery
-- Novels
+- Ficción
+- España
+- Literatura hispana
+- Misterio
+- Novela
 autores:
 - Javier Calvo
 editoriales:
@@ -32,17 +32,17 @@ La historia de Camber Sands. Una historia de tres hermanos -el Club No Nos Gusta
 
 ## Ficha del libro
 
-- **Autor:** Javier Calvo
+- **Autor:** [Javier Calvo](/autores/javier-calvo/)
 - **Editorial:** Random House
 - **Formato:** Paperback, 550 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439713525 / 9788439713524
 - **Publicación original:** 2007-02-16
-- **Géneros:** Fiction, Spain, Spanish Literature, Mystery, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Misterio](/tags/misterio/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Mundo maravilloso](https://www.goodreads.com/book/show/5227421-mundo-maravilloso)
 
 ## Mi lectura
 
 - **Inicio:** 2016/06/26
 - **Fin:** 2016/07/07
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

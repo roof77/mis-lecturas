@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
+- Ficción
+- Clásico
 - Romance
-- Historical Fiction
-- British Literature
+- Ficción histórica
+- Literatura británica
 - Humor
+- Siglo XX
+- Histórico
+- Club de lectura
 autores:
 - Nancy Mitford
 editoriales:
@@ -29,13 +32,13 @@ En A la caza del amor, su novela de mayor éxito, Nancy Mitford utiliza elemento
 
 ## Ficha del libro
 
-- **Autor:** Nancy Mitford
+- **Autor:** [Nancy Mitford](/autores/nancy-mitford/)
 - **Serie:** Radlett and Montdore (#1)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Kindle Edition, 228 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2012-02-20
-- **Géneros:** Fiction, Classics, Romance, Historical Fiction, British Literature, Humor, 20th Century, Historical, Book Club, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Romance](/tags/romance/), [Ficción histórica](/tags/ficcion-historica/), [Literatura británica](/tags/literatura-britanica/), [Humor](/tags/humor/), [Siglo XX](/tags/siglo-xx/), [Histórico](/tags/historico/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Linda Radlett, Matthew Radlett, Fanny Wincham, Aunt Emily, David Warbeck, Lord Merlin, Sadie Radlett, Jassy, Matt, Robin and Vicki Radlett, Louisa Radlett, The Bolter
 - **Lugares:** Gloucestershire, England
 - **Nominaciones:** Premi Llibreter de narrativa (2006)
@@ -45,4 +48,4 @@ En A la caza del amor, su novela de mayor éxito, Nancy Mitford utiliza elemento
 
 - **Inicio:** 2014/07/27
 - **Fin:** 2014/07/29
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

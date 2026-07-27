@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Science Fiction
-- Dystopia
-- Audiobook
-- Adult
+- Fantasía
+- Ficción
+- Ciencia ficción
+- Distopía
+- Adultos
+- Ciencia Ficción
+- Club de lectura
+- Alta fantasía
+- LGTBIQ+
 autores:
 - N.K. Jemisin
+- David Tejera Expósito
 editoriales:
 - NOVA
 image:
@@ -41,15 +45,15 @@ El lugar es la Quietud, un continente acostumbrado a la catástrofe en el que la
 
 ## Ficha del libro
 
-- **Autor:** N.K. Jemisin
+- **Autor:** [N.K. Jemisin](/autores/n-k-jemisin/)
 - **Serie:** The Broken Earth (#1)
-- **Colaboradores:** David Tejera Expósito (Translator)
+- **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** NOVA
 - **Formato:** Paperback, 448 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788466661690
 - **Publicación original:** 2017-05-01
-- **Géneros:** Fantasy, Fiction, Science Fiction, Dystopia, Audiobook, Adult, Science Fiction Fantasy, Book Club, High Fantasy, LGBT
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Adultos](/tags/adultos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Alta fantasía](/tags/alta-fantasia/), [LGTBIQ+](/tags/lgtbiq/)
 - **Personajes:** Essun, Nassun, Damaya, Syenite, Alabaster, Schaffa, Jija
 - **Premios ganados:** Hugo Award (2016)
 - **Nominaciones:** Nebula Award (2015), Locus Award (2016), World Fantasy Award (2016), Grand Prix de l'Imaginaire (2019), James Tiptree Jr. Award (2015), Premio Ignotus (2018), Tähtifantasia Award (2022), Tähtivaeltaja Award (2022), The Kitschies (2015), Goodreads Choice Award (2015), Dragon Award (2016), Prêmio LeBlanc (2018), RUSA CODES Reading List (2016), Readers' Favorite Fantasy (2015)
@@ -59,4 +63,4 @@ El lugar es la Quietud, un continente acostumbrado a la catástrofe en el que la
 
 - **Inicio:** 2017/07/27
 - **Fin:** 2017/08/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Romance
-- Young Adult
-- LGBT
-- Fiction
-- Contemporary
+- Jovenes adultos
+- LGTBIQ+
+- Ficción
+- Contemporaneo
 - Queer
+- Fantasía
+- Ciencia ficción
+- Gay
 autores:
 - Adam Silvera
+- Antonio Padilla Esteban
 editoriales:
 - Puck
 image:
@@ -35,15 +39,15 @@ La nueva novela de Adam Silvera, un superventas del New York Times que ha cosech
 
 ## Ficha del libro
 
-- **Autor:** Adam Silvera
+- **Autor:** [Adam Silvera](/autores/adam-silvera/)
 - **Serie:** They Both Die at the End (#1)
-- **Colaboradores:** Antonio Padilla Esteban (Translator)
+- **Colaboradores:** [Antonio Padilla Esteban](/autores/antonio-padilla-esteban/) (Translator)
 - **Editorial:** Puck
 - **Formato:** Kindle Edition, 384 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417180559 / 9788417180553
 - **Publicación original:** 2018-05-07
-- **Géneros:** Romance, Young Adult, LGBT, Fiction, Contemporary, Queer, Audiobook, Fantasy, Science Fiction, Gay
+- **Géneros:** [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Queer](/tags/queer/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Gay](/tags/gay/)
 - **Lugares:** New York City, New York (United States)
 - **Premios ganados:** Flicker Tale Children's Book Award (2021), Lincoln Award (2020), Hea Noorteraamat (2022)
 - **Nominaciones:** Pennsylvania Young Readers' Choice Award (2019), Goodreads Choice Award (2017), Readers' Favorite Young Adult Fiction (2017)
@@ -53,4 +57,4 @@ La nueva novela de Adam Silvera, un superventas del New York Times que ha cosech
 
 - **Inicio:** 2018/08/30
 - **Fin:** 2018/09/13
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

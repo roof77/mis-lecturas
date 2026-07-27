@@ -7,10 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Russian Literature
-- Short Stories
+- Literatura rusa
+- Relatos
 autores:
 - Nikolay Karamzin
+- Antony Pogorelsky
+- Mikhail Lermontov
+- Yevgeny Baratynsky
+- Orest Somov
+- Mikhail Zagoskin
 editoriales:
 - Nevsky Prospects
 image:
@@ -27,18 +32,18 @@ Rusia gótica ofrece algunos ejemplos de la tradición del relato gótico ruso, 
 
 ## Ficha del libro
 
-- **Autor:** Nikolay Karamzin
-- **Colaboradores:** Antony Pogorelsky (Author), Mikhail Lermontov (Author), Yevgeny Baratynsky (Author), Orest Somov (Author), Mikhail Zagoskin (Author)
+- **Autor:** [Nikolay Karamzin](/autores/nikolay-karamzin/)
+- **Colaboradores:** [Antony Pogorelsky](/autores/antony-pogorelsky/) (Author), [Mikhail Lermontov](/autores/mikhail-lermontov/) (Author), [Yevgeny Baratynsky](/autores/yevgeny-baratynsky/) (Author), [Orest Somov](/autores/orest-somov/) (Author), [Mikhail Zagoskin](/autores/mikhail-zagoskin/) (Author)
 - **Editorial:** Nevsky Prospects
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493746614 / 9788493746612
 - **Publicación original:** 2009-11-01
-- **Géneros:** Russian Literature, Short Stories
+- **Géneros:** [Literatura rusa](/tags/literatura-rusa/), [Relatos](/tags/relatos/)
 - **Ficha en Goodreads:** [Rusia gótica](https://www.goodreads.com/book/show/11061693-rusia-g-tica)
 
 ## Mi lectura
 
 - **Inicio:** 2022/07/19
 - **Fin:** 2022/07/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

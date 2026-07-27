@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Music
-- Classics
+- Ficción
+- Música
+- Clásico
 - Jazz
-- Historical Fiction
-- American
+- Ficción histórica
+- EEUU
+- Siglo XX
+- Ficción Literaria
+- Novela
 autores:
 - Dorothy Baker
+- Ismael Attrache
+- Alberto Gamón
 editoriales:
 - Contraseña
 image:
@@ -33,18 +38,18 @@ El chico de la trompeta, considerada por muchos críticos la primera novela sobr
 
 ## Ficha del libro
 
-- **Autor:** Dorothy Baker
-- **Colaboradores:** Ismael Attrache (Translator), Alberto Gamón (Illustrator)
+- **Autor:** [Dorothy Baker](/autores/dorothy-baker/)
+- **Colaboradores:** [Ismael Attrache](/autores/ismael-attrache/) (Translator), [Alberto Gamón](/autores/alberto-gamon/) (Illustrator)
 - **Editorial:** Contraseña
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494090321 / 9788494090325
 - **Publicación original:** 2013-09-30
-- **Géneros:** Fiction, Music, Classics, Jazz, Historical Fiction, American, The United States Of America, 20th Century, Literary Fiction, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Música](/tags/musica/), [Clásico](/tags/clasico/), [Jazz](/tags/jazz/), [Ficción histórica](/tags/ficcion-historica/), [EEUU](/tags/eeuu/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [El chico de la trompeta](https://www.goodreads.com/book/show/18663334-el-chico-de-la-trompeta)
 
 ## Mi lectura
 
 - **Inicio:** 2024/07/15
 - **Fin:** 2024/07/18
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

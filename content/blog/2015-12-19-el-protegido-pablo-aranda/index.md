@@ -23,7 +23,7 @@ Esta es una novela policiaca, de las buenas, de las que no puedes dejar de leer 
 
 ## Ficha del libro
 
-- **Autor:** Pablo Aranda
+- **Autor:** [Pablo Aranda](/autores/pablo-aranda/)
 - **Editorial:** Malpaso Ediciones, SL
 - **Formato:** Hardcover, 226 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ Esta es una novela policiaca, de las buenas, de las que no puedes dejar de leer 
 
 - **Inicio:** 2015/12/16
 - **Fin:** 2015/12/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

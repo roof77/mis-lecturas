@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Horror
+- Novela gráfica
+- Terror
 - Comics
-- Fantasy
-- Fiction
-- Graphic Novels Comics
+- Fantasía
+- Ficción
+- Adultos
+- Paranormal
+- Sobrenatural
 autores:
 - James Tynion IV
+- Werther Dell'Edera
+- Miquel Muerto
+- Ignacio Bentz Simón
 editoriales:
 - Planeta Cómic
 image:
@@ -37,19 +42,19 @@ Editorial original: Boom!
 
 ## Ficha del libro
 
-- **Autor:** James Tynion IV
+- **Autor:** [James Tynion IV](/autores/james-tynion-iv/)
 - **Serie:** Something is Killing the Children
-- **Colaboradores:** Werther Dell'Edera (Illustrator), Miquel Muerto (Colorist), Ignacio Bentz Simón (Translator)
+- **Colaboradores:** [Werther Dell'Edera](/autores/werther-dell-edera/) (Illustrator), [Miquel Muerto](/autores/miquel-muerto/) (Colorist), [Ignacio Bentz Simón](/autores/ignacio-bentz-simon/) (Translator)
 - **Editorial:** Planeta Cómic
 - **Formato:** Hardcover, 152 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413416442 / 9788413416441
 - **Publicación original:** 2021-05-05
-- **Géneros:** Graphic Novels, Horror, Comics, Fantasy, Fiction, Graphic Novels Comics, Adult, Paranormal, Comic Book, Supernatural
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Terror](/tags/terror/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/)
 - **Ficha en Goodreads:** [Hay algo matando niños, vol. 1](https://www.goodreads.com/book/show/57421145-hay-algo-matando-ni-os-vol-1)
 
 ## Mi lectura
 
 - **Inicio:** 2025/11/14
 - **Fin:** 2025/11/14
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

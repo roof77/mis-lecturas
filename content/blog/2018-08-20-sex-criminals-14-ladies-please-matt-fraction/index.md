@@ -7,9 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Graphic Novels Comics
+- Novela gráfica
+- Fantasía
 autores:
 - Matt Fraction
 editoriales:
@@ -26,17 +25,17 @@ Why can't we all just get along? Because then the comic would be boring.
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
 - **Editorial:** Image Comics
 - **Formato:** Unknown Binding, 23 páginas
 - **Idioma:** English
 - **Publicación original:** 2016-02-10
-- **Géneros:** Comics, Graphic Novels, Fantasy, Graphic Novels Comics
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Sex Criminals #14: Ladies Please](https://www.goodreads.com/book/show/26057237-sex-criminals-14)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

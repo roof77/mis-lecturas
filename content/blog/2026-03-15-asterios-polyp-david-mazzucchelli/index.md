@@ -7,14 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Graphic Novels Comics
-- Bande Dessinée
-- Comic Book
+- Ficción
+- Filosofía
+- Arte
+- Arquitectura
 autores:
 - David Mazzucchelli
+- Esther Cruz Santaella
 editoriales:
 - Salamandra
 image:
@@ -29,14 +30,14 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** David Mazzucchelli
-- **Colaboradores:** Esther Cruz Santaella (Translator)
+- **Autor:** [David Mazzucchelli](/autores/david-mazzucchelli/)
+- **Colaboradores:** [Esther Cruz Santaella](/autores/esther-cruz-santaella/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 344 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416131112 / 9788416131112
 - **Publicación original:** 2014-01-01
-- **Géneros:** Graphic Novels, Comics, Fiction, Graphic Novels Comics, Bande Dessinée, Comic Book, Philosophy, Art, Comix, Architecture
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Filosofía](/tags/filosofia/), [Arte](/tags/arte/), [Arquitectura](/tags/arquitectura/)
 - **Personajes:** Asterios Polyp, Hana Sonnenschein, Stiff Major, Ursula Major, Willy Ilium
 - **Lugares:** The United States of America
 - **Premios ganados:** Harvey Awards (2010), Los Angeles Times Book Prize (2009), Gran Guinigi (2011), Will Eisner Comic Industry Awards (2010), Grand Prix de la Critique (2011)
@@ -47,3 +48,4 @@ image:
 
 - **Inicio:** 2026/03/11
 - **Fin:** 2026/03/15
+- **Calificación:** Recomendable/5

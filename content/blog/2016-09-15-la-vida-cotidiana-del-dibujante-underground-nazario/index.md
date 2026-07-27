@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- LGBT
+- LGTBIQ+
 - Comics
 autores:
 - Nazario
@@ -29,17 +29,17 @@ Un testimonio valiosísimo de un momento irrepetible y de una Barcelona creativa
 
 ## Ficha del libro
 
-- **Autor:** Nazario
+- **Autor:** [Nazario](/autores/nazario/)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433926128 / 9788433926128
 - **Publicación original:** 2016-06-01
-- **Géneros:** LGBT, Comics
+- **Géneros:** [LGTBIQ+](/tags/lgtbiq/), [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [La vida cotidiana del dibujante underground](https://www.goodreads.com/book/show/30345643-la-vida-cotidiana-del-dibujante-underground)
 
 ## Mi lectura
 
 - **Inicio:** 2016/09/13
 - **Fin:** 2016/09/15
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

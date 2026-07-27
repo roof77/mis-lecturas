@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Horror
-- Vampires
-- Fiction
-- Historical Fiction
-- Historical
+- Fantasía
+- Terror
+- Vampiros
+- Ficción
+- Ficción histórica
+- Histórico
+- Paranormal
+- Sobrenatural
+- Fantasía urbana
 autores:
 - George R.R. Martin
+- Cristina Macía
 editoriales:
 - Gigamesh
 image:
@@ -31,14 +35,14 @@ Para su segunda novela en solitario, Martin eligió el Misisipi de Mark Twain co
 
 ## Ficha del libro
 
-- **Autor:** George R.R. Martin
-- **Colaboradores:** Cristina Macía (Translator)
+- **Autor:** [George R.R. Martin](/autores/george-r-r-martin/)
+- **Colaboradores:** [Cristina Macía](/autores/cristina-macia/) (Translator)
 - **Editorial:** Gigamesh
 - **Formato:** Paperback, 354 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8496208753 / 9788496208759
 - **Publicación original:** 2009-12-01
-- **Géneros:** Fantasy, Horror, Vampires, Fiction, Historical Fiction, Historical, Paranormal, Supernatural, Audiobook, Urban Fantasy
+- **Géneros:** [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Vampiros](/tags/vampiros/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Histórico](/tags/historico/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/), [Fantasía urbana](/tags/fantasia-urbana/)
 - **Personajes:** Abner Marsh, Joshua York, Damon Julian
 - **Lugares:** New Orleans, Louisiana (United States)
 - **Nominaciones:** Locus Award (1983), World Fantasy Award (1983)
@@ -48,4 +52,4 @@ Para su segunda novela en solitario, Martin eligió el Misisipi de Mark Twain co
 
 - **Inicio:** 2019/07/01
 - **Fin:** 2019/07/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

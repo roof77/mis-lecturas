@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Gothic
+- Terror
+- Ficción
+- Gótico
 - Paranormal
-- Southern Gothic
-- Audiobook
+- Gótico sureño
+- Fantasía
+- Sobrenatural
+- Fantasmas
+- Thriller
 autores:
 - Michael McDowell
+- Teresa Arijón
 editoriales:
 - 'Buenos Aires: La Bestia Equilátera'
 image:
@@ -33,14 +37,14 @@ Admirada como joya del terror, Los Elementales es también considerada una obra 
 
 ## Ficha del libro
 
-- **Autor:** Michael McDowell
-- **Colaboradores:** Teresa Arijón (Translator)
+- **Autor:** [Michael McDowell](/autores/michael-mcdowell/)
+- **Colaboradores:** [Teresa Arijón](/autores/teresa-arijon/) (Translator)
 - **Editorial:** Buenos Aires: La Bestia Equilátera
 - **Formato:** Perfect Paperback, 312 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9509749257 / 9789509749252
 - **Publicación original:** 2017-11-01
-- **Géneros:** Horror, Fiction, Gothic, Paranormal, Southern Gothic, Audiobook, Fantasy, Supernatural, Ghosts, Horror Thriller
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Paranormal](/tags/paranormal/), [Gótico sureño](/tags/gotico-sureno/), [Fantasía](/tags/fantasia/), [Sobrenatural](/tags/sobrenatural/), [Fantasmas](/tags/fantasmas/), [Thriller](/tags/thriller/)
 - **Lugares:** Alabama (United States)
 - **Ficha en Goodreads:** [Los elementales](https://www.goodreads.com/book/show/36607375-los-elementales)
 
@@ -48,4 +52,4 @@ Admirada como joya del terror, Los Elementales es también considerada una obra 
 
 - **Inicio:** 2021/09/30
 - **Fin:** 2021/10/05
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

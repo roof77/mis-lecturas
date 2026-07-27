@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- Gothic
-- Historical Fiction
-- Mystery
+- Terror
+- Fantasía
+- Ficción
+- Gótico
+- Ficción histórica
+- Misterio
+- Thriller
+- Gótico sureño
+- Histórico
 autores:
 - Michael McDowell
+- Carles Andreu
 editoriales:
 - Blackie Books
 image:
@@ -37,15 +41,15 @@ Las gélidas y oscuras aguas del río Blackwater inundan Perdido, un pequeño pu
 
 ## Ficha del libro
 
-- **Autor:** Michael McDowell
+- **Autor:** [Michael McDowell](/autores/michael-mcdowell/)
 - **Serie:** Blackwater (#1)
-- **Colaboradores:** Carles Andreu (translator)
+- **Colaboradores:** [Carles Andreu](/autores/carles-andreu/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Mass Market Paperback, 250 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419654892 / 9788419654892
 - **Publicación original:** 2024-02-07
-- **Géneros:** Horror, Fantasy, Fiction, Gothic, Historical Fiction, Mystery, Thriller, Audiobook, Southern Gothic, Historical
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Gótico sureño](/tags/gotico-sureno/), [Histórico](/tags/historico/)
 - **Personajes:** Elinor Dammert, Mary-Love Caskey, Oscar Caskey, Sister Caskey, James Caskey, Grace Caskey, Genevieve Caskey, Bray Sugarwhite, Buster Sapp, Zaddie Sapp
 - **Lugares:** Perdido, Alabama (United States), Alabama (United States), The United States of America
 - **Ficha en Goodreads:** [La riada (Blackwater, #1)](https://www.goodreads.com/book/show/202795132-la-riada)
@@ -54,4 +58,4 @@ Las gélidas y oscuras aguas del río Blackwater inundan Perdido, un pequeño pu
 
 - **Inicio:** 2024/03/25
 - **Fin:** 2024/04/02
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

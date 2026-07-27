@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Short Stories
-- Fantasy
-- Animals
-- Audiobook
+- Ficción
+- Relatos
+- Fantasía
+- Animales
 - Novella
+- Contemporaneo
+- Naturaleza
+- Humor
+- Ficción adulta
 autores:
 - George Saunders
+- Chelsea Cardinal
+- Javier Calvo Perales
 editoriales:
 - Seix Barral
 image:
@@ -31,18 +36,18 @@ Escrita con mucha ternura, humor y una profunda convicción ética, y acompañad
 
 ## Ficha del libro
 
-- **Autor:** George Saunders
-- **Colaboradores:** Chelsea Cardinal (Illustrator), Javier Calvo Perales (Translator)
+- **Autor:** [George Saunders](/autores/george-saunders/)
+- **Colaboradores:** [Chelsea Cardinal](/autores/chelsea-cardinal/) (Illustrator), [Javier Calvo Perales](/autores/javier-calvo-perales/) (Translator)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 64 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8432241385 / 9788432241383
 - **Publicación original:** 2022-11-16
-- **Géneros:** Fiction, Short Stories, Fantasy, Animals, Audiobook, Novella, Contemporary, Nature, Humor, Adult Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Fantasía](/tags/fantasia/), [Animales](/tags/animales/), [Novella](/tags/novella/), [Contemporaneo](/tags/contemporaneo/), [Naturaleza](/tags/naturaleza/), [Humor](/tags/humor/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Ficha en Goodreads:** [Zorro 8](https://www.goodreads.com/book/show/62668733-zorro-8)
 
 ## Mi lectura
 
 - **Inicio:** 2023/01/04
 - **Fin:** 2023/01/09
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

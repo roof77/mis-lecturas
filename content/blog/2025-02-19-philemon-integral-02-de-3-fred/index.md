@@ -7,8 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Bande Dessinée
+- Novela gráfica
 - Comics
 autores:
 - Fred
@@ -28,18 +27,18 @@ Artífice de un imaginario evocador de las grandes obras de Lewis Carroll, Jonat
 
 ## Ficha del libro
 
-- **Autor:** Fred
+- **Autor:** [Fred](/autores/fred/)
 - **Serie:** Philémon (#6-10)
 - **Editorial:** ECC Ediciones
 - **Formato:** Hardcover, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416901082 / 9788416901081
 - **Publicación original:** 2016-09-01
-- **Géneros:** Graphic Novels, Bande Dessinée, Comics
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Philemon Integral 02 (de 3)](https://www.goodreads.com/book/show/32992334-philemon-integral-02)
 
 ## Mi lectura
 
 - **Inicio:** 2025/02/18
 - **Fin:** 2025/02/19
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

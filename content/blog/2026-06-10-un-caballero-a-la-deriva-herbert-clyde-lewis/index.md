@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
+- Ficción
+- Clásico
 - Novella
-- The United States Of America
-- American
-- Novels
+- EEUU
+- Novela
+- Literatura
+- Club de lectura
+- Muerte
 autores:
 - Herbert Clyde Lewis
+- Ángeles de los Santos
 editoriales:
 - Editorial Periférica
 image:
@@ -33,17 +36,18 @@ Un caballero a la deriva es una novella visionaria, una pieza magistral por su s
 
 ## Ficha del libro
 
-- **Autor:** Herbert Clyde Lewis
-- **Colaboradores:** Ángeles de los Santos (Translator)
+- **Autor:** [Herbert Clyde Lewis](/autores/herbert-clyde-lewis/)
+- **Colaboradores:** [Ángeles de los Santos](/autores/angeles-de-los-santos/) (Translator)
 - **Editorial:** Editorial Periférica
 - **Formato:** Kindle Edition, 116 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418838671 / 9788418838675
 - **Publicación original:** 2023-04-03
-- **Géneros:** Fiction, Classics, Novella, The United States Of America, American, Novels, Literature, Book Club, Death, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Novella](/tags/novella/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Club de lectura](/tags/club-de-lectura/), [Muerte](/tags/muerte/)
 - **Ficha en Goodreads:** [Un caballero a la deriva](https://www.goodreads.com/book/show/126517815-un-caballero-a-la-deriva)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/10
+- **Calificación:** Recomendable/5

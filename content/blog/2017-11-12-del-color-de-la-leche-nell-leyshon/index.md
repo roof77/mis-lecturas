@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Historical Fiction
-- Fiction
-- Historical
-- Book Club
-- Roman
+- Ficción histórica
+- Ficción
+- Histórico
+- Club de lectura
 - Drama
+- Novela
+- Literatura británica
+- Ficción Literaria
+- Adultos
 autores:
 - Nell Leyshon
+- Mariano Peyrou
 editoriales:
 - Sexto Piso
 image:
@@ -31,13 +35,13 @@ En Del color de la leche, Nell Leyshon ha recreado con una belleza trágica un m
 
 ## Ficha del libro
 
-- **Autor:** Nell Leyshon
-- **Colaboradores:** Mariano Peyrou (Translator )
+- **Autor:** [Nell Leyshon](/autores/nell-leyshon/)
+- **Colaboradores:** [Mariano Peyrou](/autores/mariano-peyrou/) (Translator)
 - **Editorial:** Sexto Piso
 - **Formato:** Paperback, 174 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2013-01-01
-- **Géneros:** Historical Fiction, Fiction, Historical, Book Club, Roman, Drama, Novels, British Literature, Literary Fiction, Adult
+- **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Histórico](/tags/historico/), [Club de lectura](/tags/club-de-lectura/), [Drama](/tags/drama/), [Novela](/tags/novela/), [Literatura británica](/tags/literatura-britanica/), [Ficción Literaria](/tags/ficcion-literaria/), [Adultos](/tags/adultos/)
 - **Premios ganados:** Jerwood Fiction Uncovered Prize (2013)
 - **Ficha en Goodreads:** [Del color de la leche](https://www.goodreads.com/book/show/18510721-del-color-de-la-leche)
 
@@ -45,4 +49,4 @@ En Del color de la leche, Nell Leyshon ha recreado con una belleza trágica un m
 
 - **Inicio:** 2017/11/10
 - **Fin:** 2017/11/12
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

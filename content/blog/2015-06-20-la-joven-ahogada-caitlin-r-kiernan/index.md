@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- LGBT
+- Terror
+- Fantasía
+- Ficción
+- LGTBIQ+
 - Queer
 - Paranormal
+- Fantasía urbana
+- Salud mentál
+- Realismo mágico
+- Enfermedad mentál
 autores:
 - Caitlín R. Kiernan
+- Marta Lila Murillo
 editoriales:
 - Valdemar
 image:
@@ -31,14 +36,14 @@ Enfrentándose a sus propias percepciones, Imp debe descubrir la verdad sobre su
 
 ## Ficha del libro
 
-- **Autor:** Caitlín R. Kiernan
-- **Colaboradores:** Marta Lila Murillo (Translator)
+- **Autor:** [Caitlín R. Kiernan](/autores/caitlin-r-kiernan/)
+- **Colaboradores:** [Marta Lila Murillo](/autores/marta-lila-murillo/) (Translator)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 392 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477027668 / 9788477027669
 - **Publicación original:** 2014-04-02
-- **Géneros:** Horror, Fantasy, Fiction, LGBT, Queer, Paranormal, Urban Fantasy, Mental Health, Magical Realism, Mental Illness
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Paranormal](/tags/paranormal/), [Fantasía urbana](/tags/fantasia-urbana/), [Salud mentál](/tags/salud-mental/), [Realismo mágico](/tags/realismo-magico/), [Enfermedad mentál](/tags/enfermedad-mental/)
 - **Lugares:** Providence, Rhode Island (United States)
 - **Premios ganados:** Bram Stoker Award (2012), James Tiptree Jr. Award (2012)
 - **Nominaciones:** Nebula Award (2012), Locus Award (2013), World Fantasy Award (2013), Mythopoeic Fantasy Award (2013), Shirley Jackson Award (2012)
@@ -48,4 +53,4 @@ Enfrentándose a sus propias percepciones, Imp debe descubrir la verdad sobre su
 
 - **Inicio:** 2015/06/14
 - **Fin:** 2015/06/20
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

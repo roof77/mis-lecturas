@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- LGBT
-- Young Adult
+- Novela gráfica
+- LGTBIQ+
+- Jovenes adultos
 - Comics
 - Romance
 - Queer
+- Contemporaneo
+- Ficción
+- Lesbianismo
 autores:
 - Mariko Tamaki
+- Rosemary Valero-O'Connell
+- Natalia Mosquera
 editoriales:
 - Ediciones La Cúpula
 image:
@@ -33,14 +38,14 @@ Mariko Tamaki y Rosemary Valero O’Conell fraguan una historia de amor efervesc
 
 ## Ficha del libro
 
-- **Autor:** Mariko Tamaki
-- **Colaboradores:** Rosemary Valero-O'Connell (Ilustrator), Natalia Mosquera (Translator)
+- **Autor:** [Mariko Tamaki](/autores/mariko-tamaki/)
+- **Colaboradores:** [Rosemary Valero-O'Connell](/autores/rosemary-valero-o-connell/) (Ilustrator), [Natalia Mosquera](/autores/natalia-mosquera/) (Translator)
 - **Editorial:** Ediciones La Cúpula
 - **Formato:** Paperback, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417442456 / 9788417442453
 - **Publicación original:** 2020-03-19
-- **Géneros:** Graphic Novels, LGBT, Young Adult, Comics, Romance, Queer, Contemporary, Fiction, Lesbian, Graphic Novels Comics
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Lesbianismo](/tags/lesbianismo/)
 - **Personajes:** Freddy Riley, Laura Dean
 - **Lugares:** Berkeley, California (United States), California (United States)
 - **Premios ganados:** Walter Dean Myers Award (2020), VLA Graphic Novel Diversity Award (2019), Prism Award (2020)
@@ -51,3 +56,4 @@ Mariko Tamaki y Rosemary Valero O’Conell fraguan una historia de amor efervesc
 
 - **Inicio:** 2026/04/01
 - **Fin:** 2026/01/02
+- **Calificación:** Recomendable/5

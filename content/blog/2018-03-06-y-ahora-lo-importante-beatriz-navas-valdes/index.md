@@ -25,7 +25,7 @@ Bienvenidos a los diarios de Beatriz, una madrileña que ha cumplido 14 años en
 
 ## Ficha del libro
 
-- **Autor:** Beatriz Navas Valdés
+- **Autor:** [Beatriz Navas Valdés](/autores/beatriz-navas-valdes/)
 - **Editorial:** Caballo de Troya
 - **Formato:** Paperback, 272 páginas
 - **Idioma:** Spanish; Castilian
@@ -37,4 +37,4 @@ Bienvenidos a los diarios de Beatriz, una madrileña que ha cumplido 14 años en
 
 - **Inicio:** 2018/03/02
 - **Fin:** 2018/03/06
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

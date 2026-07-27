@@ -25,7 +25,7 @@ Como una joven sabia, insobornable y piadosa, aguda y delicada, Olivia Gallo cue
 
 ## Ficha del libro
 
-- **Autor:** Olivia Gallo
+- **Autor:** [Olivia Gallo](/autores/olivia-gallo/)
 - **Editorial:** ALPHA DECAY
 - **Formato:** Paperback, 112 páginas
 - **Idioma:** Spanish; Castilian
@@ -37,4 +37,4 @@ Como una joven sabia, insobornable y piadosa, aguda y delicada, Olivia Gallo cue
 
 - **Inicio:** 2022/03/29
 - **Fin:** 2022/03/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

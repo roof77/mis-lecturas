@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fantasy
-- Fiction
-- Science Fiction
-- Magical Realism
-- Historical Fiction
+- Relatos
+- Fantasía
+- Ficción
+- Ciencia ficción
+- Realismo mágico
+- Ficción histórica
+- Antología
+- Club de lectura
+- Ciencia Ficción
 autores:
 - Ken Liu
+- María Pilar San Román
 editoriales:
 - 'Alianza '
 image:
@@ -29,14 +33,14 @@ Quince relatos y novelas cortas de uno de los mejores escritores de ficción bre
 
 ## Ficha del libro
 
-- **Autor:** Ken Liu
-- **Colaboradores:** María Pilar San Román (Translator)
+- **Autor:** [Ken Liu](/autores/ken-liu/)
+- **Colaboradores:** [María Pilar San Román](/autores/maria-pilar-san-roman/) (Translator)
 - **Editorial:** Alianza 
 - **Formato:** Hardcover, 544 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491046879 / 9788491046875
 - **Publicación original:** 2017-04-06
-- **Géneros:** Short Stories, Fantasy, Fiction, Science Fiction, Magical Realism, Historical Fiction, Audiobook, Anthologies, Book Club, Science Fiction Fantasy
+- **Géneros:** [Relatos](/tags/relatos/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Realismo mágico](/tags/realismo-magico/), [Ficción histórica](/tags/ficcion-historica/), [Antología](/tags/antologia/), [Club de lectura](/tags/club-de-lectura/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Premios ganados:** Locus Award (2017), Premio Ignotus (2018), Premio Ignotus for Mejor Antología (2018)
 - **Nominaciones:** 本屋大賞 (2016), Goodreads Choice Award (2016), Readers' Favorite Fantasy (2016)
 - **Ficha en Goodreads:** [El zoo de papel y otros relatos](https://www.goodreads.com/book/show/34429410-el-zoo-de-papel-y-otros-relatos)
@@ -45,4 +49,4 @@ Quince relatos y novelas cortas de uno de los mejores escritores de ficción bre
 
 - **Inicio:** 2022/06/07
 - **Fin:** 2022/06/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

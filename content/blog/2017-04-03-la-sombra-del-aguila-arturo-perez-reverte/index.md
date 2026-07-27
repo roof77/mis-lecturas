@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Historical Fiction
+- Ficción histórica
 - Humor
-- Historical
-- Spanish Literature
-- Fiction
-- War
+- Histórico
+- Literatura hispana
+- Ficción
+- Guerra
+- Aventuras
+- España
+- Novela
 autores:
 - Arturo Pérez-Reverte
 editoriales:
@@ -29,13 +32,13 @@ During the Russian campaign of 1812, a battalion of former Spanish prisoners rec
 
 ## Ficha del libro
 
-- **Autor:** Arturo Pérez-Reverte
+- **Autor:** [Arturo Pérez-Reverte](/autores/arturo-perez-reverte/)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420481327 / 9788420481326
 - **Publicación original:** 1992-07-01
-- **Géneros:** Historical Fiction, Humor, Historical, Spanish Literature, Fiction, War, Audiobook, Adventure, Spain, Novels
+- **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Humor](/tags/humor/), [Histórico](/tags/historico/), [Literatura hispana](/tags/literatura-hispana/), [Ficción](/tags/ficcion/), [Guerra](/tags/guerra/), [Aventuras](/tags/aventuras/), [España](/tags/espana/), [Novela](/tags/novela/)
 - **Lugares:** Spain
 - **Ficha en Goodreads:** [La sombra del águila](https://www.goodreads.com/book/show/785481.La_sombra_del_guila)
 
@@ -43,4 +46,4 @@ During the Russian campaign of 1812, a battalion of former Spanish prisoners rec
 
 - **Inicio:** 2017/04/02
 - **Fin:** 2017/04/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

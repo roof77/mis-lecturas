@@ -9,6 +9,7 @@ tags:
 - Comics
 autores:
 - Peter Bagge
+- Hernán Migoya
 editoriales:
 - La Cúpula
 image:
@@ -19,18 +20,19 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Odio: Hate (#13)
-- **Colaboradores:** Hernán Migoya (Translator)
+- **Colaboradores:** [Hernán Migoya](/autores/hernan-migoya/) (Translator)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 52 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478336117 / 9788478336111
 - **Publicación original:** 2005-07-01
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio, vol. 13: Mi gran boda yanqui (Hate, #3)](https://www.goodreads.com/book/show/2751002-odio-vol-13)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/25
 - **Fin:** 2026/05/25
+- **Calificación:** Bien/5

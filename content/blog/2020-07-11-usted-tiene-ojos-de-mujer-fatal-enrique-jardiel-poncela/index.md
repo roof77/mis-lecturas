@@ -21,7 +21,7 @@ Sergio Hernán es un conquistador que tras seducir a las mujeres y gozar de ella
 
 ## Ficha del libro
 
-- **Autor:** Enrique Jardiel Poncela
+- **Autor:** [Enrique Jardiel Poncela](/autores/enrique-jardiel-poncela/)
 - **Formato:** ebook, 80 páginas
 - **Idioma:** Spanish; Castilian
 - **Ficha en Goodreads:** [Usted tiene ojos de mujer fatal](https://www.goodreads.com/book/show/18301011-usted-tiene-ojos-de-mujer-fatal)
@@ -30,4 +30,4 @@ Sergio Hernán es un conquistador que tras seducir a las mujeres y gozar de ella
 
 - **Inicio:** 2020/07/06
 - **Fin:** 2020/07/11
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

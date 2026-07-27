@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Mystery
-- Audiobook
+- Ficción
+- Misterio
 - Thriller
-- Mystery Thriller
-- Book Club
+- Club de lectura
+- Crimen
+- Contemporaneo
+- Ficción Literaria
+- Dark Academia
 autores:
 - Rebecca Makkai
+- Aurora Echevarría
 editoriales:
 - Sexto Piso
 image:
@@ -31,14 +34,14 @@ Hipnótica y tremendamente actual, la nueva novela de Rebecca Makkai reflexiona 
 
 ## Ficha del libro
 
-- **Autor:** Rebecca Makkai
-- **Colaboradores:** Aurora Echevarría (translator)
+- **Autor:** [Rebecca Makkai](/autores/rebecca-makkai/)
+- **Colaboradores:** [Aurora Echevarría](/autores/aurora-echevarria/) (translator)
 - **Editorial:** Sexto Piso
 - **Formato:** Paperback, 500 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419261580 / 9788419261588
 - **Publicación original:** 2024-03-04
-- **Géneros:** Fiction, Mystery, Audiobook, Thriller, Mystery Thriller, Book Club, Crime, Contemporary, Literary Fiction, Dark Academia
+- **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Crimen](/tags/crimen/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Dark Academia](/tags/dark-academia/)
 - **Personajes:** Bodie Kane, Thalia Keith, Fran Hoffbart, Omar Evans, Robbie Serenho, Jerome Wager, Denny Bloch, Dane Rubra, Britt Gwynne, Beth Docherty
 - **Lugares:** New Hampshire (United States)
 - **Premios ganados:** Libby Award (2024)
@@ -49,4 +52,4 @@ Hipnótica y tremendamente actual, la nueva novela de Rebecca Makkai reflexiona 
 
 - **Inicio:** 2025/07/16
 - **Fin:** 2025/07/29
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Biography
-- LGBT
-- Memoir
+- No Ficción
+- Biografía
+- LGTBIQ+
+- Memorias
 - Queer
-- Classics
+- Clásico
+- Gay
+- Autobiografía
+- Humor
 autores:
 - Quentin Crisp
 editoriales:
@@ -31,17 +34,17 @@ El funcionario desnudo, primer volumen de sus memorias, es una crónica autobiog
 
 ## Ficha del libro
 
-- **Autor:** Quentin Crisp
+- **Autor:** [Quentin Crisp](/autores/quentin-crisp/)
 - **Editorial:** Valdemar
 - **Formato:** Paperback, 268 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477023611 / 9788477023616
 - **Publicación original:** 2001-09-01
-- **Géneros:** Nonfiction, Biography, LGBT, Memoir, Queer, Classics, Gay, Autobiography, Biography Memoir, Humor
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [LGTBIQ+](/tags/lgtbiq/), [Memorias](/tags/memorias/), [Queer](/tags/queer/), [Clásico](/tags/clasico/), [Gay](/tags/gay/), [Autobiografía](/tags/autobiografia/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [El funcionario desnudo](https://www.goodreads.com/book/show/40513699-el-funcionario-desnudo)
 
 ## Mi lectura
 
 - **Inicio:** 2022/10/05
 - **Fin:** 2022/10/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Contemporary
-- Literary Fiction
-- Ireland
-- Irish Literature
+- Relatos
+- Ficción
+- Contemporaneo
+- Ficción Literaria
+- Irlanda
+- Literatura irlandesa
+- Novella
+- Feminismo
+- Adultos
 autores:
 - Claire Keegan
 editoriales:
@@ -29,13 +32,13 @@ Un cajón exclusivo en el armario. La copia de una llave. Un te amo dicho a tiem
 
 ## Ficha del libro
 
-- **Autor:** Claire Keegan
+- **Autor:** [Claire Keegan](/autores/claire-keegan/)
 - **Editorial:** Eterna Cadencia
 - **Formato:** Kindle Edition, 38 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9877123282 / 9789877123289
 - **Publicación original:** 2024-04-01
-- **Géneros:** Short Stories, Fiction, Contemporary, Literary Fiction, Ireland, Irish Literature, Audiobook, Novella, Feminism, Adult
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Novella](/tags/novella/), [Feminismo](/tags/feminismo/), [Adultos](/tags/adultos/)
 - **Lugares:** Ireland, Dublin (Ireland)
 - **Nominaciones:** British Book Award (2024)
 - **Ficha en Goodreads:** [Bien tarde en el día](https://www.goodreads.com/book/show/211993455-bien-tarde-en-el-d-a)
@@ -44,3 +47,4 @@ Un cajón exclusivo en el armario. La copia de una llave. Un te amo dicho a tiem
 
 - **Inicio:** 2026/06/10
 - **Fin:** 2026/06/10
+- **Calificación:** Recomendable/5

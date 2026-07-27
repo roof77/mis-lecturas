@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Science Fiction
+- Ficción
+- Ciencia ficción
 - Queer
-- LGBT
-- Fantasy
-- Time Travel
+- LGTBIQ+
+- Fantasía
+- Viaje en el tiempo
+- Distopía
+- Cambio climático
+- Novella
+- Ciencia Ficción
 autores:
 - Rita Indiana
 editoriales:
@@ -32,12 +36,12 @@ Ya lo decíamos al principio: apabullante.
 
 ## Ficha del libro
 
-- **Autor:** Rita Indiana
+- **Autor:** [Rita Indiana](/autores/rita-indiana/)
 - **Editorial:** Periférica
 - **Formato:** Paperback, 181 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2015-04-01
-- **Géneros:** Fiction, Science Fiction, Queer, LGBT, Fantasy, Time Travel, Dystopia, Climate Change Fiction, Novella, Science Fiction Fantasy
+- **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Fantasía](/tags/fantasia/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Distopía](/tags/distopia/), [Cambio climático](/tags/cambio-climatico/), [Novella](/tags/novella/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Nominaciones:** BTBA Best Translated Book Award (2020)
 - **Ficha en Goodreads:** [La mucama de Omicunlé](https://www.goodreads.com/book/show/25477041-la-mucama-de-omicunl)
 
@@ -45,4 +49,4 @@ Ya lo decíamos al principio: apabullante.
 
 - **Inicio:** 2016/01/21
 - **Fin:** 2016/01/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

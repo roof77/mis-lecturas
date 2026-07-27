@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Young Adult
-- Fiction
-- Mystery
-- Audiobook
-- LGBT
+- Fantasía
+- Jovenes adultos
+- Ficción
+- Misterio
+- LGTBIQ+
+- Novella
+- Queer
+- Fantasía urbana
+- Realismo mágico
 autores:
 - Seanan McGuire
+- María Pilar San Román
 editoriales:
 - Alianza
 image:
@@ -29,15 +33,15 @@ Deslizándose entre las sombras bajo la cama, o a través de un armario, o por m
 
 ## Ficha del libro
 
-- **Autor:** Seanan McGuire
+- **Autor:** [Seanan McGuire](/autores/seanan-mcguire/)
 - **Serie:** Wayward Children (#1)
-- **Colaboradores:** María Pilar San Román (Translator)
+- **Colaboradores:** [María Pilar San Román](/autores/maria-pilar-san-roman/) (Translator)
 - **Editorial:** Alianza
 - **Formato:** Hardcover, 183 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788491812005
 - **Publicación original:** 2018-06-28
-- **Géneros:** Fantasy, Young Adult, Fiction, Mystery, Audiobook, LGBT, Novella, Queer, Urban Fantasy, Magical Realism
+- **Géneros:** [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [LGTBIQ+](/tags/lgtbiq/), [Novella](/tags/novella/), [Queer](/tags/queer/), [Fantasía urbana](/tags/fantasia-urbana/), [Realismo mágico](/tags/realismo-magico/)
 - **Personajes:** Nancy, Jack, Jill, Loreli, Kade, Lundy, Eleanor West
 - **Premios ganados:** Hugo Award (2017), Nebula Award (2016), Locus Award (2017), ALA Alex Award (2017)
 - **Nominaciones:** World Fantasy Award (2017), James Tiptree Jr. Award (2016), British Fantasy Award (2017), Goodreads Choice Award (2016), Readers' Favorite Fantasy (2016)
@@ -47,4 +51,4 @@ Deslizándose entre las sombras bajo la cama, o a través de un armario, o por m
 
 - **Inicio:** 2018/06/30
 - **Fin:** 2018/07/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

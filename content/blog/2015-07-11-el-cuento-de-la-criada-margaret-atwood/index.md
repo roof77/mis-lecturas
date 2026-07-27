@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Dystopia
-- Science Fiction
-- Feminism
-- Book Club
+- Ficción
+- Clásico
+- Distopía
+- Ciencia ficción
+- Feminismo
+- Club de lectura
+- Fantasía
+- Adultos
+- Literatura
 autores:
 - Margaret Atwood
+- Elsa Mateo Blanco
 editoriales:
 - BRUGUERA (SELLO)
 image:
@@ -33,15 +37,15 @@ En el estado de Gilead, donde tras una hecatombe nuclear la población ha visto 
 
 ## Ficha del libro
 
-- **Autor:** Margaret Atwood
+- **Autor:** [Margaret Atwood](/autores/margaret-atwood/)
 - **Serie:** The Handmaid’s Tale  (#1)
-- **Colaboradores:** Elsa Mateo Blanco (Translator)
+- **Colaboradores:** [Elsa Mateo Blanco](/autores/elsa-mateo-blanco/) (Translator)
 - **Editorial:** BRUGUERA (SELLO)
 - **Formato:** Paperback, 480 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8402420966 / 9788402420961
 - **Publicación original:** 2008-10-15
-- **Géneros:** Fiction, Classics, Dystopia, Science Fiction, Feminism, Book Club, Fantasy, Audiobook, Adult, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Distopía](/tags/distopia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Feminismo](/tags/feminismo/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Literatura](/tags/literatura/)
 - **Personajes:** The Commander, Offred, Serena Joy, Ofglen, Moira, Aunt Lydia, Nick (The Handmaid's Tale), Janine (The Handmaid's Tale)
 - **Lugares:** Republic of Gilead, The United States of America, Bangor, Maine (United States)
 - **Premios ganados:** Arthur C. Clarke Award (1987), Audie Award (2013), Los Angeles Times Book Prize (1986), Governor General's Literary Awards / Prix littéraires du Gouverneur général (1985)
@@ -52,4 +56,4 @@ En el estado de Gilead, donde tras una hecatombe nuclear la población ha visto 
 
 - **Inicio:** 2015/07/10
 - **Fin:** 2015/07/11
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

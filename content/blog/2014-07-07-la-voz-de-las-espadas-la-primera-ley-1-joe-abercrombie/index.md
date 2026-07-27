@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Audiobook
-- Epic Fantasy
-- High Fantasy
-- Dark Fantasy
+- Fantasía
+- Ficción
+- Fantasía épica
+- Alta fantasía
+- Fantasía oscura
+- Adultos
+- Aventuras
+- Ciencia Ficción
+- Mágia
 autores:
 - Joe Abercrombie
+- Borja García Bercero
 editoriales:
 - Alianza Editorial
 image:
@@ -35,15 +39,15 @@ Sus historias se entrelazan en una fantasía negra repleta de acción y personaj
 
 ## Ficha del libro
 
-- **Autor:** Joe Abercrombie
+- **Autor:** [Joe Abercrombie](/autores/joe-abercrombie/)
 - **Serie:** The First Law (#1)
-- **Colaboradores:** Borja García Bercero (Translator)
+- **Colaboradores:** [Borja García Bercero](/autores/borja-garcia-bercero/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 656 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420682489 / 9788420682488
 - **Publicación original:** 2007-04-01
-- **Géneros:** Fantasy, Fiction, Audiobook, Epic Fantasy, High Fantasy, Dark Fantasy, Adult, Adventure, Science Fiction Fantasy, Magic
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Fantasía épica](/tags/fantasia-epica/), [Alta fantasía](/tags/alta-fantasia/), [Fantasía oscura](/tags/fantasia-oscura/), [Adultos](/tags/adultos/), [Aventuras](/tags/aventuras/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Mágia](/tags/magia/)
 - **Personajes:** Logen Ninefingers, Jezal dan Luthar, Ferro Maljinn, The Dogman, Shylo Vitari, Bayaz, Malacus Quai, Ardee West, Collem West, Black Dow
 - **Nominaciones:** Locus Award (2007), Compton Crook Award (2008), Tähtifantasia Award (2010)
 - **Ficha en Goodreads:** [La voz de las espadas (La Primera Ley, #1)](https://www.goodreads.com/book/show/1794071.La_voz_de_las_espadas)
@@ -52,4 +56,4 @@ Sus historias se entrelazan en una fantasía negra repleta de acción y personaj
 
 - **Inicio:** 2014/07/01
 - **Fin:** 2014/07/07
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

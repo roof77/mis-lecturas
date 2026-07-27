@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Graphic Novels Comics
-- Politics
-- Bande Dessinée
+- Ficción
+- Política
+- Adultos
+- Distopía
+- Queer
 autores:
 - Eleanor Davis
+- Santiago García Fernández
 editoriales:
 - ASTIBERRI EDICIONES
 image:
@@ -33,14 +35,14 @@ Told with tenderness and care in an undefined near future, Eleanor Davis's The H
 
 ## Ficha del libro
 
-- **Autor:** Eleanor Davis
-- **Colaboradores:** Santiago García Fernández (Translator)
+- **Autor:** [Eleanor Davis](/autores/eleanor-davis/)
+- **Colaboradores:** [Santiago García Fernández](/autores/santiago-garcia-fernandez/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Hardcover, 152 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841821516X / 9788418215162
 - **Publicación original:** 2020-09-10
-- **Géneros:** Graphic Novels, Comics, Fiction, Graphic Novels Comics, Politics, Bande Dessinée, Adult, Dystopia, Queer, Comix
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Política](/tags/politica/), [Adultos](/tags/adultos/), [Distopía](/tags/distopia/), [Queer](/tags/queer/)
 - **Premios ganados:** Los Angeles Times Book Prize (2019)
 - **Ficha en Goodreads:** [El difícil mañana](https://www.goodreads.com/book/show/55293267-el-dif-cil-ma-ana)
 
@@ -48,4 +50,4 @@ Told with tenderness and care in an undefined near future, Eleanor Davis's The H
 
 - **Inicio:** 2025/05/16
 - **Fin:** 2025/05/17
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

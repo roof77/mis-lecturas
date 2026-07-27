@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- LGBT
+- LGTBIQ+
 - Romance
 - Queer
-- Fiction
+- Ficción
+- Jovenes adultos
+- Francia
 autores:
 - Jul Maroh
+- Lorenzo F. Díaz
 editoriales:
 - Dibbuks
 image:
@@ -31,14 +34,14 @@ Estamos delante de una obra que describe con mucha delicadeza lo cotidiano de un
 
 ## Ficha del libro
 
-- **Autor:** Jul Maroh
-- **Colaboradores:** Lorenzo F. Díaz (Translator)
+- **Autor:** [Jul Maroh](/autores/jul-maroh/)
+- **Colaboradores:** [Lorenzo F. Díaz](/autores/lorenzo-f-diaz/) (Translator)
 - **Editorial:** Dibbuks
 - **Formato:** Hardcover, 161 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8492902442 / 9788492902446
 - **Publicación original:** 2011-06-01
-- **Géneros:** Graphic Novels, Comics, LGBT, Romance, Queer, Fiction, Bande Dessinée, Graphic Novels Comics, Young Adult, France
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Francia](/tags/francia/)
 - **Personajes:** Clementine, Emma, Valentine
 - **Premios ganados:** Prix du Festival d'Angoulême (2011), BDGest'Art (2010)
 - **Ficha en Goodreads:** [El azul es un color cálido](https://www.goodreads.com/book/show/17182033-el-azul-es-un-color-c-lido)
@@ -47,4 +50,4 @@ Estamos delante de una obra que describe con mucha delicadeza lo cotidiano de un
 
 - **Inicio:** 2017/10/02
 - **Fin:** 2017/10/02
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

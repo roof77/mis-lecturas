@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Christmas
-- Fiction
-- American
-- Literature
-- The United States Of America
+- Relatos
+- Navidad
+- Ficción
+- EEUU
+- Literatura
+- Vacaciones
+- Contemporaneo
+- Ficción adulta
 autores:
 - Paul Auster
+- Isol
+- Mariana Vera
 editoriales:
 - Sudamericana
 image:
@@ -29,18 +33,18 @@ Relato, publicado en The New York Times en 1990. El director de cine Wayne Wang 
 
 ## Ficha del libro
 
-- **Autor:** Paul Auster
-- **Colaboradores:** Isol (Illustrator), Mariana Vera (Translator)
+- **Autor:** [Paul Auster](/autores/paul-auster/)
+- **Colaboradores:** [Isol](/autores/isol/) (Illustrator), [Mariana Vera](/autores/mariana-vera/) (Translator)
 - **Editorial:** Sudamericana
 - **Formato:** Paperback, 32 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9500724502 / 9789500724500
 - **Publicación original:** 2003-01-01
-- **Géneros:** Short Stories, Christmas, Fiction, American, Literature, The United States Of America, Holiday, Contemporary, Adult Fiction, Audiobook
+- **Géneros:** [Relatos](/tags/relatos/), [Navidad](/tags/navidad/), [Ficción](/tags/ficcion/), [EEUU](/tags/eeuu/), [Literatura](/tags/literatura/), [Vacaciones](/tags/vacaciones/), [Contemporaneo](/tags/contemporaneo/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Ficha en Goodreads:** [El cuento de Navidad de Auggie Wren](https://www.goodreads.com/book/show/1442372.El_cuento_de_Navidad_de_Auggie_Wren)
 
 ## Mi lectura
 
 - **Inicio:** 2023/02/26
 - **Fin:** 2023/02/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

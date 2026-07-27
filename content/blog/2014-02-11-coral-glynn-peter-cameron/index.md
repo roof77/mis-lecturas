@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- LGBT
-- Literary Fiction
-- British Literature
-- Audiobook
+- Ficción
+- Ficción histórica
+- LGTBIQ+
+- Ficción Literaria
+- Literatura británica
+- Novela
+- Gay
+- Ficción adulta
+- EEUU
 autores:
-- Peter    Cameron
+- Peter Cameron
 editoriales:
 - Libros del Asteroide
 image:
@@ -32,17 +35,17 @@ En esta desolada historia de amor Cameron nos habla de la evolución de los sent
 
 ## Ficha del libro
 
-- **Autor:** Peter    Cameron
+- **Autor:** [Peter Cameron](/autores/peter-cameron/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 269 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415625529 / 9788415625520
 - **Publicación original:** 2013-08-01
-- **Géneros:** Fiction, Historical Fiction, LGBT, Literary Fiction, British Literature, Audiobook, Novels, Gay, Adult Fiction, American
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [LGTBIQ+](/tags/lgtbiq/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura británica](/tags/literatura-britanica/), [Novela](/tags/novela/), [Gay](/tags/gay/), [Ficción adulta](/tags/ficcion-adulta/), [EEUU](/tags/eeuu/)
 - **Ficha en Goodreads:** [Coral Glynn](https://www.goodreads.com/book/show/18461760-coral-glynn)
 
 ## Mi lectura
 
 - **Inicio:** 2014/02/06
 - **Fin:** 2014/02/11
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

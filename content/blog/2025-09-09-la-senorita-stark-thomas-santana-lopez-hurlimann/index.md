@@ -22,7 +22,7 @@ Rare book
 
 ## Ficha del libro
 
-- **Autor:** Thomas / Santana López Hürlimann
+- **Autor:** [Thomas / Santana López Hürlimann](/autores/thomas-santana-lopez-hurlimann/)
 - **Editorial:** Tropismos
 - **Formato:** Paperback
 - **Idioma:** Spanish; Castilian
@@ -34,4 +34,4 @@ Rare book
 
 - **Inicio:** 2025/08/27
 - **Fin:** 2025/09/09
-- **Mi valoración:** ★★★☆☆ (3,25/5)
+- **Calificación:** ★★★☆☆ (3,25/5)

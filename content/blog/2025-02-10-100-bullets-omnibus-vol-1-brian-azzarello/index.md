@@ -8,13 +8,14 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Dc Comics
-- Mystery
+- Novela gráfica
+- DC
+- Misterio
 - Thriller
-- Comic Book
+- Crimen
 autores:
 - Brian Azzarello
+- Eduardo Risso
 editoriales:
 - DC Comics
 image:
@@ -30,18 +31,18 @@ Collects Vertigo: Winter's Edge #3, 100 Bullets #1-58.
 
 ## Ficha del libro
 
-- **Autor:** Brian Azzarello
-- **Colaboradores:** Eduardo Risso (Illustrator)
+- **Autor:** [Brian Azzarello](/autores/brian-azzarello/)
+- **Colaboradores:** [Eduardo Risso](/autores/eduardo-risso/) (Illustrator)
 - **Editorial:** DC Comics
 - **Formato:** Hardcover, 1376 páginas
 - **Idioma:** English
 - **ISBN:** 1779507429 / 9781779507426
 - **Publicación original:** 2021-01-12
-- **Géneros:** Comics, Graphic Novels, Dc Comics, Mystery, Thriller, Comic Book, Crime
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [DC](/tags/dc/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Crimen](/tags/crimen/)
 - **Ficha en Goodreads:** [100 Bullets Omnibus Vol. 1](https://www.goodreads.com/book/show/53263929-100-bullets-omnibus-vol-1)
 
 ## Mi lectura
 
 - **Inicio:** 2025/01/31
 - **Fin:** 2025/02/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

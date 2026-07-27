@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Historical Fiction
-- Novels
-- Literary Fiction
-- American
+- Ficción
+- Clásico
+- Ficción histórica
+- Novela
+- Ficción Literaria
+- EEUU
+- Familia
+- Siglo XX
+- Literatura
 autores:
 - William Maxwell
+- Edmundo Paz Soldán
+- Gabriela Bustelo
 editoriales:
 - Libros del Asteroide
 image:
@@ -33,18 +38,18 @@ Con esta novela, en la que el autor se enfrenta por primera vez con el recuerdo 
 
 ## Ficha del libro
 
-- **Autor:** William Maxwell
-- **Colaboradores:** Edmundo Paz Soldán (Prologue), Gabriela Bustelo (Translator )
+- **Autor:** [William Maxwell](/autores/william-maxwell/)
+- **Colaboradores:** [Edmundo Paz Soldán](/autores/edmundo-paz-soldan/) (Prologue), [Gabriela Bustelo](/autores/gabriela-bustelo/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 210 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493501824 / 9788493501822
 - **Publicación original:** 2006-09-01
-- **Géneros:** Fiction, Classics, Historical Fiction, Novels, Literary Fiction, American, Family, The United States Of America, 20th Century, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/), [Familia](/tags/familia/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/)
 - **Ficha en Goodreads:** [Vinieron como golondrinas](https://www.goodreads.com/book/show/2297722.Vinieron_como_golondrinas)
 
 ## Mi lectura
 
 - **Inicio:** 2014/06/25
 - **Fin:** 2014/06/26
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

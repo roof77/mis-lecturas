@@ -24,17 +24,18 @@ ODIO (HATE): 1991 HARVEY WINNER FOR BEST CARTOONIST, BEST NEW SERIES. The bestse
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Odio: Hate (#1)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 64 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 1594971242 / 9781594971242
 - **Publicación original:** 2005-06-01
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio vol. 1: Bienvenido a Seattle, Buddy!](https://www.goodreads.com/book/show/514826.Odio_vol_1)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/11
 - **Fin:** 2026/05/12
+- **Calificación:** Muy bien/5

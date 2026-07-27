@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- German Literature
-- Literature
-- Classics
-- Germany
-- 20th Century
+- Ficción
+- Literatura alemana
+- Literatura
+- Clásico
+- Alemania
+- Siglo XX
+- Novela
+- Fantasía
+- Filosofía
+- Política
 autores:
 - Ernst Jünger
 editoriales:
@@ -31,13 +35,13 @@ Novela visionaria y llena de simbolismo, Sobre los acantilados de mármol narra 
 
 ## Ficha del libro
 
-- **Autor:** Ernst Jünger
+- **Autor:** [Ernst Jünger](/autores/ernst-junger/)
 - **Editorial:** TusQuets
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8483830817 / 9788483830819
 - **Publicación original:** 2008-07-01
-- **Géneros:** Fiction, German Literature, Literature, Classics, Germany, 20th Century, Novels, Fantasy, Philosophy, Politics
+- **Géneros:** [Ficción](/tags/ficcion/), [Literatura alemana](/tags/literatura-alemana/), [Literatura](/tags/literatura/), [Clásico](/tags/clasico/), [Alemania](/tags/alemania/), [Siglo XX](/tags/siglo-xx/), [Novela](/tags/novela/), [Fantasía](/tags/fantasia/), [Filosofía](/tags/filosofia/), [Política](/tags/politica/)
 - **Premios ganados:** Ars Translationis (1997)
 - **Ficha en Goodreads:** [Sobre los acantilados de mármol](https://www.goodreads.com/book/show/6069877-sobre-los-acantilados-de-m-rmol)
 
@@ -45,4 +49,4 @@ Novela visionaria y llena de simbolismo, Sobre los acantilados de mármol narra 
 
 - **Inicio:** 2014/10/01
 - **Fin:** 2014/10/02
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

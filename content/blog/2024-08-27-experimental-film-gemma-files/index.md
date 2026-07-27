@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Fantasy
+- Terror
+- Ficción
+- Fantasía
 - Paranormal
-- Mystery
-- Ghosts
+- Misterio
+- Fantasmas
+- Sobrenatural
+- Canada
+- Ficción extraña
+- Películas
 autores:
 - Gemma Files
+- Elisa Rivera
 editoriales:
 - La biblioteca de Carfax
 image:
@@ -29,14 +34,14 @@ Lois Cairns, una exprofesora de cine, desempleada y al borde de la depresión, d
 
 ## Ficha del libro
 
-- **Autor:** Gemma Files
-- **Colaboradores:** Elisa Rivera (Translator)
+- **Autor:** [Gemma Files](/autores/gemma-files/)
+- **Colaboradores:** [Elisa Rivera](/autores/elisa-rivera/) (Translator)
 - **Editorial:** La biblioteca de Carfax
 - **Formato:** Paperback, 354 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494668226 / 9788494668227
 - **Publicación original:** 2017-06-01
-- **Géneros:** Horror, Fiction, Fantasy, Paranormal, Mystery, Ghosts, Supernatural, Canada, Weird Fiction, Film
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Paranormal](/tags/paranormal/), [Misterio](/tags/misterio/), [Fantasmas](/tags/fantasmas/), [Sobrenatural](/tags/sobrenatural/), [Canada](/tags/canada/), [Ficción extraña](/tags/ficcion-extrana/), [Películas](/tags/peliculas/)
 - **Premios ganados:** Sunburst Award (2016), Shirley Jackson Award (2015)
 - **Ficha en Goodreads:** [Experimental film](https://www.goodreads.com/book/show/35504947-experimental-film)
 
@@ -44,4 +49,4 @@ Lois Cairns, una exprofesora de cine, desempleada y al borde de la depresión, d
 
 - **Inicio:** 2024/08/17
 - **Fin:** 2024/08/27
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

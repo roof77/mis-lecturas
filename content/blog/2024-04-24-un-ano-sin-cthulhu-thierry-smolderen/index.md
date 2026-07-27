@@ -7,14 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Bande Dessinée
 - Comics
-- Graphic Novels
-- Fantasy
-- Horror
-- Sequential Art
+- Novela gráfica
+- Fantasía
+- Terror
 autores:
 - Thierry Smolderen
+- Alexandre Clérisse
 editoriales:
 - 'Norma Editorial '
 image:
@@ -31,18 +30,18 @@ Todos recuerdan la tragedia de Auln-sur-D’Arcq. A mediados de los años 80, un
 
 ## Ficha del libro
 
-- **Autor:** Thierry Smolderen
-- **Colaboradores:** Alexandre Clérisse (Dibujo)
+- **Autor:** [Thierry Smolderen](/autores/thierry-smolderen/)
+- **Colaboradores:** [Alexandre Clérisse](/autores/alexandre-clerisse/) (Dibujo)
 - **Editorial:** Norma Editorial 
 - **Formato:** Hardcover, 174 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467951141 / 9788467951141
 - **Publicación original:** 2022-03-01
-- **Géneros:** Bande Dessinée, Comics, Graphic Novels, Fantasy, Horror, Sequential Art
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Terror](/tags/terror/)
 - **Ficha en Goodreads:** [Un año sin Cthulhu](https://www.goodreads.com/book/show/60698598-un-a-o-sin-cthulhu)
 
 ## Mi lectura
 
 - **Inicio:** 2024/04/18
 - **Fin:** 2024/04/24
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

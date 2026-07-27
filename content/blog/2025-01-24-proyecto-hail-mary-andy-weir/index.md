@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Audiobook
-- Book Club
-- Fantasy
-- Space
+- Ciencia ficción
+- Ficción
+- Club de lectura
+- Fantasía
+- Espacio
+- Thriller
+- Adultos
+- Aventuras
+- Ciencia Ficción
 autores:
 - Andy Weir
+- Javier Guerrero Gimeno
 editoriales:
 - Nova
 image:
@@ -49,14 +53,14 @@ Proyecto Hail Mary, una aventura interestelar irresistible como solo Andy Weir p
 
 ## Ficha del libro
 
-- **Autor:** Andy Weir
-- **Colaboradores:** Javier Guerrero Gimeno (Translator)
+- **Autor:** [Andy Weir](/autores/andy-weir/)
+- **Colaboradores:** [Javier Guerrero Gimeno](/autores/javier-guerrero-gimeno/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Paperback, 543 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418037016 / 9788418037016
 - **Publicación original:** 2021-05-13
-- **Géneros:** Science Fiction, Fiction, Audiobook, Book Club, Fantasy, Space, Thriller, Adult, Adventure, Science Fiction Fantasy
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/), [Espacio](/tags/espacio/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Aventuras](/tags/aventuras/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Personajes:** Ryland Grace, Rocky, Eva Stratt
 - **Lugares:** Tau Ceti System, Outer Space
 - **Premios ganados:** Geffen Award (2023), Audie Award (2022), Nutmeg Book Award (2025), Goodreads Choice Award (2021), Green Mountain Book Award (2023)
@@ -67,4 +71,4 @@ Proyecto Hail Mary, una aventura interestelar irresistible como solo Andy Weir p
 
 - **Inicio:** 2025/01/16
 - **Fin:** 2025/01/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

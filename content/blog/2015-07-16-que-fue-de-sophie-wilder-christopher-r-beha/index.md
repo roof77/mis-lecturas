@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Book Club
-- Mystery
-- Literary Fiction
-- Literature
+- Ficción
+- Contemporaneo
+- Club de lectura
+- Misterio
+- Ficción Literaria
+- Literatura
+- Novela
+- Adultos
+- Religión
+- EEUU
 autores:
 - Christopher R. Beha
+- Damià Alou
 editoriales:
 - Libros del Asteroide
 image:
@@ -32,18 +37,18 @@ Publicada recientemente en EE. UU. con gran éxito de crítica, Qué fue de Soph
 
 ## Ficha del libro
 
-- **Autor:** Christopher R. Beha
-- **Colaboradores:** Damià Alou (Translator)
+- **Autor:** [Christopher R. Beha](/autores/christopher-r-beha/)
+- **Colaboradores:** [Damià Alou](/autores/damia-alou/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415625758 / 9788415625759
 - **Publicación original:** 2014-03-01
-- **Géneros:** Fiction, Contemporary, Book Club, Mystery, Literary Fiction, Literature, Novels, Adult, Religion, American
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [Misterio](/tags/misterio/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Adultos](/tags/adultos/), [Religión](/tags/religion/), [EEUU](/tags/eeuu/)
 - **Ficha en Goodreads:** [Qué fue de Sophie Wilder](https://www.goodreads.com/book/show/22053587-qu-fue-de-sophie-wilder)
 
 ## Mi lectura
 
 - **Inicio:** 2015/07/16
 - **Fin:** 2015/07/16
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

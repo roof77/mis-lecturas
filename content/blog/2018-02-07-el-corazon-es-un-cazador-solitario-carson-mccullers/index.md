@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Book Club
-- Literature
-- Historical Fiction
-- Novels
+- Ficción
+- Clásico
+- Club de lectura
+- Literatura
+- Ficción histórica
+- Novela
+- Gótico sureño
+- Ficción Literaria
+- EEUU
+- Sureño
 autores:
 - Carson McCullers
+- Rosa María Bassols Camarasa
 editoriales:
 - Seix Barral
 image:
@@ -33,14 +38,14 @@ Leyendo El corazón es un cazador solitario el lector no puede evitar implicarse
 
 ## Ficha del libro
 
-- **Autor:** Carson McCullers
-- **Colaboradores:** Rosa María Bassols Camarasa (Translator)
+- **Autor:** [Carson McCullers](/autores/carson-mccullers/)
+- **Colaboradores:** [Rosa María Bassols Camarasa](/autores/rosa-maria-bassols-camarasa/) (Translator)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 384 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8432219576 / 9788432219573
 - **Publicación original:** 2001-01-01
-- **Géneros:** Fiction, Classics, Book Club, Literature, Historical Fiction, Novels, Southern Gothic, Literary Fiction, American, Southern
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Club de lectura](/tags/club-de-lectura/), [Literatura](/tags/literatura/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Gótico sureño](/tags/gotico-sureno/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/), [Sureño](/tags/sureno/)
 - **Personajes:** John Singer, Spiros Antonapoulos, Biff Brannon, Jake Blount, Mick Kelly, Benedict Copeland
 - **Ficha en Goodreads:** [El corazón es un cazador solitario](https://www.goodreads.com/book/show/2774939-el-coraz-n-es-un-cazador-solitario)
 
@@ -48,4 +53,4 @@ Leyendo El corazón es un cazador solitario el lector no puede evitar implicarse
 
 - **Inicio:** 2018/02/01
 - **Fin:** 2018/02/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Crime
-- German Literature
-- Graphic Novels Comics
-- Horror
+- Novela gráfica
+- Crimen
+- Literatura alemana
+- Terror
+- Colecciones
+- Thriller
+- Histórico
 autores:
 - Peer Meter
+- Isabel Kreitz
 editoriales:
 - Ediciones La Cúpula, S.L.
 image:
@@ -29,14 +32,14 @@ El temor hace ya varios meses que recorre las callejuelas del casco antiguo de H
 
 ## Ficha del libro
 
-- **Autor:** Peer Meter
-- **Colaboradores:** Isabel Kreitz (Author)
+- **Autor:** [Peer Meter](/autores/peer-meter/)
+- **Colaboradores:** [Isabel Kreitz](/autores/isabel-kreitz/) (Author)
 - **Editorial:** Ediciones La Cúpula, S.L.
 - **Formato:** Paperback, 180 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415724888 / 9788415724889
 - **Publicación original:** 2014-12-10
-- **Géneros:** Comics, Graphic Novels, Crime, German Literature, Graphic Novels Comics, Horror, Comic Book, Collections, Thriller, Historical
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Crimen](/tags/crimen/), [Literatura alemana](/tags/literatura-alemana/), [Terror](/tags/terror/), [Colecciones](/tags/colecciones/), [Thriller](/tags/thriller/), [Histórico](/tags/historico/)
 - **Lugares:** Hanover (Germany)
 - **Ficha en Goodreads:** [Haarmann](https://www.goodreads.com/book/show/51082517-haarmann)
 
@@ -44,4 +47,4 @@ El temor hace ya varios meses que recorre las callejuelas del casco antiguo de H
 
 - **Inicio:** 2025/04/23
 - **Fin:** 2025/04/24
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

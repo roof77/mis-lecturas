@@ -7,14 +7,21 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Short Stories
-- Fiction
-- Russian Literature
-- Russia
-- Philosophy
+- Clásico
+- Relatos
+- Ficción
+- Literatura rusa
+- Rusia
+- Filosofía
+- Literatura
+- Siglo XIX
+- Novela
+- Ficción histórica
 autores:
 - Leo Tolstoy
+- Víctor Gallego
+- Elena Odriozola
+- Lev Tolstói
 editoriales:
 - Nordica Libros
 image:
@@ -30,14 +37,14 @@ La prosa de Tolstói —decía Nabokov— late al ritmo de nuestro corazón. Ele
 
 ## Ficha del libro
 
-- **Autor:** Leo Tolstoy
-- **Colaboradores:** Víctor Gallego (translator), Elena Odriozola (Ilustraciones), Lev Tolstói (Author)
+- **Autor:** [Leo Tolstoy](/autores/leo-tolstoy/)
+- **Colaboradores:** [Víctor Gallego](/autores/victor-gallego/) (translator), [Elena Odriozola](/autores/elena-odriozola/) (Ilustraciones), [Lev Tolstói](/autores/lev-tolstoi/) (Author)
 - **Editorial:** Nordica Libros
 - **Formato:** Paperback, 66 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849268335X / 9788492683352
 - **Publicación original:** 2011-11-01
-- **Géneros:** Classics, Short Stories, Fiction, Russian Literature, Russia, Philosophy, Literature, 19th Century, Novels, Historical Fiction
+- **Géneros:** [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Literatura rusa](/tags/literatura-rusa/), [Rusia](/tags/rusia/), [Filosofía](/tags/filosofia/), [Literatura](/tags/literatura/), [Siglo XIX](/tags/siglo-xix/), [Novela](/tags/novela/), [Ficción histórica](/tags/ficcion-historica/)
 - **Personajes:** Pakhom
 - **Lugares:** Russian Empire
 - **Ficha en Goodreads:** [¿Cuánta tierra necesita un hombre?](https://www.goodreads.com/book/show/12178983-cu-nta-tierra-necesita-un-hombre)
@@ -46,4 +53,4 @@ La prosa de Tolstói —decía Nabokov— late al ritmo de nuestro corazón. Ele
 
 - **Inicio:** 2019/05/13
 - **Fin:** 2019/05/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

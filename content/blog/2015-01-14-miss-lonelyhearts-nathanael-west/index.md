@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- American
-- Novels
-- Literature
-- 20th Century
+- Ficción
+- Clásico
+- EEUU
+- Novela
+- Literatura
+- Siglo XX
+- Novella
+- Ficción Literaria
+- Noir
 autores:
 - Nathanael West
 editoriales:
@@ -29,16 +32,16 @@ Nathanael West (1904-1940) fue el último representante de la emblemática “Ge
 
 ## Ficha del libro
 
-- **Autor:** Nathanael West
+- **Autor:** [Nathanael West](/autores/nathanael-west/)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 153 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 1969-01-01
-- **Géneros:** Fiction, Classics, American, Novels, Literature, 20th Century, The United States Of America, Novella, Literary Fiction, Noir
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Siglo XX](/tags/siglo-xx/), [Novella](/tags/novella/), [Ficción Literaria](/tags/ficcion-literaria/), [Noir](/tags/noir/)
 - **Ficha en Goodreads:** [Miss Lonelyhearts](https://www.goodreads.com/book/show/18686686-miss-lonelyhearts)
 
 ## Mi lectura
 
 - **Inicio:** 2015/01/14
 - **Fin:** 2015/01/14
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

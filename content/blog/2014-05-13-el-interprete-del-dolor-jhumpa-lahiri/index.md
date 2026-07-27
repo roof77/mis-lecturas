@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
+- Relatos
+- Ficción
 - India
-- Book Club
-- Contemporary
-- Literary Fiction
+- Club de lectura
+- Contemporaneo
+- Ficción Literaria
+- Literatura
+- Literatura india
+- Ásia
+- Colegio
 autores:
 - Jhumpa Lahiri
+- Gemma Rovira Ortega
 editoriales:
 - Salamandra
 image:
@@ -31,14 +36,14 @@ Así pues, en estas páginas soberbias, Jhumpa Lahiri plasma un complejo tapiz d
 
 ## Ficha del libro
 
-- **Autor:** Jhumpa Lahiri
-- **Colaboradores:** Gemma Rovira Ortega (Translator)
+- **Autor:** [Jhumpa Lahiri](/autores/jhumpa-lahiri/)
+- **Colaboradores:** [Gemma Rovira Ortega](/autores/gemma-rovira-ortega/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 228 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849838723X / 9788498387230
 - **Publicación original:** 2016-09-08
-- **Géneros:** Short Stories, Fiction, India, Book Club, Contemporary, Literary Fiction, Literature, Indian Literature, Asia, School
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [India](/tags/india/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Literatura india](/tags/literatura-india/), [Ásia](/tags/asia/), [Colegio](/tags/colegio/)
 - **Personajes:** Dev Connolly, Elliot, Miranda, Shobha, Lilia, Shukumar, Mr. Pirzada, Mr. Das, Mrs. Das, Mr. Kapasi
 - **Lugares:** Boston, Massachusetts (United States), Kolkata (India), Odisha (India), Connecticut (United States)
 - **Premios ganados:** Pulitzer Prize (2000), Puddly Award (2001), PEN/Hemingway Award for Debut Novel (2000)
@@ -48,4 +53,4 @@ Así pues, en estas páginas soberbias, Jhumpa Lahiri plasma un complejo tapiz d
 
 - **Inicio:** 2014/05/07
 - **Fin:** 2014/05/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

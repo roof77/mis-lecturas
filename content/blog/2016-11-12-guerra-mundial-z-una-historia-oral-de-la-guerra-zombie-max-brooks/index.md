@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Zombies
-- Science Fiction
-- Fantasy
-- Audiobook
+- Ciencia ficción
+- Fantasía
+- Postapocalíptico
+- Distopía
+- Apocalipsis
+- Guerra
 autores:
 - Max Brooks
 editoriales:
@@ -34,14 +37,14 @@ Un relato insólito y realista, lleno de interrogantes sobre cómo se comportó 
 
 ## Ficha del libro
 
-- **Autor:** Max Brooks
+- **Autor:** [Max Brooks](/autores/max-brooks/)
 - **Serie:** World War Z
 - **Editorial:** Almuzara
 - **Formato:** Paperback, 464 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8496968812 / 9788496968813
 - **Publicación original:** 2008-05-30
-- **Géneros:** Horror, Fiction, Zombies, Science Fiction, Fantasy, Audiobook, Post Apocalyptic, Dystopia, Apocalyptic, War
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Zombies](/tags/zombies/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Postapocalíptico](/tags/postapocaliptico/), [Distopía](/tags/distopia/), [Apocalipsis](/tags/apocalipsis/), [Guerra](/tags/guerra/)
 - **Personajes:** Zombies, Kwang Jing-shu, Nury Televaldi, Stanley MacDonald, Todd Wainio, Maria Zhuganova, Jesika Hendricks, Joe Muhammad
 - **Premios ganados:** Audie Award (2014)
 - **Nominaciones:** Premio Ignotus (2009), Lincoln Award (2012), Seiun Award 星雲賞 (2011)
@@ -51,4 +54,4 @@ Un relato insólito y realista, lleno de interrogantes sobre cómo se comportó 
 
 - **Inicio:** 2016/10/28
 - **Fin:** 2016/11/12
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

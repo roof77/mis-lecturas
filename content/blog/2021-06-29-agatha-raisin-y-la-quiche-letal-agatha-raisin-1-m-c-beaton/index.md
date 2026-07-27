@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Mystery
-- Cozy Mystery
-- Fiction
-- Audiobook
-- Crime
-- Cozy
+- Misterio
+- Cozy mystery
+- Ficción
+- Crimen
+- Comfortable
+- Thriller
+- Literatura británica
+- Humor
+- Adultos
 autores:
 - M.C. Beaton
+- Vicente Campos
 editoriales:
 - Circulo de Lectores
 image:
@@ -45,15 +49,15 @@ The Globe And Mail
 
 ## Ficha del libro
 
-- **Autor:** M.C. Beaton
+- **Autor:** [M.C. Beaton](/autores/m-c-beaton/)
 - **Serie:** Agatha Raisin  (#1)
-- **Colaboradores:** Vicente Campos (Translator)
+- **Colaboradores:** [Vicente Campos](/autores/vicente-campos/) (Translator)
 - **Editorial:** Circulo de Lectores
 - **Formato:** Hardcover, 274 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467259817 / 9788467259810
 - **Publicación original:** 2014-01-01
-- **Géneros:** Mystery, Cozy Mystery, Fiction, Audiobook, Crime, Cozy, Mystery Thriller, British Literature, Humor, Adult
+- **Géneros:** [Misterio](/tags/misterio/), [Cozy mystery](/tags/cozy-mystery/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Comfortable](/tags/comfortable/), [Thriller](/tags/thriller/), [Literatura británica](/tags/literatura-britanica/), [Humor](/tags/humor/), [Adultos](/tags/adultos/)
 - **Personajes:** Agatha Raisin, Bill Wong, James Lacey, Roy Silver
 - **Lugares:** Cotswolds, England, London, England
 - **Ficha en Goodreads:** [Agatha Raisin y la quiche letal (Agatha Raisin, #1)](https://www.goodreads.com/book/show/22556556-agatha-raisin-y-la-quiche-letal)
@@ -62,4 +66,4 @@ The Globe And Mail
 
 - **Inicio:** 2021/06/23
 - **Fin:** 2021/06/29
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

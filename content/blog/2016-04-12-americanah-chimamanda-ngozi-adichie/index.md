@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Book Club
-- Africa
-- Contemporary
-- Literary Fiction
-- Feminism
+- Ficción
+- Club de lectura
+- África
+- Contemporaneo
+- Ficción Literaria
+- Feminismo
+- Nigeria
+- Raza
+- Romance
 autores:
 - Chimamanda Ngozi Adichie
+- Carlos Milla
 editoriales:
 - Literatura Random House
 image:
@@ -36,14 +40,14 @@ Americanah, que recoge el término burlón con que los nigerianos se refieren a 
 
 ## Ficha del libro
 
-- **Autor:** Chimamanda Ngozi Adichie
-- **Colaboradores:** Carlos Milla (Translator)
+- **Autor:** [Chimamanda Ngozi Adichie](/autores/chimamanda-ngozi-adichie/)
+- **Colaboradores:** [Carlos Milla](/autores/carlos-milla/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 605 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439728123 / 9788439728122
 - **Publicación original:** 2014-03-13
-- **Géneros:** Fiction, Book Club, Africa, Contemporary, Literary Fiction, Feminism, Nigeria, Race, Romance, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [África](/tags/africa/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Feminismo](/tags/feminismo/), [Nigeria](/tags/nigeria/), [Raza](/tags/raza/), [Romance](/tags/romance/)
 - **Personajes:** Ifemelu, Obinze Maduewesi , Blaine (Americanah), Shan, Curt (Americanah), Aunty Uju, Dike, Ginika, Emenike, Ranyinudo
 - **Lugares:** Lagos (Nigeria), London, England, Princeton, New Jersey (United States), The United States of America, Nigeria, New Jersey (United States), England, United Kingdom, Africa
 - **Premios ganados:** Chicago Tribune Heartland Prize (2013), National Book Critics Circle Award (2013)
@@ -54,4 +58,4 @@ Americanah, que recoge el término burlón con que los nigerianos se refieren a 
 
 - **Inicio:** 2016/04/04
 - **Fin:** 2016/04/12
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

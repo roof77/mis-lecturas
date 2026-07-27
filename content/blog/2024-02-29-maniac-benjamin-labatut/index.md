@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Philosophy
-- Literary Fiction
-- Audiobook
-- Literature
+- Ficción
+- Ficción histórica
+- Filosofía
+- Ficción Literaria
+- Literatura
+- Histórico
+- Novela
+- Física
+- Inteligencia artificial
 autores:
 - Benjamín Labatut
 editoriales:
@@ -37,17 +40,17 @@ Este libro explica, entre otras cosas, el origen de los ordenadores, de la predi
 
 ## Ficha del libro
 
-- **Autor:** Benjamín Labatut
+- **Autor:** [Benjamín Labatut](/autores/benjamin-labatut/)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 391 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433911007 / 9788433911001
 - **Publicación original:** 2023-10-25
-- **Géneros:** Fiction, Historical Fiction, Philosophy, Literary Fiction, Audiobook, Literature, Historical, Novels, Physics, Artificial Intelligence
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Filosofía](/tags/filosofia/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Histórico](/tags/historico/), [Novela](/tags/novela/), [Física](/tags/fisica/), [Inteligencia artificial](/tags/inteligencia-artificial/)
 - **Ficha en Goodreads:** [MANIAC](https://www.goodreads.com/book/show/199066748-maniac)
 
 ## Mi lectura
 
 - **Inicio:** 2024/02/20
 - **Fin:** 2024/02/29
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

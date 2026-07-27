@@ -8,11 +8,15 @@ authors:
 tags:
 - Lecturas
 - Romance
-- Japan
-- Fiction
-- Japanese Literature
-- Young Adult
-- Asian Literature
+- Japón
+- Ficción
+- Literatura japanesa
+- Jovenes adultos
+- Literatura asiática
+- Ásia
+- Drama
+- Manga
+- Novela
 autores:
 - Kyōichi Katayama
 editoriales:
@@ -37,16 +41,16 @@ Un grito de amor desde el centro del mundo es la novela japonesa más leída de 
 
 ## Ficha del libro
 
-- **Autor:** Kyōichi Katayama
+- **Autor:** [Kyōichi Katayama](/autores/kyoichi-katayama/)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2008-09-01
-- **Géneros:** Romance, Japan, Fiction, Japanese Literature, Young Adult, Asian Literature, Asia, Drama, Manga, Novels
+- **Géneros:** [Romance](/tags/romance/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/), [Jovenes adultos](/tags/jovenes-adultos/), [Literatura asiática](/tags/literatura-asiatica/), [Ásia](/tags/asia/), [Drama](/tags/drama/), [Manga](/tags/manga/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Un grito de amor desde el centro del mundo](https://www.goodreads.com/book/show/4655733-un-grito-de-amor-desde-el-centro-del-mundo)
 
 ## Mi lectura
 
 - **Inicio:** 2022/09/03
 - **Fin:** 2022/09/06
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

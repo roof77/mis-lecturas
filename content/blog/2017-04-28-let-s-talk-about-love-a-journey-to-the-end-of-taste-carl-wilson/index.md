@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Music
-- Nonfiction
-- Essays
-- Criticism
-- Pop Culture
-- Art
+- Música
+- No Ficción
+- Ensayo
+- Crítica
+- Cultura Pop
+- Arte
+- Filosofía
+- Canada
+- Biografía
 autores:
 - Carl Wilson
 editoriales:
@@ -29,18 +32,18 @@ Non-fans regard Céline Dion as ersatz and plastic, yet to those who love her, n
 
 ## Ficha del libro
 
-- **Autor:** Carl Wilson
+- **Autor:** [Carl Wilson](/autores/carl-wilson/)
 - **Serie:** 33⅓ Main Series (#52)
 - **Editorial:** Continuum
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** English
 - **ISBN:** 082642788X / 9780826427885
 - **Publicación original:** 2007-12-15
-- **Géneros:** Music, Nonfiction, Essays, Criticism, Pop Culture, Art, Philosophy, Cultural, Canada, Biography
+- **Géneros:** [Música](/tags/musica/), [No Ficción](/tags/no-ficcion/), [Ensayo](/tags/ensayo/), [Crítica](/tags/critica/), [Cultura Pop](/tags/cultura-pop/), [Arte](/tags/arte/), [Filosofía](/tags/filosofia/), [Canada](/tags/canada/), [Biografía](/tags/biografia/)
 - **Ficha en Goodreads:** [Let's Talk About Love: A Journey to the End of Taste](https://www.goodreads.com/book/show/383300.Let_s_Talk_About_Love)
 
 ## Mi lectura
 
 - **Inicio:** 2017/04/16
 - **Fin:** 2017/04/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

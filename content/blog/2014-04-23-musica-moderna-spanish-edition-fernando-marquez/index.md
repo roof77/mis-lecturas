@@ -24,7 +24,7 @@ Retrato vivo, emotivo y directo (la obra fue escrita casi en el mismo momento en
 
 ## Ficha del libro
 
-- **Autor:** Fernando Márquez
+- **Autor:** [Fernando Márquez](/autores/fernando-marquez/)
 - **Editorial:** Literaturas Com Libros
 - **Formato:** Kindle Edition, 111 páginas
 - **Idioma:** Spanish; Castilian
@@ -36,4 +36,4 @@ Retrato vivo, emotivo y directo (la obra fue escrita casi en el mismo momento en
 
 - **Inicio:** 2014/04/21
 - **Fin:** 2014/04/23
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

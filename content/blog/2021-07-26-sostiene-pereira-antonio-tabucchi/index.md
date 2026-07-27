@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Italian Literature
-- Historical Fiction
+- Ficción
+- Literatura italiana
+- Ficción histórica
 - Portugal
-- Classics
-- Italy
+- Clásico
+- Italia
+- Novela
+- Literatura
+- Histórico
 autores:
 - Antonio Tabucchi
+- Carlos Gumpert
+- Xavier González Rovira
 editoriales:
 - Anagrama
 image:
@@ -32,13 +37,13 @@ En una Europa recorrida por el fantasma de los totalitarismos, Pereira, un perio
 
 ## Ficha del libro
 
-- **Autor:** Antonio Tabucchi
-- **Colaboradores:** Carlos Gumpert (Translator), Xavier González Rovira (Translator)
+- **Autor:** [Antonio Tabucchi](/autores/antonio-tabucchi/)
+- **Colaboradores:** [Carlos Gumpert](/autores/carlos-gumpert/) (Translator), [Xavier González Rovira](/autores/xavier-gonzalez-rovira/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 1999-08-01
-- **Géneros:** Fiction, Italian Literature, Historical Fiction, Portugal, Classics, Italy, Novels, Literature, Historical, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Literatura italiana](/tags/literatura-italiana/), [Ficción histórica](/tags/ficcion-historica/), [Portugal](/tags/portugal/), [Clásico](/tags/clasico/), [Italia](/tags/italia/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Histórico](/tags/historico/)
 - **Personajes:** Pereira, Francesco Monteiro Rossi, Marta (Pereira Maintains)
 - **Lugares:** Lisbon (Portugal), Portugal
 - **Premios ganados:** Premio Campiello (1994), Prix Jean-Monnet de littérature européenne du département de Charente (1995), Aristeion Prize (1997), Premio Euskadi de Literatura (2007), Premio San Clemente (1997), Premio Letterario Viareggio Rèpaci (1994)
@@ -49,4 +54,4 @@ En una Europa recorrida por el fantasma de los totalitarismos, Pereira, un perio
 
 - **Inicio:** 2021/07/25
 - **Fin:** 2021/07/26
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

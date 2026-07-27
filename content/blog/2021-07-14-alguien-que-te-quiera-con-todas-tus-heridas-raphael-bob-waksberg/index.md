@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Contemporary
+- Relatos
+- Ficción
+- Contemporaneo
 - Romance
 - Humor
-- Audiobook
+- Comedia
+- Ficción Literaria
+- Club de lectura
+- Antología
 autores:
 - Raphael Bob-Waksberg
 editoriales:
@@ -29,13 +32,13 @@ A través de sus personajes rotos, el autor se ríe de lo que se asume como el t
 
 ## Ficha del libro
 
-- **Autor:** Raphael Bob-Waksberg
+- **Autor:** [Raphael Bob-Waksberg](/autores/raphael-bob-waksberg/)
 - **Editorial:** Círculo de Tiza
 - **Formato:** Paperback, 300 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412226755 / 9788412226751
 - **Publicación original:** 2021-05-05
-- **Géneros:** Short Stories, Fiction, Contemporary, Romance, Humor, Audiobook, Comedy, Literary Fiction, Book Club, Anthologies
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Antología](/tags/antologia/)
 - **Nominaciones:** Goodreads Choice Award (2019), Readers' Favorite Humor (2019)
 - **Ficha en Goodreads:** [Alguien que te quiera con todas tus heridas](https://www.goodreads.com/book/show/57947563-alguien-que-te-quiera-con-todas-tus-heridas)
 
@@ -43,4 +46,4 @@ A través de sus personajes rotos, el autor se ríe de lo que se asume como el t
 
 - **Inicio:** 2021/07/12
 - **Fin:** 2021/07/14
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

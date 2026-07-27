@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Feminism
-- Audiobook
+- No Ficción
+- Feminismo
 - Humor
-- Gender
-- Politics
+- Género
+- Política
+- Club de lectura
+- Sociología
+- Salud mentál
+- Estudios de género
 autores:
 - Caitlin Moran
+- Gemma Rovira
 editoriales:
 - Editorial Anagrama
 image:
@@ -35,18 +39,18 @@ Con la misma perspicacia, lucidez y desvergüenza con las que ha venido abordand
 
 ## Ficha del libro
 
-- **Autor:** Caitlin Moran
-- **Colaboradores:** Gemma Rovira (Translator)
+- **Autor:** [Caitlin Moran](/autores/caitlin-moran/)
+- **Colaboradores:** [Gemma Rovira](/autores/gemma-rovira/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Kindle Edition, 280 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433947397 / 9788433947390
 - **Publicación original:** 2025-05-28
-- **Géneros:** Nonfiction, Feminism, Audiobook, Humor, Gender, Politics, Book Club, Sociology, Mental Health, Gender Studies
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Humor](/tags/humor/), [Género](/tags/genero/), [Política](/tags/politica/), [Club de lectura](/tags/club-de-lectura/), [Sociología](/tags/sociologia/), [Salud mentál](/tags/salud-mental/), [Estudios de género](/tags/estudios-de-genero/)
 - **Ficha en Goodreads:** [¿Y los hombres qué?](https://www.goodreads.com/book/show/229262898-y-los-hombres-qu)
 
 ## Mi lectura
 
 - **Inicio:** 2025/06/05
 - **Fin:** 2025/06/18
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

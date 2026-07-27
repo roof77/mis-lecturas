@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Graphic Novels Comics
-- Young Adult
-- Fiction
+- Novela gráfica
+- Fantasía
+- Jovenes adultos
+- Ficción
+- Queer
+- LGTBIQ+
+- Aventuras
 autores:
 - N.D. Stevenson
+- Grace Ellis
+- Brooke A. Allen
 editoriales:
 - BOOM!Box
 image:
@@ -29,18 +33,19 @@ Diane suddenly becomes important as she and Jen ban together with the regular ca
 
 ## Ficha del libro
 
-- **Autor:** N.D. Stevenson
+- **Autor:** [N.D. Stevenson](/autores/n-d-stevenson/)
 - **Serie:** Lumberjanes (Single Issues) (#7)
-- **Colaboradores:** Grace Ellis (Author), Brooke A. Allen (Illustrator)
+- **Colaboradores:** [Grace Ellis](/autores/grace-ellis/) (Author), [Brooke A. Allen](/autores/brooke-a-allen/) (Illustrator)
 - **Editorial:** BOOM!Box
 - **Formato:** Kindle Edition, 27 páginas
 - **Idioma:** English
 - **ISBN:** 1613986920 / 9781613986929
 - **Publicación original:** 2016-12-14
-- **Géneros:** Comics, Graphic Novels, Fantasy, Graphic Novels Comics, Young Adult, Fiction, Queer, LGBT, Adventure, Comic Book
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Aventuras](/tags/aventuras/)
 - **Ficha en Goodreads:** [Lumberjanes: Friendship to the Max (Lumberjanes, #7)](https://www.goodreads.com/book/show/25233413-lumberjanes)
 
 ## Mi lectura
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
+- **Calificación:** Recomendable/5

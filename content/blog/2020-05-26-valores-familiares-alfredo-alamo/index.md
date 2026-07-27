@@ -7,9 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Bizarro Fiction
+- Bizarro
 autores:
 - Alfredo Álamo
+- Sergi Álvarez
+- Nick Antosca
+- Hugo Camacho
+- Takeshi García-Ashirogi
+- Rubén Guallar
+- Francisco Jota-Pérez
+- Alejandro Marcos Ortega
+- Carlton Mellick III
+- Sergi G. Oset
 editoriales:
 - Orciny Press
 image:
@@ -32,18 +41,18 @@ Con relatos de Alfredo Álamo, Sergi Álvarez, Nick Antosca, Hugo Camacho, Takes
 
 ## Ficha del libro
 
-- **Autor:** Alfredo Álamo
-- **Colaboradores:** Sergi Álvarez (Author), Nick Antosca (Author), Hugo Camacho (Author, translator, editor), Takeshi García-Ashirogi (Author), Rubén Guallar (Author), Francisco Jota-Pérez (Author), Alejandro Marcos Ortega (Author), Carlton Mellick III (Author), Sergi G. Oset (Author)
+- **Autor:** [Alfredo Álamo](/autores/alfredo-alamo/)
+- **Colaboradores:** [Sergi Álvarez](/autores/sergi-alvarez/) (Author), [Nick Antosca](/autores/nick-antosca/) (Author), [Hugo Camacho](/autores/hugo-camacho/) (Author, translator, editor), [Takeshi García-Ashirogi](/autores/takeshi-garcia-ashirogi/) (Author), [Rubén Guallar](/autores/ruben-guallar/) (Author), [Francisco Jota-Pérez](/autores/francisco-jota-perez/) (Author), [Alejandro Marcos Ortega](/autores/alejandro-marcos-ortega/) (Author), [Carlton Mellick III](/autores/carlton-mellick-iii/) (Author), [Sergi G. Oset](/autores/sergi-g-oset/) (Author)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 204 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494756583 / 9788494756580
 - **Publicación original:** 2019-01-23
-- **Géneros:** Bizarro Fiction
+- **Géneros:** [Bizarro](/tags/bizarro/)
 - **Ficha en Goodreads:** [Valores familiares](https://www.goodreads.com/book/show/43625291-valores-familiares)
 
 ## Mi lectura
 
 - **Inicio:** 2020/05/20
 - **Fin:** 2020/05/26
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

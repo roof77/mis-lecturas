@@ -7,11 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Anthropology
-- Nonfiction
-- Death
+- Antropología
+- No Ficción
+- Muerte
 autores:
 - Nigel Barley
+- Federico Corriente
 editoriales:
 - Editorial Anagrama
 image:
@@ -26,18 +27,18 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Nigel Barley
-- **Colaboradores:** Federico Corriente (Translator)
+- **Autor:** [Nigel Barley](/autores/nigel-barley/)
+- **Colaboradores:** [Federico Corriente](/autores/federico-corriente/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 328 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 843392544X / 9788433925442
 - **Publicación original:** 2012-03-01
-- **Géneros:** Anthropology, Nonfiction, Death
+- **Géneros:** [Antropología](/tags/antropologia/), [No Ficción](/tags/no-ficcion/), [Muerte](/tags/muerte/)
 - **Ficha en Goodreads:** [Bailando sobre la tumba](https://www.goodreads.com/book/show/2368832.Bailando_sobre_la_tumba)
 
 ## Mi lectura
 
 - **Inicio:** 2024/05/28
 - **Fin:** 2024/06/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

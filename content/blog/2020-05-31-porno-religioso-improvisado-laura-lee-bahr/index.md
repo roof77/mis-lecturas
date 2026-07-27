@@ -7,14 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Bizarro Fiction
-- Horror
+- Bizarro
+- Terror
 - Humor
-- Fiction
-- Vampires
-- Novels
+- Ficción
+- Vampiros
+- Novela
 autores:
 - Laura Lee Bahr
+- Hugo Camacho
 editoriales:
 - Orciny Press
 image:
@@ -41,14 +42,14 @@ Laura Fernández, autora de Connerland
 
 ## Ficha del libro
 
-- **Autor:** Laura Lee Bahr
-- **Colaboradores:** Hugo Camacho (Traductor)
+- **Autor:** [Laura Lee Bahr](/autores/laura-lee-bahr/)
+- **Colaboradores:** [Hugo Camacho](/autores/hugo-camacho/) (Traductor)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 194 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494756559 / 9788494756559
 - **Publicación original:** 2018-07-09
-- **Géneros:** Bizarro Fiction, Horror, Humor, Fiction, Vampires, Novels
+- **Géneros:** [Bizarro](/tags/bizarro/), [Terror](/tags/terror/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Vampiros](/tags/vampiros/), [Novela](/tags/novela/)
 - **Premios ganados:** Premio Guillermo de Baskerville (2019)
 - **Ficha en Goodreads:** [Porno religioso improvisado](https://www.goodreads.com/book/show/40648029-porno-religioso-improvisado)
 
@@ -56,4 +57,4 @@ Laura Fernández, autora de Connerland
 
 - **Inicio:** 2020/05/26
 - **Fin:** 2020/05/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

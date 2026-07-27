@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Short Stories
-- Fiction
-- Weird Fiction
-- Anthologies
-- Collections
+- Terror
+- Relatos
+- Ficción
+- Ficción extraña
+- Antología
+- Colecciones
+- Fantasía
+- Oscuro
+- Sobrenatural
 autores:
 - Gemma Files
+- Pilar Ramírez Tello
 editoriales:
 - La biblioteca de Carfax
 image:
@@ -31,14 +35,14 @@ Esta obra ganó el premio Bram Stoker a mejor antología de 2021.
 
 ## Ficha del libro
 
-- **Autor:** Gemma Files
-- **Colaboradores:** Pilar Ramírez Tello (Translator)
+- **Autor:** [Gemma Files](/autores/gemma-files/)
+- **Colaboradores:** [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Translator)
 - **Editorial:** La biblioteca de Carfax
 - **Formato:** Paperback, 416 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412822102 / 9788412822106
 - **Publicación original:** 2024-01-01
-- **Géneros:** Horror, Short Stories, Fiction, Weird Fiction, Anthologies, Collections, Audiobook, Fantasy, Dark, Supernatural
+- **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Ficción extraña](/tags/ficcion-extrana/), [Antología](/tags/antologia/), [Colecciones](/tags/colecciones/), [Fantasía](/tags/fantasia/), [Oscuro](/tags/oscuro/), [Sobrenatural](/tags/sobrenatural/)
 - **Premios ganados:** Bram Stoker Award (2021)
 - **Ficha en Goodreads:** [En ese infinito, nuestro final](https://www.goodreads.com/book/show/215365815-en-ese-infinito-nuestro-final)
 
@@ -46,4 +50,4 @@ Esta obra ganó el premio Bram Stoker a mejor antología de 2021.
 
 - **Inicio:** 2024/09/18
 - **Fin:** 2024/10/04
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

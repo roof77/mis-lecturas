@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fantasy
-- Childrens
-- Middle Grade
-- Fiction
+- Fantasía
+- Niños
+- Ficción
+- Aventuras
+- Juvenil
+- Animales
 autores:
 - Luke Pearson
 editoriales:
@@ -34,17 +36,18 @@ La verdadera historia de esta misteriosa ave será revelada en la Cabalgata del 
 
 ## Ficha del libro
 
-- **Autor:** Luke Pearson
+- **Autor:** [Luke Pearson](/autores/luke-pearson/)
 - **Serie:** Hilda (#3)
 - **Editorial:** Barbara Fiore
 - **Formato:** Hardcover, 44 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415208537 / 9788415208532
 - **Publicación original:** 2014-01-01
-- **Géneros:** Graphic Novels, Comics, Fantasy, Childrens, Middle Grade, Fiction, Adventure, Graphic Novels Comics, Juvenile, Animals
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Niños](/tags/ninos/), [Ficción](/tags/ficcion/), [Aventuras](/tags/aventuras/), [Juvenil](/tags/juvenil/), [Animales](/tags/animales/)
 - **Ficha en Goodreads:** [Hilda y la cabalgata del pájaro (Hilda, #3)](https://www.goodreads.com/book/show/22386038-hilda-y-la-cabalgata-del-p-jaro)
 
 ## Mi lectura
 
 - **Inicio:** 2026/02/15
 - **Fin:** 2026/02/15
+- **Calificación:** Recomendable/5

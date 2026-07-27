@@ -8,13 +8,15 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Comic Book
-- Fiction
-- Fantasy
+- Novela gráfica
+- Ficción
+- Fantasía
+- Comedia
+- Manga
+- Humor
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -29,18 +31,18 @@ So who's the boy with the same sexy-time time-stopping gifts as Suzie? Meet John
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 32 páginas
 - **Idioma:** English
 - **Publicación original:** 2013-10-23
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Comic Book, Fiction, Fantasy, Comedy, Ebooks, Comics Manga, Humor
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Comedia](/tags/comedia/), [Manga](/tags/manga/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Sex Criminals #2: Come, World](https://www.goodreads.com/book/show/18740363-sex-criminals-2)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/19
 - **Fin:** 2018/08/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

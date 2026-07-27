@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
+- Relatos
+- Ficción
 - Humor
-- Literary Fiction
-- Contemporary
-- Literature
+- Ficción Literaria
+- Contemporaneo
+- Literatura
+- EEUU
+- Sátira
+- Club de lectura
 autores:
 - George Saunders
+- Ben Clark
 editoriales:
 - Alfabia
 image:
@@ -29,18 +33,18 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** George Saunders
-- **Colaboradores:** Ben Clark (Translator)
+- **Autor:** [George Saunders](/autores/george-saunders/)
+- **Colaboradores:** [Ben Clark](/autores/ben-clark/) (Translator)
 - **Editorial:** Alfabia
 - **Formato:** Paperback, 248 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494255215 / 9788494255212
 - **Publicación original:** 2014-06-01
-- **Géneros:** Short Stories, Fiction, Humor, Literary Fiction, Contemporary, Literature, American, Satire, Book Club, The United States Of America
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Sátira](/tags/satira/), [Club de lectura](/tags/club-de-lectura/)
 - **Ficha en Goodreads:** [Pastoralia](https://www.goodreads.com/book/show/22594577-pastoralia)
 
 ## Mi lectura
 
 - **Inicio:** 2023/08/24
 - **Fin:** 2023/08/31
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

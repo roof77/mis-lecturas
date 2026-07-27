@@ -9,12 +9,14 @@ tags:
 - Lecturas
 - Humor
 - Australia
-- Short Stories
-- France
-- Travel
-- Fiction
+- Relatos
+- Francia
+- Viajes
+- Ficción
 autores:
 - Kenneth Cook
+- Guido Sender Montes
+- Federico Corriente Basús
 editoriales:
 - Sajalín
 image:
@@ -33,18 +35,18 @@ Publicado originalmente en Australia en 1986, "El koala asesino" es el primer vo
 
 ## Ficha del libro
 
-- **Autor:** Kenneth Cook
-- **Colaboradores:** Guido Sender Montes (Illustrator), Federico Corriente Basús (Translator)
+- **Autor:** [Kenneth Cook](/autores/kenneth-cook/)
+- **Colaboradores:** [Guido Sender Montes](/autores/guido-sender-montes/) (Illustrator), [Federico Corriente Basús](/autores/federico-corriente-basus/) (Translator)
 - **Editorial:** Sajalín
 - **Formato:** Paperback, 212 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493805157 / 9788493805159
 - **Publicación original:** 2011-03-01
-- **Géneros:** Humor, Australia, Short Stories, France, Travel, Fiction
+- **Géneros:** [Humor](/tags/humor/), [Australia](/tags/australia/), [Relatos](/tags/relatos/), [Francia](/tags/francia/), [Viajes](/tags/viajes/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [El koala asesino : relatos humorísticos de la Australia profunda](https://www.goodreads.com/book/show/13340609-el-koala-asesino)
 
 ## Mi lectura
 
 - **Inicio:** 2015/11/24
 - **Fin:** 2015/11/25
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

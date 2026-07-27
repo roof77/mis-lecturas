@@ -7,9 +7,9 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Spanish Literature
-- Feminism
+- Ficción
+- Literatura hispana
+- Feminismo
 autores:
 - Ana Flecha Marco
 editoriales:
@@ -26,16 +26,17 @@ Piso compartido es una novela de interior. Un relato costumbrista donde magia, m
 
 ## Ficha del libro
 
-- **Autor:** Ana Flecha Marco
+- **Autor:** [Ana Flecha Marco](/autores/ana-flecha-marco/)
 - **Editorial:** Mrs. Danvers
 - **Formato:** Hardcover, 112 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412260414 / 9788412260410
 - **Publicación original:** 2021-04-01
-- **Géneros:** Fiction, Spanish Literature, Feminism
+- **Géneros:** [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Feminismo](/tags/feminismo/)
 - **Ficha en Goodreads:** [Piso compartido](https://www.goodreads.com/book/show/57818147-piso-compartido)
 
 ## Mi lectura
 
 - **Inicio:** 2026/03/22
 - **Fin:** 2026/03/25
+- **Calificación:** Entretenido/5

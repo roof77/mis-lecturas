@@ -8,6 +8,8 @@ tags:
 - Lecturas
 autores:
 - Josele Santiago
+- Miqui Otero Díaz
+- Carles Murillo Vila
 editoriales:
 - CONTRA
 image:
@@ -18,8 +20,8 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Josele Santiago
-- **Colaboradores:** Miqui Otero Díaz (Contributor), Carles Murillo Vila (Cover Art)
+- **Autor:** [Josele Santiago](/autores/josele-santiago/)
+- **Colaboradores:** [Miqui Otero Díaz](/autores/miqui-otero-diaz/) (Contributor), [Carles Murillo Vila](/autores/carles-murillo-vila/) (Cover Art)
 - **Editorial:** CONTRA
 - **Formato:** Paperback, 384 páginas
 - **Idioma:** Spanish; Castilian
@@ -30,3 +32,4 @@ image:
 
 - **Inicio:** 2026/06/11
 - **Fin:** 2026/07/02
+- **Calificación:** Muy recomendable/5

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Science Fiction
-- Audiobook
-- Dystopia
-- Science Fiction Fantasy
+- Fantasía
+- Ficción
+- Ciencia ficción
+- Distopía
+- Ciencia Ficción
+- Adultos
+- Postapocalíptico
+- Mágia
+- Ficción especulativa
 autores:
 - N.K. Jemisin
+- David Tejera Expósito
 editoriales:
 - Nova
 image:
@@ -33,15 +37,15 @@ N.  K.  Jemisin  ha  ganado  los  premios  Hugo  2016,  2017 y 2018 a la mejor n
 
 ## Ficha del libro
 
-- **Autor:** N.K. Jemisin
+- **Autor:** [N.K. Jemisin](/autores/n-k-jemisin/)
 - **Serie:** The Broken Earth (#3)
-- **Colaboradores:** David Tejera Expósito (Translator)
+- **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Paperback, 398 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417347305 / 9788417347307
 - **Publicación original:** 2019-01-10
-- **Géneros:** Fantasy, Fiction, Science Fiction, Audiobook, Dystopia, Science Fiction Fantasy, Adult, Post Apocalyptic, Magic, Speculative Fiction
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/), [Postapocalíptico](/tags/postapocaliptico/), [Mágia](/tags/magia/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Personajes:** Essun, Nassun, Hoa, Schaffa, Ykka, Tonkee, Lerner
 - **Premios ganados:** Hugo Award (2018), Nebula Award (2017), Locus Award (2018), Tähtivaeltaja Award (2023)
 - **Nominaciones:** Grand Prix de l'Imaginaire (2019), Goodreads Choice Award (2017), BookNest Award (2017), Readers' Favorite Fantasy (2017)
@@ -51,4 +55,4 @@ N.  K.  Jemisin  ha  ganado  los  premios  Hugo  2016,  2017 y 2018 a la mejor n
 
 - **Inicio:** 2019/01/21
 - **Fin:** 2019/01/30
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

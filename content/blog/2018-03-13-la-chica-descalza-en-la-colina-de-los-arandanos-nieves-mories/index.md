@@ -7,8 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Spanish Literature
+- Terror
+- Literatura hispana
 autores:
 - Nieves Mories
 editoriales:
@@ -27,17 +27,17 @@ En Blueberry Hill no hay arándanos. Y es solo una de las cosas que van mal en e
 
 ## Ficha del libro
 
-- **Autor:** Nieves Mories
+- **Autor:** [Nieves Mories](/autores/nieves-mories/)
 - **Editorial:** Editorial Cerbero
 - **Formato:** Paperback, 136 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494745441 / 9788494745447
 - **Publicación original:** 2017-09-01
-- **Géneros:** Horror, Spanish Literature
+- **Géneros:** [Terror](/tags/terror/), [Literatura hispana](/tags/literatura-hispana/)
 - **Ficha en Goodreads:** [La chica descalza en la colina de los arándanos](https://www.goodreads.com/book/show/36181081-la-chica-descalza-en-la-colina-de-los-ar-ndanos)
 
 ## Mi lectura
 
 - **Inicio:** 2018/03/12
 - **Fin:** 2018/03/13
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

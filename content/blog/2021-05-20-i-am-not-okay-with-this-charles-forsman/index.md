@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Young Adult
-- Fiction
-- LGBT
+- Jovenes adultos
+- Ficción
+- LGTBIQ+
 - Queer
+- Fantasía
+- Salud mentál
+- Contemporaneo
 autores:
 - Charles Forsman
 editoriales:
@@ -29,17 +32,17 @@ Sydney seems like a normal 15-year-old freshman. She hangs out underneath the bl
 
 ## Ficha del libro
 
-- **Autor:** Charles Forsman
+- **Autor:** [Charles Forsman](/autores/charles-forsman/)
 - **Editorial:** Fantagraphics Books
 - **Formato:** Paperback, 160 páginas
 - **Idioma:** English
 - **ISBN:** 1683960629 / 9781683960621
 - **Publicación original:** 2017-12-12
-- **Géneros:** Graphic Novels, Comics, Young Adult, Fiction, LGBT, Queer, Fantasy, Graphic Novels Comics, Mental Health, Contemporary
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Fantasía](/tags/fantasia/), [Salud mentál](/tags/salud-mental/), [Contemporaneo](/tags/contemporaneo/)
 - **Ficha en Goodreads:** [I Am Not Okay with This](https://www.goodreads.com/book/show/34445185-i-am-not-okay-with-this)
 
 ## Mi lectura
 
 - **Inicio:** 2021/05/20
 - **Fin:** 2021/05/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

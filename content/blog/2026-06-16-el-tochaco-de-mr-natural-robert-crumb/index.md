@@ -8,11 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Humor
-- Bande Dessinée
-- Comix
-- Art
+- Arte
+- Filosofía
+- Ficción
+- Manga
 autores:
 - Robert Crumb
 editoriales:
@@ -31,17 +32,18 @@ Estas páginas contienen filosofía auténtica, trascendencia de la buena y reve
 
 ## Ficha del libro
 
-- **Autor:** Robert Crumb
+- **Autor:** [Robert Crumb](/autores/robert-crumb/)
 - **Serie:** Mr. Natural
 - **Editorial:** Ediciones La Cúpula
 - **Formato:** Paperback, 260 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416400164 / 9788416400164
 - **Publicación original:** 2015-11-27
-- **Géneros:** Comics, Graphic Novels, Humor, Bande Dessinée, Comix, Art, Graphic Novels Comics, Philosophy, Fiction, Comics Manga
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Humor](/tags/humor/), [Arte](/tags/arte/), [Filosofía](/tags/filosofia/), [Ficción](/tags/ficcion/), [Manga](/tags/manga/)
 - **Ficha en Goodreads:** [El tochaco de Mr. Natural](https://www.goodreads.com/book/show/34428648-el-tochaco-de-mr-natural)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/31
 - **Fin:** 2026/06/16
+- **Calificación:** Bien/5

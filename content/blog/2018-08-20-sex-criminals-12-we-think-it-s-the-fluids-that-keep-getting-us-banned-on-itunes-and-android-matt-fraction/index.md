@@ -8,10 +8,9 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Graphic Novels Comics
-- Fiction
+- Novela gráfica
+- Fantasía
+- Ficción
 autores:
 - Matt Fraction
 editoriales:
@@ -30,17 +29,17 @@ By Hollywood jerkhole MATT FRACTION (ODY-C, SATELLITE SAM, Hawkeye) and literall
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
 - **Editorial:** Image Comics
 - **Formato:** Unknown Binding, 22 páginas
 - **Idioma:** English
 - **Publicación original:** 2015-09-16
-- **Géneros:** Comics, Graphic Novels, Fantasy, Graphic Novels Comics, Fiction
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Sex Criminals #12: We Think It's the Fluids That Keep Getting Us Banned On iTunes and Android](https://www.goodreads.com/book/show/25699332-sex-criminals-12)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

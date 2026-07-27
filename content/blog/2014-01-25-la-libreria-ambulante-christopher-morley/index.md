@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Books About Books
-- Classics
+- Ficción
+- Libros sobre libros
+- Clásico
 - Humor
-- Historical Fiction
+- Ficción histórica
 - Novella
+- Aventuras
+- Romance
+- EEUU
 autores:
-- Christopher  Morley
+- Christopher Morley
+- Juan Cárdenas
 editoriales:
 - Editorial Periférica
 image:
@@ -33,15 +37,15 @@ Desde que este clásico de la literatura norteamericana se publicara en 1917 han
 
 ## Ficha del libro
 
-- **Autor:** Christopher  Morley
+- **Autor:** [Christopher Morley](/autores/christopher-morley/)
 - **Serie:** Parnassus (#1)
-- **Colaboradores:** Juan Cárdenas (Translator)
+- **Colaboradores:** [Juan Cárdenas](/autores/juan-cardenas/) (Translator)
 - **Editorial:** Editorial Periférica
 - **Formato:** Paperback, 182 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8492865504 / 9788492865505
 - **Publicación original:** 2012-01-01
-- **Géneros:** Fiction, Books About Books, Classics, Humor, Historical Fiction, Novella, Adventure, Audiobook, Romance, American
+- **Géneros:** [Ficción](/tags/ficcion/), [Libros sobre libros](/tags/libros-sobre-libros/), [Clásico](/tags/clasico/), [Humor](/tags/humor/), [Ficción histórica](/tags/ficcion-historica/), [Novella](/tags/novella/), [Aventuras](/tags/aventuras/), [Romance](/tags/romance/), [EEUU](/tags/eeuu/)
 - **Personajes:** Roger Mifflin, Helen McGill, Andrew McGill
 - **Ficha en Goodreads:** [La librería ambulante](https://www.goodreads.com/book/show/13504904-la-librer-a-ambulante)
 
@@ -49,4 +53,4 @@ Desde que este clásico de la literatura norteamericana se publicara en 1917 han
 
 - **Inicio:** 2014/01/24
 - **Fin:** 2014/01/25
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

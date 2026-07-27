@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Thriller
-- Historical Fiction
-- Audiobook
-- Historical
+- Ficción histórica
+- Histórico
+- Gótico
+- Novela
 autores:
 - Michael McDowell
+- Carles Andreu
+- Pedro Oyarbide
 editoriales:
 - Blackie Books
 image:
@@ -33,14 +36,14 @@ Comienza entonces una persecución desenfrenada, desde las polvorientas calles d
 
 ## Ficha del libro
 
-- **Autor:** Michael McDowell
-- **Colaboradores:** Carles Andreu (Translator), Pedro Oyarbide (Cover Art)
+- **Autor:** [Michael McDowell](/autores/michael-mcdowell/)
+- **Colaboradores:** [Carles Andreu](/autores/carles-andreu/) (Translator), [Pedro Oyarbide](/autores/pedro-oyarbide/) (Cover Art)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 408 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8410323818 / 9788410323810
 - **Publicación original:** 2025-10-08
-- **Géneros:** Horror, Fiction, Thriller, Historical Fiction, Audiobook, Historical, Gothic, Roman, Horror Thriller, Novels
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Ficción histórica](/tags/ficcion-historica/), [Histórico](/tags/historico/), [Gótico](/tags/gotico/), [Novela](/tags/novela/)
 - **Personajes:** Katie Slapes, Philo Drax
 - **Ficha en Goodreads:** [Hija de la venganza](https://www.goodreads.com/book/show/238543483-hija-de-la-venganza)
 
@@ -48,4 +51,4 @@ Comienza entonces una persecución desenfrenada, desde las polvorientas calles d
 
 - **Inicio:** 2025/10/16
 - **Fin:** 2025/10/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Japan
-- Contemporary
-- Japanese Literature
-- Feminism
-- Literary Fiction
+- Ficción
+- Japón
+- Contemporaneo
+- Literatura japanesa
+- Feminismo
+- Ficción Literaria
+- Literatura asiática
+- Ásia
+- Club de lectura
 autores:
 - Emi Yagi
 editoriales:
@@ -35,13 +38,13 @@ Diario de un vacío se llevó el premio de los libreros a mejor debut en Japón.
 
 ## Ficha del libro
 
-- **Autor:** Emi Yagi
+- **Autor:** [Emi Yagi](/autores/emi-yagi/)
 - **Editorial:** Temas de Hoy
 - **Formato:** Paperback, 173 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8499989047 / 9788499989044
 - **Publicación original:** 2022-02-09
-- **Géneros:** Fiction, Japan, Contemporary, Japanese Literature, Feminism, Literary Fiction, Asian Literature, Audiobook, Asia, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Contemporaneo](/tags/contemporaneo/), [Literatura japanesa](/tags/literatura-japanesa/), [Feminismo](/tags/feminismo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/), [Ásia](/tags/asia/), [Club de lectura](/tags/club-de-lectura/)
 - **Lugares:** Tokyo (Japan), Japan
 - **Premios ganados:** Dazai Osamu Prize 太宰治賞 (2020)
 - **Ficha en Goodreads:** [Diario de un vacío](https://www.goodreads.com/book/show/59732139-diario-de-un-vac-o)
@@ -50,4 +53,4 @@ Diario de un vacío se llevó el premio de los libreros a mejor debut en Japón.
 
 - **Inicio:** 2023/02/07
 - **Fin:** 2023/02/09
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

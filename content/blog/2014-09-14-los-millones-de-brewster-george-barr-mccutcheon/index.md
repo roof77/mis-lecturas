@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
+- Ficción
+- Clásico
 - Humor
-- Audiobook
-- Comedy
-- Literature
+- Comedia
+- Literatura
+- Ficción histórica
+- EEUU
+- Nueva York
 autores:
 - George Barr McCutcheon
+- Pablo Sauras
 editoriales:
 - Alba Editorial
 image:
@@ -29,14 +32,14 @@ En plena fiesta de su 25º cumpleaños Monty Brewster recibe la noticia de que s
 
 ## Ficha del libro
 
-- **Autor:** George Barr McCutcheon
-- **Colaboradores:** Pablo Sauras (Translator)
+- **Autor:** [George Barr McCutcheon](/autores/george-barr-mccutcheon/)
+- **Colaboradores:** [Pablo Sauras](/autores/pablo-sauras/) (Translator)
 - **Editorial:** Alba Editorial
 - **Formato:** Paperback, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490650179 / 9788490650172
 - **Publicación original:** 2014-03-09
-- **Géneros:** Fiction, Classics, Humor, Audiobook, Comedy, Literature, Historical Fiction, The United States Of America, Ebooks, New York
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Literatura](/tags/literatura/), [Ficción histórica](/tags/ficcion-historica/), [EEUU](/tags/eeuu/), [Nueva York](/tags/nueva-york/)
 - **Personajes:** George Brewster
 - **Ficha en Goodreads:** [Los millones de Brewster](https://www.goodreads.com/book/show/23150340-los-millones-de-brewster)
 
@@ -44,4 +47,4 @@ En plena fiesta de su 25º cumpleaños Monty Brewster recibe la noticia de que s
 
 - **Inicio:** 2014/09/11
 - **Fin:** 2014/09/14
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

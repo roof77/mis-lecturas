@@ -11,6 +11,7 @@ tags:
 - Comics
 autores:
 - Mike Zeck
+- Steven Grant
 editoriales:
 - Panini Comics
 image:
@@ -25,18 +26,18 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Mike Zeck
-- **Colaboradores:** Steven Grant (Author)
+- **Autor:** [Mike Zeck](/autores/mike-zeck/)
+- **Colaboradores:** [Steven Grant](/autores/steven-grant/) (Author)
 - **Editorial:** Panini Comics
 - **Formato:** Hardcover, 312 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491672818 / 9788491672814
 - **Publicación original:** 2018-01-10
-- **Géneros:** Marvel, Comics
+- **Géneros:** [Marvel](/tags/marvel/), [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [100% Marvel HC. El Castigador: Círculo de Sangre](https://www.goodreads.com/book/show/39101207-100-marvel-hc-el-castigador)
 
 ## Mi lectura
 
 - **Inicio:** 2025/03/24
 - **Fin:** 2025/03/25
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Audiobook
+- Ficción
+- Ficción histórica
 - Romance
-- Book Club
-- Contemporary
+- Club de lectura
+- Contemporaneo
+- Música
+- Histórico
+- Adultos
+- Ficción adulta
 autores:
 - Taylor Jenkins Reid
+- Lucía Barahona
 editoriales:
 - Blackie Books
 image:
@@ -35,15 +39,15 @@ Daisy y Billy se cruzan cuando un productor se da cuenta de que la clave del éx
 
 ## Ficha del libro
 
-- **Autor:** Taylor Jenkins Reid
+- **Autor:** [Taylor Jenkins Reid](/autores/taylor-jenkins-reid/)
 - **Serie:** Reidverse
-- **Colaboradores:** Lucía Barahona (Translator)
+- **Colaboradores:** [Lucía Barahona](/autores/lucia-barahona/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 421 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417552588 / 9788417552589
 - **Publicación original:** 2020-01-22
-- **Géneros:** Fiction, Historical Fiction, Audiobook, Romance, Book Club, Contemporary, Music, Historical, Adult, Adult Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Romance](/tags/romance/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Música](/tags/musica/), [Histórico](/tags/historico/), [Adultos](/tags/adultos/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Personajes:** Billy Dunne, Daisy Jones, Simone Jackson, Graham Dunne, Camila Dunne, Eddie Loving, Karen Karen, Teddy Price, Warren Rhodes, Pete Loving
 - **Lugares:** Los Angeles, California (United States), California (United States)
 - **Premios ganados:** Goodreads Choice Award (2019), Book of the Month Book of the Year Award (2019)
@@ -54,4 +58,4 @@ Daisy y Billy se cruzan cuando un productor se da cuenta de que la clave del éx
 
 - **Inicio:** 2023/04/04
 - **Fin:** 2023/03/28
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

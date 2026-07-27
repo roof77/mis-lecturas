@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Novels
-- Literary Fiction
-- Historical Fiction
-- New York
-- Literature
+- Ficción
+- Novela
+- Ficción Literaria
+- Ficción histórica
+- Nueva York
+- Literatura
+- Contemporaneo
+- Club de lectura
+- EEUU
+- Judaismo
 autores:
 - Jonathan Lethem
+- Cruz Rodríguez Juiz
 editoriales:
 - Literatura Random House
 image:
@@ -33,14 +38,14 @@ A través de sus vidas vemos cómo un movimiento revolucionario sucede al anteri
 
 ## Ficha del libro
 
-- **Autor:** Jonathan Lethem
-- **Colaboradores:** Cruz Rodríguez Juiz (translator)
+- **Autor:** [Jonathan Lethem](/autores/jonathan-lethem/)
+- **Colaboradores:** [Cruz Rodríguez Juiz](/autores/cruz-rodriguez-juiz/) (translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 413 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439728700 / 9788439728702
 - **Publicación original:** 2014-05-01
-- **Géneros:** Fiction, Novels, Literary Fiction, Historical Fiction, New York, Literature, Contemporary, Book Club, The United States Of America, Jewish
+- **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción histórica](/tags/ficcion-historica/), [Nueva York](/tags/nueva-york/), [Literatura](/tags/literatura/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [EEUU](/tags/eeuu/), [Judaismo](/tags/judaismo/)
 - **Lugares:** Sunnyside, Queens, New York (United States), Queens, New York (United States)
 - **Ficha en Goodreads:** [Los jardines de la disidencia](https://www.goodreads.com/book/show/22053235-los-jardines-de-la-disidencia)
 
@@ -48,4 +53,4 @@ A través de sus vidas vemos cómo un movimiento revolucionario sucede al anteri
 
 - **Inicio:** 2015/01/19
 - **Fin:** 2015/01/28
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

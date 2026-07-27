@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Dystopia
-- Science Fiction
-- Book Club
-- Audiobook
-- Classics
+- Ficción
+- Distopía
+- Ciencia ficción
+- Club de lectura
+- Clásico
+- Feminismo
+- Ficción Literaria
+- Fantasía
+- Adultos
 autores:
 - Jacqueline Harpman
 editoriales:
@@ -31,17 +34,17 @@ Jacqueline Harpman (1929-2012) fue una novelista y psicoanalista belga de origen
 
 ## Ficha del libro
 
-- **Autor:** Jacqueline Harpman
+- **Autor:** [Jacqueline Harpman](/autores/jacqueline-harpman/)
 - **Editorial:** ALIANZA EDITORIAL
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413620767 / 9788413620763
 - **Publicación original:** 2021-02-04
-- **Géneros:** Fiction, Dystopia, Science Fiction, Book Club, Audiobook, Classics, Feminism, Literary Fiction, Fantasy, Adult
+- **Géneros:** [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Clásico](/tags/clasico/), [Feminismo](/tags/feminismo/), [Ficción Literaria](/tags/ficcion-literaria/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Yo que nunca supe de los hombres](https://www.goodreads.com/book/show/57310370-yo-que-nunca-supe-de-los-hombres)
 
 ## Mi lectura
 
 - **Inicio:** 2025/03/10
 - **Fin:** 2025/03/13
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

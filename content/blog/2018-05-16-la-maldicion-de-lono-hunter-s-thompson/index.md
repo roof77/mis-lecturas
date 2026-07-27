@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Travel
-- Journalism
+- Ficción
+- Viajes
+- Periodismo
 - Humor
-- Art
-- Novels
+- Arte
+- Novela
+- Negocios
+- Clásico
 autores:
 - Hunter S. Thompson
 editoriales:
@@ -29,13 +31,13 @@ En 1980, Hunter S. Thompson recibe una propuesta de una revista desconocida, lla
 
 ## Ficha del libro
 
-- **Autor:** Hunter S. Thompson
+- **Autor:** [Hunter S. Thompson](/autores/hunter-s-thompson/)
 - **Editorial:** Sexto Piso 
 - **Formato:** Paperback, 208 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416358990 / 9788416358991
 - **Publicación original:** 2016-04-01
-- **Géneros:** Fiction, Travel, Journalism, Humor, Art, Novels, Business, Classics, Ebooks, Cultural
+- **Géneros:** [Ficción](/tags/ficcion/), [Viajes](/tags/viajes/), [Periodismo](/tags/periodismo/), [Humor](/tags/humor/), [Arte](/tags/arte/), [Novela](/tags/novela/), [Negocios](/tags/negocios/), [Clásico](/tags/clasico/)
 - **Lugares:** Honolulu, Hawaii (United States), Kona, Hawaii (United States)
 - **Ficha en Goodreads:** [La maldición de Lono](https://www.goodreads.com/book/show/29914913-la-maldici-n-de-lono)
 
@@ -43,4 +45,4 @@ En 1980, Hunter S. Thompson recibe una propuesta de una revista desconocida, lla
 
 - **Inicio:** 2018/05/15
 - **Fin:** 2018/05/16
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

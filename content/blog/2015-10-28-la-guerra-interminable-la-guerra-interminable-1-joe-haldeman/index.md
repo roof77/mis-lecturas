@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- War
-- Classics
+- Ciencia ficción
+- Ficción
+- Guerra
+- Clásico
 - Space Opera
-- Science Fiction Fantasy
+- Ciencia Ficción
+- Fantasía
+- Ficción militar
+- Viaje en el tiempo
+- Espacio
 autores:
 - Joe Haldeman
+- Edith Zilli
 editoriales:
 - Ediciones B
 image:
@@ -30,15 +35,15 @@ La Guerra interminable es la novela más conocida de Haldeman, con más de un mi
 
 ## Ficha del libro
 
-- **Autor:** Joe Haldeman
+- **Autor:** [Joe Haldeman](/autores/joe-haldeman/)
 - **Serie:** The Forever War (#1)
-- **Colaboradores:** Edith Zilli (Translator)
+- **Colaboradores:** [Edith Zilli](/autores/edith-zilli/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 293 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8466624120 / 9788466624121
 - **Publicación original:** 2005-03-01
-- **Géneros:** Science Fiction, Fiction, War, Classics, Space Opera, Science Fiction Fantasy, Military Fiction, Audiobook, Time Travel, Space
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Guerra](/tags/guerra/), [Clásico](/tags/clasico/), [Space Opera](/tags/space-opera/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Ficción militar](/tags/ficcion-militar/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Espacio](/tags/espacio/)
 - **Personajes:** William Mandella, Marygay Potter, Charlie Moore
 - **Premios ganados:** Hugo Award (1976), Nebula Award (1975), Locus Award (1976), Ditmar Award (1976)
 - **Ficha en Goodreads:** [La guerra interminable (La guerra interminable, #1)](https://www.goodreads.com/book/show/17311048-la-guerra-interminable)
@@ -47,4 +52,4 @@ La Guerra interminable es la novela más conocida de Haldeman, con más de un mi
 
 - **Inicio:** 2015/10/27
 - **Fin:** 2015/10/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

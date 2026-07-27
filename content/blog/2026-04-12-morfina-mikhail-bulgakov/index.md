@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Russia
-- Russian Literature
-- Short Stories
-- Novels
+- Ficción
+- Clásico
+- Rusia
+- Literatura rusa
+- Relatos
+- Novela
+- Literatura
+- Siglo XX
+- Medicina
+- Novella
 autores:
 - Mikhail Bulgakov
 editoriales:
@@ -31,13 +35,13 @@ Los relatos reunidos en este volumen pertenecen al ciclo Notas de un médico jov
 
 ## Ficha del libro
 
-- **Autor:** Mikhail Bulgakov
+- **Autor:** [Mikhail Bulgakov](/autores/mikhail-bulgakov/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Mass Market Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 843396707X / 9788433967077
 - **Publicación original:** 2006-04-18
-- **Géneros:** Fiction, Classics, Russia, Russian Literature, Short Stories, Novels, Literature, 20th Century, Medicine, Novella
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Rusia](/tags/rusia/), [Literatura rusa](/tags/literatura-rusa/), [Relatos](/tags/relatos/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Siglo XX](/tags/siglo-xx/), [Medicina](/tags/medicina/), [Novella](/tags/novella/)
 - **Personajes:** Vladimir Mikhaïlovitch Bomgard, Sergueï Poliakov
 - **Ficha en Goodreads:** [Morfina](https://www.goodreads.com/book/show/224230.Morfina)
 
@@ -45,3 +49,4 @@ Los relatos reunidos en este volumen pertenecen al ciclo Notas de un médico jov
 
 - **Inicio:** 2026/04/09
 - **Fin:** 2026/04/12
+- **Calificación:** Muy bien/5

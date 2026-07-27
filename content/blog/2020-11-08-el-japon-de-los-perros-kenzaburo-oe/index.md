@@ -7,9 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
+- Relatos
 autores:
 - Kenzaburō Ōe
+- Yōko Tawada
+- Yukiko Motoya
+- Yasutaka Tsutsui
+- Yumiko Kurahashi
+- Akiko Yosano
+- Ryūnosuke Akutagawa
+- Masaoka Shiki
+- Kizen Sasaki
+- Jun Takami
+- Roan Uchida
 editoriales:
 - Satori
 image:
@@ -24,18 +34,18 @@ Desde Ryūnosuke Akutagawa, maestro indiscutible del relato breve, al premio nob
 
 ## Ficha del libro
 
-- **Autor:** Kenzaburō Ōe
-- **Colaboradores:** Yōko Tawada (Author), Yukiko Motoya (Author), Yasutaka Tsutsui (Author), Yumiko Kurahashi (Author), Akiko Yosano (Author), Ryūnosuke Akutagawa (Author), Masaoka Shiki (Author), Kizen Sasaki (Author), Jun Takami (Author), Roan Uchida (Author)
+- **Autor:** [Kenzaburō Ōe](/autores/kenzaburo-oe/)
+- **Colaboradores:** [Yōko Tawada](/autores/yoko-tawada/) (Author), [Yukiko Motoya](/autores/yukiko-motoya/) (Author), [Yasutaka Tsutsui](/autores/yasutaka-tsutsui/) (Author), [Yumiko Kurahashi](/autores/yumiko-kurahashi/) (Author), [Akiko Yosano](/autores/akiko-yosano/) (Author), [Ryūnosuke Akutagawa](/autores/ryunosuke-akutagawa/) (Author), [Masaoka Shiki](/autores/masaoka-shiki/) (Author), [Kizen Sasaki](/autores/kizen-sasaki/) (Author), [Jun Takami](/autores/jun-takami/) (Author), [Roan Uchida](/autores/roan-uchida/) (Author)
 - **Editorial:** Satori
 - **Formato:** Paperback, 208 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417419411 / 9788417419417
 - **Publicación original:** 2020-06-08
-- **Géneros:** Short Stories
+- **Géneros:** [Relatos](/tags/relatos/)
 - **Ficha en Goodreads:** [El Japón de los perros](https://www.goodreads.com/book/show/53402504-el-jap-n-de-los-perros)
 
 ## Mi lectura
 
 - **Inicio:** 2020/10/13
 - **Fin:** 2020/11/08
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

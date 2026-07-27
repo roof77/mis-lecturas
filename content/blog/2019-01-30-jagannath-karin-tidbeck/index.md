@@ -7,14 +7,22 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fantasy
-- Fiction
-- Science Fiction
-- Horror
-- Magical Realism
+- Relatos
+- Fantasía
+- Ficción
+- Ciencia ficción
+- Terror
+- Realismo mágico
+- Ficción extraña
+- Ficción especulativa
+- Suecia
+- Colección de relatos
 autores:
 - Karin Tidbeck
+- Carmen Montes Cano
+- Marian Womack
+- Elizabeth Hand
+- Eva Ramón
 editoriales:
 - Ediciones Nevsky
 image:
@@ -31,14 +39,14 @@ El universo literario de Karin Tidbeck revela una de las voces más originales s
 
 ## Ficha del libro
 
-- **Autor:** Karin Tidbeck
-- **Colaboradores:** Carmen Montes Cano (Translator), Marian Womack (Translator), Elizabeth Hand (Foreword), Eva Ramón (Illustrator)
+- **Autor:** [Karin Tidbeck](/autores/karin-tidbeck/)
+- **Colaboradores:** [Carmen Montes Cano](/autores/carmen-montes-cano/) (Translator), [Marian Womack](/autores/marian-womack/) (Translator), [Elizabeth Hand](/autores/elizabeth-hand/) (Foreword), [Eva Ramón](/autores/eva-ramon/) (Illustrator)
 - **Editorial:** Ediciones Nevsky
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788493937980
 - **Publicación original:** 2014-03-10
-- **Géneros:** Short Stories, Fantasy, Fiction, Science Fiction, Horror, Magical Realism, Weird Fiction, Speculative Fiction, Sweden, Short Story Collection
+- **Géneros:** [Relatos](/tags/relatos/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Terror](/tags/terror/), [Realismo mágico](/tags/realismo-magico/), [Ficción extraña](/tags/ficcion-extrana/), [Ficción especulativa](/tags/ficcion-especulativa/), [Suecia](/tags/suecia/), [Colección de relatos](/tags/coleccion-de-relatos/)
 - **Premios ganados:** IAFA William L. Crawford Fantasy Award (2013)
 - **Nominaciones:** World Fantasy Award (2013), James Tiptree Jr. Award (2012)
 - **Ficha en Goodreads:** [Jagannath](https://www.goodreads.com/book/show/20652503-jagannath)
@@ -47,4 +55,4 @@ El universo literario de Karin Tidbeck revela una de las voces más originales s
 
 - **Inicio:** 2019/01/15
 - **Fin:** 2019/01/30
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

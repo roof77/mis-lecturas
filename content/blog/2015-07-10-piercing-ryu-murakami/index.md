@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Japan
-- Japanese Literature
+- Terror
+- Ficción
+- Japón
+- Literatura japanesa
 - Thriller
-- Crime
+- Crimen
+- Misterio
+- Ásia
+- Literatura asiática
+- Contemporaneo
 autores:
 - Ryū Murakami
 editoriales:
@@ -31,13 +35,13 @@ Tras las pulsiones asesinas, tras los desdoblamientos de personalidad, la sed de
 
 ## Ficha del libro
 
-- **Autor:** Ryū Murakami
+- **Autor:** [Ryū Murakami](/autores/ryu-murakami/)
 - **Editorial:** Ediciones Escalera
 - **Formato:** Paperback, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788493836382
 - **Publicación original:** 2011-09-12
-- **Géneros:** Horror, Fiction, Japan, Japanese Literature, Thriller, Crime, Mystery, Asia, Asian Literature, Contemporary
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Ásia](/tags/asia/), [Literatura asiática](/tags/literatura-asiatica/), [Contemporaneo](/tags/contemporaneo/)
 - **Personajes:** Kawashima Masayuki
 - **Lugares:** Tokyo (Japan), Japan
 - **Ficha en Goodreads:** [Piercing](https://www.goodreads.com/book/show/15809202-piercing)
@@ -46,4 +50,4 @@ Tras las pulsiones asesinas, tras los desdoblamientos de personalidad, la sed de
 
 - **Inicio:** 2015/07/08
 - **Fin:** 2015/07/10
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

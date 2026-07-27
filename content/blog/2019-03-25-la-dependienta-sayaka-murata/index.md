@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Japan
-- Japanese Literature
-- Audiobook
-- Literary Fiction
+- Ficción
+- Contemporaneo
+- Japón
+- Literatura japanesa
+- Ficción Literaria
+- Club de lectura
+- Adultos
+- Ásia
+- Literatura asiática
 autores:
 - Sayaka Murata
+- Marina Bornas
 editoriales:
 - 'Duomo ediciones '
 image:
@@ -29,14 +33,14 @@ Keiko Furukura tiene 36 años y está soltera. De hecho, nunca ha tenido pareja.
 
 ## Ficha del libro
 
-- **Autor:** Sayaka Murata
-- **Colaboradores:** Marina Bornas (Translator)
+- **Autor:** [Sayaka Murata](/autores/sayaka-murata/)
+- **Colaboradores:** [Marina Bornas](/autores/marina-bornas/) (Translator)
 - **Editorial:** Duomo ediciones 
 - **Formato:** Kindle Edition, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417761195 / 9788417761196
 - **Publicación original:** 2019-01-28
-- **Géneros:** Fiction, Contemporary, Japan, Japanese Literature, Audiobook, Literary Fiction, Book Club, Adult, Asia, Asian Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Ásia](/tags/asia/), [Literatura asiática](/tags/literatura-asiatica/)
 - **Lugares:** Japan
 - **Premios ganados:** Akutagawa Prize 芥川龍之介賞 (2016)
 - **Nominaciones:** BTBA Best Translated Book Award (2019), 本屋大賞 (2017)
@@ -46,4 +50,4 @@ Keiko Furukura tiene 36 años y está soltera. De hecho, nunca ha tenido pareja.
 
 - **Inicio:** 2019/03/24
 - **Fin:** 2019/03/25
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Humor
-- Sweden
-- Swedish Literature
+- Suecia
+- Literatura sueca
 autores:
 - Lars Berge
+- Martin Lexell
+- Mónica Corral Frías
 editoriales:
 - Alfaguara
 image:
@@ -29,18 +31,18 @@ Al principio nadie nota su ausencia pero pasado un tiempo la gente empieza a pre
 
 ## Ficha del libro
 
-- **Autor:** Lars Berge
-- **Colaboradores:** Martin Lexell (Translator), Mónica Corral Frías (Translator)
+- **Autor:** [Lars Berge](/autores/lars-berge/)
+- **Colaboradores:** [Martin Lexell](/autores/martin-lexell/) (Translator), [Mónica Corral Frías](/autores/monica-corral-frias/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 251 páginas
 - **Idioma:** English
 - **ISBN:** 8420419745 / 9788420419749
 - **Publicación original:** 2015-09-10
-- **Géneros:** Fiction, Humor, Sweden, Swedish Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Suecia](/tags/suecia/), [Literatura sueca](/tags/literatura-sueca/)
 - **Ficha en Goodreads:** [La oficina](https://www.goodreads.com/book/show/27237130-la-oficina)
 
 ## Mi lectura
 
 - **Inicio:** 2016/06/02
 - **Fin:** 2016/06/02
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

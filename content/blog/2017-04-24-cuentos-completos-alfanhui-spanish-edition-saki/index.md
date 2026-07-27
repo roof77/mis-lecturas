@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Classics
+- Relatos
+- Ficción
+- Clásico
 - Humor
-- Literature
-- Horror
+- Literatura
+- Terror
+- Sátira
+- Literatura británica
+- Antología
+- Moderno
 autores:
 - Saki
 editoriales:
@@ -29,17 +33,17 @@ Empiezas un cuento de Saki y lo acabas. Acabas uno y tienes que empezar otro, y 
 
 ## Ficha del libro
 
-- **Autor:** Saki
+- **Autor:** [Saki](/autores/saki/)
 - **Editorial:** Ediciones Alpha Decay
 - **Formato:** Paperback, 840 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849342787X / 9788493427870
 - **Publicación original:** 2005-11-01
-- **Géneros:** Short Stories, Fiction, Classics, Humor, Literature, Horror, Satire, British Literature, Anthologies, Modern
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Humor](/tags/humor/), [Literatura](/tags/literatura/), [Terror](/tags/terror/), [Sátira](/tags/satira/), [Literatura británica](/tags/literatura-britanica/), [Antología](/tags/antologia/), [Moderno](/tags/moderno/)
 - **Ficha en Goodreads:** [Cuentos completos (Alfanhuí) (Spanish Edition)](https://www.goodreads.com/book/show/8763588-cuentos-completos-alfanhu)
 
 ## Mi lectura
 
 - **Inicio:** 2017/03/14
 - **Fin:** 2017/04/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

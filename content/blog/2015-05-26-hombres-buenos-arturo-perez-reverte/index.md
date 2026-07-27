@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Historical Fiction
-- Fiction
-- Spanish Literature
-- Historical
-- Spain
-- Novels
+- Ficción histórica
+- Ficción
+- Literatura hispana
+- Histórico
+- España
+- Novela
+- Romance
+- Aventuras
 autores:
 - Arturo Pérez-Reverte
 editoriales:
@@ -49,17 +51,17 @@ La crítica ha dicho... «Excelente novela, quizá la que mejor le retrate como 
 
 ## Ficha del libro
 
-- **Autor:** Arturo Pérez-Reverte
+- **Autor:** [Arturo Pérez-Reverte](/autores/arturo-perez-reverte/)
 - **Editorial:** Alfaguara
 - **Formato:** Hardcover, 583 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420403245 / 9788420403243
 - **Publicación original:** 2015-03-12
-- **Géneros:** Historical Fiction, Fiction, Spanish Literature, Historical, Spain, Novels, Ebooks, Audiobook, Romance, Adventure
+- **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Histórico](/tags/historico/), [España](/tags/espana/), [Novela](/tags/novela/), [Romance](/tags/romance/), [Aventuras](/tags/aventuras/)
 - **Ficha en Goodreads:** [Hombres buenos](https://www.goodreads.com/book/show/24798977-hombres-buenos)
 
 ## Mi lectura
 
 - **Inicio:** 2015/05/20
 - **Fin:** 2015/05/26
-- **Mi valoración:** ★☆☆☆☆ (1,25/5)
+- **Calificación:** ★☆☆☆☆ (1,25/5)

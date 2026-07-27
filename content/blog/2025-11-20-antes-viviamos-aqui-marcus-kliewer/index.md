@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
+- Terror
 - Thriller
-- Audiobook
-- Fiction
-- Mystery
-- Mystery Thriller
+- Ficción
+- Misterio
+- Club de lectura
+- Paranormal
+- LGTBIQ+
+- Adultos
 autores:
 - Marcus Kliewer
+- I. C. Salabert
 editoriales:
 - Nocturna Ediciones
 image:
@@ -33,14 +36,14 @@ Poco a poco, Eve empieza a sentir que las cosas a su alrededor están cambiando.
 
 ## Ficha del libro
 
-- **Autor:** Marcus Kliewer
-- **Colaboradores:** I. C. Salabert (Translator)
+- **Autor:** [Marcus Kliewer](/autores/marcus-kliewer/)
+- **Colaboradores:** [I. C. Salabert](/autores/i-c-salabert/) (Translator)
 - **Editorial:** Nocturna Ediciones
 - **Formato:** Paperback, 303 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9791387690120
 - **Publicación original:** 2025-09-15
-- **Géneros:** Horror, Thriller, Audiobook, Fiction, Mystery, Mystery Thriller, Book Club, Paranormal, LGBT, Adult
+- **Géneros:** [Terror](/tags/terror/), [Thriller](/tags/thriller/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Club de lectura](/tags/club-de-lectura/), [Paranormal](/tags/paranormal/), [LGTBIQ+](/tags/lgtbiq/), [Adultos](/tags/adultos/)
 - **Lugares:** Oregon (United States), Pacific Northwest (United States)
 - **Premios ganados:** She Reads Best of Award (2024)
 - **Nominaciones:** Goodreads Choice Award (2024), RUSA CODES Reading List (2025), Readers' Favorite Horror (2024), Readers' Favorite Debut Novel (2024)
@@ -50,4 +53,4 @@ Poco a poco, Eve empieza a sentir que las cosas a su alrededor están cambiando.
 
 - **Inicio:** 2025/11/10
 - **Fin:** 2025/11/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

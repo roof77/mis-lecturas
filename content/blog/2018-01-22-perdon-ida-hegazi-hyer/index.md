@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
+- Ficción
+- Contemporaneo
 - Romance
-- Novels
-- Audiobook
-- Literary Fiction
+- Novela
+- Ficción Literaria
+- Amor
+- Literatura escandinava
 autores:
 - Ida Hegazi Høyer
+- Cristina Gómez Baggethun
 editoriales:
 - Nórdica Libros
 image:
@@ -29,18 +31,18 @@ PREMIO DE LITERATURA DE LA UNIÓN EUROPEA 2015Perdón es una intensa novela sobr
 
 ## Ficha del libro
 
-- **Autor:** Ida Hegazi Høyer
-- **Colaboradores:** Cristina Gómez Baggethun (Translator)
+- **Autor:** [Ida Hegazi Høyer](/autores/ida-hegazi-hyer/)
+- **Colaboradores:** [Cristina Gómez Baggethun](/autores/cristina-gomez-baggethun/) (Translator)
 - **Editorial:** Nórdica Libros
 - **Formato:** Kindle Edition, 204 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416830428 / 9788416830428
 - **Publicación original:** 2017-05-22
-- **Géneros:** Fiction, Contemporary, Romance, Novels, Audiobook, Literary Fiction, Love, Scandinavian Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Amor](/tags/amor/), [Literatura escandinava](/tags/literatura-escandinava/)
 - **Ficha en Goodreads:** [Perdón](https://www.goodreads.com/book/show/36110334-perd-n)
 
 ## Mi lectura
 
 - **Inicio:** 2018/01/21
 - **Fin:** 2018/01/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

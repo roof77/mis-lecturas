@@ -7,13 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Portuguese Literature
+- Ficción
+- Literatura portuguesa
 - Portugal
-- Ebooks
 - Romance
 autores:
 - Fialho de Almeida
+- Antonio Sáez Delgado
 editoriales:
 - Editorial Periférica
 image:
@@ -28,17 +28,17 @@ Fialho de Almeida (1857-1911) pertence àquela família de médicos que se torna
 
 ## Ficha del libro
 
-- **Autor:** Fialho de Almeida
-- **Colaboradores:** Antonio Sáez Delgado (Translator)
+- **Autor:** [Fialho de Almeida](/autores/fialho-de-almeida/)
+- **Colaboradores:** [Antonio Sáez Delgado](/autores/antonio-saez-delgado/) (Translator)
 - **Editorial:** Editorial Periférica
 - **Formato:** Paperback, 153 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2006-04-01
-- **Géneros:** Fiction, Portuguese Literature, Portugal, Ebooks, Romance
+- **Géneros:** [Ficción](/tags/ficcion/), [Literatura portuguesa](/tags/literatura-portuguesa/), [Portugal](/tags/portugal/), [Romance](/tags/romance/)
 - **Ficha en Goodreads:** [La pelirroja](https://www.goodreads.com/book/show/30162057-la-pelirroja)
 
 ## Mi lectura
 
 - **Inicio:** 2022/01/05
 - **Fin:** 2022/01/07
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

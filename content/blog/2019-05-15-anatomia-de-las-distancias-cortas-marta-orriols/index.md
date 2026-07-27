@@ -7,9 +7,9 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Short Stories
-- Contemporary
+- Ficción
+- Relatos
+- Contemporaneo
 autores:
 - Marta Orriols
 editoriales:
@@ -31,17 +31,17 @@ Hay lugar para lo improbable en el día a día de estos espléndidos personajes 
 
 ## Ficha del libro
 
-- **Autor:** Marta Orriols
+- **Autor:** [Marta Orriols](/autores/marta-orriols/)
 - **Editorial:** Penguin Random House Grupo Editorial, S. A. U.
 - **Formato:** Kindle Edition, 132 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8426404227 / 9788426404220
 - **Publicación original:** 2017-04-06
-- **Géneros:** Fiction, Short Stories, Contemporary
+- **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Contemporaneo](/tags/contemporaneo/)
 - **Ficha en Goodreads:** [Anatomía de las distancias cortas](https://www.goodreads.com/book/show/35378867-anatom-a-de-las-distancias-cortas)
 
 ## Mi lectura
 
 - **Inicio:** 2019/05/13
 - **Fin:** 2019/05/15
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Memoir
-- Animals
-- Classics
-- Biography
-- Audiobook
+- No Ficción
+- Memorias
+- Animales
+- Clásico
+- Biografía
+- Humor
+- Autobiografía
+- Club de lectura
 autores:
 - James Herriot
 editoriales:
@@ -36,14 +38,14 @@ Ni tampoco que deberá ganarse uno a uno a todos los granjeros de la comarca.
 
 ## Ficha del libro
 
-- **Autor:** James Herriot
+- **Autor:** [James Herriot](/autores/james-herriot/)
 - **Serie:** All Creatures Great and Small (#1-2)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419654388 / 9788419654380
 - **Publicación original:** 2023-11-02
-- **Géneros:** Nonfiction, Memoir, Animals, Classics, Biography, Audiobook, Humor, Biography Memoir, Autobiography, Book Club
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Animales](/tags/animales/), [Clásico](/tags/clasico/), [Biografía](/tags/biografia/), [Humor](/tags/humor/), [Autobiografía](/tags/autobiografia/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** James Herriot, Siegfried Farnon, Tristan Farnon, Helen Alderson, Mrs. Hall, Mrs. Pumphrey, Tricky Woo, Granville Bennet, Diana Brompton, Herbert Jarvis
 - **Lugares:** Yorkshire, England
 - **Premios ganados:** Audie Award (2022)
@@ -53,4 +55,4 @@ Ni tampoco que deberá ganarse uno a uno a todos los granjeros de la comarca.
 
 - **Inicio:** 2023/11/25
 - **Fin:** 2023/12/06
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

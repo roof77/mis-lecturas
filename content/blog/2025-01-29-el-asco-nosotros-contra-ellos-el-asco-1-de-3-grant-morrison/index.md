@@ -8,6 +8,9 @@ tags:
 - Lecturas
 autores:
 - Grant Morrison
+- Chris Weston
+- Gary Erskine
+- Matt Hollingsworth
 editoriales:
 - Norma Editorial (Vertigo Comics)
 image:
@@ -18,8 +21,8 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Grant Morrison
-- **Colaboradores:** Chris Weston (Dibujo), Gary Erskine (Tinta), Matt Hollingsworth (Color)
+- **Autor:** [Grant Morrison](/autores/grant-morrison/)
+- **Colaboradores:** [Chris Weston](/autores/chris-weston/) (Dibujo), [Gary Erskine](/autores/gary-erskine/) (Tinta), [Matt Hollingsworth](/autores/matt-hollingsworth/) (Color)
 - **Editorial:** Norma Editorial (Vertigo Comics)
 - **Formato:** Paperback, 74 páginas
 - **Idioma:** Spanish; Castilian
@@ -31,4 +34,4 @@ image:
 
 - **Inicio:** 2025/01/29
 - **Fin:** 2025/01/29
-- **Mi valoración:** ★★★☆☆ (3,25/5)
+- **Calificación:** ★★★☆☆ (3,25/5)

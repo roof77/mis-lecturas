@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Memoir
+- Novela gráfica
+- Memorias
 - Comics
-- Nonfiction
+- No Ficción
 - Queer
-- LGBT
+- LGTBIQ+
+- Biografía
+- Psicología
 autores:
 - Alison Bechdel
 editoriales:
@@ -29,13 +31,13 @@ La autora del bestseller Fun Home regresa a su exitosa saga familiar. Si has le�
 
 ## Ficha del libro
 
-- **Autor:** Alison Bechdel
+- **Autor:** [Alison Bechdel](/autores/alison-bechdel/)
 - **Editorial:** Random House Mondadori
 - **Formato:** Paperback, 290 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439726058 / 9788439726050
 - **Publicación original:** 2012-09-01
-- **Géneros:** Graphic Novels, Memoir, Comics, Nonfiction, Queer, LGBT, Biography, Graphic Novels Comics, Psychology, Biography Memoir
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Memorias](/tags/memorias/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Biografía](/tags/biografia/), [Psicología](/tags/psicologia/)
 - **Premios ganados:** The Publishing Triangle Award (2013)
 - **Nominaciones:** Lambda Literary Award (2013), Green Carnation Prize (2012), Goodreads Choice Award (2012), Readers' Favorite Graphic Novels & Comics (2012)
 - **Ficha en Goodreads:** [¿Eres mi madre?](https://www.goodreads.com/book/show/17857915-eres-mi-madre)
@@ -44,4 +46,4 @@ La autora del bestseller Fun Home regresa a su exitosa saga familiar. Si has le�
 
 - **Inicio:** 2024/05/09
 - **Fin:** 2024/05/21
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

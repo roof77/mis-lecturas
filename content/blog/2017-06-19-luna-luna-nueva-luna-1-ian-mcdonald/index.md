@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Space
-- Audiobook
+- Ciencia ficción
+- Ficción
+- Espacio
 - Space Opera
-- Fantasy
+- Fantasía
+- Ficción especulativa
+- Ciencia Ficción
+- Adultos
 autores:
 - Ian McDonald
+- José Heisenberg
 editoriales:
 - Ediciones B/Nova
 image:
@@ -47,15 +50,15 @@ Ian McDonald nació en Manchester en 1960, hijo de madre irlandesa y padre escoc
 
 ## Ficha del libro
 
-- **Autor:** Ian McDonald
+- **Autor:** [Ian McDonald](/autores/ian-mcdonald/)
 - **Serie:** Luna (#1)
-- **Colaboradores:** José Heisenberg (Translator)
+- **Colaboradores:** [José Heisenberg](/autores/jose-heisenberg/) (Translator)
 - **Editorial:** Ediciones B/Nova
 - **Formato:** Paperback, 432 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8466659331 / 9788466659338
 - **Publicación original:** 2016-06-22
-- **Géneros:** Science Fiction, Fiction, Space, Audiobook, Space Opera, Fantasy, Speculative Fiction, Science Fiction Fantasy, Adult, Ebooks
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Espacio](/tags/espacio/), [Space Opera](/tags/space-opera/), [Fantasía](/tags/fantasia/), [Ficción especulativa](/tags/ficcion-especulativa/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/)
 - **Lugares:** The Moon
 - **Nominaciones:** British Science Fiction Association Award (2015), John W. Campbell Memorial Award (2016), Grand Prix de l'Imaginaire (2019)
 - **Ficha en Goodreads:** [Luna: Luna nueva (Luna, #1)](https://www.goodreads.com/book/show/29914911-luna)
@@ -64,4 +67,4 @@ Ian McDonald nació en Manchester en 1960, hijo de madre irlandesa y padre escoc
 
 - **Inicio:** 2017/06/14
 - **Fin:** 2017/06/19
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

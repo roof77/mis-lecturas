@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
+- Relatos
+- Ficción
 - Humor
-- Essays
-- Drugs
-- Comedy
+- Ensayo
+- Drogas
+- Comedia
+- Ficción Literaria
+- Periodismo
+- Sátira
+- Ficción americana
 autores:
 - Terry Southern
 editoriales:
@@ -31,17 +35,17 @@ Con esta obra Southern, conocido sobre todo por su guión de Dr. Strangelove, so
 
 ## Ficha del libro
 
-- **Autor:** Terry Southern
+- **Autor:** [Terry Southern](/autores/terry-southern/)
 - **Editorial:** Capitán Swing libros 
 - **Formato:** Mass Market Paperback, 288 páginas
 - **Idioma:** English
 - **ISBN:** 8433914480 / 9788433914484
 - **Publicación original:** 2012-01-01
-- **Géneros:** Short Stories, Fiction, Humor, Essays, Drugs, Comedy, Literary Fiction, Journalism, Satire, American Fiction
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Ensayo](/tags/ensayo/), [Drogas](/tags/drogas/), [Comedia](/tags/comedia/), [Ficción Literaria](/tags/ficcion-literaria/), [Periodismo](/tags/periodismo/), [Sátira](/tags/satira/), [Ficción americana](/tags/ficcion-americana/)
 - **Ficha en Goodreads:** [A La Rica Marihuana Y Otros Sabores](https://www.goodreads.com/book/show/3358198-a-la-rica-marihuana-y-otros-sabores)
 
 ## Mi lectura
 
 - **Inicio:** 2014/09/04
 - **Fin:** 2014/09/08
-- **Mi valoración:** ☆☆☆☆☆ (0/5)
+- **Calificación:** ☆☆☆☆☆ (0/5)

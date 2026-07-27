@@ -7,11 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Drama
-- Spain
-- Spanish Literature
-- Novels
+- España
+- Literatura hispana
+- Novela
 autores:
 - Elisa Victoria
 editoriales:
@@ -28,17 +28,17 @@ Algo pasó en 1989. Renata vuelve a ese año una y otra vez. El presente para el
 
 ## Ficha del libro
 
-- **Autor:** Elisa Victoria
+- **Autor:** [Elisa Victoria](/autores/elisa-victoria/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419654450 / 9788419654458
 - **Publicación original:** 2023-08-30
-- **Géneros:** Fiction, Drama, Spain, Spanish Literature, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Drama](/tags/drama/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Otaberra](https://www.goodreads.com/book/show/183535471-otaberra)
 
 ## Mi lectura
 
 - **Inicio:** 2023/10/10
 - **Fin:** 2023/10/17
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Memoir
-- Nonfiction
-- Essays
-- American
-- Jewish
-- Biography
+- Memorias
+- No Ficción
+- Ensayo
+- EEUU
+- Judaismo
+- Biografía
+- Club de lectura
 autores:
 - Dorothy Gallagher
+- Regina López Muñoz
 editoriales:
 - Muñeca infinita editorial
 image:
@@ -29,14 +31,14 @@ Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata s
 
 ## Ficha del libro
 
-- **Autor:** Dorothy Gallagher
-- **Colaboradores:** Regina López Muñoz (translator)
+- **Autor:** [Dorothy Gallagher](/autores/dorothy-gallagher/)
+- **Colaboradores:** [Regina López Muñoz](/autores/regina-lopez-munoz/) (translator)
 - **Editorial:** Muñeca infinita editorial
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412393732 / 9788412393736
 - **Publicación original:** 2022-05-01
-- **Géneros:** Memoir, Nonfiction, Essays, American, Jewish, Biography, Book Club
+- **Géneros:** [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Ensayo](/tags/ensayo/), [EEUU](/tags/eeuu/), [Judaismo](/tags/judaismo/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/)
 - **Premios ganados:** Koret Jewish Book Award (2002)
 - **Ficha en Goodreads:** [De cómo recibí mi herencia](https://www.goodreads.com/book/show/60901058-de-c-mo-recib-mi-herencia)
 
@@ -44,4 +46,4 @@ Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata s
 
 - **Inicio:** 2022/06/01
 - **Fin:** 2022/06/06
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

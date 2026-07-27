@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
+- Ciencia ficción
 - Novella
-- Fiction
-- Young Adult
-- Short Stories
-- Ebooks
+- Ficción
+- Jovenes adultos
+- Relatos
+- Espacio
+- Distopía
+- Space Opera
+- Ciencia Ficción
+- Fantasía
 autores:
 - Ian McDonald
+- Bruno Puelles
 editoriales:
 - Ed. Apache Libros
 image:
@@ -37,18 +42,18 @@ Ambientada en el universo de la trilogía Luna, la novela funciona como obra ind
 
 ## Ficha del libro
 
-- **Autor:** Ian McDonald
+- **Autor:** [Ian McDonald](/autores/ian-mcdonald/)
 - **Serie:** Luna
-- **Colaboradores:** Bruno Puelles (Translator)
+- **Colaboradores:** [Bruno Puelles](/autores/bruno-puelles/) (Translator)
 - **Editorial:** Ed. Apache Libros
 - **Formato:** Paperback, 186 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2020-09-01
-- **Géneros:** Science Fiction, Novella, Fiction, Young Adult, Short Stories, Ebooks, Space, Dystopia, Space Opera, Science Fiction Fantasy
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Relatos](/tags/relatos/), [Espacio](/tags/espacio/), [Distopía](/tags/distopia/), [Space Opera](/tags/space-opera/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Dama Luna. La amenaza de Farside](https://www.goodreads.com/book/show/54361178-dama-luna-la-amenaza-de-farside)
 
 ## Mi lectura
 
 - **Inicio:** 2021/07/26
 - **Fin:** 2021/07/30
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

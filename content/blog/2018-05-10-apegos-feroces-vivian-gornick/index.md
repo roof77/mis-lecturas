@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Memoir
-- Nonfiction
-- Biography
-- Feminism
-- Womens
-- Biography Memoir
+- Memorias
+- No Ficción
+- Biografía
+- Feminismo
+- Mujeres
+- Nueva York
+- EEUU
 autores:
 - Vivian Gornick
+- Daniel Ramos Sanchez
 editoriales:
 - Sexto Piso
 image:
@@ -29,14 +31,14 @@ Gornick, una mujer madura, camina con su madre, ya anciana, por las calles de Ma
 
 ## Ficha del libro
 
-- **Autor:** Vivian Gornick
-- **Colaboradores:** Daniel Ramos Sanchez (Translator)
+- **Autor:** [Vivian Gornick](/autores/vivian-gornick/)
+- **Colaboradores:** [Daniel Ramos Sanchez](/autores/daniel-ramos-sanchez/) (Translator)
 - **Editorial:** Sexto Piso
 - **Formato:** Kindle Edition, 195 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416677700 / 9788416677702
 - **Publicación original:** 2017-12-15
-- **Géneros:** Memoir, Nonfiction, Biography, Feminism, Womens, Biography Memoir, New York, The United States Of America, American, Audiobook
+- **Géneros:** [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Feminismo](/tags/feminismo/), [Mujeres](/tags/mujeres/), [Nueva York](/tags/nueva-york/), [EEUU](/tags/eeuu/)
 - **Premios ganados:** Premio de los Libreros de Madrid (2017)
 - **Ficha en Goodreads:** [Apegos feroces](https://www.goodreads.com/book/show/37541805-apegos-feroces)
 
@@ -44,4 +46,4 @@ Gornick, una mujer madura, camina con su madre, ya anciana, por las calles de Ma
 
 - **Inicio:** 2018/05/08
 - **Fin:** 2018/05/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -8,7 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 autores:
 - Jan
 editoriales:
@@ -29,17 +29,17 @@ El origen de SuperlópezContra la Luz Luminosa¡Chiclón ataca!Contra el Gladiad
 
 ## Ficha del libro
 
-- **Autor:** Jan
+- **Autor:** [Jan](/autores/jan/)
 - **Serie:** Superlópez (#1)
 - **Editorial:** Ediciones B
 - **Formato:** Kindle Edition, 65 páginas
 - **Idioma:** English
 - **Publicación original:** 2012-09-30
-- **Géneros:** Comics, Graphic Novels
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/)
 - **Ficha en Goodreads:** [Las aventuras de Superlópez (Superlópez #1)](https://www.goodreads.com/book/show/19537438-las-aventuras-de-superl-pez)
 
 ## Mi lectura
 
 - **Inicio:** 2025/01/18
 - **Fin:** 2025/01/18
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

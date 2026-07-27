@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
+- Fantasía
 - Dark Academia
-- Young Adult
-- Fiction
-- Magic
-- Audiobook
+- Jovenes adultos
+- Ficción
+- Mágia
+- Terror
+- Fantasía urbana
+- Romance
 autores:
 - Naomi Novik
+- Patricia Sebastián Hernández
 editoriales:
 - Umbriel
 image:
@@ -35,15 +38,15 @@ Ingeniosa, mordaz y divertida, y también con un profundo sentido de la justicia
 
 ## Ficha del libro
 
-- **Autor:** Naomi Novik
+- **Autor:** [Naomi Novik](/autores/naomi-novik/)
 - **Serie:** The Scholomance (#1)
-- **Colaboradores:** Patricia Sebastián Hernández (Translator)
+- **Colaboradores:** [Patricia Sebastián Hernández](/autores/patricia-sebastian-hernandez/) (Translator)
 - **Editorial:** Umbriel
 - **Formato:** Paperback, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841651741X / 9788416517411
 - **Publicación original:** 2021-02-02
-- **Géneros:** Fantasy, Dark Academia, Young Adult, Fiction, Magic, Audiobook, Horror, Urban Fantasy, Young Adult Fantasy, Romance
+- **Géneros:** [Fantasía](/tags/fantasia/), [Dark Academia](/tags/dark-academia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Mágia](/tags/magia/), [Terror](/tags/terror/), [Fantasía urbana](/tags/fantasia-urbana/), [Romance](/tags/romance/)
 - **Personajes:** El
 - **Nominaciones:** Hugo Award (2023), Nutmeg Book Award (2025), Goodreads Choice Award (2020), Lodestar Award (2021), BookNest Award (2020), RUSA CODES Reading List (2021), Readers' Favorite Fantasy (2020)
 - **Ficha en Goodreads:** [Una Educacion Mortal (Escolomancia, #1)](https://www.goodreads.com/book/show/55189714-una-educacion-mortal)
@@ -52,4 +55,4 @@ Ingeniosa, mordaz y divertida, y también con un profundo sentido de la justicia
 
 - **Inicio:** 2022/05/17
 - **Fin:** 2022/05/22
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Feminism
-- True Crime
-- Crime
-- Spanish Literature
-- Womens
+- No Ficción
+- Feminismo
+- Crime real
+- Crimen
+- Literatura hispana
+- Mujeres
+- Periodismo
+- Contemporaneo
+- Latino américa
 autores:
 - Selva Almada
 editoriales:
@@ -31,17 +34,17 @@ Convertidos en obsesión con el paso de los años, estos casos dan lugar a una i
 
 ## Ficha del libro
 
-- **Autor:** Selva Almada
+- **Autor:** [Selva Almada](/autores/selva-almada/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 187 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9873650261 / 9789873650260
 - **Publicación original:** 2014-05-01
-- **Géneros:** Nonfiction, Feminism, True Crime, Crime, Spanish Literature, Womens, Journalism, Contemporary, Latin American, Ebooks
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Crime real](/tags/crime-real/), [Crimen](/tags/crimen/), [Literatura hispana](/tags/literatura-hispana/), [Mujeres](/tags/mujeres/), [Periodismo](/tags/periodismo/), [Contemporaneo](/tags/contemporaneo/), [Latino américa](/tags/latino-america/)
 - **Ficha en Goodreads:** [Chicas muertas](https://www.goodreads.com/book/show/22211783-chicas-muertas)
 
 ## Mi lectura
 
 - **Inicio:** 2019/02/28
 - **Fin:** 2019/03/06
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

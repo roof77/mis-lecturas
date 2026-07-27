@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Science Fiction
-- Audiobook
-- Book Club
+- Fantasía
+- Ficción
+- Ciencia ficción
+- Club de lectura
 - Paranormal
+- Realismo mágico
+- Adultos
+- Humor
+- Contemporaneo
 autores:
 - Daryl Gregory
+- Carles Andreu Saburit
 editoriales:
 - Blackie Books
 image:
@@ -33,14 +37,14 @@ Daryl Gregory entrega una ambiciosa, memorable y divertidísima historia familia
 
 ## Ficha del libro
 
-- **Autor:** Daryl Gregory
-- **Colaboradores:** Carles Andreu Saburit (Translator)
+- **Autor:** [Daryl Gregory](/autores/daryl-gregory/)
+- **Colaboradores:** [Carles Andreu Saburit](/autores/carles-andreu-saburit/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 552 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417059520 / 9788417059521
 - **Publicación original:** 2018-03-07
-- **Géneros:** Fantasy, Fiction, Science Fiction, Audiobook, Book Club, Paranormal, Magical Realism, Adult, Humor, Contemporary
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Paranormal](/tags/paranormal/), [Realismo mágico](/tags/realismo-magico/), [Adultos](/tags/adultos/), [Humor](/tags/humor/), [Contemporaneo](/tags/contemporaneo/)
 - **Nominaciones:** Nebula Award (2017), Locus Award (2018), World Fantasy Award (2018)
 - **Ficha en Goodreads:** [La extraordinaria familia Telemacus](https://www.goodreads.com/book/show/39084706-la-extraordinaria-familia-telemacus)
 
@@ -48,4 +52,4 @@ Daryl Gregory entrega una ambiciosa, memorable y divertidísima historia familia
 
 - **Inicio:** 2018/11/07
 - **Fin:** 2018/11/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

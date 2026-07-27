@@ -9,7 +9,8 @@ tags:
 - Lecturas
 - Comics
 autores:
-- Alan             Moore
+- Alan Moore
+- Jacen Burrows
 editoriales:
 - Panini España
 image:
@@ -24,18 +25,18 @@ Il capolavoro lovecraftiano di Alan Moore e Jacen Burrows raccolto in un prestig
 
 ## Ficha del libro
 
-- **Autor:** Alan             Moore
-- **Colaboradores:** Jacen Burrows (Author)
+- **Autor:** [Alan Moore](/autores/alan-moore/)
+- **Colaboradores:** [Jacen Burrows](/autores/jacen-burrows/) (Author)
 - **Editorial:** Panini España
 - **Formato:** Hardcover, 720 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841101634X / 9788411016346
 - **Publicación original:** 2022-09-29
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Providence](https://www.goodreads.com/book/show/62969532-providence)
 
 ## Mi lectura
 
 - **Inicio:** 2024/03/05
 - **Fin:** 2024/03/05
-- **Mi valoración:** ☆☆☆☆☆ (0/5)
+- **Calificación:** ☆☆☆☆☆ (0/5)

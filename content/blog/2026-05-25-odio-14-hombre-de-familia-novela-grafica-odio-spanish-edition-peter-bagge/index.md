@@ -8,6 +8,7 @@ tags:
 - Lecturas
 autores:
 - Peter Bagge
+- Hernán Migoya
 editoriales:
 - Ediciones La Cúpula, S.L.
 image:
@@ -22,9 +23,9 @@ Odio 14, Hombre de familia
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Odio: Hate (#14)
-- **Colaboradores:** Hernán Migoya (Translator)
+- **Colaboradores:** [Hernán Migoya](/autores/hernan-migoya/) (Translator)
 - **Editorial:** Ediciones La Cúpula, S.L.
 - **Formato:** Paperback, 52 páginas
 - **Idioma:** Spanish; Castilian
@@ -36,3 +37,4 @@ Odio 14, Hombre de familia
 
 - **Inicio:** 2026/05/25
 - **Fin:** 2026/05/25
+- **Calificación:** Muy bien/5

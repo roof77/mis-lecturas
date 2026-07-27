@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Historical Fiction
-- Science Fiction
-- Urban Fantasy
-- London
+- Fantasía
+- Ficción
+- Ficción histórica
+- Ciencia ficción
+- Fantasía urbana
+- Londres
+- Libros sobre libros
+- Histórico
+- Ficción especulativa
 autores:
 - Alan Moore
+- Juan Trejo
 editoriales:
 - Nocturna
 image:
@@ -29,19 +33,19 @@ El esperado retorno de Alan Moore a la novela, una oda a Londres y un tour de fo
 
 ## Ficha del libro
 
-- **Autor:** Alan Moore
+- **Autor:** [Alan Moore](/autores/alan-moore/)
 - **Serie:** The Long London Quintet  (#1)
-- **Colaboradores:** Juan Trejo (Translator)
+- **Colaboradores:** [Juan Trejo](/autores/juan-trejo/) (Translator)
 - **Editorial:** Nocturna
 - **Formato:** Kindle Edition, 387 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9791387690014
 - **Publicación original:** 2025-02-27
-- **Géneros:** Fantasy, Fiction, Historical Fiction, Science Fiction, Urban Fantasy, London, Books About Books, Audiobook, Historical, Speculative Fiction
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía urbana](/tags/fantasia-urbana/), [Londres](/tags/londres/), [Libros sobre libros](/tags/libros-sobre-libros/), [Histórico](/tags/historico/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Ficha en Goodreads:** [El Gran Cuando (Londres Eterno #1)](https://www.goodreads.com/book/show/228564741-el-gran-cuando)
 
 ## Mi lectura
 
 - **Inicio:** 2025/05/01
 - **Fin:** 2025/05/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

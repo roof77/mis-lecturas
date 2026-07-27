@@ -8,7 +8,7 @@ authors:
 tags:
 - Lecturas
 - Humor
-- Fiction
+- Ficción
 autores:
 - José C. Vales
 editoriales:
@@ -27,13 +27,13 @@ Novela de investigación, divertidísima, polifónica y extravagante, una obra q
 
 ## Ficha del libro
 
-- **Autor:** José C. Vales
+- **Autor:** [José C. Vales](/autores/jose-c-vales/)
 - **Editorial:** Destino
 - **Formato:** Hardcover, 456 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8423349284 / 9788423349289
 - **Publicación original:** 2015-01-01
-- **Géneros:** Humor, Fiction
+- **Géneros:** [Humor](/tags/humor/), [Ficción](/tags/ficcion/)
 - **Lugares:** Biarritz (France)
 - **Premios ganados:** Premio Nadal (2015)
 - **Ficha en Goodreads:** [Cabaret Biarritz](https://www.goodreads.com/book/show/24816973-cabaret-biarritz)
@@ -42,4 +42,4 @@ Novela de investigación, divertidísima, polifónica y extravagante, una obra q
 
 - **Inicio:** 2015/03/31
 - **Fin:** 2015/04/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

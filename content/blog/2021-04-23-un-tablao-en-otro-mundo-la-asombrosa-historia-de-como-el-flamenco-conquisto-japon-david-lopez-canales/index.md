@@ -23,7 +23,7 @@ En los años 50 del siglo pasado comenzaron a viajar a Japón los flamencos espa
 
 ## Ficha del libro
 
-- **Autor:** David López Canales
+- **Autor:** [David López Canales](/autores/david-lopez-canales/)
 - **Editorial:** Alianza
 - **Formato:** Paperback, 240 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ En los años 50 del siglo pasado comenzaron a viajar a Japón los flamencos espa
 
 - **Inicio:** 2021/04/07
 - **Fin:** 2021/04/23
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

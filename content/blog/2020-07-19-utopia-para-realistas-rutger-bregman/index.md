@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Politics
-- Economics
-- Philosophy
-- History
-- Sociology
+- No Ficción
+- Política
+- Economía
+- Filosofía
+- Historia
+- Sociología
+- Sociedad
+- Ciencia
+- Negocios
 autores:
 - Rutger Bregman
 editoriales:
@@ -34,17 +37,17 @@ This guide to a revolutionary yet achievable utopia offers three core ideas-a un
 
 ## Ficha del libro
 
-- **Autor:** Rutger Bregman
+- **Autor:** [Rutger Bregman](/autores/rutger-bregman/)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849838799X / 9788498387995
 - **Publicación original:** 2017-03-01
-- **Géneros:** Nonfiction, Politics, Economics, Philosophy, History, Sociology, Audiobook, Society, Science, Business
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Política](/tags/politica/), [Economía](/tags/economia/), [Filosofía](/tags/filosofia/), [Historia](/tags/historia/), [Sociología](/tags/sociologia/), [Sociedad](/tags/sociedad/), [Ciencia](/tags/ciencia/), [Negocios](/tags/negocios/)
 - **Ficha en Goodreads:** [Utopía para realistas](https://www.goodreads.com/book/show/34651610-utop-a-para-realistas)
 
 ## Mi lectura
 
 - **Inicio:** 2020/06/24
 - **Fin:** 2020/07/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

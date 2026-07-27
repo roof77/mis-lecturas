@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Mystery
-- Magical Realism
-- Book Club
-- Mythology
+- Fantasía
+- Ficción
+- Misterio
+- Realismo mágico
+- Club de lectura
+- Mitología
+- Dark Academia
+- Ficción Literaria
+- Adultos
 autores:
 - Susanna Clarke
+- Antonio Padilla Esteban
 editoriales:
 - Salamandra
 image:
@@ -29,14 +33,14 @@ La casa de Piranesi no es un edificio cualquiera: sus habitaciones son monumenta
 
 ## Ficha del libro
 
-- **Autor:** Susanna Clarke
-- **Colaboradores:** Antonio Padilla Esteban (Translator)
+- **Autor:** [Susanna Clarke](/autores/susanna-clarke/)
+- **Colaboradores:** [Antonio Padilla Esteban](/autores/antonio-padilla-esteban/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 272 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418363282 / 9788418363283
 - **Publicación original:** 2021-09-16
-- **Géneros:** Fantasy, Fiction, Mystery, Magical Realism, Book Club, Mythology, Dark Academia, Audiobook, Literary Fiction, Adult
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Realismo mágico](/tags/realismo-magico/), [Club de lectura](/tags/club-de-lectura/), [Mitología](/tags/mitologia/), [Dark Academia](/tags/dark-academia/), [Ficción Literaria](/tags/ficcion-literaria/), [Adultos](/tags/adultos/)
 - **Personajes:** Piranesi, Other
 - **Lugares:** The House
 - **Premios ganados:** Audie Award (2021), Tähtifantasia Award (2022), Women's Prize for Fiction (2021), The Kitschies (2020), Premi Ictineu (2022)
@@ -47,4 +51,4 @@ La casa de Piranesi no es un edificio cualquiera: sus habitaciones son monumenta
 
 - **Inicio:** 2021/12/13
 - **Fin:** 2021/12/17
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

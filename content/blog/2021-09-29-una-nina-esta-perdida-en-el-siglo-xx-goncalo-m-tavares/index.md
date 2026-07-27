@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Portugal
-- Fiction
-- Portuguese Literature
+- Ficción
+- Literatura portuguesa
 - Romance
-- Literature
-- War
+- Literatura
+- Guerra
+- Contemporaneo
+- Novela
 autores:
 - Gonçalo M. Tavares
+- Rosa Martinez Alfaro
 editoriales:
 - Seix Barral
 image:
@@ -29,18 +32,18 @@ En la Europa del siglo xx un hombre enigmático que huye de su pasado y una ni�
 
 ## Ficha del libro
 
-- **Autor:** Gonçalo M. Tavares
-- **Colaboradores:** Rosa Martinez Alfaro (Translator)
+- **Autor:** [Gonçalo M. Tavares](/autores/goncalo-m-tavares/)
+- **Colaboradores:** [Rosa Martinez Alfaro](/autores/rosa-martinez-alfaro/) (Translator)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 233 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8432228915 / 9788432228919
 - **Publicación original:** 2016-03-08
-- **Géneros:** Portugal, Fiction, Portuguese Literature, Romance, Literature, War, Contemporary, Novels
+- **Géneros:** [Portugal](/tags/portugal/), [Ficción](/tags/ficcion/), [Literatura portuguesa](/tags/literatura-portuguesa/), [Romance](/tags/romance/), [Literatura](/tags/literatura/), [Guerra](/tags/guerra/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Una niña está perdida en el siglo XX](https://www.goodreads.com/book/show/29388408-una-ni-a-est-perdida-en-el-siglo-xx)
 
 ## Mi lectura
 
 - **Inicio:** 2021/09/28
 - **Fin:** 2021/09/29
-- **Mi valoración:** ☆☆☆☆☆ (0/5)
+- **Calificación:** ☆☆☆☆☆ (0/5)

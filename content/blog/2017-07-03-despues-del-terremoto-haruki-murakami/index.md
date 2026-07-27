@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Japan
-- Japanese Literature
-- Magical Realism
-- Contemporary
+- Relatos
+- Ficción
+- Japón
+- Literatura japanesa
+- Realismo mágico
+- Contemporaneo
+- Ásia
+- Literatura
+- Fantasía
 autores:
 - Haruki Murakami
+- Lourdes Porta Fuentes
 editoriales:
 - Tusquets
 image:
@@ -29,18 +33,18 @@ La magnitud del terremoto que en 1995 asoló la ciudad japonesa de Kobe, y que s
 
 ## Ficha del libro
 
-- **Autor:** Haruki Murakami
-- **Colaboradores:** Lourdes Porta Fuentes (Translator)
+- **Autor:** [Haruki Murakami](/autores/haruki-murakami/)
+- **Colaboradores:** [Lourdes Porta Fuentes](/autores/lourdes-porta-fuentes/) (Translator)
 - **Editorial:** Tusquets
 - **Formato:** Paperback, 190 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8483834499 / 9788483834497
 - **Publicación original:** 2013-02-05
-- **Géneros:** Short Stories, Fiction, Japan, Japanese Literature, Magical Realism, Contemporary, Asia, Literature, Fantasy, Audiobook
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Realismo mágico](/tags/realismo-magico/), [Contemporaneo](/tags/contemporaneo/), [Ásia](/tags/asia/), [Literatura](/tags/literatura/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Después del terremoto](https://www.goodreads.com/book/show/17331723-despu-s-del-terremoto)
 
 ## Mi lectura
 
 - **Inicio:** 2017/06/22
 - **Fin:** 2017/07/03
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

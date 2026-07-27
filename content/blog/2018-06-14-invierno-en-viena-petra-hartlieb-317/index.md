@@ -8,13 +8,18 @@ authors:
 tags:
 - Lecturas
 - Romance
-- Fiction
-- Historical Fiction
-- Historical
-- German Literature
-- Books About Books
+- Ficción
+- Ficción histórica
+- Histórico
+- Literatura alemana
+- Libros sobre libros
+- Adultos
+- Autoras
+- Comfortable
+- Novela
 autores:
 - Petra Hartlieb
+- Richard Gross
 editoriales:
 - Siruela
 image:
@@ -29,19 +34,19 @@ Viena, primeros años del siglo XX. Marie trabaja como niñera para la respetabl
 
 ## Ficha del libro
 
-- **Autor:** Petra Hartlieb
+- **Autor:** [Petra Hartlieb](/autores/petra-hartlieb/)
 - **Serie:** Marie (#1)
-- **Colaboradores:** Richard Gross (Translator)
+- **Colaboradores:** [Richard Gross](/autores/richard-gross/) (Translator)
 - **Editorial:** Siruela
 - **Formato:** Paperback, 152 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417151230 / 9788417151232
 - **Publicación original:** 2017-01-01
-- **Géneros:** Romance, Fiction, Historical Fiction, Historical, German Literature, Books About Books, Adult, Female Authors, Cozy, Novels
+- **Géneros:** [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Histórico](/tags/historico/), [Literatura alemana](/tags/literatura-alemana/), [Libros sobre libros](/tags/libros-sobre-libros/), [Adultos](/tags/adultos/), [Autoras](/tags/autoras/), [Comfortable](/tags/comfortable/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Invierno en Viena](https://www.goodreads.com/book/show/36243131-invierno-en-viena)
 
 ## Mi lectura
 
 - **Inicio:** 2025/01/24
 - **Fin:** 2018/06/14
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

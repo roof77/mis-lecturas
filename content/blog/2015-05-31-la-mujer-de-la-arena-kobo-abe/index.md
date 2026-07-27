@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Japan
-- Japanese Literature
-- Classics
-- Magical Realism
-- Literature
+- Ficción
+- Japón
+- Literatura japanesa
+- Clásico
+- Realismo mágico
+- Literatura
+- Novela
+- Ásia
+- Ficción Literaria
+- Siglo XX
 autores:
 - Kōbō Abe
+- Kazuya Sakai
 editoriales:
 - Siruela
 image:
@@ -29,14 +34,14 @@ La mujer de la arena se centra en la historia de un entomólogo, Jumpei, que, bu
 
 ## Ficha del libro
 
-- **Autor:** Kōbō Abe
-- **Colaboradores:** Kazuya Sakai (Translator)
+- **Autor:** [Kōbō Abe](/autores/kobo-abe/)
+- **Colaboradores:** [Kazuya Sakai](/autores/kazuya-sakai/) (Translator)
 - **Editorial:** Siruela
 - **Formato:** Paperback, 208 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478441964 / 9788478441969
 - **Publicación original:** 1994-03-01
-- **Géneros:** Fiction, Japan, Japanese Literature, Classics, Magical Realism, Literature, Novels, Asia, Literary Fiction, 20th Century
+- **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Clásico](/tags/clasico/), [Realismo mágico](/tags/realismo-magico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Ásia](/tags/asia/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/)
 - **Personajes:** Niki Jumpei
 - **Lugares:** Japan
 - **Premios ganados:** Prix du Meilleur Livre Étranger (-94665600000), Yomiuri Prize 読売文学賞 (-252432000000)
@@ -46,4 +51,4 @@ La mujer de la arena se centra en la historia de un entomólogo, Jumpei, que, bu
 
 - **Inicio:** 2015/05/31
 - **Fin:** 2015/05/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

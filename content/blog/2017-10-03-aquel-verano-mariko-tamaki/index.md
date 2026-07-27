@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Young Adult
+- Novela gráfica
+- Jovenes adultos
 - Comics
-- Fiction
-- Contemporary
-- Realistic Fiction
+- Ficción
+- Contemporaneo
+- Ficción realista
+- Coming of age
+- Libros prohibidos
+- Adolescencia
 autores:
 - Mariko Tamaki
+- Jillian Tamaki
 editoriales:
 - La Cúpula
 image:
@@ -32,14 +36,14 @@ En Aquel verano, las primas Mariko y Jillian Tamaki, autoras de la galardonada S
 
 ## Ficha del libro
 
-- **Autor:** Mariko Tamaki
-- **Colaboradores:** Jillian Tamaki (Author)
+- **Autor:** [Mariko Tamaki](/autores/mariko-tamaki/)
+- **Colaboradores:** [Jillian Tamaki](/autores/jillian-tamaki/) (Author)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 324 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415724721 / 9788415724728
 - **Publicación original:** 2014-07-01
-- **Géneros:** Graphic Novels, Young Adult, Comics, Fiction, Contemporary, Realistic Fiction, Coming Of Age, Graphic Novels Comics, Banned Books, Teen
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Jovenes adultos](/tags/jovenes-adultos/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción realista](/tags/ficcion-realista/), [Coming of age](/tags/coming-of-age/), [Libros prohibidos](/tags/libros-prohibidos/), [Adolescencia](/tags/adolescencia/)
 - **Lugares:** Ontario (Canada), Canada
 - **Premios ganados:** Governor General's Literary Awards / Prix littéraires du Gouverneur général (2014), Gran Guinigi (2014), Will Eisner Comic Industry Awards (2015)
 - **Nominaciones:** Caldecott Medal (2015), Harvey Awards (2015), Michael L. Printz Award (2015), Goodreads Choice Award (2014), Readers' Favorite Graphic Novels & Comics (2014)
@@ -49,4 +53,4 @@ En Aquel verano, las primas Mariko y Jillian Tamaki, autoras de la galardonada S
 
 - **Inicio:** 2017/10/03
 - **Fin:** 2017/10/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

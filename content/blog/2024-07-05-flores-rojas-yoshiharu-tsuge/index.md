@@ -29,16 +29,16 @@ Flores rojas es una celebración de los encantos y las contradicciones del Japó
 
 ## Ficha del libro
 
-- **Autor:** Yoshiharu Tsuge
+- **Autor:** [Yoshiharu Tsuge](/autores/yoshiharu-tsuge/)
 - **Editorial:** Gallo Nero
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2022-04-01
-- **Géneros:** Manga, Comics
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Flores rojas](https://www.goodreads.com/book/show/60766670-flores-rojas)
 
 ## Mi lectura
 
 - **Inicio:** 2024/07/03
 - **Fin:** 2024/07/05
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

@@ -8,13 +8,14 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Humor
-- Spanish Literature
-- Graphic Novels Comics
-- Cultural
+- Literatura hispana
+- Manga
+- Contemporaneo
 autores:
 - Moderna de Pueblo
+- Carlos Carrero
 editoriales:
 - Lumen
 image:
@@ -29,18 +30,18 @@ Algunos modernos, además de llevar pantalones de pitillo y no saltarse  ni un f
 
 ## Ficha del libro
 
-- **Autor:** Moderna de Pueblo
-- **Colaboradores:** Carlos Carrero (Author)
+- **Autor:** [Moderna de Pueblo](/autores/moderna-de-pueblo/)
+- **Colaboradores:** [Carlos Carrero](/autores/carlos-carrero/) (Author)
 - **Editorial:** Lumen
 - **Formato:** Paperback, 127 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8426400248 / 9788426400246
 - **Publicación original:** 2014-05-15
-- **Géneros:** Comics, Graphic Novels, Humor, Spanish Literature, Graphic Novels Comics, Cultural, Comics Manga, Contemporary, Comic Book
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Humor](/tags/humor/), [Literatura hispana](/tags/literatura-hispana/), [Manga](/tags/manga/), [Contemporaneo](/tags/contemporaneo/)
 - **Ficha en Goodreads:** [Cooltureta](https://www.goodreads.com/book/show/22089227-cooltureta)
 
 ## Mi lectura
 
 - **Inicio:** 2025/08/30
 - **Fin:** 2025/09/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -8,6 +8,7 @@ tags:
 - Lecturas
 autores:
 - Tessa Hadley
+- Magdalena Teresa Palmer Molera
 editoriales:
 - Narrativa
 image:
@@ -18,8 +19,8 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Tessa Hadley
-- **Colaboradores:** Magdalena Teresa Palmer Molera (Translator)
+- **Autor:** [Tessa Hadley](/autores/tessa-hadley/)
+- **Colaboradores:** [Magdalena Teresa Palmer Molera](/autores/magdalena-teresa-palmer-molera/) (Translator)
 - **Editorial:** Narrativa
 - **Formato:** Paperback, 108 páginas
 - **Idioma:** Spanish; Castilian
@@ -31,4 +32,4 @@ image:
 
 - **Inicio:** 2025/11/21
 - **Fin:** 2025/11/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

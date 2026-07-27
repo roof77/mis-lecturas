@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Music
-- Nonfiction
-- Memoir
-- Biography
-- Audiobook
-- Autobiography
+- Música
+- No Ficción
+- Memorias
+- Biografía
+- Autobiografía
+- Feminismo
+- Arte
+- Mujeres
 autores:
-- Kim  Gordon
+- Kim Gordon
 editoriales:
 - Editorial Contra
 image:
@@ -35,13 +37,13 @@ La chica del grupo explora de manera inteligente y crítica el punto de vista de
 
 ## Ficha del libro
 
-- **Autor:** Kim  Gordon
+- **Autor:** [Kim Gordon](/autores/kim-gordon/)
 - **Editorial:** Editorial Contra
 - **Formato:** Paperback, 344 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494216783 / 9788494216787
 - **Publicación original:** 2015-02-25
-- **Géneros:** Music, Nonfiction, Memoir, Biography, Audiobook, Autobiography, Biography Memoir, Feminism, Art, Womens
+- **Géneros:** [Música](/tags/musica/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Autobiografía](/tags/autobiografia/), [Feminismo](/tags/feminismo/), [Arte](/tags/arte/), [Mujeres](/tags/mujeres/)
 - **Nominaciones:** Goodreads Choice Award (2015), Readers' Favorite Memoir & Autobiography (2015)
 - **Ficha en Goodreads:** [La chica del grupo](https://www.goodreads.com/book/show/24698360-la-chica-del-grupo)
 
@@ -49,4 +51,4 @@ La chica del grupo explora de manera inteligente y crítica el punto de vista de
 
 - **Inicio:** 2017/12/09
 - **Fin:** 2017/12/16
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

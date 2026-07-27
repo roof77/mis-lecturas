@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Literary Fiction
-- Audiobook
-- Mental Health
-- Book Club
+- Ficción
+- Contemporaneo
+- Ficción Literaria
+- Salud mentál
+- Club de lectura
+- Adultos
+- Novela
+- Ficción adulta
+- Nueva York
 autores:
 - Ottessa Moshfegh
+- Inmaculada Concepción Pérez Parra
 editoriales:
 - Alfaguara
 image:
@@ -29,14 +33,14 @@ En Mi año de descanso y relajación, Ottessa Moshfegh hace de Manhattan el epic
 
 ## Ficha del libro
 
-- **Autor:** Ottessa Moshfegh
-- **Colaboradores:** Inmaculada Concepción Pérez Parra (Translator)
+- **Autor:** [Ottessa Moshfegh](/autores/ottessa-moshfegh/)
+- **Colaboradores:** [Inmaculada Concepción Pérez Parra](/autores/inmaculada-concepcion-perez-parra/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420434906 / 9788420434902
 - **Publicación original:** 2019-01-17
-- **Géneros:** Fiction, Contemporary, Literary Fiction, Audiobook, Mental Health, Book Club, Adult, Novels, Adult Fiction, New York
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Salud mentál](/tags/salud-mental/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Novela](/tags/novela/), [Ficción adulta](/tags/ficcion-adulta/), [Nueva York](/tags/nueva-york/)
 - **Lugares:** New York City, New York (United States), Manhattan, New York City, New York (United States), Upper East Side, New York City, New York (United States)
 - **Nominaciones:** Wellcome Book Prize (2019), Goodreads Choice Award (2018), Readers' Favorite Fiction (2018)
 - **Ficha en Goodreads:** [Mi año de descanso y relajación](https://www.goodreads.com/book/show/43185028-mi-a-o-de-descanso-y-relajaci-n)
@@ -45,4 +49,4 @@ En Mi año de descanso y relajación, Ottessa Moshfegh hace de Manhattan el epic
 
 - **Inicio:** 2023/02/14
 - **Fin:** 2023/02/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

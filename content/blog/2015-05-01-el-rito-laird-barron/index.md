@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Fantasy
-- Lovecraftian
-- Weird Fiction
+- Terror
+- Ficción
+- Fantasía
+- Lovecraftiano
+- Ficción extraña
 - Paranormal
+- Sobrenatural
+- Adultos
+- Thriller
 autores:
 - Laird Barron
+- Rubén Martín Giráldez
 editoriales:
 - Valdemar
 image:
@@ -31,14 +35,14 @@ Donald Miller, geólogo y académico, ha vivido casi toda su afortunada existenc
 
 ## Ficha del libro
 
-- **Autor:** Laird Barron
-- **Colaboradores:** Rubén Martín Giráldez (Translator)
+- **Autor:** [Laird Barron](/autores/laird-barron/)
+- **Colaboradores:** [Rubén Martín Giráldez](/autores/ruben-martin-giraldez/) (Translator)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477027773 / 9788477027775
 - **Publicación original:** 2014-09-17
-- **Géneros:** Horror, Fiction, Fantasy, Lovecraftian, Weird Fiction, Paranormal, Audiobook, Supernatural, Adult, Horror Thriller
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Lovecraftiano](/tags/lovecraftiano/), [Ficción extraña](/tags/ficcion-extrana/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/), [Adultos](/tags/adultos/), [Thriller](/tags/thriller/)
 - **Nominaciones:** Goodreads Choice Award (2012), Readers' Favorite Horror (2012)
 - **Ficha en Goodreads:** [El rito](https://www.goodreads.com/book/show/22878772-el-rito)
 
@@ -46,4 +50,4 @@ Donald Miller, geólogo y académico, ha vivido casi toda su afortunada existenc
 
 - **Inicio:** 2015/04/28
 - **Fin:** 2015/05/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

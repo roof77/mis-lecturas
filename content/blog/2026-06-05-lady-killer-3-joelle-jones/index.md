@@ -8,12 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Historical Fiction
-- Comic Book
+- Novela gráfica
+- Ficción histórica
 autores:
 - Joëlle Jones
+- Jamie S. Rich
+- Laura Allred
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25069392-lady-killer-3)'
 ---
@@ -32,15 +32,16 @@ The pressure is on for Josie as the conflict increases between her cozy suburban
 
 ## Ficha del libro
 
-- **Autor:** Joëlle Jones
+- **Autor:** [Joëlle Jones](/autores/joelle-jones/)
 - **Serie:** Lady Killer (Single Issues)
-- **Colaboradores:** Jamie S. Rich (Writer), Laura Allred (Colorist)
+- **Colaboradores:** [Jamie S. Rich](/autores/jamie-s-rich/) (Writer), [Laura Allred](/autores/laura-allred/) (Colorist)
 - **Formato:** Unknown Binding, 26 páginas
 - **Publicación original:** 2015-03-01
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Historical Fiction, Comic Book
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción histórica](/tags/ficcion-historica/)
 - **Ficha en Goodreads:** [Lady Killer #3](https://www.goodreads.com/book/show/25069392-lady-killer-3)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/05
+- **Calificación:** Pasable/5

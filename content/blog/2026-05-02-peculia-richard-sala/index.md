@@ -8,11 +8,9 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Horror
-- Fiction
-- Comix
-- Graphic Novels Comics
+- Novela gráfica
+- Terror
+- Ficción
 autores:
 - Richard Sala
 editoriales:
@@ -31,17 +29,18 @@ Collects Evil Eye #1-9 and a brand new colour chapter Doll Parts.
 
 ## Ficha del libro
 
-- **Autor:** Richard Sala
+- **Autor:** [Richard Sala](/autores/richard-sala/)
 - **Serie:** Peculia (#1)
 - **Editorial:** Fantagraphics Books
 - **Formato:** Paperback, 104 páginas
 - **Idioma:** English
 - **ISBN:** 1560974958 / 9781560974956
 - **Publicación original:** 2002-10-13
-- **Géneros:** Comics, Graphic Novels, Horror, Fiction, Comix, Graphic Novels Comics, Sequential Art
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Peculia](https://www.goodreads.com/book/show/808944.Peculia)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/01
 - **Fin:** 2026/05/02
+- **Calificación:** Muy bien/5

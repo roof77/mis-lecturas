@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Audiobook
-- Young Adult
-- Fantasy
-- Science Fiction Fantasy
+- Ciencia ficción
+- Ficción
+- Jovenes adultos
+- Fantasía
+- Ciencia Ficción
+- Aventuras
+- Extraterrestres
+- Adultos
+- Espacio
 autores:
 - Ernest Cline
+- David Tejera Expósito
 editoriales:
 - Ediciones B
 image:
@@ -34,14 +38,14 @@ Al fin Zack se va convertir en un héroe. Pero a pesar del terror y la emoción 
 
 ## Ficha del libro
 
-- **Autor:** Ernest Cline
-- **Colaboradores:** David Tejera Expósito (Translator)
+- **Autor:** [Ernest Cline](/autores/ernest-cline/)
+- **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 428 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8466658939 / 9788466658935
 - **Publicación original:** 2016-03-30
-- **Géneros:** Science Fiction, Fiction, Audiobook, Young Adult, Fantasy, Science Fiction Fantasy, Adventure, Aliens, Adult, Space
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Aventuras](/tags/aventuras/), [Extraterrestres](/tags/extraterrestres/), [Adultos](/tags/adultos/), [Espacio](/tags/espacio/)
 - **Personajes:** Zackary Lightman, Alexis Larkin, Xavier Ulysses Lightman, Pamela Lightman
 - **Premios ganados:** Golden Duck Award (2016)
 - **Nominaciones:** Goodreads Choice Award (2015), Readers' Favorite Science Fiction (2015)
@@ -51,4 +55,4 @@ Al fin Zack se va convertir en un héroe. Pero a pesar del terror y la emoción 
 
 - **Inicio:** 2017/01/25
 - **Fin:** 2017/01/31
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -9,10 +9,10 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Bande Dessinée
-- Graphic Novels
+- Novela gráfica
 - Drama
-- Comics Manga
+- Seinen manga
+- Japón
 autores:
 - Kazuo Kamimura
 editoriales:
@@ -31,18 +31,18 @@ Kazuo Kamimura (Yokosuka, Japón, 1940-1986) fue conocido como “el pintor ukiy
 
 ## Ficha del libro
 
-- **Autor:** Kazuo Kamimura
+- **Autor:** [Kazuo Kamimura](/autores/kazuo-kamimura/)
 - **Serie:** Rikon Club (#1)
 - **Editorial:** ECC
 - **Formato:** Paperback, 504 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417206477 / 9788417206475
 - **Publicación original:** 2017-10-01
-- **Géneros:** Manga, Comics, Bande Dessinée, Graphic Novels, Drama, Comics Manga, Seinen, Japan
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Drama](/tags/drama/), [Seinen manga](/tags/seinen-manga/), [Japón](/tags/japon/)
 - **Ficha en Goodreads:** [El club del divorcio 1 (de 2)](https://www.goodreads.com/book/show/36436640-el-club-del-divorcio-1)
 
 ## Mi lectura
 
 - **Inicio:** 2025/02/13
 - **Fin:** 2025/02/16
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

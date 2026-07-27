@@ -8,13 +8,18 @@ authors:
 tags:
 - Lecturas
 - Romance
-- Graphic Novels
-- LGBT
-- Young Adult
+- Novela gráfica
+- LGTBIQ+
+- Jovenes adultos
 - Queer
-- Contemporary
+- Contemporaneo
+- Comics
+- Ficción
+- Gay
+- Salud mentál
 autores:
 - Alice Oseman
+- Victoria Simó Perales
 editoriales:
 - Crossbooks
 image:
@@ -35,18 +40,19 @@ Contains discussions around mental health and eating disorders, and sexual refer
 
 ## Ficha del libro
 
-- **Autor:** Alice Oseman
+- **Autor:** [Alice Oseman](/autores/alice-oseman/)
 - **Serie:** Heartstopper (#6)
-- **Colaboradores:** Victoria Simó Perales (Translator)
+- **Colaboradores:** [Victoria Simó Perales](/autores/victoria-simo-perales/) (Translator)
 - **Editorial:** Crossbooks
 - **Formato:** Paperback, 448 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408323075 / 9788408323075
 - **Publicación original:** 2026-07-15
-- **Géneros:** Romance, Graphic Novels, LGBT, Young Adult, Queer, Contemporary, Comics, Fiction, Gay, Mental Health
+- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/), [Salud mentál](/tags/salud-mental/)
 - **Ficha en Goodreads:** [Heartstopper 6. Entrelazados](https://www.goodreads.com/book/show/251710663-heartstopper-6-entrelazados)
 
 ## Mi lectura
 
 - **Inicio:** 2026/07/19
 - **Fin:** 2026/07/19
+- **Calificación:** Muy recomendable/5

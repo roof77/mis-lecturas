@@ -7,8 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Spanish Literature
+- Terror
+- Literatura hispana
 autores:
 - Jesús Cañadas
 editoriales:
@@ -33,17 +33,17 @@ Así que vamos, vuélvete a tu coche. Acurrúcate en el asiento. Cierra por dent
 
 ## Ficha del libro
 
-- **Autor:** Jesús Cañadas
+- **Autor:** [Jesús Cañadas](/autores/jesus-canadas/)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 847702801X / 9788477028017
 - **Publicación original:** 2015-05-27
-- **Géneros:** Horror, Spanish Literature
+- **Géneros:** [Terror](/tags/terror/), [Literatura hispana](/tags/literatura-hispana/)
 - **Ficha en Goodreads:** [Pronto será de noche](https://www.goodreads.com/book/show/25479309-pronto-ser-de-noche)
 
 ## Mi lectura
 
 - **Inicio:** 2016/01/07
 - **Fin:** 2016/01/08
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -8,11 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Memoir
-- Comix
-- Nonfiction
+- Novela gráfica
+- Memorias
+- No Ficción
+- Autobiografía
+- Biografía
+- Siglo XXI
 autores:
 - Joe Matt
 editoriales:
@@ -29,17 +30,18 @@ Meet the original antihero Joe Matt: a master of a domain that includes more tha
 
 ## Ficha del libro
 
-- **Autor:** Joe Matt
+- **Autor:** [Joe Matt](/autores/joe-matt/)
 - **Serie:** Peepshow (#11-14)
 - **Editorial:** Fulgencio Pimentel
 - **Formato:** Paperback, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788493608132
 - **Publicación original:** 2011-03-01
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Memoir, Comix, Nonfiction, Autobiography, Bande Dessinée, Biography, 21st Century
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Autobiografía](/tags/autobiografia/), [Biografía](/tags/biografia/), [Siglo XXI](/tags/siglo-xxi/)
 - **Ficha en Goodreads:** [Consumido](https://www.goodreads.com/book/show/12152073-consumido)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/31
 - **Fin:** 2026/05/31
+- **Calificación:** Entretenido/5

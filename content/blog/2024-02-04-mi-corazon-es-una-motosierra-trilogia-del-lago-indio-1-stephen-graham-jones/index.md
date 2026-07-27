@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Thriller
-- Mystery
-- Audiobook
-- Adult
+- Misterio
+- Adultos
+- Índigenas
+- Contemporaneo
 autores:
 - Stephen Graham Jones
+- Manuel de los Reyes
+- Rafael Martín Coronel
 editoriales:
 - La Biblioteca de Carfax
 image:
@@ -29,15 +32,15 @@ Jade Daniels es una adolescente fanática de los slashers que vive en Proofrock,
 
 ## Ficha del libro
 
-- **Autor:** Stephen Graham Jones
+- **Autor:** [Stephen Graham Jones](/autores/stephen-graham-jones/)
 - **Serie:** The Indian Lake Trilogy (#1)
-- **Colaboradores:** Manuel de los Reyes (Translator), Rafael Martín Coronel (Illustrator)
+- **Colaboradores:** [Manuel de los Reyes](/autores/manuel-de-los-reyes/) (Translator), [Rafael Martín Coronel](/autores/rafael-martin-coronel/) (Illustrator)
 - **Editorial:** La Biblioteca de Carfax
 - **Formato:** Paperback, 464 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788412564 / 9788412564051
 - **Publicación original:** 2023-10-30
-- **Géneros:** Horror, Fiction, Thriller, Mystery, Audiobook, Adult, Indigenous, Mystery Thriller, Horror Thriller, Contemporary
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Índigenas](/tags/indigenas/), [Contemporaneo](/tags/contemporaneo/)
 - **Personajes:** Jade Daniels, Letha Mondragon, Theo Mondragon
 - **Lugares:** Idaho (United States), Midwest (United States)
 - **Premios ganados:** Bram Stoker Award (2022), Locus Award (2022), Shirley Jackson Award (2021)
@@ -48,4 +51,4 @@ Jade Daniels es una adolescente fanática de los slashers que vive en Proofrock,
 
 - **Inicio:** 2024/01/24
 - **Fin:** 2024/02/04
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

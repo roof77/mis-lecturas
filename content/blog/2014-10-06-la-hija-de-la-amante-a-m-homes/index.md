@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Memoir
-- Nonfiction
-- Adoption
-- Biography
-- Biography Memoir
-- Book Club
+- Memorias
+- No Ficción
+- Adopción
+- Biografía
+- Club de lectura
+- Autobiografía
+- Familia
+- Adultos
 autores:
 - A.M. Homes
+- Jaime Zulaika
 editoriales:
 - Anagrama
 image:
@@ -31,18 +34,18 @@ La adopción de A. M. Homes fue apalabrada antes de que naciera. Su madre bioló
 
 ## Ficha del libro
 
-- **Autor:** A.M. Homes
-- **Colaboradores:** Jaime Zulaika (Translator)
+- **Autor:** [A.M. Homes](/autores/a-m-homes/)
+- **Colaboradores:** [Jaime Zulaika](/autores/jaime-zulaika/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 220 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433974912 / 9788433974914
 - **Publicación original:** 2008-10-31
-- **Géneros:** Memoir, Nonfiction, Adoption, Biography, Biography Memoir, Book Club, Audiobook, Autobiography, Family, Adult
+- **Géneros:** [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Adopción](/tags/adopcion/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Autobiografía](/tags/autobiografia/), [Familia](/tags/familia/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [La hija de la amante](https://www.goodreads.com/book/show/15859712-la-hija-de-la-amante)
 
 ## Mi lectura
 
 - **Inicio:** 2014/10/03
 - **Fin:** 2014/10/06
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

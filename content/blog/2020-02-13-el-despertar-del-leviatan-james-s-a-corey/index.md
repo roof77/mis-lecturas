@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
+- Ciencia ficción
+- Ficción
 - Space Opera
-- Audiobook
-- Fantasy
-- Space
+- Fantasía
+- Espacio
+- Ciencia Ficción
+- Misterio
+- Terror
+- Adultos
 autores:
 - James S.A. Corey
+- David Tejera Expósito
 editoriales:
 - Ediciones B
 image:
@@ -39,15 +43,15 @@ Detrás del seudónimo de James S. A. Corey se esconden el autor de ciencia ficc
 
 ## Ficha del libro
 
-- **Autor:** James S.A. Corey
+- **Autor:** [James S.A. Corey](/autores/james-s-a-corey/)
 - **Serie:** The Expanse (#1)
-- **Colaboradores:** David Tejera Expósito (Translator)
+- **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 608 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8466660151 / 9788466660150
 - **Publicación original:** 2016-11-09
-- **Géneros:** Science Fiction, Fiction, Space Opera, Audiobook, Fantasy, Space, Science Fiction Fantasy, Mystery, Horror, Adult
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Space Opera](/tags/space-opera/), [Fantasía](/tags/fantasia/), [Espacio](/tags/espacio/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Misterio](/tags/misterio/), [Terror](/tags/terror/), [Adultos](/tags/adultos/)
 - **Personajes:** James "Jim" Holden, Josephus "Joe" Aloisus Miller, Julie Mao, Naomi Nagata, Alex Kamal, Frederick "Fred" Lucius Johnson, Amos Burton
 - **Nominaciones:** Hugo Award (2012), Locus Award (2012), Audie Award (2012), Goodreads Choice Award (2011), Readers' Favorite Science Fiction (2011)
 - **Ficha en Goodreads:** [El despertar del leviatán](https://www.goodreads.com/book/show/32023743-el-despertar-del-leviat-n)
@@ -56,4 +60,4 @@ Detrás del seudónimo de James S. A. Corey se esconden el autor de ciencia ficc
 
 - **Inicio:** 2020/01/29
 - **Fin:** 2020/02/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

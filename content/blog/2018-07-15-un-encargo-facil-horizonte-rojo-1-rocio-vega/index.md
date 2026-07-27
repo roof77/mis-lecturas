@@ -7,11 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- LGBT
-- Fiction
-- Short Stories
-- Spanish Literature
+- Ciencia ficción
+- LGTBIQ+
+- Ficción
+- Relatos
+- Literatura hispana
 autores:
 - Rocío Vega
 editoriales:
@@ -34,17 +34,17 @@ Horizonte Rojo es la nueva saga de Rocío Vega, una space opera que mezcla acci�
 
 ## Ficha del libro
 
-- **Autor:** Rocío Vega
+- **Autor:** [Rocío Vega](/autores/rocio-vega/)
 - **Serie:** Horizonte Rojo (#1)
 - **Editorial:** Editorial Café con leche
 - **Formato:** Kindle Edition, 95 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2016-02-29
-- **Géneros:** Science Fiction, LGBT, Fiction, Short Stories, Spanish Literature
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Literatura hispana](/tags/literatura-hispana/)
 - **Ficha en Goodreads:** [Un encargo fácil (Horizonte Rojo #1)](https://www.goodreads.com/book/show/29367864-un-encargo-f-cil)
 
 ## Mi lectura
 
 - **Inicio:** 2018/07/12
 - **Fin:** 2018/07/15
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

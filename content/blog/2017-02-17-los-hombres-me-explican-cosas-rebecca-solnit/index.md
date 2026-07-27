@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Feminism
-- Essays
-- Politics
-- Womens
-- Gender
+- No Ficción
+- Feminismo
+- Ensayo
+- Política
+- Mujeres
+- Género
+- Memorias
+- Club de lectura
+- Justicia social
 autores:
 - Rebecca Solnit
+- Paula Martín Ponz
 editoriales:
 - Capitán Swing
 image:
@@ -31,14 +35,14 @@ El término mansplaining conjuga man («hombre») y explaining («explica»), en
 
 ## Ficha del libro
 
-- **Autor:** Rebecca Solnit
-- **Colaboradores:** Paula Martín Ponz (Translator)
+- **Autor:** [Rebecca Solnit](/autores/rebecca-solnit/)
+- **Colaboradores:** [Paula Martín Ponz](/autores/paula-martin-ponz/) (Translator)
 - **Editorial:** Capitán Swing
 - **Formato:** Paperback, 143 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849454814X / 9788494548147
 - **Publicación original:** 2016-09-01
-- **Géneros:** Nonfiction, Feminism, Essays, Politics, Womens, Gender, Memoir, Book Club, Audiobook, Social Justice
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Ensayo](/tags/ensayo/), [Política](/tags/politica/), [Mujeres](/tags/mujeres/), [Género](/tags/genero/), [Memorias](/tags/memorias/), [Club de lectura](/tags/club-de-lectura/), [Justicia social](/tags/justicia-social/)
 - **Premios ganados:** Premio de los Libreros de Madrid (2017), Premios Fervenzas Literarias (2019)
 - **Nominaciones:** Goodreads Choice Award (2014), Readers' Favorite Nonfiction (2014)
 - **Ficha en Goodreads:** [Los hombres me explican cosas](https://www.goodreads.com/book/show/31574965-los-hombres-me-explican-cosas)
@@ -47,4 +51,4 @@ El término mansplaining conjuga man («hombre») y explaining («explica»), en
 
 - **Inicio:** 2017/02/12
 - **Fin:** 2017/02/17
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

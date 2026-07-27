@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Italy
-- Italian Literature
-- Audiobook
-- Literary Fiction
+- Ficción
+- Contemporaneo
+- Italia
+- Literatura italiana
+- Ficción Literaria
+- Coming of age
+- Humor
+- Novela
+- Familia
 autores:
 - Veronica Raimo
 editoriales:
@@ -29,13 +32,13 @@ Una novela desternillante y feroz sobre vínculos, pérdidas, desastres familiar
 
 ## Ficha del libro
 
-- **Autor:** Veronica Raimo
+- **Autor:** [Veronica Raimo](/autores/veronica-raimo/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 216 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841908963X / 9788419089632
 - **Publicación original:** 2023-09-25
-- **Géneros:** Fiction, Contemporary, Italy, Italian Literature, Audiobook, Literary Fiction, Coming Of Age, Humor, Novels, Family
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Italia](/tags/italia/), [Literatura italiana](/tags/literatura-italiana/), [Ficción Literaria](/tags/ficcion-literaria/), [Coming of age](/tags/coming-of-age/), [Humor](/tags/humor/), [Novela](/tags/novela/), [Familia](/tags/familia/)
 - **Lugares:** Italy
 - **Premios ganados:** Premio Strega Giovani (2022)
 - **Nominaciones:** Premio Strega (2022), International Booker Prize (2024)
@@ -45,4 +48,4 @@ Una novela desternillante y feroz sobre vínculos, pérdidas, desastres familiar
 
 - **Inicio:** 2025/05/31
 - **Fin:** 2025/06/02
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

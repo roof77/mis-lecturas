@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Self Help
-- Productivity
-- Personal Development
-- Reference
-- Audiobook
+- No Ficción
+- Autoayuda
+- Productividad
+- Desarrollo personal
+- Referencia
+- Negocios
+- Diario
+- Psicología
+- Escritura
 autores:
 - Ryder Carroll
+- Gemma Moraleda Díaz
 editoriales:
 - Editorial Planeta
 image:
@@ -35,18 +39,18 @@ Un libro revolucionario que te ayudará a poner orden, sacar más partido a tu t
 
 ## Ficha del libro
 
-- **Autor:** Ryder Carroll
-- **Colaboradores:** Gemma Moraleda Díaz (Traductor)
+- **Autor:** [Ryder Carroll](/autores/ryder-carroll/)
+- **Colaboradores:** [Gemma Moraleda Díaz](/autores/gemma-moraleda-diaz/) (Traductor)
 - **Editorial:** Editorial Planeta
 - **Formato:** Hardcover, 315 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408194410 / 9788408194415
 - **Publicación original:** 2018-10-23
-- **Géneros:** Nonfiction, Self Help, Productivity, Personal Development, Reference, Audiobook, Business, Journaling, Psychology, Writing
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Autoayuda](/tags/autoayuda/), [Productividad](/tags/productividad/), [Desarrollo personal](/tags/desarrollo-personal/), [Referencia](/tags/referencia/), [Negocios](/tags/negocios/), [Diario](/tags/diario/), [Psicología](/tags/psicologia/), [Escritura](/tags/escritura/)
 - **Ficha en Goodreads:** [El método Bullet Journal](https://www.goodreads.com/book/show/42441564-el-m-todo-bullet-journal)
 
 ## Mi lectura
 
 - **Inicio:** 2022/09/02
 - **Fin:** 2022/09/20
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

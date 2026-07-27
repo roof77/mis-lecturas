@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Japan
-- Fiction
-- Japanese Literature
-- Contemporary
+- Japón
+- Ficción
+- Literatura japanesa
+- Contemporaneo
 - Romance
-- Short Stories
+- Relatos
+- Ásia
+- Literatura asiática
+- Literatura
+- Adultos
 autores:
 - Hiromi Kawakami
 editoriales:
@@ -67,13 +71,13 @@ Revista Paula (Chile)
 
 ## Ficha del libro
 
-- **Autor:** Hiromi Kawakami
+- **Autor:** [Hiromi Kawakami](/autores/hiromi-kawakami/)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 202 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 842042630X / 9788420426303
 - **Publicación original:** 2017-05-04
-- **Géneros:** Japan, Fiction, Japanese Literature, Contemporary, Romance, Short Stories, Asia, Asian Literature, Literature, Adult
+- **Géneros:** [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/), [Relatos](/tags/relatos/), [Ásia](/tags/asia/), [Literatura asiática](/tags/literatura-asiatica/), [Literatura](/tags/literatura/), [Adultos](/tags/adultos/)
 - **Premios ganados:** PEN Translation Prize (2020)
 - **Ficha en Goodreads:** [Los amores de Nishino](https://www.goodreads.com/book/show/35086757-los-amores-de-nishino)
 
@@ -81,3 +85,4 @@ Revista Paula (Chile)
 
 - **Inicio:** 2026/04/14
 - **Fin:** 2026/04/16
+- **Calificación:** Recomendable/5

@@ -7,12 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Graphic Novels Comics
-- Young Adult
-- Comix
+- Ficción
+- Jovenes adultos
+- Familia
+- Niños
 autores:
 - Gilbert Hernández
 editoriales:
@@ -31,17 +31,17 @@ Con la maestría y la sensibilidad que se le conoce, Beto Hernandez no se limita
 
 ## Ficha del libro
 
-- **Autor:** Gilbert Hernández
+- **Autor:** [Gilbert Hernández](/autores/gilbert-hernandez/)
 - **Editorial:** Ediciones La Cúpula
 - **Formato:** Hardcover, 148 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415724578 / 9788415724575
 - **Publicación original:** 2014-02-01
-- **Géneros:** Graphic Novels, Comics, Fiction, Graphic Novels Comics, Young Adult, Comix, Comic Book, Family, Childrens, Sequential Art
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Familia](/tags/familia/), [Niños](/tags/ninos/)
 - **Ficha en Goodreads:** [Tiempo de canicas](https://www.goodreads.com/book/show/22079435-tiempo-de-canicas)
 
 ## Mi lectura
 
 - **Inicio:** 2025/05/14
 - **Fin:** 2025/05/17
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

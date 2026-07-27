@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- History
-- Psychology
-- Mental Health
-- Science
-- Audiobook
+- No Ficción
+- Historia
+- Psicología
+- Salud mentál
+- Ciencia
+- Salud
+- Referencia
+- Medicina
 autores:
 - Kate Summerscale
+- Haizea Beitia
 editoriales:
 - Blackie Books
 image:
@@ -34,17 +37,17 @@ A todos, sin excepción, nos obsesiona algo. Mientras la sociedad considera defe
 
 ## Ficha del libro
 
-- **Autor:** Kate Summerscale
-- **Colaboradores:** Haizea Beitia (Traducción)
+- **Autor:** [Kate Summerscale](/autores/kate-summerscale/)
+- **Colaboradores:** [Haizea Beitia](/autores/haizea-beitia/) (Traducción)
 - **Editorial:** Blackie Books
 - **Formato:** Cartoné, 312 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2023-02-08
-- **Géneros:** Nonfiction, History, Psychology, Mental Health, Science, Audiobook, Health, Reference, Medical, Medicine
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Psicología](/tags/psicologia/), [Salud mentál](/tags/salud-mental/), [Ciencia](/tags/ciencia/), [Salud](/tags/salud/), [Referencia](/tags/referencia/), [Medicina](/tags/medicina/)
 - **Ficha en Goodreads:** [Atlas de las Fobias y las Manías](https://www.goodreads.com/book/show/95317939-atlas-de-las-fobias-y-las-man-as)
 
 ## Mi lectura
 
 - **Inicio:** 2023/03/04
 - **Fin:** 2023/03/19
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

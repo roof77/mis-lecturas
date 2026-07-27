@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Feminism
-- Parenting
-- Sociology
-- Psychology
-- Womens
+- No Ficción
+- Feminismo
+- Paternidad
+- Sociología
+- Psicología
+- Mujeres
+- Autoayuda
+- Género
 autores:
 - Orna Donath
 editoriales:
@@ -35,17 +37,17 @@ En este ensayo controvertido, tan minucioso como iluminador, la socióloga Orna 
 
 ## Ficha del libro
 
-- **Autor:** Orna Donath
+- **Autor:** [Orna Donath](/autores/orna-donath/)
 - **Editorial:** Reservoir Books
 - **Formato:** Kindle Edition, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416709122 / 9788416709120
 - **Publicación original:** 2016-09-08
-- **Géneros:** Nonfiction, Feminism, Parenting, Sociology, Psychology, Womens, Audiobook, Self Help, Gender, Ebooks
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Paternidad](/tags/paternidad/), [Sociología](/tags/sociologia/), [Psicología](/tags/psicologia/), [Mujeres](/tags/mujeres/), [Autoayuda](/tags/autoayuda/), [Género](/tags/genero/)
 - **Ficha en Goodreads:** [Madres arrepentidas: Una mirada radical a la maternidad y sus falacias sociales](https://www.goodreads.com/book/show/31847321-madres-arrepentidas)
 
 ## Mi lectura
 
 - **Inicio:** 2016/10/18
 - **Fin:** 2016/11/08
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

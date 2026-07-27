@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- American
-- Novels
-- Literary Fiction
-- The United States Of America
+- Ficción
+- Clásico
+- EEUU
+- Novela
+- Ficción Literaria
+- Literatura
+- Siglo XX
+- Club de lectura
 autores:
 - Richard Yates
 editoriales:
@@ -29,13 +31,13 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Richard Yates
+- **Autor:** [Richard Yates](/autores/richard-yates/)
 - **Editorial:** ALFAGUARA
 - **Formato:** Paperback, 232 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420421537 / 9788420421537
 - **Publicación original:** 2008-12-23
-- **Géneros:** Fiction, Classics, American, Novels, Literary Fiction, The United States Of America, Literature, 20th Century, Americana, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Siglo XX](/tags/siglo-xx/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Emily Grimes, Sarah Grimes, Esther "Pookie" Grimes, Tony Wilson, Peter Wilson
 - **Lugares:** Long Island, New York (United States), New York City, New York (United States), New York (State) (United States), The United States of America
 - **Nominaciones:** National Book Critics Circle Award (1976)
@@ -45,4 +47,4 @@ image:
 
 - **Inicio:** 2018/05/24
 - **Fin:** 2018/05/29
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

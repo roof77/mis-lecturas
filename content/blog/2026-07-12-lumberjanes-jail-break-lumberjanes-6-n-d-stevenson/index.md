@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Graphic Novels Comics
-- Young Adult
-- Fiction
+- Novela gráfica
+- Fantasía
+- Jovenes adultos
+- Ficción
+- Aventuras
+- LGTBIQ+
+- Mágia
 autores:
 - N.D. Stevenson
+- Grace Ellis
+- Brooke A. Allen
 editoriales:
 - BOOM!Box
 image:
@@ -29,18 +33,19 @@ An intense game of Capture the Flag gets even crazier when mythical ancient bein
 
 ## Ficha del libro
 
-- **Autor:** N.D. Stevenson
+- **Autor:** [N.D. Stevenson](/autores/n-d-stevenson/)
 - **Serie:** Lumberjanes (Single Issues) (#6)
-- **Colaboradores:** Grace Ellis (Author), Brooke A. Allen (Illustrator)
+- **Colaboradores:** [Grace Ellis](/autores/grace-ellis/) (Author), [Brooke A. Allen](/autores/brooke-a-allen/) (Illustrator)
 - **Editorial:** BOOM!Box
 - **Formato:** Kindle Edition, 26 páginas
 - **Idioma:** English
 - **ISBN:** 1613986912 / 9781613986912
 - **Publicación original:** 2014-12-03
-- **Géneros:** Comics, Graphic Novels, Fantasy, Graphic Novels Comics, Young Adult, Fiction, Adventure, Comic Book, LGBT, Magic
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Aventuras](/tags/aventuras/), [LGTBIQ+](/tags/lgtbiq/), [Mágia](/tags/magia/)
 - **Ficha en Goodreads:** [Lumberjanes: Jail Break (Lumberjanes, #6)](https://www.goodreads.com/book/show/25233412-lumberjanes)
 
 ## Mi lectura
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
+- **Calificación:** Recomendable/5

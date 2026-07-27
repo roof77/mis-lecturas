@@ -7,11 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Humor
-- Short Stories
+- Relatos
 autores:
 - Sławomir Mrożek
+- Francesc Miravitlles
+- Bożena Zaboklicka
 editoriales:
 - Acantilado
 image:
@@ -26,18 +28,18 @@ Seguida con gran devoción, sobre todo en Polonia y Alemania, pero también en F
 
 ## Ficha del libro
 
-- **Autor:** Sławomir Mrożek
-- **Colaboradores:** Francesc Miravitlles (Translator), Bożena Zaboklicka (Translator)
+- **Autor:** [Sławomir Mrożek](/autores/sawomir-mrozek/)
+- **Colaboradores:** [Francesc Miravitlles](/autores/francesc-miravitlles/) (Translator), [Bożena Zaboklicka](/autores/bozena-zaboklicka/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8495359863 / 9788495359865
 - **Publicación original:** 2002-07-31
-- **Géneros:** Fiction, Humor, Short Stories
+- **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Relatos](/tags/relatos/)
 - **Ficha en Goodreads:** [La vida difícil](https://www.goodreads.com/book/show/6046799-la-vida-dif-cil)
 
 ## Mi lectura
 
 - **Inicio:** 2022/03/09
 - **Fin:** 2022/03/13
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

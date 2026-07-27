@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Fiction
-- Graphic Novels Comics
-- Comic Book
+- Novela gráfica
+- Fantasía
+- Ficción
+- Romance
+- Humor
+- Ciencia ficción
+- Adultos
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Astiberri
 image:
@@ -29,18 +32,19 @@ Suzie y Jon han robado los archivos de la Policía del Sexo y, junto con Ana, la
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals
-- **Colaboradores:** Chip Zdarsky (Author)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Author)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 120 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416880581 / 9788416880584
 - **Publicación original:** 2018-07-03
-- **Géneros:** Comics, Graphic Novels, Fantasy, Fiction, Graphic Novels Comics, Comic Book, Romance, Humor, Science Fiction, Adult
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Ciencia ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Sex Criminals, Vol. 3: Tres son multitud](https://www.goodreads.com/book/show/40792206-sex-criminals-vol-3)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/23
 - **Fin:** 2026/06/23
+- **Calificación:** Muy recomendable/5

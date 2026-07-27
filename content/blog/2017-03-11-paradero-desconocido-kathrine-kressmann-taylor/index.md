@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Classics
-- Short Stories
-- Historical
-- World War II
+- Ficción
+- Ficción histórica
+- Clásico
+- Relatos
+- Histórico
+- Segunda guerra mundial
+- Guerra
+- Holocausto
+- Alemania
+- Colegio
 autores:
 - Kathrine Kressmann Taylor
 editoriales:
@@ -29,13 +33,13 @@ Publicado en 1938 y acogido como una obra maestra, ésta es la historia de dos a
 
 ## Ficha del libro
 
-- **Autor:** Kathrine Kressmann Taylor
+- **Autor:** [Kathrine Kressmann Taylor](/autores/kathrine-kressmann-taylor/)
 - **Editorial:** RBA Libros
 - **Formato:** Hardcover, 82 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8479016841 / 9788479016845
 - **Publicación original:** 2000-11-09
-- **Géneros:** Fiction, Historical Fiction, Classics, Short Stories, Historical, World War II, War, Holocaust, Germany, School
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Histórico](/tags/historico/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Guerra](/tags/guerra/), [Holocausto](/tags/holocausto/), [Alemania](/tags/alemania/), [Colegio](/tags/colegio/)
 - **Personajes:** Martin Schulse, Max Eisenstein, Griselle Eisenstein
 - **Lugares:** Germany, San Francisco, California (United States), Munich (München) (Germany)
 - **Nominaciones:** Premi Llibreter de narrativa (2001)
@@ -45,4 +49,4 @@ Publicado en 1938 y acogido como una obra maestra, ésta es la historia de dos a
 
 - **Inicio:** 2017/03/11
 - **Fin:** 2017/03/11
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

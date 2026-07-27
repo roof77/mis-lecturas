@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Marvel
 - Superheroes
-- Fiction
-- Comic Book
+- Ficción
+- Ciencia ficción
+- Fantasía
 autores:
 - Stan Lee
+- Mœbius
+- Uriel López
 editoriales:
 - Panini Comics España (Marvel Comics)
 image:
@@ -33,15 +36,15 @@ Dibujo: Moebius
 
 ## Ficha del libro
 
-- **Autor:** Stan Lee
+- **Autor:** [Stan Lee](/autores/stan-lee/)
 - **Serie:** Silver Surfer (1988) (#1-2)
-- **Colaboradores:** Mœbius (Illustrator), Uriel López (traducción)
+- **Colaboradores:** [Mœbius](/autores/mbius/) (Illustrator), [Uriel López](/autores/uriel-lopez/) (traducción)
 - **Editorial:** Panini Comics España (Marvel Comics)
 - **Formato:** Hardcover, 80 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498857627 / 9788498857627
 - **Publicación original:** 2011-09-16
-- **Géneros:** Comics, Graphic Novels, Marvel, Superheroes, Fiction, Comic Book, Science Fiction, Bande Dessinée, Graphic Novels Comics, Fantasy
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Marvel](/tags/marvel/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/)
 - **Premios ganados:** Will Eisner Comic Industry Awards (1989)
 - **Ficha en Goodreads:** [Estela Plateada: Parábola](https://www.goodreads.com/book/show/12593546-estela-plateada)
 
@@ -49,4 +52,4 @@ Dibujo: Moebius
 
 - **Inicio:** 2025/03/27
 - **Fin:** 2025/03/27
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

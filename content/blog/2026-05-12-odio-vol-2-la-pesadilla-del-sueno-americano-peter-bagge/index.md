@@ -24,16 +24,17 @@ ODIO (HATE): 1991 HARVEY WINNER Best Cartoonist, Best New Series The bestselling
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Odio: Hate (#2)
 - **Editorial:** UNKNO
 - **Formato:** Paperback
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 1594971293 / 9781594971297
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio Vol. 2: La pesadilla del sueno Americano!](https://www.goodreads.com/book/show/1098703.Odio_Vol_2)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/12
 - **Fin:** 2026/05/12
+- **Calificación:** Recomendable/5

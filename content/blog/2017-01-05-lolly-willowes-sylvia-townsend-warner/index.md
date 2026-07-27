@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Fantasy
-- Feminism
-- Witches
-- Historical Fiction
+- Ficción
+- Clásico
+- Fantasía
+- Feminismo
+- Brujas
+- Ficción histórica
+- Novela
+- Ficción Literaria
+- Literatura británica
+- Siglo XX
 autores:
 - Sylvia Townsend Warner
+- Celia Montolío
 editoriales:
 - Siruela
 image:
@@ -31,18 +36,18 @@ Publicada en 1926 con un éxito inmediato, Lolly Willowes es la primera y más m
 
 ## Ficha del libro
 
-- **Autor:** Sylvia Townsend Warner
-- **Colaboradores:** Celia Montolío (translator)
+- **Autor:** [Sylvia Townsend Warner](/autores/sylvia-townsend-warner/)
+- **Colaboradores:** [Celia Montolío](/autores/celia-montolio/) (translator)
 - **Editorial:** Siruela
 - **Formato:** Paperback, 212 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416638780 / 9788416638789
 - **Publicación original:** 2016-01-01
-- **Géneros:** Fiction, Classics, Fantasy, Feminism, Witches, Historical Fiction, Novels, Literary Fiction, British Literature, 20th Century
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Fantasía](/tags/fantasia/), [Feminismo](/tags/feminismo/), [Brujas](/tags/brujas/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura británica](/tags/literatura-britanica/), [Siglo XX](/tags/siglo-xx/)
 - **Ficha en Goodreads:** [Lolly Willowes](https://www.goodreads.com/book/show/30981924-lolly-willowes)
 
 ## Mi lectura
 
 - **Inicio:** 2017/01/02
 - **Fin:** 2017/01/05
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

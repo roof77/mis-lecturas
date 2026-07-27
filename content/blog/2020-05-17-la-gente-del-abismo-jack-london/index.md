@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- History
-- Classics
-- Sociology
-- Politics
-- London
+- No Ficción
+- Historia
+- Clásico
+- Sociología
+- Política
+- Londres
+- Periodismo
+- Viajes
+- Literatura
+- EEUU
 autores:
 - Jack London
+- Javier Calvo
+- Iain Sinclair
 editoriales:
 - Gatopardo
 image:
@@ -33,14 +39,14 @@ Un texto lúcido y estremecedor. Una crítica social extraordinaria y una encend
 
 ## Ficha del libro
 
-- **Autor:** Jack London
-- **Colaboradores:** Javier Calvo (translator), Iain Sinclair (Contributor)
+- **Autor:** [Jack London](/autores/jack-london/)
+- **Colaboradores:** [Javier Calvo](/autores/javier-calvo/) (translator), [Iain Sinclair](/autores/iain-sinclair/) (Contributor)
 - **Editorial:** Gatopardo
 - **Formato:** Paperback, 280 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494426397 / 9788494426391
 - **Publicación original:** 2016-06-13
-- **Géneros:** Nonfiction, History, Classics, Sociology, Politics, London, Journalism, Travel, Literature, American
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Clásico](/tags/clasico/), [Sociología](/tags/sociologia/), [Política](/tags/politica/), [Londres](/tags/londres/), [Periodismo](/tags/periodismo/), [Viajes](/tags/viajes/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/)
 - **Personajes:** Jack London
 - **Lugares:** London, England
 - **Ficha en Goodreads:** [La gente del Abismo](https://www.goodreads.com/book/show/31309565-la-gente-del-abismo)
@@ -49,4 +55,4 @@ Un texto lúcido y estremecedor. Una crítica social extraordinaria y una encend
 
 - **Inicio:** 2020/05/13
 - **Fin:** 2020/05/17
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -9,6 +9,7 @@ tags:
 - Lecturas
 autores:
 - J. Michael Straczynski
+- Olivier Coipel
 editoriales:
 - Panini Comics España
 image:
@@ -24,9 +25,9 @@ El Hijo de Odín vuelve a la vida para protagonizar una fabulosa etapa con un eq
 
 ## Ficha del libro
 
-- **Autor:** J. Michael Straczynski
+- **Autor:** [J. Michael Straczynski](/autores/j-michael-straczynski/)
 - **Serie:** Thor: Marvel Deluxe (#1-3)
-- **Colaboradores:** Olivier Coipel (dibujo)
+- **Colaboradores:** [Olivier Coipel](/autores/olivier-coipel/) (dibujo)
 - **Editorial:** Panini Comics España
 - **Formato:** Hardcover, 488 páginas
 - **Idioma:** Spanish; Castilian
@@ -38,3 +39,4 @@ El Hijo de Odín vuelve a la vida para protagonizar una fabulosa etapa con un eq
 
 - **Inicio:** 2026/07/08
 - **Fin:** 2026/07/11
+- **Calificación:** Muy recomendable/5

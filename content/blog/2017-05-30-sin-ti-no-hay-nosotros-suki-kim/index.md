@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Memoir
-- History
-- Politics
-- Asia
-- Biography
+- No Ficción
+- Memorias
+- Historia
+- Política
+- Ásia
+- Biografía
+- Club de lectura
+- Viajes
 autores:
 - Suki Kim
+- Pablo Álvarez Ellacuría
 editoriales:
 - Blackie Books
 image:
@@ -30,17 +33,17 @@ Pocos meses antes, Suki Kim, ciudadana estadounidense nacida en Corea del Sur, l
 
 ## Ficha del libro
 
-- **Autor:** Suki Kim
-- **Colaboradores:** Pablo Álvarez Ellacuría (translator)
+- **Autor:** [Suki Kim](/autores/suki-kim/)
+- **Colaboradores:** [Pablo Álvarez Ellacuría](/autores/pablo-alvarez-ellacuria/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Paperback, 324 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2015-01-01
-- **Géneros:** Nonfiction, Memoir, History, Politics, Asia, Biography, Book Club, Audiobook, Biography Memoir, Travel
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Historia](/tags/historia/), [Política](/tags/politica/), [Ásia](/tags/asia/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Viajes](/tags/viajes/)
 - **Ficha en Goodreads:** [Sin ti no hay nosotros](https://www.goodreads.com/book/show/25001116-sin-ti-no-hay-nosotros)
 
 ## Mi lectura
 
 - **Inicio:** 2017/05/14
 - **Fin:** 2017/05/30
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

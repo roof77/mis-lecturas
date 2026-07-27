@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Anthropology
-- Nonfiction
-- Africa
-- Travel
+- Antropología
+- No Ficción
+- África
+- Viajes
 - Humor
-- Science
+- Ciencia
+- Sociología
+- Memorias
+- Biografía
+- Ciencias sociales
 autores:
 - Nigel Barley
+- María José Rodellar
+- Alberto Cardín
 editoriales:
 - Editorial Anagrama
 image:
@@ -31,19 +37,19 @@ Después de esta experiencia, el autor se incorporó al Museo Británico, cuyo d
 
 ## Ficha del libro
 
-- **Autor:** Nigel Barley
+- **Autor:** [Nigel Barley](/autores/nigel-barley/)
 - **Serie:** The Innocent Anthropologist (#1)
-- **Colaboradores:** María José Rodellar (Translator), Alberto Cardín (Contributor)
+- **Colaboradores:** [María José Rodellar](/autores/maria-jose-rodellar/) (Translator), [Alberto Cardín](/autores/alberto-cardin/) (Contributor)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433925180 / 9788433925183
 - **Publicación original:** 1994-02-28
-- **Géneros:** Anthropology, Nonfiction, Africa, Travel, Humor, Science, Sociology, Memoir, Biography, Social Science
+- **Géneros:** [Antropología](/tags/antropologia/), [No Ficción](/tags/no-ficcion/), [África](/tags/africa/), [Viajes](/tags/viajes/), [Humor](/tags/humor/), [Ciencia](/tags/ciencia/), [Sociología](/tags/sociologia/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Ciencias sociales](/tags/ciencias-sociales/)
 - **Ficha en Goodreads:** [El antropólogo inocente (El antropólogo inocente, #1)](https://www.goodreads.com/book/show/61476.El_antrop_logo_inocente)
 
 ## Mi lectura
 
 - **Inicio:** 2014/07/31
 - **Fin:** 2014/08/05
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

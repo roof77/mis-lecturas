@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Biography
-- Memoir
-- History
-- Biography Memoir
-- LGBT
+- No Ficción
+- Biografía
+- Memorias
+- Historia
+- LGTBIQ+
+- Películas
+- Gay
+- Autobiografía
+- Queer
 autores:
 - Scotty Bowers
+- Jaime Zulaika
+- Román Gubern
 editoriales:
 - Anagrama
 image:
@@ -29,18 +34,18 @@ La saludable imagen de América difundida por Hollywood en los años 40, 50 y 60
 
 ## Ficha del libro
 
-- **Autor:** Scotty Bowers
-- **Colaboradores:** Jaime Zulaika (Translator), Román Gubern (Contributor)
+- **Autor:** [Scotty Bowers](/autores/scotty-bowers/)
+- **Colaboradores:** [Jaime Zulaika](/autores/jaime-zulaika/) (Translator), [Román Gubern](/autores/roman-gubern/) (Contributor)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 328 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433926012 / 9788433926012
 - **Publicación original:** 2013-10-23
-- **Géneros:** Nonfiction, Biography, Memoir, History, Biography Memoir, LGBT, Film, Gay, Autobiography, Queer
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Memorias](/tags/memorias/), [Historia](/tags/historia/), [LGTBIQ+](/tags/lgtbiq/), [Películas](/tags/peliculas/), [Gay](/tags/gay/), [Autobiografía](/tags/autobiografia/), [Queer](/tags/queer/)
 - **Ficha en Goodreads:** [Servicio completo: La secreta vida sexual de las estrellas de Hollywood](https://www.goodreads.com/book/show/18768528-servicio-completo)
 
 ## Mi lectura
 
 - **Inicio:** 2020/10/07
 - **Fin:** 2020/10/12
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

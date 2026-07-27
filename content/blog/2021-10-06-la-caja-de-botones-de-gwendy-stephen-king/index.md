@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Fantasy
-- Audiobook
-- Mystery
+- Terror
+- Ficción
+- Fantasía
+- Misterio
 - Novella
+- Thriller
+- Relatos
+- Paranormal
+- Adultos
 autores:
-- Stephen  King
+- Stephen King
+- Richard Chizmar
 editoriales:
 - SUMA
 image:
@@ -31,14 +35,14 @@ Pero un día, al llegar a lo alto, mientras recupera el aliento con la cara roja
 
 ## Ficha del libro
 
-- **Autor:** Stephen  King
+- **Autor:** [Stephen King](/autores/stephen-king/)
 - **Serie:** The Button Box (#1)
-- **Colaboradores:** Richard  Chizmar (Author)
+- **Colaboradores:** [Richard Chizmar](/autores/richard-chizmar/) (Author)
 - **Editorial:** SUMA
 - **Formato:** Kindle Edition, 130 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2018-11-08
-- **Géneros:** Horror, Fiction, Fantasy, Audiobook, Mystery, Novella, Thriller, Short Stories, Paranormal, Adult
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Misterio](/tags/misterio/), [Novella](/tags/novella/), [Thriller](/tags/thriller/), [Relatos](/tags/relatos/), [Paranormal](/tags/paranormal/), [Adultos](/tags/adultos/)
 - **Personajes:** Gwendy Peterson
 - **Lugares:** Castle Rock, Maine (United States), Maine (United States)
 - **Ficha en Goodreads:** [La caja de botones de Gwendy](https://www.goodreads.com/book/show/41210798-la-caja-de-botones-de-gwendy)
@@ -47,4 +51,4 @@ Pero un día, al llegar a lo alto, mientras recupera el aliento con la cara roja
 
 - **Inicio:** 2021/10/05
 - **Fin:** 2021/10/06
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

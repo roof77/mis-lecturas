@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- American
-- 20th Century
-- Literature
-- The United States Of America
+- Relatos
+- Ficción
+- EEUU
+- Siglo XX
+- Literatura
+- Sureño
+- Gótico sureño
+- Clásico
 autores:
 - Breece D'J Pancake
+- Albert Fuentes
+- John Casey
 editoriales:
 - Alpha Decay
 image:
@@ -32,14 +36,14 @@ Breece D’J Pancake se suicidó en Charlottesville en 1979 a la edad de veintis
 
 ## Ficha del libro
 
-- **Autor:** Breece D'J Pancake
-- **Colaboradores:** Albert Fuentes (Translator), John Casey (Contributor)
+- **Autor:** [Breece D'J Pancake](/autores/breece-d-j-pancake/)
+- **Colaboradores:** [Albert Fuentes](/autores/albert-fuentes/) (Translator), [John Casey](/autores/john-casey/) (Contributor)
 - **Editorial:** Alpha Decay
 - **Formato:** Hardcover, 232 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8492837373 / 9788492837373
 - **Publicación original:** 2012-03-05
-- **Géneros:** Short Stories, Fiction, American, 20th Century, Literature, The United States Of America, Americana, Southern, Southern Gothic, Classics
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [EEUU](/tags/eeuu/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/), [Sureño](/tags/sureno/), [Gótico sureño](/tags/gotico-sureno/), [Clásico](/tags/clasico/)
 - **Lugares:** West Virginia (United States)
 - **Ficha en Goodreads:** [Trilobites](https://www.goodreads.com/book/show/16153172-trilobites)
 
@@ -47,4 +51,4 @@ Breece D’J Pancake se suicidó en Charlottesville en 1979 a la edad de veintis
 
 - **Inicio:** 2014/07/21
 - **Fin:** 2014/07/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

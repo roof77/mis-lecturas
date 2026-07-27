@@ -10,7 +10,7 @@ tags:
 - Manga
 - Comics
 - Humor
-- Classics
+- Clásico
 autores:
 - Akira Toriyama
 editoriales:
@@ -29,18 +29,18 @@ Sin embargo, su imprudencia y su increíble ingenuidad desencadenarán, rápidam
 
 ## Ficha del libro
 
-- **Autor:** Akira Toriyama
+- **Autor:** [Akira Toriyama](/autores/akira-toriyama/)
 - **Serie:** Dr.スランプ [Dr. Slump] (#1)
 - **Editorial:** Planeta DeAgostini Comics
 - **Formato:** Paperback, 250 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467483083 / 9788467483086
 - **Publicación original:** 2010-01-01
-- **Géneros:** Manga, Comics, Humor, Classics
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Humor](/tags/humor/), [Clásico](/tags/clasico/)
 - **Ficha en Goodreads:** [Dr. Slump Ultimate Edition Nº1 (Dr. Slump Kanzenban, #1)](https://www.goodreads.com/book/show/7811348-dr-slump-ultimate-edition-n-1)
 
 ## Mi lectura
 
 - **Inicio:** 2024/02/21
 - **Fin:** 2024/02/22
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

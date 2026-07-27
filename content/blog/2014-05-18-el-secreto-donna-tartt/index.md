@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Dark Academia
-- Mystery
-- Classics
+- Misterio
+- Clásico
 - Thriller
-- Contemporary
+- Contemporaneo
+- Ficción Literaria
+- Club de lectura
+- Adultos
 autores:
 - Donna Tartt
+- Gemma Rovira Ortega
 editoriales:
 - Debolsillo
 image:
@@ -29,14 +33,14 @@ Cinco estudiantes universitarios, fascinados por un profesor carismático y esno
 
 ## Ficha del libro
 
-- **Autor:** Donna Tartt
-- **Colaboradores:** Gemma Rovira Ortega (Translator)
+- **Autor:** [Donna Tartt](/autores/donna-tartt/)
+- **Colaboradores:** [Gemma Rovira Ortega](/autores/gemma-rovira-ortega/) (Translator)
 - **Editorial:** Debolsillo
 - **Formato:** Paperback, 574 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8401327946 / 9788401327940
 - **Publicación original:** 2000-01-01
-- **Géneros:** Fiction, Dark Academia, Mystery, Classics, Thriller, Contemporary, Literary Fiction, Book Club, Mystery Thriller, Adult
+- **Géneros:** [Ficción](/tags/ficcion/), [Dark Academia](/tags/dark-academia/), [Misterio](/tags/misterio/), [Clásico](/tags/clasico/), [Thriller](/tags/thriller/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/)
 - **Personajes:** Richard Papen, Camilla Macaulay, Julian Morrow, Charles Macaulay, Henry Winter, Edmund Corcoran, Francis Abernathy
 - **Lugares:** Hampden College, Vermont (United States), Vermont (United States), The United States of America, New England (United States)
 - **Premios ganados:** Mekka-prijs (1994), Prix des libraires du Québec (1994)
@@ -46,4 +50,4 @@ Cinco estudiantes universitarios, fascinados por un profesor carismático y esno
 
 - **Inicio:** 2014/05/13
 - **Fin:** 2014/05/18
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

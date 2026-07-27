@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Historical
-- World War II
-- British Literature
-- War
+- Ficción
+- Ficción histórica
+- Histórico
+- Segunda guerra mundial
+- Literatura británica
+- Guerra
+- Siglo XX
+- Clásico
+- Novela
+- Club de lectura
 autores:
 - Mary Wesley
+- Catalina Martínez Muñoz
 editoriales:
 - Alba editorial
 image:
@@ -31,14 +36,14 @@ The Camomile Lawn (1984)
 
 ## Ficha del libro
 
-- **Autor:** Mary Wesley
-- **Colaboradores:** Catalina Martínez Muñoz (translator)
+- **Autor:** [Mary Wesley](/autores/mary-wesley/)
+- **Colaboradores:** [Catalina Martínez Muñoz](/autores/catalina-martinez-munoz/) (translator)
 - **Editorial:** Alba editorial
 - **Formato:** Paperback, 464 páginas
 - **Idioma:** English
 - **ISBN:** 8490658706 / 9788490658703
 - **Publicación original:** 2022-01-01
-- **Géneros:** Fiction, Historical Fiction, Historical, World War II, British Literature, War, 20th Century, Classics, Novels, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Histórico](/tags/historico/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Literatura británica](/tags/literatura-britanica/), [Guerra](/tags/guerra/), [Siglo XX](/tags/siglo-xx/), [Clásico](/tags/clasico/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Oliver, Calypso, Polly, Walter, Aunt Helena, Uncle Richard Cuthbertso
 - **Lugares:** Cornwall, England, London, England, England
 - **Ficha en Goodreads:** [El césped de manzanilla](https://www.goodreads.com/book/show/60713677-el-c-sped-de-manzanilla)
@@ -47,4 +52,4 @@ The Camomile Lawn (1984)
 
 - **Inicio:** 2022/07/06
 - **Fin:** 2022/07/12
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

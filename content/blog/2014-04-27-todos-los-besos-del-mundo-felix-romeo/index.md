@@ -26,7 +26,7 @@ Los cuentos de Félix Romeo nos hieren y nos sanan como si fueran a la vez venen
 
 ## Ficha del libro
 
-- **Autor:** Félix Romeo
+- **Autor:** [Félix Romeo](/autores/felix-romeo/)
 - **Editorial:** Xordica Editorial
 - **Formato:** Paperback, 144 páginas
 - **Idioma:** Spanish; Castilian
@@ -38,4 +38,4 @@ Los cuentos de Félix Romeo nos hieren y nos sanan como si fueran a la vez venen
 
 - **Inicio:** 2014/04/27
 - **Fin:** 2014/04/27
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- Historical Fiction
-- Audiobook
-- Witches
+- Terror
+- Fantasía
+- Ficción
+- Ficción histórica
+- Brujas
+- Thriller
+- Club de lectura
+- Paranormal
+- Adultos
 autores:
 - Grady Hendrix
+- Simón Saitó
 editoriales:
 - Minotauro
 image:
@@ -35,14 +39,14 @@ A través de voces potentes y heridas abiertas, Grady Hendrix teje una historia 
 
 ## Ficha del libro
 
-- **Autor:** Grady Hendrix
-- **Colaboradores:** Simón Saitó (Translator)
+- **Autor:** [Grady Hendrix](/autores/grady-hendrix/)
+- **Colaboradores:** [Simón Saitó](/autores/simon-saito/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 496 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445020951 / 9788445020951
 - **Publicación original:** 2025-09-17
-- **Géneros:** Horror, Fantasy, Fiction, Historical Fiction, Audiobook, Witches, Thriller, Book Club, Paranormal, Adult
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Brujas](/tags/brujas/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Paranormal](/tags/paranormal/), [Adultos](/tags/adultos/)
 - **Lugares:** Florida (United States), St. Augustine, Florida (United States)
 - **Premios ganados:** Goodreads Choice Award (2025)
 - **Nominaciones:** Bram Stoker Award (2025), She Reads Best of Award (2025), Readers' Favorite Horror (2025)
@@ -52,4 +56,4 @@ A través de voces potentes y heridas abiertas, Grady Hendrix teje una historia 
 
 - **Inicio:** 2025/10/02
 - **Fin:** 2025/10/15
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -10,9 +10,12 @@ tags:
 - Manga
 - Comics
 - Romance
-- Fiction
+- Ficción
 - Humor
-- Graphic Novels
+- Novela gráfica
+- Seinen manga
+- Slice of life
+- Literatura japanesa
 autores:
 - Rumiko Takahashi
 editoriales:
@@ -30,18 +33,18 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 
 ## Ficha del libro
 
-- **Autor:** Rumiko Takahashi
+- **Autor:** [Rumiko Takahashi](/autores/rumiko-takahashi/)
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#10)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 356 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484495280 / 9788484495284
 - **Publicación original:** 2006-05-30
-- **Géneros:** Manga, Comics, Romance, Fiction, Humor, Graphic Novels, Graphic Novels Comics, Seinen, Slice Of Life, Japanese Literature
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Novela gráfica](/tags/novela-grafica/), [Seinen manga](/tags/seinen-manga/), [Slice of life](/tags/slice-of-life/), [Literatura japanesa](/tags/literatura-japanesa/)
 - **Ficha en Goodreads:** [Maison Ikkoku 10](https://www.goodreads.com/book/show/345435.Maison_Ikkoku_10)
 
 ## Mi lectura
 
 - **Inicio:** 2024/07/02
 - **Fin:** 2024/07/02
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

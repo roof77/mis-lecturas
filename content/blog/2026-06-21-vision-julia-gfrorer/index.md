@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Horror
-- Fiction
-- Fantasy
-- Gothic
+- Terror
+- Ficción
+- Fantasía
+- Gótico
+- Adultos
+- Ficción histórica
 autores:
 - Julia Gfrörer
 editoriales:
@@ -31,16 +33,17 @@ A través de líneas finas y desgastadas, de representaciones degradadas y desco
 
 ## Ficha del libro
 
-- **Autor:** Julia Gfrörer
+- **Autor:** [Julia Gfrörer](/autores/julia-gfrorer/)
 - **Editorial:** Alpha Decay
 - **Formato:** Paperback, 96 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412295542 / 9788412295542
 - **Publicación original:** 2021-10-11
-- **Géneros:** Graphic Novels, Comics, Horror, Fiction, Fantasy, Gothic, Adult, Historical Fiction, Graphic Novels Comics, Comix
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Gótico](/tags/gotico/), [Adultos](/tags/adultos/), [Ficción histórica](/tags/ficcion-historica/)
 - **Ficha en Goodreads:** [Visión](https://www.goodreads.com/book/show/59110540-visi-n)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/21
 - **Fin:** 2026/06/21
+- **Calificación:** No es para mi/5

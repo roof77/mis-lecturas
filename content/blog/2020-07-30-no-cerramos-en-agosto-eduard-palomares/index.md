@@ -7,11 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Mystery
-- Audiobook
-- Detective
+- Misterio
+- Detectives
 - Thriller
-- Fiction
+- Ficción
 autores:
 - Eduard Palomares
 editoriales:
@@ -30,17 +29,17 @@ Eduard Palomares recoge el legado del género negro barcelonés para darle una s
 
 ## Ficha del libro
 
-- **Autor:** Eduard Palomares
+- **Autor:** [Eduard Palomares](/autores/eduard-palomares/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 250 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417007814 / 9788417007812
 - **Publicación original:** 2019-06-03
-- **Géneros:** Mystery, Audiobook, Detective, Thriller, Fiction
+- **Géneros:** [Misterio](/tags/misterio/), [Detectives](/tags/detectives/), [Thriller](/tags/thriller/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [No cerramos en agosto](https://www.goodreads.com/book/show/46000531-no-cerramos-en-agosto)
 
 ## Mi lectura
 
 - **Inicio:** 2020/07/28
 - **Fin:** 2020/07/30
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

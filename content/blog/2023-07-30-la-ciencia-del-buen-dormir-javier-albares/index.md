@@ -7,8 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Health
-- Nonfiction
+- Salud
+- No Ficción
 autores:
 - Javier Albares
 editoriales:
@@ -25,17 +25,17 @@ Dormir bien es vivir mejor, con más energía, felicidad, creatividad y empatía
 
 ## Ficha del libro
 
-- **Autor:** Javier Albares
+- **Autor:** [Javier Albares](/autores/javier-albares/)
 - **Editorial:** Ediciones Península
 - **Formato:** Paperback, 336 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8411001555 / 9788411001557
 - **Publicación original:** 2023-04-26
-- **Géneros:** Health, Nonfiction
+- **Géneros:** [Salud](/tags/salud/), [No Ficción](/tags/no-ficcion/)
 - **Ficha en Goodreads:** [La ciencia del buen dormir](https://www.goodreads.com/book/show/124199888-la-ciencia-del-buen-dormir)
 
 ## Mi lectura
 
 - **Inicio:** 2023/07/21
 - **Fin:** 2023/07/30
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

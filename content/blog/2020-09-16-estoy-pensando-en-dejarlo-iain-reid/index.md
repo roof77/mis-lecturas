@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Thriller
-- Mystery
-- Audiobook
-- Mystery Thriller
+- Misterio
+- Adultos
+- Contemporaneo
+- Suspense
+- Club de lectura
 autores:
 - Iain Reid
+- Cristina Martín Sanz
 editoriales:
 - Alianza Editorial
 image:
@@ -36,14 +39,14 @@ LA NOVELA EN LA QUE SE BASA LA PELÍCULA DIRIGIDA POR CHARLIE KAUFMAN
 
 ## Ficha del libro
 
-- **Autor:** Iain Reid
-- **Colaboradores:** Cristina Martín Sanz (Translator)
+- **Autor:** [Iain Reid](/autores/iain-reid/)
+- **Colaboradores:** [Cristina Martín Sanz](/autores/cristina-martin-sanz/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 208 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491818111 / 9788491818113
 - **Publicación original:** 2020-09-04
-- **Géneros:** Horror, Fiction, Thriller, Mystery, Audiobook, Mystery Thriller, Adult, Contemporary, Suspense, Book Club
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Contemporaneo](/tags/contemporaneo/), [Suspense](/tags/suspense/), [Club de lectura](/tags/club-de-lectura/)
 - **Nominaciones:** Barry Award (2017), Shirley Jackson Award (2016)
 - **Ficha en Goodreads:** [Estoy pensando en dejarlo](https://www.goodreads.com/book/show/55236706-estoy-pensando-en-dejarlo)
 
@@ -51,4 +54,4 @@ LA NOVELA EN LA QUE SE BASA LA PELÍCULA DIRIGIDA POR CHARLIE KAUFMAN
 
 - **Inicio:** 2020/09/16
 - **Fin:** 2020/09/16
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

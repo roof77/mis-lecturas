@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
+- Fantasía
+- Ficción
 - Humor
-- Comedy
-- Science Fiction Fantasy
-- Audiobook
+- Comedia
+- Ciencia Ficción
+- Religión
+- Sátira
+- Ciencia ficción
+- Novela
 autores:
 - Terry Pratchett
+- Albert Solé Company
 editoriales:
 - DeBolsillo
 image:
@@ -31,15 +35,15 @@ Brutha es un muchacho sencillo y analfabeto que se enfrenta a terribles problema
 
 ## Ficha del libro
 
-- **Autor:** Terry Pratchett
+- **Autor:** [Terry Pratchett](/autores/terry-pratchett/)
 - **Serie:** Discworld (#13)
-- **Colaboradores:** Albert Solé Company (Translator)
+- **Colaboradores:** [Albert Solé Company](/autores/albert-sole-company/) (Translator)
 - **Editorial:** DeBolsillo
 - **Formato:** Mass Market Paperback, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8497592247 / 9788497592246
 - **Publicación original:** 2003-01-17
-- **Géneros:** Fantasy, Fiction, Humor, Comedy, Science Fiction Fantasy, Audiobook, Religion, Satire, Science Fiction, Novels
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Religión](/tags/religion/), [Sátira](/tags/satira/), [Ciencia ficción](/tags/ciencia-ficcion/), [Novela](/tags/novela/)
 - **Personajes:** The Librarian, Great God Om, Brutha, Exquisitor Vorbis, Didactylos, Simony, Urn
 - **Premios ganados:** Premi Ictineu (2022)
 - **Ficha en Goodreads:** [Dioses menores (Mundodisco, #13)](https://www.goodreads.com/book/show/372389.Dioses_menores)
@@ -48,4 +52,4 @@ Brutha es un muchacho sencillo y analfabeto que se enfrenta a terribles problema
 
 - **Inicio:** 2018/06/05
 - **Fin:** 2018/06/08
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

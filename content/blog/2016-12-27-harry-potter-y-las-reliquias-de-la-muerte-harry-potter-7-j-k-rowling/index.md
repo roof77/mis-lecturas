@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Young Adult
-- Fiction
+- Fantasía
+- Jovenes adultos
+- Ficción
 - Harry Potter
-- Magic
-- Audiobook
+- Mágia
+- Niños
+- Aventuras
+- Clásico
 autores:
 - J.K. Rowling
+- Gemma Rovira Ortega
 editoriales:
 - Salamandra
 image:
@@ -30,15 +33,15 @@ La fecha crucial se acerca. Cuando cumpla diecisiete años, Harry perderá el en
 
 ## Ficha del libro
 
-- **Autor:** J.K. Rowling
+- **Autor:** [J.K. Rowling](/autores/j-k-rowling/)
 - **Serie:** Harry Potter (#7)
-- **Colaboradores:** Gemma Rovira Ortega (Translator)
+- **Colaboradores:** [Gemma Rovira Ortega](/autores/gemma-rovira-ortega/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 638 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498381452 / 9788498381450
 - **Publicación original:** 2008-02-01
-- **Géneros:** Fantasy, Young Adult, Fiction, Harry Potter, Magic, Audiobook, Childrens, Adventure, Middle Grade, Classics
+- **Géneros:** [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)
 - **Personajes:** Sirius Black, Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Severus Snape, Rubeus Hagrid, Lord Voldemort, Minerva McGonagall, Neville Longbottom
 - **Lugares:** London, England, Hogwarts School of Witchcraft and Wizardry (United Kingdom), Pagford (United Kingdom)
 - **Premios ganados:** Audie Award (2008), Books I Loved Best Yearly (BILBY) Awards (2008), Puddly Award (2008), Andre Norton Award (2007)
@@ -49,4 +52,4 @@ La fecha crucial se acerca. Cuando cumpla diecisiete años, Harry perderá el en
 
 - **Inicio:** 2016/12/21
 - **Fin:** 2016/12/27
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

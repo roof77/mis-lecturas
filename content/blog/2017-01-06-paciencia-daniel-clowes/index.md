@@ -7,12 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Science Fiction
-- Time Travel
-- Graphic Novels Comics
+- Ficción
+- Ciencia ficción
+- Viaje en el tiempo
+- Romance
 autores:
 - Daniel Clowes
 editoriales:
@@ -33,13 +33,13 @@ Pero Paciencia es también una obra significativamente distinta de sus anteriore
 
 ## Ficha del libro
 
-- **Autor:** Daniel Clowes
+- **Autor:** [Daniel Clowes](/autores/daniel-clowes/)
 - **Editorial:** Fulgencio Pimentel
 - **Formato:** Hardcover, 180 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416167303 / 9788416167302
 - **Publicación original:** 2016-02-01
-- **Géneros:** Graphic Novels, Comics, Fiction, Science Fiction, Time Travel, Graphic Novels Comics, Comix, Romance, Comic Book, Bande Dessinée
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Romance](/tags/romance/)
 - **Nominaciones:** Will Eisner Comic Industry Awards (2017), Goodreads Choice Award (2016), Readers' Favorite Graphic Novels & Comics (2016)
 - **Ficha en Goodreads:** [Paciencia](https://www.goodreads.com/book/show/29243251-paciencia)
 
@@ -47,4 +47,4 @@ Pero Paciencia es también una obra significativamente distinta de sus anteriore
 
 - **Inicio:** 2017/01/06
 - **Fin:** 2017/01/06
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

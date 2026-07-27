@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Thriller
-- Mystery
-- Literary Fiction
-- Historical Fiction
-- Contemporary
+- Misterio
+- Ficción Literaria
+- Ficción histórica
+- Contemporaneo
+- Terror
+- Club de lectura
 autores:
 - Ottessa Moshfegh
+- Damià Alou
 editoriales:
 - Alfaguara
 image:
@@ -31,14 +34,14 @@ Cuando la brillante, guapa y alegre Rebecca Saint John hace su aparición como n
 
 ## Ficha del libro
 
-- **Autor:** Ottessa Moshfegh
-- **Colaboradores:** Damià Alou (Translator)
+- **Autor:** [Ottessa Moshfegh](/autores/ottessa-moshfegh/)
+- **Colaboradores:** [Damià Alou](/autores/damia-alou/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 280 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420423947 / 9788420423944
 - **Publicación original:** 2017-01-01
-- **Géneros:** Fiction, Thriller, Mystery, Literary Fiction, Historical Fiction, Contemporary, Mystery Thriller, Horror, Book Club, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción histórica](/tags/ficcion-historica/), [Contemporaneo](/tags/contemporaneo/), [Terror](/tags/terror/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Eileen Dunlop, Charlie Dunlop, Rebecca Saint John, Randy, Leonard Polk, Rita Polk, Joanie Dunlop
 - **Lugares:** Massachusetts (United States)
 - **Premios ganados:** PEN/Hemingway Award for Debut Novel (2016)
@@ -49,3 +52,4 @@ Cuando la brillante, guapa y alegre Rebecca Saint John hace su aparición como n
 
 - **Inicio:** 2026/01/11
 - **Fin:** 2026/01/21
+- **Calificación:** Recomendable/5

@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Book Club
-- Contemporary
-- Literary Fiction
-- American
+- Relatos
+- Ficción
+- Club de lectura
+- Contemporaneo
+- Ficción Literaria
+- EEUU
+- Mujeres
+- Literatura
 autores:
 - Lucia Berlin
+- Eugenia Vázquez Nacarino
 editoriales:
 - Alfaguara
 image:
@@ -31,14 +34,14 @@ Uno de los mejores libros del año según The New York Times, The Guardian, NPR 
 
 ## Ficha del libro
 
-- **Autor:** Lucia Berlin
-- **Colaboradores:** Eugenia Vázquez Nacarino (Translator)
+- **Autor:** [Lucia Berlin](/autores/lucia-berlin/)
+- **Colaboradores:** [Eugenia Vázquez Nacarino](/autores/eugenia-vazquez-nacarino/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 432 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 842042160X / 9788420421605
 - **Publicación original:** 2016-03-17
-- **Géneros:** Short Stories, Fiction, Book Club, Contemporary, Literary Fiction, American, Audiobook, Womens, The United States Of America, Literature
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/), [Mujeres](/tags/mujeres/), [Literatura](/tags/literatura/)
 - **Premios ganados:** California Book Award (2015), Premi Llibreter de narrativa (2016)
 - **Nominaciones:** 本屋大賞 (2020), Kirkus Prize (2015)
 - **Ficha en Goodreads:** [Manual para mujeres de la limpieza](https://www.goodreads.com/book/show/29515170-manual-para-mujeres-de-la-limpieza)
@@ -47,4 +50,4 @@ Uno de los mejores libros del año según The New York Times, The Guardian, NPR 
 
 - **Inicio:** 2016/08/19
 - **Fin:** 2016/08/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

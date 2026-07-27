@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Historical Fiction
-- Fiction
-- War
-- Graphic Novels Comics
+- Novela gráfica
+- Ficción histórica
+- Ficción
+- Guerra
+- Rusia
+- Segunda guerra mundial
 autores:
 - Garth Ennis
+- Steve Epting
+- Elizabeth Breitweiser
+- Eduardo López Lafuente
 editoriales:
 - Panini Comics
 image:
@@ -29,18 +33,18 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Garth Ennis
-- **Colaboradores:** Steve Epting (Dibujante), Elizabeth Breitweiser (Colorista), Eduardo López Lafuente (Traductor)
+- **Autor:** [Garth Ennis](/autores/garth-ennis/)
+- **Colaboradores:** [Steve Epting](/autores/steve-epting/) (Dibujante), [Elizabeth Breitweiser](/autores/elizabeth-breitweiser/) (Colorista), [Eduardo López Lafuente](/autores/eduardo-lopez-lafuente/) (Traductor)
 - **Editorial:** Panini Comics
 - **Formato:** Cartoné, 152 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413346823 / 9788413346823
 - **Publicación original:** 2020-11-26
-- **Géneros:** Comics, Graphic Novels, Historical Fiction, Fiction, War, Graphic Novels Comics, Comic Book, Russia, Ebooks, World War II
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Guerra](/tags/guerra/), [Rusia](/tags/rusia/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/)
 - **Ficha en Goodreads:** [Sara](https://www.goodreads.com/book/show/56554824-sara)
 
 ## Mi lectura
 
 - **Inicio:** 2021/09/21
 - **Fin:** 2021/09/23
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

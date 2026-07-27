@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Philosophy
+- Novela gráfica
+- Filosofía
 - Comics
-- History
-- Nonfiction
-- Biography
+- Historia
+- No Ficción
+- Biografía
+- Feminismo
+- Histórico
 autores:
 - Barbara Stok
 editoriales:
@@ -37,17 +39,17 @@ La crítica ha «Un libro extremadamente logrado e interesante, que inspira la l
 
 ## Ficha del libro
 
-- **Autor:** Barbara Stok
+- **Autor:** [Barbara Stok](/autores/barbara-stok/)
 - **Editorial:** SALAMANDRA GRAPHIC
 - **Formato:** Kindle Edition, 299 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418621508 / 9788418621505
 - **Publicación original:** 2023-02-16
-- **Géneros:** Graphic Novels, Philosophy, Comics, History, Nonfiction, Biography, Graphic Novels Comics, Bande Dessinée, Feminism, Historical
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Filosofía](/tags/filosofia/), [Comics](/tags/comics/), [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Feminismo](/tags/feminismo/), [Histórico](/tags/historico/)
 - **Ficha en Goodreads:** [La filósofa, el perro y la boda (Spanish Edition)](https://www.goodreads.com/book/show/211174142-la-fil-sofa-el-perro-y-la-boda)
 
 ## Mi lectura
 
 - **Inicio:** 2024/08/03
 - **Fin:** 2024/08/04
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

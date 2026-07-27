@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Historical Fiction
-- Fiction
-- LGBT
+- Ficción histórica
+- Ficción
+- LGTBIQ+
 - Queer
 - Romance
-- Historical
+- Histórico
+- Lesbianismo
+- Adultos
+- Gay
+- Victoriano
 autores:
 - Sarah Waters
+- Jaime Zulaika
 editoriales:
 - Editorial Anagrama
 image:
@@ -29,14 +34,14 @@ La joven Nancy Astley vendía ostras en una pequeña ciudad portuaria en la cost
 
 ## Ficha del libro
 
-- **Autor:** Sarah Waters
-- **Colaboradores:** Jaime Zulaika (Translator)
+- **Autor:** [Sarah Waters](/autores/sarah-waters/)
+- **Colaboradores:** [Jaime Zulaika](/autores/jaime-zulaika/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 504 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433970216 / 9788433970213
 - **Publicación original:** 2004-01-01
-- **Géneros:** Historical Fiction, Fiction, LGBT, Queer, Romance, Historical, Lesbian, Adult, Gay, Victorian
+- **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Romance](/tags/romance/), [Histórico](/tags/historico/), [Lesbianismo](/tags/lesbianismo/), [Adultos](/tags/adultos/), [Gay](/tags/gay/), [Victoriano](/tags/victoriano/)
 - **Lugares:** London, England, Whitstable, England (United Kingdom)
 - **Premios ganados:** Lambda Literary Award (2000), Betty Trask Award (1999)
 - **Nominaciones:** The Publishing Triangle Award (2000)
@@ -46,4 +51,4 @@ La joven Nancy Astley vendía ostras en una pequeña ciudad portuaria en la cost
 
 - **Inicio:** 2023/08/01
 - **Fin:** 2023/08/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

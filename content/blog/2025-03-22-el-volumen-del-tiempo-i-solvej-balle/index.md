@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Science Fiction
-- Literary Fiction
-- Contemporary
-- Magical Realism
-- Denmark
+- Ficción
+- Ciencia ficción
+- Ficción Literaria
+- Contemporaneo
+- Realismo mágico
+- Dinamarca
+- Novela
+- Club de lectura
+- Viaje en el tiempo
 autores:
 - Solvej Balle
+- Victoria Alonso
 editoriales:
 - Editorial Anagrama
 image:
@@ -35,15 +39,15 @@ Utilizando los mimbres de la ciencia ficción, la autora nos propone una deslumb
 
 ## Ficha del libro
 
-- **Autor:** Solvej Balle
+- **Autor:** [Solvej Balle](/autores/solvej-balle/)
 - **Serie:** Om udregning af rumfang (#1)
-- **Colaboradores:** Victoria Alonso (Translator)
+- **Colaboradores:** [Victoria Alonso](/autores/victoria-alonso/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 184 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433927469 / 9788433927460
 - **Publicación original:** 2024-11-06
-- **Géneros:** Fiction, Science Fiction, Literary Fiction, Contemporary, Magical Realism, Denmark, Danish, Novels, Book Club, Time Travel
+- **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Realismo mágico](/tags/realismo-magico/), [Dinamarca](/tags/dinamarca/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/)
 - **Premios ganados:** Nordic Council Literature Prize (Nordisk Raads Litteraturpris) (2022)
 - **Nominaciones:** National Book Award (2024), International Booker Prize (2025)
 - **Ficha en Goodreads:** [El volumen del tiempo I](https://www.goodreads.com/book/show/219485014-el-volumen-del-tiempo-i)
@@ -52,4 +56,4 @@ Utilizando los mimbres de la ciencia ficción, la autora nos propone una deslumb
 
 - **Inicio:** 2025/03/18
 - **Fin:** 2025/03/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

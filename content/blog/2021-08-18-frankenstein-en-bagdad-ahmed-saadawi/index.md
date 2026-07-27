@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Fantasy
-- Magical Realism
-- Middle East
-- Contemporary
+- Terror
+- Ficción
+- Fantasía
+- Realismo mágico
+- Medio oriente
+- Contemporaneo
+- Novela
+- Ficción Literaria
+- Ciencia ficción
+- Guerra
 autores:
 - Ahmed Saadawi
+- Anna Gil Bardají
 editoriales:
 - Libros del Asteroide
 image:
@@ -31,14 +36,14 @@ Ahmed Saadawi dibuja una iluminadora sátira del conflicto iraquí y de la esper
 
 ## Ficha del libro
 
-- **Autor:** Ahmed Saadawi
-- **Colaboradores:** Anna Gil Bardají (Translator)
+- **Autor:** [Ahmed Saadawi](/autores/ahmed-saadawi/)
+- **Colaboradores:** [Anna Gil Bardají](/autores/anna-gil-bardaji/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 328 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417007938 / 9788417007935
 - **Publicación original:** 2019-09-09
-- **Géneros:** Horror, Fiction, Fantasy, Magical Realism, Middle East, Contemporary, Novels, Literary Fiction, Science Fiction, War
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Realismo mágico](/tags/realismo-magico/), [Medio oriente](/tags/medio-oriente/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Ciencia ficción](/tags/ciencia-ficcion/), [Guerra](/tags/guerra/)
 - **Personajes:** محمود السوادي, الشسمه, هادي العتاگ, إيليشوا, الساحر, السفسطائي
 - **Premios ganados:** Grand Prix de l'Imaginaire (2017), The Kitschies (2018), International Prize for Arabic Fiction | الجائزة العالمية للرواية العربية (2014)
 - **Nominaciones:** Arthur C. Clarke Award (2019), International Booker Prize (2018)
@@ -48,4 +53,4 @@ Ahmed Saadawi dibuja una iluminadora sátira del conflicto iraquí y de la esper
 
 - **Inicio:** 2021/08/15
 - **Fin:** 2021/08/18
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

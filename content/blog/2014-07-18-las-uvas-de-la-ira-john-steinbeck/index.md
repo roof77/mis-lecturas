@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Historical Fiction
-- Literature
-- Novels
-- School
+- Clásico
+- Ficción
+- Ficción histórica
+- Literatura
+- Novela
+- Colegio
+- Histórico
+- EEUU
+- Literatura clásica
+- Libros prohibidos
 autores:
 - John Steinbeck
+- María Coy Girón
 editoriales:
 - Alianza
 image:
@@ -31,14 +36,14 @@ John Steinbeck (1902-1968) realizó diversos oficios (peón agrícola, empleado 
 
 ## Ficha del libro
 
-- **Autor:** John Steinbeck
-- **Colaboradores:** María Coy Girón (Translator)
+- **Autor:** [John Steinbeck](/autores/john-steinbeck/)
+- **Colaboradores:** [María Coy Girón](/autores/maria-coy-giron/) (Translator)
 - **Editorial:** Alianza
 - **Formato:** Paperback, 688 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420667250 / 9788420667256
 - **Publicación original:** 2008-02-27
-- **Géneros:** Classics, Fiction, Historical Fiction, Literature, Novels, School, Historical, American, Classic Literature, Banned Books
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Colegio](/tags/colegio/), [Histórico](/tags/historico/), [EEUU](/tags/eeuu/), [Literatura clásica](/tags/literatura-clasica/), [Libros prohibidos](/tags/libros-prohibidos/)
 - **Personajes:** Tom Joad, Rose of Sharon Joad Rivers, Ma Joad, Pa Joad, Uncle John Joad, Jim Casy, Al Joad, Ruthie Joad, Winfield Joad, Noah Joad
 - **Lugares:** Oklahoma (United States), California (United States), The United States of America, Route 66 (United States)
 - **Premios ganados:** Pulitzer Prize (-946742400000), National Book Award (-978278400000), California Book Award (-978278400000), Audie Award (1999)
@@ -48,4 +53,4 @@ John Steinbeck (1902-1968) realizó diversos oficios (peón agrícola, empleado 
 
 - **Inicio:** 2014/07/11
 - **Fin:** 2014/07/18
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

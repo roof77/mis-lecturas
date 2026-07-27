@@ -7,10 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- German Literature
-- Horror
+- Fantasía
+- Ficción
+- Literatura alemana
+- Terror
 autores:
 - Marc Behm
 editoriales:
@@ -27,16 +27,16 @@ Con gran originalidad y maestría narrativa, se combinan en esta obra dos géner
 
 ## Ficha del libro
 
-- **Autor:** Marc Behm
+- **Autor:** [Marc Behm](/autores/marc-behm/)
 - **Editorial:** Círculo de Lectores
 - **Formato:** Hardcover, 223 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 1988-01-01
-- **Géneros:** Fantasy, Fiction, German Literature, Horror
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Literatura alemana](/tags/literatura-alemana/), [Terror](/tags/terror/)
 - **Ficha en Goodreads:** [La doncella de hielo](https://www.goodreads.com/book/show/1331010.La_doncella_de_hielo)
 
 ## Mi lectura
 
 - **Inicio:** 2018/04/10
 - **Fin:** 2018/04/12
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

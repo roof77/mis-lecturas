@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Superheroes
-- Fiction
-- Graphic Novels Comics
-- Comic Book
+- Ficción
+- Misterio
+- Crimen
+- Fantasía
+- Ciencia ficción
 autores:
 - Kurt Busiek
+- Brent Anderson
+- Alex Ross
 editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:
@@ -30,18 +34,19 @@ Carl Donewizc es también conocido como Acero . Acaba de salir de la cárcel y a
 
 ## Ficha del libro
 
-- **Autor:** Kurt Busiek
+- **Autor:** [Kurt Busiek](/autores/kurt-busiek/)
 - **Serie:** Astro City (#4)
-- **Colaboradores:** Brent Anderson (Author), Alex Ross (Author)
+- **Colaboradores:** [Brent Anderson](/autores/brent-anderson/) (Author), [Alex Ross](/autores/alex-ross/) (Author)
 - **Editorial:** Norma Editorial (Wildstorm Comics)
 - **Formato:** Hardcover, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467902418 / 9788467902419
 - **Publicación original:** 2010-08-27
-- **Géneros:** Comics, Graphic Novels, Superheroes, Fiction, Graphic Novels Comics, Comic Book, Mystery, Crime, Fantasy, Science Fiction
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/)
 - **Ficha en Goodreads:** [Astro City #4: El ángel caído](https://www.goodreads.com/book/show/8817266-astro-city-4)
 
 ## Mi lectura
 
 - **Inicio:** 2026/02/26
 - **Fin:** 2026/02/27
+- **Calificación:** Recomendable/5

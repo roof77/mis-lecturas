@@ -8,13 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Comic Book
-- Historical Fiction
-- Fiction
+- Novela gráfica
+- Ficción histórica
+- Ficción
 autores:
 - Joëlle Jones
+- Jamie S. Rich
 editoriales:
 - Dark Horse Comics
 image:
@@ -29,17 +28,18 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Joëlle Jones
+- **Autor:** [Joëlle Jones](/autores/joelle-jones/)
 - **Serie:** Lady Killer (Single Issues)
-- **Colaboradores:** Jamie S. Rich (Author)
+- **Colaboradores:** [Jamie S. Rich](/autores/jamie-s-rich/) (Author)
 - **Editorial:** Dark Horse Comics
 - **Formato:** Unknown Binding, 26 páginas
 - **Idioma:** English
 - **Publicación original:** 2015-02-01
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Comic Book, Historical Fiction, Fiction
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Lady Killer #2](https://www.goodreads.com/book/show/24872041-lady-killer-2)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/05
+- **Calificación:** Pasable/5

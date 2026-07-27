@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
+- Terror
 autores:
 - María Zaragoza
 editoriales:
@@ -24,17 +24,17 @@ Un libro de relatos para adultos sin adultos. Niñas que deciden ser malas un ve
 
 ## Ficha del libro
 
-- **Autor:** María Zaragoza
+- **Autor:** [María Zaragoza](/autores/maria-zaragoza/)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 208 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445014552 / 9788445014554
 - **Publicación original:** 2023-11-02
-- **Géneros:** Horror
+- **Géneros:** [Terror](/tags/terror/)
 - **Ficha en Goodreads:** [El infierno es una chica adolescente](https://www.goodreads.com/book/show/198244493-el-infierno-es-una-chica-adolescente)
 
 ## Mi lectura
 
 - **Inicio:** 2024/01/07
 - **Fin:** 2024/01/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

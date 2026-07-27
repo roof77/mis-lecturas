@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Travel
-- Classics
-- Memoir
-- Biography
-- Book Club
+- No Ficción
+- Viajes
+- Clásico
+- Memorias
+- Biografía
+- Club de lectura
+- Literatura
+- EEUU
 autores:
 - John Steinbeck
+- José Manuel Álvarez Flórez
 editoriales:
 - Nórdica
 image:
@@ -31,14 +34,14 @@ En 1960, Steinbeck, acompañado por su perro Charley, recorrió más de 16.000 k
 
 ## Ficha del libro
 
-- **Autor:** John Steinbeck
-- **Colaboradores:** José Manuel Álvarez Flórez (Translator)
+- **Autor:** [John Steinbeck](/autores/john-steinbeck/)
+- **Colaboradores:** [José Manuel Álvarez Flórez](/autores/jose-manuel-alvarez-florez/) (Translator)
 - **Editorial:** Nórdica
 - **Formato:** Paperback, 292 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416112290 / 9788416112296
 - **Publicación original:** 2014-06-10
-- **Géneros:** Nonfiction, Travel, Classics, Memoir, Biography, Book Club, Audiobook, Literature, Biography Memoir, American
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Viajes](/tags/viajes/), [Clásico](/tags/clasico/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/)
 - **Personajes:** John Steinbeck, Charley (Travels with Charley)
 - **Lugares:** California (United States), Yellowstone National Park (United States), San Francisco, California (United States)
 - **Premios ganados:** Long Island Reads (2005)
@@ -48,4 +51,4 @@ En 1960, Steinbeck, acompañado por su perro Charley, recorrió más de 16.000 k
 
 - **Inicio:** 2014/08/27
 - **Fin:** 2014/08/29
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

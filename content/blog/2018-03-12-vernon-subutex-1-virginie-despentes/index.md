@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- France
-- Roman
-- Contemporary
-- French Literature
-- Novels
+- Ficción
+- Francia
+- Contemporaneo
+- Literatura francesa
+- Novela
+- Música
+- Ficción Literaria
+- Siglo XXI
+- París
 autores:
 - Virginie Despentes
+- Noemí Sobregués Arias
 editoriales:
 - Literatura Random House
 image:
@@ -29,15 +33,15 @@ Alex Bleach, ángel caído del rock francés, ha muerto de una sobredosis en la 
 
 ## Ficha del libro
 
-- **Autor:** Virginie Despentes
+- **Autor:** [Virginie Despentes](/autores/virginie-despentes/)
 - **Serie:** Vernon Subutex (#1)
-- **Colaboradores:** Noemí Sobregués Arias (translator)
+- **Colaboradores:** [Noemí Sobregués Arias](/autores/noemi-sobregues-arias/) (translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788439731436
 - **Publicación original:** 2016-05-05
-- **Géneros:** Fiction, France, Roman, Contemporary, French Literature, Novels, Music, Literary Fiction, 21st Century, Paris
+- **Géneros:** [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Contemporaneo](/tags/contemporaneo/), [Literatura francesa](/tags/literatura-francesa/), [Novela](/tags/novela/), [Música](/tags/musica/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XXI](/tags/siglo-xxi/), [París](/tags/paris/)
 - **Lugares:** Paris (France), Barcelona, Catalonia (Spain)
 - **Nominaciones:** BTBA Best Translated Book Award (2020), Warwick Prize for Women in Translation (2018), International Booker Prize (2018), Metų verstinė knyga (2020)
 - **Ficha en Goodreads:** [Vernon Subutex 1](https://www.goodreads.com/book/show/30126158-vernon-subutex-1)
@@ -46,4 +50,4 @@ Alex Bleach, ángel caído del rock francés, ha muerto de una sobredosis en la 
 
 - **Inicio:** 2018/03/06
 - **Fin:** 2018/03/12
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

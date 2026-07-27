@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Horror
-- Spanish Literature
-- Contemporary
-- Feminism
+- Relatos
+- Ficción
+- Terror
+- Literatura hispana
+- Contemporaneo
+- Feminismo
+- Latinos
+- Mujeres
+- Latino américa
+- Siglo XXI
 autores:
 - María Fernanda Ampuero
 editoriales:
@@ -29,13 +33,13 @@ Pelea de gallos narra desde diferentes voces el hogar, ese espacio que construye
 
 ## Ficha del libro
 
-- **Autor:** María Fernanda Ampuero
+- **Autor:** [María Fernanda Ampuero](/autores/maria-fernanda-ampuero/)
 - **Editorial:** Páginas de Espuma
 - **Formato:** Kindle Edition, 120 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8483936135 / 9788483936139
 - **Publicación original:** 2018-03-07
-- **Géneros:** Short Stories, Fiction, Horror, Spanish Literature, Contemporary, Feminism, Latinx, Womens, Latin American, 21st Century
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Literatura hispana](/tags/literatura-hispana/), [Contemporaneo](/tags/contemporaneo/), [Feminismo](/tags/feminismo/), [Latinos](/tags/latinos/), [Mujeres](/tags/mujeres/), [Latino américa](/tags/latino-america/), [Siglo XXI](/tags/siglo-xxi/)
 - **Lugares:** Ecuador
 - **Premios ganados:** Premio Joaquín Gallegos Lara (2018)
 - **Ficha en Goodreads:** [Pelea de gallos](https://www.goodreads.com/book/show/39072768-pelea-de-gallos)
@@ -44,4 +48,4 @@ Pelea de gallos narra desde diferentes voces el hogar, ese espacio que construye
 
 - **Inicio:** 2018/08/29
 - **Fin:** 2018/09/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

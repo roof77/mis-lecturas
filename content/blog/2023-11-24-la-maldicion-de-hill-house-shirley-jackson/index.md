@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Classics
-- Fiction
-- Gothic
-- Mystery
+- Terror
+- Clásico
+- Ficción
+- Gótico
+- Misterio
 - Paranormal
+- Club de lectura
+- Thriller
+- Fantasmas
 autores:
 - Shirley Jackson
+- Óscar Palmer Yáñez
 editoriales:
 - Valdemar
 image:
@@ -29,13 +33,13 @@ La maldición de Hill House (The Haunting of Hill House, 1959), considerada una 
 
 ## Ficha del libro
 
-- **Autor:** Shirley Jackson
-- **Colaboradores:** Óscar Palmer Yáñez (Translator)
+- **Autor:** [Shirley Jackson](/autores/shirley-jackson/)
+- **Colaboradores:** [Óscar Palmer Yáñez](/autores/oscar-palmer-yanez/) (Translator)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2008-01-01
-- **Géneros:** Horror, Classics, Fiction, Gothic, Mystery, Paranormal, Audiobook, Book Club, Thriller, Ghosts
+- **Géneros:** [Terror](/tags/terror/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Misterio](/tags/misterio/), [Paranormal](/tags/paranormal/), [Club de lectura](/tags/club-de-lectura/), [Thriller](/tags/thriller/), [Fantasmas](/tags/fantasmas/)
 - **Personajes:** Dr. John Montague, Eleanor Vance, Theodora (The Haunting of Hill House), Luke Sanderson, Mrs. Montague, Arthur Parker (The Haunting of Hill House), Mrs. Dudley
 - **Lugares:** The United States of America
 - **Premios ganados:** National Book Award Finalist (-315590400000)
@@ -45,4 +49,4 @@ La maldición de Hill House (The Haunting of Hill House, 1959), considerada una 
 
 - **Inicio:** 2023/11/18
 - **Fin:** 2023/11/24
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

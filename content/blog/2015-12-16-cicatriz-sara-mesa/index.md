@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Spanish Literature
-- Spain
-- Ebooks
-- Womens
-- Contemporary
+- Ficción
+- Literatura hispana
+- España
+- Mujeres
+- Contemporaneo
+- Novela
+- Oscuro
+- Romance
+- Siglo XXI
 autores:
 - Sara Mesa
 editoriales:
@@ -31,13 +34,13 @@ En esta inusitada historia, Sara Mesa recupera temas que ya aparecieron en sus p
 
 ## Ficha del libro
 
-- **Autor:** Sara Mesa
+- **Autor:** [Sara Mesa](/autores/sara-mesa/)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433997920 / 9788433997920
 - **Publicación original:** 2015-03-01
-- **Géneros:** Fiction, Spanish Literature, Spain, Ebooks, Womens, Contemporary, Novels, Dark, Romance, 21st Century
+- **Géneros:** [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Mujeres](/tags/mujeres/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Oscuro](/tags/oscuro/), [Romance](/tags/romance/), [Siglo XXI](/tags/siglo-xxi/)
 - **Premios ganados:** Premio San Clemente (2017)
 - **Ficha en Goodreads:** [Cicatriz](https://www.goodreads.com/book/show/25076998-cicatriz)
 
@@ -45,4 +48,4 @@ En esta inusitada historia, Sara Mesa recupera temas que ya aparecieron en sus p
 
 - **Inicio:** 2015/12/15
 - **Fin:** 2015/12/16
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

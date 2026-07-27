@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Travel
+- No Ficción
+- Viajes
 - Humor
-- Memoir
-- Essays
-- Audiobook
+- Memorias
+- Ensayo
+- Biografía
+- EEUU
+- Comedia
 autores:
 - Bill Bryson
+- Manuel Manzano Gómez
 editoriales:
 - RBA Libros
 image:
@@ -31,18 +34,18 @@ Por supuesto, había cosas que Bryson extrañaba de Gran Bretaña, pero cualquie
 
 ## Ficha del libro
 
-- **Autor:** Bill Bryson
-- **Colaboradores:** Manuel Manzano Gómez (Translator)
+- **Autor:** [Bill Bryson](/autores/bill-bryson/)
+- **Colaboradores:** [Manuel Manzano Gómez](/autores/manuel-manzano-gomez/) (Translator)
 - **Editorial:** RBA Libros
 - **Formato:** Kindle Edition, 363 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8411323757 / 9788411323758
 - **Publicación original:** 2023-04-20
-- **Géneros:** Nonfiction, Travel, Humor, Memoir, Essays, Audiobook, Biography, American, The United States Of America, Comedy
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Viajes](/tags/viajes/), [Humor](/tags/humor/), [Memorias](/tags/memorias/), [Ensayo](/tags/ensayo/), [Biografía](/tags/biografia/), [EEUU](/tags/eeuu/), [Comedia](/tags/comedia/)
 - **Ficha en Goodreads:** [Viaje al sueño americano](https://www.goodreads.com/book/show/129113531-viaje-al-sue-o-americano)
 
 ## Mi lectura
 
 - **Inicio:** 2024/09/05
 - **Fin:** 2024/09/17
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

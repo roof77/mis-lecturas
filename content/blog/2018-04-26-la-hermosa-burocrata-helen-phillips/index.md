@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Science Fiction
-- Mystery
-- Dystopia
-- Book Club
-- Magical Realism
+- Ficción
+- Ciencia ficción
+- Misterio
+- Distopía
+- Club de lectura
+- Realismo mágico
+- Ficción Literaria
+- Fantasía
+- Adultos
+- Novela
 autores:
-- Helen          Phillips
+- Helen Phillips
 editoriales:
 - Siruela
 image:
@@ -31,13 +35,13 @@ La oficina es, a la vez, el infierno y su contrario: un espacio inmejorable para
 
 ## Ficha del libro
 
-- **Autor:** Helen          Phillips
+- **Autor:** [Helen Phillips](/autores/helen-phillips/)
 - **Editorial:** Siruela
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417308768 / 9788417308766
 - **Publicación original:** 2018-04-01
-- **Géneros:** Fiction, Science Fiction, Mystery, Dystopia, Book Club, Magical Realism, Literary Fiction, Fantasy, Adult, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Misterio](/tags/misterio/), [Distopía](/tags/distopia/), [Club de lectura](/tags/club-de-lectura/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Novela](/tags/novela/)
 - **Nominaciones:** New York Public Library Young Lions Fiction Award (2016), Los Angeles Times Book Prize (2015), The Center for Fiction First Novel Prize (2015)
 - **Ficha en Goodreads:** [La hermosa burócrata](https://www.goodreads.com/book/show/39345290-la-hermosa-bur-crata)
 
@@ -45,4 +49,4 @@ La oficina es, a la vez, el infierno y su contrario: un espacio inmejorable para
 
 - **Inicio:** 2018/04/23
 - **Fin:** 2018/04/26
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

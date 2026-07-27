@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Science Fiction
-- Contemporary
+- Fantasía
+- Ficción
+- Ciencia ficción
+- Contemporaneo
 - Thriller
-- Audiobook
+- Adultos
+- Misterio
+- Realismo mágico
+- Ficción especulativa
 autores:
 - Claire North
+- Jaime Valero
 editoriales:
 - Colmena Ediciones
 image:
@@ -29,13 +33,13 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Claire North
-- **Colaboradores:** Jaime Valero (Translator)
+- **Autor:** [Claire North](/autores/claire-north/)
+- **Colaboradores:** [Jaime Valero](/autores/jaime-valero/) (Translator)
 - **Editorial:** Colmena Ediciones
 - **Formato:** Paperback, 614 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2018-02-19
-- **Géneros:** Fantasy, Fiction, Science Fiction, Contemporary, Thriller, Audiobook, Adult, Mystery, Magical Realism, Speculative Fiction
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Contemporaneo](/tags/contemporaneo/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Misterio](/tags/misterio/), [Realismo mágico](/tags/realismo-magico/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Personajes:** Hope Arden
 - **Premios ganados:** World Fantasy Award (2017)
 - **Ficha en Goodreads:** [La súbita aparición de Hope](https://www.goodreads.com/book/show/38491831-la-s-bita-aparici-n-de-hope)
@@ -44,4 +48,4 @@ image:
 
 - **Inicio:** 2019/11/09
 - **Fin:** 2019/11/13
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

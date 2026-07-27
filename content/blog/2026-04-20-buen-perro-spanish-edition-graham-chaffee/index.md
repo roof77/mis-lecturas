@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Dogs
-- Animals
-- Fiction
-- Graphic Novels Comics
+- Perros
+- Animales
+- Ficción
+- Adultos
+- Fantasía
 autores:
 - Graham Chaffee
 editoriales:
@@ -29,13 +30,13 @@ Iván es un buen perro atormentado por pesadillas de conejos y gallinas, cuya vi
 
 ## Ficha del libro
 
-- **Autor:** Graham Chaffee
+- **Autor:** [Graham Chaffee](/autores/graham-chaffee/)
 - **Editorial:** Ediciones La Cúpula, S.L.
 - **Formato:** Paperback, 104 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416400733 / 9788416400737
 - **Publicación original:** 2017-07-06
-- **Géneros:** Graphic Novels, Comics, Dogs, Animals, Fiction, Graphic Novels Comics, Adult, Comic Book, Sequential Art, Fantasy
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Perros](/tags/perros/), [Animales](/tags/animales/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/), [Fantasía](/tags/fantasia/)
 - **Nominaciones:** Will Eisner Comic Industry Awards (2014)
 - **Ficha en Goodreads:** [Buen Perro (Spanish Edition)](https://www.goodreads.com/book/show/71574171-buen-perro)
 
@@ -43,3 +44,4 @@ Iván es un buen perro atormentado por pesadillas de conejos y gallinas, cuya vi
 
 - **Inicio:** 2026/04/20
 - **Fin:** 2026/04/20
+- **Calificación:** Muy bien/5

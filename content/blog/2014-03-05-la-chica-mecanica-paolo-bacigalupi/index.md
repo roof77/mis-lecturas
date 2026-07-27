@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Dystopia
+- Ciencia ficción
+- Ficción
+- Distopía
 - Steampunk
-- Fantasy
+- Fantasía
 - Cyberpunk
+- Postapocalíptico
+- Ciencia Ficción
+- Ficción especulativa
+- Club de lectura
 autores:
 - Paolo Bacigalupi
+- Manuel de los Reyes
 editoriales:
 - Plaza & Janés
 image:
@@ -33,15 +38,15 @@ Paolo Bacigalupi nos lleva al siglo XXII, un mundo donde el cambio climático ya
 
 ## Ficha del libro
 
-- **Autor:** Paolo Bacigalupi
+- **Autor:** [Paolo Bacigalupi](/autores/paolo-bacigalupi/)
 - **Serie:** The Windup Universe (#1)
-- **Colaboradores:** Manuel de los Reyes (Traductor)
+- **Colaboradores:** [Manuel de los Reyes](/autores/manuel-de-los-reyes/) (Traductor)
 - **Editorial:** Plaza & Janés
 - **Formato:** Hardcover, 538 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8401339405 / 9788401339400
 - **Publicación original:** 2011-06-03
-- **Géneros:** Science Fiction, Fiction, Dystopia, Steampunk, Fantasy, Cyberpunk, Post Apocalyptic, Science Fiction Fantasy, Speculative Fiction, Book Club
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Steampunk](/tags/steampunk/), [Fantasía](/tags/fantasia/), [Cyberpunk](/tags/cyberpunk/), [Postapocalíptico](/tags/postapocaliptico/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Ficción especulativa](/tags/ficcion-especulativa/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Anderson Lake, Emiko, Tan Hock Seng, Jaidee Rojjanasukchai, Kanya
 - **Lugares:** Bangkok (Thailand)
 - **Premios ganados:** Hugo Award (2010), Nebula Award (2009), Locus Award (2010), Kurd-Laßwitz-Preis (2012), John W. Campbell Memorial Award (2010), Compton Crook Award (2010), Grand Prix de l'Imaginaire (2013), Premio Ignotus (2012), Prix Bob Morane (2013), Cena Akademie SFFH (2011), Prix Une autre Terre (2013)
@@ -52,4 +57,4 @@ Paolo Bacigalupi nos lleva al siglo XXII, un mundo donde el cambio climático ya
 
 - **Inicio:** 2014/02/24
 - **Fin:** 2014/03/05
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

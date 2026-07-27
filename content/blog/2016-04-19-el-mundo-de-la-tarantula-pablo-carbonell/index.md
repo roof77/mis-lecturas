@@ -41,7 +41,7 @@ Unas memorias brillantes, emotivísimas, desde su infancia en Cádiz hasta las m
 
 ## Ficha del libro
 
-- **Autor:** Pablo Carbonell
+- **Autor:** [Pablo Carbonell](/autores/pablo-carbonell/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 384 páginas
 - **Idioma:** Spanish; Castilian
@@ -53,4 +53,4 @@ Unas memorias brillantes, emotivísimas, desde su infancia en Cádiz hasta las m
 
 - **Inicio:** 2016/04/13
 - **Fin:** 2016/04/19
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

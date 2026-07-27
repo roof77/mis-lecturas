@@ -27,7 +27,7 @@ Angélica debe encontrar a su mascota en el interior de una escalofriante mansi�
 
 ## Ficha del libro
 
-- **Autor:** Artur Laperla
+- **Autor:** [Artur Laperla](/autores/artur-laperla/)
 - **Editorial:** Sapristi
 - **Formato:** Paperback, 128 páginas
 - **Idioma:** Spanish; Castilian
@@ -39,4 +39,4 @@ Angélica debe encontrar a su mascota en el interior de una escalofriante mansi�
 
 - **Inicio:** 2024/04/06
 - **Fin:** 2024/04/06
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Memoir
-- France
-- Biography
-- History
-- Nobel Prize
+- No Ficción
+- Memorias
+- Francia
+- Biografía
+- Historia
+- Premio Nobel
+- Literatura francesa
+- Feminismo
+- Club de lectura
 autores:
 - Annie Ernaux
+- Lydia Vázquez Jiménez
 editoriales:
 - Cabaret Voltaire
 image:
@@ -31,14 +35,14 @@ A través de fotos y recuerdos dejados por los acontecimientos, las palabras y l
 
 ## Ficha del libro
 
-- **Autor:** Annie Ernaux
-- **Colaboradores:** Lydia Vázquez Jiménez (Translator)
+- **Autor:** [Annie Ernaux](/autores/annie-ernaux/)
+- **Colaboradores:** [Lydia Vázquez Jiménez](/autores/lydia-vazquez-jimenez/) (Translator)
 - **Editorial:** Cabaret Voltaire
 - **Formato:** Paperback, 322 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494941453 / 9788494941450
 - **Publicación original:** 2019-09-11
-- **Géneros:** Nonfiction, Memoir, France, Biography, History, Nobel Prize, French Literature, Feminism, Book Club, Audiobook
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Francia](/tags/francia/), [Biografía](/tags/biografia/), [Historia](/tags/historia/), [Premio Nobel](/tags/premio-nobel/), [Literatura francesa](/tags/literatura-francesa/), [Feminismo](/tags/feminismo/), [Club de lectura](/tags/club-de-lectura/)
 - **Premios ganados:** Deutscher Hörbuchpreis (2020), French-American Foundation Translation Prize (2018), Prix François-Mauriac (2008), Premio Strega Europeo (2016), Warwick Prize for Women in Translation (2019), Prix Marguerite-Duras (2008)
 - **Nominaciones:** Europese Literatuurprijs (2021), International Booker Prize (2019)
 - **Ficha en Goodreads:** [Los años](https://www.goodreads.com/book/show/49394460-los-a-os)
@@ -47,4 +51,4 @@ A través de fotos y recuerdos dejados por los acontecimientos, las palabras y l
 
 - **Inicio:** 2024/12/15
 - **Fin:** 2024/12/24
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

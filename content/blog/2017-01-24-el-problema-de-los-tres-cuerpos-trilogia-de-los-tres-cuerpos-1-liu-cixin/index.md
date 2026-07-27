@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Audiobook
+- Ciencia ficción
+- Ficción
 - China
-- Fantasy
-- Book Club
+- Fantasía
+- Club de lectura
+- Ciencia Ficción
+- Extraterrestres
+- Novela
+- Adultos
 autores:
 - Liu Cixin
+- Javier Altayó
 editoriales:
 - NOVA
 image:
@@ -33,15 +37,15 @@ El público y la crítica de los cinco continentes se rinden ante esta obra maes
 
 ## Ficha del libro
 
-- **Autor:** Liu Cixin
+- **Autor:** [Liu Cixin](/autores/liu-cixin/)
 - **Serie:** Remembrance of Earth's Past (#1)
-- **Colaboradores:** Javier Altayó (Translator)
+- **Colaboradores:** [Javier Altayó](/autores/javier-altayo/) (Translator)
 - **Editorial:** NOVA
 - **Formato:** ebook, 416 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490695288 / 9788490695289
 - **Publicación original:** 2016-09-06
-- **Géneros:** Science Fiction, Fiction, Audiobook, China, Fantasy, Book Club, Science Fiction Fantasy, Aliens, Novels, Adult
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [China](/tags/china/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Extraterrestres](/tags/extraterrestres/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)
 - **Personajes:** Ye Zhetai, Shao Lin, Ye Wenxue, Lei Zhicheng, Yang Weining, Wang Miao, Shen Yufei, Wei Cheng, Pan Han, Sha Ruishan
 - **Lugares:** China, Beijing (China), Panama Canal (Panama)
 - **Premios ganados:** Hugo Award (2015), Premio Ignotus (2017)
@@ -52,4 +56,4 @@ El público y la crítica de los cinco continentes se rinden ante esta obra maes
 
 - **Inicio:** 2017/01/17
 - **Fin:** 2017/01/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

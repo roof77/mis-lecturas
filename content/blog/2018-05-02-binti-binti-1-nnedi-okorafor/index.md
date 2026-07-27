@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Fantasy
+- Ciencia ficción
+- Ficción
+- Fantasía
 - Novella
-- Audiobook
-- Young Adult
+- Jovenes adultos
+- Relatos
+- Ciencia Ficción
+- Adultos
+- Extraterrestres
 autores:
 - Nnedi Okorafor
+- Carla Bataller Estruch
 editoriales:
 - Crononauta
 image:
@@ -35,15 +39,15 @@ Este viaje transformará a quien lo emprende de forma irremediable, sin posibili
 
 ## Ficha del libro
 
-- **Autor:** Nnedi Okorafor
+- **Autor:** [Nnedi Okorafor](/autores/nnedi-okorafor/)
 - **Serie:** Binti (#1)
-- **Colaboradores:** Carla Bataller Estruch (Translator)
+- **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (Translator)
 - **Editorial:** Crononauta
 - **Formato:** Paperback, 110 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788494795817
 - **Publicación original:** 2018-02-15
-- **Géneros:** Science Fiction, Fiction, Fantasy, Novella, Audiobook, Young Adult, Short Stories, Science Fiction Fantasy, Adult, Aliens
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Jovenes adultos](/tags/jovenes-adultos/), [Relatos](/tags/relatos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/), [Extraterrestres](/tags/extraterrestres/)
 - **Premios ganados:** Hugo Award (2016), Nebula Award (2015), Premio Ignotus (2019), Nommo Award (2017)
 - **Nominaciones:** Locus Award (2016)
 - **Ficha en Goodreads:** [Binti (Binti, #1)](https://www.goodreads.com/book/show/37877850-binti)
@@ -52,4 +56,4 @@ Este viaje transformará a quien lo emprende de forma irremediable, sin posibili
 
 - **Inicio:** 2018/05/01
 - **Fin:** 2018/05/02
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

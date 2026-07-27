@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Crime
-- Fiction
+- Crimen
+- Ficción
 - Noir
 - Thriller
-- Contemporary
-- The United States Of America
+- Contemporaneo
+- EEUU
+- Misterio
+- Siglo XX
+- Novela
 autores:
 - Edward Bunker
+- Zulema Couso
 editoriales:
 - Sajalín
 image:
@@ -37,18 +41,18 @@ Troy Cameron, criminal ampliamente respetado en los bajos fondos de Los Ángeles
 
 ## Ficha del libro
 
-- **Autor:** Edward Bunker
-- **Colaboradores:** Zulema Couso (Translator)
+- **Autor:** [Edward Bunker](/autores/edward-bunker/)
+- **Colaboradores:** [Zulema Couso](/autores/zulema-couso/) (Translator)
 - **Editorial:** Sajalín
 - **Formato:** Paperback, 339 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493805114 / 9788493805111
 - **Publicación original:** 2010-01-01
-- **Géneros:** Crime, Fiction, Noir, Thriller, Contemporary, The United States Of America, Americana, Mystery, 20th Century, Novels
+- **Géneros:** [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Noir](/tags/noir/), [Thriller](/tags/thriller/), [Contemporaneo](/tags/contemporaneo/), [EEUU](/tags/eeuu/), [Misterio](/tags/misterio/), [Siglo XX](/tags/siglo-xx/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Perro come perro](https://www.goodreads.com/book/show/12534865-perro-come-perro)
 
 ## Mi lectura
 
 - **Inicio:** 2015/06/26
 - **Fin:** 2015/06/27
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

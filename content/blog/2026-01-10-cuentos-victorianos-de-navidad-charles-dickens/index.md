@@ -7,11 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Christmas
-- Short Stories
-- Classics
+- Navidad
+- Relatos
+- Clásico
 autores:
 - Charles Dickens
+- Anthony Trollope
+- Charlotte Riddell
+- Arthur Conan Doyle
+- Juliana Horatia Ewing
+- Wilkie Collins
+- Miguel Ángel Pérez Pérez
 editoriales:
 - Alianza Editorial
 image:
@@ -26,17 +32,18 @@ El extenso periodo victoriano fue, por diversas y variadas circunstancias, quien
 
 ## Ficha del libro
 
-- **Autor:** Charles Dickens
-- **Colaboradores:** Anthony Trollope (Author), Charlotte Riddell (Author), Arthur Conan Doyle (Author), Juliana Horatia Ewing (Author), Wilkie Collins (Author), Miguel Ángel Pérez Pérez (Traductor)
+- **Autor:** [Charles Dickens](/autores/charles-dickens/)
+- **Colaboradores:** [Anthony Trollope](/autores/anthony-trollope/) (Author), [Charlotte Riddell](/autores/charlotte-riddell/) (Author), [Arthur Conan Doyle](/autores/arthur-conan-doyle/) (Author), [Juliana Horatia Ewing](/autores/juliana-horatia-ewing/) (Author), [Wilkie Collins](/autores/wilkie-collins/) (Author), [Miguel Ángel Pérez Pérez](/autores/miguel-angel-perez-perez/) (Traductor)
 - **Editorial:** Alianza Editorial
 - **Formato:** Hardcover, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413625149 / 9788413625140
 - **Publicación original:** 2021-11-04
-- **Géneros:** Christmas, Short Stories, Classics
+- **Géneros:** [Navidad](/tags/navidad/), [Relatos](/tags/relatos/), [Clásico](/tags/clasico/)
 - **Ficha en Goodreads:** [Cuentos victorianos de Navidad](https://www.goodreads.com/book/show/59404134-cuentos-victorianos-de-navidad)
 
 ## Mi lectura
 
 - **Inicio:** 2025/12/23
 - **Fin:** 2026/01/10
+- **Calificación:** Muy recomendable/5

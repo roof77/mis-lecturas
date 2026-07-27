@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Literary Fiction
-- Novels
-- Contemporary
-- Film
-- Book Club
+- Ficción
+- Ficción Literaria
+- Novela
+- Contemporaneo
+- Películas
+- Club de lectura
+- Adultos
+- Amistad
+- Mujeres
 autores:
 - Dana Spiotta
+- Carles Andreu Saburit
 editoriales:
 - Turner
 image:
@@ -35,14 +39,14 @@ Cuando pase todo lo que va a pasar en este libro, donde uno siempre quiere saber
 
 ## Ficha del libro
 
-- **Autor:** Dana Spiotta
-- **Colaboradores:** Carles Andreu Saburit (Translator)
+- **Autor:** [Dana Spiotta](/autores/dana-spiotta/)
+- **Colaboradores:** [Carles Andreu Saburit](/autores/carles-andreu-saburit/) (Translator)
 - **Editorial:** Turner
 - **Formato:** Paperback, 280 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416354340 / 9788416354344
 - **Publicación original:** 2016-04-01
-- **Géneros:** Fiction, Literary Fiction, Novels, Contemporary, Film, Book Club, Adult, Friendship, Womens, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/), [Películas](/tags/peliculas/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Amistad](/tags/amistad/), [Mujeres](/tags/mujeres/)
 - **Nominaciones:** Los Angeles Times Book Prize (2016)
 - **Ficha en Goodreads:** [Inocentes y otras](https://www.goodreads.com/book/show/29973159-inocentes-y-otras)
 
@@ -50,4 +54,4 @@ Cuando pase todo lo que va a pasar en este libro, donde uno siempre quiere saber
 
 - **Inicio:** 2016/08/06
 - **Fin:** 2016/08/09
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

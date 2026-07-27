@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Feminism
-- Essays
-- Audiobook
-- Memoir
-- Politics
+- No Ficción
+- Feminismo
+- Ensayo
+- Memorias
+- Política
+- Escritura
+- Mujeres
+- Género
+- Justicia social
 autores:
 - Kameron Hurley
+- Alexander Páez
 editoriales:
 - Runas
 image:
@@ -31,14 +35,14 @@ Con un estilo beligerante y directo, al tiempo que cuidadosamente elaborado, ref
 
 ## Ficha del libro
 
-- **Autor:** Kameron Hurley
-- **Colaboradores:** Alexander Páez (Translator)
+- **Autor:** [Kameron Hurley](/autores/kameron-hurley/)
+- **Colaboradores:** [Alexander Páez](/autores/alexander-paez/) (Translator)
 - **Editorial:** Runas
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491810145 / 9788491810148
 - **Publicación original:** 2018-02-22
-- **Géneros:** Nonfiction, Feminism, Essays, Audiobook, Memoir, Politics, Writing, Womens, Gender, Social Justice
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Ensayo](/tags/ensayo/), [Memorias](/tags/memorias/), [Política](/tags/politica/), [Escritura](/tags/escritura/), [Mujeres](/tags/mujeres/), [Género](/tags/genero/), [Justicia social](/tags/justicia-social/)
 - **Premios ganados:** Locus Award (2017), Audie Award (2017)
 - **Nominaciones:** Hugo Award (2017), Goodreads Choice Award (2016), Readers' Favorite Nonfiction (2016)
 - **Ficha en Goodreads:** [La revolución feminista geek](https://www.goodreads.com/book/show/37758206-la-revoluci-n-feminista-geek)
@@ -47,4 +51,4 @@ Con un estilo beligerante y directo, al tiempo que cuidadosamente elaborado, ref
 
 - **Inicio:** 2018/08/09
 - **Fin:** 2018/08/15
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

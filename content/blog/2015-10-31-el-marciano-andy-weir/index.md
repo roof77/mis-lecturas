@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Audiobook
-- Book Club
-- Adventure
-- Space
+- Ciencia ficción
+- Ficción
+- Club de lectura
+- Aventuras
+- Espacio
+- Adultos
+- Thriller
+- Ciencia Ficción
+- Fantasía
+- Supervivencia
 autores:
 - Andy Weir
+- Javier Guerrero Gimeno
 editoriales:
 - Ediciones B
 image:
@@ -32,14 +37,14 @@ Sin embargo, Mark no se da por vencido; armado con su ingenio, sus habilidades y
 
 ## Ficha del libro
 
-- **Autor:** Andy Weir
+- **Autor:** [Andy Weir](/autores/andy-weir/)
 - **Serie:** The Martian (#1)
-- **Colaboradores:** Javier Guerrero Gimeno (Translator)
+- **Colaboradores:** [Javier Guerrero Gimeno](/autores/javier-guerrero-gimeno/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 408 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2014-11-05
-- **Géneros:** Science Fiction, Fiction, Audiobook, Book Club, Adventure, Space, Adult, Thriller, Science Fiction Fantasy, Survival
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Aventuras](/tags/aventuras/), [Espacio](/tags/espacio/), [Adultos](/tags/adultos/), [Thriller](/tags/thriller/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Supervivencia](/tags/supervivencia/)
 - **Personajes:** Mark Watney, Venkat Kapoor, Melissa Lewis, Rick Martinez, Beth Johanssen, Alex Vogel, Teddy Sanders, Mindy Park, Annie Montrose, Bruce Ng
 - **Lugares:** Mars, Houston, Texas (United States)
 - **Premios ganados:** Kurd-Laßwitz-Preis (2015), Audie Award (2015), ALA Alex Award (2015), Premio Ignotus (2015), Goodreads Choice Award (2018), Green Mountain Book Award (2016), Seiun Award 星雲賞 (2015), RUSA CODES Reading List (2015)
@@ -50,4 +55,4 @@ Sin embargo, Mark no se da por vencido; armado con su ingenio, sus habilidades y
 
 - **Inicio:** 2015/10/29
 - **Fin:** 2015/10/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

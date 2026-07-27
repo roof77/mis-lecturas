@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- German Literature
-- Short Stories
-- Novels
-- 20th Century
+- Ficción
+- Clásico
+- Literatura alemana
+- Relatos
+- Novela
+- Siglo XX
+- Literatura
+- Novella
+- Alemania
 autores:
 - Joseph Roth
+- Michael Faber Kaiser
 editoriales:
 - Editorial Anagrama
 image:
@@ -32,14 +36,14 @@ Asimismo, este texto –como señala Carlos Barral en su feliz prologo– es un 
 
 ## Ficha del libro
 
-- **Autor:** Joseph Roth
-- **Colaboradores:** Michael Faber Kaiser (Translator)
+- **Autor:** [Joseph Roth](/autores/joseph-roth/)
+- **Colaboradores:** [Michael Faber Kaiser](/autores/michael-faber-kaiser/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 96 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433930060 / 9788433930064
 - **Publicación original:** 1981-11-01
-- **Géneros:** Fiction, Classics, German Literature, Short Stories, Novels, 20th Century, Literature, Novella, Germany, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura alemana](/tags/literatura-alemana/), [Relatos](/tags/relatos/), [Novela](/tags/novela/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/), [Novella](/tags/novella/), [Alemania](/tags/alemania/)
 - **Personajes:** Andreas
 - **Lugares:** Paris (France)
 - **Ficha en Goodreads:** [La leyenda del Santo Bebedor](https://www.goodreads.com/book/show/264704.La_leyenda_del_Santo_Bebedor)
@@ -48,4 +52,4 @@ Asimismo, este texto –como señala Carlos Barral en su feliz prologo– es un 
 
 - **Inicio:** 2023/05/07
 - **Fin:** 2023/05/10
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Literary Fiction
-- Contemporary
-- Animals
-- Book Club
-- Audiobook
+- Ficción
+- Ficción Literaria
+- Contemporaneo
+- Animales
+- Club de lectura
+- Aflicción
+- Novela
+- Perros
+- Literatura
 autores:
 - Sigrid Nunez
+- Mercedes Cebrián
 editoriales:
 - Editorial Anagrama
 image:
@@ -31,14 +35,14 @@ El libro –galardonado con el National Book Award, instantáneo y sorpresivo é
 
 ## Ficha del libro
 
-- **Autor:** Sigrid Nunez
-- **Colaboradores:** Mercedes Cebrián (Translator)
+- **Autor:** [Sigrid Nunez](/autores/sigrid-nunez/)
+- **Colaboradores:** [Mercedes Cebrián](/autores/mercedes-cebrian/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 208 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433980386 / 9788433980380
 - **Publicación original:** 2019-08-31
-- **Géneros:** Fiction, Literary Fiction, Contemporary, Animals, Book Club, Audiobook, Grief, Novels, Dogs, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Animales](/tags/animales/), [Club de lectura](/tags/club-de-lectura/), [Aflicción](/tags/afliccion/), [Novela](/tags/novela/), [Perros](/tags/perros/), [Literatura](/tags/literatura/)
 - **Premios ganados:** National Book Award (2018)
 - **Nominaciones:** Dublin Literary Award (2020)
 - **Ficha en Goodreads:** [El amigo](https://www.goodreads.com/book/show/45479295-el-amigo)
@@ -47,4 +51,4 @@ El libro –galardonado con el National Book Award, instantáneo y sorpresivo é
 
 - **Inicio:** 2022/07/14
 - **Fin:** 2022/07/18
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

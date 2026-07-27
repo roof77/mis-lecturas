@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- True Crime
-- Journalism
-- Biography
-- Crime
-- Psychology
+- No Ficción
+- Crime real
+- Periodismo
+- Biografía
+- Crimen
+- Psicología
+- Sexualidad
+- Historia
+- Club de lectura
+- Ensayo
 autores:
 - Gay Talese
 editoriales:
@@ -35,17 +39,17 @@ Hoy, treinta y seis años más tarde, Foos está listo para hacerla pública y T
 
 ## Ficha del libro
 
-- **Autor:** Gay Talese
+- **Autor:** [Gay Talese](/autores/gay-talese/)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 229 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420426644 / 9788420426648
 - **Publicación original:** 2017-01-12
-- **Géneros:** Nonfiction, True Crime, Journalism, Biography, Crime, Psychology, Sexuality, History, Book Club, Essays
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Crime real](/tags/crime-real/), [Periodismo](/tags/periodismo/), [Biografía](/tags/biografia/), [Crimen](/tags/crimen/), [Psicología](/tags/psicologia/), [Sexualidad](/tags/sexualidad/), [Historia](/tags/historia/), [Club de lectura](/tags/club-de-lectura/), [Ensayo](/tags/ensayo/)
 - **Ficha en Goodreads:** [El motel del voyeur](https://www.goodreads.com/book/show/33666385-el-motel-del-voyeur)
 
 ## Mi lectura
 
 - **Inicio:** 2020/04/19
 - **Fin:** 2020/05/01
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

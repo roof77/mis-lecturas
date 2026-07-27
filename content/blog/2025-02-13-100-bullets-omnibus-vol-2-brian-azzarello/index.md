@@ -8,13 +8,14 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Dc Comics
+- Novela gráfica
+- DC
 - Thriller
-- Mystery
-- Fiction
+- Misterio
+- Ficción
 autores:
 - Brian Azzarello
+- Eduardo Risso
 editoriales:
 - DC Comics
 image:
@@ -37,18 +38,18 @@ This second volume omnibus collects 100 Bullets #59-100!
 
 ## Ficha del libro
 
-- **Autor:** Brian Azzarello
-- **Colaboradores:** Eduardo Risso (Illustrator)
+- **Autor:** [Brian Azzarello](/autores/brian-azzarello/)
+- **Colaboradores:** [Eduardo Risso](/autores/eduardo-risso/) (Illustrator)
 - **Editorial:** DC Comics
 - **Formato:** Hardcover, 1008 páginas
 - **Idioma:** English
 - **ISBN:** 1779514867 / 9781779514868
 - **Publicación original:** 2022-06-28
-- **Géneros:** Comics, Graphic Novels, Dc Comics, Thriller, Mystery, Fiction
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [DC](/tags/dc/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [100 Bullets Omnibus Vol. 2](https://www.goodreads.com/book/show/59205112-100-bullets-omnibus-vol-2)
 
 ## Mi lectura
 
 - **Inicio:** 2025/02/10
 - **Fin:** 2025/02/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

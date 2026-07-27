@@ -23,7 +23,7 @@ California Rocket Fuel es la historia de una consulta al psicólogo/psiquiatra. 
 
 ## Ficha del libro
 
-- **Autor:** Lorenzo Montatore
+- **Autor:** [Lorenzo Montatore](/autores/lorenzo-montatore/)
 - **Editorial:** Mortal y Rosa
 - **Formato:** Paperback, 134 páginas
 - **Idioma:** Spanish; Castilian
@@ -34,4 +34,4 @@ California Rocket Fuel es la historia de una consulta al psicólogo/psiquiatra. 
 
 - **Inicio:** 2025/02/13
 - **Fin:** 2025/02/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

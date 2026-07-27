@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Classics
-- Fiction
-- School
-- American
-- Read For School
+- Relatos
+- Clásico
+- Ficción
+- Colegio
+- EEUU
+- Literatura
+- Queer
+- LGTBIQ+
+- Universidad
 autores:
 - Willa Cather
+- Aurora Echeverria
 editoriales:
 - Nordica Libros
 image:
@@ -33,18 +37,18 @@ Considerada una de las mejores obras de literatura estadounidense, esta novela e
 
 ## Ficha del libro
 
-- **Autor:** Willa Cather
-- **Colaboradores:** Aurora Echeverria (Translator)
+- **Autor:** [Willa Cather](/autores/willa-cather/)
+- **Colaboradores:** [Aurora Echeverria](/autores/aurora-echeverria/) (Translator)
 - **Editorial:** Nordica Libros
 - **Formato:** Paperback, 72 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8492683279 / 9788492683277
 - **Publicación original:** 2010-09-01
-- **Géneros:** Short Stories, Classics, Fiction, School, American, Read For School, Literature, Queer, LGBT, College
+- **Géneros:** [Relatos](/tags/relatos/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Colegio](/tags/colegio/), [EEUU](/tags/eeuu/), [Literatura](/tags/literatura/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Universidad](/tags/universidad/)
 - **Ficha en Goodreads:** [El caso de Paul](https://www.goodreads.com/book/show/13199136-el-caso-de-paul)
 
 ## Mi lectura
 
 - **Inicio:** 2015/09/23
 - **Fin:** 2015/09/23
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

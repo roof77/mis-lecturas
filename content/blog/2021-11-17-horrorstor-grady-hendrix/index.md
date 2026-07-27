@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Audiobook
+- Terror
+- Ficción
 - Humor
 - Paranormal
 - Thriller
+- Misterio
+- Adultos
+- Fantasía
+- Fantasmas
 autores:
 - Grady Hendrix
+- Jaime Valero
 editoriales:
 - Colmena Ediciones
 image:
@@ -33,14 +37,14 @@ Para desentrañar el misterio, tres empleados se presentan voluntarios para hace
 
 ## Ficha del libro
 
-- **Autor:** Grady Hendrix
-- **Colaboradores:** Jaime Valero (Translator)
+- **Autor:** [Grady Hendrix](/autores/grady-hendrix/)
+- **Colaboradores:** [Jaime Valero](/autores/jaime-valero/) (Translator)
 - **Editorial:** Colmena Ediciones
 - **Formato:** Paperback, 248 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415709757 / 9788415709756
 - **Publicación original:** 2014-10-01
-- **Géneros:** Horror, Fiction, Audiobook, Humor, Paranormal, Thriller, Mystery, Adult, Fantasy, Ghosts
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Paranormal](/tags/paranormal/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Fantasía](/tags/fantasia/), [Fantasmas](/tags/fantasmas/)
 - **Personajes:** Amy Porter, Basil Washington, Ruth Anne DeSoto, Trinity Park, Matthew C. McGrath
 - **Lugares:** Cleveland, Ohio (United States), Ohio (United States)
 - **Nominaciones:** Goodreads Choice Award (2014), RUSA CODES Reading List (2015), Readers' Favorite Horror (2014)
@@ -50,4 +54,4 @@ Para desentrañar el misterio, tres empleados se presentan voluntarios para hace
 
 - **Inicio:** 2021/11/11
 - **Fin:** 2021/11/17
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Biography
-- Memoir
-- Autobiography
-- Crime
-- True Crime
+- No Ficción
+- Biografía
+- Memorias
+- Autobiografía
+- Crimen
+- Crime real
+- Historia
+- Afroamericanos
 autores:
 - Iceberg Slim
+- Enrique Maldonado Roldán
 editoriales:
 - Capitán Swing Libros
 image:
@@ -29,14 +32,14 @@ A finales de 1960 y principios de los 70, si uno quería un libro de Iceberg Sli
 
 ## Ficha del libro
 
-- **Autor:** Iceberg Slim
-- **Colaboradores:** Enrique Maldonado Roldán (Translator)
+- **Autor:** [Iceberg Slim](/autores/iceberg-slim/)
+- **Colaboradores:** [Enrique Maldonado Roldán](/autores/enrique-maldonado-roldan/) (Translator)
 - **Editorial:** Capitán Swing Libros
 - **Formato:** Kindle Edition, 434 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494531158 / 9788494531156
 - **Publicación original:** 2018-09-03
-- **Géneros:** Nonfiction, Biography, Memoir, Autobiography, Crime, True Crime, Audiobook, History, Biography Memoir, African American
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Memorias](/tags/memorias/), [Autobiografía](/tags/autobiografia/), [Crimen](/tags/crimen/), [Crime real](/tags/crime-real/), [Historia](/tags/historia/), [Afroamericanos](/tags/afroamericanos/)
 - **Lugares:** The United States of America
 - **Ficha en Goodreads:** [Pimp, memorias de un chulo (Colección ensayo) (Spanish Edition)](https://www.goodreads.com/book/show/41963345-pimp-memorias-de-un-chulo-colecci-n-ensayo)
 
@@ -44,4 +47,4 @@ A finales de 1960 y principios de los 70, si uno quería un libro de Iceberg Sli
 
 - **Inicio:** 2016/04/28
 - **Fin:** 2016/05/05
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

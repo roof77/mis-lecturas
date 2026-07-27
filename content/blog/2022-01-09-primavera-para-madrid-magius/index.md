@@ -8,11 +8,10 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Spain
-- Politics
-- Spanish Literature
-- Comic Book
+- Novela gráfica
+- España
+- Política
+- Literatura hispana
 autores:
 - Magius
 editoriales:
@@ -35,13 +34,13 @@ Impreso íntegramente sobre papel oro para reflejar el obsceno derroche de nuest
 
 ## Ficha del libro
 
-- **Autor:** Magius
+- **Autor:** [Magius](/autores/magius/)
 - **Editorial:** Autsaider Cómics
 - **Formato:** Hardcover, 272 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412007352 / 9788412007350
 - **Publicación original:** 2020-06-19
-- **Géneros:** Comics, Graphic Novels, Spain, Politics, Spanish Literature, Comic Book, Bande Dessinée
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [España](/tags/espana/), [Política](/tags/politica/), [Literatura hispana](/tags/literatura-hispana/)
 - **Premios ganados:** Premio Nacional del Cómic (2021)
 - **Ficha en Goodreads:** [Primavera para Madrid](https://www.goodreads.com/book/show/54571105-primavera-para-madrid)
 
@@ -49,4 +48,4 @@ Impreso íntegramente sobre papel oro para reflejar el obsceno derroche de nuest
 
 - **Inicio:** 2022/01/08
 - **Fin:** 2022/01/09
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

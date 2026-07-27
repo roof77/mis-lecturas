@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Historical Fiction
+- Ficción
+- Clásico
+- Ficción histórica
 - Humor
 - Romance
-- British Literature
+- Literatura británica
+- Club de lectura
+- Histórico
+- Libros sobre libros
 autores:
 - D.E. Stevenson
+- Concepción Cardeñoso Sáenz de Miera
 editoriales:
 - Alba Editorial
 image:
@@ -31,15 +35,15 @@ Quien lo ha escrito no es "John Smith" sino Barbara Buncle, una "cuarentona flac
 
 ## Ficha del libro
 
-- **Autor:** D.E. Stevenson
+- **Autor:** [D.E. Stevenson](/autores/d-e-stevenson/)
 - **Serie:** Miss Buncle (#1)
-- **Colaboradores:** Concepción Cardeñoso Sáenz de Miera (Translator)
+- **Colaboradores:** [Concepción Cardeñoso Sáenz de Miera](/autores/concepcion-cardenoso-saenz-de-miera/) (Translator)
 - **Editorial:** Alba Editorial
 - **Formato:** Paperback, 378 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484287246 / 9788484287247
 - **Publicación original:** 2012-05-01
-- **Géneros:** Fiction, Classics, Historical Fiction, Humor, Romance, British Literature, Book Club, Historical, Books About Books, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Humor](/tags/humor/), [Romance](/tags/romance/), [Literatura británica](/tags/literatura-britanica/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/), [Libros sobre libros](/tags/libros-sobre-libros/)
 - **Personajes:** Barbara Buncle, Augusta Featherstone Hogg, Vivian Greensleeves, Colonel Weatherhead, Arthur Abbott, Sally Carter, Mrs. Carter, Ernest Hathaway, Sarah Walker
 - **Ficha en Goodreads:** [El libro de la señorita Buncle (Barbara Buncle #1)](https://www.goodreads.com/book/show/14061416-el-libro-de-la-se-orita-buncle)
 
@@ -47,4 +51,4 @@ Quien lo ha escrito no es "John Smith" sino Barbara Buncle, una "cuarentona flac
 
 - **Inicio:** 2014/05/04
 - **Fin:** 2014/05/06
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

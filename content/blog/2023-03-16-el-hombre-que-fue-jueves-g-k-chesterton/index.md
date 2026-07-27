@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Mystery
-- Fantasy
-- Philosophy
-- Literature
+- Ficción
+- Clásico
+- Misterio
+- Fantasía
+- Filosofía
+- Literatura
+- Novela
+- Thriller
+- Literatura británica
+- Club de lectura
 autores:
 - G.K. Chesterton
 editoriales:
@@ -29,13 +33,13 @@ El hombre que fue Jueves, una de las novelas más populares del escritor y polem
 
 ## Ficha del libro
 
-- **Autor:** G.K. Chesterton
+- **Autor:** [G.K. Chesterton](/autores/g-k-chesterton/)
 - **Editorial:** MESTAS Ediciones, S.L.
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8489163987 / 9788489163980
 - **Publicación original:** 2000-07-01
-- **Géneros:** Fiction, Classics, Mystery, Fantasy, Philosophy, Literature, Novels, Thriller, British Literature, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Misterio](/tags/misterio/), [Fantasía](/tags/fantasia/), [Filosofía](/tags/filosofia/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Thriller](/tags/thriller/), [Literatura británica](/tags/literatura-britanica/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Gabriel Syme, Lucian Gregory, Rosamond Gregory, Professor de Worms, Dr. Bull, Marquis de St. Eustache, Colonel Ducroix, Inspector Ratcliffe, Dr. Renard
 - **Lugares:** United Kingdom, London, England, England
 - **Ficha en Goodreads:** [El hombre que fue Jueves](https://www.goodreads.com/book/show/909668.El_hombre_que_fue_Jueves)
@@ -44,4 +48,4 @@ El hombre que fue Jueves, una de las novelas más populares del escritor y polem
 
 - **Inicio:** 2023/03/12
 - **Fin:** 2023/03/16
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

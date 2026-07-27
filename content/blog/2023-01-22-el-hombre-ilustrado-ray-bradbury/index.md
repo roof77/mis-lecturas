@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Short Stories
-- Fiction
-- Classics
-- Fantasy
-- Horror
+- Ciencia ficción
+- Relatos
+- Ficción
+- Clásico
+- Fantasía
+- Terror
+- Ciencia Ficción
+- Antología
+- Literatura
 autores:
 - Ray Bradbury
+- Francisco Abelenda
 editoriales:
 - Minotauro
 image:
@@ -29,14 +33,14 @@ En esta colección de historias entrelazadas, el narrador anónimo conoce a El H
 
 ## Ficha del libro
 
-- **Autor:** Ray Bradbury
-- **Colaboradores:** Francisco Abelenda (Author)
+- **Autor:** [Ray Bradbury](/autores/ray-bradbury/)
+- **Colaboradores:** [Francisco Abelenda](/autores/francisco-abelenda/) (Author)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 283 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445073990 / 9788445073995
 - **Publicación original:** 2002-09-17
-- **Géneros:** Science Fiction, Short Stories, Fiction, Classics, Fantasy, Horror, Science Fiction Fantasy, Audiobook, Anthologies, Literature
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Antología](/tags/antologia/), [Literatura](/tags/literatura/)
 - **Nominaciones:** International Fantasy Award (-568051200000), Audie Award (2026), Analog Award (-568051200000)
 - **Ficha en Goodreads:** [El hombre ilustrado](https://www.goodreads.com/book/show/1053630.El_hombre_ilustrado)
 
@@ -44,4 +48,4 @@ En esta colección de historias entrelazadas, el narrador anónimo conoce a El H
 
 - **Inicio:** 2023/01/14
 - **Fin:** 2023/01/22
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

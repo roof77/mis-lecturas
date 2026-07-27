@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Japan
-- Asia
-- Japanese Literature
-- Short Stories
-- Fiction
-- Contemporary
+- Japón
+- Ásia
+- Literatura japanesa
+- Relatos
+- Ficción
+- Contemporaneo
+- Realismo mágico
+- Fantasía
+- Literatura asiática
 autores:
 - Yukiko Motoya
+- Jordi Fibla
+- Keiko Takahashi
 editoriales:
 - Alianza editorial
 image:
@@ -31,14 +36,14 @@ Además de la novela breve que da título al volumen, galardonada con el premio 
 
 ## Ficha del libro
 
-- **Autor:** Yukiko Motoya
-- **Colaboradores:** Jordi Fibla (Translator), Keiko Takahashi (Translator)
+- **Autor:** [Yukiko Motoya](/autores/yukiko-motoya/)
+- **Colaboradores:** [Jordi Fibla](/autores/jordi-fibla/) (Translator), [Keiko Takahashi](/autores/keiko-takahashi/) (Translator)
 - **Editorial:** Alianza editorial
 - **Formato:** Paperback, 143 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491814566 / 9788491814566
 - **Publicación original:** 2019-05-09
-- **Géneros:** Japan, Asia, Japanese Literature, Short Stories, Fiction, Contemporary, Magical Realism, Fantasy, Asian Literature
+- **Géneros:** [Japón](/tags/japon/), [Ásia](/tags/asia/), [Literatura japanesa](/tags/literatura-japanesa/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Realismo mágico](/tags/realismo-magico/), [Fantasía](/tags/fantasia/), [Literatura asiática](/tags/literatura-asiatica/)
 - **Premios ganados:** Akutagawa Prize 芥川龍之介賞 (2015)
 - **Ficha en Goodreads:** [Mi marido es de otra especie](https://www.goodreads.com/book/show/45717173-mi-marido-es-de-otra-especie)
 
@@ -46,4 +51,4 @@ Además de la novela breve que da título al volumen, galardonada con el premio 
 
 - **Inicio:** 2021/07/31
 - **Fin:** 2021/08/02
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

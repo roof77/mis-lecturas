@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Graphic Novels Comics
-- Mystery
-- Crime
+- Ficción
+- Misterio
+- Crimen
+- Contemporaneo
+- EEUU
 autores:
 - Nick Drnaso
 editoriales:
@@ -33,13 +34,13 @@ A landmark graphic novel, already hailed as one of the most exciting and moving 
 
 ## Ficha del libro
 
-- **Autor:** Nick Drnaso
+- **Autor:** [Nick Drnaso](/autores/nick-drnaso/)
 - **Editorial:** Granta Books
 - **Formato:** Hardcover, 208 páginas
 - **Idioma:** English
 - **ISBN:** 1783784903 / 9781783784905
 - **Publicación original:** 2018-01-01
-- **Géneros:** Graphic Novels, Comics, Fiction, Graphic Novels Comics, Mystery, Crime, Contemporary, Bande Dessinée, Comic Book, The United States Of America
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Contemporaneo](/tags/contemporaneo/), [EEUU](/tags/eeuu/)
 - **Personajes:** Calvin Wrobel, Teddy King, Sabrina Gallo, Sandra Gallo, Connor Dahlman, Timmy Yancey
 - **Lugares:** Colorado (United States), Illinois (United States), Chicago, Illinois (United States)
 - **Nominaciones:** Booker Prize (2018), New York Public Library Young Lions Fiction Award (2019), Orwell Prize (2019), Goodreads Choice Award (2018), Readers' Favorite Graphic Novels & Comics (2018)
@@ -49,4 +50,4 @@ A landmark graphic novel, already hailed as one of the most exciting and moving 
 
 - **Inicio:** 2021/09/08
 - **Fin:** 2021/09/15
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

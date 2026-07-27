@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- LGBT
-- Nonfiction
-- Feminism
+- LGTBIQ+
+- No Ficción
+- Feminismo
 - Queer
-- History
-- Lesbian
+- Historia
+- Lesbianismo
+- Histórico
+- Biografía
+- Literatura hispana
+- Romance
 autores:
 - Cristina Domenech
 editoriales:
@@ -33,18 +37,18 @@ Este libro, que contempla desde el siglo XVII hasta el siglo XX, explora la hist
 
 ## Ficha del libro
 
-- **Autor:** Cristina Domenech
+- **Autor:** [Cristina Domenech](/autores/cristina-domenech/)
 - **Serie:** Señoras que se empotraron
 - **Editorial:** Plan B 
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841700193X / 9788417001933
 - **Publicación original:** 2019-10-17
-- **Géneros:** LGBT, Nonfiction, Feminism, Queer, History, Lesbian, Historical, Biography, Spanish Literature, Romance
+- **Géneros:** [LGTBIQ+](/tags/lgtbiq/), [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Queer](/tags/queer/), [Historia](/tags/historia/), [Lesbianismo](/tags/lesbianismo/), [Histórico](/tags/historico/), [Biografía](/tags/biografia/), [Literatura hispana](/tags/literatura-hispana/), [Romance](/tags/romance/)
 - **Ficha en Goodreads:** [Señoras que se empotraron hace mucho](https://www.goodreads.com/book/show/50058115-se-oras-que-se-empotraron-hace-mucho)
 
 ## Mi lectura
 
 - **Inicio:** 2020/02/17
 - **Fin:** 2020/02/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

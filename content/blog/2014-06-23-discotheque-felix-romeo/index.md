@@ -23,7 +23,7 @@ Discothèque es una comedia negra y coral. La parodia de géneros, el culebrón
 
 ## Ficha del libro
 
-- **Autor:** Félix Romeo
+- **Autor:** [Félix Romeo](/autores/felix-romeo/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 224 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ Discothèque es una comedia negra y coral. La parodia de géneros, el culebrón
 
 - **Inicio:** 2014/06/20
 - **Fin:** 2014/06/23
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

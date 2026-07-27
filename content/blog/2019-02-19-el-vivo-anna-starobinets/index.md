@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Dystopia
-- Russia
-- Fiction
-- Fantasy
-- Russian Literature
+- Ciencia ficción
+- Distopía
+- Rusia
+- Ficción
+- Fantasía
+- Literatura rusa
+- Cyberpunk
+- Terror
+- Ficción especulativa
 autores:
 - Anna Starobinets
+- Raquel Marqués García
+- Julián Díez
+- Zuri Negrín
 editoriales:
 - Nevsky Prospects
 image:
@@ -31,14 +37,14 @@ Ya no hay individuos, cada ser humano no es más que un elemento en una concienc
 
 ## Ficha del libro
 
-- **Autor:** Anna Starobinets
-- **Colaboradores:** Raquel Marqués García (Translator), Julián Díez (Foreword), Zuri Negrín (Illustrator)
+- **Autor:** [Anna Starobinets](/autores/anna-starobinets/)
+- **Colaboradores:** [Raquel Marqués García](/autores/raquel-marques-garcia/) (Translator), [Julián Díez](/autores/julian-diez/) (Foreword), [Zuri Negrín](/autores/zuri-negrin/) (Illustrator)
 - **Editorial:** Nevsky Prospects
 - **Formato:** Paperback, 382 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493935867 / 9788493935863
 - **Publicación original:** 2012-11-19
-- **Géneros:** Science Fiction, Dystopia, Russia, Fiction, Fantasy, Russian Literature, Ebooks, Cyberpunk, Horror, Speculative Fiction
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Rusia](/tags/rusia/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Literatura rusa](/tags/literatura-rusa/), [Cyberpunk](/tags/cyberpunk/), [Terror](/tags/terror/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Premios ganados:** Prix européen Utopiales des pays de la Loire (2016)
 - **Ficha en Goodreads:** [El vivo](https://www.goodreads.com/book/show/16158844-el-vivo)
 
@@ -46,4 +52,4 @@ Ya no hay individuos, cada ser humano no es más que un elemento en una concienc
 
 - **Inicio:** 2019/02/11
 - **Fin:** 2019/02/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

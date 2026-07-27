@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
+- Fantasía
 - Steampunk
 - Novella
-- Science Fiction
-- Fiction
-- Historical Fiction
+- Ciencia ficción
+- Ficción
+- Ficción histórica
+- Ucronía
+- Histórico
+- Adultos
 autores:
 - P. Djèlí Clark
+- Raúl García Campos
+- David G. Vaquero
 editoriales:
 - Obscura Editorial
 image:
@@ -33,13 +38,13 @@ P. Djèlí Clark es un autor multipremiado y una de las más grandes voces de la
 
 ## Ficha del libro
 
-- **Autor:** P. Djèlí Clark
-- **Colaboradores:** Raúl García Campos (Traducción), David G. Vaquero (Ilustración)
+- **Autor:** [P. Djèlí Clark](/autores/p-djeli-clark/)
+- **Colaboradores:** [Raúl García Campos](/autores/raul-garcia-campos/) (Traducción), [David G. Vaquero](/autores/david-g-vaquero/) (Ilustración)
 - **Editorial:** Obscura Editorial
 - **Formato:** Paperback, 132 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2023-06-15
-- **Géneros:** Fantasy, Steampunk, Novella, Science Fiction, Fiction, Historical Fiction, Alternate History, Historical, Audiobook, Adult
+- **Géneros:** [Fantasía](/tags/fantasia/), [Steampunk](/tags/steampunk/), [Novella](/tags/novella/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Ucronía](/tags/ucronia/), [Histórico](/tags/historico/), [Adultos](/tags/adultos/)
 - **Lugares:** New Orleans, Louisiana (United States), Louisiana (United States)
 - **Premios ganados:** ALA Alex Award (2019), Neffy Award (2019)
 - **Nominaciones:** Hugo Award (2019), Nebula Award (2018), Locus Award (2019), World Fantasy Award (2019)
@@ -49,4 +54,4 @@ P. Djèlí Clark es un autor multipremiado y una de las más grandes voces de la
 
 - **Inicio:** 2024/01/08
 - **Fin:** 2024/01/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

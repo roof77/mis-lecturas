@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Thriller
-- Mystery
-- Mystery Thriller
-- Audiobook
-- Crime
+- Misterio
+- Crimen
+- Thriller psicológico
+- Suspense
+- Irlanda
+- Club de lectura
 autores:
 - Liz Nugent
 editoriales:
@@ -35,13 +37,13 @@ Todos piensan que conocen a Oliver Ryan. A partir de esa noche descubrirán que 
 
 ## Ficha del libro
 
-- **Autor:** Liz Nugent
+- **Autor:** [Liz Nugent](/autores/liz-nugent/)
 - **Editorial:** Suma de Letras
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8483657740 / 9788483657744
 - **Publicación original:** 2014-12-01
-- **Géneros:** Fiction, Thriller, Mystery, Mystery Thriller, Audiobook, Crime, Psychological Thriller, Suspense, Ireland, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Thriller psicológico](/tags/thriller-psicologico/), [Suspense](/tags/suspense/), [Irlanda](/tags/irlanda/), [Club de lectura](/tags/club-de-lectura/)
 - **Lugares:** Europe
 - **Ficha en Goodreads:** [El bueno de Oliver](https://www.goodreads.com/book/show/24525748-el-bueno-de-oliver)
 
@@ -49,4 +51,4 @@ Todos piensan que conocen a Oliver Ryan. A partir de esa noche descubrirán que 
 
 - **Inicio:** 2019/08/31
 - **Fin:** 2019/09/04
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

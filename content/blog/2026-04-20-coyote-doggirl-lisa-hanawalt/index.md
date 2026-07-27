@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Graphic Novels Comics
-- Westerns
+- Ficción
+- Oeste
 - Humor
+- Fantasía
+- Animales
+- Adultos
+- Feminismo
 autores:
 - Lisa Hanawalt
 editoriales:
@@ -31,16 +34,17 @@ Coyote Doggirl, primera obra publicada en castellano de la autora, es a la vez, 
 
 ## Ficha del libro
 
-- **Autor:** Lisa Hanawalt
+- **Autor:** [Lisa Hanawalt](/autores/lisa-hanawalt/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 152 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417575367 / 9788417575366
 - **Publicación original:** 2019-01-01
-- **Géneros:** Graphic Novels, Comics, Fiction, Graphic Novels Comics, Westerns, Humor, Fantasy, Animals, Adult, Feminism
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Oeste](/tags/oeste/), [Humor](/tags/humor/), [Fantasía](/tags/fantasia/), [Animales](/tags/animales/), [Adultos](/tags/adultos/), [Feminismo](/tags/feminismo/)
 - **Ficha en Goodreads:** [Coyote Doggirl](https://www.goodreads.com/book/show/51081995-coyote-doggirl)
 
 ## Mi lectura
 
 - **Inicio:** 2026/04/20
 - **Fin:** 2026/04/20
+- **Calificación:** Bien/5

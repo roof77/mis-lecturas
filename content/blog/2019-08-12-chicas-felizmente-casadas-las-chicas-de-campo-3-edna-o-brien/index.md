@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Ireland
-- Irish Literature
-- Classics
-- Novels
-- Womens
+- Ficción
+- Irlanda
+- Literatura irlandesa
+- Clásico
+- Novela
+- Mujeres
+- Ficción Literaria
+- Amistad
+- Siglo XX
+- Clásicos modernos
 autores:
 - Edna O'Brien
+- Regina López Muñoz
 editoriales:
 - Errata Naturae
 image:
@@ -29,19 +34,19 @@ A mitad de los años cincuenta del siglo pasado, Kate y Baba, dos amigas tan dis
 
 ## Ficha del libro
 
-- **Autor:** Edna O'Brien
+- **Autor:** [Edna O'Brien](/autores/edna-o-brien/)
 - **Serie:** The Country Girls Trilogy (#3)
-- **Colaboradores:** Regina López Muñoz (Translator )
+- **Colaboradores:** [Regina López Muñoz](/autores/regina-lopez-munoz/) (Translator)
 - **Editorial:** Errata Naturae
 - **Formato:** Paperback, 272 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415217854 / 9788415217855
 - **Publicación original:** 2015-01-01
-- **Géneros:** Fiction, Ireland, Irish Literature, Classics, Novels, Womens, Literary Fiction, Friendship, 20th Century, Modern Classics
+- **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Clásico](/tags/clasico/), [Novela](/tags/novela/), [Mujeres](/tags/mujeres/), [Ficción Literaria](/tags/ficcion-literaria/), [Amistad](/tags/amistad/), [Siglo XX](/tags/siglo-xx/), [Clásicos modernos](/tags/clasicos-modernos/)
 - **Ficha en Goodreads:** [Chicas felizmente casadas (Las chicas de campo, #3)](https://www.goodreads.com/book/show/25057930-chicas-felizmente-casadas)
 
 ## Mi lectura
 
 - **Inicio:** 2019/08/11
 - **Fin:** 2019/08/12
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

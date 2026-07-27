@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Dogs
-- Animals
-- Science
-- Psychology
-- Audiobook
+- No Ficción
+- Perros
+- Animales
+- Ciencia
+- Psicología
+- Naturaleza
+- Biología
+- Adultos
 autores:
 - Alexandra Horowitz
 editoriales:
@@ -29,17 +31,17 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Alexandra Horowitz
+- **Autor:** [Alexandra Horowitz](/autores/alexandra-horowitz/)
 - **Editorial:** RBA Libros
 - **Formato:** Kindle Edition, 415 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498679664
 - **Publicación original:** 2013-10-01
-- **Géneros:** Nonfiction, Dogs, Animals, Science, Psychology, Audiobook, Nature, Biology, Adult, Unfinished
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Perros](/tags/perros/), [Animales](/tags/animales/), [Ciencia](/tags/ciencia/), [Psicología](/tags/psicologia/), [Naturaleza](/tags/naturaleza/), [Biología](/tags/biologia/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [En la mente de un perro](https://www.goodreads.com/book/show/19385488-en-la-mente-de-un-perro)
 
 ## Mi lectura
 
 - **Inicio:** 2015/01/13
 - **Fin:** 2015/04/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

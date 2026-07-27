@@ -7,13 +7,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Science Fiction
-- Fantasy
-- Comic Book
+- Novela gráfica
+- Ciencia ficción
+- Fantasía
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -28,18 +27,18 @@ SEX CRIMINALS is BACK. Full sex! Deep crime! Big floppy 16th issue!
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 40 páginas
 - **Idioma:** English
 - **Publicación original:** 2017-02-15
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Science Fiction, Fantasy, Comic Book
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Sex Criminals #16: Goals](https://www.goodreads.com/book/show/33656744-sex-criminals-16)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

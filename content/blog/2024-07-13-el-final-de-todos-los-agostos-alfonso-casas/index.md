@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Bande Dessinée
-- LGBT
+- LGTBIQ+
 - Queer
-- Fiction
+- Ficción
+- España
+- Contemporaneo
+- Manga
 autores:
 - Alfonso Casas
 editoriales:
@@ -29,17 +31,17 @@ A menudo el pasado deja cabos sueltos, asuntos por resolver, interrogantes que p
 
 ## Ficha del libro
 
-- **Autor:** Alfonso Casas
+- **Autor:** [Alfonso Casas](/autores/alfonso-casas/)
 - **Editorial:** Lunwerg Editores
 - **Formato:** Hardcover, 152 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841689034X / 9788416890347
 - **Publicación original:** 2017-09-26
-- **Géneros:** Graphic Novels, Comics, Bande Dessinée, LGBT, Queer, Fiction, Spain, Contemporary, Manga, Sequential Art
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [España](/tags/espana/), [Contemporaneo](/tags/contemporaneo/), [Manga](/tags/manga/)
 - **Ficha en Goodreads:** [El final de todos los agostos](https://www.goodreads.com/book/show/36351146-el-final-de-todos-los-agostos)
 
 ## Mi lectura
 
 - **Inicio:** 2024/07/13
 - **Fin:** 2024/07/13
-- **Mi valoración:** ★★★☆☆ (3,25/5)
+- **Calificación:** ★★★☆☆ (3,25/5)

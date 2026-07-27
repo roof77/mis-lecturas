@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Thriller
-- Mystery
-- Audiobook
-- Book Club
-- Contemporary
+- Misterio
+- Club de lectura
+- Contemporaneo
+- Crimen
+- África
+- Adultos
 autores:
 - Oyinkan Braithwaite
+- Montse Meneses Vilar
 editoriales:
 - Alpha Decay
 image:
@@ -31,14 +34,14 @@ A partir de estas dos hermanas peculiares, con personalidades opuestas y maneras
 
 ## Ficha del libro
 
-- **Autor:** Oyinkan Braithwaite
-- **Colaboradores:** Montse Meneses Vilar (Translator)
+- **Autor:** [Oyinkan Braithwaite](/autores/oyinkan-braithwaite/)
+- **Colaboradores:** [Montse Meneses Vilar](/autores/montse-meneses-vilar/) (Translator)
 - **Editorial:** Alpha Decay
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788412073812
 - **Publicación original:** 2019-11-18
-- **Géneros:** Fiction, Thriller, Mystery, Audiobook, Book Club, Contemporary, Crime, Mystery Thriller, Africa, Adult
+- **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Crimen](/tags/crimen/), [África](/tags/africa/), [Adultos](/tags/adultos/)
 - **Personajes:** Korede, Ayoola, Tade Otumu, Muhtar Yautai, Aunty Taiwo, Gboyega Tejudumi
 - **Lugares:** Lagos (Nigeria), Nigeria
 - **Premios ganados:** Anthony Award (2019), Los Angeles Times Book Prize (2018), The Rooster -- The Morning News Tournament of Books (2019)
@@ -49,4 +52,4 @@ A partir de estas dos hermanas peculiares, con personalidades opuestas y maneras
 
 - **Inicio:** 2020/05/19
 - **Fin:** 2020/05/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

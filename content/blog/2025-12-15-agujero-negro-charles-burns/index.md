@@ -7,12 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Horror
-- Fiction
-- Graphic Novels Comics
-- Science Fiction
+- Terror
+- Ficción
+- Ciencia ficción
+- Fantasía
 autores:
 - Charles Burns
 editoriales:
@@ -36,14 +36,14 @@ Tardamos cierto tiempo en tomar conciencia de ello, pero finalmente descubrimos 
 
 ## Ficha del libro
 
-- **Autor:** Charles Burns
+- **Autor:** [Charles Burns](/autores/charles-burns/)
 - **Serie:** Black Hole (#1-12)
 - **Editorial:** La Cúpula
 - **Formato:** Hardcover, 369 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478337105 / 9788478337101
 - **Publicación original:** 2006-06-01
-- **Géneros:** Graphic Novels, Comics, Horror, Fiction, Graphic Novels Comics, Science Fiction, Comix, Comic Book, Fantasy, Bande Dessinée
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/)
 - **Lugares:** Seattle, Washington (United States)
 - **Premios ganados:** Harvey Awards (2006), Ignatz Award (2006), Prix du Festival d'Angoulême (2007), Will Eisner Comic Industry Awards (2006)
 - **Ficha en Goodreads:** [Agujero negro](https://www.goodreads.com/book/show/4599920-agujero-negro)
@@ -52,4 +52,4 @@ Tardamos cierto tiempo en tomar conciencia de ello, pero finalmente descubrimos 
 
 - **Inicio:** 2025/11/29
 - **Fin:** 2025/12/15
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

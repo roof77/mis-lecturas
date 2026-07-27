@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Music
-- Nonfiction
-- Memoir
-- Biography
+- Música
+- No Ficción
+- Memorias
+- Biografía
 - Punk
-- Autobiography
+- Autobiografía
+- Feminismo
+- Literatura británica
+- Arte
 autores:
 - Viv Albertine
 editoriales:
@@ -29,13 +32,13 @@ Como los viejos elepés, este libro tiene una cara A y una cara B. La primera po
 
 ## Ficha del libro
 
-- **Autor:** Viv Albertine
+- **Autor:** [Viv Albertine](/autores/viv-albertine/)
 - **Editorial:** Anagrama
 - **Formato:** Kindle Edition, 535 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 843393791X / 9788433937919
 - **Publicación original:** 2017-04-12
-- **Géneros:** Music, Nonfiction, Memoir, Biography, Punk, Autobiography, Feminism, Biography Memoir, British Literature, Art
+- **Géneros:** [Música](/tags/musica/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Punk](/tags/punk/), [Autobiografía](/tags/autobiografia/), [Feminismo](/tags/feminismo/), [Literatura británica](/tags/literatura-britanica/), [Arte](/tags/arte/)
 - **Nominaciones:** Specsavers National Book Award (2014), Penderyn Music Book Prize (2015)
 - **Ficha en Goodreads:** [Ropa música chicos](https://www.goodreads.com/book/show/34993083-ropa-m-sica-chicos)
 
@@ -43,4 +46,4 @@ Como los viejos elepés, este libro tiene una cara A y una cara B. La primera po
 
 - **Inicio:** 2019/04/14
 - **Fin:** 2019/04/24
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

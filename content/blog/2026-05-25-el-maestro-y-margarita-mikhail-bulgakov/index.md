@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Fantasy
-- Russia
-- Russian Literature
-- Magical Realism
+- Clásico
+- Ficción
+- Fantasía
+- Rusia
+- Literatura rusa
+- Realismo mágico
+- Literatura
+- Novela
+- Club de lectura
+- Ficción histórica
 autores:
 - Mikhail Bulgakov
+- Marta Rebón
 editoriales:
 - Navona
 image:
@@ -29,14 +34,14 @@ Una tarde de primavera, el Diablo sale de las sombras hacia Moscú arrastrando e
 
 ## Ficha del libro
 
-- **Autor:** Mikhail Bulgakov
-- **Colaboradores:** Marta Rebón (Translator)
+- **Autor:** [Mikhail Bulgakov](/autores/mikhail-bulgakov/)
+- **Colaboradores:** [Marta Rebón](/autores/marta-rebon/) (Translator)
 - **Editorial:** Navona
 - **Formato:** Paperback, 560 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419311057 / 9788419311054
 - **Publicación original:** 2022-05-16
-- **Géneros:** Classics, Fiction, Fantasy, Russia, Russian Literature, Magical Realism, Literature, Novels, Book Club, Historical Fiction
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Rusia](/tags/rusia/), [Literatura rusa](/tags/literatura-rusa/), [Realismo mágico](/tags/realismo-magico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Ficción histórica](/tags/ficcion-historica/)
 - **Personajes:** Lucifer, Pontius Pilate, Behemot, Master, Margarita Nicolaevna, Ivan Nikolayevich Ponyryov, Yeshua Ha-Nozri, Mikhail Alexandrovich Berlioz, Hella (The Master and Margarita), Stephan Bogdanovich Likhodeyev
 - **Lugares:** Moscow (Russian Federation), Russia, Jerusalem (Israel)
 - **Premios ganados:** Premi Crítica Serra d'Or de Teatre i arts escèniques (2004), Read Russia Prize (2014)
@@ -46,3 +51,4 @@ Una tarde de primavera, el Diablo sale de las sombras hacia Moscú arrastrando e
 
 - **Inicio:** 2026/04/17
 - **Fin:** 2026/05/25
+- **Calificación:** Imprescindible/5

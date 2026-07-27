@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- American
-- Novels
-- Literary Fiction
-- Literature
-- Americana
+- Ficción
+- EEUU
+- Novela
+- Ficción Literaria
+- Literatura
+- Clásico
+- Siglo XX
+- Club de lectura
 autores:
 - John Cheever
 editoriales:
@@ -29,13 +31,13 @@ Bienvenidos a Bullet Park, un universo en donde hasta sus habitantes más intach
 
 ## Ficha del libro
 
-- **Autor:** John Cheever
+- **Autor:** [John Cheever](/autores/john-cheever/)
 - **Editorial:** Emece Editores
 - **Formato:** Paperback, 243 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9500427451 / 9789500427456
 - **Publicación original:** 2006-02-28
-- **Géneros:** Fiction, American, Novels, Literary Fiction, Literature, Americana, Classics, 20th Century, The United States Of America, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Clásico](/tags/clasico/), [Siglo XX](/tags/siglo-xx/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Eliot Nailles, Tony Nailles
 - **Ficha en Goodreads:** [Bullet Park](https://www.goodreads.com/book/show/11889.Bullet_Park)
 
@@ -43,4 +45,4 @@ Bienvenidos a Bullet Park, un universo en donde hasta sus habitantes más intach
 
 - **Inicio:** 2015/04/07
 - **Fin:** 2015/04/10
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

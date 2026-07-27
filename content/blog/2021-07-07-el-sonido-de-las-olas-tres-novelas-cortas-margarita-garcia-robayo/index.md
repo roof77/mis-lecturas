@@ -7,8 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Novels
+- Ficción
+- Novela
 autores:
 - Margarita García Robayo
 editoriales:
@@ -31,17 +31,17 @@ Alejandro Zambra
 
 ## Ficha del libro
 
-- **Autor:** Margarita García Robayo
+- **Autor:** [Margarita García Robayo](/autores/margarita-garcia-robayo/)
 - **Editorial:** ALFAGUARA
 - **Formato:** Paperback, 284 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9585496984 / 9789585496989
 - **Publicación original:** 2020-01-01
-- **Géneros:** Fiction, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [El sonido de las olas: Tres novelas cortas](https://www.goodreads.com/book/show/51154652-el-sonido-de-las-olas)
 
 ## Mi lectura
 
 - **Inicio:** 2021/06/30
 - **Fin:** 2021/07/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
+- No Ficción
 - Humor
-- Books About Books
-- Comedy
-- Ebooks
-- Adult
+- Libros sobre libros
+- Comedia
+- Adultos
+- Contemporaneo
+- Relatos
+- Novela gráfica
+- Siglo XXI
 autores:
 - Jen Campbell
 editoriales:
@@ -33,14 +36,14 @@ This full-length collection illustrated by the Brothers McLeod also includes top
 
 ## Ficha del libro
 
-- **Autor:** Jen Campbell
+- **Autor:** [Jen Campbell](/autores/jen-campbell/)
 - **Serie:** Weird Things Customers Say in Bookshops (#1)
 - **Editorial:** Constable and Robinson
 - **Formato:** Hardcover, 119 páginas
 - **Idioma:** English
 - **ISBN:** 1780334834 / 9781780334837
 - **Publicación original:** 2012-03-26
-- **Géneros:** Nonfiction, Humor, Books About Books, Comedy, Ebooks, Adult, Contemporary, Short Stories, Graphic Novels, 21st Century
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Humor](/tags/humor/), [Libros sobre libros](/tags/libros-sobre-libros/), [Comedia](/tags/comedia/), [Adultos](/tags/adultos/), [Contemporaneo](/tags/contemporaneo/), [Relatos](/tags/relatos/), [Novela gráfica](/tags/novela-grafica/), [Siglo XXI](/tags/siglo-xxi/)
 - **Nominaciones:** Goodreads Choice Award (2012), Readers' Favorite Humor (2012)
 - **Ficha en Goodreads:** [Weird Things Customers Say in Bookshops](https://www.goodreads.com/book/show/12640991-weird-things-customers-say-in-bookshops)
 
@@ -48,4 +51,4 @@ This full-length collection illustrated by the Brothers McLeod also includes top
 
 - **Inicio:** 2014/10/30
 - **Fin:** 2014/10/30
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

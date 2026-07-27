@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Mystery
-- Crime
-- Book Club
-- New York
-- Novels
+- Ficción
+- Misterio
+- Crimen
+- Club de lectura
+- Nueva York
+- Novela
+- Thriller
+- Ficción Literaria
+- Contemporaneo
 autores:
 - Jonathan Lethem
 editoriales:
@@ -29,13 +32,13 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Jonathan Lethem
+- **Autor:** [Jonathan Lethem](/autores/jonathan-lethem/)
 - **Editorial:** Debolsillo
 - **Formato:** Hardcover, 368 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 849793296X / 9788497932967
 - **Publicación original:** 2004-05-01
-- **Géneros:** Fiction, Mystery, Crime, Book Club, New York, Novels, Audiobook, Mystery Thriller, Literary Fiction, Contemporary
+- **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Club de lectura](/tags/club-de-lectura/), [Nueva York](/tags/nueva-york/), [Novela](/tags/novela/), [Thriller](/tags/thriller/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/)
 - **Personajes:** Lionel Essrog, Frank Minna, Moses Randolph, Laura Rose, Tony Vermonte
 - **Lugares:** Brooklyn, New York City, New York (United States)
 - **Premios ganados:** National Book Critics Circle Award (1999), The Macallan Gold Dagger (2000)
@@ -45,4 +48,4 @@ image:
 
 - **Inicio:** 2014/08/22
 - **Fin:** 2014/08/27
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

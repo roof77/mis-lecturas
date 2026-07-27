@@ -9,10 +9,11 @@ tags:
 - Lecturas
 - Comics
 - Humor
-- Fiction
-- Graphic Novels
-- Graphic Novels Comics
-- Comic Strips
+- Ficción
+- Novela gráfica
+- Tiras
+- Niños
+- Comedia
 autores:
 - Bill Watterson
 editoriales:
@@ -31,14 +32,14 @@ Calvin, the self-proclaimed "Boy of Destiny," continues to save the universe wit
 
 ## Ficha del libro
 
-- **Autor:** Bill Watterson
+- **Autor:** [Bill Watterson](/autores/bill-watterson/)
 - **Serie:** The Complete Calvin and Hobbes (#5)
 - **Editorial:** Ediciones B
 - **Formato:** Hardcover, 180 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8440606419 / 9788440606419
 - **Publicación original:** 2007-04-01
-- **Géneros:** Comics, Humor, Fiction, Graphic Novels, Graphic Novels Comics, Comic Strips, Childrens, Comedy, Comic Book, Cartoon
+- **Géneros:** [Comics](/tags/comics/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Novela gráfica](/tags/novela-grafica/), [Tiras](/tags/tiras/), [Niños](/tags/ninos/), [Comedia](/tags/comedia/)
 - **Personajes:** Calvin, Hobbes
 - **Ficha en Goodreads:** [Cada cosa a su tiempo](https://www.goodreads.com/book/show/961688.Cada_cosa_a_su_tiempo)
 
@@ -46,4 +47,4 @@ Calvin, the self-proclaimed "Boy of Destiny," continues to save the universe wit
 
 - **Inicio:** 2025/03/07
 - **Fin:** 2025/03/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

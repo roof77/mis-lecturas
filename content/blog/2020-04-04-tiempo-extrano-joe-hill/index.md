@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Short Stories
-- Fiction
-- Fantasy
-- Audiobook
-- Science Fiction
+- Terror
+- Relatos
+- Ficción
+- Fantasía
+- Ciencia ficción
+- Thriller
+- Novella
+- Antología
+- Adultos
 autores:
-- Joe  Hill
+- Joe Hill
+- Pilar Ramírez Tello
 editoriales:
 - Nocturna Ediciones
 image:
@@ -31,14 +35,14 @@ En Tiempo extraño, «uno de los mejores escritores norteamericanos de terror» 
 
 ## Ficha del libro
 
-- **Autor:** Joe  Hill
-- **Colaboradores:** Pilar Ramírez Tello (Translator)
+- **Autor:** [Joe Hill](/autores/joe-hill/)
+- **Colaboradores:** [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Translator)
 - **Editorial:** Nocturna Ediciones
 - **Formato:** Paperback, 576 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416858705 / 9788416858705
 - **Publicación original:** 2018-09-17
-- **Géneros:** Horror, Short Stories, Fiction, Fantasy, Audiobook, Science Fiction, Thriller, Novella, Anthologies, Adult
+- **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Thriller](/tags/thriller/), [Novella](/tags/novella/), [Antología](/tags/antologia/), [Adultos](/tags/adultos/)
 - **Premios ganados:** Bram Stoker Award (2017), British Fantasy Award (2018)
 - **Nominaciones:** Goodreads Choice Award (2017), Readers' Favorite Horror (2017)
 - **Ficha en Goodreads:** [Tiempo extraño](https://www.goodreads.com/book/show/40884176-tiempo-extra-o)
@@ -47,4 +51,4 @@ En Tiempo extraño, «uno de los mejores escritores norteamericanos de terror» 
 
 - **Inicio:** 2020/03/31
 - **Fin:** 2020/04/04
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -29,7 +29,7 @@ Todas están descalzas.
 
 ## Ficha del libro
 
-- **Autor:** Nieves Mories
+- **Autor:** [Nieves Mories](/autores/nieves-mories/)
 - **Editorial:** Dilatando Mentes
 - **Formato:** Hardcover, 184 páginas
 - **Idioma:** Spanish; Castilian
@@ -41,4 +41,4 @@ Todas están descalzas.
 
 - **Inicio:** 2022/03/07
 - **Fin:** 2022/03/09
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

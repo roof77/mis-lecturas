@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Book Club
-- LGBT
+- Ficción
+- Ficción histórica
+- Club de lectura
+- LGTBIQ+
 - Queer
-- Literary Fiction
+- Ficción Literaria
+- Histórico
+- Contemporaneo
+- Novela
 autores:
 - Rebecca Makkai
+- Aurora Echevarría
 editoriales:
 - Sexto Piso
 image:
@@ -33,14 +37,14 @@ Entrelazando las historias de Yale y Fiona, Rebecca Makkai nos ofrece una formid
 
 ## Ficha del libro
 
-- **Autor:** Rebecca Makkai
-- **Colaboradores:** Aurora Echevarría (Translator)
+- **Autor:** [Rebecca Makkai](/autores/rebecca-makkai/)
+- **Colaboradores:** [Aurora Echevarría](/autores/aurora-echevarria/) (Translator)
 - **Editorial:** Sexto Piso
 - **Formato:** Paperback, 572 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841834251X / 9788418342516
 - **Publicación original:** 2021-10-11
-- **Géneros:** Fiction, Historical Fiction, Book Club, LGBT, Queer, Literary Fiction, Audiobook, Historical, Contemporary, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/)
 - **Personajes:** Yale Tishman, Fiona Marcus/Blanchard, Richard Campo, Charlie Keene
 - **Lugares:** Chicago, Illinois (United States), Paris (France), Wisconsin (United States), Illinois (United States)
 - **Premios ganados:** Stonewall Book Award (2019), Los Angeles Times Book Prize (2018), Andrew Carnegie Medal (2019), National Book Award Finalist (2018), Premi Llibreter de narrativa (2022)
@@ -51,4 +55,4 @@ Entrelazando las historias de Yale y Fiona, Rebecca Makkai nos ofrece una formid
 
 - **Inicio:** 2021/11/23
 - **Fin:** 2021/12/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

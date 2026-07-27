@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Spanish Literature
-- Spain
+- Ficción
+- Literatura hispana
+- España
 - Drama
-- Contemporary
-- Womens
+- Contemporaneo
+- Mujeres
+- Novela
+- Ficción Literaria
 autores:
 - Sara Mesa
+- Marta Martín
 editoriales:
 - Anagrama
 image:
@@ -33,18 +36,18 @@ Sara Mesa vuelve a confrontar al lector con los límites de su propia moral en u
 
 ## Ficha del libro
 
-- **Autor:** Sara Mesa
-- **Colaboradores:** Marta Martín (Narrator)
+- **Autor:** [Sara Mesa](/autores/sara-mesa/)
+- **Colaboradores:** [Marta Martín](/autores/marta-martin/) (Narrator)
 - **Editorial:** Anagrama
 - **Formato:** Kindle Edition, 143 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433941712 / 9788433941718
 - **Publicación original:** 2020-09-02
-- **Géneros:** Fiction, Spanish Literature, Spain, Drama, Contemporary, Womens, Audiobook, Novels, Literary Fiction, Ebooks
+- **Géneros:** [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Drama](/tags/drama/), [Contemporaneo](/tags/contemporaneo/), [Mujeres](/tags/mujeres/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Ficha en Goodreads:** [Un amor](https://www.goodreads.com/book/show/55170929-un-amor)
 
 ## Mi lectura
 
 - **Inicio:** 2024/10/18
 - **Fin:** 2024/10/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

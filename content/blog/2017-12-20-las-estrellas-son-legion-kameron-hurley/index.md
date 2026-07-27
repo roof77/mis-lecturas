@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
+- Ciencia ficción
+- Ficción
 - Space Opera
 - Queer
-- LGBT
-- Fantasy
+- LGTBIQ+
+- Fantasía
+- Espacio
+- Ciencia Ficción
+- Adultos
 autores:
 - Kameron Hurley
+- Alexander Páez
 editoriales:
 - Alianza
 image:
@@ -35,14 +39,14 @@ Una "space opera" sobre un amor trágico, la venganza y la guerra.
 
 ## Ficha del libro
 
-- **Autor:** Kameron Hurley
-- **Colaboradores:** Alexander Páez (Translator)
+- **Autor:** [Kameron Hurley](/autores/kameron-hurley/)
+- **Colaboradores:** [Alexander Páez](/autores/alexander-paez/) (Translator)
 - **Editorial:** Alianza
 - **Formato:** Paperback, 350 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491048413 / 9788491048411
 - **Publicación original:** 2017-11-23
-- **Géneros:** Science Fiction, Fiction, Space Opera, Queer, LGBT, Fantasy, Audiobook, Space, Science Fiction Fantasy, Adult
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Space Opera](/tags/space-opera/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Fantasía](/tags/fantasia/), [Espacio](/tags/espacio/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/)
 - **Personajes:** Zan, Jayd, Anat, Sabita, Rasida, Das Muni, Nashatra, Gavatra, Casamir, Arankadash
 - **Premios ganados:** Premio Ignotus (2018)
 - **Nominaciones:** Goodreads Choice Award (2017), Readers' Favorite Science Fiction (2017)
@@ -52,4 +56,4 @@ Una "space opera" sobre un amor trágico, la venganza y la guerra.
 
 - **Inicio:** 2017/12/19
 - **Fin:** 2017/12/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

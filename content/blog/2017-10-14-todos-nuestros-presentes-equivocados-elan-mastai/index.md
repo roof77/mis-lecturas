@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Time Travel
-- Audiobook
-- Fantasy
-- Book Club
+- Ciencia ficción
+- Ficción
+- Viaje en el tiempo
+- Fantasía
+- Club de lectura
+- Adultos
+- Ciencia Ficción
+- Distopía
+- Ficción especulativa
 autores:
 - Elan Mastai
 editoriales:
@@ -33,12 +36,12 @@ Tom, sin embargo, no encuentra su lugar y, afligido por la muerte de su madre y 
 
 ## Ficha del libro
 
-- **Autor:** Elan Mastai
+- **Autor:** [Elan Mastai](/autores/elan-mastai/)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 399 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2017-09-07
-- **Géneros:** Science Fiction, Fiction, Time Travel, Audiobook, Fantasy, Book Club, Adult, Science Fiction Fantasy, Dystopia, Speculative Fiction
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Personajes:** Tom Barren, Lionel Goettreider, Victor Barren, Penelope Weschler, Greta Barren, Rebecca Crittendale-Barren
 - **Lugares:** Toronto, Ontario (Canada), San Francisco, California (United States)
 - **Nominaciones:** Locus Award (2018), Compton Crook Award (2018), Sidewise Award (2017), Goodreads Choice Award (2017), Readers' Favorite Science Fiction (2017), Readers' Favorite Debut Goodreads Author (2017)
@@ -48,4 +51,4 @@ Tom, sin embargo, no encuentra su lugar y, afligido por la muerte de su madre y 
 
 - **Inicio:** 2017/10/03
 - **Fin:** 2017/10/14
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

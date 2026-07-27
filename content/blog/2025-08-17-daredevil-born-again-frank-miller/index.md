@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Marvel
-- Comic Book
-- Fiction
-- Graphic Novels Comics
+- Ficción
+- Superheroes
+- Crimen
+- Manga
+- Fantasía
 autores:
 - Frank Miller
+- David Mazzucchelli
 editoriales:
 - Marvel Comics
 image:
@@ -29,14 +32,14 @@ In this larger-than-life theater, the forces of corruption and redemption have a
 
 ## Ficha del libro
 
-- **Autor:** Frank Miller
+- **Autor:** [Frank Miller](/autores/frank-miller/)
 - **Serie:** Daredevil (1964) (#227-233)
-- **Colaboradores:** David Mazzucchelli (Illustrator)
+- **Colaboradores:** [David Mazzucchelli](/autores/david-mazzucchelli/) (Illustrator)
 - **Editorial:** Marvel Comics
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** English
 - **Publicación original:** 2001-11-26
-- **Géneros:** Comics, Graphic Novels, Marvel, Comic Book, Fiction, Graphic Novels Comics, Superheroes, Crime, Comics Manga, Fantasy
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Marvel](/tags/marvel/), [Ficción](/tags/ficcion/), [Superheroes](/tags/superheroes/), [Crimen](/tags/crimen/), [Manga](/tags/manga/), [Fantasía](/tags/fantasia/)
 - **Personajes:** Matt Murdock, Thor (Marvel), Steve Rogers, Melvin Potter, Tony Stark, Karen Page, Ben Urich, Turk Barrett, Wilson Fisk, Foggy Nelson
 - **Lugares:** New York City, New York (United States)
 - **Premios ganados:** Will Eisner Comic Industry Awards (2013)
@@ -47,4 +50,4 @@ In this larger-than-life theater, the forces of corruption and redemption have a
 
 - **Inicio:** 2025/08/03
 - **Fin:** 2025/08/17
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

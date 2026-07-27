@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Japan
-- Fiction
-- Japanese Literature
-- Classics
-- Asia
-- Literature
+- Japón
+- Ficción
+- Literatura japanesa
+- Clásico
+- Ásia
+- Literatura
+- Novela
+- Literatura asiática
+- Humor
+- Siglo XX
 autores:
 - Natsume Sōseki
+- José Pazó Espinosa
+- Andrés Ibáñez
 editoriales:
 - Impedimenta
 image:
@@ -29,13 +35,13 @@ Botchan es un indiscutible clásico de la moderna literatura japonesa y, desde h
 
 ## Ficha del libro
 
-- **Autor:** Natsume Sōseki
-- **Colaboradores:** José Pazó Espinosa (Translator), Andrés Ibáñez (Introducción)
+- **Autor:** [Natsume Sōseki](/autores/natsume-soseki/)
+- **Colaboradores:** [José Pazó Espinosa](/autores/jose-pazo-espinosa/) (Translator), [Andrés Ibáñez](/autores/andres-ibanez/) (Introducción)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2008-02-01
-- **Géneros:** Japan, Fiction, Japanese Literature, Classics, Asia, Literature, Novels, Asian Literature, Humor, 20th Century
+- **Géneros:** [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/), [Clásico](/tags/clasico/), [Ásia](/tags/asia/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Literatura asiática](/tags/literatura-asiatica/), [Humor](/tags/humor/), [Siglo XX](/tags/siglo-xx/)
 - **Lugares:** Japan
 - **Premios ganados:** Japan-U.S. Friendship Commission Prize (2006), Premi Llibreter de narrativa (2008)
 - **Ficha en Goodreads:** [Botchan](https://www.goodreads.com/book/show/4458271-botchan)
@@ -44,4 +50,4 @@ Botchan es un indiscutible clásico de la moderna literatura japonesa y, desde h
 
 - **Inicio:** 2014/06/26
 - **Fin:** 2014/06/29
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

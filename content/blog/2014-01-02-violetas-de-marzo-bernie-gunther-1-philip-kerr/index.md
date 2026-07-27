@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Mystery
-- Historical Fiction
-- Fiction
-- Crime
+- Misterio
+- Ficción histórica
+- Ficción
+- Crimen
 - Thriller
-- Germany
+- Alemania
+- Noir
+- Histórico
+- Detectives
 autores:
 - Philip Kerr
 editoriales:
@@ -29,14 +32,14 @@ Berlín, 1936. Bernie Gunther creía estar curado de espanto, pero ahora que ha 
 
 ## Ficha del libro
 
-- **Autor:** Philip Kerr
+- **Autor:** [Philip Kerr](/autores/philip-kerr/)
 - **Serie:** Bernie Gunther (#1)
 - **Editorial:** RBA
 - **Formato:** Paperback, 383 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498676649 / 9788498676648
 - **Publicación original:** 2007-01-01
-- **Géneros:** Mystery, Historical Fiction, Fiction, Crime, Thriller, Germany, Noir, Historical, Mystery Thriller, Detective
+- **Géneros:** [Misterio](/tags/misterio/), [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Thriller](/tags/thriller/), [Alemania](/tags/alemania/), [Noir](/tags/noir/), [Histórico](/tags/historico/), [Detectives](/tags/detectives/)
 - **Personajes:** Bernhard Gunther, Ilse Rudel, Hermann Six, Heinrich Himmler, Grete Six Pfarr, Paul Pfarr, Haupthändler, "Red" Dieter Helfferich, Marlene Sahm, Rienacker
 - **Lugares:** Berlin (Germany)
 - **Nominaciones:** CWA New Blood Dagger (1989)
@@ -46,4 +49,4 @@ Berlín, 1936. Bernie Gunther creía estar curado de espanto, pero ahora que ha 
 
 - **Inicio:** 2013/12/31
 - **Fin:** 2014/01/02
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Mystery
-- Crime
-- Classics
-- Fiction
-- Detective
-- Audiobook
+- Misterio
+- Crimen
+- Clásico
+- Ficción
+- Detectives
+- Thriller
+- Edad de oro
+- Siglo XX
+- Literatura británica
 autores:
 - Edgar Wallace
 editoriales:
@@ -29,17 +32,17 @@ Dick Martin se apresta a marcharse de Scotland Yard para disfrutar de una peque�
 
 ## Ficha del libro
 
-- **Autor:** Edgar Wallace
+- **Autor:** [Edgar Wallace](/autores/edgar-wallace/)
 - **Editorial:** Open Road Español
 - **Formato:** Kindle Edition, 154 páginas
 - **Idioma:** English
 - **ISBN:** 1497651093 / 9781497651098
 - **Publicación original:** 2014-05-13
-- **Géneros:** Mystery, Crime, Classics, Fiction, Detective, Audiobook, Thriller, Golden Age Mystery, 20th Century, British Literature
+- **Géneros:** [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Detectives](/tags/detectives/), [Thriller](/tags/thriller/), [Edad de oro](/tags/edad-de-oro/), [Siglo XX](/tags/siglo-xx/), [Literatura británica](/tags/literatura-britanica/)
 - **Ficha en Goodreads:** [La puerta de las siete llaves](https://www.goodreads.com/book/show/22005685-la-puerta-de-las-siete-llaves)
 
 ## Mi lectura
 
 - **Inicio:** 2017/07/23
 - **Fin:** 2017/07/26
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

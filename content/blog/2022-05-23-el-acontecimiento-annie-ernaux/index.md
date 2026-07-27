@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Memoir
-- Feminism
-- France
-- Nobel Prize
-- Biography
+- No Ficción
+- Memorias
+- Feminismo
+- Francia
+- Premio Nobel
+- Biografía
+- Literatura francesa
+- Mujeres
+- Contemporaneo
 autores:
 - Annie Ernaux
+- Berta Corral
+- Mercedes Corral
 editoriales:
 - Tusquets Editores S.A.
 image:
@@ -29,14 +34,14 @@ En octubre de 1963, Annie Ernaux, la protagonista de esta historia, se encuentra
 
 ## Ficha del libro
 
-- **Autor:** Annie Ernaux
-- **Colaboradores:** Berta Corral (Translator), Mercedes Corral (Translator)
+- **Autor:** [Annie Ernaux](/autores/annie-ernaux/)
+- **Colaboradores:** [Berta Corral](/autores/berta-corral/) (Translator), [Mercedes Corral](/autores/mercedes-corral/) (Translator)
 - **Editorial:** Tusquets Editores S.A.
 - **Formato:** Paperback, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8483101645 / 9788483101643
 - **Publicación original:** 2001-03-01
-- **Géneros:** Nonfiction, Memoir, Feminism, France, Nobel Prize, Biography, French Literature, Audiobook, Womens, Contemporary
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Feminismo](/tags/feminismo/), [Francia](/tags/francia/), [Premio Nobel](/tags/premio-nobel/), [Biografía](/tags/biografia/), [Literatura francesa](/tags/literatura-francesa/), [Mujeres](/tags/mujeres/), [Contemporaneo](/tags/contemporaneo/)
 - **Lugares:** France
 - **Nominaciones:** Independent Publisher Book Award (IPPY) (2002), Metų verstinė knyga (2023)
 - **Ficha en Goodreads:** [El acontecimiento](https://www.goodreads.com/book/show/466265.El_acontecimiento)
@@ -45,4 +50,4 @@ En octubre de 1963, Annie Ernaux, la protagonista de esta historia, se encuentra
 
 - **Inicio:** 2022/05/22
 - **Fin:** 2022/05/23
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

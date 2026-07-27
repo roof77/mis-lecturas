@@ -8,11 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fiction
-- Fantasy
-- Graphic Novels Comics
-- Comic Book
+- Novela gráfica
+- Ficción
+- Fantasía
+- Humor
+- Francia
+- Hombres lobo
 autores:
 - Jason
 editoriales:
@@ -29,13 +30,13 @@ Sven, un artista escandinavo semibohemio que ha ido a parar a la ciudad francesa
 
 ## Ficha del libro
 
-- **Autor:** Jason
+- **Autor:** [Jason](/autores/jason/)
 - **Editorial:** Astiberri
 - **Formato:** Paperback, 48 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415163185 / 9788415163183
 - **Publicación original:** 2011-01-01
-- **Géneros:** Comics, Graphic Novels, Fiction, Fantasy, Graphic Novels Comics, Comic Book, Humor, France, Werewolves, Comix
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Humor](/tags/humor/), [Francia](/tags/francia/), [Hombres lobo](/tags/hombres-lobo/)
 - **Lugares:** Montpellier (France), France
 - **Ficha en Goodreads:** [Los hombres lobo de Montpellier](https://www.goodreads.com/book/show/18177653-los-hombres-lobo-de-montpellier)
 
@@ -43,3 +44,4 @@ Sven, un artista escandinavo semibohemio que ha ido a parar a la ciudad francesa
 
 - **Inicio:** 2026/02/07
 - **Fin:** 2026/02/07
+- **Calificación:** Muy recomendable/5

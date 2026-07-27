@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- Gothic
-- Historical Fiction
-- Audiobook
+- Terror
+- Fantasía
+- Ficción
+- Gótico
+- Ficción histórica
+- Misterio
+- Gótico sureño
+- Thriller
+- Histórico
 autores:
 - Michael McDowell
+- Albert Vitó
 editoriales:
 - Blackie Books
 image:
@@ -29,19 +33,19 @@ Comienza una nueva era para el clan Caskey: la persistencia y el trabajo duro de
 
 ## Ficha del libro
 
-- **Autor:** Michael McDowell
+- **Autor:** [Michael McDowell](/autores/michael-mcdowell/)
 - **Serie:** Blackwater (#4)
-- **Colaboradores:** Albert Vitó (translator)
+- **Colaboradores:** [Albert Vitó](/autores/albert-vito/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Mass Market Paperback, 263 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419654957 / 9788419654953
 - **Publicación original:** 2024-03-20
-- **Géneros:** Horror, Fantasy, Fiction, Gothic, Historical Fiction, Audiobook, Mystery, Southern Gothic, Thriller, Historical
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Gótico sureño](/tags/gotico-sureno/), [Thriller](/tags/thriller/), [Histórico](/tags/historico/)
 - **Ficha en Goodreads:** [La guerra (Blackwater, #4)](https://www.goodreads.com/book/show/202795194-la-guerra)
 
 ## Mi lectura
 
 - **Inicio:** 2024/04/14
 - **Fin:** 2024/04/17
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

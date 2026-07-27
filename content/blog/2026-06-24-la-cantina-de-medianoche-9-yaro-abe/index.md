@@ -8,6 +8,7 @@ tags:
 - Lecturas
 autores:
 - Yarō Abe
+- Alberto K. Fonseca Sakai
 editoriales:
 - ASTIBERRI EDICIONES
 image:
@@ -18,8 +19,8 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Yarō Abe
-- **Colaboradores:** Alberto K. Fonseca Sakai (Translator)
+- **Autor:** [Yarō Abe](/autores/yaro-abe/)
+- **Colaboradores:** [Alberto K. Fonseca Sakai](/autores/alberto-k-fonseca-sakai/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 296 páginas
 - **Idioma:** Spanish; Castilian
@@ -31,3 +32,4 @@ image:
 
 - **Inicio:** 2026/06/20
 - **Fin:** 2026/06/24
+- **Calificación:** Muy recomendable/5

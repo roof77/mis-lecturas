@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- LGBT
-- Classics
+- Ficción
+- LGTBIQ+
+- Clásico
 - Queer
-- Spanish Literature
-- Latin American
+- Literatura hispana
+- Latino américa
+- Novela
+- Literatura
+- Literatura latinoamericana
+- Colegio
 autores:
 - Manuel Puig
 editoriales:
@@ -31,13 +35,13 @@ El beso de la mujer araña es una elegante y fascinante novela sobre el amor y l
 
 ## Ficha del libro
 
-- **Autor:** Manuel Puig
+- **Autor:** [Manuel Puig](/autores/manuel-puig/)
 - **Editorial:** Vintage Espanol
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 0679755454 / 9780679755456
 - **Publicación original:** 1994-10-04
-- **Géneros:** Fiction, LGBT, Classics, Queer, Spanish Literature, Latin American, Novels, Literature, Latin American Literature, School
+- **Géneros:** [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Clásico](/tags/clasico/), [Queer](/tags/queer/), [Literatura hispana](/tags/literatura-hispana/), [Latino américa](/tags/latino-america/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Literatura latinoamericana](/tags/literatura-latinoamericana/), [Colegio](/tags/colegio/)
 - **Personajes:** Valentín Arregui Paz, Luis Molina
 - **Lugares:** Argentina, Buenos Aires (Argentina)
 - **Ficha en Goodreads:** [El beso de la mujer araña](https://www.goodreads.com/book/show/63219.El_beso_de_la_mujer_ara_a)
@@ -46,4 +50,4 @@ El beso de la mujer araña es una elegante y fascinante novela sobre el amor y l
 
 - **Inicio:** 2017/07/04
 - **Fin:** 2017/07/06
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

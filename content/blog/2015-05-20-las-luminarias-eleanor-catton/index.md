@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Mystery
-- Historical
-- Literary Fiction
-- Book Club
+- Ficción
+- Ficción histórica
+- Misterio
+- Histórico
+- Ficción Literaria
+- Club de lectura
+- Contemporaneo
+- Literatura
+- Novela
 autores:
 - Eleanor Catton
 editoriales:
@@ -31,13 +34,13 @@ Ese hecho podría pasar desapercibido en mitad de la fiebre del oro que recorre 
 
 ## Ficha del libro
 
-- **Autor:** Eleanor Catton
+- **Autor:** [Eleanor Catton](/autores/eleanor-catton/)
 - **Editorial:** Siruela 
 - **Formato:** Paperback, 808 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416208328 / 9788416208326
 - **Publicación original:** 2014-11-01
-- **Géneros:** Fiction, Historical Fiction, Mystery, Historical, Literary Fiction, Book Club, Contemporary, Literature, Novels, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Literatura](/tags/literatura/), [Novela](/tags/novela/)
 - **Lugares:** New Zealand
 - **Premios ganados:** Booker Prize (2013), Governor General's Literary Awards / Prix littéraires du Gouverneur général (2013), Australian Book Industry Award (ABIA) (2014), Ockham New Zealand Book Awards (2014)
 - **Nominaciones:** Dylan Thomas Prize (2014), Women's Prize for Fiction (2014), Walter Scott Prize (2014), Goodreads Choice Award (2013), RSL Encore Award (2013), Dublin Literary Award (2015), Readers' Favorite Historical Fiction (2013)
@@ -47,4 +50,4 @@ Ese hecho podría pasar desapercibido en mitad de la fiebre del oro que recorre 
 
 - **Inicio:** 2015/05/11
 - **Fin:** 2015/05/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

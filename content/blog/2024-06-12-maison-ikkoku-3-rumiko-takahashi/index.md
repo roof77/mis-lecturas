@@ -9,10 +9,12 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Romance
-- Fiction
-- Slice Of Life
+- Ficción
+- Slice of life
+- Humor
+- Seinen manga
 autores:
 - Rumiko Takahashi
 editoriales:
@@ -30,18 +32,18 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 
 ## Ficha del libro
 
-- **Autor:** Rumiko Takahashi
+- **Autor:** [Rumiko Takahashi](/autores/rumiko-takahashi/)
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#3)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 340 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484495213 / 9788484495215
 - **Publicación original:** 2004-09-30
-- **Géneros:** Manga, Comics, Graphic Novels, Romance, Fiction, Slice Of Life, Humor, Seinen, Graphic Novels Comics, Comics Manga
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Humor](/tags/humor/), [Seinen manga](/tags/seinen-manga/)
 - **Ficha en Goodreads:** [Maison Ikkoku 3](https://www.goodreads.com/book/show/345406.Maison_Ikkoku_3)
 
 ## Mi lectura
 
 - **Inicio:** 2024/06/09
 - **Fin:** 2024/06/12
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

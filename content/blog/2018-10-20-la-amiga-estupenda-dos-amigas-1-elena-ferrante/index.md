@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Book Club
-- Italy
-- Literary Fiction
-- Audiobook
+- Ficción
+- Ficción histórica
+- Club de lectura
+- Italia
+- Ficción Literaria
+- Literatura italiana
+- Contemporaneo
+- Histórico
+- Novela
 autores:
 - Elena Ferrante
+- Celia Filipetto Isicato
 editoriales:
 - 'LUMEN '
 image:
@@ -35,15 +39,15 @@ Por primera vez Ferrante aborda una narración muy amplia, poniendo en escena un
 
 ## Ficha del libro
 
-- **Autor:** Elena Ferrante
+- **Autor:** [Elena Ferrante](/autores/elena-ferrante/)
 - **Serie:** L’amica geniale (#1)
-- **Colaboradores:** Celia Filipetto Isicato (Translator)
+- **Colaboradores:** [Celia Filipetto Isicato](/autores/celia-filipetto-isicato/) (Translator)
 - **Editorial:** LUMEN 
 - **Formato:** Paperback, 392 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 842642144X / 9788426421449
 - **Publicación original:** 2020-12-31
-- **Géneros:** Fiction, Historical Fiction, Book Club, Italy, Literary Fiction, Audiobook, Italian Literature, Contemporary, Historical, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Italia](/tags/italia/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura italiana](/tags/literatura-italiana/), [Contemporaneo](/tags/contemporaneo/), [Histórico](/tags/historico/), [Novela](/tags/novela/)
 - **Personajes:** Raffaella Cerullo (Lila), Elena Greco (Lenuccia), Stefano Carracci, Pasquale Peluso, Carmela Peluso, Ada Cappuccio, Antonio Cappuccio, Nino Sarratore, Enzo Scanno, Marcello Solara
 - **Lugares:** Italy, Naples (Italy), Campania (Italy)
 - **Premios ganados:** Jarl Hellemann -palkinto (2016)
@@ -54,4 +58,4 @@ Por primera vez Ferrante aborda una narración muy amplia, poniendo en escena un
 
 - **Inicio:** 2018/10/08
 - **Fin:** 2018/10/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

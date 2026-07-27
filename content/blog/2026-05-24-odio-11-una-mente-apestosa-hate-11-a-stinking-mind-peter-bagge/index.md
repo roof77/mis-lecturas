@@ -18,7 +18,7 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Odio: Hate (#11)
 - **Editorial:** Ediciones La Cúpula
 - **Formato:** Paperback, 52 páginas
@@ -31,3 +31,4 @@ image:
 
 - **Inicio:** 2026/05/24
 - **Fin:** 2026/05/24
+- **Calificación:** Bien/5

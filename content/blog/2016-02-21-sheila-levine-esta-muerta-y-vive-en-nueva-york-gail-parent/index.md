@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Humor
-- Chick Lit
+- Chick lit
 - Romance
-- Jewish
-- New York
+- Judaismo
+- Nueva York
+- Comedia
+- Novela
+- EEUU
+- Contemporaneo
 autores:
 - Gail Parent
+- Zulema Couso
 editoriales:
 - Libros del Asteroide
 image:
@@ -29,18 +34,18 @@ La conoces perfectamente, la conoces tanto que puede que seas tú. Sheila es bas
 
 ## Ficha del libro
 
-- **Autor:** Gail Parent
-- **Colaboradores:** Zulema Couso (Translator)
+- **Autor:** [Gail Parent](/autores/gail-parent/)
+- **Colaboradores:** [Zulema Couso](/autores/zulema-couso/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416213488 / 9788416213481
 - **Publicación original:** 2015-10-26
-- **Géneros:** Fiction, Humor, Chick Lit, Romance, Jewish, New York, Comedy, Novels, American, Contemporary
+- **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Chick lit](/tags/chick-lit/), [Romance](/tags/romance/), [Judaismo](/tags/judaismo/), [Nueva York](/tags/nueva-york/), [Comedia](/tags/comedia/), [Novela](/tags/novela/), [EEUU](/tags/eeuu/), [Contemporaneo](/tags/contemporaneo/)
 - **Ficha en Goodreads:** [Sheila Levine está muerta y vive en Nueva York](https://www.goodreads.com/book/show/25975508-sheila-levine-est-muerta-y-vive-en-nueva-york)
 
 ## Mi lectura
 
 - **Inicio:** 2016/02/19
 - **Fin:** 2016/02/21
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

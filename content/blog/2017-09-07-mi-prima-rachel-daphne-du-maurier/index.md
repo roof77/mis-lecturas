@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Mystery
-- Gothic
-- Historical Fiction
+- Clásico
+- Ficción
+- Misterio
+- Gótico
+- Ficción histórica
 - Romance
+- Thriller
+- Club de lectura
+- Histórico
 autores:
 - Daphne du Maurier
+- Concha Cardeñoso Sáenz de Miera
 editoriales:
 - Alba
 image:
@@ -31,14 +35,14 @@ Mi prima Rachel (1951) es una gran novela psicológica, llena de suspense, en la
 
 ## Ficha del libro
 
-- **Autor:** Daphne du Maurier
-- **Colaboradores:** Concha Cardeñoso Sáenz de Miera (Translator)
+- **Autor:** [Daphne du Maurier](/autores/daphne-du-maurier/)
+- **Colaboradores:** [Concha Cardeñoso Sáenz de Miera](/autores/concha-cardenoso-saenz-de-miera/) (Translator)
 - **Editorial:** Alba
 - **Formato:** Paperback, 456 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490652678 / 9788490652671
 - **Publicación original:** 2017-01-18
-- **Géneros:** Classics, Fiction, Mystery, Gothic, Historical Fiction, Romance, Audiobook, Thriller, Book Club, Historical
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Romance](/tags/romance/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/)
 - **Personajes:** Philip Ashley, Ambrose Ashley, Rachel Ashley, Signor Rainaldi, Nicholas Kendall, Louise Kendall, Father Pascoe, Mrs. Pascoe, Seecombe, Tamlyn
 - **Lugares:** Florence, Tuscany (Italy), Cornwall, England
 - **Ficha en Goodreads:** [Mi prima Rachel](https://www.goodreads.com/book/show/33617543-mi-prima-rachel)
@@ -47,4 +51,4 @@ Mi prima Rachel (1951) es una gran novela psicológica, llena de suspense, en la
 
 - **Inicio:** 2017/08/31
 - **Fin:** 2017/09/07
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

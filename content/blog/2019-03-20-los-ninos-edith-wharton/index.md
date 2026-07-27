@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- American
-- Novels
-- The United States Of America
-- Literary Fiction
+- Clásico
+- Ficción
+- EEUU
+- Novela
+- Ficción Literaria
+- Literatura
+- Siglo XX
+- Autoras
+- Romance
 autores:
 - Edith Wharton
 editoriales:
@@ -29,13 +32,13 @@ Martin Boyne, «un individuo crítico y cauto de cuarenta y seis años a quien d
 
 ## Ficha del libro
 
-- **Autor:** Edith Wharton
+- **Autor:** [Edith Wharton](/autores/edith-wharton/)
 - **Editorial:** Alba 
 - **Formato:** Hardcover, 416 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788484282501
 - **Publicación original:** 2005-01-01
-- **Géneros:** Classics, Fiction, American, Novels, The United States Of America, Literary Fiction, Literature, 20th Century, Female Authors, Romance
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Siglo XX](/tags/siglo-xx/), [Autoras](/tags/autoras/), [Romance](/tags/romance/)
 - **Personajes:** Martin Boyne, Judith Wheater, Rose Sellars
 - **Ficha en Goodreads:** [Los niños](https://www.goodreads.com/book/show/21797076-los-ni-os)
 
@@ -43,4 +46,4 @@ Martin Boyne, «un individuo crítico y cauto de cuarenta y seis años a quien d
 
 - **Inicio:** 2019/03/13
 - **Fin:** 2019/03/20
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

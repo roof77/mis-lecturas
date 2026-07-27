@@ -28,7 +28,7 @@ Los demás personajes, por decenas, tejen una urdimbre, o población humana, en 
 
 ## Ficha del libro
 
-- **Autor:** José Luis Cuerda
+- **Autor:** [José Luis Cuerda](/autores/jose-luis-cuerda/)
 - **Editorial:** Pepitas de Calabaza
 - **Formato:** Paperback, 141 páginas
 - **Idioma:** Spanish; Castilian
@@ -39,4 +39,4 @@ Los demás personajes, por decenas, tejen una urdimbre, o población humana, en 
 
 - **Inicio:** 2015/04/27
 - **Fin:** 2015/04/27
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Feminism
-- Essays
-- Audiobook
-- Womens
-- Parenting
+- No Ficción
+- Feminismo
+- Ensayo
+- Mujeres
+- Paternidad
+- África
+- Adultos
+- Nigeria
+- Política
 autores:
 - Chimamanda Ngozi Adichie
+- Cruz Rodríguez Juiz
 editoriales:
 - Literatura Random House
 image:
@@ -29,14 +33,14 @@ El feminismo empieza en la educación. Con su voz cálida y directa,  Chimamanda
 
 ## Ficha del libro
 
-- **Autor:** Chimamanda Ngozi Adichie
-- **Colaboradores:** Cruz Rodríguez Juiz (Translator)
+- **Autor:** [Chimamanda Ngozi Adichie](/autores/chimamanda-ngozi-adichie/)
+- **Colaboradores:** [Cruz Rodríguez Juiz](/autores/cruz-rodriguez-juiz/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 89 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439732708 / 9788439732709
 - **Publicación original:** 2017-03-01
-- **Géneros:** Nonfiction, Feminism, Essays, Audiobook, Womens, Parenting, Africa, Adult, Nigeria, Politics
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Ensayo](/tags/ensayo/), [Mujeres](/tags/mujeres/), [Paternidad](/tags/paternidad/), [África](/tags/africa/), [Adultos](/tags/adultos/), [Nigeria](/tags/nigeria/), [Política](/tags/politica/)
 - **Personajes:** Chimamanda Ngozi Adichie
 - **Nominaciones:** Readers' Favorite Nonfiction (2017)
 - **Ficha en Goodreads:** [Querida Ijeawele. Cómo educar en el feminismo](https://www.goodreads.com/book/show/33876650-querida-ijeawele-c-mo-educar-en-el-feminismo)
@@ -45,4 +49,4 @@ El feminismo empieza en la educación. Con su voz cálida y directa,  Chimamanda
 
 - **Inicio:** 2024/09/27
 - **Fin:** 2017/03/15
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

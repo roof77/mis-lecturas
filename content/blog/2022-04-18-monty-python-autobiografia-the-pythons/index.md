@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Biography
+- No Ficción
+- Biografía
 - Humor
-- Comedy
-- Autobiography
-- History
+- Comedia
+- Autobiografía
+- Historia
+- Películas
+- Memorias
+- TV
 autores:
 - The Pythons
 editoriales:
@@ -35,12 +38,12 @@ He aquí, en sus propias palabras, y con furtivos extractos de sus diarios, la h
 
 ## Ficha del libro
 
-- **Autor:** The Pythons
+- **Autor:** [The Pythons](/autores/the-pythons/)
 - **Editorial:** Libros del Kultrum
 - **Formato:** Paperback, 608 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2021-12-01
-- **Géneros:** Nonfiction, Biography, Humor, Comedy, Autobiography, History, Film, Memoir, Tv, Audiobook
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Autobiografía](/tags/autobiografia/), [Historia](/tags/historia/), [Películas](/tags/peliculas/), [Memorias](/tags/memorias/), [TV](/tags/tv/)
 - **Personajes:** Terry Jones, John Cleese, Graham Chapman, Michael Palin, Terry Gilliam, Eric Idle
 - **Ficha en Goodreads:** [Monty Python. Autobiografía](https://www.goodreads.com/book/show/59834525-monty-python-autobiograf-a)
 
@@ -48,4 +51,4 @@ He aquí, en sus propias palabras, y con furtivos extractos de sus diarios, la h
 
 - **Inicio:** 2022/03/31
 - **Fin:** 2022/04/18
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

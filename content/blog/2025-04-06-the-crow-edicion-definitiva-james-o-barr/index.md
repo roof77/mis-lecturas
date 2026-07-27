@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Horror
-- Fantasy
-- Fiction
-- Graphic Novels Comics
+- Novela gráfica
+- Terror
+- Fantasía
+- Ficción
+- Gótico
+- Fantasía urbana
+- Crimen
 autores:
 - James O'Barr
+- Ramón de España
 editoriales:
 - Ediciones Glénat España
 image:
@@ -30,15 +33,15 @@ Nacida del dolor experimentado por su creador, J. O'Barr, ante la pérdida de un
 
 ## Ficha del libro
 
-- **Autor:** James O'Barr
+- **Autor:** [James O'Barr](/autores/james-o-barr/)
 - **Serie:** The Crow (Kitchen Sink Press)
-- **Colaboradores:** Ramón de España (traducción)
+- **Colaboradores:** [Ramón de España](/autores/ramon-de-espana/) (traducción)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Hardcover, 248 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8499471358 / 9788499471358
 - **Publicación original:** 2012-01-01
-- **Géneros:** Comics, Graphic Novels, Horror, Fantasy, Fiction, Graphic Novels Comics, Comic Book, Gothic, Urban Fantasy, Crime
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Fantasía urbana](/tags/fantasia-urbana/), [Crimen](/tags/crimen/)
 - **Lugares:** Detroit, Michigan (United States)
 - **Ficha en Goodreads:** [The Crow: Edición definitiva](https://www.goodreads.com/book/show/17865068-the-crow)
 
@@ -46,4 +49,4 @@ Nacida del dolor experimentado por su creador, J. O'Barr, ante la pérdida de un
 
 - **Inicio:** 2025/03/31
 - **Fin:** 2025/04/06
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

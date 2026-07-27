@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Young Adult
-- LGBT
-- Contemporary
-- Fiction
+- Jovenes adultos
+- LGTBIQ+
+- Contemporaneo
+- Ficción
 - Romance
 - Queer
+- Ficción realista
+- Realismo mágico
+- Adolescencia
 autores:
 - A.S. King
 editoriales:
@@ -33,13 +36,13 @@ In this truly original portrayal of a girl struggling to break free of society's
 
 ## Ficha del libro
 
-- **Autor:** A.S. King
+- **Autor:** [A.S. King](/autores/a-s-king/)
 - **Editorial:** Little, Brown BFYR
 - **Formato:** Hardcover, 304 páginas
 - **Idioma:** English
 - **ISBN:** 0316194689 / 9780316194686
 - **Publicación original:** 2012-10-23
-- **Géneros:** Young Adult, LGBT, Contemporary, Fiction, Romance, Queer, Realistic Fiction, Magical Realism, Teen, Audiobook
+- **Géneros:** [Jovenes adultos](/tags/jovenes-adultos/), [LGTBIQ+](/tags/lgtbiq/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Ficción realista](/tags/ficcion-realista/), [Realismo mágico](/tags/realismo-magico/), [Adolescencia](/tags/adolescencia/)
 - **Personajes:** Astrid Jones
 - **Lugares:** Pennsylvania (United States)
 - **Premios ganados:** Los Angeles Times Book Prize (2012), James Cook Book Award (2013)
@@ -50,4 +53,4 @@ In this truly original portrayal of a girl struggling to break free of society's
 
 - **Inicio:** 2015/03/28
 - **Fin:** 2015/03/30
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

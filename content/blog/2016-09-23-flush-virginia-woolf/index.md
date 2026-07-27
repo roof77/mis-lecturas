@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Animals
-- Historical Fiction
-- Dogs
-- 20th Century
+- Clásico
+- Ficción
+- Animales
+- Ficción histórica
+- Perros
+- Siglo XX
+- Literatura
+- Literatura británica
+- Histórico
+- Ficción Literaria
 autores:
 - Virginia Woolf
 editoriales:
@@ -29,13 +33,13 @@ Flush es un cocker spaniel de orejas largas, cola ancha y unos «ojos atónitos 
 
 ## Ficha del libro
 
-- **Autor:** Virginia Woolf
+- **Autor:** [Virginia Woolf](/autores/virginia-woolf/)
 - **Editorial:** Ediciones Destino
 - **Formato:** Paperback, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788423342761
 - **Publicación original:** 2003-05-20
-- **Géneros:** Classics, Fiction, Animals, Historical Fiction, Dogs, 20th Century, Literature, British Literature, Historical, Literary Fiction
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Animales](/tags/animales/), [Ficción histórica](/tags/ficcion-historica/), [Perros](/tags/perros/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/), [Literatura británica](/tags/literatura-britanica/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Personajes:** Robert Browning, Flush, Miss Mitford, Elizabeth Barrett Browning
 - **Lugares:** England
 - **Ficha en Goodreads:** [Flush](https://www.goodreads.com/book/show/13502476-flush)
@@ -44,4 +48,4 @@ Flush es un cocker spaniel de orejas largas, cola ancha y unos «ojos atónitos 
 
 - **Inicio:** 2016/09/20
 - **Fin:** 2016/09/23
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

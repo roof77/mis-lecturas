@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Mystery
-- Classics
-- Fiction
-- Historical Fiction
-- Audiobook
-- Ebooks
+- Misterio
+- Clásico
+- Ficción
+- Ficción histórica
+- Thriller
+- Crimen
+- Siglo XIX
+- Detectives
 autores:
 - Anna Katharine Green
+- Rosa Sahuquillo Moreno
+- Susanna González
 editoriales:
 - dÉpoca editorial
 image:
@@ -34,15 +38,15 @@ Obra maestra de la «madre de la novela de detectives», Anna Katharine Green, c
 
 ## Ficha del libro
 
-- **Autor:** Anna Katharine Green
+- **Autor:** [Anna Katharine Green](/autores/anna-katharine-green/)
 - **Serie:** Mr. Gryce (#8)
-- **Colaboradores:** Rosa Sahuquillo Moreno (Translator), Susanna González (Translator)
+- **Colaboradores:** [Rosa Sahuquillo Moreno](/autores/rosa-sahuquillo-moreno/) (Translator), [Susanna González](/autores/susanna-gonzalez/) (Translator)
 - **Editorial:** dÉpoca editorial
 - **Formato:** Hardcover, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493897299 / 9788493897291
 - **Publicación original:** 2014-10-01
-- **Géneros:** Mystery, Classics, Fiction, Historical Fiction, Audiobook, Ebooks, Mystery Thriller, Crime, 19th Century, Detective
+- **Géneros:** [Misterio](/tags/misterio/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Siglo XIX](/tags/siglo-xix/), [Detectives](/tags/detectives/)
 - **Personajes:** Ebenezer Gryce, Amelia Butterworth, Silas Van Burnam, Franklin Van Burnam, Howard Van Burnam, Caroline Van Burnam, Isabella Van Burnam, Mrs. Boppert, Louise Van Burnam
 - **Lugares:** New York City, New York (United States)
 - **Ficha en Goodreads:** [El misterio de Gramercy Park (Amelia Butterworth, #1; Mr. Gryce, #8)](https://www.goodreads.com/book/show/23304574-el-misterio-de-gramercy-park)
@@ -51,4 +55,4 @@ Obra maestra de la «madre de la novela de detectives», Anna Katharine Green, c
 
 - **Inicio:** 2016/10/02
 - **Fin:** 2016/10/16
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

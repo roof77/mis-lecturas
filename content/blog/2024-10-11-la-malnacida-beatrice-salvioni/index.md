@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Historical Fiction
-- Fiction
-- Italian Literature
-- Audiobook
-- Italy
-- Historical
+- Ficción histórica
+- Ficción
+- Literatura italiana
+- Italia
+- Histórico
+- Coming of age
+- Drama
+- Ficción Literaria
 autores:
 - Beatrice Salvioni
+- Ana Ciurans Ferrándiz
 editoriales:
 - Lumen
 image:
@@ -37,18 +40,18 @@ Duygu Muas, editora de Penguin Verlag (Alemania)
 
 ## Ficha del libro
 
-- **Autor:** Beatrice Salvioni
-- **Colaboradores:** Ana Ciurans Ferrándiz (Translator)
+- **Autor:** [Beatrice Salvioni](/autores/beatrice-salvioni/)
+- **Colaboradores:** [Ana Ciurans Ferrándiz](/autores/ana-ciurans-ferrandiz/) (Translator)
 - **Editorial:** Lumen
 - **Formato:** Kindle Edition, 242 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8426418139 / 9788426418135
 - **Publicación original:** 2023-03-23
-- **Géneros:** Historical Fiction, Fiction, Italian Literature, Audiobook, Italy, Historical, Roman, Coming Of Age, Drama, Literary Fiction
+- **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Literatura italiana](/tags/literatura-italiana/), [Italia](/tags/italia/), [Histórico](/tags/historico/), [Coming of age](/tags/coming-of-age/), [Drama](/tags/drama/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Ficha en Goodreads:** [La malnacida](https://www.goodreads.com/book/show/123364621-la-malnacida)
 
 ## Mi lectura
 
 - **Inicio:** 2024/10/04
 - **Fin:** 2024/10/11
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

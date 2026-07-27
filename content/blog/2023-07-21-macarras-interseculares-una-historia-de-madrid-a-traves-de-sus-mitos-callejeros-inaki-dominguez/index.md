@@ -7,8 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- History
+- No Ficción
+- Historia
 autores:
 - Iñaki Domínguez
 editoriales:
@@ -25,17 +25,17 @@ A través de sus páginas, el lector conocer las barras americanas de la «costa
 
 ## Ficha del libro
 
-- **Autor:** Iñaki Domínguez
+- **Autor:** [Iñaki Domínguez](/autores/inaki-dominguez/)
 - **Editorial:** Melusina
 - **Formato:** Paperback, 457 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841537383X / 9788415373834
 - **Publicación original:** 2020-03-23
-- **Géneros:** Nonfiction, History
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/)
 - **Ficha en Goodreads:** [Macarras interseculares: Una historia de Madrid a través de sus mitos callejeros](https://www.goodreads.com/book/show/53416910-macarras-interseculares)
 
 ## Mi lectura
 
 - **Inicio:** 2023/07/13
 - **Fin:** 2023/07/21
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

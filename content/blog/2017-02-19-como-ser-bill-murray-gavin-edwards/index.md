@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Biography
+- No Ficción
+- Biografía
 - Humor
-- Comedy
-- Biography Memoir
-- Philosophy
+- Comedia
+- Memorias
+- Filosofía
+- Cultura Pop
+- Adultos
 autores:
 - Gavin Edwards
+- Ismael Attrache
+- Jonathan Millán
 editoriales:
 - Blackie Books
 image:
@@ -35,18 +39,18 @@ Todo apunta a que Bill Murray tiene una misión: quiere que seamos mejores perso
 
 ## Ficha del libro
 
-- **Autor:** Gavin Edwards
-- **Colaboradores:** Ismael Attrache (Translator), Jonathan Millán (Illustrator)
+- **Autor:** [Gavin Edwards](/autores/gavin-edwards/)
+- **Colaboradores:** [Ismael Attrache](/autores/ismael-attrache/) (Translator), [Jonathan Millán](/autores/jonathan-millan/) (Illustrator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416290717 / 9788416290710
 - **Publicación original:** 2016-11-30
-- **Géneros:** Nonfiction, Biography, Humor, Comedy, Biography Memoir, Philosophy, Memoir, Pop Culture, Audiobook, Adult
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Memorias](/tags/memorias/), [Filosofía](/tags/filosofia/), [Cultura Pop](/tags/cultura-pop/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Cómo ser Bill Murray](https://www.goodreads.com/book/show/33152703-c-mo-ser-bill-murray)
 
 ## Mi lectura
 
 - **Inicio:** 2017/02/12
 - **Fin:** 2017/02/19
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

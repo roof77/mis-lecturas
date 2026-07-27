@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- History
-- Classics
-- Journalism
-- Essays
-- The United States Of America
+- No Ficción
+- Historia
+- Clásico
+- Periodismo
+- Ensayo
+- EEUU
+- Colegio
 autores:
 - John Steinbeck
+- Dorothea Lange
+- Eduardo Jordá
 editoriales:
 - Libros del Asteroide
 image:
@@ -31,18 +34,18 @@ En la misma época, otra artista, la fotógrafa Dorothea Lange, fue contratada p
 
 ## Ficha del libro
 
-- **Autor:** John Steinbeck
-- **Colaboradores:** Dorothea Lange (Photographer), Eduardo Jordá (Contributor)
+- **Autor:** [John Steinbeck](/autores/john-steinbeck/)
+- **Colaboradores:** [Dorothea Lange](/autores/dorothea-lange/) (Photographer), [Eduardo Jordá](/autores/eduardo-jorda/) (Contributor)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 120 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493544817 / 9788493544812
 - **Publicación original:** 2007-05-01
-- **Géneros:** Nonfiction, History, Classics, Journalism, Essays, The United States Of America, Ebooks, American, Americana, School
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Clásico](/tags/clasico/), [Periodismo](/tags/periodismo/), [Ensayo](/tags/ensayo/), [EEUU](/tags/eeuu/), [Colegio](/tags/colegio/)
 - **Ficha en Goodreads:** [Los vagabundos de la cosecha](https://www.goodreads.com/book/show/4467763-los-vagabundos-de-la-cosecha)
 
 ## Mi lectura
 
 - **Inicio:** 2015/09/29
 - **Fin:** 2015/09/29
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

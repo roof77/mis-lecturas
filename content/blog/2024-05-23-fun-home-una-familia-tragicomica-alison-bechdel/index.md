@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Memoir
+- Novela gráfica
+- Memorias
 - Comics
-- Nonfiction
-- LGBT
+- No Ficción
+- LGTBIQ+
 - Queer
+- Biografía
+- Club de lectura
 autores:
 - Alison Bechdel
 editoriales:
@@ -30,12 +32,12 @@ El padre de Alison, la protagonista (y autora del libro), es profesor de inglés
 
 ## Ficha del libro
 
-- **Autor:** Alison Bechdel
+- **Autor:** [Alison Bechdel](/autores/alison-bechdel/)
 - **Editorial:** Reservoir Books / Mondadori
 - **Formato:** Hardcover, 238 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2008-03-01
-- **Géneros:** Graphic Novels, Memoir, Comics, Nonfiction, LGBT, Queer, Biography, Graphic Novels Comics, Book Club, Biography Memoir
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Memorias](/tags/memorias/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/)
 - **Lugares:** Pennsylvania (United States)
 - **Premios ganados:** Stonewall Book Award (2007), Lambda Literary Award (2007), Will Eisner Comic Industry Awards (2007), The Publishing Triangle Award (2007)
 - **Ficha en Goodreads:** [Fun Home. Una familia tragicómica](https://www.goodreads.com/book/show/16285826-fun-home-una-familia-tragic-mica)
@@ -44,4 +46,4 @@ El padre de Alison, la protagonista (y autora del libro), es profesor de inglés
 
 - **Inicio:** 2024/05/21
 - **Fin:** 2024/05/23
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

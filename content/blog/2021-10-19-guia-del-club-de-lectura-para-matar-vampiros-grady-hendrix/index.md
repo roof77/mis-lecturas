@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Fantasy
-- Audiobook
-- Vampires
-- Book Club
+- Terror
+- Ficción
+- Fantasía
+- Vampiros
+- Club de lectura
+- Thriller
+- Paranormal
+- Misterio
+- Adultos
 autores:
 - Grady Hendrix
+- Paz Pruneda
 editoriales:
 - Minotauro
 image:
@@ -35,14 +39,14 @@ Poco a poco, James se irá introduciendo en la vida cotidiana de Patricia tratan
 
 ## Ficha del libro
 
-- **Autor:** Grady Hendrix
-- **Colaboradores:** Paz Pruneda (Translator)
+- **Autor:** [Grady Hendrix](/autores/grady-hendrix/)
+- **Colaboradores:** [Paz Pruneda](/autores/paz-pruneda/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 471 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445009958 / 9788445009956
 - **Publicación original:** 2021-10-13
-- **Géneros:** Horror, Fiction, Fantasy, Audiobook, Vampires, Book Club, Thriller, Paranormal, Mystery, Adult
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Vampiros](/tags/vampiros/), [Club de lectura](/tags/club-de-lectura/), [Thriller](/tags/thriller/), [Paranormal](/tags/paranormal/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/)
 - **Personajes:** Patricia Campbell, Korey Campbell, Carter "Blue" Campbell Jr., Carter Campbell, Slick Paley, Kitty Scruggs, Grace Cavanaugh, Maryellen
 - **Lugares:** Charleston, South Carolina (United States), South Carolina (United States)
 - **Nominaciones:** Locus Award (2021), Goodreads Choice Award (2020), RUSA CODES Reading List (2021), Readers' Favorite Horror (2020)
@@ -52,4 +56,4 @@ Poco a poco, James se irá introduciendo en la vida cotidiana de Patricia tratan
 
 - **Inicio:** 2021/10/15
 - **Fin:** 2021/10/19
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

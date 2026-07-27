@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Literature
-- Novels
-- British Literature
-- 20th Century
+- Ficción
+- Clásico
+- Literatura
+- Novela
+- Literatura británica
+- Siglo XX
+- Humor
+- Ficción histórica
+- Ficción Literaria
+- Sátira
 autores:
 - Evelyn Waugh
 editoriales:
@@ -30,13 +34,13 @@ El clima habitual de sus relatos es la alta sociedad británica de los años vei
 
 ## Ficha del libro
 
-- **Autor:** Evelyn Waugh
+- **Autor:** [Evelyn Waugh](/autores/evelyn-waugh/)
 - **Editorial:** RBA
 - **Formato:** Paperback, 262 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498675278 / 9788498675276
 - **Publicación original:** 2009-01-01
-- **Géneros:** Fiction, Classics, Literature, Novels, British Literature, 20th Century, Humor, Historical Fiction, Literary Fiction, Satire
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Literatura británica](/tags/literatura-britanica/), [Siglo XX](/tags/siglo-xx/), [Humor](/tags/humor/), [Ficción histórica](/tags/ficcion-historica/), [Ficción Literaria](/tags/ficcion-literaria/), [Sátira](/tags/satira/)
 - **Personajes:** Tony Last, Brenda Last, John Beaver, Polly Cockpurse, Missis Beaver, John Grant-Menzies, Doctor Messinger, Mister Todd
 - **Lugares:** England
 - **Ficha en Goodreads:** [Un puñado de polvo](https://www.goodreads.com/book/show/18298728-un-pu-ado-de-polvo)
@@ -45,4 +49,4 @@ El clima habitual de sus relatos es la alta sociedad británica de los años vei
 
 - **Inicio:** 2014/06/23
 - **Fin:** 2014/06/24
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Audiobook
+- Ciencia ficción
+- Ficción
 - Space Opera
-- Space
+- Espacio
 - Queer
+- Ficción especulativa
+- Fantasía
+- Ciencia Ficción
+- Novela
 autores:
 - Ian McDonald
+- Natalia Eva Cervera de la Torre
 editoriales:
 - Ediciones B
 image:
@@ -43,15 +47,15 @@ The Guardian
 
 ## Ficha del libro
 
-- **Autor:** Ian McDonald
+- **Autor:** [Ian McDonald](/autores/ian-mcdonald/)
 - **Serie:** Luna (#3)
-- **Colaboradores:** Natalia Eva Cervera de la Torre (Translator)
+- **Colaboradores:** [Natalia Eva Cervera de la Torre](/autores/natalia-eva-cervera-de-la-torre/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 464 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417347240 / 9788417347246
 - **Publicación original:** 2019-07-04
-- **Géneros:** Science Fiction, Fiction, Audiobook, Space Opera, Space, Queer, Speculative Fiction, Fantasy, Science Fiction Fantasy, Novels
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Space Opera](/tags/space-opera/), [Espacio](/tags/espacio/), [Queer](/tags/queer/), [Ficción especulativa](/tags/ficcion-especulativa/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Novela](/tags/novela/)
 - **Lugares:** The Moon
 - **Nominaciones:** Locus Award (2020), Prometheus Award (2020)
 - **Ficha en Goodreads:** [Luna ascendente (Luna #3)](https://www.goodreads.com/book/show/45457141-luna-ascendente)
@@ -60,4 +64,4 @@ The Guardian
 
 - **Inicio:** 2019/07/04
 - **Fin:** 2019/07/31
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

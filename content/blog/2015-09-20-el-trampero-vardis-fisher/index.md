@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Westerns
-- Fiction
-- Historical Fiction
-- Adventure
-- Historical
-- Survival
+- Oeste
+- Ficción
+- Ficción histórica
+- Aventuras
+- Histórico
+- Supervivencia
+- Naturaleza
+- EEUU
+- Nativos americanos
+- Novela
 autores:
 - Vardis Fisher
 editoriales:
@@ -34,13 +38,13 @@ El Trampero (Mountain Man, 1965) narra la vida y aventuras de Samson J. Minard, 
 
 ## Ficha del libro
 
-- **Autor:** Vardis Fisher
+- **Autor:** [Vardis Fisher](/autores/vardis-fisher/)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788477027287
 - **Publicación original:** 2012-01-01
-- **Géneros:** Westerns, Fiction, Historical Fiction, Adventure, Historical, Survival, Nature, American, Native Americans, Novels
+- **Géneros:** [Oeste](/tags/oeste/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Aventuras](/tags/aventuras/), [Histórico](/tags/historico/), [Supervivencia](/tags/supervivencia/), [Naturaleza](/tags/naturaleza/), [EEUU](/tags/eeuu/), [Nativos americanos](/tags/nativos-americanos/), [Novela](/tags/novela/)
 - **Personajes:** Sam Minnard, Lotus  and Kate
 - **Premios ganados:** Spur Award (-157737600000)
 - **Ficha en Goodreads:** [El Trampero](https://www.goodreads.com/book/show/17792161-el-trampero)
@@ -49,4 +53,4 @@ El Trampero (Mountain Man, 1965) narra la vida y aventuras de Samson J. Minard, 
 
 - **Inicio:** 2015/09/15
 - **Fin:** 2015/09/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

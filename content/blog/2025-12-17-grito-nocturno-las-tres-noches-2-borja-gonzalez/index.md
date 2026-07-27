@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fantasy
-- Bande Dessinée
-- Young Adult
-- LGBT
+- Fantasía
+- Jovenes adultos
+- LGTBIQ+
+- Brujas
+- Terror
+- Paranormal
+- Ficción
 autores:
 - Borja González
 editoriales:
@@ -35,18 +38,18 @@ UN DELICIOSO CUENTO DE TERROR SOBRE LA IDENTIDAD Y EL OLVIDO
 
 ## Ficha del libro
 
-- **Autor:** Borja González
+- **Autor:** [Borja González](/autores/borja-gonzalez/)
 - **Serie:** Las tres noches (#2)
 - **Editorial:** Reservoir Books
 - **Formato:** Paperback, 168 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418052678 / 9788418052675
 - **Publicación original:** 2022-03-03
-- **Géneros:** Graphic Novels, Comics, Fantasy, Bande Dessinée, Young Adult, LGBT, Witches, Horror, Paranormal, Fiction
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [LGTBIQ+](/tags/lgtbiq/), [Brujas](/tags/brujas/), [Terror](/tags/terror/), [Paranormal](/tags/paranormal/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Grito nocturno (Las tres noches, #2)](https://www.goodreads.com/book/show/60538062-grito-nocturno)
 
 ## Mi lectura
 
 - **Inicio:** 2025/12/17
 - **Fin:** 2025/12/17
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

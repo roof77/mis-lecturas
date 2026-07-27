@@ -31,7 +31,7 @@ Buenos días, buenas tardes y buenas noches, somos Los Prieto Flores y hemos cri
 
 ## Ficha del libro
 
-- **Autor:** Los Prieto Flores
+- **Autor:** [Los Prieto Flores](/autores/los-prieto-flores/)
 - **Editorial:** EDICIONES B
 - **Formato:** Kindle Edition, 151 páginas
 - **Idioma:** Spanish; Castilian
@@ -43,4 +43,4 @@ Buenos días, buenas tardes y buenas noches, somos Los Prieto Flores y hemos cri
 
 - **Inicio:** 2019/09/14
 - **Fin:** 2019/09/24
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Japanese Literature
-- Japan
-- Literature
-- Novels
+- Clásico
+- Ficción
+- Literatura japanesa
+- Japón
+- Literatura
+- Novela
+- Ficción Literaria
+- Filosofía
+- Literatura asiática
 autores:
 - Osamu Dazai
+- Montse Watkins
 editoriales:
 - Sajalin Editores
 image:
@@ -30,13 +34,13 @@ Indigno de ser humano se ha convertido, con el paso de los años, en una de las
 
 ## Ficha del libro
 
-- **Autor:** Osamu Dazai
-- **Colaboradores:** Montse Watkins (traducción)
+- **Autor:** [Osamu Dazai](/autores/osamu-dazai/)
+- **Colaboradores:** [Montse Watkins](/autores/montse-watkins/) (traducción)
 - **Editorial:** Sajalin Editores
 - **Formato:** Paperback, 171 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2021-08-01
-- **Géneros:** Classics, Fiction, Japanese Literature, Japan, Literature, Novels, Literary Fiction, Philosophy, Asian Literature, Audiobook
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/), [Japón](/tags/japon/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Filosofía](/tags/filosofia/), [Literatura asiática](/tags/literatura-asiatica/)
 - **Personajes:** 大庭葉蔵 [Ōba Yōzō]
 - **Lugares:** Japan
 - **Premios ganados:** William F. Sibley Memorial Subvention Award
@@ -46,4 +50,4 @@ Indigno de ser humano se ha convertido, con el paso de los años, en una de las
 
 - **Inicio:** 2020/05/09
 - **Fin:** 2020/05/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

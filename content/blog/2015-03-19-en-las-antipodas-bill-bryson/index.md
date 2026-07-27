@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Travel
-- Nonfiction
+- Viajes
+- No Ficción
 - Humor
 - Australia
-- Memoir
-- Audiobook
+- Memorias
+- Historia
+- Aventuras
+- Club de lectura
+- Biografía
 autores:
 - Bill Bryson
+- Esther Roig Giménez
 editoriales:
 - RBA
 image:
@@ -29,14 +33,14 @@ Australia es el sexto país más grande del mundo y la islamás extensa. Isla, p
 
 ## Ficha del libro
 
-- **Autor:** Bill Bryson
-- **Colaboradores:** Esther Roig Giménez (Translator)
+- **Autor:** [Bill Bryson](/autores/bill-bryson/)
+- **Colaboradores:** [Esther Roig Giménez](/autores/esther-roig-gimenez/) (Translator)
 - **Editorial:** RBA
 - **Formato:** Paperback, 414 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478717374 / 9788478717378
 - **Publicación original:** 2006-01-01
-- **Géneros:** Travel, Nonfiction, Humor, Australia, Memoir, Audiobook, History, Adventure, Book Club, Biography
+- **Géneros:** [Viajes](/tags/viajes/), [No Ficción](/tags/no-ficcion/), [Humor](/tags/humor/), [Australia](/tags/australia/), [Memorias](/tags/memorias/), [Historia](/tags/historia/), [Aventuras](/tags/aventuras/), [Club de lectura](/tags/club-de-lectura/), [Biografía](/tags/biografia/)
 - **Lugares:** Australia, Sydney, New South Wales (Australia), Alice Springs (Australia), Northern Territory (Australia), Australian Outback (Australia), New South Wales (Australia)
 - **Premios ganados:** Puddly Award (2001)
 - **Nominaciones:** Thurber Prize (2001)
@@ -46,4 +50,4 @@ Australia es el sexto país más grande del mundo y la islamás extensa. Isla, p
 
 - **Inicio:** 2015/03/11
 - **Fin:** 2015/03/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

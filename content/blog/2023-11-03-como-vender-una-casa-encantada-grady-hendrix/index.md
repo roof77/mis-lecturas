@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Thriller
-- Audiobook
 - Paranormal
-- Mystery
+- Misterio
+- Adultos
+- Club de lectura
+- Contemporaneo
 autores:
 - Grady Hendrix
+- Pilar de la Peña Minguell
 editoriales:
 - Minotauro
 image:
@@ -29,14 +32,14 @@ Cuando Louise se entera de que sus padres han muerto, teme volver a casa. No qui
 
 ## Ficha del libro
 
-- **Autor:** Grady Hendrix
-- **Colaboradores:** Pilar de la Peña Minguell (Translator)
+- **Autor:** [Grady Hendrix](/autores/grady-hendrix/)
+- **Colaboradores:** [Pilar de la Peña Minguell](/autores/pilar-de-la-pena-minguell/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 440 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445015583 / 9788445015582
 - **Publicación original:** 2023-10-18
-- **Géneros:** Horror, Fiction, Thriller, Audiobook, Paranormal, Mystery, Adult, Book Club, Mystery Thriller, Contemporary
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Paranormal](/tags/paranormal/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/)
 - **Personajes:** Louise Joyner, Mark Joyner
 - **Lugares:** Charleston, South Carolina (United States), South Carolina (United States)
 - **Nominaciones:** Bram Stoker Award (2023), Locus Award (2024), British Fantasy Award (2024), Goodreads Choice Award (2023), RUSA CODES Reading List (2024), Readers' Favorite Horror (2023)
@@ -46,4 +49,4 @@ Cuando Louise se entera de que sus padres han muerto, teme volver a casa. No qui
 
 - **Inicio:** 2023/10/25
 - **Fin:** 2023/11/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

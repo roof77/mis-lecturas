@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Germany
-- German Literature
-- World War II
-- Holocaust
+- Ficción
+- Ficción histórica
+- Alemania
+- Literatura alemana
+- Segunda guerra mundial
+- Holocausto
+- Histórico
+- Clásico
+- Judaismo
+- Guerra
 autores:
 - Ulrich Alexander Boschwitz
 editoriales:
@@ -29,13 +33,13 @@ Alemania, 1938. El comerciante Otto Silbermann es un miembro respetado de la soc
 
 ## Ficha del libro
 
-- **Autor:** Ulrich Alexander Boschwitz
+- **Autor:** [Ulrich Alexander Boschwitz](/autores/ulrich-alexander-boschwitz/)
 - **Editorial:** Sexto Piso
 - **Formato:** Kindle Edition, 255 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417517278 / 9788417517274
 - **Publicación original:** 2019-04-04
-- **Géneros:** Fiction, Historical Fiction, Germany, German Literature, World War II, Holocaust, Historical, Classics, Jewish, War
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Alemania](/tags/alemania/), [Literatura alemana](/tags/literatura-alemana/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Holocausto](/tags/holocausto/), [Histórico](/tags/historico/), [Clásico](/tags/clasico/), [Judaismo](/tags/judaismo/), [Guerra](/tags/guerra/)
 - **Lugares:** Berlin (Germany), Hamburg (Germany)
 - **Nominaciones:** British Book Award (2022)
 - **Ficha en Goodreads:** [El pasajero](https://www.goodreads.com/book/show/44807871-el-pasajero)
@@ -44,4 +48,4 @@ Alemania, 1938. El comerciante Otto Silbermann es un miembro respetado de la soc
 
 - **Inicio:** 2019/05/30
 - **Fin:** 2019/06/12
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

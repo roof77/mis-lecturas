@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Short Stories
-- Graphic Novels Comics
-- Comix
+- Ficción
+- Relatos
+- Nueva York
+- Mujeres
+- Adultos
 autores:
 - Gabrielle Bell
 editoriales:
@@ -29,16 +30,17 @@ Short stories, including the adapted-to-film original Cecil and Jordan in New Yo
 
 ## Ficha del libro
 
-- **Autor:** Gabrielle Bell
+- **Autor:** [Gabrielle Bell](/autores/gabrielle-bell/)
 - **Editorial:** Drawn and Quarterly
 - **Formato:** Hardcover, 148 páginas
 - **Idioma:** English
 - **ISBN:** 1897299575 / 9781897299579
 - **Publicación original:** 2009-03-17
-- **Géneros:** Graphic Novels, Comics, Fiction, Short Stories, Graphic Novels Comics, Comix, Bande Dessinée, New York, Womens, Adult
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Nueva York](/tags/nueva-york/), [Mujeres](/tags/mujeres/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Cecil and Jordan in New York](https://www.goodreads.com/book/show/3061857-cecil-and-jordan-in-new-york)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/06
 - **Fin:** 2026/06/07
+- **Calificación:** Bien/5

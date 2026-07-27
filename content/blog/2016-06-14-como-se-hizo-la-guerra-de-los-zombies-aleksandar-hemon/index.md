@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Humor
-- Contemporary
+- Contemporaneo
 - Zombies
-- Novels
-- Literary Fiction
+- Novela
+- Ficción Literaria
+- EEUU
+- Literatura
+- Terror
 autores:
 - Aleksandar Hemon
+- Eduardo Jordá
 editoriales:
 - Libros del Asteroide
 image:
@@ -30,18 +34,18 @@ Ambientada en unos Estados Unidos todavía traumatizados por los atentados del 1
 
 ## Ficha del libro
 
-- **Autor:** Aleksandar Hemon
-- **Colaboradores:** Eduardo Jordá (Transalator)
+- **Autor:** [Aleksandar Hemon](/autores/aleksandar-hemon/)
+- **Colaboradores:** [Eduardo Jordá](/autores/eduardo-jorda/) (Transalator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 336 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416213690 / 9788416213696
 - **Publicación original:** 2016-05-01
-- **Géneros:** Fiction, Humor, Contemporary, Zombies, Novels, Literary Fiction, American, Literature, Horror, Ebooks
+- **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Contemporaneo](/tags/contemporaneo/), [Zombies](/tags/zombies/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/), [Literatura](/tags/literatura/), [Terror](/tags/terror/)
 - **Ficha en Goodreads:** [Cómo se hizo La guerra de los zombies](https://www.goodreads.com/book/show/30337730-c-mo-se-hizo-la-guerra-de-los-zombies)
 
 ## Mi lectura
 
 - **Inicio:** 2016/06/09
 - **Fin:** 2016/06/14
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

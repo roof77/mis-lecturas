@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Politics
-- Sociology
-- History
-- Society
-- Economics
+- No Ficción
+- Política
+- Sociología
+- Historia
+- Sociedad
+- Economía
+- Clase social
+- Literatura británica
+- Actualidad
 autores:
-- Owen   Jones
+- Owen Jones
+- Íñigo Jaúregui Eguía
 editoriales:
 - Capitán Swing
 image:
@@ -31,14 +35,14 @@ En este aclamado estudio, Owen Jones analiza cómo la clase trabajadora ha pasad
 
 ## Ficha del libro
 
-- **Autor:** Owen   Jones
-- **Colaboradores:** Íñigo Jaúregui Eguía (Translator)
+- **Autor:** [Owen Jones](/autores/owen-jones/)
+- **Colaboradores:** [Íñigo Jaúregui Eguía](/autores/inigo-jauregui-eguia/) (Translator)
 - **Editorial:** Capitán Swing
 - **Formato:** Paperback, 360 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494027972 / 9788494027970
 - **Publicación original:** 2012-10-01
-- **Géneros:** Nonfiction, Politics, Sociology, History, Society, Economics, Class, Audiobook, British Literature, Current Affairs
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Política](/tags/politica/), [Sociología](/tags/sociologia/), [Historia](/tags/historia/), [Sociedad](/tags/sociedad/), [Economía](/tags/economia/), [Clase social](/tags/clase-social/), [Literatura británica](/tags/literatura-britanica/), [Actualidad](/tags/actualidad/)
 - **Nominaciones:** Guardian First Book Award (2011), Bread and Roses Award (2012)
 - **Ficha en Goodreads:** [Chavs: La demonización de la clase obrera](https://www.goodreads.com/book/show/17229088-chavs)
 
@@ -46,4 +50,4 @@ En este aclamado estudio, Owen Jones analiza cómo la clase trabajadora ha pasad
 
 - **Inicio:** 2015/07/28
 - **Fin:** 2015/07/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

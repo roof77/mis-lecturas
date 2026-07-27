@@ -8,13 +8,18 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Horror
-- Graphic Novels
-- Graphic Novels Comics
-- Art
-- Fiction
+- Terror
+- Novela gráfica
+- Arte
+- Ficción
+- Manga
+- Relatos
+- Antología
 autores:
 - Bernie Wrightson
+- Bill Dubai
+- Bruce Jones
+- Budd Lewis
 editoriales:
 - Planeta DeAgostini
 image:
@@ -29,19 +34,19 @@ All of horror legend Bernie Wrightson's Creepy and Eerie short stories, color il
 
 ## Ficha del libro
 
-- **Autor:** Bernie Wrightson
+- **Autor:** [Bernie Wrightson](/autores/bernie-wrightson/)
 - **Serie:** Creepy Presents
-- **Colaboradores:** Bill Dubai (writer), Bruce Jones (writer), Budd Lewis (writer)
+- **Colaboradores:** [Bill Dubai](/autores/bill-dubai/) (writer), [Bruce Jones](/autores/bruce-jones/) (writer), [Budd Lewis](/autores/budd-lewis/) (writer)
 - **Editorial:** Planeta DeAgostini
 - **Formato:** Hardcover, 152 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415821778 / 9788415821779
 - **Publicación original:** 2013-11-01
-- **Géneros:** Comics, Horror, Graphic Novels, Graphic Novels Comics, Art, Fiction, Graphic Novels Comics Manga, Short Stories, Anthologies, Comic Book
+- **Géneros:** [Comics](/tags/comics/), [Terror](/tags/terror/), [Novela gráfica](/tags/novela-grafica/), [Arte](/tags/arte/), [Ficción](/tags/ficcion/), [Manga](/tags/manga/), [Relatos](/tags/relatos/), [Antología](/tags/antologia/)
 - **Ficha en Goodreads:** [Creepy Presenta: Bernie Wrightson](https://www.goodreads.com/book/show/22403824-creepy-presenta)
 
 ## Mi lectura
 
 - **Inicio:** 2025/08/01
 - **Fin:** 2025/08/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

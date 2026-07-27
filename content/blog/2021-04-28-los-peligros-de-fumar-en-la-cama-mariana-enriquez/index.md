@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Horror
-- Fiction
-- Magical Realism
-- Fantasy
-- Contemporary
+- Relatos
+- Terror
+- Ficción
+- Realismo mágico
+- Fantasía
+- Contemporaneo
+- Ficción Literaria
+- Literatura hispana
+- Colección de relatos
+- Adultos
 autores:
 - Mariana Enriquez
 editoriales:
@@ -29,13 +33,13 @@ Una niña desentierra en el jardín unos huesos que resultan no ser de un animal
 
 ## Ficha del libro
 
-- **Autor:** Mariana Enriquez
+- **Autor:** [Mariana Enriquez](/autores/mariana-enriquez/)
 - **Editorial:** Emecé Editores
 - **Formato:** Paperback, 221 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9500432129 / 9789500432122
 - **Publicación original:** 2009-11-01
-- **Géneros:** Short Stories, Horror, Fiction, Magical Realism, Fantasy, Contemporary, Literary Fiction, Spanish Literature, Short Story Collection, Adult
+- **Géneros:** [Relatos](/tags/relatos/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Realismo mágico](/tags/realismo-magico/), [Fantasía](/tags/fantasia/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura hispana](/tags/literatura-hispana/), [Colección de relatos](/tags/coleccion-de-relatos/), [Adultos](/tags/adultos/)
 - **Nominaciones:** Los Angeles Times Book Prize (2021), Kirkus Prize (2021), International Booker Prize (2021), Ladies of Horror Fiction Award (2021)
 - **Ficha en Goodreads:** [Los peligros de fumar en la cama](https://www.goodreads.com/book/show/13121960-los-peligros-de-fumar-en-la-cama)
 
@@ -43,4 +47,4 @@ Una niña desentierra en el jardín unos huesos que resultan no ser de un animal
 
 - **Inicio:** 2021/04/26
 - **Fin:** 2021/04/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

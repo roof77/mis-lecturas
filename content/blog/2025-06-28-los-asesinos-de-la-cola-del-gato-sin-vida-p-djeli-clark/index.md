@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
+- Fantasía
 - Novella
-- Fiction
-- Audiobook
-- Adult
-- Mystery
+- Ficción
+- Adultos
+- Misterio
+- Ciencia ficción
+- Mágia
+- Ciencia Ficción
+- Alta fantasía
 autores:
 - P. Djèlí Clark
+- Raúl García Campos
+- David G. Vaquero
 editoriales:
 - Obscura Editorial, SL
 image:
@@ -33,14 +38,14 @@ P. Djèlí Clark, una de las revelaciones de la ficción especulativa de nuestro
 
 ## Ficha del libro
 
-- **Autor:** P. Djèlí Clark
-- **Colaboradores:** Raúl García Campos (translator), David G. Vaquero (cover_art)
+- **Autor:** [P. Djèlí Clark](/autores/p-djeli-clark/)
+- **Colaboradores:** [Raúl García Campos](/autores/raul-garcia-campos/) (translator), [David G. Vaquero](/autores/david-g-vaquero/) (cover_art)
 - **Editorial:** Obscura Editorial, SL
 - **Formato:** Paperback, 214 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412928423 / 9788412928426
 - **Publicación original:** 2025-05-21
-- **Géneros:** Fantasy, Novella, Fiction, Audiobook, Adult, Mystery, Science Fiction, Magic, Science Fiction Fantasy, High Fantasy
+- **Géneros:** [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/), [Misterio](/tags/misterio/), [Ciencia ficción](/tags/ciencia-ficcion/), [Mágia](/tags/magia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Alta fantasía](/tags/alta-fantasia/)
 - **Premios ganados:** ALA Alex Award (2025)
 - **Nominaciones:** Locus Award (2025), She Reads Best of Award (2024), Readers' Favorite Fantasy (2024)
 - **Ficha en Goodreads:** [Los asesinos de la cola del gato sin vida](https://www.goodreads.com/book/show/221482309-los-asesinos-de-la-cola-del-gato-sin-vida)
@@ -49,4 +54,4 @@ P. Djèlí Clark, una de las revelaciones de la ficción especulativa de nuestro
 
 - **Inicio:** 2025/06/25
 - **Fin:** 2025/06/28
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

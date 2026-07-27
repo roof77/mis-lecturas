@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Historical Fiction
-- Adventure
-- Novels
-- Book Club
+- Ficción
+- Clásico
+- Ficción histórica
+- Aventuras
+- Novela
+- Club de lectura
+- Literatura
+- Piratas
+- Literatura británica
+- Ficción Literaria
 autores:
 - Richard Hughes
 editoriales:
@@ -29,13 +33,13 @@ En Jamaica, a mediados del siglo XIX, los cinco hijos de la familia inglesa Bas-
 
 ## Ficha del libro
 
-- **Autor:** Richard Hughes
+- **Autor:** [Richard Hughes](/autores/richard-hughes/)
 - **Editorial:** Alba Editorial
 - **Formato:** Paperback, 264 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484283437 / 9788484283430
 - **Publicación original:** 2007-01-01
-- **Géneros:** Fiction, Classics, Historical Fiction, Adventure, Novels, Book Club, Literature, Pirates, British Literature, Literary Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Aventuras](/tags/aventuras/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Literatura](/tags/literatura/), [Piratas](/tags/piratas/), [Literatura británica](/tags/literatura-britanica/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Personajes:** Frederic Bas-Thornton, Emily Bas-Thornton, John Bas-Thornton, Rachel Bas-Thornton, Edward Bas-Thornton, Laura Bas-Thornton, Margaret Fernandez, Jimmie Fernandez, Harry Fernandez, Marpole
 - **Lugares:** Caribbean Sea, Jamaica
 - **Premios ganados:** Prix Femina - Vie Heureuse (-1230739200000)
@@ -45,4 +49,4 @@ En Jamaica, a mediados del siglo XIX, los cinco hijos de la familia inglesa Bas-
 
 - **Inicio:** 2017/07/17
 - **Fin:** 2017/07/23
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

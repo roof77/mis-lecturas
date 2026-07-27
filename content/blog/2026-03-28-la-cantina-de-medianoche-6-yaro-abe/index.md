@@ -9,12 +9,13 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Graphic Novels
-- Japan
-- Food
-- Seinen
+- Novela gráfica
+- Japón
+- Comida
+- Seinen manga
 autores:
 - Yarō Abe
+- Alberto Sakai Fonseca
 editoriales:
 - ASTIBERRI EDICIONES
 image:
@@ -29,18 +30,19 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Yarō Abe
+- **Autor:** [Yarō Abe](/autores/yaro-abe/)
 - **Serie:** 深夜食堂 [Shinya Shokudou] (#11-12)
-- **Colaboradores:** Alberto Sakai Fonseca (Translator)
+- **Colaboradores:** [Alberto Sakai Fonseca](/autores/alberto-sakai-fonseca/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 296 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418909897 / 9788418909894
 - **Publicación original:** 2023-06-15
-- **Géneros:** Manga, Comics, Graphic Novels, Japan, Food, Seinen
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Comida](/tags/comida/), [Seinen manga](/tags/seinen-manga/)
 - **Ficha en Goodreads:** [La cantina de medianoche 6](https://www.goodreads.com/book/show/153244661-la-cantina-de-medianoche-6)
 
 ## Mi lectura
 
 - **Inicio:** 2026/03/26
 - **Fin:** 2026/03/28
+- **Calificación:** Muy recomendable/5

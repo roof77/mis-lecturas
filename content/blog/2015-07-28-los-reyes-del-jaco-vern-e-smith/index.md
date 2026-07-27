@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Crime
-- Fiction
-- Novels
+- Crimen
+- Ficción
+- Novela
 - Thriller
-- Mystery
-- The United States Of America
+- Misterio
+- EEUU
+- Noir
 autores:
 - Vern E. Smith
 editoriales:
@@ -31,13 +32,13 @@ Publicada por primera vez en 1974, Los reyes del jaco es hoy en día una novela 
 
 ## Ficha del libro
 
-- **Autor:** Vern E. Smith
+- **Autor:** [Vern E. Smith](/autores/vern-e-smith/)
 - **Editorial:** Sajalín Editores
 - **Formato:** Paperback, 267 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494236784 / 9788494236785
 - **Publicación original:** 2015-04-10
-- **Géneros:** Crime, Fiction, Novels, Thriller, Mystery, The United States Of America, Noir
+- **Géneros:** [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [EEUU](/tags/eeuu/), [Noir](/tags/noir/)
 - **Nominaciones:** Edgar Award (1975)
 - **Ficha en Goodreads:** [Los reyes del jaco](https://www.goodreads.com/book/show/25442541-los-reyes-del-jaco)
 
@@ -45,4 +46,4 @@ Publicada por primera vez en 1974, Los reyes del jaco es hoy en día una novela 
 
 - **Inicio:** 2015/07/24
 - **Fin:** 2015/07/28
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

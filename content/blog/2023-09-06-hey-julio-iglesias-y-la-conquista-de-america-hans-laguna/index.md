@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Music
+- Música
 autores:
 - Hans Laguna
 editoriales:
@@ -26,17 +26,17 @@ El eje central de este ensayo, profusamente documentado e ilustrado, es el exito
 
 ## Ficha del libro
 
-- **Autor:** Hans Laguna
+- **Autor:** [Hans Laguna](/autores/hans-laguna/)
 - **Editorial:** Contra
 - **Formato:** Paperback, 472 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418282630 / 9788418282638
 - **Publicación original:** 2022-04-06
-- **Géneros:** Music
+- **Géneros:** [Música](/tags/musica/)
 - **Ficha en Goodreads:** [Hey! Julio Iglesias y la conquista de América](https://www.goodreads.com/book/show/60805210-hey-julio-iglesias-y-la-conquista-de-am-rica)
 
 ## Mi lectura
 
 - **Inicio:** 2023/09/01
 - **Fin:** 2023/09/06
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

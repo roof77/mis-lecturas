@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Post Apocalyptic
-- Science Fiction
-- Dystopia
-- Book Club
-- Audiobook
+- Ficción
+- Postapocalíptico
+- Ciencia ficción
+- Distopía
+- Club de lectura
+- Apocalipsis
+- Supervivencia
+- Ficción Literaria
+- Aventuras
 autores:
 - Peter Heller
+- Marc Jiménez Buzzi
+- Blanca Rodríguez
 editoriales:
 - Blackie Books
 image:
@@ -29,13 +34,13 @@ Tras la pandemia que casi aniquila a toda la humanidad, Hig sobrevive en un hang
 
 ## Ficha del libro
 
-- **Autor:** Peter Heller
-- **Colaboradores:** Marc Jiménez Buzzi (translator), Blanca Rodríguez (translator)
+- **Autor:** [Peter Heller](/autores/peter-heller/)
+- **Colaboradores:** [Marc Jiménez Buzzi](/autores/marc-jimenez-buzzi/) (translator), [Blanca Rodríguez](/autores/blanca-rodriguez/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 311 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2014-11-01
-- **Géneros:** Fiction, Post Apocalyptic, Science Fiction, Dystopia, Book Club, Audiobook, Apocalyptic, Survival, Literary Fiction, Adventure
+- **Géneros:** [Ficción](/tags/ficcion/), [Postapocalíptico](/tags/postapocaliptico/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Club de lectura](/tags/club-de-lectura/), [Apocalipsis](/tags/apocalipsis/), [Supervivencia](/tags/supervivencia/), [Ficción Literaria](/tags/ficcion-literaria/), [Aventuras](/tags/aventuras/)
 - **Lugares:** Colorado (United States)
 - **Premios ganados:** Prix Une autre Terre (2014)
 - **Nominaciones:** Arthur C. Clarke Award (2013), Andrew Carnegie Medal (2013), Goodreads Choice Award (2012), The Center for Fiction First Novel Prize (2012), Readers' Favorite Fiction (2012)
@@ -45,4 +50,4 @@ Tras la pandemia que casi aniquila a toda la humanidad, Hig sobrevive en un hang
 
 - **Inicio:** 2015/06/10
 - **Fin:** 2015/06/12
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

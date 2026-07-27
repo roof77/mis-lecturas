@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- New York
-- Literary Fiction
-- Contemporary
-- Historical
+- Ficción
+- Ficción histórica
+- Nueva York
+- Ficción Literaria
+- Contemporaneo
+- Histórico
+- Novela
+- Club de lectura
+- Literatura
 autores:
 - Garth Risk Hallberg
+- Cruz Rodríguez Juiz
 editoriales:
 - Literatura Random House
 image:
@@ -33,14 +37,14 @@ Ciudad en llamas, novela debut de Garth Risk Hallberg, ha sido seleccionado como
 
 ## Ficha del libro
 
-- **Autor:** Garth Risk Hallberg
-- **Colaboradores:** Cruz Rodríguez Juiz (Translator)
+- **Autor:** [Garth Risk Hallberg](/autores/garth-risk-hallberg/)
+- **Colaboradores:** [Cruz Rodríguez Juiz](/autores/cruz-rodriguez-juiz/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 984 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439731167 / 9788439731160
 - **Publicación original:** 2016-03-10
-- **Géneros:** Fiction, Historical Fiction, New York, Literary Fiction, Contemporary, Historical, Audiobook, Novels, Book Club, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Nueva York](/tags/nueva-york/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Histórico](/tags/historico/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Literatura](/tags/literatura/)
 - **Personajes:** William Hamilton-Sweeney III, Regan Lamplighter, Mercer Goodman, Keith Lamplighter, Charlie Weisbarger, Samantha Cicciaro, William Lamplighter, Cate Lamplighter, Felicia Hamilton-Sweeney, Amory Gould
 - **Lugares:** New York City, New York (United States)
 - **Nominaciones:** Hugo Award (1998), Nebula Award (1997), Andrew Carnegie Medal (2016), The Center for Fiction First Novel Prize (2015)
@@ -50,4 +54,4 @@ Ciudad en llamas, novela debut de Garth Risk Hallberg, ha sido seleccionado como
 
 - **Inicio:** 2016/05/06
 - **Fin:** 2016/05/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

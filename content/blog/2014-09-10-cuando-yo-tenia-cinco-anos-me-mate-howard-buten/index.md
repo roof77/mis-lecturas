@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Mental Health
-- Mental Illness
-- Psychology
-- Contemporary
-- Literature
+- Ficción
+- Salud mentál
+- Enfermedad mentál
+- Psicología
+- Contemporaneo
+- Literatura
+- EEUU
+- Club de lectura
+- Drama
 autores:
 - Howard Buten
 editoriales:
@@ -29,17 +32,17 @@ Burt sólo tiene ocho años, pero su pequeño corazón ya ha conocido grandes se
 
 ## Ficha del libro
 
-- **Autor:** Howard Buten
+- **Autor:** [Howard Buten](/autores/howard-buten/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494167642 / 9788494167645
 - **Publicación original:** 2013-10-01
-- **Géneros:** Fiction, Mental Health, Mental Illness, Psychology, Contemporary, Literature, The United States Of America, Book Club, Roman, Drama
+- **Géneros:** [Ficción](/tags/ficcion/), [Salud mentál](/tags/salud-mental/), [Enfermedad mentál](/tags/enfermedad-mental/), [Psicología](/tags/psicologia/), [Contemporaneo](/tags/contemporaneo/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Club de lectura](/tags/club-de-lectura/), [Drama](/tags/drama/)
 - **Ficha en Goodreads:** [Cuando yo tenía cinco años, me maté](https://www.goodreads.com/book/show/18751723-cuando-yo-ten-a-cinco-a-os-me-mat)
 
 ## Mi lectura
 
 - **Inicio:** 2014/09/08
 - **Fin:** 2014/09/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

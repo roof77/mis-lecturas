@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fantasy
-- Young Adult
-- Fiction
-- Adventure
+- Fantasía
+- Jovenes adultos
+- Ficción
+- Aventuras
+- Humor
+- LGTBIQ+
 autores:
 - N.D. Stevenson
+- Grace Ellis
+- Shannon Watters
+- Brooklyn Allen
 editoriales:
 - BOOM! Studios
 image:
@@ -29,18 +34,19 @@ Jo, April, Mal, Molly and Ripley are five best pals determined to have an awesom
 
 ## Ficha del libro
 
-- **Autor:** N.D. Stevenson
+- **Autor:** [N.D. Stevenson](/autores/n-d-stevenson/)
 - **Serie:** Lumberjanes (Single Issues) (#1)
-- **Colaboradores:** Grace Ellis (Author), Shannon Watters (Author), Brooklyn Allen (Illustrator)
+- **Colaboradores:** [Grace Ellis](/autores/grace-ellis/) (Author), [Shannon Watters](/autores/shannon-watters/) (Author), [Brooklyn Allen](/autores/brooklyn-allen/) (Illustrator)
 - **Editorial:** BOOM! Studios
 - **Formato:** Kindle Edition, 27 páginas
 - **Idioma:** English
 - **ISBN:** 1613986866 / 9781613986868
 - **Publicación original:** 2014-04-09
-- **Géneros:** Graphic Novels, Comics, Fantasy, Young Adult, Fiction, Adventure, Graphic Novels Comics, Middle Grade, Humor, LGBT
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Aventuras](/tags/aventuras/), [Humor](/tags/humor/), [LGTBIQ+](/tags/lgtbiq/)
 - **Ficha en Goodreads:** [Lumberjanes: Up All Night (Lumberjanes, #1)](https://www.goodreads.com/book/show/25088104-lumberjanes)
 
 ## Mi lectura
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
+- **Calificación:** Recomendable/5

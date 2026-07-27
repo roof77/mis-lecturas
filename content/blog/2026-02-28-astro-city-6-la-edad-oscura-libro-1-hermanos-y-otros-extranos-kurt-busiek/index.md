@@ -8,11 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Superheroes
-- Graphic Novels Comics
-- Fiction
-- Comic Book
+- Ficción
+- Fantasía
+- Ciencia ficción
+- Crimen
+- DC
 autores:
 - Kurt Busiek
 editoriales:
@@ -30,17 +32,18 @@ Astro City, la década de los 70. Nixon es el actual y polémico presidente; el 
 
 ## Ficha del libro
 
-- **Autor:** Kurt Busiek
+- **Autor:** [Kurt Busiek](/autores/kurt-busiek/)
 - **Serie:** Astro City (#6)
 - **Editorial:** Norma Editorial (Wildstorm Comics)
 - **Formato:** Hardcover, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467904879 / 9788467904871
 - **Publicación original:** 2012-04-01
-- **Géneros:** Comics, Graphic Novels, Superheroes, Graphic Novels Comics, Fiction, Comic Book, Fantasy, Science Fiction, Crime, Dc Comics
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Crimen](/tags/crimen/), [DC](/tags/dc/)
 - **Ficha en Goodreads:** [Astro City #6: La Edad Oscura Libro 1: Hermanos y otros extraños](https://www.goodreads.com/book/show/13614119-astro-city-6)
 
 ## Mi lectura
 
 - **Inicio:** 2026/02/28
 - **Fin:** 2026/02/28
+- **Calificación:** Imprescindible/5

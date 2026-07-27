@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Ireland
-- Irish Literature
-- Classics
-- Coming Of Age
-- Novels
+- Ficción
+- Irlanda
+- Literatura irlandesa
+- Clásico
+- Coming of age
+- Novela
+- Ficción Literaria
+- Ficción histórica
+- Mujeres
+- Literatura
 autores:
 - Edna O'Brien
+- Regina López Muñoz
 editoriales:
 - Errata Naturae
 image:
@@ -35,15 +40,15 @@ Estamos, sin duda, ante una extraordinaria novela, iluminada tanto por el humor 
 
 ## Ficha del libro
 
-- **Autor:** Edna O'Brien
+- **Autor:** [Edna O'Brien](/autores/edna-o-brien/)
 - **Serie:** The Country Girls Trilogy (#1)
-- **Colaboradores:** Regina López Muñoz (Translator)
+- **Colaboradores:** [Regina López Muñoz](/autores/regina-lopez-munoz/) (Translator)
 - **Editorial:** Errata Naturae
 - **Formato:** Paperback, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415217587 / 9788415217589
 - **Publicación original:** 2013-10-01
-- **Géneros:** Fiction, Ireland, Irish Literature, Classics, Coming Of Age, Novels, Literary Fiction, Historical Fiction, Womens, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Clásico](/tags/clasico/), [Coming of age](/tags/coming-of-age/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción histórica](/tags/ficcion-historica/), [Mujeres](/tags/mujeres/), [Literatura](/tags/literatura/)
 - **Personajes:** Mr Gentleman, Bridget "Baba" Brennan, Caithleen "Kate" Brady
 - **Ficha en Goodreads:** [Las chicas de campo (Las chicas de campo, #1)](https://www.goodreads.com/book/show/18872663-las-chicas-de-campo)
 
@@ -51,4 +56,4 @@ Estamos, sin duda, ante una extraordinaria novela, iluminada tanto por el humor 
 
 - **Inicio:** 2014/03/14
 - **Fin:** 2014/03/16
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

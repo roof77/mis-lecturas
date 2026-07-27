@@ -7,10 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Spanish Literature
-- Feminism
+- Ciencia ficción
+- Ficción
+- Literatura hispana
+- Feminismo
 autores:
 - Nieves Delgado
 editoriales:
@@ -29,13 +29,13 @@ Esta tercera edición incluye un prólogo de Javier Castañeda de la Torre, que 
 
 ## Ficha del libro
 
-- **Autor:** Nieves Delgado
+- **Autor:** [Nieves Delgado](/autores/nieves-delgado/)
 - **Editorial:** Editorial Cerbero
 - **Formato:** Paperback, 212 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494642251 / 9788494642258
 - **Publicación original:** 2017-03-01
-- **Géneros:** Science Fiction, Fiction, Spanish Literature, Feminism
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Feminismo](/tags/feminismo/)
 - **Premios ganados:** Premio Ignotus (2018)
 - **Ficha en Goodreads:** [36](https://www.goodreads.com/book/show/34600079-36)
 
@@ -43,4 +43,4 @@ Esta tercera edición incluye un prólogo de Javier Castañeda de la Torre, que 
 
 - **Inicio:** 2017/11/27
 - **Fin:** 2017/11/27
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

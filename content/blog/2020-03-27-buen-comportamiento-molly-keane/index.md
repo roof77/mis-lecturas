@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Ireland
-- Historical Fiction
-- Irish Literature
-- Novels
+- Ficción
+- Clásico
+- Irlanda
+- Ficción histórica
+- Literatura irlandesa
+- Novela
+- Club de lectura
+- Siglo XX
+- Ficción Literaria
+- Histórico
 autores:
 - Molly Keane
 editoriales:
@@ -34,13 +38,13 @@ P. D. James
 
 ## Ficha del libro
 
-- **Autor:** Molly Keane
+- **Autor:** [Molly Keane](/autores/molly-keane/)
 - **Editorial:** Contraseña
 - **Formato:** Paperback, 354 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494090313 / 9788494090318
 - **Publicación original:** 2013-01-01
-- **Géneros:** Fiction, Classics, Ireland, Historical Fiction, Irish Literature, Novels, Book Club, 20th Century, Literary Fiction, Historical
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Irlanda](/tags/irlanda/), [Ficción histórica](/tags/ficcion-historica/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/)
 - **Personajes:** Aroon St. Charles
 - **Nominaciones:** Booker Prize (1981)
 - **Ficha en Goodreads:** [Buen comportamiento](https://www.goodreads.com/book/show/17913368-buen-comportamiento)
@@ -49,4 +53,4 @@ P. D. James
 
 - **Inicio:** 2020/03/02
 - **Fin:** 2020/03/27
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

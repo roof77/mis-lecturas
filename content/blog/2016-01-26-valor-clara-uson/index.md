@@ -25,7 +25,7 @@ Sorprende y emociona la habilidad con que Clara Usón te mantiene en vilo hasta 
 
 ## Ficha del libro
 
-- **Autor:** Clara Usón
+- **Autor:** [Clara Usón](/autores/clara-uson/)
 - **Editorial:** Seix Barral 
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
@@ -37,4 +37,4 @@ Sorprende y emociona la habilidad con que Clara Usón te mantiene en vilo hasta 
 
 - **Inicio:** 2016/01/25
 - **Fin:** 2016/01/26
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

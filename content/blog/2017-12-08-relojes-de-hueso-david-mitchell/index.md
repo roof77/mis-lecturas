@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Fantasy
-- Science Fiction
-- Magical Realism
-- Literary Fiction
-- Book Club
+- Ficción
+- Fantasía
+- Ciencia ficción
+- Realismo mágico
+- Ficción Literaria
+- Club de lectura
+- Contemporaneo
+- Misterio
+- Distopía
 autores:
-- David  Mitchell
+- David Mitchell
+- Laura Salas Rodríguez
 editoriales:
 - Literatura Random House
 image:
@@ -33,14 +37,14 @@ A ritmo de thriller, este prestidigitador de las letras británicas nos traslada
 
 ## Ficha del libro
 
-- **Autor:** David  Mitchell
-- **Colaboradores:** Laura Salas Rodríguez (Translator)
+- **Autor:** [David Mitchell](/autores/david-mitchell/)
+- **Colaboradores:** [Laura Salas Rodríguez](/autores/laura-salas-rodriguez/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Kindle Edition, 720 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439731795 / 9788439731795
 - **Publicación original:** 2016-04-07
-- **Géneros:** Fiction, Fantasy, Science Fiction, Magical Realism, Literary Fiction, Book Club, Contemporary, Audiobook, Mystery, Dystopia
+- **Géneros:** [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Misterio](/tags/misterio/), [Distopía](/tags/distopia/)
 - **Personajes:** Holly Sykes, Hugo Lamb, Ed Brubeck, Crispin Hershey, Dr. Iris Marinus-Fenby
 - **Lugares:** Gravesend, Kent, England (United Kingdom), Cambridge, England (United Kingdom), London, England, Hay-on-Wye, Breckonshire, Wales, Cartagena (Colombia), Rottnest Island (Australia), Shanghai (China), Þingvellir (Iceland), Annandale-on-Hudson (United States), New York City, New York (United States), Sheep's Head, County Cork (Ireland), England, Brighton, England (United Kingdom), Wales, China, Iceland, Colombia
 - **Premios ganados:** World Fantasy Award (2015), Tähtifantasia Award (2018), Prix européen Utopiales des pays de la Loire (2018)
@@ -51,4 +55,4 @@ A ritmo de thriller, este prestidigitador de las letras británicas nos traslada
 
 - **Inicio:** 2017/11/27
 - **Fin:** 2017/12/08
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

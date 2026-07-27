@@ -8,11 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Marvel
-- Comic Book
 - Superheroes
-- Graphic Novels Comics
+- Ficción
+- Ciencia ficción
+- Clásico
+- Fantasía
 autores:
 - Jim Shooter
 editoriales:
@@ -32,14 +34,14 @@ Mighty Thor Annual 6, Avengers 167, 168, 170-177 y The Korvac Saga TPB Epilogue 
 
 ## Ficha del libro
 
-- **Autor:** Jim Shooter
+- **Autor:** [Jim Shooter](/autores/jim-shooter/)
 - **Serie:** Avengers (1963) (#167-168, 170-177)
 - **Editorial:** Panini Comics España
 - **Formato:** Paperback, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490247625 / 9788490247624
 - **Publicación original:** 2014-06-01
-- **Géneros:** Comics, Graphic Novels, Marvel, Comic Book, Superheroes, Graphic Novels Comics, Fiction, Science Fiction, Classics, Fantasy
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Marvel](/tags/marvel/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Clásico](/tags/clasico/), [Fantasía](/tags/fantasia/)
 - **Personajes:** Clint Barton, Zeus (Greek mythology), Hera (Greek mythology), Simon Williams, Hercules (Marvel Comics), Janet van Dyne, Doctor Strange, Norrin Radd, Mephisto, Mary Jane Watson
 - **Ficha en Goodreads:** [Los Vengadores: La Saga de Korvac ¡Con los Guardianes de la Galaxia!](https://www.goodreads.com/book/show/22005997-los-vengadores)
 
@@ -47,4 +49,4 @@ Mighty Thor Annual 6, Avengers 167, 168, 170-177 y The Korvac Saga TPB Epilogue 
 
 - **Inicio:** 2025/10/18
 - **Fin:** 2025/10/19
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

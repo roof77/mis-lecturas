@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Memoir
-- Nonfiction
+- Memorias
+- No Ficción
 - Queer
-- Biography
-- LGBT
-- Biography Memoir
+- Biografía
+- LGTBIQ+
+- Autobiografía
+- Feminismo
+- Club de lectura
 autores:
 - Jeanette Winterson
+- Álvaro Abella Villar
 editoriales:
 - Lumen
 image:
@@ -30,14 +33,14 @@ En 1985, Winterson publicó Fruta prohibida, su primera novela, un relato apenas
 
 ## Ficha del libro
 
-- **Autor:** Jeanette Winterson
-- **Colaboradores:** Álvaro Abella Villar (Translator)
+- **Autor:** [Jeanette Winterson](/autores/jeanette-winterson/)
+- **Colaboradores:** [Álvaro Abella Villar](/autores/alvaro-abella-villar/) (Translator)
 - **Editorial:** Lumen
 - **Formato:** Kindle Edition, 220 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8426420761 / 9788426420763
 - **Publicación original:** 2012-02-09
-- **Géneros:** Memoir, Nonfiction, Queer, Biography, LGBT, Biography Memoir, Autobiography, Feminism, Book Club, Audiobook
+- **Géneros:** [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Queer](/tags/queer/), [Biografía](/tags/biografia/), [LGTBIQ+](/tags/lgtbiq/), [Autobiografía](/tags/autobiografia/), [Feminismo](/tags/feminismo/), [Club de lectura](/tags/club-de-lectura/)
 - **Lugares:** England, Lancashire, England
 - **Premios ganados:** Stonewall Book Award (2013), Lambda Literary Award (2013)
 - **Nominaciones:** Andrew Carnegie Medal (2013), The Publishing Triangle Award (2013)
@@ -47,4 +50,4 @@ En 1985, Winterson publicó Fruta prohibida, su primera novela, un relato apenas
 
 - **Inicio:** 2021/07/07
 - **Fin:** 2021/07/11
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

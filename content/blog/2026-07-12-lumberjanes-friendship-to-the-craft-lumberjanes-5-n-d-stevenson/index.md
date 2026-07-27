@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Graphic Novels Comics
-- Young Adult
-- Comic Book
+- Novela gráfica
+- Fantasía
+- Jovenes adultos
+- Aventuras
+- Ficción
+- Queer
+- LGTBIQ+
 autores:
 - N.D. Stevenson
+- Grace Ellis
+- Brooke A. Allen
 editoriales:
 - BOOM! - BOOM! Box
 image:
@@ -29,17 +33,18 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** N.D. Stevenson
+- **Autor:** [N.D. Stevenson](/autores/n-d-stevenson/)
 - **Serie:** Lumberjanes (Single Issues) (#5)
-- **Colaboradores:** Grace Ellis (Author), Brooke A. Allen (Illustrator)
+- **Colaboradores:** [Grace Ellis](/autores/grace-ellis/) (Author), [Brooke A. Allen](/autores/brooke-a-allen/) (Illustrator)
 - **Editorial:** BOOM! - BOOM! Box
 - **Formato:** Kindle Edition, 26 páginas
 - **Idioma:** English
 - **Publicación original:** 2014-09-03
-- **Géneros:** Comics, Graphic Novels, Fantasy, Graphic Novels Comics, Young Adult, Comic Book, Adventure, Fiction, Queer, LGBT
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Aventuras](/tags/aventuras/), [Ficción](/tags/ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/)
 - **Ficha en Goodreads:** [Lumberjanes: Friendship to the Craft (Lumberjanes, #5)](https://www.goodreads.com/book/show/25233409-lumberjanes)
 
 ## Mi lectura
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
+- **Calificación:** Recomendable/5

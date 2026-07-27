@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Historical Fiction
+- Terror
+- Ficción histórica
 - Thriller
-- Mystery
-- Fiction
-- Historical
+- Misterio
+- Ficción
+- Histórico
+- Gótico
+- Crimen
 autores:
 - Craig Russell
+- Enrique Alda
 editoriales:
 - ROCA EDITORIAL
 image:
@@ -29,14 +32,14 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Craig Russell
-- **Colaboradores:** Enrique Alda (Translator)
+- **Autor:** [Craig Russell](/autores/craig-russell/)
+- **Colaboradores:** [Enrique Alda](/autores/enrique-alda/) (Translator)
 - **Editorial:** ROCA EDITORIAL
 - **Formato:** Kindle Edition, 496 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417771948 / 9788417771942
 - **Publicación original:** 2019-06-06
-- **Géneros:** Horror, Historical Fiction, Thriller, Mystery, Fiction, Historical, Gothic, Mystery Thriller, Audiobook, Crime
+- **Géneros:** [Terror](/tags/terror/), [Ficción histórica](/tags/ficcion-historica/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Histórico](/tags/historico/), [Gótico](/tags/gotico/), [Crimen](/tags/crimen/)
 - **Nominaciones:** RUSA CODES Reading List (2020)
 - **Ficha en Goodreads:** [El aspecto del diablo](https://www.goodreads.com/book/show/45894335-el-aspecto-del-diablo)
 
@@ -44,4 +47,4 @@ image:
 
 - **Inicio:** 2021/10/20
 - **Fin:** 2021/10/31
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

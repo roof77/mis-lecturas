@@ -7,14 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Nonfiction
+- Novela gráfica
+- No Ficción
 - Comics
-- Film
-- History
-- Art
+- Películas
+- Historia
+- Arte
+- Adultos
 autores:
 - Edward Ross
+- Carlos Mayor Ortega
 editoriales:
 - RESERVOIR BOOKS
 image:
@@ -29,18 +31,18 @@ Este libro es un viaje apasionante por la historia del cine en siete  capítulos
 
 ## Ficha del libro
 
-- **Autor:** Edward Ross
-- **Colaboradores:** Carlos Mayor Ortega (Traducción)
+- **Autor:** [Edward Ross](/autores/edward-ross/)
+- **Colaboradores:** [Carlos Mayor Ortega](/autores/carlos-mayor-ortega/) (Traducción)
 - **Editorial:** RESERVOIR BOOKS
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416709459 / 9788416709458
 - **Publicación original:** 2017-02-02
-- **Géneros:** Graphic Novels, Nonfiction, Comics, Film, History, Art, Graphic Novels Comics, Comic Book, Adult, Cultural
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [No Ficción](/tags/no-ficcion/), [Comics](/tags/comics/), [Películas](/tags/peliculas/), [Historia](/tags/historia/), [Arte](/tags/arte/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Filmish: Un viaje gráfico por el cine](https://www.goodreads.com/book/show/40171304-filmish)
 
 ## Mi lectura
 
 - **Inicio:** 2025/10/19
 - **Fin:** 2025/10/30
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

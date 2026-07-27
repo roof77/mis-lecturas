@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- LGBT
-- Germany
-- Book Club
+- Ficción
+- Contemporaneo
+- LGTBIQ+
+- Alemania
+- Club de lectura
 - Humor
+- Gay
+- Novella
+- Novela
 autores:
 - Katharina Volckmer
+- Inga Pellisa
 editoriales:
 - Editorial Anagrama
 image:
@@ -39,18 +43,18 @@ Con una prosa elegante, una mirada tierna y un escandaloso humor negro, Polvazo
 
 ## Ficha del libro
 
-- **Autor:** Katharina Volckmer
-- **Colaboradores:** Inga Pellisa (translator)
+- **Autor:** [Katharina Volckmer](/autores/katharina-volckmer/)
+- **Colaboradores:** [Inga Pellisa](/autores/inga-pellisa/) (translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 168 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433929615 / 9788433929617
 - **Publicación original:** 2025-02-05
-- **Géneros:** Fiction, Contemporary, LGBT, Germany, Book Club, Humor, Gay, Novella, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [LGTBIQ+](/tags/lgtbiq/), [Alemania](/tags/alemania/), [Club de lectura](/tags/club-de-lectura/), [Humor](/tags/humor/), [Gay](/tags/gay/), [Novella](/tags/novella/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Polvazo](https://www.goodreads.com/book/show/222779748-polvazo)
 
 ## Mi lectura
 
 - **Inicio:** 2025/03/23
 - **Fin:** 2025/03/30
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

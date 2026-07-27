@@ -9,6 +9,10 @@ tags:
 - Lecturas
 autores:
 - Dan Slott
+- Giuseppe Camuncoli
+- Jim Cheung
+- Brian Michael Bendis
+- Sara Pichelli
 editoriales:
 - Goody
 image:
@@ -30,9 +34,9 @@ SPIDER-GWEN (2015) #16 – Por JASON LATOUR, ROBBI RODRIGUEZ e RICO RENZI
 
 ## Ficha del libro
 
-- **Autor:** Dan Slott
+- **Autor:** [Dan Slott](/autores/dan-slott/)
 - **Serie:** Homem-Aranha Série II (#3)
-- **Colaboradores:** Giuseppe Camuncoli (Illustrator), Jim Cheung (Illustrator), Brian Michael Bendis (Writer), Sara Pichelli (Author)
+- **Colaboradores:** [Giuseppe Camuncoli](/autores/giuseppe-camuncoli/) (Illustrator), [Jim Cheung](/autores/jim-cheung/) (Illustrator), [Brian Michael Bendis](/autores/brian-michael-bendis/) (Writer), [Sara Pichelli](/autores/sara-pichelli/) (Author)
 - **Editorial:** Goody
 - **Formato:** Paperback, 128 páginas
 - **Idioma:** Portuguese
@@ -44,3 +48,4 @@ SPIDER-GWEN (2015) #16 – Por JASON LATOUR, ROBBI RODRIGUEZ e RICO RENZI
 
 - **Inicio:** 2026/07/08
 - **Fin:** 2026/07/08
+- **Calificación:** Pasable/5

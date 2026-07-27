@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Ireland
-- Irish Literature
-- Contemporary
-- Literary Fiction
-- Book Club
+- Ficción
+- Irlanda
+- Literatura irlandesa
+- Contemporaneo
+- Ficción Literaria
+- Club de lectura
+- Crimen
+- Misterio
+- Ficción adulta
 autores:
 - Lisa McInerney
 editoriales:
@@ -33,14 +36,14 @@ Al tratar de expiar el homicidio y multitud de otros supuestos pecados, Maureen 
 
 ## Ficha del libro
 
-- **Autor:** Lisa McInerney
+- **Autor:** [Lisa McInerney](/autores/lisa-mcinerney/)
 - **Serie:** Ryan Cusack (#1)
 - **Editorial:** Alianza de Novelas
 - **Formato:** Paperback, 432 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491044760 / 9788491044765
 - **Publicación original:** 2016-11-24
-- **Géneros:** Fiction, Ireland, Irish Literature, Contemporary, Literary Fiction, Book Club, Crime, Mystery, Audiobook, Adult Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Lugares:** Ireland
 - **Premios ganados:** Desmond Elliott Prize (2016), Women's Prize for Fiction (2016)
 - **Nominaciones:** Kirkus Prize (2016), Theakston Old Peculier Crime Novel of the Year (2016)
@@ -50,4 +53,4 @@ Al tratar de expiar el homicidio y multitud de otros supuestos pecados, Maureen 
 
 - **Inicio:** 2019/08/21
 - **Fin:** 2019/08/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

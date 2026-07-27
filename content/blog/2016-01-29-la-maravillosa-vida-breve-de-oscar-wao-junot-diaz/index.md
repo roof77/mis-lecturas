@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Book Club
-- Contemporary
-- Magical Realism
-- Literary Fiction
-- Historical Fiction
+- Ficción
+- Club de lectura
+- Contemporaneo
+- Realismo mágico
+- Ficción Literaria
+- Ficción histórica
+- Novela
+- Literatura
+- Coming of age
 autores:
 - Junot Díaz
 editoriales:
@@ -29,13 +32,13 @@ En la noche, cuando estaba echado en la cama pensando en la chica de la que esta
 
 ## Ficha del libro
 
-- **Autor:** Junot Díaz
+- **Autor:** [Junot Díaz](/autores/junot-diaz/)
 - **Editorial:** Random House Mondadori
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9879397991 / 9789879397992
 - **Publicación original:** 2008-09-01
-- **Géneros:** Fiction, Book Club, Contemporary, Magical Realism, Literary Fiction, Historical Fiction, Novels, Audiobook, Literature, Coming Of Age
+- **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Coming of age](/tags/coming-of-age/)
 - **Personajes:** Oscar de León, Lola de León, Hypatía Belicia "Beli" Cabral de León, La Inca, Yunior de Las Casas, Ybón Pimentel, Dr Abelard Luis Cabral
 - **Lugares:** Paterson, New Jersey (United States), Santo Domingo (Dominican Republic), Santiago, Dominican Republic, Dominican Republic, New York City, New York (United States), New Jersey (United States), New Brunswick, New Jersey (United States)
 - **Premios ganados:** Pulitzer Prize (2008), Anisfield-Wolf Book Award (2008), Massachusetts Book Award (2008), Dayton Literary Peace Prize (2008), National Book Critics Circle Award (2007), Hurston/Wright Legacy Award (2008), The Rooster -- The Morning News Tournament of Books (2008), The Center for Fiction First Novel Prize (2007)
@@ -46,4 +49,4 @@ En la noche, cuando estaba echado en la cama pensando en la chica de la que esta
 
 - **Inicio:** 2016/01/26
 - **Fin:** 2016/01/29
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -9,9 +9,10 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Graphic Novels
+- Novela gráfica
 autores:
 - Osamu Tezuka
+- Jesús Pece
 editoriales:
 - Planeta DeAgostini
 image:
@@ -26,19 +27,19 @@ Adolf es la historia de tres personas llamadas Adolf: un niño judío que viven 
 
 ## Ficha del libro
 
-- **Autor:** Osamu Tezuka
+- **Autor:** [Osamu Tezuka](/autores/osamu-tezuka/)
 - **Serie:** Adolf (2 parts) (#1-2)
-- **Colaboradores:** Jesús Pece (Translator)
+- **Colaboradores:** [Jesús Pece](/autores/jesus-pece/) (Translator)
 - **Editorial:** Planeta DeAgostini
 - **Formato:** Hardcover, 1200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467496703 / 9788467496703
 - **Publicación original:** 2010-01-01
-- **Géneros:** Manga, Comics, Graphic Novels
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/)
 - **Ficha en Goodreads:** [Adolf Integral, volúmenes 1 y 2 (Colección Trazado: Adolf Integral, #1-2)](https://www.goodreads.com/book/show/35833660-adolf-integral-vol-menes-1-y-2)
 
 ## Mi lectura
 
 - **Inicio:** 2014/09/28
 - **Fin:** 2014/10/05
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

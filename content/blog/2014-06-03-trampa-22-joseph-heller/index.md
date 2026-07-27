@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Historical Fiction
-- War
+- Clásico
+- Ficción
+- Ficción histórica
+- Guerra
 - Humor
-- Literature
+- Literatura
+- Novela
+- Sátira
+- Club de lectura
+- Histórico
 autores:
 - Joseph Heller
+- Flora Casas
 editoriales:
 - RBA Bolsillo
 image:
@@ -31,15 +36,15 @@ Con una lógica siniestra, Yossarian, un piloto subordinado de Cathcart que inte
 
 ## Ficha del libro
 
-- **Autor:** Joseph Heller
+- **Autor:** [Joseph Heller](/autores/joseph-heller/)
 - **Serie:** Catch-22 (#1)
-- **Colaboradores:** Flora Casas (Translator)
+- **Colaboradores:** [Flora Casas](/autores/flora-casas/) (Translator)
 - **Editorial:** RBA Bolsillo
 - **Formato:** Paperback, 656 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478718591 / 9788478718597
 - **Publicación original:** 2007-01-01
-- **Géneros:** Classics, Fiction, Historical Fiction, War, Humor, Literature, Novels, Satire, Book Club, Historical
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Guerra](/tags/guerra/), [Humor](/tags/humor/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Sátira](/tags/satira/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/)
 - **Personajes:** Yossarian, Chaplain Tappman, Milo Minderbinder, Nately, Colonel Cathcart, Doc Daneeka, General Dreedle, Major Major Major Major, Orr, Chief White Halfoat
 - **Lugares:** Italy
 - **Premios ganados:** National Book Award Finalist (-252432000000)
@@ -49,4 +54,4 @@ Con una lógica siniestra, Yossarian, un piloto subordinado de Cathcart que inte
 
 - **Inicio:** 2014/05/19
 - **Fin:** 2014/06/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

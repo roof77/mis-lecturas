@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
+- Ficción
+- Contemporaneo
 - Humor
-- Spain
-- Spanish Literature
-- Literary Fiction
+- España
+- Literatura hispana
+- Ficción Literaria
+- Coming of age
+- Novela
+- Mujeres
 autores:
 - Meryem El Mehdati
 editoriales:
@@ -31,17 +34,17 @@ Se llama Meryem, pero nadie escribe bien su nombre. Tiene veinticinco años y ac
 
 ## Ficha del libro
 
-- **Autor:** Meryem El Mehdati
+- **Autor:** [Meryem El Mehdati](/autores/meryem-el-mehdati/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418187773 / 9788418187773
 - **Publicación original:** 2022-03-23
-- **Géneros:** Fiction, Contemporary, Humor, Spain, Spanish Literature, Literary Fiction, Coming Of Age, Novels, Womens, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Humor](/tags/humor/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Ficción Literaria](/tags/ficcion-literaria/), [Coming of age](/tags/coming-of-age/), [Novela](/tags/novela/), [Mujeres](/tags/mujeres/)
 - **Ficha en Goodreads:** [Supersaurio](https://www.goodreads.com/book/show/60373913-supersaurio)
 
 ## Mi lectura
 
 - **Inicio:** 2022/12/29
 - **Fin:** 2023/01/10
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

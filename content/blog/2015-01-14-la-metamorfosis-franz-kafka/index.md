@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Philosophy
-- Fantasy
-- Short Stories
-- Literature
+- Clásico
+- Ficción
+- Filosofía
+- Fantasía
+- Relatos
+- Literatura
+- Terror
+- Colegio
+- Literatura alemana
 autores:
 - Franz Kafka
 editoriales:
@@ -29,13 +32,13 @@ La metamorfosis (Die Verwandlung, en su título original en alemán) es un relat
 
 ## Ficha del libro
 
-- **Autor:** Franz Kafka
+- **Autor:** [Franz Kafka](/autores/franz-kafka/)
 - **Editorial:** Agebe
 - **Formato:** Paperback, 125 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9871165072 / 9789871165070
 - **Publicación original:** 2004-09-01
-- **Géneros:** Classics, Fiction, Philosophy, Fantasy, Short Stories, Literature, Horror, School, German Literature, Audiobook
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Filosofía](/tags/filosofia/), [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [Terror](/tags/terror/), [Colegio](/tags/colegio/), [Literatura alemana](/tags/literatura-alemana/)
 - **Personajes:** Gregor Samsa, Grete Samsa, Mr. Samsa, Mrs. Samsa
 - **Ficha en Goodreads:** [La metamorfosis](https://www.goodreads.com/book/show/59186.La_metamorfosis)
 
@@ -43,4 +46,4 @@ La metamorfosis (Die Verwandlung, en su título original en alemán) es un relat
 
 - **Inicio:** 2015/01/14
 - **Fin:** 2015/01/14
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

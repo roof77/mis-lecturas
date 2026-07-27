@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Superheroes
-- Fiction
-- Graphic Novels Comics
-- Comic Book
+- Ficción
+- Fantasía
+- Ciencia ficción
+- DC
+- Crimen
 autores:
 - Kurt Busiek
+- Brent Anderson
 editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:
@@ -30,15 +33,15 @@ La vida en Astro City es muy distinta a la de las demás ciudades. Para un simpl
 
 ## Ficha del libro
 
-- **Autor:** Kurt Busiek
+- **Autor:** [Kurt Busiek](/autores/kurt-busiek/)
 - **Serie:** Astro City (#3)
-- **Colaboradores:** Brent Anderson (Author)
+- **Colaboradores:** [Brent Anderson](/autores/brent-anderson/) (Author)
 - **Editorial:** Norma Editorial (Wildstorm Comics)
 - **Formato:** Hardcover, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467901292 / 9788467901290
 - **Publicación original:** 2010-05-28
-- **Géneros:** Comics, Graphic Novels, Superheroes, Fiction, Graphic Novels Comics, Comic Book, Fantasy, Science Fiction, Dc Comics, Crime
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [DC](/tags/dc/), [Crimen](/tags/crimen/)
 - **Premios ganados:** Will Eisner Comic Industry Awards (1998)
 - **Ficha en Goodreads:** [Astro City #3: Album de familia](https://www.goodreads.com/book/show/9104300-astro-city-3)
 
@@ -46,3 +49,4 @@ La vida en Astro City es muy distinta a la de las demás ciudades. Para un simpl
 
 - **Inicio:** 2026/02/15
 - **Fin:** 2026/02/26
+- **Calificación:** Recomendable/5

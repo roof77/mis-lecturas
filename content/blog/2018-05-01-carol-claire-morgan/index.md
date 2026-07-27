@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- LGBT
+- Ficción
+- LGTBIQ+
 - Romance
 - Queer
-- Classics
-- Lesbian
+- Clásico
+- Lesbianismo
+- Ficción histórica
+- Club de lectura
+- Histórico
 autores:
-- Claire  Morgan
+- Claire Morgan
+- Patricia Highsmith
+- Isabel Núñez
+- José Aguirre
 editoriales:
 - Editorial Anagrama
 image:
@@ -31,14 +37,14 @@ Carol es una novela de amor entre mujeres –de ahí la decisión de Patricia Hi
 
 ## Ficha del libro
 
-- **Autor:** Claire  Morgan
-- **Colaboradores:** Patricia Highsmith (Author), Isabel Núñez (Translator), José Aguirre (Translator)
+- **Autor:** [Claire Morgan](/autores/claire-morgan/)
+- **Colaboradores:** [Patricia Highsmith](/autores/patricia-highsmith/) (Author), [Isabel Núñez](/autores/isabel-nunez/) (Translator), [José Aguirre](/autores/jose-aguirre/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 328 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433911465 / 9788433911469
 - **Publicación original:** 2016-04-28
-- **Géneros:** Fiction, LGBT, Romance, Queer, Classics, Lesbian, Historical Fiction, Book Club, Audiobook, Historical
+- **Géneros:** [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Clásico](/tags/clasico/), [Lesbianismo](/tags/lesbianismo/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/)
 - **Personajes:** Therese Belivet, Carol Aird, Harge Aird, Abby Gerhard, Richard Semco
 - **Lugares:** Manhattan, New York City, New York (United States), New York City, New York (United States), New York (State) (United States)
 - **Ficha en Goodreads:** [Carol](https://www.goodreads.com/book/show/6424009-carol)
@@ -47,4 +53,4 @@ Carol es una novela de amor entre mujeres –de ahí la decisión de Patricia Hi
 
 - **Inicio:** 2018/04/27
 - **Fin:** 2018/05/01
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

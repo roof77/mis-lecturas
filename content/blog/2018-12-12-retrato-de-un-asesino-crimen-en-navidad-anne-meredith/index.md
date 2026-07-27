@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Mystery
-- Christmas
-- Crime
-- Fiction
-- Classics
-- British Literature
+- Misterio
+- Navidad
+- Crimen
+- Ficción
+- Clásico
+- Literatura británica
+- Vacaciones
+- Ficción histórica
+- Thriller
+- Histórico
 autores:
-- Anne  Meredith
+- Anne Meredith
+- Daniel de la Rubia Ortí
 editoriales:
 - Alba Editorial
 image:
@@ -32,18 +37,18 @@ Lucy Beatrice Malleson, conocida por los seudónimos de J. Kilmeny Keith, Anthon
 
 ## Ficha del libro
 
-- **Autor:** Anne  Meredith
-- **Colaboradores:** Daniel de la Rubia Ortí (Translator)
+- **Autor:** [Anne Meredith](/autores/anne-meredith/)
+- **Colaboradores:** [Daniel de la Rubia Ortí](/autores/daniel-de-la-rubia-orti/) (Translator)
 - **Editorial:** Alba Editorial
 - **Formato:** Kindle Edition, 236 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490655030 / 9788490655030
 - **Publicación original:** 2019-06-25
-- **Géneros:** Mystery, Christmas, Crime, Fiction, Classics, British Literature, Holiday, Historical Fiction, Mystery Thriller, Historical
+- **Géneros:** [Misterio](/tags/misterio/), [Navidad](/tags/navidad/), [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura británica](/tags/literatura-britanica/), [Vacaciones](/tags/vacaciones/), [Ficción histórica](/tags/ficcion-historica/), [Thriller](/tags/thriller/), [Histórico](/tags/historico/)
 - **Ficha en Goodreads:** [Retrato de un asesino. Crimen en Navidad](https://www.goodreads.com/book/show/43073726-retrato-de-un-asesino-crimen-en-navidad)
 
 ## Mi lectura
 
 - **Inicio:** 2018/12/04
 - **Fin:** 2018/12/12
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

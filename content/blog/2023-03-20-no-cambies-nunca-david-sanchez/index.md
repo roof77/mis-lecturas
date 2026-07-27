@@ -29,17 +29,17 @@ Si David Sánchez exploraba en Tú me has matado el tema de la religión, y su f
 
 ## Ficha del libro
 
-- **Autor:** David Sánchez
+- **Autor:** [David Sánchez](/autores/david-sanchez/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 96 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415163649 / 9788415163640
 - **Publicación original:** 2012-04-01
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [No cambies nunca](https://www.goodreads.com/book/show/13640753-no-cambies-nunca)
 
 ## Mi lectura
 
 - **Inicio:** 2023/03/20
 - **Fin:** 2023/03/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

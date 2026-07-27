@@ -29,7 +29,7 @@ En la línea de su narrativa vital, visceral y sexual, Pedro Juan Gutiérrez nos
 
 ## Ficha del libro
 
-- **Autor:** Pedro Juan Gutiérrez
+- **Autor:** [Pedro Juan Gutiérrez](/autores/pedro-juan-gutierrez/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
@@ -41,4 +41,4 @@ En la línea de su narrativa vital, visceral y sexual, Pedro Juan Gutiérrez nos
 
 - **Inicio:** 2019/10/29
 - **Fin:** 2019/10/31
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

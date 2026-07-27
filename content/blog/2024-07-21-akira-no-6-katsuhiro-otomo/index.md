@@ -9,12 +9,16 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Graphic Novels
-- Science Fiction
-- Fiction
+- Novela gráfica
+- Ciencia ficción
+- Ficción
 - Cyberpunk
+- Japón
+- Literatura japanesa
+- Distopía
 autores:
 - Katsuhiro Otomo
+- Steve Oliff
 editoriales:
 - Norma Editorial
 image:
@@ -29,19 +33,19 @@ The explosive finale to one of graphic fiction's greatest achievements is here! 
 
 ## Ficha del libro
 
-- **Autor:** Katsuhiro Otomo
+- **Autor:** [Katsuhiro Otomo](/autores/katsuhiro-otomo/)
 - **Serie:** Akira [アキラ] (#6)
-- **Colaboradores:** Steve Oliff (Color)
+- **Colaboradores:** [Steve Oliff](/autores/steve-oliff/) (Color)
 - **Editorial:** Norma Editorial
 - **Formato:** Paperback, 440 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498144205 / 9788498144208
 - **Publicación original:** 2007-01-01
-- **Géneros:** Manga, Comics, Graphic Novels, Science Fiction, Fiction, Cyberpunk, Japan, Comics Manga, Japanese Literature, Dystopia
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Distopía](/tags/distopia/)
 - **Ficha en Goodreads:** [Akira, No. 6](https://www.goodreads.com/book/show/15780696-akira-no-6)
 
 ## Mi lectura
 
 - **Inicio:** 2024/07/21
 - **Fin:** 2024/07/21
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

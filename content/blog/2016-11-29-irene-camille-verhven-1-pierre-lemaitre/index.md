@@ -8,13 +8,16 @@ authors:
 tags:
 - Lecturas
 - Thriller
-- Crime
-- Mystery
-- Fiction
-- France
-- Mystery Thriller
+- Crimen
+- Misterio
+- Ficción
+- Francia
+- Noir
+- Suspense
+- Detectives
 autores:
 - Pierre Lemaitre
+- Juan Carlos Durán Romero
 editoriales:
 - Alfaguara
 image:
@@ -29,15 +32,15 @@ El comandante Camille Verhœven vive la vida perfecta: está casado con la marav
 
 ## Ficha del libro
 
-- **Autor:** Pierre Lemaitre
+- **Autor:** [Pierre Lemaitre](/autores/pierre-lemaitre/)
 - **Serie:** Camille Verhœven (#1)
-- **Colaboradores:** Juan Carlos Durán Romero (Translator)
+- **Colaboradores:** [Juan Carlos Durán Romero](/autores/juan-carlos-duran-romero/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 384 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420418854 / 9788420418858
 - **Publicación original:** 2015-05-07
-- **Géneros:** Thriller, Crime, Mystery, Fiction, France, Mystery Thriller, Noir, Suspense, Detective, Audiobook
+- **Géneros:** [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Noir](/tags/noir/), [Suspense](/tags/suspense/), [Detectives](/tags/detectives/)
 - **Premios ganados:** Grand prix du roman noir (Festival du film policier de Cognac) (2006), Premio San Clemente (2017)
 - **Nominaciones:** CWA International Dagger (2014), Prix des prix littéraires (2013), Gullkulen/The Golden Bullet (2016)
 - **Ficha en Goodreads:** [Irène (Camille Verhœven, #1)](https://www.goodreads.com/book/show/25484805-ir-ne)
@@ -46,4 +49,4 @@ El comandante Camille Verhœven vive la vida perfecta: está casado con la marav
 
 - **Inicio:** 2016/11/24
 - **Fin:** 2016/11/29
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

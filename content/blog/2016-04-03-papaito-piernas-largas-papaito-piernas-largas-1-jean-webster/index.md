@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Young Adult
+- Clásico
+- Ficción
+- Jovenes adultos
 - Romance
-- Historical Fiction
-- Novels
+- Ficción histórica
+- Novela
+- Niños
+- Histórico
+- Coming of age
 autores:
 - Jean Webster
 editoriales:
@@ -29,14 +32,14 @@ Judy Abbott es una muchacha alegre, cordial y trabajadora que no conoce el mundo
 
 ## Ficha del libro
 
-- **Autor:** Jean Webster
+- **Autor:** [Jean Webster](/autores/jean-webster/)
 - **Serie:** Daddy-Long-Legs (#1)
 - **Editorial:** Biblok
 - **Formato:** Paperback, 222 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493790141 / 9788493790141
 - **Publicación original:** 2010-01-01
-- **Géneros:** Classics, Fiction, Young Adult, Romance, Historical Fiction, Novels, Childrens, Historical, Audiobook, Coming Of Age
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Niños](/tags/ninos/), [Histórico](/tags/historico/), [Coming of age](/tags/coming-of-age/)
 - **Personajes:** Jerusha "Judy" Abbott, Jervis Pendleton, Jimmy McBride, Julia Pendleton, Sallie McBride
 - **Ficha en Goodreads:** [Papaíto piernas largas (Papaíto piernas largas, #1)](https://www.goodreads.com/book/show/9418200-papa-to-piernas-largas)
 
@@ -44,4 +47,4 @@ Judy Abbott es una muchacha alegre, cordial y trabajadora que no conoce el mundo
 
 - **Inicio:** 2016/03/26
 - **Fin:** 2016/04/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Thriller
 - Paranormal
-- Mystery
+- Misterio
 - Novella
+- Adultos
+- Fantasía
 autores:
 - Sara Gran
 editoriales:
@@ -31,17 +33,17 @@ No sabe si está poseída por un demonio o perdiendo la cabeza. En un rincón de
 
 ## Ficha del libro
 
-- **Autor:** Sara Gran
+- **Autor:** [Sara Gran](/autores/sara-gran/)
 - **Editorial:** La Biblioteca de Carfax
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412564022 / 9788412564020
 - **Publicación original:** 2023-05-03
-- **Géneros:** Horror, Fiction, Thriller, Paranormal, Mystery, Novella, Audiobook, Adult, Horror Thriller, Fantasy
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Paranormal](/tags/paranormal/), [Misterio](/tags/misterio/), [Novella](/tags/novella/), [Adultos](/tags/adultos/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Acércate](https://www.goodreads.com/book/show/152047655-ac-rcate)
 
 ## Mi lectura
 
 - **Inicio:** 2023/11/14
 - **Fin:** 2023/11/17
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

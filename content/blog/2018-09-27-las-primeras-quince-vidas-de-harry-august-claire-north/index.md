@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Fantasy
-- Time Travel
-- Book Club
-- Audiobook
+- Ciencia ficción
+- Ficción
+- Fantasía
+- Viaje en el tiempo
+- Club de lectura
+- Ficción histórica
+- Adultos
+- Histórico
+- Thriller
 autores:
 - Claire North
+- Jaime Valero
 editoriales:
 - Colmena Ediciones
 image:
@@ -35,14 +39,14 @@ Esta es la historia de lo Harry August hace a continuación (y lo que hizo antes
 
 ## Ficha del libro
 
-- **Autor:** Claire North
-- **Colaboradores:** Jaime Valero (Translator)
+- **Autor:** [Claire North](/autores/claire-north/)
+- **Colaboradores:** [Jaime Valero](/autores/jaime-valero/) (Translator)
 - **Editorial:** Colmena Ediciones
 - **Formato:** Paperback, 544 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415709978 / 9788415709978
 - **Publicación original:** 2015-02-01
-- **Géneros:** Science Fiction, Fiction, Fantasy, Time Travel, Book Club, Audiobook, Historical Fiction, Adult, Historical, Thriller
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Club de lectura](/tags/club-de-lectura/), [Ficción histórica](/tags/ficcion-historica/), [Adultos](/tags/adultos/), [Histórico](/tags/historico/), [Thriller](/tags/thriller/)
 - **Personajes:** Jenny, Harry August, Vincent Rankis, Franklin Phearson
 - **Premios ganados:** John W. Campbell Memorial Award (2015), Premio Ignotus (2016)
 - **Nominaciones:** Arthur C. Clarke Award (2015), British Science Fiction Association Award (2014), Goodreads Choice Award (2014), Seiun Award 星雲賞 (2017), Readers' Favorite Science Fiction (2014)
@@ -52,4 +56,4 @@ Esta es la historia de lo Harry August hace a continuación (y lo que hizo antes
 
 - **Inicio:** 2018/09/20
 - **Fin:** 2018/09/27
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

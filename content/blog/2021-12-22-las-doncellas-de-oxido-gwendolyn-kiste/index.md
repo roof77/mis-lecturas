@@ -7,14 +7,21 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- Historical Fiction
-- Gothic
-- Mystery
+- Terror
+- Fantasía
+- Ficción
+- Ficción histórica
+- Gótico
+- Misterio
+- Adultos
+- Histórico
+- Paranormal
 autores:
 - Gwendolyn Kiste
+- Antonio Torrubia
+- Silvia Broome
+- Juan Alberto Hernández
+- José Ángel de Dios
 editoriales:
 - Dilatando Mentes
 image:
@@ -41,14 +48,14 @@ Elegido uno de los mejores libros del año por The Horror Fiction Review, Glenn 
 
 ## Ficha del libro
 
-- **Autor:** Gwendolyn Kiste
-- **Colaboradores:** Antonio Torrubia (Prólogo), Silvia Broome (Postfacio), Juan Alberto Hernández (Illustrator), José Ángel de Dios (Translator)
+- **Autor:** [Gwendolyn Kiste](/autores/gwendolyn-kiste/)
+- **Colaboradores:** [Antonio Torrubia](/autores/antonio-torrubia/) (Prólogo), [Silvia Broome](/autores/silvia-broome/) (Postfacio), [Juan Alberto Hernández](/autores/juan-alberto-hernandez/) (Illustrator), [José Ángel de Dios](/autores/jose-angel-de-dios/) (Translator)
 - **Editorial:** Dilatando Mentes
 - **Formato:** Paperback, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412102355 / 9788412102352
 - **Publicación original:** 2020-04-01
-- **Géneros:** Horror, Fantasy, Fiction, Historical Fiction, Gothic, Mystery, Adult, Historical, Audiobook, Paranormal
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Gótico](/tags/gotico/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Histórico](/tags/historico/), [Paranormal](/tags/paranormal/)
 - **Premios ganados:** Bram Stoker Award (2018)
 - **Ficha en Goodreads:** [Las doncellas de óxido](https://www.goodreads.com/book/show/51874034-las-doncellas-de-xido)
 
@@ -56,4 +63,4 @@ Elegido uno de los mejores libros del año por The Horror Fiction Review, Glenn 
 
 - **Inicio:** 2021/12/17
 - **Fin:** 2021/12/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

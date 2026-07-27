@@ -8,13 +8,15 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Comic Book
-- Comedy
-- Fantasy
+- Novela gráfica
+- Comedia
+- Fantasía
+- Sexualidad
+- Manga
+- Humor
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -29,18 +31,18 @@ She can seemingly control time and space with her...parts. She's as relentless a
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 32 páginas
 - **Idioma:** English
 - **Publicación original:** 2014-01-08
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Comic Book, Comedy, Fantasy, Sexuality, Ebooks, Comics Manga, Humor
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Comedia](/tags/comedia/), [Fantasía](/tags/fantasia/), [Sexualidad](/tags/sexualidad/), [Manga](/tags/manga/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Sex Criminals #4: Sex Police](https://www.goodreads.com/book/show/18740382-sex-criminals-4)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/19
 - **Fin:** 2018/08/19
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

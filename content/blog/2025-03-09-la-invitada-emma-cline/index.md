@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Literary Fiction
-- Audiobook
+- Ficción
+- Contemporaneo
+- Ficción Literaria
 - Thriller
-- Book Club
+- Club de lectura
+- Misterio
+- Verano
+- Novela
+- Adultos
 autores:
 - Emma Cline
+- Inga Pellisa
 editoriales:
 - Editorial Anagrama
 image:
@@ -35,14 +39,14 @@ Emma Cline, que con su éxito mundial Las chicas se reveló como una de las voce
 
 ## Ficha del libro
 
-- **Autor:** Emma Cline
-- **Colaboradores:** Inga Pellisa (translator)
+- **Autor:** [Emma Cline](/autores/emma-cline/)
+- **Colaboradores:** [Inga Pellisa](/autores/inga-pellisa/) (translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 296 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433927221 / 9788433927224
 - **Publicación original:** 2024-09-12
-- **Géneros:** Fiction, Contemporary, Literary Fiction, Audiobook, Thriller, Book Club, Mystery, Summer, Novels, Adult
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Misterio](/tags/misterio/), [Verano](/tags/verano/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)
 - **Lugares:** Long Island, New York (United States), New York (State) (United States), Hamptons, New York (United States)
 - **Nominaciones:** PEN/Faulkner Award for Fiction (2024), The Rooster -- The Morning News Tournament of Books (2024), Joyce Carol Oates Prize (2024)
 - **Ficha en Goodreads:** [La invitada](https://www.goodreads.com/book/show/216403835-la-invitada)
@@ -51,4 +55,4 @@ Emma Cline, que con su éxito mundial Las chicas se reveló como una de las voce
 
 - **Inicio:** 2025/03/03
 - **Fin:** 2025/03/09
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

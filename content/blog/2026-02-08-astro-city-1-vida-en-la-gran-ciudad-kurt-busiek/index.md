@@ -8,13 +8,15 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Superheroes
-- Comic Book
-- Fiction
-- Graphic Novels Comics
+- Ficción
+- Fantasía
+- Ciencia ficción
 autores:
 - Kurt Busiek
+- Brent Anderson
+- Alex Ross
 editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:
@@ -31,15 +33,15 @@ Astro City es una ciudad de superhéroes y villanos, de magos y monstruos, donde
 
 ## Ficha del libro
 
-- **Autor:** Kurt Busiek
+- **Autor:** [Kurt Busiek](/autores/kurt-busiek/)
 - **Serie:** Astro City (#1)
-- **Colaboradores:** Brent Anderson (Author), Alex Ross (Illustrator)
+- **Colaboradores:** [Brent Anderson](/autores/brent-anderson/) (Author), [Alex Ross](/autores/alex-ross/) (Illustrator)
 - **Editorial:** Norma Editorial (Wildstorm Comics)
 - **Formato:** Hardcover, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498473179 / 9788498473179
 - **Publicación original:** 2009-11-01
-- **Géneros:** Comics, Graphic Novels, Superheroes, Comic Book, Fiction, Graphic Novels Comics, Fantasy, Science Fiction, Comix, Sequential Art
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/)
 - **Premios ganados:** Will Eisner Comic Industry Awards (1996)
 - **Ficha en Goodreads:** [Astro City #1: Vida en la Gran Ciudad](https://www.goodreads.com/book/show/7904191-astro-city-1)
 
@@ -47,3 +49,4 @@ Astro City es una ciudad de superhéroes y villanos, de magos y monstruos, donde
 
 - **Inicio:** 2026/02/08
 - **Fin:** 2026/02/08
+- **Calificación:** Muy recomendable/5

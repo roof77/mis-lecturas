@@ -8,13 +8,15 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Horror
-- Fiction
+- Novela gráfica
+- Terror
+- Ficción
 - Halloween
-- Graphic Novels Comics
+- Vampiros
 autores:
 - Richard Sala
+- Curro Cruz
+- Sulaco Studios
 editoriales:
 - Recerca Editorial
 image:
@@ -30,18 +32,19 @@ Esa extraña nueva familia está esperando conocer sangre fresca... Una por cada
 
 ## Ficha del libro
 
-- **Autor:** Richard Sala
+- **Autor:** [Richard Sala](/autores/richard-sala/)
 - **Serie:** Peculia (#2)
-- **Colaboradores:** Curro Cruz (introducción), Sulaco Studios (traducción y diseño)
+- **Colaboradores:** [Curro Cruz](/autores/curro-cruz/) (introducción), [Sulaco Studios](/autores/sulaco-studios/) (traducción y diseño)
 - **Editorial:** Recerca Editorial
 - **Formato:** Paperback, 98 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8496402746 / 9788496402744
 - **Publicación original:** 2006-01-01
-- **Géneros:** Comics, Graphic Novels, Horror, Fiction, Halloween, Graphic Novels Comics, Vampires
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Halloween](/tags/halloween/), [Vampiros](/tags/vampiros/)
 - **Ficha en Goodreads:** [Peculia y los vampiros del Bosque Siniestro (Colección Horrorama: Peculia, #2)](https://www.goodreads.com/book/show/35629898-peculia-y-los-vampiros-del-bosque-siniestro)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/02
 - **Fin:** 2026/05/02
+- **Calificación:** Muy bien/5

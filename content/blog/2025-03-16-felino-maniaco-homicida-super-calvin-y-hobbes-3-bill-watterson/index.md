@@ -23,7 +23,7 @@ Entrega número 3 de este relanzamiento con nuevo diseño de la serie Calvin y H
 
 ## Ficha del libro
 
-- **Autor:** Bill Watterson
+- **Autor:** [Bill Watterson](/autores/bill-watterson/)
 - **Editorial:** Bruguera (Ediciones B)
 - **Formato:** Hardcover, 176 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ Entrega número 3 de este relanzamiento con nuevo diseño de la serie Calvin y H
 
 - **Inicio:** 2025/03/13
 - **Fin:** 2025/03/16
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Mystery
-- Fiction
-- Horror
-- Historical Fiction
-- Fantasy
+- Misterio
+- Ficción
+- Terror
+- Ficción histórica
+- Fantasía
 - Thriller
+- Steampunk
+- Histórico
+- Crimen
 autores:
 - Mark Frost
+- Alberto Coscarelli Guaschino
 editoriales:
 - Impedimenta
 image:
@@ -29,15 +33,15 @@ Navidad de 1884. El joven médico y aspirante a escritor Arthur Conan Doyle es i
 
 ## Ficha del libro
 
-- **Autor:** Mark Frost
+- **Autor:** [Mark Frost](/autores/mark-frost/)
 - **Serie:** The List of Seven (#1)
-- **Colaboradores:** Alberto Coscarelli Guaschino (Translator)
+- **Colaboradores:** [Alberto Coscarelli Guaschino](/autores/alberto-coscarelli-guaschino/) (Translator)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 432 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9791387641078
 - **Publicación original:** 2025-06-02
-- **Géneros:** Mystery, Fiction, Horror, Historical Fiction, Fantasy, Thriller, Steampunk, Historical, Crime, Mystery Thriller
+- **Géneros:** [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Ficción histórica](/tags/ficcion-historica/), [Fantasía](/tags/fantasia/), [Thriller](/tags/thriller/), [Steampunk](/tags/steampunk/), [Histórico](/tags/historico/), [Crimen](/tags/crimen/)
 - **Nominaciones:** Edgar Award (1994)
 - **Ficha en Goodreads:** [La lista de los siete](https://www.goodreads.com/book/show/230878041-la-lista-de-los-siete)
 
@@ -45,4 +49,4 @@ Navidad de 1884. El joven médico y aspirante a escritor Arthur Conan Doyle es i
 
 - **Inicio:** 2025/08/14
 - **Fin:** 2025/08/26
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fantasy
-- Horror
-- Short Stories
-- Fiction
-- Science Fiction Fantasy
+- Ciencia ficción
+- Fantasía
+- Terror
+- Relatos
+- Ficción
+- Ciencia Ficción
+- Antología
+- Colecciones
+- Ficción especulativa
+- Colección de relatos
 autores:
 - George R.R. Martin
 editoriales:
@@ -35,13 +39,13 @@ Martin es además un maestro para combinar géneros: «Tráfico de piel» es un 
 
 ## Ficha del libro
 
-- **Autor:** George R.R. Martin
+- **Autor:** [George R.R. Martin](/autores/george-r-r-martin/)
 - **Editorial:** PLAZA JANÉS
 - **Formato:** Kindle Edition, 362 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6073161255 / 9786073161251
 - **Publicación original:** 2018-01-19
-- **Géneros:** Science Fiction, Fantasy, Horror, Short Stories, Fiction, Science Fiction Fantasy, Anthologies, Collections, Speculative Fiction, Short Story Collection
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Antología](/tags/antologia/), [Colecciones](/tags/colecciones/), [Ficción especulativa](/tags/ficcion-especulativa/), [Colección de relatos](/tags/coleccion-de-relatos/)
 - **Premios ganados:** Locus Award (1982)
 - **Ficha en Goodreads:** [Los reyes de la arena: Cuentos de terror](https://www.goodreads.com/book/show/37118735-los-reyes-de-la-arena)
 
@@ -49,4 +53,4 @@ Martin es además un maestro para combinar géneros: «Tráfico de piel» es un 
 
 - **Inicio:** 2014/01/13
 - **Fin:** 2014/01/13
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

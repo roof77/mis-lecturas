@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Horror
-- Japan
-- Japanese Literature
-- Contemporary
+- Relatos
+- Ficción
+- Terror
+- Japón
+- Literatura japanesa
+- Contemporaneo
+- Ficción Literaria
+- Literatura asiática
+- Ásia
 autores:
 - Sayaka Murata
 editoriales:
@@ -33,12 +36,12 @@ En esta audaz expedición por los límites, Sayaka Murata, una de las mentes má
 
 ## Ficha del libro
 
-- **Autor:** Sayaka Murata
+- **Autor:** [Sayaka Murata](/autores/sayaka-murata/)
 - **Editorial:** Duomo
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2025-03-03
-- **Géneros:** Short Stories, Fiction, Horror, Japan, Japanese Literature, Contemporary, Literary Fiction, Asian Literature, Audiobook, Asia
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/), [Ásia](/tags/asia/)
 - **Lugares:** Japan
 - **Ficha en Goodreads:** [La ceremonia](https://www.goodreads.com/book/show/223531991-la-ceremonia)
 
@@ -46,4 +49,4 @@ En esta audaz expedición por los límites, Sayaka Murata, una de las mentes má
 
 - **Inicio:** 2025/05/12
 - **Fin:** 2025/05/18
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

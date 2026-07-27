@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- Historical Fiction
-- Science Fiction
-- Audiobook
+- Terror
+- Fantasía
+- Ficción
+- Ficción histórica
+- Ciencia ficción
+- Histórico
+- Lovecraftiano
+- Club de lectura
+- Sobrenatural
 autores:
 - Matt Ruff
 editoriales:
@@ -33,13 +36,13 @@ A chimerical blend of magic, power, hope, and freedom that stretches across time
 
 ## Ficha del libro
 
-- **Autor:** Matt Ruff
+- **Autor:** [Matt Ruff](/autores/matt-ruff/)
 - **Serie:** Lovecraft Country (#1)
 - **Editorial:** Harper
 - **Formato:** ebook, 400 páginas
 - **Idioma:** English
 - **Publicación original:** 2016-02-16
-- **Géneros:** Horror, Fantasy, Fiction, Historical Fiction, Science Fiction, Audiobook, Historical, Lovecraftian, Book Club, Supernatural
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Histórico](/tags/historico/), [Lovecraftiano](/tags/lovecraftiano/), [Club de lectura](/tags/club-de-lectura/), [Sobrenatural](/tags/sobrenatural/)
 - **Personajes:** Atticus Turner, George Berry, Montrose Turner, Letitia Dandridge
 - **Lugares:** The United States of America, Chicago, Illinois (United States), Ardham, Massachusetts (United States)
 - **Premios ganados:** Endeavour Award (2017), Prix Elbakin.net (2019)
@@ -50,4 +53,4 @@ A chimerical blend of magic, power, hope, and freedom that stretches across time
 
 - **Inicio:** 2017/05/16
 - **Fin:** 2017/06/08
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

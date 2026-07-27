@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Manga
-- Japan
-- Graphic Novels
+- Japón
+- Novela gráfica
 - Comics
-- Food
-- Graphic Novels Comics
+- Comida
+- Relatos
+- Slice of life
+- Cocina
+- Seinen manga
 autores:
 - Yarō Abe
+- Alberto Sakai
 editoriales:
 - Astiberri Ediciones
 image:
@@ -29,18 +33,19 @@ Esa minúscula taberna situada en una callejuela del barrio de Shinjuku acoge a 
 
 ## Ficha del libro
 
-- **Autor:** Yarō Abe
+- **Autor:** [Yarō Abe](/autores/yaro-abe/)
 - **Serie:** 深夜食堂 [Shinya Shokudou] (#7-8)
-- **Colaboradores:** Alberto Sakai (Translator)
+- **Colaboradores:** [Alberto Sakai](/autores/alberto-sakai/) (Translator)
 - **Editorial:** Astiberri Ediciones
 - **Formato:** Paperback, 296 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418215534 / 9788418215537
 - **Publicación original:** 2021-07-01
-- **Géneros:** Manga, Japan, Graphic Novels, Comics, Food, Graphic Novels Comics, Short Stories, Slice Of Life, Cuisine, Seinen
+- **Géneros:** [Manga](/tags/manga/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Comida](/tags/comida/), [Relatos](/tags/relatos/), [Slice of life](/tags/slice-of-life/), [Cocina](/tags/cocina/), [Seinen manga](/tags/seinen-manga/)
 - **Ficha en Goodreads:** [La cantina de medianoche 4](https://www.goodreads.com/book/show/58655129-la-cantina-de-medianoche-4)
 
 ## Mi lectura
 
 - **Inicio:** 2026/03/24
 - **Fin:** 2026/03/25
+- **Calificación:** Muy recomendable/5

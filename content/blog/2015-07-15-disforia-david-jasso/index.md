@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
+- Terror
 autores:
 - David Jasso
 editoriales:
@@ -26,17 +26,17 @@ La sociedad arrastra una crisis económica y de valores que parece irreversible.
 
 ## Ficha del libro
 
-- **Autor:** David Jasso
+- **Autor:** [David Jasso](/autores/david-jasso/)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 416 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8477028001 / 9788477028000
 - **Publicación original:** 2015-05-06
-- **Géneros:** Horror
+- **Géneros:** [Terror](/tags/terror/)
 - **Ficha en Goodreads:** [Disforia](https://www.goodreads.com/book/show/25250009-disforia)
 
 ## Mi lectura
 
 - **Inicio:** 2015/07/07
 - **Fin:** 2015/07/15
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

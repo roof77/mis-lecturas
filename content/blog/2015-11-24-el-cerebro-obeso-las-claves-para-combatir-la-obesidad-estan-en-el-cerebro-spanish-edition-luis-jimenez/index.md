@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Health
+- Salud
 autores:
 - Luis Jiménez
 image:
@@ -22,15 +22,15 @@ La obesidad crece imparable y sus efectos negativos sobre la salud también. Las
 
 ## Ficha del libro
 
-- **Autor:** Luis Jiménez
+- **Autor:** [Luis Jiménez](/autores/luis-jimenez/)
 - **Formato:** Kindle Edition, 257 páginas
 - **Idioma:** English
 - **Publicación original:** 2014-11-07
-- **Géneros:** Health
+- **Géneros:** [Salud](/tags/salud/)
 - **Ficha en Goodreads:** [El cerebro obeso: Las claves para combatir la obesidad están en el cerebro (Spanish Edition)](https://www.goodreads.com/book/show/23960951-el-cerebro-obeso)
 
 ## Mi lectura
 
 - **Inicio:** 2015/11/10
 - **Fin:** 2015/11/24
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

@@ -8,11 +8,14 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Bande Dessinée
-- Graphic Novels
-- Spanish Literature
-- Nonfiction
-- Art
+- Novela gráfica
+- Literatura hispana
+- No Ficción
+- Arte
+- Salud mentál
+- España
+- Religión
+- Memorias
 autores:
 - Bea Lema
 editoriales:
@@ -29,13 +32,13 @@ Cuando Vera era niña, un demonio rondaba su casa y acosaba a su madre, martille
 
 ## Ficha del libro
 
-- **Autor:** Bea Lema
+- **Autor:** [Bea Lema](/autores/bea-lema/)
 - **Editorial:** Astiberri Ediciones
 - **Formato:** Paperback, 184 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419670146 / 9788419670144
 - **Publicación original:** 2024-11-05
-- **Géneros:** Comics, Bande Dessinée, Graphic Novels, Spanish Literature, Nonfiction, Art, Mental Health, Spain, Religion, Memoir
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Literatura hispana](/tags/literatura-hispana/), [No Ficción](/tags/no-ficcion/), [Arte](/tags/arte/), [Salud mentál](/tags/salud-mental/), [España](/tags/espana/), [Religión](/tags/religion/), [Memorias](/tags/memorias/)
 - **Premios ganados:** Prix du Festival d'Angoulême (2024)
 - **Ficha en Goodreads:** [El cuerpo de Cristo](https://www.goodreads.com/book/show/199510212-el-cuerpo-de-cristo)
 
@@ -43,4 +46,4 @@ Cuando Vera era niña, un demonio rondaba su casa y acosaba a su madre, martille
 
 - **Inicio:** 2025/03/23
 - **Fin:** 2025/03/23
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

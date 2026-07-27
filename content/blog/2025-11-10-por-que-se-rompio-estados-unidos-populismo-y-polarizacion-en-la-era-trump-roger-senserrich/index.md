@@ -7,8 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Politics
-- Nonfiction
+- Política
+- No Ficción
 autores:
 - Roger Senserrich
 editoriales:
@@ -31,17 +31,17 @@ Los partidos políticos y la sociedad americana están cambiando a marchas forza
 
 ## Ficha del libro
 
-- **Autor:** Roger Senserrich
+- **Autor:** [Roger Senserrich](/autores/roger-senserrich/)
 - **Editorial:** DEBATE
 - **Formato:** Kindle Edition, 307 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419642649 / 9788419642646
 - **Publicación original:** 2024-03-14
-- **Géneros:** Politics, Nonfiction
+- **Géneros:** [Política](/tags/politica/), [No Ficción](/tags/no-ficcion/)
 - **Ficha en Goodreads:** [Por qué se rompió Estados Unidos: Populismo y polarización en la era Trump](https://www.goodreads.com/book/show/205456506-por-qu-se-rompi-estados-unidos)
 
 ## Mi lectura
 
 - **Inicio:** 2025/10/30
 - **Fin:** 2025/11/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

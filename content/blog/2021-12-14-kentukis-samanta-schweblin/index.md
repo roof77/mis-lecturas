@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Horror
-- Science Fiction
-- Dystopia
-- Audiobook
-- Contemporary
+- Ficción
+- Terror
+- Ciencia ficción
+- Distopía
+- Contemporaneo
+- Club de lectura
+- Ficción especulativa
+- Adultos
+- Novela
 autores:
 - Samanta Schweblin
 editoriales:
@@ -31,13 +34,13 @@ Los personajes de esta novela encarnan el costado más real —y a la vez imprev
 
 ## Ficha del libro
 
-- **Autor:** Samanta Schweblin
+- **Autor:** [Samanta Schweblin](/autores/samanta-schweblin/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9877690241 / 9789877690248
 - **Publicación original:** 2018-10-01
-- **Géneros:** Fiction, Horror, Science Fiction, Dystopia, Audiobook, Contemporary, Book Club, Speculative Fiction, Adult, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [Ficción especulativa](/tags/ficcion-especulativa/), [Adultos](/tags/adultos/), [Novela](/tags/novela/)
 - **Nominaciones:** The Kitschies (2020), International Booker Prize (2020)
 - **Ficha en Goodreads:** [Kentukis](https://www.goodreads.com/book/show/41442139-kentukis)
 
@@ -45,4 +48,4 @@ Los personajes de esta novela encarnan el costado más real —y a la vez imprev
 
 - **Inicio:** 2021/12/09
 - **Fin:** 2021/12/14
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

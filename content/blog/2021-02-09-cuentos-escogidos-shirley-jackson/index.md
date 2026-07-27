@@ -7,13 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Horror
-- Fiction
-- Classics
+- Relatos
+- Terror
+- Ficción
+- Clásico
 - Thriller
 autores:
 - Shirley Jackson
+- Paula Kuffer
 editoriales:
 - Editorial Minúscula
 image:
@@ -28,18 +29,18 @@ Una mujer pasa el día de su boda buscando frenéticamente a su futuro marido, o
 
 ## Ficha del libro
 
-- **Autor:** Shirley Jackson
-- **Colaboradores:** Paula Kuffer (translator)
+- **Autor:** [Shirley Jackson](/autores/shirley-jackson/)
+- **Colaboradores:** [Paula Kuffer](/autores/paula-kuffer/) (translator)
 - **Editorial:** Editorial Minúscula
 - **Formato:** Paperback, 163 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494353977 / 9788494353970
 - **Publicación original:** 2015-12-01
-- **Géneros:** Short Stories, Horror, Fiction, Classics, Thriller
+- **Géneros:** [Relatos](/tags/relatos/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Thriller](/tags/thriller/)
 - **Ficha en Goodreads:** [Cuentos escogidos](https://www.goodreads.com/book/show/28160703-cuentos-escogidos)
 
 ## Mi lectura
 
 - **Inicio:** 2021/02/01
 - **Fin:** 2021/02/09
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

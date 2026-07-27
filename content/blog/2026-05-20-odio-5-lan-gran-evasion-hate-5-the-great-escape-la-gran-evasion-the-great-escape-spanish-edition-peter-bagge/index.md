@@ -10,6 +10,7 @@ tags:
 - Comics
 autores:
 - Peter Bagge
+- Hernán Migoya
 editoriales:
 - UNKNO
 image:
@@ -24,18 +25,19 @@ Collects an alternative comic from the 1990s that chronicles the misadventures a
 
 ## Ficha del libro
 
-- **Autor:** Peter Bagge
+- **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Odio: Hate (#5)
-- **Colaboradores:** Hernán Migoya (Author)
+- **Colaboradores:** [Hernán Migoya](/autores/hernan-migoya/) (Author)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 84 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 1594971374 / 9781594971372
 - **Publicación original:** 2005-10-25
-- **Géneros:** Comics
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio 5: Lan Gran Evasion / Hate 5: the Great Escape: La Gran Evasion/the Great Escape (Spanish Edition)](https://www.goodreads.com/book/show/2751017-odio-5)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/17
 - **Fin:** 2026/05/20
+- **Calificación:** Recomendable/5

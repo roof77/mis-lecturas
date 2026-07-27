@@ -27,7 +27,7 @@ Cuando el compositor nazi Norbert Schultze puso música a un poema escrito en la
 
 ## Ficha del libro
 
-- **Autor:** Rosa Sala Rose
+- **Autor:** [Rosa Sala Rose](/autores/rosa-sala-rose/)
 - **Editorial:** Global Rhythm Press
 - **Formato:** Hardcover, 216 páginas
 - **Idioma:** Spanish; Castilian
@@ -39,4 +39,4 @@ Cuando el compositor nazi Norbert Schultze puso música a un poema escrito en la
 
 - **Inicio:** 2014/07/10
 - **Fin:** 2014/07/11
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

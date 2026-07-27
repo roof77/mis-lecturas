@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
+- Relatos
 autores:
 - Selva Almada
 editoriales:
@@ -25,17 +25,17 @@ Las siestas y los arroyos, los cardos y las máquinas, los caminos del litoral a
 
 ## Ficha del libro
 
-- **Autor:** Selva Almada
+- **Autor:** [Selva Almada](/autores/selva-almada/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6073146132 / 9786073146135
 - **Publicación original:** 2016-11-29
-- **Géneros:** Short Stories
+- **Géneros:** [Relatos](/tags/relatos/)
 - **Ficha en Goodreads:** [El desapego es una manera de querernos](https://www.goodreads.com/book/show/31374678-el-desapego-es-una-manera-de-querernos)
 
 ## Mi lectura
 
 - **Inicio:** 2017/01/14
 - **Fin:** 2017/01/17
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

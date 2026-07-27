@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Historical Fiction
-- Fiction
-- Spain
-- Spanish Literature
-- Spanish Civil War
-- War
+- Ficción histórica
+- Ficción
+- España
+- Literatura hispana
+- Guerra civil española
+- Guerra
+- Siglo XX
+- Ficción Literaria
+- Histórico
+- Literatura
 autores:
 - Julio Llamazares
 editoriales:
@@ -31,17 +35,17 @@ Ramiro, Gildo y Ángel, tres soldados republicanos de León, huyen en plena noch
 
 ## Ficha del libro
 
-- **Autor:** Julio Llamazares
+- **Autor:** [Julio Llamazares](/autores/julio-llamazares/)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 153 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 843224550X / 9788432245503
 - **Publicación original:** 1985-09-01
-- **Géneros:** Historical Fiction, Fiction, Spain, Spanish Literature, Spanish Civil War, War, 20th Century, Literary Fiction, Historical, Literature
+- **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Guerra civil española](/tags/guerra-civil-espanola/), [Guerra](/tags/guerra/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/), [Literatura](/tags/literatura/)
 - **Ficha en Goodreads:** [Luna de lobos](https://www.goodreads.com/book/show/348018.Luna_de_lobos)
 
 ## Mi lectura
 
 - **Inicio:** 2017/06/20
 - **Fin:** 2017/06/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

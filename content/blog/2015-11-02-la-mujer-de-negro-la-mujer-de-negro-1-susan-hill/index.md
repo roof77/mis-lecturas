@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Gothic
-- Fiction
-- Classics
-- Mystery
-- Historical Fiction
+- Terror
+- Gótico
+- Ficción
+- Clásico
+- Misterio
+- Ficción histórica
+- Fantasmas
+- Paranormal
+- Histórico
 autores:
-- Susan         Hill
+- Susan Hill
+- Margarita Cavándoli
 editoriales:
 - Edhasa
 image:
@@ -29,14 +33,14 @@ Cuando el joven abogado Arthur Kipps recibe el encargo de viajar a un purblo rem
 
 ## Ficha del libro
 
-- **Autor:** Susan         Hill
-- **Colaboradores:** Margarita Cavándoli (Translator)
+- **Autor:** [Susan Hill](/autores/susan-hill/)
+- **Colaboradores:** [Margarita Cavándoli](/autores/margarita-cavandoli/) (Translator)
 - **Editorial:** Edhasa
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8435010589 / 9788435010580
 - **Publicación original:** 2012-02-01
-- **Géneros:** Horror, Gothic, Fiction, Classics, Mystery, Historical Fiction, Ghosts, Paranormal, Historical, Ghost Stories
+- **Géneros:** [Terror](/tags/terror/), [Gótico](/tags/gotico/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Misterio](/tags/misterio/), [Ficción histórica](/tags/ficcion-historica/), [Fantasmas](/tags/fantasmas/), [Paranormal](/tags/paranormal/), [Histórico](/tags/historico/)
 - **Personajes:** Arthur Kipps
 - **Ficha en Goodreads:** [La mujer de negro (La mujer de negro, #1)](https://www.goodreads.com/book/show/14041146-la-mujer-de-negro)
 
@@ -44,4 +48,4 @@ Cuando el joven abogado Arthur Kipps recibe el encargo de viajar a un purblo rem
 
 - **Inicio:** 2015/11/01
 - **Fin:** 2015/11/02
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

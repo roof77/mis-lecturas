@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
+- Ficción
+- Contemporaneo
 - Drama
-- Romanian Literature
-- Audiobook
-- Novels
+- Literatura rumana
+- Novela
+- Rumanía
+- Ficción Literaria
+- Literatura hispana
+- Mujeres
 autores:
 - Tatiana Țîbuleac
+- Marian Ochoa de Eribe
 editoriales:
 - Impedimenta
 image:
@@ -33,13 +37,13 @@ Aleksy aún recuerda el último verano que pasó con su madre. Han transcurrido 
 
 ## Ficha del libro
 
-- **Autor:** Tatiana Țîbuleac
-- **Colaboradores:** Marian Ochoa de Eribe (translator)
+- **Autor:** [Tatiana Țîbuleac](/autores/tatiana-tibuleac/)
+- **Colaboradores:** [Marian Ochoa de Eribe](/autores/marian-ochoa-de-eribe/) (translator)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2019-02-28
-- **Géneros:** Fiction, Contemporary, Drama, Romanian Literature, Audiobook, Novels, Romania, Literary Fiction, Spanish Literature, Womens
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Drama](/tags/drama/), [Literatura rumana](/tags/literatura-rumana/), [Novela](/tags/novela/), [Rumanía](/tags/rumania/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura hispana](/tags/literatura-hispana/), [Mujeres](/tags/mujeres/)
 - **Lugares:** France
 - **Premios ganados:** Premio Novela Europea Casino de Santiago (2020)
 - **Ficha en Goodreads:** [El verano en que mi madre tuvo los ojos verdes](https://www.goodreads.com/book/show/44289602-el-verano-en-que-mi-madre-tuvo-los-ojos-verdes)
@@ -48,4 +52,4 @@ Aleksy aún recuerda el último verano que pasó con su madre. Han transcurrido 
 
 - **Inicio:** 2021/08/25
 - **Fin:** 2021/08/28
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

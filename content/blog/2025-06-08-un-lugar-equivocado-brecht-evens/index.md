@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Art
-- Bande Dessinée
-- Graphic Novels Comics
+- Ficción
+- Arte
+- Contemporaneo
+- Siglo XXI
+- Adultos
 autores:
 - Brecht Evens
 editoriales:
@@ -29,16 +30,16 @@ Una reunión de viejos compañeros de instituto sirve de excusa y telón de fond
 
 ## Ficha del libro
 
-- **Autor:** Brecht Evens
+- **Autor:** [Brecht Evens](/autores/brecht-evens/)
 - **Editorial:** Sins Entido 
 - **Formato:** Paperback, 180 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2011-03-11
-- **Géneros:** Graphic Novels, Comics, Fiction, Art, Bande Dessinée, Graphic Novels Comics, Comic Book, Contemporary, 21st Century, Adult
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Arte](/tags/arte/), [Contemporaneo](/tags/contemporaneo/), [Siglo XXI](/tags/siglo-xxi/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Un lugar equivocado](https://www.goodreads.com/book/show/41416510-un-lugar-equivocado)
 
 ## Mi lectura
 
 - **Inicio:** 2025/06/05
 - **Fin:** 2025/06/08
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

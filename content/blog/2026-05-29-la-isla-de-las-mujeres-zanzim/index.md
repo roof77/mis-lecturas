@@ -7,12 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Bande Dessinée
 - Comics
-- Graphic Novels
-- Sequential Art
-- Fiction
-- Adult
+- Novela gráfica
+- Ficción
+- Adultos
 autores:
 - Zanzim
 editoriales:
@@ -29,16 +27,17 @@ Céleste Bompard es el objeto de deseo de todas las mujeres por su habilidad y d
 
 ## Ficha del libro
 
-- **Autor:** Zanzim
+- **Autor:** [Zanzim](/autores/zanzim/)
 - **Editorial:** Dibbuks
 - **Formato:** Hardcover, 80 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415850816 / 9788415850816
 - **Publicación original:** 2015-05-01
-- **Géneros:** Bande Dessinée, Comics, Graphic Novels, Sequential Art, Fiction, Adult
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [La Isla de las Mujeres](https://www.goodreads.com/book/show/31700248-la-isla-de-las-mujeres)
 
 ## Mi lectura
 
 - **Inicio:** 2026/05/29
 - **Fin:** 2026/05/29
+- **Calificación:** Bien/5

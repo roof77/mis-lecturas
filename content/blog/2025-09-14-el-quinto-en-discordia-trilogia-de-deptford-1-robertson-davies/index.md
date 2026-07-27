@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Canada
-- Classics
-- Historical Fiction
-- Literature
-- Literary Fiction
+- Clásico
+- Ficción histórica
+- Literatura
+- Ficción Literaria
+- Novela
+- Literatura canadiense
+- Colegio
+- Club de lectura
 autores:
 - Robertson Davies
+- Valentí Puig
+- Natalia Cervera
 editoriales:
 - Libros del Asteroide
 image:
@@ -30,15 +36,15 @@ El quinto en discordia es una muestra de la maestría de Davies para la novela: 
 
 ## Ficha del libro
 
-- **Autor:** Robertson Davies
+- **Autor:** [Robertson Davies](/autores/robertson-davies/)
 - **Serie:** The Deptford Trilogy (#1)
-- **Colaboradores:** Valentí Puig (Contributor), Natalia Cervera (Translator)
+- **Colaboradores:** [Valentí Puig](/autores/valenti-puig/) (Contributor), [Natalia Cervera](/autores/natalia-cervera/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 360 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493431567 / 9788493431563
 - **Publicación original:** 2006-02-01
-- **Géneros:** Fiction, Canada, Classics, Historical Fiction, Literature, Literary Fiction, Novels, Canadian Literature, School, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Canada](/tags/canada/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Literatura canadiense](/tags/literatura-canadiense/), [Colegio](/tags/colegio/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Dunstan Ramsay, Boy Staunton
 - **Premios ganados:** Premi Llibreter de narrativa (2006)
 - **Ficha en Goodreads:** [El quinto en discordia (Trilogía de Deptford, #1)](https://www.goodreads.com/book/show/74421.El_quinto_en_discordia)
@@ -47,4 +53,4 @@ El quinto en discordia es una muestra de la maestría de Davies para la novela: 
 
 - **Inicio:** 2025/09/04
 - **Fin:** 2025/09/14
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

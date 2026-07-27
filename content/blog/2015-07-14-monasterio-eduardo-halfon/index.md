@@ -7,11 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Novels
-- Short Stories
-- Literature
-- Latin American
+- Ficción
+- Novela
+- Relatos
+- Literatura
+- Latino américa
 autores:
 - Eduardo Halfon
 editoriales:
@@ -28,12 +28,12 @@ Agotados tras quince horas de vuelo, dos jóvenes guatemaltecos esperan sus male
 
 ## Ficha del libro
 
-- **Autor:** Eduardo Halfon
+- **Autor:** [Eduardo Halfon](/autores/eduardo-halfon/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Kindle Edition, 58 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2014-05-19
-- **Géneros:** Fiction, Novels, Short Stories, Literature, Latin American
+- **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [Latino américa](/tags/latino-america/)
 - **Nominaciones:** BTBA Best Translated Book Award (2015)
 - **Ficha en Goodreads:** [Monasterio](https://www.goodreads.com/book/show/22313983-monasterio)
 
@@ -41,4 +41,4 @@ Agotados tras quince horas de vuelo, dos jóvenes guatemaltecos esperan sus male
 
 - **Inicio:** 2015/07/12
 - **Fin:** 2015/07/14
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

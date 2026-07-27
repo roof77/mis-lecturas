@@ -9,10 +9,10 @@ tags:
 - Lecturas
 - Portugal
 - Romance
-- Portuguese Literature
-- Fiction
-- Novels
-- Contemporary
+- Literatura portuguesa
+- Ficción
+- Novela
+- Contemporaneo
 autores:
 - José Luís Peixoto
 editoriales:
@@ -35,13 +35,13 @@ ENGLISH DESCRIPTIONOn a regular January evening, the universe jolts the small to
 
 ## Ficha del libro
 
-- **Autor:** José Luís Peixoto
+- **Autor:** [José Luís Peixoto](/autores/jose-luis-peixoto/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 215 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439732015 / 9788439732013
 - **Publicación original:** 2016-10-31
-- **Géneros:** Portugal, Romance, Portuguese Literature, Fiction, Novels, Contemporary, Ebooks
+- **Géneros:** [Portugal](/tags/portugal/), [Romance](/tags/romance/), [Literatura portuguesa](/tags/literatura-portuguesa/), [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/)
 - **Premios ganados:** Prêmio Oceanos (2016)
 - **Ficha en Goodreads:** [Galveias / Galveias (Spanish Edition)](https://www.goodreads.com/book/show/32332855-galveias-galveias)
 
@@ -49,4 +49,4 @@ ENGLISH DESCRIPTIONOn a regular January evening, the universe jolts the small to
 
 - **Inicio:** 2021/08/22
 - **Fin:** 2021/08/25
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

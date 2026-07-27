@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Ireland
-- Irish Literature
-- Historical Fiction
-- Classics
-- Literature
+- Ficción
+- Irlanda
+- Literatura irlandesa
+- Ficción histórica
+- Clásico
+- Literatura
+- Espionaje
+- Guerra
+- Novela
 autores:
 - Liam O'Flaherty
+- Antonio Rivero Taravillo
 editoriales:
 - Libros del Asteroide
 image:
@@ -29,14 +33,14 @@ Ambientada en el convulso Dublín durante los años posteriores a la guerra civi
 
 ## Ficha del libro
 
-- **Autor:** Liam O'Flaherty
-- **Colaboradores:** Antonio Rivero Taravillo (Contributor)
+- **Autor:** [Liam O'Flaherty](/autores/liam-o-flaherty/)
+- **Colaboradores:** [Antonio Rivero Taravillo](/autores/antonio-rivero-taravillo/) (Contributor)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 252 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493544884 / 9788493544881
 - **Publicación original:** 2007-11-01
-- **Géneros:** Fiction, Ireland, Irish Literature, Historical Fiction, Classics, Literature, Espionage, War, Novels, Roman
+- **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Ficción histórica](/tags/ficcion-historica/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Espionaje](/tags/espionaje/), [Guerra](/tags/guerra/), [Novela](/tags/novela/)
 - **Premios ganados:** James Tait Black Memorial Prize (-1420041600000)
 - **Ficha en Goodreads:** [El delator](https://www.goodreads.com/book/show/3718548-el-delator)
 
@@ -44,4 +48,4 @@ Ambientada en el convulso Dublín durante los años posteriores a la guerra civi
 
 - **Inicio:** 2019/08/17
 - **Fin:** 2019/08/21
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

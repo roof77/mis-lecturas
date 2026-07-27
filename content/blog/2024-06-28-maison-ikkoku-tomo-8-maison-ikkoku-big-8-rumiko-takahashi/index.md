@@ -11,8 +11,11 @@ tags:
 - Comics
 - Romance
 - Humor
-- Fiction
-- Graphic Novels
+- Ficción
+- Novela gráfica
+- Seinen manga
+- Slice of life
+- Literatura japanesa
 autores:
 - Rumiko Takahashi
 editoriales:
@@ -29,18 +32,18 @@ Maison Ikkoku unterscheidet sich etwas von Rumiko Takahashis verrücktchaotische
 
 ## Ficha del libro
 
-- **Autor:** Rumiko Takahashi
+- **Autor:** [Rumiko Takahashi](/autores/rumiko-takahashi/)
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#8)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 340 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484495264 / 9788484495260
 - **Publicación original:** 2005-09-30
-- **Géneros:** Manga, Comics, Romance, Humor, Fiction, Graphic Novels, Graphic Novels Comics, Seinen, Slice Of Life, Japanese Literature
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Novela gráfica](/tags/novela-grafica/), [Seinen manga](/tags/seinen-manga/), [Slice of life](/tags/slice-of-life/), [Literatura japanesa](/tags/literatura-japanesa/)
 - **Ficha en Goodreads:** [Maison Ikkoku tomo 8 (Maison Ikkoku Big, #8)](https://www.goodreads.com/book/show/345434.Maison_Ikkoku_tomo_8)
 
 ## Mi lectura
 
 - **Inicio:** 2024/06/24
 - **Fin:** 2024/06/28
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

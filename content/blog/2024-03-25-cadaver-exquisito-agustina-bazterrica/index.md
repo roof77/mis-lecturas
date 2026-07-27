@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Dystopia
-- Science Fiction
+- Terror
+- Ficción
+- Distopía
+- Ciencia ficción
 - Thriller
-- Audiobook
+- Club de lectura
+- Adultos
+- Oscuro
 autores:
 - Agustina Bazterrica
 editoriales:
@@ -39,13 +41,13 @@ Con más de 200,000 lectores en todo el mundo, traducido a 23 idiomas y derechos
 
 ## Ficha del libro
 
-- **Autor:** Agustina Bazterrica
+- **Autor:** [Agustina Bazterrica](/autores/agustina-bazterrica/)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 249 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9870737943 / 9789870737940
 - **Publicación original:** 2017-11-29
-- **Géneros:** Horror, Fiction, Dystopia, Science Fiction, Thriller, Audiobook, Book Club, Adult, Horror Thriller, Dark
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Oscuro](/tags/oscuro/)
 - **Lugares:** Argentina
 - **Premios ganados:** Premio Clarín de Novela (2017), Ladies of Horror Fiction Award (2020)
 - **Nominaciones:** Tähtivaeltaja Award (2020), Goodreads Choice Award (2020)
@@ -55,4 +57,4 @@ Con más de 200,000 lectores en todo el mundo, traducido a 23 idiomas y derechos
 
 - **Inicio:** 2024/03/15
 - **Fin:** 2024/03/25
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

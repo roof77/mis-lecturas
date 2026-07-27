@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Feminism
-- Contemporary
-- Book Club
-- LGBT
-- Literary Fiction
+- Ficción
+- Feminismo
+- Contemporaneo
+- Club de lectura
+- LGTBIQ+
+- Ficción Literaria
+- Queer
+- Relatos
+- Raza
 autores:
 - Bernardine Evaristo
+- Julia Osuna Aguilar
 editoriales:
 - Alianza Editorial
 image:
@@ -33,14 +37,14 @@ De Newcastle a Cornualles, desde principio del siglo veinte hasta las adolescent
 
 ## Ficha del libro
 
-- **Autor:** Bernardine Evaristo
-- **Colaboradores:** Julia Osuna Aguilar (Translator)
+- **Autor:** [Bernardine Evaristo](/autores/bernardine-evaristo/)
+- **Colaboradores:** [Julia Osuna Aguilar](/autores/julia-osuna-aguilar/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 496 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491818138 / 9788491818137
 - **Publicación original:** 2020-03-26
-- **Géneros:** Fiction, Feminism, Contemporary, Book Club, LGBT, Literary Fiction, Queer, Short Stories, Audiobook, Race
+- **Géneros:** [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [LGTBIQ+](/tags/lgtbiq/), [Ficción Literaria](/tags/ficcion-literaria/), [Queer](/tags/queer/), [Relatos](/tags/relatos/), [Raza](/tags/raza/)
 - **Lugares:** London, England, Barbados, Newcastle, England (United Kingdom)
 - **Premios ganados:** Booker Prize (2019), Reading Women Award (2020), Blogistanian Globalia (2022)
 - **Nominaciones:** Orwell Prize (2020), Women's Prize for Fiction (2020), Goodreads Choice Award (2019), Gordon Burn Prize (2019), Europese Literatuurprijs (2021), Dublin Literary Award (2021), The Publishing Triangle Award (2020), Readers' Favorite Fiction (2019)
@@ -50,4 +54,4 @@ De Newcastle a Cornualles, desde principio del siglo veinte hasta las adolescent
 
 - **Inicio:** 2022/12/01
 - **Fin:** 2022/12/13
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

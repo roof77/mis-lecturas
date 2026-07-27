@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fantasy
-- Fiction
-- Graphic Novels Comics
+- Fantasía
+- Ficción
 - Romance
+- Humor
+- Adultos
+- Ciencia ficción
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Astiberri
 image:
@@ -31,15 +34,15 @@ Fraction y Zdarsky se valen de ese original planteamiento argumental para crear 
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 136 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416880204 / 9788416880201
 - **Publicación original:** 2017-01-01
-- **Géneros:** Graphic Novels, Comics, Fantasy, Fiction, Graphic Novels Comics, Romance, Humor, Adult, Comic Book, Science Fiction
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Adultos](/tags/adultos/), [Ciencia ficción](/tags/ciencia-ficcion/)
 - **Premios ganados:** Harvey Awards (2014), Will Eisner Comic Industry Awards (2014)
 - **Nominaciones:** Hugo Award (2015), Goodreads Choice Award (2014), Readers' Favorite Graphic Novels & Comics (2014)
 - **Ficha en Goodreads:** [Sex Criminals, Vol. 1: Un truco sucio](https://www.goodreads.com/book/show/35661300-sex-criminals-vol-1)
@@ -48,3 +51,4 @@ Fraction y Zdarsky se valen de ese original planteamiento argumental para crear 
 
 - **Inicio:** 2026/06/21
 - **Fin:** 2026/06/23
+- **Calificación:** Muy recomendable/5

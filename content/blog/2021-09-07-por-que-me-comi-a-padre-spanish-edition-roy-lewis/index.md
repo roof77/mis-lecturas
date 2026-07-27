@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Humor
-- Historical Fiction
-- Roman
-- Science Fiction
-- Classics
+- Ficción histórica
+- Ciencia ficción
+- Clásico
+- Colegio
+- Novela
+- Literatura británica
+- Histórico
 autores:
-- Roy  Lewis
+- Roy Lewis
 editoriales:
 - Gigamesh Digital
 image:
@@ -35,17 +38,17 @@ Diferentes títulos con los que se ha editado este libro en castellano:
 
 ## Ficha del libro
 
-- **Autor:** Roy  Lewis
+- **Autor:** [Roy Lewis](/autores/roy-lewis/)
 - **Editorial:** Gigamesh Digital
 - **Formato:** Kindle Edition, 169 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417507574 / 9788417507572
 - **Publicación original:** 2020-04-15
-- **Géneros:** Fiction, Humor, Historical Fiction, Roman, Science Fiction, Classics, School, Novels, British Literature, Historical
+- **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Ficción histórica](/tags/ficcion-historica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Clásico](/tags/clasico/), [Colegio](/tags/colegio/), [Novela](/tags/novela/), [Literatura británica](/tags/literatura-britanica/), [Histórico](/tags/historico/)
 - **Ficha en Goodreads:** [Por qué me comí a padre (Spanish Edition)](https://www.goodreads.com/book/show/55526282-por-qu-me-com-a-padre)
 
 ## Mi lectura
 
 - **Inicio:** 2021/09/04
 - **Fin:** 2021/09/07
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

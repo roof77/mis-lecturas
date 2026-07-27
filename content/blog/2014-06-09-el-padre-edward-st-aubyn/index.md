@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Literary Fiction
-- British Literature
-- Audiobook
-- Novels
+- Ficción
+- Contemporaneo
+- Ficción Literaria
+- Literatura británica
+- Novela
+- Humor
+- Clásicos modernos
+- Drogas
+- Drama
 autores:
 - Edward St. Aubyn
+- Cruz Rodríguez Juiz
 editoriales:
 - Mondadori
 image:
@@ -31,19 +35,19 @@ El autor nos trae la crónica de la vida de Patrick Melrose, retratada a lo larg
 
 ## Ficha del libro
 
-- **Autor:** Edward St. Aubyn
+- **Autor:** [Edward St. Aubyn](/autores/edward-st-aubyn/)
 - **Serie:** Patrick Melrose (#1-3)
-- **Colaboradores:** Cruz Rodríguez Juiz (Translator)
+- **Colaboradores:** [Cruz Rodríguez Juiz](/autores/cruz-rodriguez-juiz/) (Translator)
 - **Editorial:** Mondadori
 - **Formato:** Paperback, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439727240 / 9788439727248
 - **Publicación original:** 2013-01-01
-- **Géneros:** Fiction, Contemporary, Literary Fiction, British Literature, Audiobook, Novels, Humor, Modern Classics, Drugs, Drama
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura británica](/tags/literatura-britanica/), [Novela](/tags/novela/), [Humor](/tags/humor/), [Clásicos modernos](/tags/clasicos-modernos/), [Drogas](/tags/drogas/), [Drama](/tags/drama/)
 - **Ficha en Goodreads:** [El padre](https://www.goodreads.com/book/show/18801636-el-padre)
 
 ## Mi lectura
 
 - **Inicio:** 2014/06/01
 - **Fin:** 2014/06/09
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

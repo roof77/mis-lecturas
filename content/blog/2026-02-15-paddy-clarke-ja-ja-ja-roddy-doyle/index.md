@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Ireland
-- Irish Literature
-- Literary Fiction
-- Coming Of Age
-- Novels
+- Ficción
+- Irlanda
+- Literatura irlandesa
+- Ficción Literaria
+- Coming of age
+- Novela
+- Contemporaneo
+- Ficción histórica
+- Literatura
+- Siglo XX
 autores:
 - Roddy Doyle
 editoriales:
@@ -29,13 +33,13 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Roddy Doyle
+- **Autor:** [Roddy Doyle](/autores/roddy-doyle/)
 - **Editorial:** FisicalBook
 - **Formato:** Hardcover
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 842399659X / 9788423996599
 - **Publicación original:** 1998-01-01
-- **Géneros:** Fiction, Ireland, Irish Literature, Literary Fiction, Coming Of Age, Novels, Contemporary, Historical Fiction, Literature, 20th Century
+- **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Ficción Literaria](/tags/ficcion-literaria/), [Coming of age](/tags/coming-of-age/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Siglo XX](/tags/siglo-xx/)
 - **Personajes:** Paddy Clarke
 - **Lugares:** Barrytown (Ireland)
 - **Premios ganados:** Booker Prize (1993)
@@ -46,3 +50,4 @@ image:
 
 - **Inicio:** 2026/02/09
 - **Fin:** 2026/02/15
+- **Calificación:** Muy bien/5

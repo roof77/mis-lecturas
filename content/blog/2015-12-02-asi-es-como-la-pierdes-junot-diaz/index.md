@@ -1,5 +1,5 @@
 ---
-title: Así  es como la pierdes
+title: Así es como la pierdes
 summary: Así es como la pierdes, de Junot Díaz, que ha escrito otras obras como La maravillosa vida breve de Oscar Wao (Premio
   Pulitzer 2008 y Premio National Book…
 date: '2015-12-02'
@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Short Stories
-- Contemporary
-- Book Club
+- Ficción
+- Relatos
+- Contemporaneo
+- Club de lectura
 - Romance
-- Literary Fiction
+- Ficción Literaria
+- Ficción adulta
+- Adultos
+- Literatura
+- Novela
 autores:
 - Junot Díaz
 editoriales:
@@ -35,21 +39,21 @@ Así es como la pierdes, de Junot Díaz, que ha escrito otras obras como La mara
 
 ## Ficha del libro
 
-- **Autor:** Junot Díaz
+- **Autor:** [Junot Díaz](/autores/junot-diaz/)
 - **Editorial:** Mondadori
 - **Formato:** ebook, 208 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439726791 / 9788439726791
 - **Publicación original:** 2013-01-01
-- **Géneros:** Fiction, Short Stories, Contemporary, Book Club, Romance, Literary Fiction, Adult Fiction, Adult, Literature, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [Romance](/tags/romance/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción adulta](/tags/ficcion-adulta/), [Adultos](/tags/adultos/), [Literatura](/tags/literatura/), [Novela](/tags/novela/)
 - **Personajes:** Yunior de Las Casas
 - **Lugares:** Dominican Republic, The United States of America, New York City, New York (United States), New Jersey (United States)
 - **Premios ganados:** NAIBA Book of the Year (2013), National Book Award Finalist (2012), The Sunday Times EFG Short Story Award (2013)
 - **Nominaciones:** OCM Bocas Prize for Caribbean Literature (2013), The Story Prize (2012), Andrew Carnegie Medal (2013), Goodreads Choice Award (2012)
-- **Ficha en Goodreads:** [Así  es como la pierdes](https://www.goodreads.com/book/show/17973898-as-es-como-la-pierdes)
+- **Ficha en Goodreads:** [Así es como la pierdes](https://www.goodreads.com/book/show/17973898-as-es-como-la-pierdes)
 
 ## Mi lectura
 
 - **Inicio:** 2015/11/30
 - **Fin:** 2015/12/02
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

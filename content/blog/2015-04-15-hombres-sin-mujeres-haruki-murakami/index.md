@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Short Stories
-- Japan
-- Japanese Literature
-- Contemporary
-- Magical Realism
+- Ficción
+- Relatos
+- Japón
+- Literatura japanesa
+- Contemporaneo
+- Realismo mágico
+- Literatura
+- Ficción Literaria
+- Literatura asiática
 autores:
 - Haruki Murakami
+- Gabriel Álvarez Martínez
 editoriales:
 - Tusquets Editores
 image:
@@ -29,18 +33,18 @@ Haruki Murakami ofrece a los lectores siete relatos en torno al aislamiento y la
 
 ## Ficha del libro
 
-- **Autor:** Haruki Murakami
-- **Colaboradores:** Gabriel Álvarez Martínez (Traductor)
+- **Autor:** [Haruki Murakami](/autores/haruki-murakami/)
+- **Colaboradores:** [Gabriel Álvarez Martínez](/autores/gabriel-alvarez-martinez/) (Traductor)
 - **Editorial:** Tusquets Editores
 - **Formato:** Paperback, 267 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6074216681 / 9786074216684
 - **Publicación original:** 2015-03-03
-- **Géneros:** Fiction, Short Stories, Japan, Japanese Literature, Contemporary, Magical Realism, Literature, Audiobook, Literary Fiction, Asian Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/), [Realismo mágico](/tags/realismo-magico/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/)
 - **Ficha en Goodreads:** [Hombres sin mujeres](https://www.goodreads.com/book/show/25084093-hombres-sin-mujeres)
 
 ## Mi lectura
 
 - **Inicio:** 2015/04/12
 - **Fin:** 2015/04/15
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

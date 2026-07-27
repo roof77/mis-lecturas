@@ -7,8 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Journalism
-- Writing
+- Periodismo
+- Escritura
 autores:
 - William Lyon
 editoriales:
@@ -30,16 +30,16 @@ Este libro es un práctico y sencillo manual de escritura. Está pensado para pe
 
 ## Ficha del libro
 
-- **Autor:** William Lyon
+- **Autor:** [William Lyon](/autores/william-lyon/)
 - **Editorial:** Libros del K.O.
 - **Formato:** Paperback, 125 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2014-09-15
-- **Géneros:** Journalism, Writing
+- **Géneros:** [Periodismo](/tags/periodismo/), [Escritura](/tags/escritura/)
 - **Ficha en Goodreads:** [La escritura transparente: Cómo contar historias](https://www.goodreads.com/book/show/23251313-la-escritura-transparente)
 
 ## Mi lectura
 
 - **Inicio:** 2014/10/06
 - **Fin:** 2014/10/07
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

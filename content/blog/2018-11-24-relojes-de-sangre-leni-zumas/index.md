@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Feminism
-- Dystopia
-- Science Fiction
-- Book Club
-- Audiobook
+- Ficción
+- Feminismo
+- Distopía
+- Ciencia ficción
+- Club de lectura
+- Contemporaneo
+- Ficción especulativa
+- Adultos
+- Ficción Literaria
 autores:
 - Leni Zumas
+- Mariana Hernández Cruz
 editoriales:
 - Destino
 image:
@@ -31,14 +35,14 @@ Relojes de sangre es a la vez un drama cuyo misterio se desenvuelve con una ener
 
 ## Ficha del libro
 
-- **Autor:** Leni Zumas
-- **Colaboradores:** Mariana Hernández Cruz (Translator)
+- **Autor:** [Leni Zumas](/autores/leni-zumas/)
+- **Colaboradores:** [Mariana Hernández Cruz](/autores/mariana-hernandez-cruz/) (Translator)
 - **Editorial:** Destino
 - **Formato:** Paperback, 412 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8423354245 / 9788423354245
 - **Publicación original:** 2018-09-06
-- **Géneros:** Fiction, Feminism, Dystopia, Science Fiction, Book Club, Audiobook, Contemporary, Speculative Fiction, Adult, Literary Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Distopía](/tags/distopia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Ficción especulativa](/tags/ficcion-especulativa/), [Adultos](/tags/adultos/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Lugares:** Oregon (United States)
 - **Premios ganados:** Oregon Book Award (2019)
 - **Nominaciones:** Orwell Prize (2019), Goodreads Choice Award (2018), Neukom Literary Arts Award (2019), Readers' Favorite Science Fiction (2018)
@@ -48,4 +52,4 @@ Relojes de sangre es a la vez un drama cuyo misterio se desenvuelve con una ener
 
 - **Inicio:** 2018/11/20
 - **Fin:** 2018/11/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Classics
-- Fiction
-- Fairy Tales
-- Science Fiction Fantasy
-- Fae
+- Fantasía
+- Clásico
+- Ficción
+- Cuentos de hadas
+- Ciencia Ficción
+- Hadas
+- Alta fantasía
+- Jovenes adultos
+- Novela
+- Club de lectura
 autores:
 - Hope Mirrlees
+- Emilio Mayorga
 editoriales:
 - Minotauro
 image:
@@ -35,14 +40,14 @@ Considerada uno de los antecedentes de la literatura fantástica de género, ant
 
 ## Ficha del libro
 
-- **Autor:** Hope Mirrlees
-- **Colaboradores:** Emilio Mayorga (Translator)
+- **Autor:** [Hope Mirrlees](/autores/hope-mirrlees/)
+- **Colaboradores:** [Emilio Mayorga](/autores/emilio-mayorga/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 267 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445075497 / 9788445075494
 - **Publicación original:** 2005-01-01
-- **Géneros:** Fantasy, Classics, Fiction, Fairy Tales, Science Fiction Fantasy, Fae, High Fantasy, Young Adult, Novels, Book Club
+- **Géneros:** [Fantasía](/tags/fantasia/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Cuentos de hadas](/tags/cuentos-de-hadas/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Hadas](/tags/hadas/), [Alta fantasía](/tags/alta-fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Nathaniel Chanticleer, Endymion Leer, Ranulph Chanticleer
 - **Premios ganados:** Prix Elbakin.net (2016)
 - **Ficha en Goodreads:** [Entrebrumas](https://www.goodreads.com/book/show/73653.Entrebrumas)
@@ -51,4 +56,4 @@ Considerada uno de los antecedentes de la literatura fantástica de género, ant
 
 - **Inicio:** 2017/09/21
 - **Fin:** 2017/09/29
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

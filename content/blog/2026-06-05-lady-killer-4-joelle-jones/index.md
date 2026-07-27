@@ -8,12 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Historical Fiction
-- Comic Book
+- Novela gráfica
+- Ficción histórica
 autores:
 - Joëlle Jones
+- Jamie S. Rich
 editoriales:
 - Dark Horse
 image:
@@ -28,17 +27,18 @@ Josie is a happily dedicated housewife and mother in 1960s suburban Seattle—bu
 
 ## Ficha del libro
 
-- **Autor:** Joëlle Jones
+- **Autor:** [Joëlle Jones](/autores/joelle-jones/)
 - **Serie:** Lady Killer (Single Issues)
-- **Colaboradores:** Jamie S. Rich (Author)
+- **Colaboradores:** [Jamie S. Rich](/autores/jamie-s-rich/) (Author)
 - **Editorial:** Dark Horse
 - **Formato:** Unknown Binding, 32 páginas
 - **Idioma:** English
 - **Publicación original:** 2015-04-01
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Historical Fiction, Comic Book
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción histórica](/tags/ficcion-historica/)
 - **Ficha en Goodreads:** [Lady Killer #4](https://www.goodreads.com/book/show/25272003-lady-killer-4)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/05
 - **Fin:** 2026/06/05
+- **Calificación:** Pasable/5

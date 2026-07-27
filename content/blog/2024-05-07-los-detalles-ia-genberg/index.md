@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Literary Fiction
-- Contemporary
+- Ficción
+- Ficción Literaria
+- Contemporaneo
 - Queer
-- Audiobook
-- Sweden
+- Suecia
+- LGTBIQ+
+- Literatura sueca
+- Club de lectura
+- Novela
 autores:
 - Ia Genberg
+- Gemma Pecharromán
 editoriales:
 - Gatopardo Ediciones
 image:
@@ -31,13 +35,13 @@ Ganadora del Premio August, el galardón literario más importante de Suecia, y 
 
 ## Ficha del libro
 
-- **Autor:** Ia Genberg
-- **Colaboradores:** Gemma Pecharromán (Translator)
+- **Autor:** [Ia Genberg](/autores/ia-genberg/)
+- **Colaboradores:** [Gemma Pecharromán](/autores/gemma-pecharroman/) (Translator)
 - **Editorial:** Gatopardo Ediciones
 - **Formato:** Paperback, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2023-02-20
-- **Géneros:** Fiction, Literary Fiction, Contemporary, Queer, Audiobook, Sweden, LGBT, Swedish Literature, Book Club, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Queer](/tags/queer/), [Suecia](/tags/suecia/), [LGTBIQ+](/tags/lgtbiq/), [Literatura sueca](/tags/literatura-sueca/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/)
 - **Lugares:** Sweden
 - **Premios ganados:** Augustpriset (2022), Aftonbladets litteraturpris (2022)
 - **Nominaciones:** Svenska Dagbladets litteraturpris (2022), Tidningen Vi:s litteraturpris (2022), International Booker Prize (2024), Dublin Literary Award (2025)
@@ -47,4 +51,4 @@ Ganadora del Premio August, el galardón literario más importante de Suecia, y 
 
 - **Inicio:** 2024/05/02
 - **Fin:** 2024/05/07
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

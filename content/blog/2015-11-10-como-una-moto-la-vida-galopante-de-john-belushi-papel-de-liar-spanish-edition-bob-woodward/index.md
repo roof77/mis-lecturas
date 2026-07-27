@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Biography
-- Nonfiction
-- Biography Memoir
-- Music
-- Comedy
-- History
+- Biografía
+- No Ficción
+- Memorias
+- Música
+- Comedia
+- Historia
+- Cultura Pop
+- Películas
 autores:
 - Bob Woodward
 editoriales:
@@ -29,13 +31,13 @@ In order to relate the portentous life of comedian John Belushi and the strident
 
 ## Ficha del libro
 
-- **Autor:** Bob Woodward
+- **Autor:** [Bob Woodward](/autores/bob-woodward/)
 - **Editorial:** Global Rhythm Press
 - **Formato:** Paperback, 528 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8496879410 / 9788496879416
 - **Publicación original:** 2009-05-01
-- **Géneros:** Biography, Nonfiction, Biography Memoir, Music, Comedy, History, Pop Culture, Media Tie In, Film, Memoir
+- **Géneros:** [Biografía](/tags/biografia/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Música](/tags/musica/), [Comedia](/tags/comedia/), [Historia](/tags/historia/), [Cultura Pop](/tags/cultura-pop/), [Películas](/tags/peliculas/)
 - **Personajes:** John Belushi
 - **Lugares:** The United States of America
 - **Ficha en Goodreads:** [Como una moto: La vida galopante de John Belushi (Papel de liar) (Spanish Edition)](https://www.goodreads.com/book/show/9083717-como-una-moto)
@@ -44,4 +46,4 @@ In order to relate the portentous life of comedian John Belushi and the strident
 
 - **Inicio:** 2015/11/05
 - **Fin:** 2015/11/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

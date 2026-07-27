@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Japan
-- Asia
+- Ficción
+- Japón
+- Ásia
 - Drama
 - Romance
-- Asian Literature
+- Literatura asiática
+- Literatura japanesa
+- Contemporaneo
+- Francia
 autores:
 - Aki Shimazaki
+- Javier Albiñana
 editoriales:
 - Tusquets
 image:
@@ -29,19 +33,19 @@ En una pequeña localidad japonesa, el matrimonio compuesto por Tetsuo y Fujiko 
 
 ## Ficha del libro
 
-- **Autor:** Aki Shimazaki
+- **Autor:** [Aki Shimazaki](/autores/aki-shimazaki/)
 - **Serie:** Quatrième cycle (#2)
-- **Colaboradores:** Javier Albiñana (Translator)
+- **Colaboradores:** [Javier Albiñana](/autores/javier-albinana/) (Translator)
 - **Editorial:** Tusquets
 - **Formato:** Paperback, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8411070719 / 9788411070713
 - **Publicación original:** 2022-02-02
-- **Géneros:** Fiction, Japan, Asia, Drama, Romance, Asian Literature, Japanese Literature, Contemporary, Roman, France
+- **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Ásia](/tags/asia/), [Drama](/tags/drama/), [Romance](/tags/romance/), [Literatura asiática](/tags/literatura-asiatica/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/), [Francia](/tags/francia/)
 - **Ficha en Goodreads:** [Luna llena](https://www.goodreads.com/book/show/59732097-luna-llena)
 
 ## Mi lectura
 
 - **Inicio:** 2023/04/24
 - **Fin:** 2023/04/25
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

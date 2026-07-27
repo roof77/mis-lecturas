@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
+- Fantasía
+- Ficción
 - Humor
-- Comedy
-- Audiobook
-- Dragons
+- Comedia
+- Dragones
+- Ciencia Ficción
+- Mágia
+- Alta fantasía
+- Sátira
 autores:
 - Terry Pratchett
+- Cristina Macía Orio
 editoriales:
 - DeBolsillo
 image:
@@ -30,15 +34,15 @@ Por otra parte, en las montañas, el rey de una mina de enanos decide enviar a s
 
 ## Ficha del libro
 
-- **Autor:** Terry Pratchett
+- **Autor:** [Terry Pratchett](/autores/terry-pratchett/)
 - **Serie:** Discworld (#8)
-- **Colaboradores:** Cristina Macía Orio (Translator)
+- **Colaboradores:** [Cristina Macía Orio](/autores/cristina-macia-orio/) (Translator)
 - **Editorial:** DeBolsillo
 - **Formato:** Mass Market Paperback, 395 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8497931866 / 9788497931861
 - **Publicación original:** 2004-01-07
-- **Géneros:** Fantasy, Fiction, Humor, Comedy, Audiobook, Dragons, Science Fiction Fantasy, Magic, High Fantasy, Satire
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Dragones](/tags/dragones/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Mágia](/tags/magia/), [Alta fantasía](/tags/alta-fantasia/), [Sátira](/tags/satira/)
 - **Personajes:** Nobby Nobbs, Carrot Ironfoundersson, Sam Vimes, Cut Me Own Throat Dibbler, Havelock Vetinari, Sybil Deidre Olgivanna Ramkin, DEATH, The Librarian, Lupine Wonse, Fred Colon
 - **Lugares:** Ankh-Morpork, Discworld
 - **Premios ganados:** Premi Ictineu (2021), Margaret A. Edwards Award (2011)
@@ -48,4 +52,4 @@ Por otra parte, en las montañas, el rey de una mina de enanos decide enviar a s
 
 - **Inicio:** 2025/08/01
 - **Fin:** 2025/08/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

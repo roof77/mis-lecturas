@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Short Stories
-- Southern Gothic
-- Horror
-- Contemporary
-- Crime
+- Ficción
+- Relatos
+- Gótico sureño
+- Terror
+- Contemporaneo
+- Crimen
+- Gótico
+- Literatura
+- Ficción Literaria
+- EEUU
 autores:
 - Donald Ray Pollock
+- Javier Calvo
+- Kiko Amat
 editoriales:
 - Libros del silencio
 image:
@@ -29,14 +35,14 @@ Bienvenidos a Knockemstiff, Ohio. Una hondonada en mitad de ninguna parte a la q
 
 ## Ficha del libro
 
-- **Autor:** Donald Ray Pollock
-- **Colaboradores:** Javier Calvo (Translator), Kiko Amat (Foreword)
+- **Autor:** [Donald Ray Pollock](/autores/donald-ray-pollock/)
+- **Colaboradores:** [Javier Calvo](/autores/javier-calvo/) (Translator), [Kiko Amat](/autores/kiko-amat/) (Foreword)
 - **Editorial:** Libros del silencio
 - **Formato:** Paperback, 304 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788493853105
 - **Publicación original:** 2011-02-01
-- **Géneros:** Fiction, Short Stories, Southern Gothic, Horror, Contemporary, Crime, Gothic, Literature, Literary Fiction, American
+- **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Gótico sureño](/tags/gotico-sureno/), [Terror](/tags/terror/), [Contemporaneo](/tags/contemporaneo/), [Crimen](/tags/crimen/), [Gótico](/tags/gotico/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/)
 - **Lugares:** Knockemstiff, Ohio (United States)
 - **Premios ganados:** PEN/Robert W. Bingham Prize (2009)
 - **Ficha en Goodreads:** [Knockemstiff](https://www.goodreads.com/book/show/11227453-knockemstiff)
@@ -45,4 +51,4 @@ Bienvenidos a Knockemstiff, Ohio. Una hondonada en mitad de ninguna parte a la q
 
 - **Inicio:** 2017/08/19
 - **Fin:** 2017/08/22
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

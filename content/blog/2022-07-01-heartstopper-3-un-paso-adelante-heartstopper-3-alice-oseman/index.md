@@ -8,11 +8,15 @@ authors:
 tags:
 - Lecturas
 - Romance
-- Graphic Novels
-- LGBT
-- Young Adult
+- Novela gráfica
+- LGTBIQ+
+- Jovenes adultos
 - Queer
-- Contemporary
+- Contemporaneo
+- Comics
+- Ficción
+- Salud mentál
+- Gay
 autores:
 - Alice Oseman
 editoriales:
@@ -33,14 +37,14 @@ Hearstopper trata del amor, la amistad y la lealtad, pero también de trastornos
 
 ## Ficha del libro
 
-- **Autor:** Alice Oseman
+- **Autor:** [Alice Oseman](/autores/alice-oseman/)
 - **Serie:** Heartstopper (#3)
 - **Editorial:** Crossbooks
 - **Formato:** Kindle Edition, 384 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408236431 / 9788408236436
 - **Publicación original:** 2020-11-17
-- **Géneros:** Romance, Graphic Novels, LGBT, Young Adult, Queer, Contemporary, Comics, Fiction, Mental Health, Gay
+- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Salud mentál](/tags/salud-mental/), [Gay](/tags/gay/)
 - **Lugares:** Paris (France), Kent, England (United Kingdom)
 - **Premios ganados:** Goodreads Choice Award (2020)
 - **Nominaciones:** Readers' Favorite Graphic Novels & Comics (2020)
@@ -50,4 +54,4 @@ Hearstopper trata del amor, la amistad y la lealtad, pero también de trastornos
 
 - **Inicio:** 2022/06/30
 - **Fin:** 2022/07/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

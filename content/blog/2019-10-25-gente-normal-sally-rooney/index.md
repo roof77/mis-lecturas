@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Romance
-- Contemporary
-- Literary Fiction
-- Audiobook
-- Book Club
+- Contemporaneo
+- Ficción Literaria
+- Club de lectura
+- Irlanda
+- Coming of age
+- Adultos
+- Novela
 autores:
 - Sally Rooney
+- Inga Pellisa
 editoriales:
 - Literatura Random House
 image:
@@ -29,13 +33,13 @@ Después de Conversaciones entre amigos, Sally Rooney vuelve a deslumbrarnos con
 
 ## Ficha del libro
 
-- **Autor:** Sally Rooney
-- **Colaboradores:** Inga Pellisa (Translator)
+- **Autor:** [Sally Rooney](/autores/sally-rooney/)
+- **Colaboradores:** [Inga Pellisa](/autores/inga-pellisa/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Kindle Edition, 222 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2019-10-03
-- **Géneros:** Fiction, Romance, Contemporary, Literary Fiction, Audiobook, Book Club, Ireland, Coming Of Age, Adult, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Irlanda](/tags/irlanda/), [Coming of age](/tags/coming-of-age/), [Adultos](/tags/adultos/), [Novela](/tags/novela/)
 - **Personajes:** Connell Waldron, Marianne Sheridan, Rachel Moran, Lorraine Waldron, Helen Brophy
 - **Lugares:** Ireland, Dublin (Ireland)
 - **Premios ganados:** British Book Award (2019), Costa Book Award (2018), RSL Encore Award (2019), The Rooster -- The Morning News Tournament of Books (2020)
@@ -46,4 +50,4 @@ Después de Conversaciones entre amigos, Sally Rooney vuelve a deslumbrarnos con
 
 - **Inicio:** 2019/10/20
 - **Fin:** 2019/10/25
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

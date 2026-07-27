@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fantasy
-- Horror
-- Fiction
-- Urban Fantasy
-- Audiobook
+- Ciencia ficción
+- Fantasía
+- Terror
+- Ficción
+- Fantasía urbana
+- Humor
+- Lovecraftiano
+- Thriller
+- Ciencia Ficción
 autores:
 - Charles Stross
+- Blanca Rodríguez
+- Antonio Rivas
 editoriales:
 - Insólita
 image:
@@ -37,15 +42,15 @@ INCLUYE LA NOVELA CORTA GANADORA DEL PREMIO HUGO "LA JUNGLA DE CEMENTO".
 
 ## Ficha del libro
 
-- **Autor:** Charles Stross
+- **Autor:** [Charles Stross](/autores/charles-stross/)
 - **Serie:** Laundry Files (#1)
-- **Colaboradores:** Blanca Rodríguez (Translator), Antonio Rivas (Translator)
+- **Colaboradores:** [Blanca Rodríguez](/autores/blanca-rodriguez/) (Translator), [Antonio Rivas](/autores/antonio-rivas/) (Translator)
 - **Editorial:** Insólita
 - **Formato:** Paperback, 410 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494702009 / 9788494702006
 - **Publicación original:** 2017-07-10
-- **Géneros:** Science Fiction, Fantasy, Horror, Fiction, Urban Fantasy, Audiobook, Humor, Lovecraftian, Thriller, Science Fiction Fantasy
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía urbana](/tags/fantasia-urbana/), [Humor](/tags/humor/), [Lovecraftiano](/tags/lovecraftiano/), [Thriller](/tags/thriller/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Personajes:** Bob Howard, Dominique "Mo" O'Brien
 - **Lugares:** London, England
 - **Ficha en Goodreads:** [El archivo de atrocidades (Los expedientes de la Lavandería, #1)](https://www.goodreads.com/book/show/35287062-el-archivo-de-atrocidades)
@@ -54,4 +59,4 @@ INCLUYE LA NOVELA CORTA GANADORA DEL PREMIO HUGO "LA JUNGLA DE CEMENTO".
 
 - **Inicio:** 2017/08/11
 - **Fin:** 2017/08/16
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

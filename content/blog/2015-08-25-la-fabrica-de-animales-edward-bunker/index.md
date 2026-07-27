@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Crime
-- Fiction
+- Crimen
+- Ficción
 - Noir
 - Thriller
-- Mystery
-- Literature
+- Misterio
+- Literatura
+- Novela
+- Canon
+- Contemporaneo
+- Siglo XX
 autores:
 - Edward Bunker
 editoriales:
@@ -29,17 +33,17 @@ Ron Decker, joven de buena familia, acaba con sus huesos en la temible prisión 
 
 ## Ficha del libro
 
-- **Autor:** Edward Bunker
+- **Autor:** [Edward Bunker](/autores/edward-bunker/)
 - **Editorial:** Sajalín Editores
 - **Formato:** Paperback, 315 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493805173 / 9788493805173
 - **Publicación original:** 2011-01-01
-- **Géneros:** Crime, Fiction, Noir, Thriller, Mystery, Literature, Novels, Canon, Contemporary, 20th Century
+- **Géneros:** [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Noir](/tags/noir/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Canon](/tags/canon/), [Contemporaneo](/tags/contemporaneo/), [Siglo XX](/tags/siglo-xx/)
 - **Ficha en Goodreads:** [La fábrica de animales](https://www.goodreads.com/book/show/28637008-la-f-brica-de-animales)
 
 ## Mi lectura
 
 - **Inicio:** 2015/08/23
 - **Fin:** 2015/08/25
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

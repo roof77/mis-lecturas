@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
-- Classics
-- Dystopia
-- Alternate History
-- Historical Fiction
+- Ciencia ficción
+- Ficción
+- Clásico
+- Distopía
+- Ucronía
+- Ficción histórica
+- Fantasía
+- Club de lectura
+- Ciencia Ficción
 autores:
 - Philip K. Dick
+- Manuel Figueroa
 editoriales:
 - 'Minotauro '
 image:
@@ -35,14 +39,14 @@ La trama gira alrededor de tres cuestiones que se tocan por momentos: el comerci
 
 ## Ficha del libro
 
-- **Autor:** Philip K. Dick
-- **Colaboradores:** Manuel Figueroa (translator)
+- **Autor:** [Philip K. Dick](/autores/philip-k-dick/)
+- **Colaboradores:** [Manuel Figueroa](/autores/manuel-figueroa/) (translator)
 - **Editorial:** Minotauro 
 - **Formato:** Paperback, 261 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445075616 / 9788445075616
 - **Publicación original:** 2005-02-01
-- **Géneros:** Science Fiction, Fiction, Classics, Dystopia, Alternate History, Historical Fiction, Fantasy, Book Club, Science Fiction Fantasy, Audiobook
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Distopía](/tags/distopia/), [Ucronía](/tags/ucronia/), [Ficción histórica](/tags/ficcion-historica/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Personajes:** Nobusuke Tagomi, Rudolf Wegener, Frank Frink, Juliana Frink, Robert Childan, Paul Kasoura, Betty Kasoura, Ed McCarthy, Hawthorne Abendsen, Joe Cinnadella
 - **Lugares:** San Francisco, California (United States), California (United States)
 - **Premios ganados:** Hugo Award (-220896000000), Tähtivaeltaja Award (1993)
@@ -52,4 +56,4 @@ La trama gira alrededor de tres cuestiones que se tocan por momentos: el comerci
 
 - **Inicio:** 2015/03/04
 - **Fin:** 2015/03/05
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

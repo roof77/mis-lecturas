@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Fiction
+- Ciencia ficción
+- Ficción
 - Cyberpunk
-- Audiobook
-- Dystopia
+- Distopía
 - Queer
+- Ficción especulativa
+- LGTBIQ+
+- Ciencia Ficción
+- Fantasía
+- Robots
 autores:
 - Annalee Newitz
+- Alexander Páez
 editoriales:
 - Minotauro
 image:
@@ -33,14 +38,14 @@ Y como telón de fondo hay una pregunta fundamental: ¿Es posible la libertad en
 
 ## Ficha del libro
 
-- **Autor:** Annalee Newitz
-- **Colaboradores:** Alexander Páez (Translator)
+- **Autor:** [Annalee Newitz](/autores/annalee-newitz/)
+- **Colaboradores:** [Alexander Páez](/autores/alexander-paez/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788445006290
 - **Publicación original:** 2019-07-02
-- **Géneros:** Science Fiction, Fiction, Cyberpunk, Audiobook, Dystopia, Queer, Speculative Fiction, LGBT, Science Fiction Fantasy, Robots
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Distopía](/tags/distopia/), [Queer](/tags/queer/), [Ficción especulativa](/tags/ficcion-especulativa/), [LGTBIQ+](/tags/lgtbiq/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Robots](/tags/robots/)
 - **Premios ganados:** Lambda Literary Award (2017)
 - **Nominaciones:** Nebula Award (2017), Locus Award (2018)
 - **Ficha en Goodreads:** [Autonomous](https://www.goodreads.com/book/show/52433171-autonomous)
@@ -49,4 +54,4 @@ Y como telón de fondo hay una pregunta fundamental: ¿Es posible la libertad en
 
 - **Inicio:** 2022/05/26
 - **Fin:** 2022/05/31
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

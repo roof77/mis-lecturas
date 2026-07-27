@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Self Help
-- Nonfiction
-- Psychology
-- Audiobook
-- Personal Development
-- Productivity
+- Autoayuda
+- No Ficción
+- Psicología
+- Desarrollo personal
+- Productividad
+- Negocios
+- Liderazgo
+- Salud
 autores:
 - James Clear
 editoriales:
@@ -29,13 +31,13 @@ HÁBITOS ATÓMICOS parte de una simple pero poderosa pregunta: ¿Cómo podemos v
 
 ## Ficha del libro
 
-- **Autor:** James Clear
+- **Autor:** [James Clear](/autores/james-clear/)
 - **Editorial:** Paidos México
 - **Formato:** Kindle Edition, 339 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6077476722 / 9786077476726
 - **Publicación original:** 2019-04-12
-- **Géneros:** Self Help, Nonfiction, Psychology, Audiobook, Personal Development, Productivity, Business, Personal Growth, Leadership, Health
+- **Géneros:** [Autoayuda](/tags/autoayuda/), [No Ficción](/tags/no-ficcion/), [Psicología](/tags/psicologia/), [Desarrollo personal](/tags/desarrollo-personal/), [Productividad](/tags/productividad/), [Negocios](/tags/negocios/), [Liderazgo](/tags/liderazgo/), [Salud](/tags/salud/)
 - **Nominaciones:** Goodreads Choice Award (2018), Readers' Favorite Nonfiction (2018)
 - **Ficha en Goodreads:** [Hábitos atómicos](https://www.goodreads.com/book/show/45028173-h-bitos-at-micos)
 
@@ -43,4 +45,4 @@ HÁBITOS ATÓMICOS parte de una simple pero poderosa pregunta: ¿Cómo podemos v
 
 - **Inicio:** 2022/03/29
 - **Fin:** 2022/04/06
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

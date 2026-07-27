@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Ireland
-- Irish Literature
-- Classics
-- Literary Fiction
-- Novels
+- Ficción
+- Irlanda
+- Literatura irlandesa
+- Clásico
+- Ficción Literaria
+- Novela
+- Romance
+- Mujeres
+- Coming of age
+- Clásicos modernos
 autores:
 - Edna O'Brien
+- Regina López Muñoz
 editoriales:
 - Errata Naturae
 image:
@@ -35,15 +40,15 @@ Humor y amor, como en toda rima fácil, al mismo tiempo que —otra rima— dolo
 
 ## Ficha del libro
 
-- **Autor:** Edna O'Brien
+- **Autor:** [Edna O'Brien](/autores/edna-o-brien/)
 - **Serie:** The Country Girls Trilogy (#2)
-- **Colaboradores:** Regina López Muñoz (Translator)
+- **Colaboradores:** [Regina López Muñoz](/autores/regina-lopez-munoz/) (Translator)
 - **Editorial:** Errata Naturae
 - **Formato:** Paperback, 336 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841521765X / 9788415217657
 - **Publicación original:** 2014-01-01
-- **Géneros:** Fiction, Ireland, Irish Literature, Classics, Literary Fiction, Novels, Romance, Womens, Coming Of Age, Modern Classics
+- **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Clásico](/tags/clasico/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Romance](/tags/romance/), [Mujeres](/tags/mujeres/), [Coming of age](/tags/coming-of-age/), [Clásicos modernos](/tags/clasicos-modernos/)
 - **Personajes:** Baba Brennan, Kate Brady, Eugene Gaillard
 - **Nominaciones:** Premio Grinzane Cavour (1991)
 - **Ficha en Goodreads:** [La chica de ojos verdes (Las chicas de campo, #2)](https://www.goodreads.com/book/show/22734631-la-chica-de-ojos-verdes)
@@ -52,4 +57,4 @@ Humor y amor, como en toda rima fácil, al mismo tiempo que —otra rima— dolo
 
 - **Inicio:** 2019/08/06
 - **Fin:** 2019/08/09
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

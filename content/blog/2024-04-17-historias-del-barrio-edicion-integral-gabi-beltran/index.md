@@ -7,14 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Bande Dessinée
-- Biography
-- Spanish Literature
-- Nonfiction
+- Biografía
+- Literatura hispana
+- No Ficción
 autores:
 - Gabi Beltrán
+- Bartolomé Seguí
 editoriales:
 - Astiberri
 image:
@@ -29,15 +29,15 @@ Palma, Mallorca, años 80. Cada esquina del barrio chino tiene una historia que 
 
 ## Ficha del libro
 
-- **Autor:** Gabi Beltrán
+- **Autor:** [Gabi Beltrán](/autores/gabi-beltran/)
 - **Serie:** Historias del barrio (#1-2)
-- **Colaboradores:** Bartolomé Seguí (Illustrator)
+- **Colaboradores:** [Bartolomé Seguí](/autores/bartolome-segui/) (Illustrator)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 312 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416251843 / 9788416251841
 - **Publicación original:** 2016-10-01
-- **Géneros:** Graphic Novels, Comics, Bande Dessinée, Biography, Spanish Literature, Nonfiction
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Biografía](/tags/biografia/), [Literatura hispana](/tags/literatura-hispana/), [No Ficción](/tags/no-ficcion/)
 - **Premios ganados:** Gran Guinigi (2017)
 - **Ficha en Goodreads:** [Historias del barrio - Edición integral](https://www.goodreads.com/book/show/32720825-historias-del-barrio---edici-n-integral)
 
@@ -45,4 +45,4 @@ Palma, Mallorca, años 80. Cada esquina del barrio chino tiene una historia que 
 
 - **Inicio:** 2024/04/09
 - **Fin:** 2024/04/17
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

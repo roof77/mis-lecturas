@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Young Adult
-- Fiction
+- Fantasía
+- Jovenes adultos
+- Ficción
 - Dark Academia
-- Audiobook
-- Magic
+- Mágia
+- Romance
+- Fantasía urbana
+- Terror
 autores:
 - Naomi Novik
+- Patricia Sebastián Hernández
 editoriales:
 - Umbriel
 image:
@@ -29,15 +32,15 @@ El conocimiento otorga protección. Ese es el lema oficial de la Escolomancia. S
 
 ## Ficha del libro
 
-- **Autor:** Naomi Novik
+- **Autor:** [Naomi Novik](/autores/naomi-novik/)
 - **Serie:** The Scholomance (#2)
-- **Colaboradores:** Patricia Sebastián Hernández (Translator)
+- **Colaboradores:** [Patricia Sebastián Hernández](/autores/patricia-sebastian-hernandez/) (Translator)
 - **Editorial:** Umbriel
 - **Formato:** Paperback, 384 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416517673 / 9788416517671
 - **Publicación original:** 2022-02-01
-- **Géneros:** Fantasy, Young Adult, Fiction, Dark Academia, Audiobook, Magic, Romance, Urban Fantasy, Horror, Young Adult Fantasy
+- **Géneros:** [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Dark Academia](/tags/dark-academia/), [Mágia](/tags/magia/), [Romance](/tags/romance/), [Fantasía urbana](/tags/fantasia-urbana/), [Terror](/tags/terror/)
 - **Personajes:** El, Orion Lake
 - **Premios ganados:** Lodestar Award (2022)
 - **Nominaciones:** Goodreads Choice Award (2021), Readers' Favorite Fantasy (2021)
@@ -47,4 +50,4 @@ El conocimiento otorga protección. Ese es el lema oficial de la Escolomancia. S
 
 - **Inicio:** 2023/09/06
 - **Fin:** 2023/09/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

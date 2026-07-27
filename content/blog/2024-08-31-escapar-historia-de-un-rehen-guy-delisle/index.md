@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Nonfiction
+- Novela gráfica
+- No Ficción
 - Comics
-- Bande Dessinée
-- Memoir
-- Biography
+- Memorias
+- Biografía
+- Adultos
+- Historia
+- Francia
 autores:
 - Guy Delisle
+- María Serna Aguirre
 editoriales:
 - 'Astiberri '
 image:
@@ -30,14 +33,14 @@ Tras numerosos encuentros con él, Guy Delisle decide contar su historia. Un tes
 
 ## Ficha del libro
 
-- **Autor:** Guy Delisle
-- **Colaboradores:** María Serna Aguirre (Translator )
+- **Autor:** [Guy Delisle](/autores/guy-delisle/)
+- **Colaboradores:** [María Serna Aguirre](/autores/maria-serna-aguirre/) (Translator)
 - **Editorial:** Astiberri 
 - **Formato:** Hardcover, 432 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416251754 / 9788416251759
 - **Publicación original:** 2016-01-01
-- **Géneros:** Graphic Novels, Nonfiction, Comics, Bande Dessinée, Memoir, Biography, Graphic Novels Comics, Adult, History, France
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [No Ficción](/tags/no-ficcion/), [Comics](/tags/comics/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Adultos](/tags/adultos/), [Historia](/tags/historia/), [Francia](/tags/francia/)
 - **Nominaciones:** Harvey Awards (2018)
 - **Ficha en Goodreads:** [Escapar. Historia de un rehén](https://www.goodreads.com/book/show/33234122-escapar-historia-de-un-reh-n)
 
@@ -45,4 +48,4 @@ Tras numerosos encuentros con él, Guy Delisle decide contar su historia. Un tes
 
 - **Inicio:** 2024/08/30
 - **Fin:** 2024/08/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

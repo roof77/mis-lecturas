@@ -7,13 +7,38 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Short Stories
-- Spanish Literature
-- Spain
-- 21st Century
+- Ficción
+- Relatos
+- Literatura hispana
+- España
+- Siglo XXI
 autores:
 - Valerie Miles
+- Mónica Ojeda
+- Andrea Abreu López
+- José Adiak Montoya
+- David Aliaga
+- Carlos Manuel Álvarez
+- José Ardila
+- Gonzalo Baz
+- Miluska Benavides
+- Martín Felipe Castagnet
+- Andrea Chapela
+- Camila Fabbri
+- Paulina Flores
+- Carlos Fonseca
+- Mateo García Elizondo
+- Aura García-Junco
+- Munier Hachemi
+- Dayneris Machado Vento
+- Estanislao Medina Huesca
+- Cristina Morales
+- Alejandro Morellón
+- Michel Nieva
+- Eduris Planché Savon
+- Irene Reyes Noguerol
+- Aniela Rodríguez
+- Diego Zúñiga
 editoriales:
 - Candaya
 image:
@@ -32,19 +57,19 @@ Los mejores narradores jóvenes en español 2 recoge textos inéditos de 25 de e
 
 ## Ficha del libro
 
-- **Autor:** Valerie Miles
+- **Autor:** [Valerie Miles](/autores/valerie-miles/)
 - **Serie:** The Best of Young Spanish Language Novelists  (#2)
-- **Colaboradores:** Mónica Ojeda (Author), Andrea Abreu López (Author), José Adiak Montoya (Author), David Aliaga (Author), Carlos Manuel Álvarez (Author), José Ardila (Author), Gonzalo Baz (Author), Miluska Benavides (Author), Martín Felipe Castagnet (Author), Andrea Chapela (Author), Camila Fabbri (Author), Paulina Flores (Author), Carlos Fonseca (Author), Mateo García Elizondo (Author), Aura García-Junco (Author), Munier Hachemi (Author), Dayneris Machado Vento (Author), Estanislao Medina Huesca (Author), Cristina Morales (Author), Alejandro Morellón (Author), Michel Nieva (Author), Eduris Planché Savon (Author), Irene Reyes Noguerol (Author), Aniela Rodríguez (Author), Diego Zúñiga (Author)
+- **Colaboradores:** [Mónica Ojeda](/autores/monica-ojeda/) (Author), [Andrea Abreu López](/autores/andrea-abreu-lopez/) (Author), [José Adiak Montoya](/autores/jose-adiak-montoya/) (Author), [David Aliaga](/autores/david-aliaga/) (Author), [Carlos Manuel Álvarez](/autores/carlos-manuel-alvarez/) (Author), [José Ardila](/autores/jose-ardila/) (Author), [Gonzalo Baz](/autores/gonzalo-baz/) (Author), [Miluska Benavides](/autores/miluska-benavides/) (Author), [Martín Felipe Castagnet](/autores/martin-felipe-castagnet/) (Author), [Andrea Chapela](/autores/andrea-chapela/) (Author), [Camila Fabbri](/autores/camila-fabbri/) (Author), [Paulina Flores](/autores/paulina-flores/) (Author), [Carlos Fonseca](/autores/carlos-fonseca/) (Author), [Mateo García Elizondo](/autores/mateo-garcia-elizondo/) (Author), [Aura García-Junco](/autores/aura-garcia-junco/) (Author), [Munier Hachemi](/autores/munier-hachemi/) (Author), [Dayneris Machado Vento](/autores/dayneris-machado-vento/) (Author), [Estanislao Medina Huesca](/autores/estanislao-medina-huesca/) (Author), [Cristina Morales](/autores/cristina-morales/) (Author), [Alejandro Morellón](/autores/alejandro-morellon/) (Author), [Michel Nieva](/autores/michel-nieva/) (Author), [Eduris Planché Savon](/autores/eduris-planche-savon/) (Author), [Irene Reyes Noguerol](/autores/irene-reyes-noguerol/) (Author), [Aniela Rodríguez](/autores/aniela-rodriguez/) (Author), [Diego Zúñiga](/autores/diego-zuniga/) (Author)
 - **Editorial:** Candaya
 - **Formato:** Paperback, 352 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418504293 / 9788418504297
 - **Publicación original:** 2021-04-12
-- **Géneros:** Fiction, Short Stories, Spanish Literature, Spain, 21st Century
+- **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Siglo XXI](/tags/siglo-xxi/)
 - **Ficha en Goodreads:** [Granta en español 23: Los mejores narradores jóvenes en español](https://www.goodreads.com/book/show/57728439-granta-en-espa-ol-23)
 
 ## Mi lectura
 
 - **Inicio:** 2021/07/15
 - **Fin:** 2021/08/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

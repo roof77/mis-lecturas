@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Music
-- Nonfiction
-- Philosophy
+- Música
+- No Ficción
+- Filosofía
 - Humor
-- Politics
-- Psychology
+- Política
+- Psicología
+- Siglo XXI
+- Contracultura
+- Ensayo
 autores:
 - Ian F. Svenonius
 editoriales:
@@ -45,17 +48,17 @@ Solo Ian Svenonius, el reverendo del underground mundial, el timonel de la indep
 
 ## Ficha del libro
 
-- **Autor:** Ian F. Svenonius
+- **Autor:** [Ian F. Svenonius](/autores/ian-f-svenonius/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 227 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494224735 / 9788494224737
 - **Publicación original:** 2014-05-07
-- **Géneros:** Music, Nonfiction, Philosophy, Humor, Politics, Psychology, 21st Century, Counter Culture, Essays
+- **Géneros:** [Música](/tags/musica/), [No Ficción](/tags/no-ficcion/), [Filosofía](/tags/filosofia/), [Humor](/tags/humor/), [Política](/tags/politica/), [Psicología](/tags/psicologia/), [Siglo XXI](/tags/siglo-xxi/), [Contracultura](/tags/contracultura/), [Ensayo](/tags/ensayo/)
 - **Ficha en Goodreads:** [Estrategias Sobrenaturales Para Montar Un Grupo De Rock](https://www.goodreads.com/book/show/22449186-estrategias-sobrenaturales-para-montar-un-grupo-de-rock)
 
 ## Mi lectura
 
 - **Inicio:** 2014/06/09
 - **Fin:** 2014/06/10
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

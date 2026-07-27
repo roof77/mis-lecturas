@@ -30,17 +30,17 @@ Carlo Padial (Barcelona, 1977) es autor de obras tan rompedoras como Dinero Grat
 
 ## Ficha del libro
 
-- **Autor:** Carlo Padial
+- **Autor:** [Carlo Padial](/autores/carlo-padial/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 272 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416290725 / 9788416290727
 - **Publicación original:** 2017-02-14
-- **Géneros:** Humor
+- **Géneros:** [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Doctor Portuondo: Mis días de psicoanálisis con un sabio desquiciado](https://www.goodreads.com/book/show/34326468-doctor-portuondo)
 
 ## Mi lectura
 
 - **Inicio:** 2017/05/06
 - **Fin:** 2017/05/10
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

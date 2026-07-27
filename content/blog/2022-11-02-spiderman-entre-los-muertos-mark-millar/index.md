@@ -9,12 +9,15 @@ tags:
 - Lecturas
 - Comics
 - Marvel
-- Spider Man
-- Graphic Novels
-- Comic Book
+- Spiderman
+- Novela gráfica
 - Superheroes
+- Ficción
+- Ciencia ficción
+- Jovenes adultos
 autores:
 - Mark Millar
+- Terry Dodson
 editoriales:
 - Panini España, S.A.
 image:
@@ -35,19 +38,19 @@ Collects Marvel Knights Spider-Man #1-12
 
 ## Ficha del libro
 
-- **Autor:** Mark Millar
+- **Autor:** [Mark Millar](/autores/mark-millar/)
 - **Serie:** Marvel Knights: Spider-Man (2004) (#1-3)
-- **Colaboradores:** Terry Dodson (Illustrator)
+- **Colaboradores:** [Terry Dodson](/autores/terry-dodson/) (Illustrator)
 - **Editorial:** Panini España, S.A.
 - **Formato:** Hardcover, 312 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491670076 / 9788491670070
 - **Publicación original:** 2017-06-21
-- **Géneros:** Comics, Marvel, Spider Man, Graphic Novels, Comic Book, Superheroes, Fiction, Graphic Novels Comics, Science Fiction, Young Adult
+- **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/), [Spiderman](/tags/spiderman/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Jovenes adultos](/tags/jovenes-adultos/)
 - **Ficha en Goodreads:** [Spiderman: Entre los muertos](https://www.goodreads.com/book/show/38730536-spiderman)
 
 ## Mi lectura
 
 - **Inicio:** 2025/11/01
 - **Fin:** 2022/11/02
-- **Mi valoración:** ★★★★☆ (4,5/5)
+- **Calificación:** ★★★★☆ (4,5/5)

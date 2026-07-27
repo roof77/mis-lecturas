@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Historical Fiction
-- Book Club
-- War
-- Asia
-- Historical
+- Ficción
+- Ficción histórica
+- Club de lectura
+- Guerra
+- Ásia
+- Histórico
+- Ficción Literaria
+- Novela
+- Literatura
+- Política
 autores:
 - Viet Thanh Nguyen
+- Javier Calvo Perales
 editoriales:
 - Seix Barral
 image:
@@ -29,15 +34,15 @@ Abril de 1975, Saigón está sumida en el caos. Desde su mansión, el general de
 
 ## Ficha del libro
 
-- **Autor:** Viet Thanh Nguyen
+- **Autor:** [Viet Thanh Nguyen](/autores/viet-thanh-nguyen/)
 - **Serie:** The Sympathizer (#1)
-- **Colaboradores:** Javier Calvo Perales (Translator)
+- **Colaboradores:** [Javier Calvo Perales](/autores/javier-calvo-perales/) (Translator)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 479 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6070744098 / 9786070744099
 - **Publicación original:** 2018-03-01
-- **Géneros:** Fiction, Historical Fiction, Book Club, War, Asia, Historical, Literary Fiction, Novels, Literature, Politics
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Guerra](/tags/guerra/), [Ásia](/tags/asia/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Política](/tags/politica/)
 - **Lugares:** Vietnam, Philippines, California (United States), Southeast Asia, Los Angeles, California (United States)
 - **Premios ganados:** Pulitzer Prize (2016), California Book Award (2015), Edgar Award (2016), Prix du Meilleur Livre Étranger (2017), Dayton Literary Peace Prize (2016), Deutscher Krimi Preis (2018), Andrew Carnegie Medal (2016), Asian/Pacific American Award for Literature (2015), The Center for Fiction First Novel Prize (2015)
 - **Nominaciones:** PEN/Robert W. Bingham Prize (2016), Dublin Literary Award (2017)
@@ -47,4 +52,4 @@ Abril de 1975, Saigón está sumida en el caos. Desde su mansión, el general de
 
 - **Inicio:** 2024/07/19
 - **Fin:** 2024/07/30
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

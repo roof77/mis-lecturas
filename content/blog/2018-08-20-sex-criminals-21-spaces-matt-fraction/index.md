@@ -8,13 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels Comics
-- Graphic Novels
-- Fantasy
-- Comic Book
-- Fiction
+- Novela gráfica
+- Fantasía
+- Ficción
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image
 image:
@@ -31,18 +30,18 @@ Up is down and black is white and the sex isn't happening—neither is the crime
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Author)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Author)
 - **Editorial:** Image
 - **Formato:** Kindle Edition, 31 páginas
 - **Idioma:** English
 - **Publicación original:** 2018-01-24
-- **Géneros:** Comics, Graphic Novels Comics, Graphic Novels, Fantasy, Comic Book, Fiction
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Sex Criminals #21: Spaces](https://www.goodreads.com/book/show/38193825-sex-criminals-21)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

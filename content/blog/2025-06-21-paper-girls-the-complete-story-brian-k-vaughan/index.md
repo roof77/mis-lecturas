@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Science Fiction
-- Fiction
-- Young Adult
+- Ciencia ficción
+- Ficción
+- Jovenes adultos
 - Queer
+- LGTBIQ+
+- Viaje en el tiempo
+- Fantasía
 autores:
 - Brian K. Vaughan
+- Cliff Chiang
+- Matt Wilson
+- Jared K. Fletcher
 editoriales:
 - Image Comics
 image:
@@ -35,15 +41,15 @@ Collects PAPER GIRLS #1-30
 
 ## Ficha del libro
 
-- **Autor:** Brian K. Vaughan
+- **Autor:** [Brian K. Vaughan](/autores/brian-k-vaughan/)
 - **Serie:** Paper Girls (#1-6)
-- **Colaboradores:** Cliff Chiang (Illustrator), Matt Wilson (Colorist), Jared K. Fletcher (Letterer)
+- **Colaboradores:** [Cliff Chiang](/autores/cliff-chiang/) (Illustrator), [Matt Wilson](/autores/matt-wilson/) (Colorist), [Jared K. Fletcher](/autores/jared-k-fletcher/) (Letterer)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 784 páginas
 - **Idioma:** English
 - **ISBN:** 1534319999 / 9781534319998
 - **Publicación original:** 2021-11-02
-- **Géneros:** Graphic Novels, Comics, Science Fiction, Fiction, Young Adult, Queer, LGBT, Time Travel, Fantasy, Graphic Novels Comics
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Fantasía](/tags/fantasia/)
 - **Personajes:** Erin Tieng, MacKenzie Coyle, Tiffany Quilkin, Karina "KaJe", Jahpo Thāpā, Wari Thāpā, Qanta Braunstein
 - **Lugares:** Cleveland, Ohio (United States)
 - **Ficha en Goodreads:** [Paper Girls: The Complete Story](https://www.goodreads.com/book/show/58155174-paper-girls)
@@ -52,4 +58,4 @@ Collects PAPER GIRLS #1-30
 
 - **Inicio:** 2025/06/05
 - **Fin:** 2025/06/21
-- **Mi valoración:** ★★★★★ (4,75/5)
+- **Calificación:** ★★★★★ (4,75/5)

@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Novels
-- Literary Fiction
-- Literature
-- Classics
-- British Literature
+- Ficción
+- Novela
+- Ficción Literaria
+- Literatura
+- Clásico
+- Literatura británica
+- Siglo XX
+- Autoras
+- LGTBIQ+
+- Literatura irlandesa
 autores:
 - Iris Murdoch
+- Luis Lasse
 editoriales:
 - Editorial Impedimenta SL
 image:
@@ -29,18 +34,18 @@ Cuando Henry Marshalson y Cato Forbes se encuentran en Inglaterra después de va
 
 ## Ficha del libro
 
-- **Autor:** Iris Murdoch
-- **Colaboradores:** Luis Lasse (Translator)
+- **Autor:** [Iris Murdoch](/autores/iris-murdoch/)
+- **Colaboradores:** [Luis Lasse](/autores/luis-lasse/) (Translator)
 - **Editorial:** Editorial Impedimenta SL
 - **Formato:** Kindle Edition, 415 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415578784 / 9788415578789
 - **Publicación original:** 2013-03-07
-- **Géneros:** Fiction, Novels, Literary Fiction, Literature, Classics, British Literature, 20th Century, Female Authors, LGBT, Irish Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Clásico](/tags/clasico/), [Literatura británica](/tags/literatura-britanica/), [Siglo XX](/tags/siglo-xx/), [Autoras](/tags/autoras/), [LGTBIQ+](/tags/lgtbiq/), [Literatura irlandesa](/tags/literatura-irlandesa/)
 - **Ficha en Goodreads:** [Henry y Cato](https://www.goodreads.com/book/show/20750606-henry-y-cato)
 
 ## Mi lectura
 
 - **Inicio:** 2014/05/18
 - **Fin:** 2014/05/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

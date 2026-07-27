@@ -7,10 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Romance
-- Contemporary
-- The United States Of America
+- Contemporaneo
+- EEUU
 - Drama
 autores:
 - Hillel Halkin
@@ -32,17 +32,17 @@ En ¡Melisande! ¿Qué son los sueños? la sabia mirada de un hombre maduro sobr
 
 ## Ficha del libro
 
-- **Autor:** Hillel Halkin
+- **Autor:** [Hillel Halkin](/autores/hillel-halkin/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 264 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415625731 / 9788415625735
 - **Publicación original:** 2016-08-01
-- **Géneros:** Fiction, Romance, Contemporary, The United States Of America, Drama
+- **Géneros:** [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [EEUU](/tags/eeuu/), [Drama](/tags/drama/)
 - **Ficha en Goodreads:** [¡Melisande! ¿Qué son los sueños?](https://www.goodreads.com/book/show/20898843-melisande-qu-son-los-sue-os)
 
 ## Mi lectura
 
 - **Inicio:** 2014/08/31
 - **Fin:** 2014/09/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

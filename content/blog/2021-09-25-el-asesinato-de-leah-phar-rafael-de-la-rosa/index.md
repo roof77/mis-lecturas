@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
+- Terror
 autores:
 - Rafael de la Rosa
+- Juan Alberto Hernández
 editoriales:
 - Editorial Cerbero
 image:
@@ -28,18 +29,18 @@ Advertencias de contenido: pederastia, violación, maltrato psicológico, serofo
 
 ## Ficha del libro
 
-- **Autor:** Rafael de la Rosa
-- **Colaboradores:** Juan Alberto Hernández (Illustrator)
+- **Autor:** [Rafael de la Rosa](/autores/rafael-de-la-rosa/)
+- **Colaboradores:** [Juan Alberto Hernández](/autores/juan-alberto-hernandez/) (Illustrator)
 - **Editorial:** Editorial Cerbero
 - **Formato:** 246 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412373634 / 9788412373639
 - **Publicación original:** 2021-06-25
-- **Géneros:** Horror
+- **Géneros:** [Terror](/tags/terror/)
 - **Ficha en Goodreads:** [El asesinato de Leah Phar](https://www.goodreads.com/book/show/58562667-el-asesinato-de-leah-phar)
 
 ## Mi lectura
 
 - **Inicio:** 2021/09/23
 - **Fin:** 2021/09/25
-- **Mi valoración:** ★★☆☆☆ (2,5/5)
+- **Calificación:** ★★☆☆☆ (2,5/5)

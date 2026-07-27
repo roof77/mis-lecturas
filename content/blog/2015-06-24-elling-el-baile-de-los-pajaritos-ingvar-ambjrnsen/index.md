@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Novels
-- Roman
+- Ficción
+- Novela
 - Humor
-- Scandinavian Literature
-- Literary Fiction
+- Literatura escandinava
+- Ficción Literaria
+- Contemporaneo
+- Clásico
+- Amistad
+- Drama
 autores:
 - Ingvar Ambjørnsen
 editoriales:
@@ -29,14 +32,14 @@ Tras la muerte de su madre, Elling es internado en una institución psiquiátric
 
 ## Ficha del libro
 
-- **Autor:** Ingvar Ambjørnsen
+- **Autor:** [Ingvar Ambjørnsen](/autores/ingvar-ambjrnsen/)
 - **Serie:** Elling (#2)
 - **Editorial:** Nórdica Libros
 - **Formato:** Paperback, 246 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415717903 / 9788415717904
 - **Publicación original:** 2014-03-01
-- **Géneros:** Fiction, Novels, Roman, Humor, Scandinavian Literature, Literary Fiction, Contemporary, Classics, Friendship, Drama
+- **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Humor](/tags/humor/), [Literatura escandinava](/tags/literatura-escandinava/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Clásico](/tags/clasico/), [Amistad](/tags/amistad/), [Drama](/tags/drama/)
 - **Premios ganados:** Brageprisen (1995)
 - **Ficha en Goodreads:** [Elling. El baile de los pajaritos](https://www.goodreads.com/book/show/22023611-elling-el-baile-de-los-pajaritos)
 
@@ -44,4 +47,4 @@ Tras la muerte de su madre, Elling es internado en una institución psiquiátric
 
 - **Inicio:** 2015/06/23
 - **Fin:** 2015/06/24
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

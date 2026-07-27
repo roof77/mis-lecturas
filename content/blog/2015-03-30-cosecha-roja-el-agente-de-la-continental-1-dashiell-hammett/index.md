@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Mystery
-- Fiction
-- Crime
+- Misterio
+- Ficción
+- Crimen
 - Noir
-- Classics
-- Detective
+- Clásico
+- Detectives
+- Thriller
+- Hard boiled
+- Novela
 autores:
 - Dashiell Hammett
 editoriales:
@@ -29,14 +32,14 @@ Cosecha Roja desarrolla la violenta historia de un detective privado que se prop
 
 ## Ficha del libro
 
-- **Autor:** Dashiell Hammett
+- **Autor:** [Dashiell Hammett](/autores/dashiell-hammett/)
 - **Serie:** The Continental Op (#1)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420637602 / 9788420637600
 - **Publicación original:** 2000-10-01
-- **Géneros:** Mystery, Fiction, Crime, Noir, Classics, Detective, Thriller, Mystery Thriller, Hard Boiled, Novels
+- **Géneros:** [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Noir](/tags/noir/), [Clásico](/tags/clasico/), [Detectives](/tags/detectives/), [Thriller](/tags/thriller/), [Hard boiled](/tags/hard-boiled/), [Novela](/tags/novela/)
 - **Personajes:** The Continental Op, Elihu Willsson, Dinah Brand, Dick Foley, The Old Man (The Continental Op), Mickey Linehan, Donald Willsson, Mrs. Donald Willsson, Bill Quint, Pete the Finn
 - **Lugares:** Personville (United States), San Francisco, California (United States)
 - **Ficha en Goodreads:** [Cosecha roja (El agente de la Continental, #1)](https://www.goodreads.com/book/show/4110872-cosecha-roja)
@@ -45,4 +48,4 @@ Cosecha Roja desarrolla la violenta historia de un detective privado que se prop
 
 - **Inicio:** 2015/03/26
 - **Fin:** 2015/03/30
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

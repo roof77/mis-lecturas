@@ -7,8 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
-- History
-- Nonfiction
+- Historia
+- No Ficción
 autores:
 - Íñigo Domínguez
 editoriales:
@@ -27,17 +27,17 @@ Este libro es el resultado natural de ambas pasiones. Por un lado, contiene vein
 
 ## Ficha del libro
 
-- **Autor:** Íñigo Domínguez
+- **Autor:** [Íñigo Domínguez](/autores/inigo-dominguez/)
 - **Editorial:** Libros del K.O.
 - **Formato:** Paperback, 431 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416001057 / 9788416001057
 - **Publicación original:** 2014-01-27
-- **Géneros:** History, Nonfiction
+- **Géneros:** [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/)
 - **Ficha en Goodreads:** [Crónicas de la Mafia](https://www.goodreads.com/book/show/20627474-cr-nicas-de-la-mafia)
 
 ## Mi lectura
 
 - **Inicio:** 2014/03/05
 - **Fin:** 2014/03/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

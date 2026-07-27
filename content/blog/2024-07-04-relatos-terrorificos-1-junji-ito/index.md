@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Manga
 - Comics
-- Horror
+- Terror
 autores:
 - Junji Ito
 editoriales:
@@ -28,18 +28,18 @@ Sobradamente conocido gracias a obras como Uzumaki, Black Paradox o Gyo, Junji I
 
 ## Ficha del libro
 
-- **Autor:** Junji Ito
+- **Autor:** [Junji Ito](/autores/junji-ito/)
 - **Serie:** Relatos terroríficos (#1)
 - **Editorial:** ECC
 - **Formato:** Paperback, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841674629X / 9788416746293
 - **Publicación original:** 2016-08-01
-- **Géneros:** Manga, Comics, Horror
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Terror](/tags/terror/)
 - **Ficha en Goodreads:** [Relatos terroríficos 1](https://www.goodreads.com/book/show/31199254-relatos-terror-ficos-1)
 
 ## Mi lectura
 
 - **Inicio:** 2024/07/02
 - **Fin:** 2024/07/04
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

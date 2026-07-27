@@ -8,13 +8,17 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Young Adult
-- Fiction
-- Graphic Novels Comics
+- Novela gráfica
+- Fantasía
+- Jovenes adultos
+- Ficción
+- Aventuras
+- LGTBIQ+
+- Queer
 autores:
 - N.D. Stevenson
+- Grace Ellis
+- Brooklyn Allen
 editoriales:
 - BOOM!Box
 image:
@@ -29,18 +33,19 @@ When you’re a scout, nothing is more important than being prepared, but how do
 
 ## Ficha del libro
 
-- **Autor:** N.D. Stevenson
+- **Autor:** [N.D. Stevenson](/autores/n-d-stevenson/)
 - **Serie:** Lumberjanes (Single Issues) (#2)
-- **Colaboradores:** Grace Ellis (Author), Brooklyn Allen (Illustrator)
+- **Colaboradores:** [Grace Ellis](/autores/grace-ellis/) (Author), [Brooklyn Allen](/autores/brooklyn-allen/) (Illustrator)
 - **Editorial:** BOOM!Box
 - **Formato:** Kindle Edition, 25 páginas
 - **Idioma:** English
 - **ISBN:** 1613986874 / 9781613986875
 - **Publicación original:** 2017-09-19
-- **Géneros:** Comics, Graphic Novels, Fantasy, Young Adult, Fiction, Graphic Novels Comics, Adventure, Middle Grade, LGBT, Queer
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Aventuras](/tags/aventuras/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/)
 - **Ficha en Goodreads:** [Lumberjanes: Pungeon Master (Lumberjanes, #2)](https://www.goodreads.com/book/show/25088157-lumberjanes)
 
 ## Mi lectura
 
 - **Inicio:** 2026/07/12
 - **Fin:** 2026/07/12
+- **Calificación:** Recomendable/5

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Science Fiction
-- Fantasy
-- Young Adult
-- Graphic Novels Comics
+- Ciencia ficción
+- Fantasía
+- Jovenes adultos
+- Ficción
+- Distopía
+- Postapocalíptico
 autores:
 - Kieron Gillen
+- Stephanie Hans
+- Clayton Cowles
 editoriales:
 - Image Comics
 image:
@@ -35,14 +39,14 @@ The award-winning team behind dark fantasy smash DIE release their first stand a
 
 ## Ficha del libro
 
-- **Autor:** Kieron Gillen
-- **Colaboradores:** Stephanie Hans (Artist), Clayton Cowles (Letterer)
+- **Autor:** [Kieron Gillen](/autores/kieron-gillen/)
+- **Colaboradores:** [Stephanie Hans](/autores/stephanie-hans/) (Artist), [Clayton Cowles](/autores/clayton-cowles/) (Letterer)
 - **Editorial:** Image Comics
 - **Formato:** Hardcover, 104 páginas
 - **Idioma:** English
 - **ISBN:** 1534387072 / 9781534387072
 - **Publicación original:** 2024-11-12
-- **Géneros:** Graphic Novels, Comics, Science Fiction, Fantasy, Young Adult, Graphic Novels Comics, Fiction, Dystopia, Post Apocalyptic, Comic Book
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Postapocalíptico](/tags/postapocaliptico/)
 - **Nominaciones:** Hugo Award (2025), Foreword INDIES Book of the Year Award (2024)
 - **Ficha en Goodreads:** [We Called Them Giants](https://www.goodreads.com/book/show/210999862-we-called-them-giants)
 
@@ -50,3 +54,4 @@ The award-winning team behind dark fantasy smash DIE release their first stand a
 
 - **Inicio:** 2026/06/17
 - **Fin:** 2026/06/17
+- **Calificación:** Muy bien/5

@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Historical Fiction
-- Literature
-- Literary Fiction
-- Novels
+- Ficción
+- Clásico
+- Ficción histórica
+- Literatura
+- Ficción Literaria
+- Novela
+- Club de lectura
+- EEUU
 autores:
-- John  Williams
+- John Williams
+- Antonio Díez
 editoriales:
 - Baile del Sol
 image:
@@ -29,14 +32,14 @@ William Stoner, hijo único de un matrimonio de granjeros que sobrevive en la pe
 
 ## Ficha del libro
 
-- **Autor:** John  Williams
-- **Colaboradores:** Antonio Díez (Translator)
+- **Autor:** [John Williams](/autores/john-williams/)
+- **Colaboradores:** [Antonio Díez](/autores/antonio-diez/) (Translator)
 - **Editorial:** Baile del Sol
 - **Formato:** Paperback, 242 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841570061X / 9788415700616
 - **Publicación original:** 2010-12-01
-- **Géneros:** Fiction, Classics, Historical Fiction, Literature, Literary Fiction, Novels, Book Club, American, Audiobook, The United States Of America
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [EEUU](/tags/eeuu/)
 - **Personajes:** William Stoner, Edith Stoner, Grace Stoner, Gordon Finch, David Masters, Hollis Lomax, Katherine Driscoll
 - **Lugares:** Missouri (United States), Columbia, Missouri (United States), The United States of America
 - **Premios ganados:** Waterstones Book of the Year (2013), Βραβείο Βιβλίου Public (2018), Blogistanian Globalia (2015)
@@ -46,4 +49,4 @@ William Stoner, hijo único de un matrimonio de granjeros que sobrevive en la pe
 
 - **Inicio:** 2014/01/22
 - **Fin:** 2014/01/24
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

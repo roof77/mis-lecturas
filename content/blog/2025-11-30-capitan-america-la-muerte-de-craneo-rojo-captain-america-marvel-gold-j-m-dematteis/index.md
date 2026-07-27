@@ -27,7 +27,7 @@ Autores: J. M. DeMatteis, Bill Mantlo, Mike Carlin, Ron Frenz, Herb Trimpe, Paul
 
 ## Ficha del libro
 
-- **Autor:** J.M. DeMatteis
+- **Autor:** [J.M. DeMatteis](/autores/j-m-dematteis/)
 - **Serie:** Captain America (1968) (#290-301, Annul #8)
 - **Editorial:** Panini Comics España
 - **Formato:** Paperback, 336 páginas
@@ -40,4 +40,4 @@ Autores: J. M. DeMatteis, Bill Mantlo, Mike Carlin, Ron Frenz, Herb Trimpe, Paul
 
 - **Inicio:** 2025/11/25
 - **Fin:** 2025/11/30
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

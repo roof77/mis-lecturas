@@ -23,7 +23,7 @@ Una versión totalmente alocada de este personaje universal, en la cual Don Drá
 
 ## Ficha del libro
 
-- **Autor:** Osamu Tezuka
+- **Autor:** [Osamu Tezuka](/autores/osamu-tezuka/)
 - **Serie:** ドン・ドラキュラ [Don Dracula] (#1-3)
 - **Editorial:** Planeta Cómic
 - **Formato:** Kindle Edition, 888 páginas
@@ -36,4 +36,4 @@ Una versión totalmente alocada de este personaje universal, en la cual Don Drá
 
 - **Inicio:** 2023/08/06
 - **Fin:** 2023/09/17
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

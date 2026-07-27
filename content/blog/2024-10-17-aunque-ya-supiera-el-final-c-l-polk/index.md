@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Historical Fiction
-- LGBT
+- Fantasía
+- Ficción histórica
+- LGTBIQ+
 - Queer
-- Mystery
+- Misterio
 - Romance
+- Lesbianismo
+- Novella
+- Histórico
+- Ficción
 autores:
 - C.L. Polk
+- Carla Bataller Estruch
 editoriales:
 - Duermevela Ediciones
 image:
@@ -29,14 +34,14 @@ Ganadora del premio Nebula y finalista de los premios Locus, Hugo, Ignyte y Worl
 
 ## Ficha del libro
 
-- **Autor:** C.L. Polk
-- **Colaboradores:** Carla Bataller Estruch (translator)
+- **Autor:** [C.L. Polk](/autores/c-l-polk/)
+- **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (translator)
 - **Editorial:** Duermevela Ediciones
 - **Formato:** Kindle Edition, 165 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8412890639 / 9788412890631
 - **Publicación original:** 2024-09-18
-- **Géneros:** Fantasy, Historical Fiction, LGBT, Queer, Mystery, Romance, Lesbian, Novella, Historical, Fiction
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción histórica](/tags/ficcion-historica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Misterio](/tags/misterio/), [Romance](/tags/romance/), [Lesbianismo](/tags/lesbianismo/), [Novella](/tags/novella/), [Histórico](/tags/historico/), [Ficción](/tags/ficcion/)
 - **Lugares:** Chicago, Illinois (United States), Illinois (United States)
 - **Premios ganados:** Nebula Award (2022)
 - **Nominaciones:** Hugo Award (2023), Locus Award (2023), World Fantasy Award (2023), Ignyte Award (2023)
@@ -46,4 +51,4 @@ Ganadora del premio Nebula y finalista de los premios Locus, Hugo, Ignyte y Worl
 
 - **Inicio:** 2024/10/11
 - **Fin:** 2024/10/17
-- **Mi valoración:** ★★★★☆ (3,75/5)
+- **Calificación:** ★★★★☆ (3,75/5)

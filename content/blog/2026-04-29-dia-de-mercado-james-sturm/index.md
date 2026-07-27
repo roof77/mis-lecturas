@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Fiction
-- Historical Fiction
-- Jewish
-- Graphic Novels Comics
+- Ficción
+- Ficción histórica
+- Judaismo
+- Ficción adulta
+- Adultos
 autores:
 - James Sturm
 editoriales:
@@ -29,16 +30,17 @@ La vida de Mendleman, futuro padre, se ve trastornada cuando descubre que no pue
 
 ## Ficha del libro
 
-- **Autor:** James Sturm
+- **Autor:** [James Sturm](/autores/james-sturm/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 96 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8492769491 / 9788492769490
 - **Publicación original:** 2010-01-01
-- **Géneros:** Graphic Novels, Comics, Fiction, Historical Fiction, Jewish, Graphic Novels Comics, Comic Book, Adult Fiction, Adult, Judaism
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Judaismo](/tags/judaismo/), [Ficción adulta](/tags/ficcion-adulta/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Día de mercado](https://www.goodreads.com/book/show/11106982-d-a-de-mercado)
 
 ## Mi lectura
 
 - **Inicio:** 2026/04/29
 - **Fin:** 2026/04/29
+- **Calificación:** Bien/5

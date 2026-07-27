@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Spain
-- Historical Fiction
-- Spanish Literature
-- War
+- Ficción
+- Clásico
+- España
+- Ficción histórica
+- Literatura hispana
+- Guerra
+- Histórico
+- Novela
+- Siglo XX
+- Literatura
 autores:
 - Mercè Rodoreda
 editoriales:
@@ -29,13 +33,13 @@ La plaza del Diamante ha sido reconocida como una de las mejores novelas catalan
 
 ## Ficha del libro
 
-- **Autor:** Mercè Rodoreda
+- **Autor:** [Mercè Rodoreda](/autores/merce-rodoreda/)
 - **Editorial:** Edhasa
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 843501536X / 9788435015363
 - **Publicación original:** 1982-01-01
-- **Géneros:** Fiction, Classics, Spain, Historical Fiction, Spanish Literature, War, Historical, Novels, 20th Century, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [España](/tags/espana/), [Ficción histórica](/tags/ficcion-historica/), [Literatura hispana](/tags/literatura-hispana/), [Guerra](/tags/guerra/), [Histórico](/tags/historico/), [Novela](/tags/novela/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/)
 - **Lugares:** Plaça del Diamant, Vila de Gràcia, Barcelona, Catalonia (Spain), Spain
 - **Ficha en Goodreads:** [La plaza del diamante](https://www.goodreads.com/book/show/908350.La_plaza_del_diamante)
 
@@ -43,3 +47,4 @@ La plaza del Diamante ha sido reconocida como una de las mejores novelas catalan
 
 - **Inicio:** 2026/02/25
 - **Fin:** 2026/03/06
+- **Calificación:** Recomendable/5

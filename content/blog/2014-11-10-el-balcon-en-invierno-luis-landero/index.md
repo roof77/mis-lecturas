@@ -7,10 +7,9 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Ebooks
-- Spanish Literature
-- Spain
+- Ficción
+- Literatura hispana
+- España
 autores:
 - Luis Landero
 editoriales:
@@ -27,17 +26,17 @@ Asomado al balcón, debatiéndose entre la vida que bulle en la calle y la novel
 
 ## Ficha del libro
 
-- **Autor:** Luis Landero
+- **Autor:** [Luis Landero](/autores/luis-landero/)
 - **Editorial:** Tusquets Editores S.A.
 - **Formato:** Paperback, 248 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8483839296 / 9788483839294
 - **Publicación original:** 2014-09-01
-- **Géneros:** Fiction, Ebooks, Spanish Literature, Spain
+- **Géneros:** [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/)
 - **Ficha en Goodreads:** [El balcón en invierno](https://www.goodreads.com/book/show/23345846-el-balc-n-en-invierno)
 
 ## Mi lectura
 
 - **Inicio:** 2014/11/09
 - **Fin:** 2014/11/10
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

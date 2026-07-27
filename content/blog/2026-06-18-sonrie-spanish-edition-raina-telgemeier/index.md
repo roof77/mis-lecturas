@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Middle Grade
-- Young Adult
+- Novela gráfica
+- Jovenes adultos
 - Comics
-- Realistic Fiction
-- Fiction
+- Ficción realista
+- Ficción
+- Niños
+- Contemporaneo
+- Coming of age
+- Humor
 autores:
 - Raina Telgemeier
+- Jofre Homedes Beutnagel
 editoriales:
 - Maeva Ediciones
 image:
@@ -29,15 +33,15 @@ Raina solo quiere ser normal. Pero una noche, tras una reunión de los scouts, s
 
 ## Ficha del libro
 
-- **Autor:** Raina Telgemeier
+- **Autor:** [Raina Telgemeier](/autores/raina-telgemeier/)
 - **Serie:** Smile (#1)
-- **Colaboradores:** Jofre Homedes Beutnagel (Translator)
+- **Colaboradores:** [Jofre Homedes Beutnagel](/autores/jofre-homedes-beutnagel/) (Translator)
 - **Editorial:** Maeva Ediciones
 - **Formato:** Hardcover, 216 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416363641 / 9788416363643
 - **Publicación original:** 2016-03-10
-- **Géneros:** Graphic Novels, Middle Grade, Young Adult, Comics, Realistic Fiction, Fiction, Childrens, Contemporary, Coming Of Age, Humor
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Jovenes adultos](/tags/jovenes-adultos/), [Comics](/tags/comics/), [Ficción realista](/tags/ficcion-realista/), [Ficción](/tags/ficcion/), [Niños](/tags/ninos/), [Contemporaneo](/tags/contemporaneo/), [Coming of age](/tags/coming-of-age/), [Humor](/tags/humor/)
 - **Personajes:** Raina Telgemeier
 - **Premios ganados:** Vermont Golden Dome Book Award (2012), Iowa Children's Choice Award (2012), Will Eisner Comic Industry Awards (2011), Rebecca Caudill Young Readers' Book Award (2013)
 - **Nominaciones:** Boston Globe-Horn Book Award (2010), Goodreads Choice Award (2010)
@@ -47,3 +51,4 @@ Raina solo quiere ser normal. Pero una noche, tras una reunión de los scouts, s
 
 - **Inicio:** 2026/06/18
 - **Fin:** 2026/06/18
+- **Calificación:** Recomendable/5

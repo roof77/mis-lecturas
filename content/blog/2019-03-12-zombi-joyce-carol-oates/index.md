@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
+- Terror
+- Ficción
 - Thriller
-- Crime
-- Mystery
-- Contemporary
+- Crimen
+- Misterio
+- Contemporaneo
+- Oscuro
+- Adultos
+- Ficción Literaria
+- Zombies
 autores:
 - Joyce Carol Oates
+- Carmen Camps
 editoriales:
 - Debolsillo
 image:
@@ -33,14 +38,14 @@ Con esta novela escrita en forma de diario íntimo, Joyce Carol Oates nos mete e
 
 ## Ficha del libro
 
-- **Autor:** Joyce Carol Oates
-- **Colaboradores:** Carmen Camps (Translator)
+- **Autor:** [Joyce Carol Oates](/autores/joyce-carol-oates/)
+- **Colaboradores:** [Carmen Camps](/autores/carmen-camps/) (Translator)
 - **Editorial:** Debolsillo
 - **Formato:** Paperback, 216 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8497594959 / 9788497594950
 - **Publicación original:** 2003-04-02
-- **Géneros:** Horror, Fiction, Thriller, Crime, Mystery, Contemporary, Dark, Adult, Literary Fiction, Zombies
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Contemporaneo](/tags/contemporaneo/), [Oscuro](/tags/oscuro/), [Adultos](/tags/adultos/), [Ficción Literaria](/tags/ficcion-literaria/), [Zombies](/tags/zombies/)
 - **Lugares:** Michigan (United States)
 - **Premios ganados:** Bram Stoker Award (1995)
 - **Ficha en Goodreads:** [Zombi](https://www.goodreads.com/book/show/2760667-zombi)
@@ -49,4 +54,4 @@ Con esta novela escrita en forma de diario íntimo, Joyce Carol Oates nos mete e
 
 - **Inicio:** 2019/03/11
 - **Fin:** 2019/03/12
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

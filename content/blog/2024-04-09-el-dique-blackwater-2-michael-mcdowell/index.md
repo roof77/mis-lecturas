@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fantasy
-- Fiction
-- Gothic
-- Mystery
+- Terror
+- Fantasía
+- Ficción
+- Gótico
+- Misterio
 - Thriller
+- Ficción histórica
+- Gótico sureño
+- Histórico
 autores:
 - Michael McDowell
+- Carles Andreu
 editoriales:
 - Blackie Books
 image:
@@ -29,15 +33,15 @@ Mientras Perdido se recupera de la inundación, se propone la construcción de u
 
 ## Ficha del libro
 
-- **Autor:** Michael McDowell
+- **Autor:** [Michael McDowell](/autores/michael-mcdowell/)
 - **Serie:** Blackwater (#2)
-- **Colaboradores:** Carles Andreu (translator)
+- **Colaboradores:** [Carles Andreu](/autores/carles-andreu/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Mass Market Paperback, 272 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419654914 / 9788419654915
 - **Publicación original:** 2024-02-21
-- **Géneros:** Horror, Fantasy, Fiction, Gothic, Mystery, Thriller, Historical Fiction, Audiobook, Southern Gothic, Historical
+- **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Ficción histórica](/tags/ficcion-historica/), [Gótico sureño](/tags/gotico-sureno/), [Histórico](/tags/historico/)
 - **Personajes:** Elinor Dammert, Mary-Love Caskey, Oscar Caskey, Sister Caskey, James Caskey, Grace Caskey, Zaddie Sapp, Ivey Sapp, Queenie Strickland, Early Haskew
 - **Lugares:** Perdido, Alabama (United States), Alabama (United States), The United States of America
 - **Ficha en Goodreads:** [El dique (Blackwater, #2)](https://www.goodreads.com/book/show/202795005-el-dique)
@@ -46,4 +50,4 @@ Mientras Perdido se recupera de la inundación, se propone la construcción de u
 
 - **Inicio:** 2024/04/03
 - **Fin:** 2024/04/09
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

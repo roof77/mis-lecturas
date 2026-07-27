@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Book Club
-- Audiobook
-- Literary Fiction
-- Contemporary
-- Family
+- Ficción
+- Club de lectura
+- Ficción Literaria
+- Contemporaneo
+- Familia
+- Ficción adulta
+- Novela
+- Adultos
+- EEUU
 autores:
 - Elizabeth Strout
+- Flora Casas
 editoriales:
 - Duomo
 image:
@@ -29,15 +33,15 @@ En una habitación de hospital en pleno centro de Manhattan, delante del ilumina
 
 ## Ficha del libro
 
-- **Autor:** Elizabeth Strout
+- **Autor:** [Elizabeth Strout](/autores/elizabeth-strout/)
 - **Serie:** Amgash (#1)
-- **Colaboradores:** Flora Casas (Translator)
+- **Colaboradores:** [Flora Casas](/autores/flora-casas/) (Translator)
 - **Editorial:** Duomo
 - **Formato:** Paperback, 208 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416261911 / 9788416261918
 - **Publicación original:** 2016-08-31
-- **Géneros:** Fiction, Book Club, Audiobook, Literary Fiction, Contemporary, Family, Adult Fiction, Novels, Adult, American
+- **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Familia](/tags/familia/), [Ficción adulta](/tags/ficcion-adulta/), [Novela](/tags/novela/), [Adultos](/tags/adultos/), [EEUU](/tags/eeuu/)
 - **Lugares:** Illinois (United States), New York City, New York (United States)
 - **Premios ganados:** NAIBA Book of the Year (2016), Blogistanian Globalia (2018)
 - **Nominaciones:** Booker Prize (2016), Women's Prize for Fiction (2016), Andrew Carnegie Medal (2017), Goodreads Choice Award (2016), Dublin Literary Award (2018), Readers' Favorite Fiction (2016)
@@ -47,4 +51,4 @@ En una habitación de hospital en pleno centro de Manhattan, delante del ilumina
 
 - **Inicio:** 2016/09/16
 - **Fin:** 2016/09/18
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

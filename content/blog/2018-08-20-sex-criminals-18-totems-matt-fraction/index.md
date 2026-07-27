@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Fiction
-- Graphic Novels Comics
-- Graphic Novels
-- Science Fiction
-- Comic Book
+- Ficción
+- Novela gráfica
+- Ciencia ficción
+- Fantasía
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -29,18 +29,18 @@ There's a line between fan and fetishist, right? Probably. Also: the long-awaite
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 32 páginas
 - **Idioma:** English
 - **Publicación original:** 2017-04-19
-- **Géneros:** Comics, Fiction, Graphic Novels Comics, Graphic Novels, Science Fiction, Comic Book, Fantasy
+- **Géneros:** [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Sex Criminals #18: Totems](https://www.goodreads.com/book/show/34667740-sex-criminals-18)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

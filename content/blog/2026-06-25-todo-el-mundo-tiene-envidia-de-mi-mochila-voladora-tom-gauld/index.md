@@ -8,11 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
+- Novela gráfica
 - Humor
-- Fiction
-- Graphic Novels Comics
-- Bande Dessinée
+- Ficción
+- Comedia
+- Arte
+- Libros sobre libros
+- Tiras
 autores:
 - Tom Gauld
 editoriales:
@@ -31,13 +33,13 @@ Traducción de Esther Cruz (Las cuatro de Syldavia)
 
 ## Ficha del libro
 
-- **Autor:** Tom Gauld
+- **Autor:** [Tom Gauld](/autores/tom-gauld/)
 - **Editorial:** Salamandra Graphic
 - **Formato:** Hardcover, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416131139 / 9788416131136
 - **Publicación original:** 2015-04-01
-- **Géneros:** Comics, Graphic Novels, Humor, Fiction, Graphic Novels Comics, Bande Dessinée, Comedy, Art, Books About Books, Comic Strips
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Comedia](/tags/comedia/), [Arte](/tags/arte/), [Libros sobre libros](/tags/libros-sobre-libros/), [Tiras](/tags/tiras/)
 - **Nominaciones:** Will Eisner Comic Industry Awards (2014)
 - **Ficha en Goodreads:** [Todo el mundo tiene envidia de mi mochila voladora](https://www.goodreads.com/book/show/25320981-todo-el-mundo-tiene-envidia-de-mi-mochila-voladora)
 
@@ -45,3 +47,4 @@ Traducción de Esther Cruz (Las cuatro de Syldavia)
 
 - **Inicio:** 2026/06/25
 - **Fin:** 2026/06/25
+- **Calificación:** Bin/5

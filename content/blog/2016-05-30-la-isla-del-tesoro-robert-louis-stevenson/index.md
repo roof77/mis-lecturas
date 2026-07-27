@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Classics
-- Fiction
-- Adventure
-- Historical Fiction
-- Young Adult
-- Childrens
+- Clásico
+- Ficción
+- Aventuras
+- Ficción histórica
+- Jovenes adultos
+- Niños
+- Piratas
+- Fantasía
+- Literatura
 autores:
 - Robert Louis Stevenson
+- Jordi Beltrán Ferrer
 editoriales:
 - Penguin Clásicos
 image:
@@ -31,14 +35,14 @@ Esta edición, que recupera la buena labor traductora de Jordi Beltrán, se abre
 
 ## Ficha del libro
 
-- **Autor:** Robert Louis Stevenson
-- **Colaboradores:** Jordi Beltrán Ferrer (Translator)
+- **Autor:** [Robert Louis Stevenson](/autores/robert-louis-stevenson/)
+- **Colaboradores:** [Jordi Beltrán Ferrer](/autores/jordi-beltran-ferrer/) (Translator)
 - **Editorial:** Penguin Clásicos
 - **Formato:** Mass Market Paperback, 360 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491050884 / 9788491050889
 - **Publicación original:** 2015-11-17
-- **Géneros:** Classics, Fiction, Adventure, Historical Fiction, Young Adult, Childrens, Pirates, Fantasy, Literature, Audiobook
+- **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Aventuras](/tags/aventuras/), [Ficción histórica](/tags/ficcion-historica/), [Jovenes adultos](/tags/jovenes-adultos/), [Niños](/tags/ninos/), [Piratas](/tags/piratas/), [Fantasía](/tags/fantasia/), [Literatura](/tags/literatura/)
 - **Personajes:** Jim Hawkins, Billy Bones, Doctor Livesey, Captain Alexander Smollet, Squire John Trelawney, Ben Gunn, Long John Silver, Israel Hands, Abraham Gray
 - **Lugares:** Bristol, England (United Kingdom), Atlantic Ocean, Skeleton Island, England, United Kingdom
 - **Premios ganados:** Audie Award (2008)
@@ -49,4 +53,4 @@ Esta edición, que recupera la buena labor traductora de Jordi Beltrán, se abre
 
 - **Inicio:** 2016/05/25
 - **Fin:** 2016/05/30
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

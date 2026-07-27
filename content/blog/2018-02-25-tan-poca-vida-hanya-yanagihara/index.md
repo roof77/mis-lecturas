@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Literary Fiction
-- LGBT
+- Ficción
+- Contemporaneo
+- Ficción Literaria
+- LGTBIQ+
 - Queer
-- Book Club
+- Club de lectura
+- Salud mentál
+- Adultos
+- Novela
 autores:
 - Hanya Yanagihara
+- Aurora Echevarría
 editoriales:
 - Lumen
 image:
@@ -31,14 +35,14 @@ Para descubrir eso y más, aquí está Tan poca vida, una historia que recorre m
 
 ## Ficha del libro
 
-- **Autor:** Hanya Yanagihara
-- **Colaboradores:** Aurora Echevarría (Translator)
+- **Autor:** [Hanya Yanagihara](/autores/hanya-yanagihara/)
+- **Colaboradores:** [Aurora Echevarría](/autores/aurora-echevarria/) (Translator)
 - **Editorial:** Lumen
 - **Formato:** Paperback, 1008 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6073148127 / 9786073148122
 - **Publicación original:** 2016-09-01
-- **Géneros:** Fiction, Contemporary, Literary Fiction, LGBT, Queer, Book Club, Mental Health, Adult, Audiobook, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Club de lectura](/tags/club-de-lectura/), [Salud mentál](/tags/salud-mental/), [Adultos](/tags/adultos/), [Novela](/tags/novela/)
 - **Personajes:** Jude St. Francis, Willem Ragnarsson, Malcom Irvine, Jean-Baptiste (JB) Marion, Harold Stein, Julia Altman, Andy Contractor, Richard Goldfarb
 - **Lugares:** New York City, New York (United States), New York (State) (United States), The United States of America
 - **Premios ganados:** National Book Award Finalist (2015), Kirkus Prize (2015), Jarl Hellemann -palkinto (2017), Blogistanian Globalia (2017)
@@ -49,4 +53,4 @@ Para descubrir eso y más, aquí está Tan poca vida, una historia que recorre m
 
 - **Inicio:** 2018/02/19
 - **Fin:** 2018/02/25
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Dystopia
-- Book Club
+- Ficción
+- Distopía
+- Club de lectura
 - Australia
-- Feminism
-- Contemporary
+- Feminismo
+- Contemporaneo
+- Ficción Literaria
+- Ciencia ficción
+- Terror
+- Literatura
 autores:
-- Charlotte  Wood
+- Charlotte Wood
 editoriales:
 - Lumen
 image:
@@ -35,13 +39,13 @@ Al hilo de la mejor tradición literaria, con ecos que nos recuerdan las escenas
 
 ## Ficha del libro
 
-- **Autor:** Charlotte  Wood
+- **Autor:** [Charlotte Wood](/autores/charlotte-wood/)
 - **Editorial:** Lumen
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8426404200 / 9788426404206
 - **Publicación original:** 2017-09-01
-- **Géneros:** Fiction, Dystopia, Book Club, Australia, Feminism, Contemporary, Literary Fiction, Science Fiction, Horror, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Club de lectura](/tags/club-de-lectura/), [Australia](/tags/australia/), [Feminismo](/tags/feminismo/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Ciencia ficción](/tags/ciencia-ficcion/), [Terror](/tags/terror/), [Literatura](/tags/literatura/)
 - **Premios ganados:** Australian Independent Booksellers Indie Book Award (2016), The Stella Prize (2016)
 - **Nominaciones:** Miles Franklin Literary Award (2016), Victorian Premier's Literary Award (2016), James Tiptree Jr. Award (2016), Australian Book Industry Award (ABIA) (2016), Nita B. Kibble Literary Award (2016), Voss Literary Prize (2016)
 - **Ficha en Goodreads:** [En estado salvaje](https://www.goodreads.com/book/show/35528769-en-estado-salvaje)
@@ -50,4 +54,4 @@ Al hilo de la mejor tradición literaria, con ecos que nos recuerdan las escenas
 
 - **Inicio:** 2017/09/08
 - **Fin:** 2017/09/11
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

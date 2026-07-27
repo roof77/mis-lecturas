@@ -7,9 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
+- Fantasía
 autores:
 - Seanan McGuire
+- María Pilar San Román
+- Rovina Kai
+- Octavi Segarra
 editoriales:
 - Alianza Runas
 image:
@@ -28,19 +31,19 @@ La serie de Los Niños Descarriados ha recibido los premios Hugo, Nébula, Alex 
 
 ## Ficha del libro
 
-- **Autor:** Seanan McGuire
+- **Autor:** [Seanan McGuire](/autores/seanan-mcguire/)
 - **Serie:** Wayward Children (#3-4)
-- **Colaboradores:** María Pilar San Román (Translator), Rovina Kai (Illustrator), Octavi Segarra (Illustrator)
+- **Colaboradores:** [María Pilar San Román](/autores/maria-pilar-san-roman/) (Translator), [Rovina Kai](/autores/rovina-kai/) (Illustrator), [Octavi Segarra](/autores/octavi-segarra/) (Illustrator)
 - **Editorial:** Alianza Runas
 - **Formato:** Hardcover, 400 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413626293 / 9788413626291
 - **Publicación original:** 2022-02-24
-- **Géneros:** Fantasy
+- **Géneros:** [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Bajo el cielo de azúcar / En un sueño ausente](https://www.goodreads.com/book/show/60187916-bajo-el-cielo-de-az-car-en-un-sue-o-ausente)
 
 ## Mi lectura
 
 - **Inicio:** 2022/04/08
 - **Fin:** 2022/04/18
-- **Mi valoración:** ★★★★☆ (3,5/5)
+- **Calificación:** ★★★★☆ (3,5/5)

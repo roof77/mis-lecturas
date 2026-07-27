@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Short Stories
-- Fiction
-- Horror
+- Relatos
+- Ficción
+- Terror
 - Canada
 - Humor
-- Ghost Stories
+- Fantasmas
+- Fantasía
+- Literatura canadiense
+- Siglo XX
+- Halloween
 autores:
 - Robertson Davies
 editoriales:
@@ -31,13 +35,13 @@ Los fantasmas de Dickens, la reina Victoria o Ibsen son algunos de los espíritu
 
 ## Ficha del libro
 
-- **Autor:** Robertson Davies
+- **Autor:** [Robertson Davies](/autores/robertson-davies/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 312 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415625626 / 9788415625629
 - **Publicación original:** 2013-09-23
-- **Géneros:** Short Stories, Fiction, Horror, Canada, Humor, Ghost Stories, Fantasy, Canadian Literature, 20th Century, Halloween
+- **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Canada](/tags/canada/), [Humor](/tags/humor/), [Fantasmas](/tags/fantasmas/), [Fantasía](/tags/fantasia/), [Literatura canadiense](/tags/literatura-canadiense/), [Siglo XX](/tags/siglo-xx/), [Halloween](/tags/halloween/)
 - **Premios ganados:** World Fantasy Award (1984)
 - **Ficha en Goodreads:** [Espíritu festivo: Cuentos de fantasmas](https://www.goodreads.com/book/show/18946154-esp-ritu-festivo)
 
@@ -45,4 +49,4 @@ Los fantasmas de Dickens, la reina Victoria o Ibsen son algunos de los espíritu
 
 - **Inicio:** 2014/01/02
 - **Fin:** 2014/01/08
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

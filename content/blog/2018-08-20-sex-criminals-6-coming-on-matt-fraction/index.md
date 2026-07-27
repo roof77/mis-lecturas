@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Graphic Novels Comics
-- Fantasy
-- Comic Book
-- Ebooks
+- Novela gráfica
+- Fantasía
+- Adultos
+- Humor
 autores:
 - Matt Fraction
+- Chip Zdarsky
 editoriales:
 - Image Comics
 image:
@@ -29,18 +29,18 @@ After their narrow getaway from the Sex Police, Jon and Suzie are learning that 
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
-- **Colaboradores:** Chip Zdarsky (Illustrator)
+- **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
 - **Formato:** Paperback, 32 páginas
 - **Idioma:** English
 - **Publicación original:** 2014-06-18
-- **Géneros:** Comics, Graphic Novels, Graphic Novels Comics, Fantasy, Comic Book, Ebooks, Sequential Art, Bande Dessinée, Adult, Humor
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Humor](/tags/humor/)
 - **Ficha en Goodreads:** [Sex Criminals #6: Coming On](https://www.goodreads.com/book/show/22012837-sex-criminals-6)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Dystopia
-- LGBT
+- Terror
+- Ficción
+- Distopía
+- LGTBIQ+
 - Queer
-- Audiobook
+- Ciencia ficción
+- Adultos
+- Lesbianismo
+- Ficción Literaria
 autores:
 - Agustina Bazterrica
 editoriales:
@@ -31,13 +34,13 @@ Narrado a través de las anotaciones dispersas del diario en el que la protagoni
 
 ## Ficha del libro
 
-- **Autor:** Agustina Bazterrica
+- **Autor:** [Agustina Bazterrica](/autores/agustina-bazterrica/)
 - **Editorial:** Penguin Random House
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9878266966 / 9789878266961
 - **Publicación original:** 2023-09-01
-- **Géneros:** Horror, Fiction, Dystopia, LGBT, Queer, Audiobook, Science Fiction, Adult, Lesbian, Literary Fiction
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ciencia ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/), [Lesbianismo](/tags/lesbianismo/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Nominaciones:** Andrew Carnegie Medal (2026)
 - **Ficha en Goodreads:** [Las indignas](https://www.goodreads.com/book/show/198386595-las-indignas)
 
@@ -45,4 +48,4 @@ Narrado a través de las anotaciones dispersas del diario en el que la protagoni
 
 - **Inicio:** 2025/01/03
 - **Fin:** 2025/01/14
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

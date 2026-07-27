@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Horror
-- Contemporary
-- Literary Fiction
-- Book Club
-- Asia
+- Ficción
+- Terror
+- Contemporaneo
+- Ficción Literaria
+- Club de lectura
+- Ásia
+- Salud mentál
+- Novela
+- Adultos
 autores:
 - Han Kang
+- Sunme Yoon
+- Gabi Martínez
 editoriales:
 - :Rata_
 image:
@@ -29,14 +34,14 @@ image:
 
 ## Ficha del libro
 
-- **Autor:** Han Kang
-- **Colaboradores:** Sunme Yoon (Translator), Gabi Martínez (Foreword)
+- **Autor:** [Han Kang](/autores/han-kang/)
+- **Colaboradores:** [Sunme Yoon](/autores/sunme-yoon/) (Translator), [Gabi Martínez](/autores/gabi-martinez/) (Foreword)
 - **Editorial:** :Rata_
 - **Formato:** Paperback, 240 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416738130 / 9788416738137
 - **Publicación original:** 2017-03-22
-- **Géneros:** Fiction, Horror, Contemporary, Literary Fiction, Book Club, Asia, Audiobook, Mental Health, Novels, Adult
+- **Géneros:** [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Ásia](/tags/asia/), [Salud mentál](/tags/salud-mental/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)
 - **Personajes:** Kim Yeong-hye, Kim In-hye, Mr. Cheong
 - **Lugares:** Seoul, South Korea (Korea, Republic of), South Korea (Korea, Republic of)
 - **Premios ganados:** International Booker Prize (2016), Premio San Clemente (2018)
@@ -47,4 +52,4 @@ image:
 
 - **Inicio:** 2018/06/09
 - **Fin:** 2018/06/12
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

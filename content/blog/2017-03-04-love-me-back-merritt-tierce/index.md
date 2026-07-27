@@ -7,12 +7,16 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
-- Literary Fiction
-- Novels
-- Book Club
-- Adult Fiction
+- Ficción
+- Contemporaneo
+- Ficción Literaria
+- Novela
+- Club de lectura
+- Ficción adulta
+- Adultos
+- Ficción realista
+- Oscuro
+- Literatura
 autores:
 - Merritt Tierce
 editoriales:
@@ -29,13 +33,13 @@ From "5 Under 35" honoree and Rona Jaffe Award-winner comes an urgent, intensely
 
 ## Ficha del libro
 
-- **Autor:** Merritt Tierce
+- **Autor:** [Merritt Tierce](/autores/merritt-tierce/)
 - **Editorial:** Doubleday
 - **Formato:** Hardcover, 224 páginas
 - **Idioma:** English
 - **ISBN:** 0385538073 / 9780385538077
 - **Publicación original:** 2014-09-16
-- **Géneros:** Fiction, Contemporary, Literary Fiction, Novels, Book Club, Adult Fiction, Adult, Realistic Fiction, Dark, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Ficción adulta](/tags/ficcion-adulta/), [Adultos](/tags/adultos/), [Ficción realista](/tags/ficcion-realista/), [Oscuro](/tags/oscuro/), [Literatura](/tags/literatura/)
 - **Lugares:** Dallas, Texas (United States), Texas (United States)
 - **Premios ganados:** Texas Institute of Letters (2015)
 - **Nominaciones:** PEN/Robert W. Bingham Prize (2015)
@@ -45,4 +49,4 @@ From "5 Under 35" honoree and Rona Jaffe Award-winner comes an urgent, intensely
 
 - **Inicio:** 2017/02/21
 - **Fin:** 2017/03/04
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

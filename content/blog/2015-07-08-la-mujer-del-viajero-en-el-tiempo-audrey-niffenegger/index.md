@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Romance
-- Fantasy
-- Time Travel
-- Science Fiction
-- Book Club
+- Fantasía
+- Viaje en el tiempo
+- Ciencia ficción
+- Club de lectura
+- Contemporaneo
+- Adultos
+- Realismo mágico
+- Chick lit
 autores:
 - Audrey Niffenegger
+- Silvia Alemany
 editoriales:
 - DeBolsillo
 image:
@@ -29,14 +34,14 @@ Un hombre tiene la capacidad de viajar en el tiempo y revisita su historia de am
 
 ## Ficha del libro
 
-- **Autor:** Audrey Niffenegger
+- **Autor:** [Audrey Niffenegger](/autores/audrey-niffenegger/)
 - **Serie:** The Time Traveler's Wife (#1)
-- **Colaboradores:** Silvia Alemany (Translator)
+- **Colaboradores:** [Silvia Alemany](/autores/silvia-alemany/) (Translator)
 - **Editorial:** DeBolsillo
 - **Formato:** Paperback, 595 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2006-05-30
-- **Géneros:** Fiction, Romance, Fantasy, Time Travel, Science Fiction, Book Club, Contemporary, Adult, Magical Realism, Chick Lit
+- **Géneros:** [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Fantasía](/tags/fantasia/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Adultos](/tags/adultos/), [Realismo mágico](/tags/realismo-magico/), [Chick lit](/tags/chick-lit/)
 - **Personajes:** Henry DeTamble, Clare Abshire, Charisse (The Time Traveler's Wife), Richard DeTamble, Alicia Abshire, Mark Abshire, Philip Abshire, Lucille Abshire, Mrs. Kim, Alba DeTamble
 - **Lugares:** Chicago, Illinois (United States), Illinois (United States), The United States of America
 - **Premios ganados:** British Book Award (2006), Exclusive Books Boeke Prize (2005), ALA Alex Award (2004)
@@ -47,4 +52,4 @@ Un hombre tiene la capacidad de viajar en el tiempo y revisita su historia de am
 
 - **Inicio:** 2015/07/03
 - **Fin:** 2015/07/08
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

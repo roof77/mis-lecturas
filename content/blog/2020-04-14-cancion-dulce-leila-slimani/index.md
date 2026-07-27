@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Thriller
-- Mystery
-- France
-- Contemporary
-- Mystery Thriller
+- Misterio
+- Francia
+- Contemporaneo
+- Crimen
+- Club de lectura
+- Suspense
 autores:
 - Leïla Slimani
+- Malika Embarek López
 editoriales:
 - Cabaret Voltaire
 image:
@@ -33,14 +36,14 @@ Con un estilo directo, incisivo y tenebroso en ocasiones, Leila Slimani desplieg
 
 ## Ficha del libro
 
-- **Autor:** Leïla Slimani
-- **Colaboradores:** Malika Embarek López (Translator)
+- **Autor:** [Leïla Slimani](/autores/leila-slimani/)
+- **Colaboradores:** [Malika Embarek López](/autores/malika-embarek-lopez/) (Translator)
 - **Editorial:** Cabaret Voltaire
 - **Formato:** Paperback, 288 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494443488 / 9788494443480
 - **Publicación original:** 2017-03-01
-- **Géneros:** Fiction, Thriller, Mystery, France, Contemporary, Mystery Thriller, Crime, Book Club, Suspense, Audiobook
+- **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Francia](/tags/francia/), [Contemporaneo](/tags/contemporaneo/), [Crimen](/tags/crimen/), [Club de lectura](/tags/club-de-lectura/), [Suspense](/tags/suspense/)
 - **Lugares:** Paris (France), France
 - **Premios ganados:** Prix Goncourt (2016)
 - **Nominaciones:** Los Angeles Times Book Prize (2018), Edgar Award (2019), Prix du deuxième roman (2017), Europese Literatuurprijs (2018), Prix des prix littéraires (2016), Prix de l'Algue d'Or (2017)
@@ -50,4 +53,4 @@ Con un estilo directo, incisivo y tenebroso en ocasiones, Leila Slimani desplieg
 
 - **Inicio:** 2020/04/11
 - **Fin:** 2020/04/14
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Humor
 - Gay
-- LGBT
-- Comedy
+- LGTBIQ+
+- Comedia
 - Queer
+- Contemporaneo
+- Nueva York
+- Novela
 autores:
 - Joe Keenan
 editoriales:
@@ -33,14 +36,14 @@ Ambientada en el Nueva York de finales de los ochenta, La increíble boda de Gil
 
 ## Ficha del libro
 
-- **Autor:** Joe Keenan
+- **Autor:** [Joe Keenan](/autores/joe-keenan/)
 - **Serie:** Gilbert Selwyn and Friends (#1)
 - **Editorial:** Dos bigotes
 - **Formato:** Paperback, 376 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494517007 / 9788494517006
 - **Publicación original:** 2016-03-21
-- **Géneros:** Fiction, Humor, Gay, LGBT, Comedy, Queer, Gay Fiction, Contemporary, New York, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Gay](/tags/gay/), [LGTBIQ+](/tags/lgtbiq/), [Comedia](/tags/comedia/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Nueva York](/tags/nueva-york/), [Novela](/tags/novela/)
 - **Lugares:** New York City, New York (United States)
 - **Nominaciones:** Lambda Literary Award (1989)
 - **Ficha en Goodreads:** [La increíble boda de Gilbert y Moira](https://www.goodreads.com/book/show/30986988-la-incre-ble-boda-de-gilbert-y-moira)
@@ -49,4 +52,4 @@ Ambientada en el Nueva York de finales de los ochenta, La increíble boda de Gil
 
 - **Inicio:** 2017/02/02
 - **Fin:** 2017/02/10
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

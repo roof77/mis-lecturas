@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Young Adult
-- Audiobook
-- Fiction
-- Horror
+- Fantasía
+- Jovenes adultos
+- Ficción
+- Terror
 - Novella
+- LGTBIQ+
+- Queer
+- Vampiros
+- Fantasía urbana
 autores:
 - Seanan McGuire
+- María Pilar San Román
 editoriales:
 - Alianza
 image:
@@ -29,15 +33,15 @@ Las gemelas Jack y Jill tenían diecisiete años cuando las conocimos en "Cada c
 
 ## Ficha del libro
 
-- **Autor:** Seanan McGuire
+- **Autor:** [Seanan McGuire](/autores/seanan-mcguire/)
 - **Serie:** Wayward Children (#2)
-- **Colaboradores:** María Pilar San Román (Translator)
+- **Colaboradores:** [María Pilar San Román](/autores/maria-pilar-san-roman/) (Translator)
 - **Editorial:** Alianza
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 9788491813217
 - **Publicación original:** 2018-10-25
-- **Géneros:** Fantasy, Young Adult, Audiobook, Fiction, Horror, Novella, LGBT, Queer, Vampires, Urban Fantasy
+- **Géneros:** [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Novella](/tags/novella/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Vampiros](/tags/vampiros/), [Fantasía urbana](/tags/fantasia-urbana/)
 - **Premios ganados:** ALA Alex Award (2018), RUSA CODES Reading List (2018)
 - **Nominaciones:** Hugo Award (2018), Locus Award (2018), BookNest Award (2017)
 - **Ficha en Goodreads:** [Ahí abajo, entre raíces y huesos (Niños descarriados, #2)](https://www.goodreads.com/book/show/41731406-ah-abajo-entre-ra-ces-y-huesos)
@@ -46,4 +50,4 @@ Las gemelas Jack y Jill tenían diecisiete años cuando las conocimos en "Cada c
 
 - **Inicio:** 2018/11/05
 - **Fin:** 2018/11/06
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

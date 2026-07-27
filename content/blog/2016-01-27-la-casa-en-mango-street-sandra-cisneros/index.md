@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- Young Adult
-- School
-- Short Stories
-- Coming Of Age
+- Ficción
+- Clásico
+- Jovenes adultos
+- Colegio
+- Relatos
+- Coming of age
+- Contemporaneo
+- Poesía
+- Club de lectura
 autores:
 - Sandra Cisneros
 editoriales:
@@ -29,12 +32,12 @@ DISPONIBLE POR PRIMERA VEZ EN EBOOKElogiado por la crítica, admirado por lector
 
 ## Ficha del libro
 
-- **Autor:** Sandra Cisneros
+- **Autor:** [Sandra Cisneros](/autores/sandra-cisneros/)
 - **Editorial:** VINTAGE ESPAÑOL
 - **Formato:** Kindle Edition, 146 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2013-04-28
-- **Géneros:** Fiction, Classics, Young Adult, School, Short Stories, Coming Of Age, Contemporary, Poetry, Read For School, Book Club
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Jovenes adultos](/tags/jovenes-adultos/), [Colegio](/tags/colegio/), [Relatos](/tags/relatos/), [Coming of age](/tags/coming-of-age/), [Contemporaneo](/tags/contemporaneo/), [Poesía](/tags/poesia/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Esperanza, Nenny
 - **Lugares:** Chicago, Illinois (United States)
 - **Premios ganados:** American Book Award (1985), George C. Stone Center for Children's Books Recognition of Merit Award (1994)
@@ -44,4 +47,4 @@ DISPONIBLE POR PRIMERA VEZ EN EBOOKElogiado por la crítica, admirado por lector
 
 - **Inicio:** 2016/01/27
 - **Fin:** 2016/01/27
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

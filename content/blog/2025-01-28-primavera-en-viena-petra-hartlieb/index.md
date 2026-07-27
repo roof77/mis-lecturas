@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Romance
-- German Literature
-- Historical
+- Literatura alemana
+- Histórico
 autores:
 - Petra Hartlieb
+- María Esperanza Romero
 editoriales:
 - Siruela
 image:
@@ -29,19 +30,19 @@ Pero no todo en la vibrante capital austriaca se reduce a las tribulaciones de M
 
 ## Ficha del libro
 
-- **Autor:** Petra Hartlieb
+- **Autor:** [Petra Hartlieb](/autores/petra-hartlieb/)
 - **Serie:** Marie (#2)
-- **Colaboradores:** María Esperanza Romero (Translator)
+- **Colaboradores:** [María Esperanza Romero](/autores/maria-esperanza-romero/) (Translator)
 - **Editorial:** Siruela
 - **Formato:** Paperback, 184 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417624988 / 9788417624989
 - **Publicación original:** 2019-01-01
-- **Géneros:** Fiction, Romance, German Literature, Historical
+- **Géneros:** [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Literatura alemana](/tags/literatura-alemana/), [Histórico](/tags/historico/)
 - **Ficha en Goodreads:** [Primavera en Viena](https://www.goodreads.com/book/show/52762972-primavera-en-viena)
 
 ## Mi lectura
 
 - **Inicio:** 2025/01/26
 - **Fin:** 2025/01/28
-- **Mi valoración:** ★★★★☆ (4,25/5)
+- **Calificación:** ★★★★☆ (4,25/5)

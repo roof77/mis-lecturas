@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Thriller
-- Roman
-- German Literature
-- Crime
-- Contemporary
+- Literatura alemana
+- Crimen
+- Contemporaneo
+- Misterio
+- Clásico
+- Novela
 autores:
 - Martin Suter
 editoriales:
@@ -29,16 +31,16 @@ Jonas es un suizo de poco más de cuarenta años que trabaja como videorreporter
 
 ## Ficha del libro
 
-- **Autor:** Martin Suter
+- **Autor:** [Martin Suter](/autores/martin-suter/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Kindle Edition, 320 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2015-09-14
-- **Géneros:** Fiction, Thriller, Roman, German Literature, Crime, Contemporary, Audiobook, Mystery, Classics, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Literatura alemana](/tags/literatura-alemana/), [Crimen](/tags/crimen/), [Contemporaneo](/tags/contemporaneo/), [Misterio](/tags/misterio/), [Clásico](/tags/clasico/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Montecristo](https://www.goodreads.com/book/show/26807496-montecristo)
 
 ## Mi lectura
 
 - **Inicio:** 2016/02/23
 - **Fin:** 2016/02/25
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

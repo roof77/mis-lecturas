@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
+- Ficción
 - Thriller
-- Mystery
-- Espionage
-- Audiobook
-- Crime
+- Misterio
+- Espionaje
+- Crimen
+- Espías
+- Club de lectura
+- Literatura británica
 autores:
 - Mick Herron
 editoriales:
@@ -29,14 +31,14 @@ El reino del irreverente y sarcástico Jackson Lamb está en Londres y se llama 
 
 ## Ficha del libro
 
-- **Autor:** Mick Herron
+- **Autor:** [Mick Herron](/autores/mick-herron/)
 - **Serie:** Slough House (#1)
 - **Editorial:** Salamandra Black
 - **Formato:** Kindle Edition, 384 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841738426X / 9788417384265
 - **Publicación original:** 2018-09-06
-- **Géneros:** Fiction, Thriller, Mystery, Espionage, Audiobook, Crime, Mystery Thriller, Spy Thriller, Book Club, British Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Espionaje](/tags/espionaje/), [Crimen](/tags/crimen/), [Espías](/tags/espias/), [Club de lectura](/tags/club-de-lectura/), [Literatura británica](/tags/literatura-britanica/)
 - **Personajes:** Jackson Lamb, David Cartwright, James Webb., Min Harper, Nick Duffy, Jed Moody, Sidonie Baker, Hassan Gul, Ingrid Tearney, Robert Hobden
 - **Lugares:** London, England, England
 - **Ficha en Goodreads:** [Caballos lentos (Slough House, #1)](https://www.goodreads.com/book/show/41740970-caballos-lentos)
@@ -45,4 +47,4 @@ El reino del irreverente y sarcástico Jackson Lamb está en Londres y se llama 
 
 - **Inicio:** 2022/04/19
 - **Fin:** 2022/04/22
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

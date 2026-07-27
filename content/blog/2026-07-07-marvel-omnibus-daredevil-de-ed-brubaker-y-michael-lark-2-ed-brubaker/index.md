@@ -9,6 +9,7 @@ tags:
 - Lecturas
 autores:
 - Ed Brubaker
+- Michael Lark
 editoriales:
 - Panini España
 image:
@@ -23,8 +24,8 @@ El formidable equipo creativo formado por Ed Brubaker, el hombre que mató al Ca
 
 ## Ficha del libro
 
-- **Autor:** Ed Brubaker
-- **Colaboradores:** Michael Lark (Dibujo)
+- **Autor:** [Ed Brubaker](/autores/ed-brubaker/)
+- **Colaboradores:** [Michael Lark](/autores/michael-lark/) (Dibujo)
 - **Editorial:** Panini España
 - **Formato:** Hardcover, 496 páginas
 - **Idioma:** Spanish; Castilian
@@ -36,3 +37,4 @@ El formidable equipo creativo formado por Ed Brubaker, el hombre que mató al Ca
 
 - **Inicio:** 2026/07/06
 - **Fin:** 2026/07/07
+- **Calificación:** Muy recomendable/5

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
-- Fiction
-- Fantasy
+- Terror
+- Ficción
+- Fantasía
 - Thriller
-- Witches
+- Brujas
 - Paranormal
+- Sobrenatural
+- Misterio
+- Adultos
 autores:
 - Thomas Olde Heuvelt
+- Ana Isabel Sánchez Díez
 editoriales:
 - Nocturna
 image:
@@ -35,15 +39,15 @@ Nadie se imagina la siniestra pesadilla que entonces los aguarda.
 
 ## Ficha del libro
 
-- **Autor:** Thomas Olde Heuvelt
+- **Autor:** [Thomas Olde Heuvelt](/autores/thomas-olde-heuvelt/)
 - **Serie:** Robert Grim (#1)
-- **Colaboradores:** Ana Isabel Sánchez Díez (Translator)
+- **Colaboradores:** [Ana Isabel Sánchez Díez](/autores/ana-isabel-sanchez-diez/) (Translator)
 - **Editorial:** Nocturna
 - **Formato:** Paperback, 512 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417834524 / 9788417834524
 - **Publicación original:** 2020-01-20
-- **Géneros:** Horror, Fiction, Fantasy, Thriller, Witches, Paranormal, Supernatural, Audiobook, Mystery, Adult
+- **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Thriller](/tags/thriller/), [Brujas](/tags/brujas/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/)
 - **Personajes:** Steve Grant, Jocelyn Grant, Tyler Grant, Matt Grant, Robert Grim, Pete VanderMere, Colton Mathers, Griselda Holst, Jaydon Holst
 - **Lugares:** Black Springs (United States)
 - **Premios ganados:** RUSA CODES Reading List (2017)
@@ -54,4 +58,4 @@ Nadie se imagina la siniestra pesadilla que entonces los aguarda.
 
 - **Inicio:** 2021/07/15
 - **Fin:** 2021/07/24
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

@@ -7,14 +7,19 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Czech Literature
-- Classics
-- Literature
-- Novels
-- Books About Books
+- Ficción
+- Literatura checa
+- Clásico
+- Literatura
+- Novela
+- Libros sobre libros
+- Novella
+- Siglo XX
+- Ficción Literaria
+- Filosofía
 autores:
 - Bohumil Hrabal
+- Monika Zgustová
 editoriales:
 - Destino
 image:
@@ -31,14 +36,14 @@ En Una soledad demasiado ruidosa se entrecruzan reflexiones sobre el sentido de 
 
 ## Ficha del libro
 
-- **Autor:** Bohumil Hrabal
-- **Colaboradores:** Monika Zgustová (translator)
+- **Autor:** [Bohumil Hrabal](/autores/bohumil-hrabal/)
+- **Colaboradores:** [Monika Zgustová](/autores/monika-zgustova/) (translator)
 - **Editorial:** Destino
 - **Formato:** Paperback, 160 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8423318540 / 9788423318544
 - **Publicación original:** 1995-05-01
-- **Géneros:** Fiction, Czech Literature, Classics, Literature, Novels, Books About Books, Novella, 20th Century, Literary Fiction, Philosophy
+- **Géneros:** [Ficción](/tags/ficcion/), [Literatura checa](/tags/literatura-checa/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Libros sobre libros](/tags/libros-sobre-libros/), [Novella](/tags/novella/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Filosofía](/tags/filosofia/)
 - **Personajes:** Haňťa
 - **Lugares:** Prague (Praha) (Czech Republic)
 - **Premios ganados:** Premio Elba (1988)
@@ -48,4 +53,4 @@ En Una soledad demasiado ruidosa se entrecruzan reflexiones sobre el sentido de 
 
 - **Inicio:** 2016/05/16
 - **Fin:** 2016/05/17
-- **Mi valoración:** ★☆☆☆☆ (1/5)
+- **Calificación:** ★☆☆☆☆ (1/5)

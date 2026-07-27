@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
-- Young Adult
+- Novela gráfica
+- Jovenes adultos
 - Romance
-- Contemporary
+- Contemporaneo
 - Comics
-- LGBT
+- LGTBIQ+
+- Ficción
+- Halloween
+- Queer
 autores:
 - Rainbow Rowell
+- Faith Erin Hicks
 editoriales:
 - Alfaguara
 image:
@@ -29,14 +33,14 @@ Cada otoño, Deja y Josiah trabajan juntos en la Feria de la Calabaza más aluci
 
 ## Ficha del libro
 
-- **Autor:** Rainbow Rowell
-- **Colaboradores:** Faith Erin Hicks (Translator)
+- **Autor:** [Rainbow Rowell](/autores/rainbow-rowell/)
+- **Colaboradores:** [Faith Erin Hicks](/autores/faith-erin-hicks/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 224 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420453382 / 9788420453385
 - **Publicación original:** 2019-11-21
-- **Géneros:** Graphic Novels, Young Adult, Romance, Contemporary, Comics, LGBT, Fiction, Graphic Novels Comics, Halloween, Queer
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Halloween](/tags/halloween/), [Queer](/tags/queer/)
 - **Personajes:** Josiah, Deja
 - **Lugares:** Omaha, Nebraska (United States)
 - **Premios ganados:** Goodreads Choice Award (2019), VLA Graphic Novel Diversity Award (2019), Whippoorwill Award (2020)
@@ -47,4 +51,4 @@ Cada otoño, Deja y Josiah trabajan juntos en la Feria de la Calabaza más aluci
 
 - **Inicio:** 2021/09/16
 - **Fin:** 2021/09/16
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Graphic Novels
+- Novela gráfica
 - Comics
-- Horror
-- Vampires
-- Fiction
-- Fantasy
+- Terror
+- Vampiros
+- Ficción
+- Fantasía
+- Ficción histórica
+- Paranormal
 autores:
 - Scott Snyder
+- Stephen King
+- Rafael Albuquerque
 editoriales:
 - Vertigo
 image:
@@ -37,15 +41,15 @@ Collecting: American Vampire 1-5
 
 ## Ficha del libro
 
-- **Autor:** Scott Snyder
+- **Autor:** [Scott Snyder](/autores/scott-snyder/)
 - **Serie:** American Vampire (#1)
-- **Colaboradores:** Stephen  King (Author), Rafael Albuquerque (Illustrator)
+- **Colaboradores:** [Stephen King](/autores/stephen-king/) (Author), [Rafael Albuquerque](/autores/rafael-albuquerque/) (Illustrator)
 - **Editorial:** Vertigo
 - **Formato:** Hardcover, 192 páginas
 - **Idioma:** English
 - **ISBN:** 1401228305 / 9781401228309
 - **Publicación original:** 2010-10-05
-- **Géneros:** Graphic Novels, Comics, Horror, Vampires, Fiction, Fantasy, Graphic Novels Comics, Historical Fiction, Comic Book, Paranormal
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Terror](/tags/terror/), [Vampiros](/tags/vampiros/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ficción histórica](/tags/ficcion-historica/), [Paranormal](/tags/paranormal/)
 - **Nominaciones:** Goodreads Choice Award (2010)
 - **Ficha en Goodreads:** [American Vampire, Vol. 1](https://www.goodreads.com/book/show/7619398-american-vampire-vol-1)
 
@@ -53,4 +57,4 @@ Collecting: American Vampire 1-5
 
 - **Inicio:** 2025/01/19
 - **Fin:** 2025/01/19
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

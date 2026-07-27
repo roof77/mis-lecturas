@@ -8,11 +8,13 @@ authors:
 tags:
 - Lecturas
 - Thriller
-- Crime
-- Mystery
-- Fiction
-- Spanish Literature
-- Spain
+- Crimen
+- Misterio
+- Ficción
+- Literatura hispana
+- España
+- Suspense
+- Fantasía
 autores:
 - Dolores Redondo
 editoriales:
@@ -34,14 +36,14 @@ Trepidante y estremecedora, la trama se acelera hacia una resolución sorprenden
 
 ## Ficha del libro
 
-- **Autor:** Dolores Redondo
+- **Autor:** [Dolores Redondo](/autores/dolores-redondo/)
 - **Serie:** Trilogía del Baztán (#3)
 - **Editorial:** Destino
 - **Formato:** Paperback, 544 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8423348687 / 9788423348688
 - **Publicación original:** 2014-11-25
-- **Géneros:** Thriller, Crime, Mystery, Fiction, Spanish Literature, Spain, Suspense, Audiobook, Fantasy, Mystery Thriller
+- **Géneros:** [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Suspense](/tags/suspense/), [Fantasía](/tags/fantasia/)
 - **Personajes:** Amaia Salazar
 - **Nominaciones:** CWA International Dagger (2018)
 - **Ficha en Goodreads:** [Ofrenda a la tormenta (Trilogía del Baztán, #3)](https://www.goodreads.com/book/show/23002631-ofrenda-a-la-tormenta)
@@ -50,4 +52,4 @@ Trepidante y estremecedora, la trama se acelera hacia una resolución sorprenden
 
 - **Inicio:** 2015/12/22
 - **Fin:** 2015/12/30
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

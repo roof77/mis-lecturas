@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Japan
-- Japanese Literature
-- Contemporary
+- Ficción
+- Japón
+- Literatura japanesa
+- Contemporaneo
 - Thriller
-- Literary Fiction
+- Ficción Literaria
+- Ásia
+- Misterio
+- Literatura asiática
 autores:
 - Natsuko Imamura
+- Juan Francisco González Sánchez
 editoriales:
 - Duomo
 image:
@@ -39,14 +43,14 @@ EL MÁS IMPORTANTE EN JAPÓN
 
 ## Ficha del libro
 
-- **Autor:** Natsuko Imamura
-- **Colaboradores:** Juan Francisco González Sánchez (Translator)
+- **Autor:** [Natsuko Imamura](/autores/natsuko-imamura/)
+- **Colaboradores:** [Juan Francisco González Sánchez](/autores/juan-francisco-gonzalez-sanchez/) (Translator)
 - **Editorial:** Duomo
 - **Formato:** Paperback, 192 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417761721 / 9788417761721
 - **Publicación original:** 2020-08-31
-- **Géneros:** Fiction, Japan, Japanese Literature, Contemporary, Thriller, Literary Fiction, Asia, Audiobook, Mystery, Asian Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/), [Thriller](/tags/thriller/), [Ficción Literaria](/tags/ficcion-literaria/), [Ásia](/tags/asia/), [Misterio](/tags/misterio/), [Literatura asiática](/tags/literatura-asiatica/)
 - **Lugares:** Japan
 - **Premios ganados:** Akutagawa Prize 芥川龍之介賞 (2019)
 - **Ficha en Goodreads:** [La mujer de la falda violeta](https://www.goodreads.com/book/show/54622627-la-mujer-de-la-falda-violeta)
@@ -55,4 +59,4 @@ EL MÁS IMPORTANTE EN JAPÓN
 
 - **Inicio:** 2021/12/29
 - **Fin:** 2021/12/30
-- **Mi valoración:** ★★☆☆☆ (2,5/5)
+- **Calificación:** ★★☆☆☆ (2,5/5)

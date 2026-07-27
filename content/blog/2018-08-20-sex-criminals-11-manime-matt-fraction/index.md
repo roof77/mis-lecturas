@@ -8,10 +8,9 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fantasy
-- Graphic Novels Comics
-- Fiction
+- Novela gráfica
+- Fantasía
+- Ficción
 autores:
 - Matt Fraction
 editoriales:
@@ -28,17 +27,17 @@ NEW STORY! NEW ARC! SAME OLD MATT AND CHIP. Jon and Suzie have a gift: when they
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals (Single Issues)
 - **Editorial:** Image Comics
 - **Formato:** Unknown Binding, 22 páginas
 - **Idioma:** English
 - **Publicación original:** 2015-07-29
-- **Géneros:** Comics, Graphic Novels, Fantasy, Graphic Novels Comics, Fiction
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Sex Criminals #11: Manime](https://www.goodreads.com/book/show/25604437-sex-criminals-11)
 
 ## Mi lectura
 
 - **Inicio:** 2018/08/20
 - **Fin:** 2018/08/20
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

@@ -10,10 +10,10 @@ tags:
 - Manga
 - Comics
 - Drama
-- Historical Fiction
-- Bande Dessinée
+- Ficción histórica
 autores:
 - Kazuo Koike
+- Kazuo Kamimura
 editoriales:
 - Planeta Cómic
 image:
@@ -28,19 +28,19 @@ Osayo era una mujer que lo perdió todo a manos de cuatro indeseables, que asesi
 
 ## Ficha del libro
 
-- **Autor:** Kazuo Koike
+- **Autor:** [Kazuo Koike](/autores/kazuo-koike/)
 - **Serie:** 修羅雪姫 [Shura Yukihime] (#1)
-- **Colaboradores:** Kazuo Kamimura (illustrator)
+- **Colaboradores:** [Kazuo Kamimura](/autores/kazuo-kamimura/) (illustrator)
 - **Editorial:** Planeta Cómic
 - **Formato:** Hardcover, 512 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8411123790 / 9788411123792
 - **Publicación original:** 2023-05-24
-- **Géneros:** Manga, Comics, Drama, Historical Fiction, Bande Dessinée
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Drama](/tags/drama/), [Ficción histórica](/tags/ficcion-historica/)
 - **Ficha en Goodreads:** [Lady Snowblood, vol. 1](https://www.goodreads.com/book/show/120802099-lady-snowblood-vol-1)
 
 ## Mi lectura
 
 - **Inicio:** 2025/04/06
 - **Fin:** 2025/04/07
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

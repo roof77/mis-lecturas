@@ -7,11 +7,24 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Horror
-- Short Stories
+- Ciencia ficción
+- Terror
+- Relatos
 autores:
 - Miriam Iriarte
+- Alicia Sánchez
+- Laura Replinger
+- Raquel G. Álvarez-Calderón
+- Chús Álvarez
+- Gisela Baños
+- Mar Vieites
+- Arantxa Comes
+- Viviana Rodil
+- Coral Carracedo
+- Patricia Janikowski
+- Caryanna Reuven
+- Elia Barceló
+- Eva Vázquez
 editoriales:
 - Triskel Ediciones
 image:
@@ -32,19 +45,19 @@ El Premio Ripley de ciencia ficción y terror para escritoras es una iniciativa 
 
 ## Ficha del libro
 
-- **Autor:** Miriam Iriarte
+- **Autor:** [Miriam Iriarte](/autores/miriam-iriarte/)
 - **Serie:** Premio Ripley (#1)
-- **Colaboradores:** Alicia Sánchez (Author), Laura Replinger (Author), Raquel G. Álvarez-Calderón (Author), Chús Álvarez (Author), Gisela Baños (Author), Mar Vieites (Author), Arantxa Comes (Author), Viviana Rodil (Author), Coral Carracedo (Author), Patricia Janikowski (Author), Caryanna Reuven (Irantzu Tato), Elia Barceló (Foreword), Eva Vázquez (Illustrator)
+- **Colaboradores:** [Alicia Sánchez](/autores/alicia-sanchez/) (Author), [Laura Replinger](/autores/laura-replinger/) (Author), [Raquel G. Álvarez-Calderón](/autores/raquel-g-alvarez-calderon/) (Author), [Chús Álvarez](/autores/chus-alvarez/) (Author), [Gisela Baños](/autores/gisela-banos/) (Author), [Mar Vieites](/autores/mar-vieites/) (Author), [Arantxa Comes](/autores/arantxa-comes/) (Author), [Viviana Rodil](/autores/viviana-rodil/) (Author), [Coral Carracedo](/autores/coral-carracedo/) (Author), [Patricia Janikowski](/autores/patricia-janikowski/) (Author), [Caryanna Reuven](/autores/caryanna-reuven/) (Irantzu Tato), [Elia Barceló](/autores/elia-barcelo/) (Foreword), [Eva Vázquez](/autores/eva-vazquez/) (Illustrator)
 - **Editorial:** Triskel Ediciones
 - **Formato:** Paperback, 228 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494714147 / 9788494714146
 - **Publicación original:** 2017-10-01
-- **Géneros:** Science Fiction, Horror, Short Stories
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Terror](/tags/terror/), [Relatos](/tags/relatos/)
 - **Ficha en Goodreads:** [I Premio Ripley: Relatos de ciencia ficción y terror](https://www.goodreads.com/book/show/36387329-i-premio-ripley)
 
 ## Mi lectura
 
 - **Inicio:** 2017/12/29
 - **Fin:** 2018/01/03
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

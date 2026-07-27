@@ -8,11 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Graphic Novels
-- Fiction
-- Fantasy
-- Graphic Novels Comics
+- Novela gráfica
+- Ficción
+- Fantasía
 - Humor
+- Romance
+- Ciencia ficción
+- Comedia
 autores:
 - Matt Fraction
 editoriales:
@@ -29,16 +31,17 @@ Suzie and Jon have that special something—when they have sex, they freeze time
 
 ## Ficha del libro
 
-- **Autor:** Matt Fraction
+- **Autor:** [Matt Fraction](/autores/matt-fraction/)
 - **Serie:** Sex Criminals
 - **Editorial:** Astiberr
 - **Formato:** Hardcover, 128 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2020-07-01
-- **Géneros:** Comics, Graphic Novels, Fiction, Fantasy, Graphic Novels Comics, Humor, Comic Book, Romance, Science Fiction, Comedy
+- **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Humor](/tags/humor/), [Romance](/tags/romance/), [Ciencia ficción](/tags/ciencia-ficcion/), [Comedia](/tags/comedia/)
 - **Ficha en Goodreads:** [Sex Criminals, Volumen Cinco: Con el cinco te la hinco](https://www.goodreads.com/book/show/54496841-sex-criminals-volumen-cinco)
 
 ## Mi lectura
 
 - **Inicio:** 2026/06/24
 - **Fin:** 2026/06/24
+- **Calificación:** Muy bien/5

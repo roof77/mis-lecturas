@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Horror
+- Terror
 autores:
 - David Jasso
 editoriales:
@@ -26,17 +26,17 @@ En una de estas, Daniel está escribiendo su futuro éxito y le pide a su mujer 
 
 ## Ficha del libro
 
-- **Autor:** David Jasso
+- **Autor:** [David Jasso](/autores/david-jasso/)
 - **Editorial:** Equipo Sirius
 - **Formato:** Paperback, 210 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8496554074 / 9788496554078
 - **Publicación original:** 2006-03-30
-- **Géneros:** Horror
+- **Géneros:** [Terror](/tags/terror/)
 - **Ficha en Goodreads:** [La silla](https://www.goodreads.com/book/show/9547513-la-silla)
 
 ## Mi lectura
 
 - **Inicio:** 2015/05/26
 - **Fin:** 2015/05/28
-- **Mi valoración:** ★★☆☆☆ (2/5)
+- **Calificación:** ★★☆☆☆ (2/5)

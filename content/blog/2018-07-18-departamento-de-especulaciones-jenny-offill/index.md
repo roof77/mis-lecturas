@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Literary Fiction
-- Contemporary
-- Book Club
-- Novels
-- Audiobook
+- Ficción
+- Ficción Literaria
+- Contemporaneo
+- Club de lectura
+- Novela
+- Romance
+- Matrimonio
+- Ficción adulta
+- Literatura
 autores:
 - Jenny Offill
+- Eduardo Jordá
 editoriales:
 - Libros del Asteroide
 image:
@@ -29,14 +33,14 @@ Cuando se conocieron eran jóvenes y estaban llenos de esperanza. Aunque ambos v
 
 ## Ficha del libro
 
-- **Autor:** Jenny Offill
-- **Colaboradores:** Eduardo Jordá (Translator)
+- **Autor:** [Jenny Offill](/autores/jenny-offill/)
+- **Colaboradores:** [Eduardo Jordá](/autores/eduardo-jorda/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 172 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841621364X / 9788416213641
 - **Publicación original:** 2016-02-29
-- **Géneros:** Fiction, Literary Fiction, Contemporary, Book Club, Novels, Audiobook, Romance, Marriage, Adult Fiction, Literature
+- **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Romance](/tags/romance/), [Matrimonio](/tags/matrimonio/), [Ficción adulta](/tags/ficcion-adulta/), [Literatura](/tags/literatura/)
 - **Lugares:** Brooklyn, New York City, New York (United States), Pennsylvania (United States)
 - **Nominaciones:** PEN/Faulkner Award for Fiction (2015), Los Angeles Times Book Prize (2014), Writers' Prize (2015), Dublin Literary Award (2016)
 - **Ficha en Goodreads:** [Departamento de especulaciones](https://www.goodreads.com/book/show/28503741-departamento-de-especulaciones)
@@ -45,4 +49,4 @@ Cuando se conocieron eran jóvenes y estaban llenos de esperanza. Aunque ambos v
 
 - **Inicio:** 2018/07/16
 - **Fin:** 2018/07/18
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

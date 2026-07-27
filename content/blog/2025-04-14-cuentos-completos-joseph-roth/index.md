@@ -23,7 +23,7 @@ En apenas dos décadas, Joseph Roth (1894-1939), uno de los escritores en lengua
 
 ## Ficha del libro
 
-- **Autor:** Joseph Roth
+- **Autor:** [Joseph Roth](/autores/joseph-roth/)
 - **Editorial:** Páginas de Espuma
 - **Formato:** Hardcover, 384 páginas
 - **Idioma:** Spanish; Castilian
@@ -35,4 +35,4 @@ En apenas dos décadas, Joseph Roth (1894-1939), uno de los escritores en lengua
 
 - **Inicio:** 2025/03/30
 - **Fin:** 2025/04/14
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

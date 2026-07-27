@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Crime
-- Fiction
+- Crimen
+- Ficción
 - Thriller
 - Noir
-- Mystery
-- Novels
+- Misterio
+- Novela
+- Clásico
+- Acción
+- Películas
 autores:
 - Ted Lewis
+- Damià Alou
 editoriales:
 - Sajalin
 image:
@@ -31,15 +35,15 @@ Ambientada en una gris y opresiva ciudad siderúrgica del norte de Inglaterra a 
 
 ## Ficha del libro
 
-- **Autor:** Ted Lewis
+- **Autor:** [Ted Lewis](/autores/ted-lewis/)
 - **Serie:** Jack Carter (#1)
-- **Colaboradores:** Damià Alou (Traducción)
+- **Colaboradores:** [Damià Alou](/autores/damia-alou/) (Traducción)
 - **Editorial:** Sajalin
 - **Formato:** Paperback, 269 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494680900 / 9788494680908
 - **Publicación original:** 2017-05-01
-- **Géneros:** Crime, Fiction, Thriller, Noir, Mystery, Novels, Mystery Thriller, Classics, Action, Film
+- **Géneros:** [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Noir](/tags/noir/), [Misterio](/tags/misterio/), [Novela](/tags/novela/), [Clásico](/tags/clasico/), [Acción](/tags/accion/), [Películas](/tags/peliculas/)
 - **Lugares:** Scunthrope, North Lincolnshire, England (United Kingdom)
 - **Ficha en Goodreads:** [Carter](https://www.goodreads.com/book/show/35102269-carter)
 
@@ -47,4 +51,4 @@ Ambientada en una gris y opresiva ciudad siderúrgica del norte de Inglaterra a 
 
 - **Inicio:** 2017/12/27
 - **Fin:** 2017/12/28
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

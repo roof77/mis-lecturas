@@ -7,12 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Science Fiction
-- Horror
+- Ciencia ficción
+- Terror
 - Humor
-- Fiction
-- Audiobook
+- Ficción
 - Novella
+- Espacio
+- Adultos
+- Comedia
 autores:
 - Grady Hendrix
 editoriales:
@@ -33,17 +35,17 @@ Borracho de vodka y viviendo en una «granja» donde la única cosecha son coche
 
 ## Ficha del libro
 
-- **Autor:** Grady Hendrix
+- **Autor:** [Grady Hendrix](/autores/grady-hendrix/)
 - **Editorial:** Minotauro
 - **Formato:** Kindle Edition, 163 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8445020641 / 9788445020647
 - **Publicación original:** 2025-04-30
-- **Géneros:** Science Fiction, Horror, Humor, Fiction, Audiobook, Novella, Space, Adult, Comedy, Ebooks
+- **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Terror](/tags/terror/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Espacio](/tags/espacio/), [Adultos](/tags/adultos/), [Comedia](/tags/comedia/)
 - **Ficha en Goodreads:** [Badasstronauts: Paletos espaciales](https://www.goodreads.com/book/show/231481248-badasstronauts)
 
 ## Mi lectura
 
 - **Inicio:** 2025/05/18
 - **Fin:** 2025/05/21
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

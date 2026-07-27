@@ -25,7 +25,7 @@ Contiene Spider-Gwen v2, 9-15 y Annual 1 USA
 
 ## Ficha del libro
 
-- **Autor:** Jason Latour
+- **Autor:** [Jason Latour](/autores/jason-latour/)
 - **Serie:** Colección 100%: Spider-Gwen
 - **Editorial:** Panini Comics España
 - **Formato:** Paperback, 160 páginas
@@ -38,3 +38,4 @@ Contiene Spider-Gwen v2, 9-15 y Annual 1 USA
 
 - **Inicio:** 2026/07/08
 - **Fin:** 2026/07/08
+- **Calificación:** Pasable/5

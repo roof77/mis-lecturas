@@ -7,7 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
+- No Ficción
 autores:
 - David Cabrera
 editoriales:
@@ -28,17 +28,17 @@ La Sombra es una reflexión sobre la culpabilidad, el castigo y las trampas de l
 
 ## Ficha del libro
 
-- **Autor:** David Cabrera
+- **Autor:** [David Cabrera](/autores/david-cabrera/)
 - **Editorial:** Libros del K.O.
 - **Formato:** Paperback, 256 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419119148 / 9788419119148
 - **Publicación original:** 2022-06-13
-- **Géneros:** Nonfiction
+- **Géneros:** [No Ficción](/tags/no-ficcion/)
 - **Ficha en Goodreads:** [La Sombra](https://www.goodreads.com/book/show/61254837-la-sombra)
 
 ## Mi lectura
 
 - **Inicio:** 2024/03/06
 - **Fin:** 2024/03/13
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

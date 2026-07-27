@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Contemporary
+- Ficción
+- Contemporaneo
 - Romance
-- Literary Fiction
-- Audiobook
-- LGBT
+- Ficción Literaria
+- LGTBIQ+
+- Club de lectura
+- Queer
+- Irlanda
+- Novela
 autores:
 - Sally Rooney
+- Ana García Casadesús
 editoriales:
 - Literatura Random House
 image:
@@ -37,13 +41,13 @@ Mientras sus personajes descubren el poder que tienen sobre los otros, Rooney ar
 
 ## Ficha del libro
 
-- **Autor:** Sally Rooney
-- **Colaboradores:** Ana García Casadesús (Translator)
+- **Autor:** [Sally Rooney](/autores/sally-rooney/)
+- **Colaboradores:** [Ana García Casadesús](/autores/ana-garcia-casadesus/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 336 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2018-06-01
-- **Géneros:** Fiction, Contemporary, Romance, Literary Fiction, Audiobook, LGBT, Book Club, Queer, Ireland, Novels
+- **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/), [Ficción Literaria](/tags/ficcion-literaria/), [LGTBIQ+](/tags/lgtbiq/), [Club de lectura](/tags/club-de-lectura/), [Queer](/tags/queer/), [Irlanda](/tags/irlanda/), [Novela](/tags/novela/)
 - **Personajes:** Frances, Bobbi Connolly, Nick Conway
 - **Lugares:** Dublin (Ireland), Ireland, France
 - **Premios ganados:** Sunday Times Charlotte Aitken Young Writer of the Year Award (2017)
@@ -54,4 +58,4 @@ Mientras sus personajes descubren el poder que tienen sobre los otros, Rooney ar
 
 - **Inicio:** 2019/03/25
 - **Fin:** 2019/03/31
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

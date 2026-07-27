@@ -7,12 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fantasy
-- Fiction
-- Magic
-- Urban Fantasy
-- Audiobook
-- Young Adult
+- Fantasía
+- Ficción
+- Mágia
+- Fantasía urbana
+- Jovenes adultos
+- Adultos
+- Ciencia Ficción
+- Club de lectura
+- Dark Academia
 autores:
 - Lev Grossman
 editoriales:
@@ -31,14 +34,14 @@ Psicológicamente penetrante y extraordinariamente absorbente. Los magos transit
 
 ## Ficha del libro
 
-- **Autor:** Lev Grossman
+- **Autor:** [Lev Grossman](/autores/lev-grossman/)
 - **Serie:** The Magicians (#1)
 - **Editorial:** B de Bolsillo (Ediciones B)
 - **Formato:** Mass Market Paperback, 496 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8498724007 / 9788498724004
 - **Publicación original:** 2010-09-08
-- **Géneros:** Fantasy, Fiction, Magic, Urban Fantasy, Audiobook, Young Adult, Adult, Science Fiction Fantasy, Book Club, Dark Academia
+- **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Mágia](/tags/magia/), [Fantasía urbana](/tags/fantasia-urbana/), [Jovenes adultos](/tags/jovenes-adultos/), [Adultos](/tags/adultos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Dark Academia](/tags/dark-academia/)
 - **Personajes:** Quentin Coldwater, Martin Chatwin, Jane Chatwin, Alice Quinn, Eliot Waugh, Janet Pluchinsky, Josh Hoberman, Julia Wicker, Penny (William), James (The Magicians)
 - **Lugares:** New York (State) (United States), Brakebills College for Magical Pedagogy (United States), Brooklyn, New York City, New York (United States), Antarctica
 - **Premios ganados:** ALA Alex Award (2010)
@@ -49,4 +52,4 @@ Psicológicamente penetrante y extraordinariamente absorbente. Los magos transit
 
 - **Inicio:** 2016/01/31
 - **Fin:** 2016/02/03
-- **Mi valoración:** ★★★☆☆ (3/5)
+- **Calificación:** ★★★☆☆ (3/5)

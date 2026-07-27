@@ -7,14 +7,17 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- Memoir
+- No Ficción
+- Memorias
 - Humor
-- Essays
-- Audiobook
-- Biography
+- Ensayo
+- Biografía
+- Club de lectura
+- Autobiografía
+- Comedia
 autores:
 - Nora Ephron
+- Catalina Martínez Muñoz
 editoriales:
 - Libros del Asteroide
 image:
@@ -35,18 +38,18 @@ A partir de cualquier anécdota, la autora es capaz de trazar unas brillantes ob
 
 ## Ficha del libro
 
-- **Autor:** Nora Ephron
-- **Colaboradores:** Catalina Martínez Muñoz (Translator)
+- **Autor:** [Nora Ephron](/autores/nora-ephron/)
+- **Colaboradores:** [Catalina Martínez Muñoz](/autores/catalina-martinez-munoz/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8419089052 / 9788419089052
 - **Publicación original:** 2022-06-06
-- **Géneros:** Nonfiction, Memoir, Humor, Essays, Audiobook, Biography, Biography Memoir, Book Club, Autobiography, Comedy
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Humor](/tags/humor/), [Ensayo](/tags/ensayo/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Autobiografía](/tags/autobiografia/), [Comedia](/tags/comedia/)
 - **Ficha en Goodreads:** [No me acuerdo de nada](https://www.goodreads.com/book/show/59747182-no-me-acuerdo-de-nada)
 
 ## Mi lectura
 
 - **Inicio:** 2022/06/29
 - **Fin:** 2022/07/01
-- **Mi valoración:** ★★★★★ (5/5)
+- **Calificación:** ★★★★★ (5/5)

@@ -7,14 +7,18 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Fiction
-- Classics
-- German Literature
-- Novels
-- 20th Century
-- Literature
+- Ficción
+- Clásico
+- Literatura alemana
+- Novela
+- Siglo XX
+- Literatura
+- Ficción histórica
+- Alemania
+- Ficción Literaria
 autores:
 - Joseph Roth
+- Feliu Formosa
 editoriales:
 - Acantilado
 image:
@@ -29,14 +33,14 @@ Un joven judío vienés, prisionero durante tres años, vuelve a casa una vez li
 
 ## Ficha del libro
 
-- **Autor:** Joseph Roth
-- **Colaboradores:** Feliu Formosa (Translator)
+- **Autor:** [Joseph Roth](/autores/joseph-roth/)
+- **Colaboradores:** [Feliu Formosa](/autores/feliu-formosa/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 176 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8496136493 / 9788496136496
 - **Publicación original:** 2004-06-03
-- **Géneros:** Fiction, Classics, German Literature, Novels, 20th Century, Literature, Historical Fiction, Germany, Roman, Literary Fiction
+- **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura alemana](/tags/literatura-alemana/), [Novela](/tags/novela/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/), [Ficción histórica](/tags/ficcion-historica/), [Alemania](/tags/alemania/), [Ficción Literaria](/tags/ficcion-literaria/)
 - **Lugares:** Poland
 - **Ficha en Goodreads:** [Hotel Savoy](https://www.goodreads.com/book/show/12497034-hotel-savoy)
 
@@ -44,4 +48,4 @@ Un joven judío vienés, prisionero durante tres años, vuelve a casa una vez li
 
 - **Inicio:** 2014/06/30
 - **Fin:** 2014/07/01
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)

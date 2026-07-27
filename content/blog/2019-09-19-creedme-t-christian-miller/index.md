@@ -7,14 +7,20 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Nonfiction
-- True Crime
-- Feminism
-- Crime
-- Audiobook
-- Adult
+- No Ficción
+- Crime real
+- Feminismo
+- Crimen
+- Adultos
+- Justicia social
+- Misterio
+- Sociología
+- Periodismo
 autores:
 - T. Christian Miller
+- Ken Armstrong
+- Miguel Ros González
+- Patricia Simón
 editoriales:
 - Libros del K.O.
 image:
@@ -31,14 +37,14 @@ Una investigación sobre varios casos de violación en Estados Unidos que muestr
 
 ## Ficha del libro
 
-- **Autor:** T. Christian Miller
-- **Colaboradores:** Ken Armstrong (Author), Miguel Ros González (Translator), Patricia Simón (Contributor)
+- **Autor:** [T. Christian Miller](/autores/t-christian-miller/)
+- **Colaboradores:** [Ken Armstrong](/autores/ken-armstrong/) (Author), [Miguel Ros González](/autores/miguel-ros-gonzalez/) (Translator), [Patricia Simón](/autores/patricia-simon/) (Contributor)
 - **Editorial:** Libros del K.O.
 - **Formato:** Kindle Edition, 344 páginas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417678174 / 9788417678173
 - **Publicación original:** 2019-06-06
-- **Géneros:** Nonfiction, True Crime, Feminism, Crime, Audiobook, Adult, Social Justice, Mystery, Sociology, Journalism
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Crime real](/tags/crime-real/), [Feminismo](/tags/feminismo/), [Crimen](/tags/crimen/), [Adultos](/tags/adultos/), [Justicia social](/tags/justicia-social/), [Misterio](/tags/misterio/), [Sociología](/tags/sociologia/), [Periodismo](/tags/periodismo/)
 - **Nominaciones:** Washington State Book Award (2019), ALCS Dagger for Non-fiction (2018)
 - **Ficha en Goodreads:** [Creedme](https://www.goodreads.com/book/show/51817538-creedme)
 
@@ -46,4 +52,4 @@ Una investigación sobre varios casos de violación en Estados Unidos que muestr
 
 - **Inicio:** 2019/09/11
 - **Fin:** 2019/09/19
-- **Mi valoración:** ★★★★☆ (4/5)
+- **Calificación:** ★★★★☆ (4/5)
