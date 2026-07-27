@@ -16,6 +16,7 @@ tags:
 - Comics
 - Ficción
 - Gay
+toc: false
 autores:
 - Alice Oseman
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51064313-heartstopper-tomo-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

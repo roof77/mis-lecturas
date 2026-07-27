@@ -16,6 +16,7 @@ tags:
 - Siglo XX
 - Ficción Literaria
 - Novela
+toc: false
 autores:
 - Dorothy Baker
 - Ismael Attrache
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18663334-el-chico-de-la-trompeta)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

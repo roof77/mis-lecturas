@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - Comedia
 - Ciencia Ficción
+toc: false
 autores:
 - William Goldman
 - Celia Filipetto Isicato
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6745890-la-princesa-prometida)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Club de lectura
 - Literatura hispana
 - Latino américa
+toc: false
 autores:
 - Dahlia de la Cerda
 - Rebeca Martínez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61932609-perras-de-reserva)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

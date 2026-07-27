@@ -17,6 +17,7 @@ tags:
 - Cartografía
 - Naturaleza
 - Literatura alemana
+toc: false
 autores:
 - Judith Schalansky
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18909379-atlas-de-islas-remotas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

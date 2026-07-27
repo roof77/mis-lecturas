@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Literatura
 - Adultos
+toc: false
 autores:
 - Erlend Loe
 - Øyvind Fossam
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43885426-doppler)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

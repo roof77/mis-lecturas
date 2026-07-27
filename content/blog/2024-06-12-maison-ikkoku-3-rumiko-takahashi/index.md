@@ -15,6 +15,7 @@ tags:
 - Slice of life
 - Humor
 - Seinen manga
+toc: false
 autores:
 - Rumiko Takahashi
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345406.Maison_Ikkoku_3)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

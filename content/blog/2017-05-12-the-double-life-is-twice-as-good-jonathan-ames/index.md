@@ -14,6 +14,7 @@ tags:
 - Colecciones
 - Memorias
 - Periodismo
+toc: false
 autores:
 - Jonathan Ames
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6224991-the-double-life-is-twice-as-good)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

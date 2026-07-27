@@ -17,6 +17,7 @@ tags:
 - Crimen
 - Gótico
 - Literatura
+toc: false
 autores:
 - Rohan O'Grady
 - Raquel Vicedo
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23483122-matemos-al-t-o)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

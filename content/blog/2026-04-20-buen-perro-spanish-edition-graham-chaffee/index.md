@@ -14,6 +14,7 @@ tags:
 - Ficción
 - Adultos
 - Fantasía
+toc: false
 autores:
 - Graham Chaffee
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/71574171-buen-perro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

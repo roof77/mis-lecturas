@@ -12,6 +12,7 @@ tags:
 - Ficción
 - Clásico
 - Thriller
+toc: false
 autores:
 - Shirley Jackson
 - Paula Kuffer
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28160703-cuentos-escogidos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

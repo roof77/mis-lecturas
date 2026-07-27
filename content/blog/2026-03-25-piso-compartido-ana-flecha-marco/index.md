@@ -10,6 +10,7 @@ tags:
 - Ficción
 - Literatura hispana
 - Feminismo
+toc: false
 autores:
 - Ana Flecha Marco
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57818147-piso-compartido)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

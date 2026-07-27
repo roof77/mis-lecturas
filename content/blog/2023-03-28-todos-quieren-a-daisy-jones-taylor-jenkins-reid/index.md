@@ -16,6 +16,7 @@ tags:
 - Histórico
 - Adultos
 - Ficción adulta
+toc: false
 autores:
 - Taylor Jenkins Reid
 - Lucía Barahona
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/48995695-todos-quieren-a-daisy-jones)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

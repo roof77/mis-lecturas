@@ -15,6 +15,7 @@ tags:
 - Arte
 - Libros sobre libros
 - Tiras
+toc: false
 autores:
 - Tom Gauld
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25320981-todo-el-mundo-tiene-envidia-de-mi-mochila-voladora)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Adultos
 - Crimen
 - Gótico
+toc: false
 autores:
 - Catriona Ward
 - Cristina Macía
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58433415-la-casa-al-final-de-needless-street)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

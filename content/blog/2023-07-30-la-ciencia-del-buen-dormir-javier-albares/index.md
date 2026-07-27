@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Salud
 - No Ficción
+toc: false
 autores:
 - Javier Albares
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/124199888-la-ciencia-del-buen-dormir)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

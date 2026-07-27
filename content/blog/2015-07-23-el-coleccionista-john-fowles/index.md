@@ -16,6 +16,7 @@ tags:
 - Novela
 - Contemporaneo
 - Literatura
+toc: false
 autores:
 - John Fowles
 - Susana Ónega
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9812822-el-coleccionista)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

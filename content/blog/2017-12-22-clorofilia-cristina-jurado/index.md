@@ -11,6 +11,7 @@ tags:
 - Literatura hispana
 - Terror
 - Medio Ambiente
+toc: false
 autores:
 - Cristina Jurado
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34599969-clorofilia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

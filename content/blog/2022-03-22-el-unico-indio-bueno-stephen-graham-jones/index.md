@@ -16,6 +16,7 @@ tags:
 - Misterio
 - Club de lectura
 - Paranormal
+toc: false
 autores:
 - Stephen Graham Jones
 - Rafael Martín Coronel
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59454433-el-nico-indio-bueno)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

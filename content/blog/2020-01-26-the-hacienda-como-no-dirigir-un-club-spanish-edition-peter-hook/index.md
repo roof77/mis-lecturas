@@ -16,6 +16,7 @@ tags:
 - Autobiografía
 - Literatura británica
 - Negocios
+toc: false
 autores:
 - Peter Hook
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44025626-the-ha-ienda)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

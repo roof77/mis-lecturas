@@ -16,6 +16,7 @@ tags:
 - Relatos
 - Paranormal
 - Adultos
+toc: false
 autores:
 - Stephen King
 - Richard Chizmar
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41210798-la-caja-de-botones-de-gwendy)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

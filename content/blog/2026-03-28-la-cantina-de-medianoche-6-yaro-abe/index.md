@@ -13,6 +13,7 @@ tags:
 - Japón
 - Comida
 - Seinen manga
+toc: false
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/153244661-la-cantina-de-medianoche-6)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

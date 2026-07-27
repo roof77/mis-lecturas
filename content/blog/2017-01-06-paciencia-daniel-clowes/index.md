@@ -13,6 +13,7 @@ tags:
 - Ciencia ficción
 - Viaje en el tiempo
 - Romance
+toc: false
 autores:
 - Daniel Clowes
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29243251-paciencia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
+toc: false
 autores:
 - Eddie Campbell
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25451026-baco-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

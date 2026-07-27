@@ -17,6 +17,7 @@ tags:
 - Fantasía
 - Ficción especulativa
 - Ciencia Ficción
+toc: false
 autores:
 - P.D. James
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8510514-hijos-de-hombres)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

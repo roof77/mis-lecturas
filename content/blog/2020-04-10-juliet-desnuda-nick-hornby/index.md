@@ -16,6 +16,7 @@ tags:
 - Novela
 - Literatura británica
 - Ficción adulta
+toc: false
 autores:
 - Nick Hornby
 - Jesús Zulaika
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6801443-juliet-desnuda)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

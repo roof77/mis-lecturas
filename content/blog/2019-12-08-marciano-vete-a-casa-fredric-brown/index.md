@@ -17,6 +17,7 @@ tags:
 - Novela
 - Clásico
 - Ciencia Ficción
+toc: false
 autores:
 - Fredric Brown
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12134591-marciano-vete-a-casa)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

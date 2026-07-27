@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Fantasía
 - Fantasmas
+toc: false
 autores:
 - Grady Hendrix
 - Jaime Valero
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24675211-horrorst-r)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -11,6 +11,7 @@ tags:
 - Ficción
 - Literatura alemana
 - Terror
+toc: false
 autores:
 - Marc Behm
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1331010.La_doncella_de_hielo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

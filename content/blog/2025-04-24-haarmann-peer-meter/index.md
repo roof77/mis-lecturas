@@ -15,6 +15,7 @@ tags:
 - Colecciones
 - Thriller
 - Histórico
+toc: false
 autores:
 - Peer Meter
 - Isabel Kreitz
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51082517-haarmann)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

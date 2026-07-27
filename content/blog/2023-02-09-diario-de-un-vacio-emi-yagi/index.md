@@ -16,6 +16,7 @@ tags:
 - Literatura asiática
 - Ásia
 - Club de lectura
+toc: false
 autores:
 - Emi Yagi
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59732139-diario-de-un-vac-o)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

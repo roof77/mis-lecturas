@@ -17,6 +17,7 @@ tags:
 - Saga familiar
 - Ficción adulta
 - Novela
+toc: false
 autores:
 - Jetta Carleton
 - María Teresa Gispert
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8317912-cuatro-hermanas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Antología
 - Club de lectura
 - Ciencia Ficción
+toc: false
 autores:
 - Ken Liu
 - María Pilar San Román
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34429410-el-zoo-de-papel-y-otros-relatos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Comics
 - Ficción
+toc: false
 autores:
 - Lorenzo Montatore
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38937406-cuidado-que-te-asesinas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Paranormal
 - Sobrenatural
 - Fantasía
+toc: false
 autores:
 - Dean Koontz
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2206684.Fantasmas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

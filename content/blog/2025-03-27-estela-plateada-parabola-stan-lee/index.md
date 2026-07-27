@@ -14,6 +14,7 @@ tags:
 - Ficción
 - Ciencia ficción
 - Fantasía
+toc: false
 autores:
 - Stan Lee
 - Mœbius
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12593546-estela-plateada)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

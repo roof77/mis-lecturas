@@ -15,6 +15,7 @@ tags:
 - Fantasía
 - Queer
 - Ciencia Ficción
+toc: false
 autores:
 - Corey J. White
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33091587-killing-gravity)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

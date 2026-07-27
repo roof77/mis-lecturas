@@ -16,6 +16,7 @@ tags:
 - Familia
 - Siglo XX
 - Literatura
+toc: false
 autores:
 - William Maxwell
 - Edmundo Paz Soldán
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2297722.Vinieron_como_golondrinas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

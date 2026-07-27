@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Ficción Literaria
 - Zombies
+toc: false
 autores:
 - Joyce Carol Oates
 - Carmen Camps
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2760667-zombi)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

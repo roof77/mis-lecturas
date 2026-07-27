@@ -15,6 +15,7 @@ tags:
 - Adultos
 - Humor
 - Ciencia ficción
+toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38737360-sex-criminals-vol-2)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

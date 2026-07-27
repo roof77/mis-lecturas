@@ -16,6 +16,7 @@ tags:
 - Arte
 - Novela
 - Coming of age
+toc: false
 autores:
 - Donna Tartt
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21451588-el-jilguero)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

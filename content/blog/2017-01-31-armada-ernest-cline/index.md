@@ -16,6 +16,7 @@ tags:
 - Extraterrestres
 - Adultos
 - Espacio
+toc: false
 autores:
 - Ernest Cline
 - David Tejera Expósito
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28668555-armada)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

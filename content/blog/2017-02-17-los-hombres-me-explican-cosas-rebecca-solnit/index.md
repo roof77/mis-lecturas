@@ -16,6 +16,7 @@ tags:
 - Memorias
 - Club de lectura
 - Justicia social
+toc: false
 autores:
 - Rebecca Solnit
 - Paula Martín Ponz
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31574965-los-hombres-me-explican-cosas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

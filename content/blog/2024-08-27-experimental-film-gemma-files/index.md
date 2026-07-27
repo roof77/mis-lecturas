@@ -17,6 +17,7 @@ tags:
 - Canada
 - Ficción extraña
 - Películas
+toc: false
 autores:
 - Gemma Files
 - Elisa Rivera
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35504947-experimental-film)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -14,6 +14,7 @@ tags:
 - Biografía
 - Siglo XIX
 - Downton Abbey
+toc: false
 autores:
 - Frank Victor Dawes
 - Ángeles de los Santos
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61152520-nunca-delante-de-los-criados)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

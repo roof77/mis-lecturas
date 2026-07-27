@@ -13,6 +13,7 @@ tags:
 - Clásico
 - Ficción histórica
 - Novela
+toc: false
 autores:
 - Dorothy M. Johnson
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18716473-el-rbol-del-ahorcado-y-otros-relatos-de-la-frontera)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

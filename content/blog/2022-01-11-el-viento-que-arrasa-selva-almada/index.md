@@ -16,6 +16,7 @@ tags:
 - Literatura
 - Religión
 - Novela
+toc: false
 autores:
 - Selva Almada
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13630363-el-viento-que-arrasa)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

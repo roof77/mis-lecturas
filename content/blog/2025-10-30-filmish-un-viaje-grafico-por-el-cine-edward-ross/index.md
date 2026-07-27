@@ -14,6 +14,7 @@ tags:
 - Historia
 - Arte
 - Adultos
+toc: false
 autores:
 - Edward Ross
 - Carlos Mayor Ortega
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40171304-filmish)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

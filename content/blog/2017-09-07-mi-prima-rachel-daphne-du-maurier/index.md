@@ -16,6 +16,7 @@ tags:
 - Thriller
 - Club de lectura
 - Histórico
+toc: false
 autores:
 - Daphne du Maurier
 - Concha Cardeñoso Sáenz de Miera
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33617543-mi-prima-rachel)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

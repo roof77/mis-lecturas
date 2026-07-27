@@ -17,6 +17,7 @@ tags:
 - Literatura asiática
 - Romance
 - Novela
+toc: false
 autores:
 - Banana Yoshimoto
 - Junichi Mattsuura
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15749264-kitchen)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

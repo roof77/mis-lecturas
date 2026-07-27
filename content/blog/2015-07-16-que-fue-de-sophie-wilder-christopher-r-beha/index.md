@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Religión
 - EEUU
+toc: false
 autores:
 - Christopher R. Beha
 - Damià Alou
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22053587-qu-fue-de-sophie-wilder)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

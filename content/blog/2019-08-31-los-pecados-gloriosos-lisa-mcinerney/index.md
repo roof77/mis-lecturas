@@ -16,6 +16,7 @@ tags:
 - Crimen
 - Misterio
 - Ficción adulta
+toc: false
 autores:
 - Lisa McInerney
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33013019-los-pecados-gloriosos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

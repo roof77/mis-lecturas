@@ -10,6 +10,7 @@ tags:
 - Manga
 - Comics
 - Terror
+toc: false
 autores:
 - Junji Ito
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31199254-relatos-terror-ficos-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

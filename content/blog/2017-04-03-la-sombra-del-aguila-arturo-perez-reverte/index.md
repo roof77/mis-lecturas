@@ -16,6 +16,7 @@ tags:
 - Aventuras
 - España
 - Novela
+toc: false
 autores:
 - Arturo Pérez-Reverte
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/785481.La_sombra_del_guila)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -10,6 +10,7 @@ tags:
 - Manga
 - Comics
 - Novela gráfica
+toc: false
 autores:
 - Osamu Tezuka
 - Jesús Pece
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35833660-adolf-integral-vol-menes-1-y-2)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

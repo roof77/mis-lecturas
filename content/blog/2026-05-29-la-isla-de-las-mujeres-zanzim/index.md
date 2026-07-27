@@ -11,6 +11,7 @@ tags:
 - Novela gráfica
 - Ficción
 - Adultos
+toc: false
 autores:
 - Zanzim
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31700248-la-isla-de-las-mujeres)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

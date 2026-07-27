@@ -16,6 +16,7 @@ tags:
 - Histórico
 - LGTBIQ+
 - Ciencia ficción
+toc: false
 autores:
 - P. Djèlí Clark
 - Rebeca Cardeñoso
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61401172-el-se-or-de-los-djinn)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

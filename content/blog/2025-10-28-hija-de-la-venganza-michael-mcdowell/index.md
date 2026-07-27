@@ -14,6 +14,7 @@ tags:
 - Histórico
 - Gótico
 - Novela
+toc: false
 autores:
 - Michael McDowell
 - Carles Andreu
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/238543483-hija-de-la-venganza)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

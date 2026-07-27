@@ -16,6 +16,7 @@ tags:
 - Novela
 - Club de lectura
 - Viaje en el tiempo
+toc: false
 autores:
 - Solvej Balle
 - Victoria Alonso
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/219485014-el-volumen-del-tiempo-i)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

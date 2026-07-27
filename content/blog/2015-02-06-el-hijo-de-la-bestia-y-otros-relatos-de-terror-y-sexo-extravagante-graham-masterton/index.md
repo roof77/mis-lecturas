@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Horror erótico
+toc: false
 autores:
 - Graham Masterton
 - Marta Lila Murillo
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18723980-el-hijo-de-la-bestia-y-otros-relatos-de-terror-y-sexo-extravagante)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

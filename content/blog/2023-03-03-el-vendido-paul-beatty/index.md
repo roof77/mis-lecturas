@@ -17,6 +17,7 @@ tags:
 - Novela
 - Afroamericanos
 - Literatura
+toc: false
 autores:
 - Paul Beatty
 - Íñigo García Ureta
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35061043-el-vendido)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

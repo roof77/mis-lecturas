@@ -16,6 +16,7 @@ tags:
 - Oscuro
 - Romance
 - Siglo XXI
+toc: false
 autores:
 - Sara Mesa
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25076998-cicatriz)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

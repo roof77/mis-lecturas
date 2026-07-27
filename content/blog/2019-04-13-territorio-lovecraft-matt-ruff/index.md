@@ -16,6 +16,7 @@ tags:
 - Lovecraftiano
 - Club de lectura
 - Sobrenatural
+toc: false
 autores:
 - Matt Ruff
 - Javier Calvo Perales
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44438570-territorio-lovecraft)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

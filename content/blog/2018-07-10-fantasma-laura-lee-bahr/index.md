@@ -16,6 +16,7 @@ tags:
 - Paranormal
 - EEUU
 - Mujeres
+toc: false
 autores:
 - Laura Lee Bahr
 - Hugo Camacho
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25630619-fantasma)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

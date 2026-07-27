@@ -15,6 +15,7 @@ tags:
 - Autobiografía
 - Feminismo
 - Club de lectura
+toc: false
 autores:
 - Jeanette Winterson
 - Álvaro Abella Villar
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23306569-por-qu-ser-feliz-cuando-puedes-ser-normal)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

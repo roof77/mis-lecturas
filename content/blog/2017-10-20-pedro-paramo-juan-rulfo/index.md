@@ -17,6 +17,7 @@ tags:
 - Fantasía
 - Literatura latinoamericana
 - Siglo XX
+toc: false
 autores:
 - Juan Rulfo
 - Fundación Juan Rulfo
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38667.Pedro_P_ramo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

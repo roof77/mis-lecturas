@@ -11,6 +11,7 @@ tags:
 - Novela gráfica
 - Ciencia ficción
 - Fantasía
+toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34667808-sex-criminals-19)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Clásico
 - Acción
 - Películas
+toc: false
 autores:
 - Ted Lewis
 - Damià Alou
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35102269-carter)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

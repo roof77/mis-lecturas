@@ -17,6 +17,7 @@ tags:
 - Contemporaneo
 - Premio Nobel
 - Club de lectura
+toc: false
 autores:
 - J.M. Coetzee
 - Miguel Martínez-Lage
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/896930.Desgracia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

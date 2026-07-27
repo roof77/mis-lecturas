@@ -11,6 +11,7 @@ tags:
 - Ficción
 - Literatura hispana
 - Feminismo
+toc: false
 autores:
 - Nieves Delgado
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34600079-36)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Relatos
+toc: false
 autores:
 - Eloy Tizón
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18587528-t-cnicas-de-iluminaci-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

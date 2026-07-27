@@ -16,6 +16,7 @@ tags:
 - Cuentos de hadas
 - Novela
 - Literatura portuguesa
+toc: false
 autores:
 - Ana María Matute
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/102835.Aranmanoth)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Japón
 - Literatura japanesa
 - Distopía
+toc: false
 autores:
 - Katsuhiro Otomo
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13052297-akira-no-4)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

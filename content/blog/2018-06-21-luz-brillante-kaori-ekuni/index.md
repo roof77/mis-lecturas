@@ -17,6 +17,7 @@ tags:
 - Ásia
 - Literatura asiática
 - Novela
+toc: false
 autores:
 - Kaori Ekuni
 - Juan Francisco González Sánchez
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36634846-luz-brillante)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

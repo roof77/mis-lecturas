@@ -17,6 +17,7 @@ tags:
 - Queer
 - Género
 - Literatura francesa
+toc: false
 autores:
 - Virginie Despentes
 - Paul B. Preciado
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6364510-teor-a-king-kong)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

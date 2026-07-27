@@ -16,6 +16,7 @@ tags:
 - Terror
 - Colegio
 - Literatura alemana
+toc: false
 autores:
 - Franz Kafka
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59186.La_metamorfosis)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

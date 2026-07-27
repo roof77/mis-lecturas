@@ -15,6 +15,7 @@ tags:
 - Niños
 - Aventuras
 - Clásico
+toc: false
 autores:
 - J.K. Rowling
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1605607.Harry_Potter_y_el_c_liz_de_fuego)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

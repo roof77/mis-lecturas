@@ -16,6 +16,7 @@ tags:
 - Gay
 - Ficción adulta
 - EEUU
+toc: false
 autores:
 - Peter Cameron
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18461760-coral-glynn)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

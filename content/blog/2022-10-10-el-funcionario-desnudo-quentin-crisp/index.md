@@ -16,6 +16,7 @@ tags:
 - Gay
 - Autobiografía
 - Humor
+toc: false
 autores:
 - Quentin Crisp
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40513699-el-funcionario-desnudo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

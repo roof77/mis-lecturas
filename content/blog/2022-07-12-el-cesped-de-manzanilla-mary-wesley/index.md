@@ -17,6 +17,7 @@ tags:
 - Clásico
 - Novela
 - Club de lectura
+toc: false
 autores:
 - Mary Wesley
 - Catalina Martínez Muñoz
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60713677-el-c-sped-de-manzanilla)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

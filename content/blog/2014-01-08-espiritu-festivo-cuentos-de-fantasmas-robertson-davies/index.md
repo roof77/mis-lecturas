@@ -17,6 +17,7 @@ tags:
 - Literatura canadiense
 - Siglo XX
 - Halloween
+toc: false
 autores:
 - Robertson Davies
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18946154-esp-ritu-festivo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

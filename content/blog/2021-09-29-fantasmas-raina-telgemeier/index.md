@@ -16,6 +16,7 @@ tags:
 - Niños
 - Paranormal
 - Familia
+toc: false
 autores:
 - Raina Telgemeier
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30254974-fantasmas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

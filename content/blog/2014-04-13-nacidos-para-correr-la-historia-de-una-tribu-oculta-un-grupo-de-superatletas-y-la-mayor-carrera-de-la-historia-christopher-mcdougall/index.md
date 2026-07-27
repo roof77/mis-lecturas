@@ -16,6 +16,7 @@ tags:
 - Memorias
 - Biografía
 - Club de lectura
+toc: false
 autores:
 - Christopher McDougall
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19291960-nacidos-para-correr)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

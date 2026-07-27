@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Thriller
 - LGTBIQ+
+toc: false
 autores:
 - Edgar Cantero
 - Christian Rodriguez
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56222628-meddling-kids)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Bizarro
 - Humor
+toc: false
 autores:
 - Laura Lee Bahr
 - Garrett Cook
@@ -29,8 +30,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34400061-bienvenidos-al-bizarro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

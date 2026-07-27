@@ -15,6 +15,7 @@ tags:
 - Fantasía
 - Ficción histórica
 - Paranormal
+toc: false
 autores:
 - Scott Snyder
 - Stephen King
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7619398-american-vampire-vol-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

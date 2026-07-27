@@ -16,6 +16,7 @@ tags:
 - Aventuras
 - Ciencia Ficción
 - Cyberpunk
+toc: false
 autores:
 - Ernest Cline
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9969571-ready-player-one)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

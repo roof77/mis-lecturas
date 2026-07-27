@@ -14,6 +14,7 @@ tags:
 - Novela gráfica
 - Idiomas
 - Literatura francesa
+toc: false
 autores:
 - Jean-Jacques Sempé
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29769609-marcel-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

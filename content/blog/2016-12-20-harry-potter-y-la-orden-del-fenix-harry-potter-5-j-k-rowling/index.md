@@ -15,6 +15,7 @@ tags:
 - Niños
 - Aventuras
 - Clásico
+toc: false
 autores:
 - J.K. Rowling
 - Gemma Rovira Ortega
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15876.Harry_Potter_y_la_Orden_del_F_nix)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

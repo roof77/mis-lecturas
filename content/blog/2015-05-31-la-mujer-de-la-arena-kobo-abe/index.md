@@ -17,6 +17,7 @@ tags:
 - Ásia
 - Ficción Literaria
 - Siglo XX
+toc: false
 autores:
 - Kōbō Abe
 - Kazuya Sakai
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59949.La_mujer_de_la_arena)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Contemporaneo
 - Autoras
 - Salud
+toc: false
 autores:
 - Susana Moreira Marques
 - María Alonso Seisdedos
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42188596-ahora-y-en-la-hora-de-nuestra-muerte)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

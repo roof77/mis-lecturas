@@ -16,6 +16,7 @@ tags:
 - Seinen manga
 - Slice of life
 - Literatura japanesa
+toc: false
 autores:
 - Rumiko Takahashi
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345434.Maison_Ikkoku_tomo_8)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

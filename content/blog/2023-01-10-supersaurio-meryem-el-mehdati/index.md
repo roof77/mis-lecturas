@@ -16,6 +16,7 @@ tags:
 - Coming of age
 - Novela
 - Mujeres
+toc: false
 autores:
 - Meryem El Mehdati
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60373913-supersaurio)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Filosofía
 - Siglo XX
 - Ficción Literaria
+toc: false
 autores:
 - Michel Houellebecq
 - Encarna Castejón
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/106901.Ampliaci_n_del_campo_de_batalla)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

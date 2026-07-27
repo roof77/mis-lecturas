@@ -13,6 +13,7 @@ tags:
 - Ficción
 - Fantasía
 - Ciencia ficción
+toc: false
 autores:
 - Kurt Busiek
 - Brent Anderson
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7904191-astro-city-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Terror
+toc: false
 autores:
 - María Zaragoza
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/198244493-el-infierno-es-una-chica-adolescente)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Viaje en el tiempo
 - Literatura japanesa
 - Seinen manga
+toc: false
 autores:
 - Jirō Taniguchi
 - Frédéric Boilet
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1187426.Barrio_Lejano_Tomo_2_Nouvelle_Manga_)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

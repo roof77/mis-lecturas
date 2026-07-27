@@ -15,6 +15,7 @@ tags:
 - Adultos
 - Club de lectura
 - Contemporaneo
+toc: false
 autores:
 - Grady Hendrix
 - Pilar de la Peña Minguell
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/183534849-c-mo-vender-una-casa-encantada)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

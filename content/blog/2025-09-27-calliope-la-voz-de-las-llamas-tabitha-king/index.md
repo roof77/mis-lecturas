@@ -16,6 +16,7 @@ tags:
 - Paranormal
 - Gótico sureño
 - Ficción histórica
+toc: false
 autores:
 - Tabitha King
 - Michael McDowell
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/237920009-calliope-la-voz-de-las-llamas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

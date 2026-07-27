@@ -15,6 +15,7 @@ tags:
 - Thriller
 - Ficción Literaria
 - Ficción adulta
+toc: false
 autores:
 - Daniel Woodrell
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18164264-los-huesos-del-invierno)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

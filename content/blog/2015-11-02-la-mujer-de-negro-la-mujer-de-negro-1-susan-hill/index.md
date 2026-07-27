@@ -16,6 +16,7 @@ tags:
 - Fantasmas
 - Paranormal
 - Histórico
+toc: false
 autores:
 - Susan Hill
 - Margarita Cavándoli
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/14041146-la-mujer-de-negro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -12,6 +12,7 @@ tags:
 - Novela
 - Familia
 - Coming of age
+toc: false
 autores:
 - Vigdis Hjorth
 - Kirsti Baggethun
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/227931868-quince-a-os)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

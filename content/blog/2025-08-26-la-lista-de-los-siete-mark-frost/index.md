@@ -16,6 +16,7 @@ tags:
 - Steampunk
 - Histórico
 - Crimen
+toc: false
 autores:
 - Mark Frost
 - Alberto Coscarelli Guaschino
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/230878041-la-lista-de-los-siete)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

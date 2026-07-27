@@ -16,6 +16,7 @@ tags:
 - Literatura irlandesa
 - Nueva York
 - Ficción Literaria
+toc: false
 autores:
 - Colm Tóibín
 - Ana Andres Lleo
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9566891-brooklyn)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

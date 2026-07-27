@@ -15,6 +15,7 @@ tags:
 - España
 - Suspense
 - Fantasía
+toc: false
 autores:
 - Dolores Redondo
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18741291-legado-en-los-huesos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

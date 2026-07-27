@@ -16,6 +16,7 @@ tags:
 - Extraterrestres
 - Novela
 - Adultos
+toc: false
 autores:
 - Liu Cixin
 - Javier Altayó
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31928510-el-problema-de-los-tres-cuerpos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

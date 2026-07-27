@@ -17,6 +17,7 @@ tags:
 - Jovenes adultos
 - Novela
 - Club de lectura
+toc: false
 autores:
 - Hope Mirrlees
 - Emilio Mayorga
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/73653.Entrebrumas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

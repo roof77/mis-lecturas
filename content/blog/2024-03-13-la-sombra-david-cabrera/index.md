@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - No Ficción
+toc: false
 autores:
 - David Cabrera
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61254837-la-sombra)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

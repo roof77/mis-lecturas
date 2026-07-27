@@ -15,6 +15,7 @@ tags:
 - Literatura francesa
 - Bélgica
 - Literatura
+toc: false
 autores:
 - Amélie Nothomb
 - Sergi Pàmies
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/71530.Metaf_sica_de_los_tubos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

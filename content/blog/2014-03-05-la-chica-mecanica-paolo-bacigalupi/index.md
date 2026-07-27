@@ -17,6 +17,7 @@ tags:
 - Ciencia Ficción
 - Ficción especulativa
 - Club de lectura
+toc: false
 autores:
 - Paolo Bacigalupi
 - Manuel de los Reyes
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11516349-la-chica-mec-nica)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

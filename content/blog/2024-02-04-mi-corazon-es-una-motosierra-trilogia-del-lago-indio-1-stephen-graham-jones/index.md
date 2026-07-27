@@ -14,6 +14,7 @@ tags:
 - Adultos
 - Índigenas
 - Contemporaneo
+toc: false
 autores:
 - Stephen Graham Jones
 - Manuel de los Reyes
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/200412496-mi-coraz-n-es-una-motosierra)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

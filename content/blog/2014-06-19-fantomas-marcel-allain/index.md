@@ -17,6 +17,7 @@ tags:
 - Novela
 - Literatura
 - Thriller
+toc: false
 autores:
 - Marcel Allain
 - Pierre Souvestre
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2209887.Fant_mas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

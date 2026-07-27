@@ -15,6 +15,7 @@ tags:
 - Niños
 - Aventuras
 - Clásico
+toc: false
 autores:
 - J.K. Rowling
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/47532.Harry_Potter_y_el_prisionero_de_Azkaban)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Literatura francesa
 - Mujeres
 - Contemporaneo
+toc: false
 autores:
 - Annie Ernaux
 - Berta Corral
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/466265.El_acontecimiento)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

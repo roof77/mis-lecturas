@@ -16,6 +16,7 @@ tags:
 - Salud mentál
 - Adultos
 - Novela
+toc: false
 autores:
 - Hanya Yanagihara
 - Aurora Echevarría
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33662956-tan-poca-vida)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

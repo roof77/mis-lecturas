@@ -16,6 +16,7 @@ tags:
 - Diario
 - Psicología
 - Escritura
+toc: false
 autores:
 - Ryder Carroll
 - Gemma Moraleda Díaz
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42441564-el-m-todo-bullet-journal)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

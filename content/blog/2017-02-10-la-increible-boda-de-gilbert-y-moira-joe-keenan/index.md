@@ -16,6 +16,7 @@ tags:
 - Contemporaneo
 - Nueva York
 - Novela
+toc: false
 autores:
 - Joe Keenan
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30986988-la-incre-ble-boda-de-gilbert-y-moira)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

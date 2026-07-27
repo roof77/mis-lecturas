@@ -15,6 +15,7 @@ tags:
 - Ciencia
 - Liderazgo
 - Educación
+toc: false
 autores:
 - Daniel Goleman
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20651133-inteligencia-emocional-por-qu-es-m-s-importante-que-el-cociente-intele)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Ucronía
 - Histórico
 - Adultos
+toc: false
 autores:
 - P. Djèlí Clark
 - Raúl García Campos
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/134961032-los-tambores-del-dios-negro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Realismo mágico
 - Club de lectura
 - Ficción Literaria
+toc: false
 autores:
 - Mona Awad
 - Jaime Valero Martínez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/238337593-bunny)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

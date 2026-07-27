@@ -14,6 +14,7 @@ tags:
 - Misterio
 - EEUU
 - Noir
+toc: false
 autores:
 - Vern E. Smith
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25442541-los-reyes-del-jaco)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

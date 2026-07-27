@@ -14,6 +14,7 @@ tags:
 - Filosofía
 - Ficción
 - Manga
+toc: false
 autores:
 - Robert Crumb
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34428648-el-tochaco-de-mr-natural)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

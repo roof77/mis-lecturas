@@ -16,6 +16,7 @@ tags:
 - Gay
 - Novela
 - Coming of age
+toc: false
 autores:
 - Édouard Louis
 - María Teresa Gallego Urrutia
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24841640-para-acabar-con-eddy-bellegueule)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

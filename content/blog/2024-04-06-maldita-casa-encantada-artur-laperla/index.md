@@ -7,6 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+toc: false
 autores:
 - Artur Laperla
 editoriales:
@@ -14,8 +15,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43216634-maldita-casa-encantada)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

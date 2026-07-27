@@ -15,6 +15,7 @@ tags:
 - Literatura hispana
 - Suspense
 - Fantasía
+toc: false
 autores:
 - Dolores Redondo
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17238220-el-guardi-n-invisible)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

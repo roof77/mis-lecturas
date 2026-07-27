@@ -16,6 +16,7 @@ tags:
 - Misterio
 - Siglo XX
 - Novela
+toc: false
 autores:
 - Edward Bunker
 - Zulema Couso
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12534865-perro-come-perro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Queer
 - LGTBIQ+
 - Universidad
+toc: false
 autores:
 - Willa Cather
 - Aurora Echeverria
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13199136-el-caso-de-paul)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

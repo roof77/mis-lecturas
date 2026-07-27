@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Sobrenatural
 - Sátira
+toc: false
 autores:
 - Chuck Palahniuk
 - Javier Calvo
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18108398-condenada)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

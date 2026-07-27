@@ -7,6 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+toc: false
 autores:
 - Carlos Rego
 editoriales:
@@ -14,8 +15,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28618687-derribos-arias-licencia-para-aberrar)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

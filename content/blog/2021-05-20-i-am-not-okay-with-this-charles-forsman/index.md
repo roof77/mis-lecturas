@@ -16,6 +16,7 @@ tags:
 - Fantasía
 - Salud mentál
 - Contemporaneo
+toc: false
 autores:
 - Charles Forsman
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34445185-i-am-not-okay-with-this)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

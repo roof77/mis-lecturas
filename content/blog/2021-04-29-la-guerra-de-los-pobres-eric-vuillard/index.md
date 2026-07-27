@@ -16,6 +16,7 @@ tags:
 - Novella
 - Política
 - Literatura
+toc: false
 autores:
 - Éric Vuillard
 - Javier Albiñana
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54868914-la-guerra-de-los-pobres)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

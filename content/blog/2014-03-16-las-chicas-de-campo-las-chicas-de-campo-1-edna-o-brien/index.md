@@ -17,6 +17,7 @@ tags:
 - Ficción histórica
 - Mujeres
 - Literatura
+toc: false
 autores:
 - Edna O'Brien
 - Regina López Muñoz
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18872663-las-chicas-de-campo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -7,6 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+toc: false
 autores:
 - Dan Slott
 - Giuseppe Camuncoli
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38928263-homem-aranha---o-fim-da-conspira-o-i-o-meu-primeiro-amor-i)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

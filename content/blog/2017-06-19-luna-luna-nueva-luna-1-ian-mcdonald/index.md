@@ -15,6 +15,7 @@ tags:
 - Ficción especulativa
 - Ciencia Ficción
 - Adultos
+toc: false
 autores:
 - Ian McDonald
 - José Heisenberg
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29914911-luna)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

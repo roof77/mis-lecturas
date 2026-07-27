@@ -14,6 +14,7 @@ tags:
 - España
 - Feminismo
 - Sociedad
+toc: false
 autores:
 - Elisa Victoria
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57249196-el-evangelio)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

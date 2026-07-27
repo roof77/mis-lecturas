@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Histórico
 - Thriller
+toc: false
 autores:
 - Claire North
 - Jaime Valero
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25393346-las-primeras-quince-vidas-de-harry-august)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

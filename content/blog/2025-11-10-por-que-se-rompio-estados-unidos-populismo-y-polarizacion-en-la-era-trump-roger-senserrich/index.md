@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Política
 - No Ficción
+toc: false
 autores:
 - Roger Senserrich
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/205456506-por-qu-se-rompi-estados-unidos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

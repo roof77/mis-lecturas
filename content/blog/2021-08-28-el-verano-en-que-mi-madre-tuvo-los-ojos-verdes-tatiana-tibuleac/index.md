@@ -16,6 +16,7 @@ tags:
 - Ficción Literaria
 - Literatura hispana
 - Mujeres
+toc: false
 autores:
 - Tatiana Țîbuleac
 - Marian Ochoa de Eribe
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44289602-el-verano-en-que-mi-madre-tuvo-los-ojos-verdes)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

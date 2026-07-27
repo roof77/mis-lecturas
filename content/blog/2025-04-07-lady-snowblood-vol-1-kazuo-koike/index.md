@@ -11,6 +11,7 @@ tags:
 - Comics
 - Drama
 - Ficción histórica
+toc: false
 autores:
 - Kazuo Koike
 - Kazuo Kamimura
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/120802099-lady-snowblood-vol-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

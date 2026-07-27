@@ -14,6 +14,7 @@ tags:
 - Contemporaneo
 - Siglo XXI
 - Adultos
+toc: false
 autores:
 - Brecht Evens
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41416510-un-lugar-equivocado)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Ficción realista
 - Familia
+toc: false
 autores:
 - Bonnie Jo Campbell
 - Tomás Cobos
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57770651-madres-avisad-a-vuestras-hijas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

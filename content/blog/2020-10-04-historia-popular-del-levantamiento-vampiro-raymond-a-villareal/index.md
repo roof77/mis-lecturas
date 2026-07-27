@@ -16,6 +16,7 @@ tags:
 - Sobrenatural
 - Adultos
 - Distopía
+toc: false
 autores:
 - Raymond A. Villareal
 - Pilar Ramírez Tello
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50058049-historia-popular-del-levantamiento-vampiro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

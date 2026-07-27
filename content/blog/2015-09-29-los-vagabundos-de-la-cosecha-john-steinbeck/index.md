@@ -14,6 +14,7 @@ tags:
 - Ensayo
 - EEUU
 - Colegio
+toc: false
 autores:
 - John Steinbeck
 - Dorothea Lange
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4467763-los-vagabundos-de-la-cosecha)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

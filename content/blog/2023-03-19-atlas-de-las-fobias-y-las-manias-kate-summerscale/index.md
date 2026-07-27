@@ -15,6 +15,7 @@ tags:
 - Salud
 - Referencia
 - Medicina
+toc: false
 autores:
 - Kate Summerscale
 - Haizea Beitia
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/95317939-atlas-de-las-fobias-y-las-man-as)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

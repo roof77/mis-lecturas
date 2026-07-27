@@ -15,6 +15,7 @@ tags:
 - Crimen
 - Fantasía
 - Ciencia ficción
+toc: false
 autores:
 - Kurt Busiek
 - Brent Anderson
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8817266-astro-city-4)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

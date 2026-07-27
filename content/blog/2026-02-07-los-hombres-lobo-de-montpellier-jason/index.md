@@ -14,6 +14,7 @@ tags:
 - Humor
 - Francia
 - Hombres lobo
+toc: false
 autores:
 - Jason
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18177653-los-hombres-lobo-de-montpellier)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Terror
+toc: false
 autores:
 - Rafael de la Rosa
 - Juan Alberto Hernández
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58562667-el-asesinato-de-leah-phar)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

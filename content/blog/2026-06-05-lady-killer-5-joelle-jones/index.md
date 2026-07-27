@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
+toc: false
 autores:
 - Joëlle Jones
 - Jamie S.Rich
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25543298-lady-killer-5)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -14,6 +14,7 @@ tags:
 - Arte
 - Aventuras
 - Ciencia ficción
+toc: false
 autores:
 - Dylan Horrocks
 - Óscar Palmer Yáñez
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23821855-sam-zabel-y-la-pluma-m-gica)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Contemporaneo
 - Poesía
 - Club de lectura
+toc: false
 autores:
 - Sandra Cisneros
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19023066-la-casa-en-mango-street)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

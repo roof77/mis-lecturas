@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Historia
 - No Ficción
+toc: false
 autores:
 - Íñigo Domínguez
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20627474-cr-nicas-de-la-mafia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

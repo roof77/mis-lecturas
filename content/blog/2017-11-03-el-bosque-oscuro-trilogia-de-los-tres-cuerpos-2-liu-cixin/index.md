@@ -16,6 +16,7 @@ tags:
 - Espacio
 - Novela
 - Ficción especulativa
+toc: false
 autores:
 - Liu Cixin
 - Javier Altayó
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32827084-el-bosque-oscuro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

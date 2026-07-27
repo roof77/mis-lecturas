@@ -7,6 +7,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+toc: false
 autores:
 - Peter Bagge
 - Hernán Migoya
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2751002-odio-vol-13)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Ficha del libro
 

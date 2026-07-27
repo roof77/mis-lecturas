@@ -16,6 +16,7 @@ tags:
 - Feminismo
 - Transgenero
 - Drama
+toc: false
 autores:
 - Alana S. Portero
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123723946-la-mala-costumbre)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

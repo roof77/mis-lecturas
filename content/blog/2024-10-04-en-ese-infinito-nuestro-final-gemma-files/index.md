@@ -16,6 +16,7 @@ tags:
 - Fantasía
 - Oscuro
 - Sobrenatural
+toc: false
 autores:
 - Gemma Files
 - Pilar Ramírez Tello
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/215365815-en-ese-infinito-nuestro-final)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

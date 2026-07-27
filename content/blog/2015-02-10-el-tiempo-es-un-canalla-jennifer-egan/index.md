@@ -16,6 +16,7 @@ tags:
 - Novela
 - Literatura
 - Ficción adulta
+toc: false
 autores:
 - Jennifer Egan
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16084530-el-tiempo-es-un-canalla)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -11,6 +11,7 @@ tags:
 - Detectives
 - Thriller
 - Ficción
+toc: false
 autores:
 - Eduard Palomares
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46000531-no-cerramos-en-agosto)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

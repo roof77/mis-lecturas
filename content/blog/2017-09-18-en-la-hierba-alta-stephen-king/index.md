@@ -15,6 +15,7 @@ tags:
 - Fantasía
 - Adultos
 - Paranormal
+toc: false
 autores:
 - Stephen King
 - Joe Hill
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18755202-en-la-hierba-alta)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Realismo mágico
 - Novela
 - Literatura
+toc: false
 autores:
 - George Saunders
 - Javier Calvo
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39287181-lincoln-en-el-bardo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

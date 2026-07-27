@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Biografía
 - Adultos
+toc: false
 autores:
 - Marina Keegan
 - Regina López Muñoz
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25281370-lo-contrario-de-la-soledad)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

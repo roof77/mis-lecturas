@@ -16,6 +16,7 @@ tags:
 - LGTBIQ+
 - Viaje en el tiempo
 - Fantasía
+toc: false
 autores:
 - Brian K. Vaughan
 - Cliff Chiang
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58155174-paper-girls)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

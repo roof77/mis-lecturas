@@ -15,6 +15,7 @@ tags:
 - Paranormal
 - LGTBIQ+
 - Adultos
+toc: false
 autores:
 - Marcus Kliewer
 - I. C. Salabert
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/238639933-antes-viv-amos-aqu)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

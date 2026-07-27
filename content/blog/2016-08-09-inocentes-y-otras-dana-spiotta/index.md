@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Amistad
 - Mujeres
+toc: false
 autores:
 - Dana Spiotta
 - Carles Andreu Saburit
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29973159-inocentes-y-otras)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

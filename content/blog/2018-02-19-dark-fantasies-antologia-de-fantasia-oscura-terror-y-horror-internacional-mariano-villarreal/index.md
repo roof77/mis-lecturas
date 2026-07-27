@@ -11,6 +11,7 @@ tags:
 - Literatura hispana
 - Fantasía
 - Relatos
+toc: false
 autores:
 - Mariano Villarreal
 - Alyssa Wong
@@ -47,8 +48,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35226108-dark-fantasies-antolog-a-de-fantas-a-oscura-terror-y-horror-internacio)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

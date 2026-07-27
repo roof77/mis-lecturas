@@ -15,6 +15,7 @@ tags:
 - Slice of life
 - Francia
 - Ásia
+toc: false
 autores:
 - Yarō Abe
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45993418-la-cantina-de-medianoche-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

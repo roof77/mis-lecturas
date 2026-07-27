@@ -16,6 +16,7 @@ tags:
 - Colección de relatos
 - Adultos
 - Club de lectura
+toc: false
 autores:
 - Kristen Roupenian
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45479294-lo-est-s-deseando)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

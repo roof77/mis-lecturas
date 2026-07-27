@@ -15,6 +15,7 @@ tags:
 - Suspense
 - Contemporaneo
 - Adultos
+toc: false
 autores:
 - Paula Hawkins
 - Aleix Montoto
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25270785-la-chica-del-tren)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

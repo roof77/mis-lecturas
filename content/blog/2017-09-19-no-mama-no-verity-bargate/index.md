@@ -13,6 +13,7 @@ tags:
 - Drama
 - Club de lectura
 - Mujeres
+toc: false
 autores:
 - Verity Bargate
 - Mireia Bofill Abelló
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35144489-no-mam-no)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Ficción
 - Ciencia ficción
 - Jovenes adultos
+toc: false
 autores:
 - Mark Millar
 - Terry Dodson
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38730536-spiderman)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

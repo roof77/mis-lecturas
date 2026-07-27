@@ -17,6 +17,7 @@ tags:
 - Ásia
 - Literatura asiática
 - Contemporaneo
+toc: false
 autores:
 - Ryū Murakami
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15809202-piercing)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

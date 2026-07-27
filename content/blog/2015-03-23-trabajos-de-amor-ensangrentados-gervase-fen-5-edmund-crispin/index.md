@@ -15,6 +15,7 @@ tags:
 - Literatura británica
 - Asesinato
 - Thriller
+toc: false
 autores:
 - Edmund Crispin
 - José C. Vales
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20892128-trabajos-de-amor-ensangrentados)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

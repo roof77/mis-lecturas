@@ -15,6 +15,7 @@ tags:
 - Gótico
 - Fantasía urbana
 - Crimen
+toc: false
 autores:
 - James O'Barr
 - Ramón de España
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17865068-the-crow)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

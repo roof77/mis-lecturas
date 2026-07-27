@@ -16,6 +16,7 @@ tags:
 - Segunda guerra mundial
 - Premios Hugo
 - Ciencia Ficción
+toc: false
 autores:
 - Connie Willis
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13080449-el-apag-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

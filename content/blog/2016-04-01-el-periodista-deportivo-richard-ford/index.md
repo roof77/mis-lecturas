@@ -15,6 +15,7 @@ tags:
 - Clásico
 - Deportes
 - Contemporaneo
+toc: false
 autores:
 - Richard Ford
 - Isabel Núñez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/333431.El_periodista_deportivo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

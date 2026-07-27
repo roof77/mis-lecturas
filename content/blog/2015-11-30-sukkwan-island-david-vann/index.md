@@ -13,6 +13,7 @@ tags:
 - Contemporaneo
 - Novela
 - Siglo XXI
+toc: false
 autores:
 - David Vann
 - Daniel Gascón
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9891064-sukkwan-island)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

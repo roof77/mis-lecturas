@@ -16,6 +16,7 @@ tags:
 - Ficción
 - Familia
 - Humor
+toc: false
 autores:
 - Raina Telgemeier
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34810287-hermanas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

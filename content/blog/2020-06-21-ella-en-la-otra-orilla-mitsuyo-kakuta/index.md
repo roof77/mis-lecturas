@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - Literatura
 - Siglo XXI
+toc: false
 autores:
 - Mitsuyo Kakuta
 - Yoko Ogihara
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32711738-ella-en-la-otra-orilla)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

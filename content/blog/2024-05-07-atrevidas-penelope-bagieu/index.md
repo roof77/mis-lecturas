@@ -16,6 +16,7 @@ tags:
 - Histórico
 - LGTBIQ+
 - Mujeres
+toc: false
 autores:
 - Pénélope Bagieu
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/75543287-atrevidas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

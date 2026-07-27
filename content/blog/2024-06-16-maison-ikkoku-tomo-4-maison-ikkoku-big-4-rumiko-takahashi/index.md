@@ -15,6 +15,7 @@ tags:
 - Romance
 - Seinen manga
 - Slice of life
+toc: false
 autores:
 - Rumiko Takahashi
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345426.Maison_Ikkoku_tomo_4)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

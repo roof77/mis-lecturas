@@ -15,6 +15,7 @@ tags:
 - Colegio
 - Novela
 - Aventuras
+toc: false
 autores:
 - Joseph Conrad
 - Sergio Pitol
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/74505.El_coraz_n_de_las_tinieblas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

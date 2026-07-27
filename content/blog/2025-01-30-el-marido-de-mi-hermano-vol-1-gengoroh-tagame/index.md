@@ -17,6 +17,7 @@ tags:
 - Japón
 - Adultos
 - Familia
+toc: false
 autores:
 - Gengoroh Tagame
 - Marc Bernabé
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52737348-el-marido-de-mi-hermano-vol-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

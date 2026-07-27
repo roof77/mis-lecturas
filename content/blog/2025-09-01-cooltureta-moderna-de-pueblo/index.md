@@ -13,6 +13,7 @@ tags:
 - Literatura hispana
 - Manga
 - Contemporaneo
+toc: false
 autores:
 - Moderna de Pueblo
 - Carlos Carrero
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22089227-cooltureta)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

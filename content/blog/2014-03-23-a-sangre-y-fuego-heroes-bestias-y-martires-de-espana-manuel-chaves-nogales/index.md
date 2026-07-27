@@ -17,6 +17,7 @@ tags:
 - Periodismo
 - Guerra civil española
 - Política
+toc: false
 autores:
 - Manuel Chaves Nogales
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33852769-a-sangre-y-fuego)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

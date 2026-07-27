@@ -16,6 +16,7 @@ tags:
 - Distopía
 - Apocalipsis
 - Guerra
+toc: false
 autores:
 - Max Brooks
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3893586-guerra-mundial-z)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

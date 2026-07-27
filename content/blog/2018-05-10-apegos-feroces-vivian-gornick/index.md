@@ -14,6 +14,7 @@ tags:
 - Mujeres
 - Nueva York
 - EEUU
+toc: false
 autores:
 - Vivian Gornick
 - Daniel Ramos Sanchez
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37541805-apegos-feroces)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

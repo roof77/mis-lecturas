@@ -10,6 +10,7 @@ tags:
 - Comics
 - Novela gráfica
 - Ficción histórica
+toc: false
 autores:
 - Joëlle Jones
 - Jamie S. Rich
@@ -17,8 +18,6 @@ autores:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25069392-lady-killer-3)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

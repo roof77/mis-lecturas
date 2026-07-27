@@ -17,6 +17,7 @@ tags:
 - Ficción
 - Gay
 - Salud mentál
+toc: false
 autores:
 - Alice Oseman
 - Victoria Simó Perales
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/251710663-heartstopper-6-entrelazados)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Piratas
 - Literatura británica
 - Ficción Literaria
+toc: false
 autores:
 - Richard Hughes
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25372280-hurac-n-en-jamaica)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Literatura canadiense
 - Colegio
 - Club de lectura
+toc: false
 autores:
 - Robertson Davies
 - Valentí Puig
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/74421.El_quinto_en_discordia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

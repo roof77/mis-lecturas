@@ -10,6 +10,7 @@ tags:
 - Ficción
 - Relatos
 - Contemporaneo
+toc: false
 autores:
 - Marta Orriols
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35378867-anatom-a-de-las-distancias-cortas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

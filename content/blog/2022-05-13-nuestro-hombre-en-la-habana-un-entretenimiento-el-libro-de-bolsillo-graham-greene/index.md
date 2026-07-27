@@ -17,6 +17,7 @@ tags:
 - Novela
 - Club de lectura
 - Literatura británica
+toc: false
 autores:
 - Graham Greene
 - Ana Goldar
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/602776.Nuestro_hombre_en_la_Habana)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

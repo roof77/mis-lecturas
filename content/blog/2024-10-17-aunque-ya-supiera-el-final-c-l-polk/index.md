@@ -17,6 +17,7 @@ tags:
 - Novella
 - Histórico
 - Ficción
+toc: false
 autores:
 - C.L. Polk
 - Carla Bataller Estruch
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/219473684-aunque-ya-supiera-el-final)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

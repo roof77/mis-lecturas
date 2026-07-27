@@ -16,6 +16,7 @@ tags:
 - Club de lectura
 - Películas
 - Histórico
+toc: false
 autores:
 - Paul Fischer
 - Ferran Esteve
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28250205-producciones-kim-jong-il-presenta)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Ficción histórica
 - Ficción Literaria
 - Sátira
+toc: false
 autores:
 - Evelyn Waugh
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18298728-un-pu-ado-de-polvo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

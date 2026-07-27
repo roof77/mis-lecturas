@@ -16,6 +16,7 @@ tags:
 - Drogas
 - Autoayuda
 - Comida
+toc: false
 autores:
 - David J. Nutt
 - Ex Estudi
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60655387-cu-nto-bebes)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

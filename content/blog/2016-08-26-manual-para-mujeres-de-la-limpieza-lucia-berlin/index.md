@@ -15,6 +15,7 @@ tags:
 - EEUU
 - Mujeres
 - Literatura
+toc: false
 autores:
 - Lucia Berlin
 - Eugenia Vázquez Nacarino
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29515170-manual-para-mujeres-de-la-limpieza)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Humor
 - Japón
 - Literatura japanesa
+toc: false
 autores:
 - Rumiko Takahashi
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345405.Maison_Ikkoku_1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

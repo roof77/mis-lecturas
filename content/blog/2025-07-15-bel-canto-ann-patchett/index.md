@@ -16,6 +16,7 @@ tags:
 - Novela
 - Literatura
 - Ficción adulta
+toc: false
 autores:
 - Ann Patchett
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6270616-bel-canto)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

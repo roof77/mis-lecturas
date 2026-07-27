@@ -15,6 +15,7 @@ tags:
 - Autobiografía
 - Familia
 - Adultos
+toc: false
 autores:
 - A.M. Homes
 - Jaime Zulaika
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15859712-la-hija-de-la-amante)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

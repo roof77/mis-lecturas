@@ -16,6 +16,7 @@ tags:
 - Autobiografía
 - Literatura británica
 - Enfermedad mentál
+toc: false
 autores:
 - James Rhodes
 - Ismael Attrache
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27783561-instrumental)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

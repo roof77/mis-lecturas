@@ -17,6 +17,7 @@ tags:
 - Holocausto
 - Alemania
 - Colegio
+toc: false
 autores:
 - Kathrine Kressmann Taylor
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/395665.Paradero_desconocido)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

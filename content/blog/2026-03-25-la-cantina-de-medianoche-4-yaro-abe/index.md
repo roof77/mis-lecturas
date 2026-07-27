@@ -16,6 +16,7 @@ tags:
 - Slice of life
 - Cocina
 - Seinen manga
+toc: false
 autores:
 - Yarō Abe
 - Alberto Sakai
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58655129-la-cantina-de-medianoche-4)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

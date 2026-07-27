@@ -16,6 +16,7 @@ tags:
 - Ásia
 - Literatura
 - Fantasía
+toc: false
 autores:
 - Haruki Murakami
 - Lourdes Porta Fuentes
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17331723-despu-s-del-terremoto)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

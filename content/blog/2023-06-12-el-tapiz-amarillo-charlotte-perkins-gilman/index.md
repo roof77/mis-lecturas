@@ -16,13 +16,12 @@ tags:
 - Salud mentál
 - Colegio
 - Literatura
+toc: false
 autores:
 - Charlotte Perkins Gilman
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39690043-el-tapiz-amarillo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Mujeres
 - Latino américa
 - Siglo XXI
+toc: false
 autores:
 - María Fernanda Ampuero
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39072768-pelea-de-gallos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

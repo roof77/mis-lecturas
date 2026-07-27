@@ -15,6 +15,7 @@ tags:
 - Literatura
 - Ficción histórica
 - Ficción Literaria
+toc: false
 autores:
 - Chris Offutt
 - Javier Lucini
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45155250-kentucky-seco)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

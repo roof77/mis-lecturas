@@ -17,6 +17,7 @@ tags:
 - Misterio
 - EEUU
 - Siglo XX
+toc: false
 autores:
 - Don Carpenter
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17258367-dura-la-lluvia-que-cae)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

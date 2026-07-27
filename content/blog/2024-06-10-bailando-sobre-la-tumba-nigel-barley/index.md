@@ -10,6 +10,7 @@ tags:
 - Antropología
 - No Ficción
 - Muerte
+toc: false
 autores:
 - Nigel Barley
 - Federico Corriente
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2368832.Bailando_sobre_la_tumba)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

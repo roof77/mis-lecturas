@@ -16,6 +16,7 @@ tags:
 - Japón
 - Distopía
 - Literatura japanesa
+toc: false
 autores:
 - Katsuhiro Otomo
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13052288-akira-no-2)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

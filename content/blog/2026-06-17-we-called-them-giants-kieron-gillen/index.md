@@ -15,6 +15,7 @@ tags:
 - Ficción
 - Distopía
 - Postapocalíptico
+toc: false
 autores:
 - Kieron Gillen
 - Stephanie Hans
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/210999862-we-called-them-giants)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

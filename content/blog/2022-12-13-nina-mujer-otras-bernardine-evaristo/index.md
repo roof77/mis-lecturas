@@ -16,6 +16,7 @@ tags:
 - Queer
 - Relatos
 - Raza
+toc: false
 autores:
 - Bernardine Evaristo
 - Julia Osuna Aguilar
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51477392-ni-a-mujer-otras)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

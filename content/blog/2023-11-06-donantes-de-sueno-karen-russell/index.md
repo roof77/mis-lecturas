@@ -16,6 +16,7 @@ tags:
 - Fantasía
 - Ficción especulativa
 - Ciencia Ficción
+toc: false
 autores:
 - Karen Russell
 - Rubén Martín Giráldez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/127620938-donantes-de-sue-o)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

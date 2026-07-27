@@ -15,6 +15,7 @@ tags:
 - Crimen
 - Ficción histórica
 - Adultos
+toc: false
 autores:
 - Stuart Turton
 - Lorenzo F. Díaz
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42299255-las-siete-muertes-de-evelyn-hardcastle)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

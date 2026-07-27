@@ -15,6 +15,7 @@ tags:
 - Niños
 - Aventuras
 - Clásico
+toc: false
 autores:
 - J.K. Rowling
 - Adolfo Muñoz García
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/357545.Harry_Potter_y_la_c_mara_secreta)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

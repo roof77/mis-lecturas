@@ -16,6 +16,7 @@ tags:
 - Literatura
 - Novella
 - Alemania
+toc: false
 autores:
 - Joseph Roth
 - Michael Faber Kaiser
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/264704.La_leyenda_del_Santo_Bebedor)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

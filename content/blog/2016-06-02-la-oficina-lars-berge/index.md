@@ -11,6 +11,7 @@ tags:
 - Humor
 - Suecia
 - Literatura sueca
+toc: false
 autores:
 - Lars Berge
 - Martin Lexell
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27237130-la-oficina)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

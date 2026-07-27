@@ -16,6 +16,7 @@ tags:
 - Fantasía
 - Space Opera
 - Espacio
+toc: false
 autores:
 - Robert A. Heinlein
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1911989.Tropas_del_espacio)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

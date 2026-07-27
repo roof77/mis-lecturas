@@ -17,6 +17,7 @@ tags:
 - Clásico
 - Judaismo
 - Guerra
+toc: false
 autores:
 - Ulrich Alexander Boschwitz
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44807871-el-pasajero)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

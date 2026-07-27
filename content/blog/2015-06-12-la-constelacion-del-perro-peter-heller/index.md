@@ -16,6 +16,7 @@ tags:
 - Supervivencia
 - Ficción Literaria
 - Aventuras
+toc: false
 autores:
 - Peter Heller
 - Marc Jiménez Buzzi
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23658837-la-constelaci-n-del-perro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

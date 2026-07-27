@@ -15,6 +15,7 @@ tags:
 - Jovenes adultos
 - Aventuras
 - Literatura
+toc: false
 autores:
 - Kenneth Grahame
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11503050-el-viento-en-los-sauces)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

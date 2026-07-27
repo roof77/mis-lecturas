@@ -16,6 +16,7 @@ tags:
 - Colecciones
 - Literatura hispana
 - Novela
+toc: false
 autores:
 - William Kotzwinkle
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23572099-el-nadador-en-el-mar-secreto)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

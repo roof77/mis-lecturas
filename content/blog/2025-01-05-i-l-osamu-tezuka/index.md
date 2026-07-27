@@ -12,6 +12,7 @@ tags:
 - Fantasía
 - Ficción
 - Comics
+toc: false
 autores:
 - Osamu Tezuka
 editoriales:
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58392764-i-l)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

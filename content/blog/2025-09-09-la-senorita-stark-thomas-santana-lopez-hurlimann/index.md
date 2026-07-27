@@ -6,6 +6,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+toc: false
 autores:
 - Thomas / Santana López Hürlimann
 editoriales:
@@ -13,8 +14,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/107636876-la-se-orita-stark)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

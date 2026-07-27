@@ -10,6 +10,7 @@ tags:
 - Marvel
 - Comics
 - Superheroes
+toc: false
 autores:
 - Jason Aaron
 - Esad Ribić
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39931985-el-carnicero-de-dioses)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

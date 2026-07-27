@@ -14,6 +14,7 @@ tags:
 - Adultos
 - Comedia
 - Contemporaneo
+toc: false
 autores:
 - Sarah Andersen
 - Helena Pons
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31927662-sarah-s-scribbles)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

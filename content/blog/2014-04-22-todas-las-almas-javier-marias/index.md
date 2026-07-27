@@ -17,6 +17,7 @@ tags:
 - Clásicos modernos
 - Clásico
 - Universidad
+toc: false
 autores:
 - Javier Marías
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20433715-todas-las-almas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Oeste
 - Contemporaneo
 - Siglo XX
+toc: false
 autores:
 - Richard Ford
 - Jesús Zulaika Goicoechea
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/92984.Rock_Springs)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

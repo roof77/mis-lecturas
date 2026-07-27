@@ -12,6 +12,7 @@ tags:
 - Fantasía
 - Adultos
 - Humor
+toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22012837-sex-criminals-6)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

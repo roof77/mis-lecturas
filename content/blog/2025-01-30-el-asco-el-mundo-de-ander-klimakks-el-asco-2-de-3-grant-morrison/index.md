@@ -6,6 +6,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+toc: false
 autores:
 - Grant Morrison
 - Chris Weston
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13484026-el-asco)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

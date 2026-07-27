@@ -17,6 +17,7 @@ tags:
 - Sátira
 - Club de lectura
 - Histórico
+toc: false
 autores:
 - Joseph Heller
 - Flora Casas
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/439804.Trampa_22)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

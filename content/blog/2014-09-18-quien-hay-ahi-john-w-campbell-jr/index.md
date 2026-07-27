@@ -16,6 +16,7 @@ tags:
 - Extraterrestres
 - Thriller
 - Fantasía
+toc: false
 autores:
 - John W. Campbell Jr.
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41216167-qui-n-hay-ah)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

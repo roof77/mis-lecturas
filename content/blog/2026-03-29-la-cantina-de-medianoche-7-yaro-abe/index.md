@@ -13,6 +13,7 @@ tags:
 - Japón
 - Comida
 - Ficción
+toc: false
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/212116978-la-cantina-de-medianoche-7)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

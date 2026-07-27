@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Novela gráfica
 - Comics
+toc: false
 autores:
 - Fred
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32992334-philemon-integral-02)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

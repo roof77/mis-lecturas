@@ -16,6 +16,7 @@ tags:
 - Filosofía
 - Sociología
 - Política
+toc: false
 autores:
 - Jaron Lanier
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41166667-diez-razones-para-borrar-tus-redes-sociales-de-inmediato)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

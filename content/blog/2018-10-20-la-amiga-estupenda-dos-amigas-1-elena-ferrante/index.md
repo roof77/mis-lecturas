@@ -16,6 +16,7 @@ tags:
 - Contemporaneo
 - Histórico
 - Novela
+toc: false
 autores:
 - Elena Ferrante
 - Celia Filipetto Isicato
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19317918-la-amiga-estupenda)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

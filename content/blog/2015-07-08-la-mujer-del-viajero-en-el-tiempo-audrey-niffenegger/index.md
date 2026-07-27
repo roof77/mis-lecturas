@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Realismo mágico
 - Chick lit
+toc: false
 autores:
 - Audrey Niffenegger
 - Silvia Alemany
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3069540-la-mujer-del-viajero-en-el-tiempo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

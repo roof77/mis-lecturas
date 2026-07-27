@@ -15,6 +15,7 @@ tags:
 - Naturaleza
 - Biología
 - Adultos
+toc: false
 autores:
 - Alexandra Horowitz
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19385488-en-la-mente-de-un-perro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -13,6 +13,7 @@ tags:
 - Fantasía
 - Jovenes adultos
 - Adultos
+toc: false
 autores:
 - Gilbert Hernández
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12536799-pereza)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

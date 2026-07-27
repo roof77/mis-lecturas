@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Aventuras
 - Ciencia Ficción
+toc: false
 autores:
 - Andy Weir
 - Javier Guerrero Gimeno
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57299481-proyecto-hail-mary)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

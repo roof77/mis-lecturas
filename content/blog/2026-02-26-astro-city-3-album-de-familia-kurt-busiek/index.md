@@ -15,6 +15,7 @@ tags:
 - Ciencia ficción
 - DC
 - Crimen
+toc: false
 autores:
 - Kurt Busiek
 - Brent Anderson
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9104300-astro-city-3)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

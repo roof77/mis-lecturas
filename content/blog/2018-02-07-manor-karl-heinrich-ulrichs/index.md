@@ -16,13 +16,12 @@ tags:
 - Terror
 - Queer
 - Literatura alemana
+toc: false
 autores:
 - Karl Heinrich Ulrichs
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15982949-manor)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

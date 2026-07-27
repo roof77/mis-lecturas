@@ -16,6 +16,7 @@ tags:
 - Postapocalíptico
 - Mágia
 - Ficción especulativa
+toc: false
 autores:
 - N.K. Jemisin
 - David Tejera Expósito
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36402881-el-portal-de-los-obeliscos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

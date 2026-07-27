@@ -16,6 +16,7 @@ tags:
 - Ficción
 - Halloween
 - Queer
+toc: false
 autores:
 - Rainbow Rowell
 - Faith Erin Hicks
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52791492-la-ltima-noche)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

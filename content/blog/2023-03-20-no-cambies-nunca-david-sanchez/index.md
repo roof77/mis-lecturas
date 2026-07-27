@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+toc: false
 autores:
 - David Sánchez
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13640753-no-cambies-nunca)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

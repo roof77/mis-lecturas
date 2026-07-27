@@ -10,6 +10,7 @@ authors:
 tags:
 - Lecturas
 - Paternidad
+toc: false
 autores:
 - Tania García
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43580250-educar-sin-perder-los-nervios)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -14,6 +14,7 @@ tags:
 - Animales
 - No Ficción
 - Comedia
+toc: false
 autores:
 - Jeffrey Brown
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13606670-los-gatos-son-raros-y-m-s-observaciones)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

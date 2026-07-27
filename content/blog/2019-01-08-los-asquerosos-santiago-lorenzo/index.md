@@ -16,6 +16,7 @@ tags:
 - Drama
 - Crimen
 - Comedia
+toc: false
 autores:
 - Santiago Lorenzo
 - Guim Tió
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41587567-los-asquerosos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

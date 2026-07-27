@@ -15,6 +15,7 @@ tags:
 - Niños
 - Clásico
 - Aventuras
+toc: false
 autores:
 - J.K. Rowling
 - Alicia Dellepiane
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15868.Harry_Potter_y_la_piedra_filosofal)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

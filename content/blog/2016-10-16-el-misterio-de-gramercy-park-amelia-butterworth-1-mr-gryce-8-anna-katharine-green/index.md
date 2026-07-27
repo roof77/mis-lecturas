@@ -15,6 +15,7 @@ tags:
 - Crimen
 - Siglo XIX
 - Detectives
+toc: false
 autores:
 - Anna Katharine Green
 - Rosa Sahuquillo Moreno
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23304574-el-misterio-de-gramercy-park)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

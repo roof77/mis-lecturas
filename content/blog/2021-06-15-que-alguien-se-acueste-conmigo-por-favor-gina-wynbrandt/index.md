@@ -14,6 +14,7 @@ tags:
 - Memorias
 - No Ficción
 - Mujeres
+toc: false
 autores:
 - Gina Wynbrandt
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34113811-que-alguien-se-acueste-conmigo-por-favor)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

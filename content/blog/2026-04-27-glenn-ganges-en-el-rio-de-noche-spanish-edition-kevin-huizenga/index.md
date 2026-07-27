@@ -15,6 +15,7 @@ tags:
 - Filosofía
 - Manga
 - Estados Unidos
+toc: false
 autores:
 - Kevin Huizenga
 - Esther Cruz Santaella
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/212992395-glenn-ganges-en-el-r-o-de-noche)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

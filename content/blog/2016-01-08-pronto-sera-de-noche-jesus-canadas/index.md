@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Terror
 - Literatura hispana
+toc: false
 autores:
 - Jesús Cañadas
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25479309-pronto-ser-de-noche)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

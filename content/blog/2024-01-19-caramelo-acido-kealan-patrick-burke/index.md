@@ -15,6 +15,7 @@ tags:
 - Adultos
 - Paranormal
 - Fantasía
+toc: false
 autores:
 - Kealan Patrick Burke
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/194947181-caramelo-cido)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

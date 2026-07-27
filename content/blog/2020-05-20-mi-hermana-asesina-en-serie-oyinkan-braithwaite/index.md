@@ -15,6 +15,7 @@ tags:
 - Crimen
 - África
 - Adultos
+toc: false
 autores:
 - Oyinkan Braithwaite
 - Montse Meneses Vilar
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52943290-mi-hermana-asesina-en-serie)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Feminismo
 - Arte
 - Mujeres
+toc: false
 autores:
 - Kim Gordon
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24698360-la-chica-del-grupo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

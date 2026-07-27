@@ -14,6 +14,7 @@ tags:
 - Mujeres
 - Autobiografía
 - Arte
+toc: false
 autores:
 - Debbie Drechsler
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2420469.La_mu_equita_de_pap_)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

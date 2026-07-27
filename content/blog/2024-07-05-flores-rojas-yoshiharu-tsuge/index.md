@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Manga
 - Comics
+toc: false
 autores:
 - Yoshiharu Tsuge
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60766670-flores-rojas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

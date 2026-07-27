@@ -6,6 +6,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+toc: false
 autores:
 - Yarō Abe
 - Alberto K. Fonseca Sakai
@@ -14,8 +15,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/246738642-la-cantina-de-medianoche-9)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Ficha del libro
 

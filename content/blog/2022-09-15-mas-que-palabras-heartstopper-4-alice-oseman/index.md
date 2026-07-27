@@ -17,6 +17,7 @@ tags:
 - Ficción
 - Salud mentál
 - Gay
+toc: false
 autores:
 - Alice Oseman
 - Victoria Simó
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57674835-m-s-que-palabras)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

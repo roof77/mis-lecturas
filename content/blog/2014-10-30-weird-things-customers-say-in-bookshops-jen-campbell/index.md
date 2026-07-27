@@ -16,6 +16,7 @@ tags:
 - Relatos
 - Novela gráfica
 - Siglo XXI
+toc: false
 autores:
 - Jen Campbell
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12640991-weird-things-customers-say-in-bookshops)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

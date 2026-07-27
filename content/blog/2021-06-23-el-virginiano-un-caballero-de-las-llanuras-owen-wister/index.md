@@ -17,6 +17,7 @@ tags:
 - Novela
 - Histórico
 - Literatura
+toc: false
 autores:
 - Owen Wister
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38966260-el-virginiano)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

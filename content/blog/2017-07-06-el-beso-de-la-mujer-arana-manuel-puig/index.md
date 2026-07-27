@@ -17,6 +17,7 @@ tags:
 - Literatura
 - Literatura latinoamericana
 - Colegio
+toc: false
 autores:
 - Manuel Puig
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/63219.El_beso_de_la_mujer_ara_a)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

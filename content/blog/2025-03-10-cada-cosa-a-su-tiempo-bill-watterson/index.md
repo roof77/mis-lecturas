@@ -14,6 +14,7 @@ tags:
 - Tiras
 - Niños
 - Comedia
+toc: false
 autores:
 - Bill Watterson
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/961688.Cada_cosa_a_su_tiempo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Romance
 - Novella
 - Crimen
+toc: false
 autores:
 - Nikolai Leskov
 - Ignasi Blanch Gisbert
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28053317-lady-macbeth-de-mtsensk)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

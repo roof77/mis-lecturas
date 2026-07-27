@@ -14,6 +14,7 @@ tags:
 - Contemporaneo
 - Literatura
 - Ficción Literaria
+toc: false
 autores:
 - James Fogle
 - Juan Carlos Postigo
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40716911-drugstore-cowboy)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

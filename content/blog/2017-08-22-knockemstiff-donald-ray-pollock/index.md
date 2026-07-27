@@ -17,6 +17,7 @@ tags:
 - Literatura
 - Ficción Literaria
 - EEUU
+toc: false
 autores:
 - Donald Ray Pollock
 - Javier Calvo
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11227453-knockemstiff)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

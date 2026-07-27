@@ -15,6 +15,7 @@ tags:
 - Comedia
 - Club de lectura
 - Queer
+toc: false
 autores:
 - John Waters
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18490657-carsick)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

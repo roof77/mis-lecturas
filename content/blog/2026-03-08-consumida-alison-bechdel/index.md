@@ -16,6 +16,7 @@ tags:
 - Lesbianismo
 - Política
 - Feminismo
+toc: false
 autores:
 - Alison Bechdel
 - Rocío de la Maya Retamar
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/236081997-consumida)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

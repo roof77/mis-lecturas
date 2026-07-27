@@ -16,6 +16,7 @@ tags:
 - Realismo mágico
 - Paranormal
 - Adolescencia
+toc: false
 autores:
 - David Levithan
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16077173-cada-d-a)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

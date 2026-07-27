@@ -16,6 +16,7 @@ tags:
 - Terror
 - Paranormal
 - Ficción
+toc: false
 autores:
 - Borja González
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60538062-grito-nocturno)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Comedia
 - Literatura británica
 - Novela
+toc: false
 autores:
 - Ben Brooks
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18169682-lolito)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

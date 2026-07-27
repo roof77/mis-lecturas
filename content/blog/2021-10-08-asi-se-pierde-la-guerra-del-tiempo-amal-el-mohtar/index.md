@@ -16,6 +16,7 @@ tags:
 - Viaje en el tiempo
 - Lesbianismo
 - Club de lectura
+toc: false
 autores:
 - Amal El-Mohtar
 - Max Gladstone
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58772401-as-se-pierde-la-guerra-del-tiempo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

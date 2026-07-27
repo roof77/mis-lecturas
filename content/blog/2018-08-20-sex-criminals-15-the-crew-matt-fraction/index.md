@@ -11,6 +11,7 @@ tags:
 - Fantasía
 - Crimen
 - Humor
+toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26224461-sex-criminals-15)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Autobiografía
 - Comedia
+toc: false
 autores:
 - Nora Ephron
 - Catalina Martínez Muñoz
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59747182-no-me-acuerdo-de-nada)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

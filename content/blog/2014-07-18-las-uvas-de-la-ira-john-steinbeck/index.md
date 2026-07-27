@@ -17,6 +17,7 @@ tags:
 - EEUU
 - Literatura clásica
 - Libros prohibidos
+toc: false
 autores:
 - John Steinbeck
 - María Coy Girón
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6598945-las-uvas-de-la-ira)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

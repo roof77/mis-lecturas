@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Relatos
+toc: false
 autores:
 - Kenzaburō Ōe
 - Yōko Tawada
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53402504-el-jap-n-de-los-perros)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

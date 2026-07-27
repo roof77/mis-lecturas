@@ -14,6 +14,7 @@ tags:
 - Colecciones
 - Ficción
 - Colección de relatos
+toc: false
 autores:
 - George R.R. Martin
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13647260-canciones-que-cantan-los-muertos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

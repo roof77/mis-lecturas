@@ -16,6 +16,7 @@ tags:
 - Aventuras
 - Fantasía épica
 - Literatura polaca
+toc: false
 autores:
 - Andrzej Sapkowski
 - José María Faraldo
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8284655-el-ltimo-deseo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

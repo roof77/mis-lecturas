@@ -16,6 +16,7 @@ tags:
 - Salud mentál
 - Novela
 - Adultos
+toc: false
 autores:
 - Han Kang
 - Sunme Yoon
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34593278-la-vegetariana)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

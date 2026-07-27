@@ -16,6 +16,7 @@ tags:
 - Thriller
 - Sobrenatural
 - Contemporaneo
+toc: false
 autores:
 - Grady Hendrix
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123509137-vendimos-nuestras-almas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

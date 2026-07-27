@@ -16,6 +16,7 @@ tags:
 - Ficción Literaria
 - Fantasía
 - Adultos
+toc: false
 autores:
 - Jacqueline Harpman
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57310370-yo-que-nunca-supe-de-los-hombres)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

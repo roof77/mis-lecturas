@@ -16,6 +16,7 @@ tags:
 - Ficción Literaria
 - Club de lectura
 - Adultos
+toc: false
 autores:
 - Donna Tartt
 - Gemma Rovira Ortega
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/505470.El_secreto)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

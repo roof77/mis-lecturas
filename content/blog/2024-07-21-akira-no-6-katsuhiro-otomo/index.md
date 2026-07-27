@@ -16,6 +16,7 @@ tags:
 - Japón
 - Literatura japanesa
 - Distopía
+toc: false
 autores:
 - Katsuhiro Otomo
 - Steve Oliff
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15780696-akira-no-6)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

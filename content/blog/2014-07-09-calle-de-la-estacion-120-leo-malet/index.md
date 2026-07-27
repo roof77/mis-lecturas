@@ -15,6 +15,7 @@ tags:
 - Internacional
 - Literatura francesa
 - Detectives
+toc: false
 autores:
 - Léo Malet
 - Luisa Feliu
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9396226-calle-de-la-estaci-n-120)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

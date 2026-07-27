@@ -16,6 +16,7 @@ tags:
 - Lovecraftiano
 - Thriller
 - Ciencia Ficción
+toc: false
 autores:
 - Charles Stross
 - Blanca Rodríguez
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35287062-el-archivo-de-atrocidades)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Ciencia Ficción
 - Antología
 - Literatura
+toc: false
 autores:
 - Ray Bradbury
 - Francisco Abelenda
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1053630.El_hombre_ilustrado)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

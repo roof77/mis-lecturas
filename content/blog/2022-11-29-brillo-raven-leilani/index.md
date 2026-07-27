@@ -16,6 +16,7 @@ tags:
 - Raza
 - Novela
 - Ficción adulta
+toc: false
 autores:
 - Raven Leilani
 - Laura Ibáñez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60229744-brillo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

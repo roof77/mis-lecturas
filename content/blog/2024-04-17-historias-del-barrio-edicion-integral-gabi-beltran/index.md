@@ -12,6 +12,7 @@ tags:
 - Biografía
 - Literatura hispana
 - No Ficción
+toc: false
 autores:
 - Gabi Beltrán
 - Bartolomé Seguí
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32720825-historias-del-barrio---edici-n-integral)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

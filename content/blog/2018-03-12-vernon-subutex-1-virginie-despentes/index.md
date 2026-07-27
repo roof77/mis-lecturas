@@ -16,6 +16,7 @@ tags:
 - Ficción Literaria
 - Siglo XXI
 - París
+toc: false
 autores:
 - Virginie Despentes
 - Noemí Sobregués Arias
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30126158-vernon-subutex-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

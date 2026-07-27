@@ -17,6 +17,7 @@ tags:
 - Contemporaneo
 - Ásia
 - Literatura asiática
+toc: false
 autores:
 - Hiroko Oyamada
 - Tana Oshima
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57443651-agujero)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

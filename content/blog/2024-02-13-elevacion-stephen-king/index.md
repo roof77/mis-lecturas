@@ -16,6 +16,7 @@ tags:
 - Ciencia ficción
 - Thriller
 - Adultos
+toc: false
 autores:
 - Stephen King
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/48570953-elevaci-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

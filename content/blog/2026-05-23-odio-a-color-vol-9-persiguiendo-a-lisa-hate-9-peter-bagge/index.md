@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+toc: false
 autores:
 - Peter Bagge
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40224954-odio-a-color-vol-9)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

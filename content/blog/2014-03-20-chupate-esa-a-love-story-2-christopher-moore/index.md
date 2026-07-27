@@ -17,6 +17,7 @@ tags:
 - Terror
 - Romance
 - Sobrenatural
+toc: false
 autores:
 - Christopher Moore
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6461637-ch-pate-esa)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

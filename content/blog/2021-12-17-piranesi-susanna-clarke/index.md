@@ -16,6 +16,7 @@ tags:
 - Dark Academia
 - Ficción Literaria
 - Adultos
+toc: false
 autores:
 - Susanna Clarke
 - Antonio Padilla Esteban
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58103015-piranesi)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

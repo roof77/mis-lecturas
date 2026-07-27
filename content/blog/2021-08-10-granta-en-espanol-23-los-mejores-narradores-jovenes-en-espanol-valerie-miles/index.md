@@ -12,6 +12,7 @@ tags:
 - Literatura hispana
 - España
 - Siglo XXI
+toc: false
 autores:
 - Valerie Miles
 - Mónica Ojeda
@@ -44,8 +45,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57728439-granta-en-espa-ol-23)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

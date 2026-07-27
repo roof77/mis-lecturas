@@ -16,6 +16,7 @@ tags:
 - Ficción histórica
 - Gótico sureño
 - Histórico
+toc: false
 autores:
 - Michael McDowell
 - Carles Andreu
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202795005-el-dique)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -14,6 +14,7 @@ tags:
 - Autobiografía
 - Biografía
 - Siglo XXI
+toc: false
 autores:
 - Joe Matt
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12152073-consumido)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

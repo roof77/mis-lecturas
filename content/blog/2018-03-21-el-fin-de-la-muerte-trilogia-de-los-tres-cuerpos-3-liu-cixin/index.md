@@ -16,6 +16,7 @@ tags:
 - Extraterrestres
 - Space Opera
 - Ficción especulativa
+toc: false
 autores:
 - Liu Cixin
 - Agustín Alepuz Morales
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32827109-el-fin-de-la-muerte)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

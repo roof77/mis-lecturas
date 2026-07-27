@@ -17,6 +17,7 @@ tags:
 - Siglo XX
 - Medicina
 - Novella
+toc: false
 autores:
 - Mikhail Bulgakov
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/224230.Morfina)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

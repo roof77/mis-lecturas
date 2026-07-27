@@ -15,6 +15,7 @@ tags:
 - Relatos
 - Literatura japanesa
 - Cocina
+toc: false
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55316119-la-cantina-de-medianoche-3)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

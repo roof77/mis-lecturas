@@ -16,6 +16,7 @@ tags:
 - Histórico
 - Colegio
 - Literatura clásica
+toc: false
 autores:
 - Charlotte Brontë
 - Carmen Martín Gaite
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29321463-jane-eyre)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

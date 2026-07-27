@@ -16,6 +16,7 @@ tags:
 - Contemporaneo
 - Adultos
 - Nueva York
+toc: false
 autores:
 - Iván Monalisa Ojeda
 - Hannah Kauders
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54224000-las-biuty-queens)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

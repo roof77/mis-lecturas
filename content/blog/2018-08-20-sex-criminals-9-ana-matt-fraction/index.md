@@ -12,6 +12,7 @@ tags:
 - Fantasía
 - Sexualidad
 - Humor
+toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23751779-sex-criminals-9)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

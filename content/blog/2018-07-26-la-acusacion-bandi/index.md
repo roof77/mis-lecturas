@@ -16,6 +16,7 @@ tags:
 - Literatura asiática
 - Histórico
 - Adultos
+toc: false
 autores:
 - Bandi
 - Hèctor Bofill
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35061049-la-acusaci-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

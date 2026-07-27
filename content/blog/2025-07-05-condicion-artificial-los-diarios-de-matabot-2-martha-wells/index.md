@@ -16,6 +16,7 @@ tags:
 - Fantasía
 - Robots
 - Space Opera
+toc: false
 autores:
 - Martha Wells
 - Carla Bataller Estruch
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50839395-condici-n-artificial)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Terror
 - Literatura hispana
+toc: false
 autores:
 - Nieves Mories
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36181081-la-chica-descalza-en-la-colina-de-los-ar-ndanos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Colecciones
 - Ficción especulativa
 - Colección de relatos
+toc: false
 autores:
 - George R.R. Martin
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37118735-los-reyes-de-la-arena)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

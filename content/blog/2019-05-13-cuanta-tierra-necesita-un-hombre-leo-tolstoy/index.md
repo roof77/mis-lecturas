@@ -17,6 +17,7 @@ tags:
 - Siglo XIX
 - Novela
 - Ficción histórica
+toc: false
 autores:
 - Leo Tolstoy
 - Víctor Gallego
@@ -27,8 +28,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12178983-cu-nta-tierra-necesita-un-hombre)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

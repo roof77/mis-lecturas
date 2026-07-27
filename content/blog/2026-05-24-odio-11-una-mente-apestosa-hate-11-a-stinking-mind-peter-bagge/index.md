@@ -6,6 +6,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+toc: false
 autores:
 - Peter Bagge
 editoriales:
@@ -13,8 +14,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2751010-odio-11-una-mente-apestosa-hate-11-a-stinking-mind)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Ficha del libro
 

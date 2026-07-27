@@ -16,6 +16,7 @@ tags:
 - EEUU
 - Sátira
 - Club de lectura
+toc: false
 autores:
 - George Saunders
 - Ben Clark
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22594577-pastoralia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

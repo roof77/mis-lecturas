@@ -15,6 +15,7 @@ tags:
 - Sureño
 - Gótico sureño
 - Clásico
+toc: false
 autores:
 - Breece D'J Pancake
 - Albert Fuentes
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16153172-trilobites)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

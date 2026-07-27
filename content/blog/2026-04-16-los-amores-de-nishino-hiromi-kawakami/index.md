@@ -17,6 +17,7 @@ tags:
 - Literatura asiática
 - Literatura
 - Adultos
+toc: false
 autores:
 - Hiromi Kawakami
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35086757-los-amores-de-nishino)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

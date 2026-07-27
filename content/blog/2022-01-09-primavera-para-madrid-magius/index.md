@@ -12,6 +12,7 @@ tags:
 - España
 - Política
 - Literatura hispana
+toc: false
 autores:
 - Magius
 editoriales:
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54571105-primavera-para-madrid)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

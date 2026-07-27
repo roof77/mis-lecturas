@@ -16,6 +16,7 @@ tags:
 - Novela
 - Club de lectura
 - Literatura
+toc: false
 autores:
 - Garth Risk Hallberg
 - Cruz Rodríguez Juiz
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28587041-ciudad-en-llamas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

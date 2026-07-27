@@ -16,6 +16,7 @@ tags:
 - Novela
 - Club de lectura
 - Fantasía
+toc: false
 autores:
 - Ray Bradbury
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4381.Fahrenheit_451)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Fantasía urbana
 - Romance
 - Ciencia Ficción
+toc: false
 autores:
 - Naomi Novik
 - Patricia Sebastián Hernández
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/75130247-los-enclaves-dorados)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

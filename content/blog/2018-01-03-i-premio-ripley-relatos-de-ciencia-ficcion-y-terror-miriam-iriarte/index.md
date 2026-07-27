@@ -10,6 +10,7 @@ tags:
 - Ciencia ficción
 - Terror
 - Relatos
+toc: false
 autores:
 - Miriam Iriarte
 - Alicia Sánchez
@@ -30,8 +31,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36387329-i-premio-ripley)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

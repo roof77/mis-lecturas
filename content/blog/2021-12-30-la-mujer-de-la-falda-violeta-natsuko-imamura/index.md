@@ -16,6 +16,7 @@ tags:
 - Ásia
 - Misterio
 - Literatura asiática
+toc: false
 autores:
 - Natsuko Imamura
 - Juan Francisco González Sánchez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54622627-la-mujer-de-la-falda-violeta)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

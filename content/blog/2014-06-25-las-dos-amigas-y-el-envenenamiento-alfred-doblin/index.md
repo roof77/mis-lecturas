@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Queer
 - Ficción histórica
+toc: false
 autores:
 - Alfred Döblin
 - Joan Fontcuberta i Gel
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18590777-las-dos-amigas-y-el-envenenamiento)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Gay
 - Victoriano
+toc: false
 autores:
 - Sarah Waters
 - Jaime Zulaika
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/131117.El_lustre_de_la_perla)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

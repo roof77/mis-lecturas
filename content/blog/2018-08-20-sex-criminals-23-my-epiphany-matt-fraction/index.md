@@ -9,6 +9,7 @@ tags:
 - Comics
 - Novela gráfica
 - Fantasía
+toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38218852-sex-criminals-23)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

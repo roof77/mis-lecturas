@@ -15,6 +15,7 @@ tags:
 - Mágia
 - Niños
 - Brujas
+toc: false
 autores:
 - J.K. Rowling
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31540509-hogwarts)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

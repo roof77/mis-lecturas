@@ -16,6 +16,7 @@ tags:
 - Ficción Literaria
 - Literatura asiática
 - Ásia
+toc: false
 autores:
 - Sayaka Murata
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/223531991-la-ceremonia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

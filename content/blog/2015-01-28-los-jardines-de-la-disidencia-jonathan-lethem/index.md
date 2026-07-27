@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - EEUU
 - Judaismo
+toc: false
 autores:
 - Jonathan Lethem
 - Cruz Rodríguez Juiz
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22053235-los-jardines-de-la-disidencia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

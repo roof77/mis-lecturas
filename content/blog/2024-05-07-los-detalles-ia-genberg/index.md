@@ -16,6 +16,7 @@ tags:
 - Literatura sueca
 - Club de lectura
 - Novela
+toc: false
 autores:
 - Ia Genberg
 - Gemma Pecharromán
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/122764891-los-detalles)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

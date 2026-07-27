@@ -17,6 +17,7 @@ tags:
 - Literatura
 - Ficción Literaria
 - Misterio
+toc: false
 autores:
 - Haruki Murakami
 - Junichi Matsuura
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3392482-cr-nica-del-p-jaro-que-da-cuerda-al-mundo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

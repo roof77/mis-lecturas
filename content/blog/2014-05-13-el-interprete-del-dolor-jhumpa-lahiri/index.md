@@ -17,6 +17,7 @@ tags:
 - Literatura india
 - Ásia
 - Colegio
+toc: false
 autores:
 - Jhumpa Lahiri
 - Gemma Rovira Ortega
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31392900-el-int-rprete-del-dolor)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

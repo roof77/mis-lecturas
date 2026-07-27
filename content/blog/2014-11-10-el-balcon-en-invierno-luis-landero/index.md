@@ -10,6 +10,7 @@ tags:
 - Ficción
 - Literatura hispana
 - España
+toc: false
 autores:
 - Luis Landero
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23345846-el-balc-n-en-invierno)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -14,6 +14,7 @@ tags:
 - Adultos
 - Distopía
 - Queer
+toc: false
 autores:
 - Eleanor Davis
 - Santiago García Fernández
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55293267-el-dif-cil-ma-ana)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

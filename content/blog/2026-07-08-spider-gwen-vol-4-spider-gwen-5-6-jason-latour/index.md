@@ -12,6 +12,7 @@ tags:
 - Ciencia ficción
 - Fantasía
 - Marvel
+toc: false
 autores:
 - Jason Latour
 editoriales:
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40943788-spider-gwen-vol-4)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

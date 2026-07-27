@@ -15,6 +15,7 @@ tags:
 - Manga
 - Relatos
 - Antología
+toc: false
 autores:
 - Bernie Wrightson
 - Bill Dubai
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22403824-creepy-presenta)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -6,6 +6,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+toc: false
 autores:
 - Robin Green
 editoriales:
@@ -13,8 +14,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/205147538-la-nica-chica)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Ficha del libro
 

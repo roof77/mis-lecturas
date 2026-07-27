@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - LGTBIQ+
 - Comics
+toc: false
 autores:
 - Nazario
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30345643-la-vida-cotidiana-del-dibujante-underground)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

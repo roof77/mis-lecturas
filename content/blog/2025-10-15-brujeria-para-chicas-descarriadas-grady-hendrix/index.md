@@ -16,6 +16,7 @@ tags:
 - Club de lectura
 - Paranormal
 - Adultos
+toc: false
 autores:
 - Grady Hendrix
 - Simón Saitó
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/236280582-brujer-a-para-chicas-descarriadas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

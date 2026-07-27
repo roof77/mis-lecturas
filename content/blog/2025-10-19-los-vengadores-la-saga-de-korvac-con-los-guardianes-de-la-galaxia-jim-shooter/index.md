@@ -15,6 +15,7 @@ tags:
 - Ciencia ficción
 - Clásico
 - Fantasía
+toc: false
 autores:
 - Jim Shooter
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22005997-los-vengadores)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

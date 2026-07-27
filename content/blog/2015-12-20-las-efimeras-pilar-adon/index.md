@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Literatura hispana
 - España
+toc: false
 autores:
 - Pilar Adón
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27465360-las-ef-meras)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

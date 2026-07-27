@@ -16,6 +16,7 @@ tags:
 - Fantasía
 - Ciencia ficción
 - Gay
+toc: false
 autores:
 - Adam Silvera
 - Antonio Padilla Esteban
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40043351-al-final-mueren-los-dos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

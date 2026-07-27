@@ -17,6 +17,7 @@ tags:
 - Ciencia Ficción
 - Club de lectura
 - Adultos
+toc: false
 autores:
 - Charlie Jane Anders
 - Natalia Cervera
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40609399-todos-los-p-jaros-del-cielo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

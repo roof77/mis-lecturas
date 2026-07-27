@@ -16,6 +16,7 @@ tags:
 - Humor
 - Novela
 - Familia
+toc: false
 autores:
 - Veronica Raimo
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/181903268-nada-es-verdad)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

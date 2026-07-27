@@ -17,6 +17,7 @@ tags:
 - Histórico
 - Ásia
 - Manga
+toc: false
 autores:
 - Keum Suk Gendry-Kim
 - Joo Hasun
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60575724-hierba)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

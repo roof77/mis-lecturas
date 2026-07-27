@@ -15,6 +15,7 @@ tags:
 - Noir
 - Suspense
 - Detectives
+toc: false
 autores:
 - Pierre Lemaitre
 - Juan Carlos Durán Romero
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25484805-ir-ne)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -11,6 +11,7 @@ tags:
 - Novela gráfica
 - Canada
 - Autobiografía
+toc: false
 autores:
 - Julie Doucet
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57470153-el-caso-de-madame-paul)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

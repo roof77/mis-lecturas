@@ -15,6 +15,7 @@ tags:
 - Clásico
 - Siglo XX
 - Club de lectura
+toc: false
 autores:
 - John Cheever
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11889.Bullet_Park)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

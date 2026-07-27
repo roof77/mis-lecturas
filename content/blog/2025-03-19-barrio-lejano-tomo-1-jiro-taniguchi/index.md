@@ -15,6 +15,7 @@ tags:
 - Viaje en el tiempo
 - Literatura japanesa
 - Seinen manga
+toc: false
 autores:
 - Jirō Taniguchi
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1187423.Barrio_lejano_Tomo_1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

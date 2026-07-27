@@ -16,6 +16,7 @@ tags:
 - Siglo XX
 - Autoras
 - Romance
+toc: false
 autores:
 - Edith Wharton
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21797076-los-ni-os)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

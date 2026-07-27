@@ -14,6 +14,7 @@ tags:
 - Sexualidad
 - Manga
 - Humor
+toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18740382-sex-criminals-4)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

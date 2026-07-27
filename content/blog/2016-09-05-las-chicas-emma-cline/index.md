@@ -16,6 +16,7 @@ tags:
 - Coming of age
 - Adultos
 - Thriller
+toc: false
 autores:
 - Emma Cline
 - Inga Pellisa
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30088893-las-chicas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

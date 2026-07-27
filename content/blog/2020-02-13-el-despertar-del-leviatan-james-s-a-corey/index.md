@@ -16,6 +16,7 @@ tags:
 - Misterio
 - Terror
 - Adultos
+toc: false
 autores:
 - James S.A. Corey
 - David Tejera Expósito
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32023743-el-despertar-del-leviat-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

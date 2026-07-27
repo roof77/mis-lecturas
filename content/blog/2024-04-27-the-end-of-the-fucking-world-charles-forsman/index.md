@@ -14,6 +14,7 @@ tags:
 - Crimen
 - Contemporaneo
 - Romance
+toc: false
 autores:
 - Charles Forsman
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16255272-the-end-of-the-fucking-world)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

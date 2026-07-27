@@ -16,6 +16,7 @@ tags:
 - Feminismo
 - Literatura británica
 - Arte
+toc: false
 autores:
 - Viv Albertine
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34993083-ropa-m-sica-chicos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Ficción especulativa
 - Adultos
 - Contemporaneo
+toc: false
 autores:
 - Naomi Alderman
 - Ana Guelbenzu
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34651531-the-power)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Ciencia Ficción
 - Club de lectura
 - Dark Academia
+toc: false
 autores:
 - Lev Grossman
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8725223-los-magos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

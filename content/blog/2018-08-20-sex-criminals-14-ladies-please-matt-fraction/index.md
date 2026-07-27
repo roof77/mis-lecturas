@@ -9,6 +9,7 @@ tags:
 - Comics
 - Novela gráfica
 - Fantasía
+toc: false
 autores:
 - Matt Fraction
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26057237-sex-criminals-14)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

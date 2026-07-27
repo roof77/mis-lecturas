@@ -15,6 +15,7 @@ tags:
 - Novela
 - Romance
 - Aventuras
+toc: false
 autores:
 - Arturo Pérez-Reverte
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24798977-hombres-buenos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

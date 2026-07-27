@@ -16,6 +16,7 @@ tags:
 - Ciencia Ficción
 - Novela
 - Polonia
+toc: false
 autores:
 - Stanisław Lem
 - Joanna Orzechowska
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11253835-solaris)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

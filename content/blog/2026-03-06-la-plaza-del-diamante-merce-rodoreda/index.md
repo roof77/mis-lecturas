@@ -17,6 +17,7 @@ tags:
 - Novela
 - Siglo XX
 - Literatura
+toc: false
 autores:
 - Mercè Rodoreda
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/908350.La_plaza_del_diamante)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

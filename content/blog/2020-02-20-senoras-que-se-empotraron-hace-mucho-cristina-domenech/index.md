@@ -17,6 +17,7 @@ tags:
 - Biografía
 - Literatura hispana
 - Romance
+toc: false
 autores:
 - Cristina Domenech
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50058115-se-oras-que-se-empotraron-hace-mucho)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

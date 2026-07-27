@@ -16,6 +16,7 @@ tags:
 - Contemporaneo
 - Thriller psicológico
 - Adultos
+toc: false
 autores:
 - S.J. Watson
 - Matuca Fernández de Villavicencio
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11942952-no-conf-es-en-nadie)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

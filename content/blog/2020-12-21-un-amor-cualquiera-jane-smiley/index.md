@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Ficción
 - Familia
+toc: false
 autores:
 - Jane Smiley
 - Francisco González López
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53443162-un-amor-cualquiera)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

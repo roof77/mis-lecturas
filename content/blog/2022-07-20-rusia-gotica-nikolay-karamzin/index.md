@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Literatura rusa
 - Relatos
+toc: false
 autores:
 - Nikolay Karamzin
 - Antony Pogorelsky
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11061693-rusia-g-tica)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

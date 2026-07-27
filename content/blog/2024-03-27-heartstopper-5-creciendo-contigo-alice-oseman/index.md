@@ -17,6 +17,7 @@ tags:
 - Ficción
 - Gay
 - Salud mentál
+toc: false
 autores:
 - Alice Oseman
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202748429-heartstopper-5-creciendo-contigo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

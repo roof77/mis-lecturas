@@ -16,6 +16,7 @@ tags:
 - Misterio
 - Sociología
 - Periodismo
+toc: false
 autores:
 - T. Christian Miller
 - Ken Armstrong
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51817538-creedme)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

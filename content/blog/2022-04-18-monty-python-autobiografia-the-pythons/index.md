@@ -16,6 +16,7 @@ tags:
 - Películas
 - Memorias
 - TV
+toc: false
 autores:
 - The Pythons
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59834525-monty-python-autobiograf-a)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

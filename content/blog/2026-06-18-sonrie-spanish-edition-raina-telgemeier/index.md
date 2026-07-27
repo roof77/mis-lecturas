@@ -16,6 +16,7 @@ tags:
 - Contemporaneo
 - Coming of age
 - Humor
+toc: false
 autores:
 - Raina Telgemeier
 - Jofre Homedes Beutnagel
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30349597-sonr-e)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

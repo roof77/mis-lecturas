@@ -16,6 +16,7 @@ tags:
 - Fantasía urbana
 - Thriller
 - Novella
+toc: false
 autores:
 - Brandon Sanderson
 - Manu Viciano
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51098395-legi-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

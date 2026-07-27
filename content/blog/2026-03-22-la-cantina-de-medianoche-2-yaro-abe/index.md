@@ -15,6 +15,7 @@ tags:
 - Ficción
 - Relatos
 - Seinen manga
+toc: false
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50353594-la-cantina-de-medianoche-2)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

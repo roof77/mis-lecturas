@@ -14,6 +14,7 @@ tags:
 - Literatura
 - Novela
 - Ásia
+toc: false
 autores:
 - Hirokazu Kore-eda
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46273171-un-asunto-de-familia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

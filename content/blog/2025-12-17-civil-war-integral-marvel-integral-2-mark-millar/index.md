@@ -9,6 +9,7 @@ tags:
 - Marvel
 - Comics
 - Superheroes
+toc: false
 autores:
 - Mark Millar
 - Brian Michael Bendis
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27800660-civil-war)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

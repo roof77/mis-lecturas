@@ -13,6 +13,7 @@ tags:
 - Ficción
 - Halloween
 - Vampiros
+toc: false
 autores:
 - Richard Sala
 - Curro Cruz
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35629898-peculia-y-los-vampiros-del-bosque-siniestro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

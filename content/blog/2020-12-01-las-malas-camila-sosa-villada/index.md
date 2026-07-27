@@ -16,6 +16,7 @@ tags:
 - Literatura hispana
 - Realismo mágico
 - Ficción Literaria
+toc: false
 autores:
 - Camila Sosa Villada
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44438256-las-malas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

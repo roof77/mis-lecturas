@@ -15,6 +15,7 @@ tags:
 - Fantasía
 - Relatos
 - Crimen
+toc: false
 autores:
 - Kurt Busiek
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13457470-astro-city-5)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Contemporaneo
 - Novela
 - Autoayuda
+toc: false
 autores:
 - Alain de Botton
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15813492-del-amor)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

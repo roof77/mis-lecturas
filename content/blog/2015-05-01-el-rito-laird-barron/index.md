@@ -16,6 +16,7 @@ tags:
 - Sobrenatural
 - Adultos
 - Thriller
+toc: false
 autores:
 - Laird Barron
 - Rubén Martín Giráldez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22878772-el-rito)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

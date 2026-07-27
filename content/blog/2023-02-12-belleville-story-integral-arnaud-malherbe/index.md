@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+toc: false
 autores:
 - Arnaud Malherbe
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22033238-belleville-story)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

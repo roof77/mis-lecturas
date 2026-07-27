@@ -6,6 +6,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+toc: false
 autores:
 - Vicky Gatekeeper
 editoriales:
@@ -13,8 +14,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58444559-la-encrucijada-de-desert-hole)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Ficha del libro
 

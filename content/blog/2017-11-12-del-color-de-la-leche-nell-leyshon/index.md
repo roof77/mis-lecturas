@@ -16,6 +16,7 @@ tags:
 - Literatura británica
 - Ficción Literaria
 - Adultos
+toc: false
 autores:
 - Nell Leyshon
 - Mariano Peyrou
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18510721-del-color-de-la-leche)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -12,6 +12,7 @@ tags:
 - España
 - Literatura hispana
 - Novela
+toc: false
 autores:
 - Elisa Victoria
 editoriales:
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/183535471-otaberra)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

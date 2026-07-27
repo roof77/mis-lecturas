@@ -16,6 +16,7 @@ tags:
 - Gay
 - Novella
 - Novela
+toc: false
 autores:
 - Katharina Volckmer
 - Inga Pellisa
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/222779748-polvazo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

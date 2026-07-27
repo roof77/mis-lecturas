@@ -16,6 +16,7 @@ tags:
 - Club de lectura
 - Histórico
 - Libros sobre libros
+toc: false
 autores:
 - D.E. Stevenson
 - Concepción Cardeñoso Sáenz de Miera
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/14061416-el-libro-de-la-se-orita-buncle)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

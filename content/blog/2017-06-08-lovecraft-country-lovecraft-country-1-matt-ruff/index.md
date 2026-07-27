@@ -16,6 +16,7 @@ tags:
 - Lovecraftiano
 - Club de lectura
 - Sobrenatural
+toc: false
 autores:
 - Matt Ruff
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25109947-lovecraft-country)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

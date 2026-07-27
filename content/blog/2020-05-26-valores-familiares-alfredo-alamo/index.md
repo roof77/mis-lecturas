@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Bizarro
+toc: false
 autores:
 - Alfredo Álamo
 - Sergi Álvarez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43625291-valores-familiares)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Realismo mágico
 - Latinos
 - Literatura latinoamericana
+toc: false
 autores:
 - Camila Sosa Villada
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60117883-soy-una-tonta-por-quererte)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

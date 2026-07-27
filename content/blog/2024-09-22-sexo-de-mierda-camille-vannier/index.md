@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+toc: false
 autores:
 - Camille Vannier
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60718865-sexo-de-mierda)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

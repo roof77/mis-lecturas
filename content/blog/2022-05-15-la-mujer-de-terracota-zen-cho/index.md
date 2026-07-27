@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Ciencia ficción
 - Mitología
+toc: false
 autores:
 - Zen Cho
 - Rebeca Cardeñoso Viña
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59130247-la-mujer-de-terracota)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

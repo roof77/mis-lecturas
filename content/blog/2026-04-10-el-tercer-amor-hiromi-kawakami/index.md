@@ -17,6 +17,7 @@ tags:
 - Literatura asiática
 - Contemporaneo
 - Ásia
+toc: false
 autores:
 - Hiromi Kawakami
 - Yoko Ogihara
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/223333748-el-tercer-amor)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

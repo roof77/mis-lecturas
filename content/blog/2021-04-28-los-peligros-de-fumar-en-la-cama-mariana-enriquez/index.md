@@ -17,6 +17,7 @@ tags:
 - Literatura hispana
 - Colección de relatos
 - Adultos
+toc: false
 autores:
 - Mariana Enriquez
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13121960-los-peligros-de-fumar-en-la-cama)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

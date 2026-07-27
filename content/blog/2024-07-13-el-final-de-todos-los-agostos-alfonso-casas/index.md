@@ -15,6 +15,7 @@ tags:
 - España
 - Contemporaneo
 - Manga
+toc: false
 autores:
 - Alfonso Casas
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36351146-el-final-de-todos-los-agostos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

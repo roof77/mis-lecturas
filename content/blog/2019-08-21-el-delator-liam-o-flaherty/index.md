@@ -16,6 +16,7 @@ tags:
 - Espionaje
 - Guerra
 - Novela
+toc: false
 autores:
 - Liam O'Flaherty
 - Antonio Rivero Taravillo
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3718548-el-delator)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

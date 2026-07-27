@@ -17,6 +17,7 @@ tags:
 - Literatura
 - Novella
 - Coming of age
+toc: false
 autores:
 - William Maxwell
 - Gabriela Bustelo
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5070249-adi-s-hasta-ma-ana)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Paranormal
 - Ficción histórica
 - Realismo mágico
+toc: false
 autores:
 - Borja González
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40522789-the-black-holes)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

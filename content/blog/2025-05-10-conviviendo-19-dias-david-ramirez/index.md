@@ -10,6 +10,7 @@ tags:
 - Comics
 - No Ficción
 - LGTBIQ+
+toc: false
 autores:
 - David Ramírez
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56280301-conviviendo-19-d-as)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

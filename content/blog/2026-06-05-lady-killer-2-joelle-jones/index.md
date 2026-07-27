@@ -11,6 +11,7 @@ tags:
 - Novela gráfica
 - Ficción histórica
 - Ficción
+toc: false
 autores:
 - Joëlle Jones
 - Jamie S. Rich
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24872041-lady-killer-2)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

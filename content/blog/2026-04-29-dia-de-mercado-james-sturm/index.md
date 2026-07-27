@@ -14,6 +14,7 @@ tags:
 - Judaismo
 - Ficción adulta
 - Adultos
+toc: false
 autores:
 - James Sturm
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11106982-d-a-de-mercado)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Coming of age
 - Libros prohibidos
 - Adolescencia
+toc: false
 autores:
 - Mariko Tamaki
 - Jillian Tamaki
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23014139-aquel-verano)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

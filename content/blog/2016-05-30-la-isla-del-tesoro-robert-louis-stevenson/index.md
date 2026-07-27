@@ -16,6 +16,7 @@ tags:
 - Piratas
 - Fantasía
 - Literatura
+toc: false
 autores:
 - Robert Louis Stevenson
 - Jordi Beltrán Ferrer
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26029208-la-isla-del-tesoro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

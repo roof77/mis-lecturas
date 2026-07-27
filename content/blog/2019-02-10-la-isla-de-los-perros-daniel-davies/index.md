@@ -10,6 +10,7 @@ authors:
 tags:
 - Lecturas
 - Ficción
+toc: false
 autores:
 - Daniel Davies
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12245826-la-isla-de-los-perros)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

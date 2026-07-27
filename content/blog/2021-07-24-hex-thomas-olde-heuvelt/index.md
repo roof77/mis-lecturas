@@ -16,6 +16,7 @@ tags:
 - Sobrenatural
 - Misterio
 - Adultos
+toc: false
 autores:
 - Thomas Olde Heuvelt
 - Ana Isabel Sánchez Díez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49020162-hex)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

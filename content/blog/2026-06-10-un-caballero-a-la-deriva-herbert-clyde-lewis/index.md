@@ -15,6 +15,7 @@ tags:
 - Literatura
 - Club de lectura
 - Muerte
+toc: false
 autores:
 - Herbert Clyde Lewis
 - Ángeles de los Santos
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/126517815-un-caballero-a-la-deriva)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

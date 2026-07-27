@@ -15,6 +15,7 @@ tags:
 - Niños
 - Relatos
 - Dragones
+toc: false
 autores:
 - Newt Scamander
 - Alicia Dellepiane Rawson
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2490849.Animales_fant_sticos_y_d_nde_encontrarlos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

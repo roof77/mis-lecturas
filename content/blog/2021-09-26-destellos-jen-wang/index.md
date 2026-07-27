@@ -15,6 +15,7 @@ tags:
 - Niños
 - Contemporaneo
 - Jovenes adultos
+toc: false
 autores:
 - Jen Wang
 - Julia Osuna Aguilar
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49439764-destellos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

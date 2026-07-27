@@ -17,6 +17,7 @@ tags:
 - Memorias
 - Biografía
 - Ciencias sociales
+toc: false
 autores:
 - Nigel Barley
 - María José Rodellar
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61476.El_antrop_logo_inocente)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

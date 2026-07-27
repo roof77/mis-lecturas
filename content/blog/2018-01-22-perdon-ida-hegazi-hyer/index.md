@@ -14,6 +14,7 @@ tags:
 - Ficción Literaria
 - Amor
 - Literatura escandinava
+toc: false
 autores:
 - Ida Hegazi Høyer
 - Cristina Gómez Baggethun
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36110334-perd-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -13,6 +13,7 @@ tags:
 - Literatura hispana
 - España
 - Ficción
+toc: false
 autores:
 - Borja González
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/172870462-el-p-jaro-y-la-serpiente)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

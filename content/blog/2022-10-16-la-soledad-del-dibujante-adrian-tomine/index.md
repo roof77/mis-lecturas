@@ -14,6 +14,7 @@ tags:
 - Biografía
 - Humor
 - Arte
+toc: false
 autores:
 - Adrian Tomine
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55453071-la-soledad-del-dibujante)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

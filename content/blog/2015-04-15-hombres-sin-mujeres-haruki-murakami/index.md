@@ -16,6 +16,7 @@ tags:
 - Literatura
 - Ficción Literaria
 - Literatura asiática
+toc: false
 autores:
 - Haruki Murakami
 - Gabriel Álvarez Martínez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25084093-hombres-sin-mujeres)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

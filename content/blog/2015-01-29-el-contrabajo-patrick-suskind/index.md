@@ -16,6 +16,7 @@ tags:
 - Drama
 - Contemporaneo
 - Siglo XX
+toc: false
 autores:
 - Patrick Süskind
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/241418.El_contrabajo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

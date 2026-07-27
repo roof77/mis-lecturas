@@ -15,6 +15,7 @@ tags:
 - Niños
 - Aventuras
 - Clásico
+toc: false
 autores:
 - J.K. Rowling
 - Gemma Rovira Ortega
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2366001.Harry_Potter_y_las_reliquias_de_la_muerte)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

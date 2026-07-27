@@ -16,6 +16,7 @@ tags:
 - Sobrenatural
 - Club de lectura
 - Adultos
+toc: false
 autores:
 - Grady Hendrix
 - Joan Josep Mussarra Roca
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61028152-el-exorcismo-de-mi-mejor-amiga)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

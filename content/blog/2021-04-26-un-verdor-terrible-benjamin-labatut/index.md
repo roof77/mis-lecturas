@@ -16,6 +16,7 @@ tags:
 - Física
 - Ficción Literaria
 - Club de lectura
+toc: false
 autores:
 - Benjamín Labatut
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55756916-un-verdor-terrible)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

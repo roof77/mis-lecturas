@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - Nueva York
 - Autoras
+toc: false
 autores:
 - Grace Paley
 - José Manuel Álvarez Flórez
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1132694.Enormes_cambios_de_ltimo_minuto)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

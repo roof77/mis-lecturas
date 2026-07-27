@@ -16,6 +16,7 @@ tags:
 - Romance
 - Transgenero
 - Lesbianismo
+toc: false
 autores:
 - Sara Soler
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58089618-us)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

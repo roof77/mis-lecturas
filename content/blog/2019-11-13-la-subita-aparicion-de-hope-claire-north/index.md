@@ -16,6 +16,7 @@ tags:
 - Misterio
 - Realismo mágico
 - Ficción especulativa
+toc: false
 autores:
 - Claire North
 - Jaime Valero
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38491831-la-s-bita-aparici-n-de-hope)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

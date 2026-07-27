@@ -16,6 +16,7 @@ tags:
 - EEUU
 - Literatura
 - Terror
+toc: false
 autores:
 - Aleksandar Hemon
 - Eduardo Jordá
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30337730-c-mo-se-hizo-la-guerra-de-los-zombies)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

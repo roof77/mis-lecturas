@@ -15,6 +15,7 @@ tags:
 - Negocios
 - Liderazgo
 - Salud
+toc: false
 autores:
 - James Clear
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45028173-h-bitos-at-micos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Terror
 - Fantasía urbana
 - Romance
+toc: false
 autores:
 - Naomi Novik
 - Patricia Sebastián Hernández
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55189714-una-educacion-mortal)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

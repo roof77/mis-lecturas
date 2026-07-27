@@ -16,6 +16,7 @@ tags:
 - Fantasía
 - Novela
 - Club de lectura
+toc: false
 autores:
 - Arkady Strugatsky
 - Boris Strugatsky
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15830041-p-cnic-junto-al-camino)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

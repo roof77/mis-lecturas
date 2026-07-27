@@ -14,6 +14,7 @@ tags:
 - Ficción histórica
 - Literatura italiana
 - Italia
+toc: false
 autores:
 - Hugo Pratt
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7842146-la-balada-del-mar-salado)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

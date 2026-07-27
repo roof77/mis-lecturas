@@ -16,6 +16,7 @@ tags:
 - Instituto
 - EEUU
 - Histórico
+toc: false
 autores:
 - John Steinbeck
 - Juan José Coy
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51611.De_ratones_y_hombres)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

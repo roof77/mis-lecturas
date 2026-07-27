@@ -16,6 +16,7 @@ tags:
 - Novella
 - Antología
 - Adultos
+toc: false
 autores:
 - Joe Hill
 - Pilar Ramírez Tello
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40884176-tiempo-extra-o)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

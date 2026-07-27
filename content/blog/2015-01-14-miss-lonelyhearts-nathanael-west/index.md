@@ -16,6 +16,7 @@ tags:
 - Novella
 - Ficción Literaria
 - Noir
+toc: false
 autores:
 - Nathanael West
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18686686-miss-lonelyhearts)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

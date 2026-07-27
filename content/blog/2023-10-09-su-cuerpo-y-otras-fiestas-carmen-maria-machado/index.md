@@ -17,6 +17,7 @@ tags:
 - Realismo mágico
 - Contemporaneo
 - Adultos
+toc: false
 autores:
 - Carmen Maria Machado
 - Laura Salas Rodríguez
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42507908-su-cuerpo-y-otras-fiestas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

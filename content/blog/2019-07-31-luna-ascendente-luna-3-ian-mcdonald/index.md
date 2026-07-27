@@ -16,6 +16,7 @@ tags:
 - Fantasía
 - Ciencia Ficción
 - Novela
+toc: false
 autores:
 - Ian McDonald
 - Natalia Eva Cervera de la Torre
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45457141-luna-ascendente)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

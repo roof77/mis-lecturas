@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Oscuro
 - Fantasmas
+toc: false
 autores:
 - Todd Keisling
 - Shaila Correa
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/218507754-la-cinta-duncan)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

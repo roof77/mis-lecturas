@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Ásia
 - Literatura asiática
+toc: false
 autores:
 - Sayaka Murata
 - Marina Bornas
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43764278-la-dependienta)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -8,13 +8,12 @@ authors:
 tags:
 - Lecturas
 - Ficción
+toc: false
 autores:
 - Barry Gifford
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39722728-baby-cat-face)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

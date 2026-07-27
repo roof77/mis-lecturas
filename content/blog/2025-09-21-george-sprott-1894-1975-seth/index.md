@@ -13,6 +13,7 @@ tags:
 - Canada
 - Manga
 - Arte
+toc: false
 autores:
 - Seth
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20318498-george-sprott-1894-1975)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Literatura asiática
 - Novela
 - Adultos
+toc: false
 autores:
 - Hiromi Kawakami
 - Marina Bornas Montaña
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6832714-el-cielo-es-azul-la-tierra-blanca)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Literatura francesa
 - Feminismo
 - Club de lectura
+toc: false
 autores:
 - Annie Ernaux
 - Lydia Vázquez Jiménez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49394460-los-a-os)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

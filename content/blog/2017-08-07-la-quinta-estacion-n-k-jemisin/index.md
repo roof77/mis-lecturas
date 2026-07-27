@@ -16,6 +16,7 @@ tags:
 - Club de lectura
 - Alta fantasía
 - LGTBIQ+
+toc: false
 autores:
 - N.K. Jemisin
 - David Tejera Expósito
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34418540-la-quinta-estaci-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

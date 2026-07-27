@@ -15,6 +15,7 @@ tags:
 - Contemporaneo
 - España
 - Mujeres
+toc: false
 autores:
 - Aixa de la Cruz
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43469036-cambiar-de-idea)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Religión
 - Ficción
 - Space Opera
+toc: false
 autores:
 - Alessandro Barbucci
 - Barbara Canepa
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18804135-sky-doll)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

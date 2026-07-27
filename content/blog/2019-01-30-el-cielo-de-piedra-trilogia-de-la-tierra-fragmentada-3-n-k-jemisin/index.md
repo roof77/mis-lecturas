@@ -16,6 +16,7 @@ tags:
 - Postapocalíptico
 - Mágia
 - Ficción especulativa
+toc: false
 autores:
 - N.K. Jemisin
 - David Tejera Expósito
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41577333-el-cielo-de-piedra)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

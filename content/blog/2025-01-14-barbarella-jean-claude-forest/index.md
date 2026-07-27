@@ -14,6 +14,7 @@ tags:
 - Francia
 - Fantasía
 - Romance
+toc: false
 autores:
 - Jean-Claude Forest
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/126285448-barbarella)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

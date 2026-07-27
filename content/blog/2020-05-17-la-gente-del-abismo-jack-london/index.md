@@ -17,6 +17,7 @@ tags:
 - Viajes
 - Literatura
 - EEUU
+toc: false
 autores:
 - Jack London
 - Javier Calvo
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31309565-la-gente-del-abismo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

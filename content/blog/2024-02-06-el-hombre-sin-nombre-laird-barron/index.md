@@ -16,6 +16,7 @@ tags:
 - Lovecraftiano
 - Misterio
 - Fantasía
+toc: false
 autores:
 - Laird Barron
 - Antonio Rivas
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/204376061-el-hombre-sin-nombre)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

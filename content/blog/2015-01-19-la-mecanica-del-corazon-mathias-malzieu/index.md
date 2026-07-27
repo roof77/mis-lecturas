@@ -16,6 +16,7 @@ tags:
 - Realismo mágico
 - Ficción histórica
 - Literatura francesa
+toc: false
 autores:
 - Mathias Malzieu
 - Vicenç Tuset
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6713167-la-mec-nica-del-coraz-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

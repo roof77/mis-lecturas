@@ -17,6 +17,7 @@ tags:
 - Animales
 - Literatura
 - Literatura canadiense
+toc: false
 autores:
 - Marian Engel
 - Magdalena Palmer
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25382522-oso)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

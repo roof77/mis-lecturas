@@ -15,6 +15,7 @@ tags:
 - Historia
 - Cultura Pop
 - Películas
+toc: false
 autores:
 - Bob Woodward
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9083717-como-una-moto)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Crimen
 - Manga
 - Fantasía
+toc: false
 autores:
 - Frank Miller
 - David Mazzucchelli
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/343662.Daredevil)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

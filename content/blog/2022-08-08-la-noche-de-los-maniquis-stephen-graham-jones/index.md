@@ -15,6 +15,7 @@ tags:
 - Relatos
 - Jovenes adultos
 - Índigenas
+toc: false
 autores:
 - Stephen Graham Jones
 - Manuel de los Reyes
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61135970-la-noche-de-los-maniqu-s)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

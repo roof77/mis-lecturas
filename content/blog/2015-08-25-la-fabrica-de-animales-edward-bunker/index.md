@@ -17,6 +17,7 @@ tags:
 - Canon
 - Contemporaneo
 - Siglo XX
+toc: false
 autores:
 - Edward Bunker
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28637008-la-f-brica-de-animales)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

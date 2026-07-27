@@ -15,6 +15,7 @@ tags:
 - Salud
 - Salud mentál
 - Ciencia
+toc: false
 autores:
 - Kieran Setiya
 - Ramón González Férriz
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43982486-en-la-mitad-de-la-vida)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

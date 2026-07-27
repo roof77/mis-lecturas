@@ -16,6 +16,7 @@ tags:
 - Espacio
 - Ficción militar
 - Ficción especulativa
+toc: false
 autores:
 - Lois McMaster Bujold
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3389882-el-aprendiz-de-guerrero)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -11,6 +11,7 @@ tags:
 - Ficción Literaria
 - Novela
 - EEUU
+toc: false
 autores:
 - Alison Lurie
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18753133-gente-de-verdad)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

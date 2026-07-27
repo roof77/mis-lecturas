@@ -16,6 +16,7 @@ tags:
 - Literatura japanesa
 - Contemporaneo
 - Francia
+toc: false
 autores:
 - Aki Shimazaki
 - Javier Albiñana
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59732097-luna-llena)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

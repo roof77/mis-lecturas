@@ -11,6 +11,7 @@ tags:
 - Rusia
 - España
 - Ficción histórica
+toc: false
 autores:
 - Manuel Chaves Nogales
 - Andrés Trapiello
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2788920-el-maestro-juan-mart-nez-que-estaba-all)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

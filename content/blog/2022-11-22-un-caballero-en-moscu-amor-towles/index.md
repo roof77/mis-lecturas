@@ -16,6 +16,7 @@ tags:
 - Novela
 - Adultos
 - Ficción adulta
+toc: false
 autores:
 - Amor Towles
 - Gemma Rovira Ortega
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42069120-un-caballero-en-mosc)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

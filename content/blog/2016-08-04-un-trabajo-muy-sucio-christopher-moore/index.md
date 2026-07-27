@@ -16,6 +16,7 @@ tags:
 - Terror
 - Sobrenatural
 - Club de lectura
+toc: false
 autores:
 - Christopher Moore
 - Victoria E. Horrillo Ledesma
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2202304.Un_trabajo_muy_sucio)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

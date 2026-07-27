@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Coming of age
 - Adolescencia
+toc: false
 autores:
 - Rainbow Rowell
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20447452-eleanor-y-park)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

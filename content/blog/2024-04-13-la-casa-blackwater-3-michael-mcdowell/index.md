@@ -15,6 +15,7 @@ tags:
 - Misterio
 - Thriller
 - Gótico sureño
+toc: false
 autores:
 - Michael McDowell
 - Carles Andreu
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202794989-la-casa)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

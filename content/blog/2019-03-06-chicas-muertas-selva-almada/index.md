@@ -16,6 +16,7 @@ tags:
 - Periodismo
 - Contemporaneo
 - Latino américa
+toc: false
 autores:
 - Selva Almada
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22211783-chicas-muertas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Fantasía
 - Filosofía
 - Política
+toc: false
 autores:
 - Ernst Jünger
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6069877-sobre-los-acantilados-de-m-rmol)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

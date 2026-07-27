@@ -16,6 +16,7 @@ tags:
 - Sátira
 - Ciencia ficción
 - Novela
+toc: false
 autores:
 - Terry Pratchett
 - Albert Solé Company
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/372389.Dioses_menores)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -10,6 +10,7 @@ tags:
 - Manga
 - Comics
 - Humor
+toc: false
 autores:
 - Akira Toriyama
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13490321-dr-slump-ultimate-edition-n-2)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

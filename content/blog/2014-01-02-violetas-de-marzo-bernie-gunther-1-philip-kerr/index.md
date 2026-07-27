@@ -16,6 +16,7 @@ tags:
 - Noir
 - Histórico
 - Detectives
+toc: false
 autores:
 - Philip Kerr
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2122406.Violetas_de_marzo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

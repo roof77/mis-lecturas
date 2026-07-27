@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+toc: false
 autores:
 - Alan Moore
 - Jacen Burrows
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/62969532-providence)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

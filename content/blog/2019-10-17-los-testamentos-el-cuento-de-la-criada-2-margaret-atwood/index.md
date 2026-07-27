@@ -16,6 +16,7 @@ tags:
 - Ficción Literaria
 - Ficción especulativa
 - Adultos
+toc: false
 autores:
 - Margaret Atwood
 - Eugenia Vázquez Nacarino
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50065849-los-testamentos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

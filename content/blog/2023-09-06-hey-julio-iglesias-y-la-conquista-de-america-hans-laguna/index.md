@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Música
+toc: false
 autores:
 - Hans Laguna
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60805210-hey-julio-iglesias-y-la-conquista-de-am-rica)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

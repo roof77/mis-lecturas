@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - Novela
 - Adultos
+toc: false
 autores:
 - Jeffrey Eugenides
 - Roser Berdagué
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/85618.Las_v_rgenes_suicidas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

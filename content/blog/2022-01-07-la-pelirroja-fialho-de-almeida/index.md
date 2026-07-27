@@ -11,6 +11,7 @@ tags:
 - Literatura portuguesa
 - Portugal
 - Romance
+toc: false
 autores:
 - Fialho de Almeida
 - Antonio Sáez Delgado
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30162057-la-pelirroja)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

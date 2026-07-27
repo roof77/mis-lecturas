@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Humor
 - Ficción
+toc: false
 autores:
 - Santiago Lorenzo
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8859580-los-millones)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Mujeres
 - Ensayo
+toc: false
 autores:
 - Caitlin Moran
 - Marta Salís
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18171929-c-mo-ser-mujer)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

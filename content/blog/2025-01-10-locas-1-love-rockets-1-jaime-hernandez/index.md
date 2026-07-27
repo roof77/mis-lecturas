@@ -13,6 +13,7 @@ tags:
 - LGTBIQ+
 - Ciencia ficción
 - Queer
+toc: false
 autores:
 - Jaime Hernández
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1774327.Locas_1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

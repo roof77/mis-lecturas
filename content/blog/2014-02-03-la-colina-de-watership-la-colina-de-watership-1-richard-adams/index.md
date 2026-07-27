@@ -16,6 +16,7 @@ tags:
 - Niños
 - Literatura
 - Novela
+toc: false
 autores:
 - Richard Adams
 - Pilar Giralt Gorina
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7639059-la-colina-de-watership)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

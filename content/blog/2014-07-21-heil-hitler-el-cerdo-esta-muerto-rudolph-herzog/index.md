@@ -16,6 +16,7 @@ tags:
 - Literatura alemana
 - Holocausto
 - Historia militar
+toc: false
 autores:
 - Rudolph Herzog
 - Begoña Llovet Barquero
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22517674-heil-hitler-el-cerdo-est-muerto)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

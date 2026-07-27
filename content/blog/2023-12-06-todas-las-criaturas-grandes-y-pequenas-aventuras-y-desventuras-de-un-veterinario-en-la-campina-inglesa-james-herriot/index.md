@@ -15,6 +15,7 @@ tags:
 - Humor
 - Autobiografía
 - Club de lectura
+toc: false
 autores:
 - James Herriot
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/199270192-todas-las-criaturas-grandes-y-peque-as-aventuras-y-desventuras-de-un-ve)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

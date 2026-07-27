@@ -16,6 +16,7 @@ tags:
 - Histórico
 - Contemporaneo
 - Novela
+toc: false
 autores:
 - Rebecca Makkai
 - Aurora Echevarría
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59353944-los-optimistas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - EEUU
 - Fantasía oscura
 - Gótico
+toc: false
 autores:
 - Carlton Mellick III
 - Hugo Camacho
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29505093-la-casa-de-arenas-movedizas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

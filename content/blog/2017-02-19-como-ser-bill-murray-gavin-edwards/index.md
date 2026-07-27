@@ -15,6 +15,7 @@ tags:
 - Filosofía
 - Cultura Pop
 - Adultos
+toc: false
 autores:
 - Gavin Edwards
 - Ismael Attrache
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33152703-c-mo-ser-bill-murray)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

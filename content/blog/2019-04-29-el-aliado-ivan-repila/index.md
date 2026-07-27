@@ -10,6 +10,7 @@ tags:
 - Ficción
 - Feminismo
 - Humor
+toc: false
 autores:
 - Iván Repila
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43468739-el-aliado)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

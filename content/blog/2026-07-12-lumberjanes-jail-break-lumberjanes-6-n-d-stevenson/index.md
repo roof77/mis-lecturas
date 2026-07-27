@@ -15,6 +15,7 @@ tags:
 - Aventuras
 - LGTBIQ+
 - Mágia
+toc: false
 autores:
 - N.D. Stevenson
 - Grace Ellis
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25233412-lumberjanes)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

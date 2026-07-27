@@ -17,6 +17,7 @@ tags:
 - Fantasía
 - Adultos
 - Novela
+toc: false
 autores:
 - Helen Phillips
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39345290-la-hermosa-bur-crata)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

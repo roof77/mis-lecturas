@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Histórico
 - Paranormal
+toc: false
 autores:
 - Gwendolyn Kiste
 - Antonio Torrubia
@@ -27,8 +28,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51874034-las-doncellas-de-xido)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

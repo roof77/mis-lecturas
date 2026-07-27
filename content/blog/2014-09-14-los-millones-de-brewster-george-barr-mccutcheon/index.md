@@ -15,6 +15,7 @@ tags:
 - Ficción histórica
 - EEUU
 - Nueva York
+toc: false
 autores:
 - George Barr McCutcheon
 - Pablo Sauras
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23150340-los-millones-de-brewster)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

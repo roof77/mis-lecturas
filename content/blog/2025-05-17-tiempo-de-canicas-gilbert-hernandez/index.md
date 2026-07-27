@@ -13,6 +13,7 @@ tags:
 - Jovenes adultos
 - Familia
 - Niños
+toc: false
 autores:
 - Gilbert Hernández
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22079435-tiempo-de-canicas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

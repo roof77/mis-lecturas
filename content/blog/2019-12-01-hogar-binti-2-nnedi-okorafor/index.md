@@ -16,6 +16,7 @@ tags:
 - África
 - Extraterrestres
 - Ficción especulativa
+toc: false
 autores:
 - Nnedi Okorafor
 - Carla Bataller Estruch
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42036106-hogar)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

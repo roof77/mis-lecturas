@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Literatura británica
+toc: false
 autores:
 - Bernice Rubens
 - Íñigo Fernández Fernández-Lomana
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36059810-con-el-traje-de-los-domingos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Shakespeare
 - Literatura británica
 - Novela
+toc: false
 autores:
 - Maggie O'Farrell
 - Concha Cardeñoso
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56644361-hamnet)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

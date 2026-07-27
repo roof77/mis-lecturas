@@ -14,6 +14,7 @@ tags:
 - Judaismo
 - Biografía
 - Club de lectura
+toc: false
 autores:
 - Dorothy Gallagher
 - Regina López Muñoz
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60901058-de-c-mo-recib-mi-herencia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

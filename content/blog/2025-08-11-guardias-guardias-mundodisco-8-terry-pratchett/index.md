@@ -16,6 +16,7 @@ tags:
 - Mágia
 - Alta fantasía
 - Sátira
+toc: false
 autores:
 - Terry Pratchett
 - Cristina Macía Orio
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6725527-guardias-guardias)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

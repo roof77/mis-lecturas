@@ -10,6 +10,7 @@ tags:
 - Novela gráfica
 - Fantasía
 - Ficción
+toc: false
 autores:
 - Matt Fraction
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25699331-sex-criminals-13)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

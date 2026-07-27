@@ -15,6 +15,7 @@ tags:
 - Literatura
 - Ficción Literaria
 - Club de lectura
+toc: false
 autores:
 - Paul Auster
 - Benito Gómez Ibáñez
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/846182.Brooklyn_Follies)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

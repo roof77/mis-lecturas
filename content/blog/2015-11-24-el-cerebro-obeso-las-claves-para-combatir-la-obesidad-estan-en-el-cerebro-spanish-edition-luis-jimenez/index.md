@@ -8,13 +8,12 @@ authors:
 tags:
 - Lecturas
 - Salud
+toc: false
 autores:
 - Luis Jiménez
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23960951-el-cerebro-obeso)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

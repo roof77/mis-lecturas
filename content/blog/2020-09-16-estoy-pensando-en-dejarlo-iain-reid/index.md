@@ -15,6 +15,7 @@ tags:
 - Contemporaneo
 - Suspense
 - Club de lectura
+toc: false
 autores:
 - Iain Reid
 - Cristina Martín Sanz
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55236706-estoy-pensando-en-dejarlo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

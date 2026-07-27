@@ -16,6 +16,7 @@ tags:
 - Queer
 - Vampiros
 - Fantasía urbana
+toc: false
 autores:
 - Seanan McGuire
 - María Pilar San Román
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41731406-ah-abajo-entre-ra-ces-y-huesos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

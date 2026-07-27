@@ -14,6 +14,7 @@ tags:
 - Películas
 - Judaismo
 - Terror
+toc: false
 autores:
 - Sammy Harkham
 - Alberto García Marcos
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/125607047-la-sangre-de-la-virgen)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

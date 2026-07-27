@@ -16,6 +16,7 @@ tags:
 - Coming of age
 - Adultos
 - Novela
+toc: false
 autores:
 - Sally Rooney
 - Inga Pellisa
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49366712-gente-normal)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

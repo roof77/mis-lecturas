@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - Literatura británica
 - Siglo XX
+toc: false
 autores:
 - Sylvia Townsend Warner
 - Celia Montolío
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30981924-lolly-willowes)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

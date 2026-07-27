@@ -11,6 +11,7 @@ tags:
 - Novela gráfica
 - Fantasía
 - Humor
+toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24734770-sex-criminals-10)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

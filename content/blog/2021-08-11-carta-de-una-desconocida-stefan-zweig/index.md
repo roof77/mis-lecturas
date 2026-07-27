@@ -16,6 +16,7 @@ tags:
 - Novela
 - Drama
 - Novella
+toc: false
 autores:
 - Stefan Zweig
 - Berta Conill Purgimon
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45732.Carta_de_una_desconocida)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

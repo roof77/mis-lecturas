@@ -14,6 +14,7 @@ tags:
 - Ásia
 - Ficción
 - Literatura asiática
+toc: false
 autores:
 - Kaita Murayama
 - Kidō Okamoto
@@ -35,8 +36,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34615030-kaiki)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

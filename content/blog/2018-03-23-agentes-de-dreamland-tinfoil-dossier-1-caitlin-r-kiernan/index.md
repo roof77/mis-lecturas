@@ -16,6 +16,7 @@ tags:
 - Ficción extraña
 - Ficción especulativa
 - Misterio
+toc: false
 autores:
 - Caitlín R. Kiernan
 - María Pilar San Román
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38450660-agentes-de-dreamland)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

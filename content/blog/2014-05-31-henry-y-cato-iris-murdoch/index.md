@@ -17,6 +17,7 @@ tags:
 - Autoras
 - LGTBIQ+
 - Literatura irlandesa
+toc: false
 autores:
 - Iris Murdoch
 - Luis Lasse
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20750606-henry-y-cato)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Marvel
 - Comics
+toc: false
 autores:
 - Mike Zeck
 - Steven Grant
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39101207-100-marvel-hc-el-castigador)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

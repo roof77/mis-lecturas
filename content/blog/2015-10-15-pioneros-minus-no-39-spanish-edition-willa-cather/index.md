@@ -16,6 +16,7 @@ tags:
 - Histórico
 - Oeste
 - Novela
+toc: false
 autores:
 - Willa Cather
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26255730-pioneros-minus-n-39)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

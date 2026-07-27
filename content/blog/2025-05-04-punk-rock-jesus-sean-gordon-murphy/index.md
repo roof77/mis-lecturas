@@ -16,6 +16,7 @@ tags:
 - Ciencia ficción
 - Música
 - DC
+toc: false
 autores:
 - Sean Gordon Murphy
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15798792-punk-rock-jesus)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

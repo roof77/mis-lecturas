@@ -16,6 +16,7 @@ tags:
 - Novela
 - Física
 - Inteligencia artificial
+toc: false
 autores:
 - Benjamín Labatut
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/199066748-maniac)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

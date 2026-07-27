@@ -17,6 +17,7 @@ tags:
 - Novela
 - Literatura
 - Política
+toc: false
 autores:
 - Viet Thanh Nguyen
 - Javier Calvo Perales
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41711264-el-simpatizante)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

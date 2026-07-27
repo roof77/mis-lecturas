@@ -16,6 +16,7 @@ tags:
 - Mágia
 - Londres
 - Sobrenatural
+toc: false
 autores:
 - Ben Aaronovitch
 - Cristina Martínez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36317313-r-os-de-londres)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

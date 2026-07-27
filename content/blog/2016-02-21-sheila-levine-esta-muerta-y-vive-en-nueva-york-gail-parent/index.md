@@ -17,6 +17,7 @@ tags:
 - Novela
 - EEUU
 - Contemporaneo
+toc: false
 autores:
 - Gail Parent
 - Zulema Couso
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25975508-sheila-levine-est-muerta-y-vive-en-nueva-york)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Ciencia Ficción
 - Club de lectura
 - Apocalipsis
+toc: false
 autores:
 - Hugh Howey
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18270865-espejismo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

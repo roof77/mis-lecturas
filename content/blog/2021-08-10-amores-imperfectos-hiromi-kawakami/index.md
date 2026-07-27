@@ -13,6 +13,7 @@ tags:
 - Ficción
 - Literatura asiática
 - Ásia
+toc: false
 autores:
 - Hiromi Kawakami
 - Marina Bornas Montaña
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32994995-amores-imperfectos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

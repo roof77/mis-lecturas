@@ -16,6 +16,7 @@ tags:
 - Ficción Literaria
 - Filosofía
 - Literatura asiática
+toc: false
 autores:
 - Osamu Dazai
 - Montse Watkins
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15718542-indigno-de-ser-humano)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

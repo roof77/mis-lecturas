@@ -16,6 +16,7 @@ tags:
 - Club de lectura
 - Thriller
 - Fantasmas
+toc: false
 autores:
 - Shirley Jackson
 - Óscar Palmer Yáñez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12604607-la-maldici-n-de-hill-house)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Periodismo
 - Sátira
 - Ficción americana
+toc: false
 autores:
 - Terry Southern
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3358198-a-la-rica-marihuana-y-otros-sabores)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

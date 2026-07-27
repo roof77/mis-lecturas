@@ -15,6 +15,7 @@ tags:
 - Aventuras
 - Libro de fotos
 - Juvenil
+toc: false
 autores:
 - Luke Pearson
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25971303-hilda-y-el-trol)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

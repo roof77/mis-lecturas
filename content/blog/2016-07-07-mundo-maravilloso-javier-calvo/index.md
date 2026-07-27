@@ -12,6 +12,7 @@ tags:
 - Literatura hispana
 - Misterio
 - Novela
+toc: false
 autores:
 - Javier Calvo
 editoriales:
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5227421-mundo-maravilloso)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

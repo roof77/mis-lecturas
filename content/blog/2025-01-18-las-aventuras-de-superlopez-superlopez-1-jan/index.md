@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
+toc: false
 autores:
 - Jan
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19537438-las-aventuras-de-superl-pez)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

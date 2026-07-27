@@ -15,6 +15,7 @@ tags:
 - LGTBIQ+
 - Biografía
 - Psicología
+toc: false
 autores:
 - Alison Bechdel
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17857915-eres-mi-madre)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

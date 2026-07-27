@@ -17,6 +17,7 @@ tags:
 - EEUU
 - Nativos americanos
 - Novela
+toc: false
 autores:
 - Vardis Fisher
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17792161-el-trampero)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

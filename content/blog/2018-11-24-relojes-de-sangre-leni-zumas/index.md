@@ -16,6 +16,7 @@ tags:
 - Ficción especulativa
 - Adultos
 - Ficción Literaria
+toc: false
 autores:
 - Leni Zumas
 - Mariana Hernández Cruz
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40624107-relojes-de-sangre)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

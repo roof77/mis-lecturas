@@ -13,6 +13,7 @@ tags:
 - Queer
 - Novela gráfica
 - Francia
+toc: false
 autores:
 - Lisa Mandel
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36536635-princesa-ama-a-princesa)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

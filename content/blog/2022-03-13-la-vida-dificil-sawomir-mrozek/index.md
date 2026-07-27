@@ -10,6 +10,7 @@ tags:
 - Ficción
 - Humor
 - Relatos
+toc: false
 autores:
 - Sławomir Mrożek
 - Francesc Miravitlles
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6046799-la-vida-dif-cil)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

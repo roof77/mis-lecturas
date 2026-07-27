@@ -15,6 +15,7 @@ tags:
 - Fantasía
 - Civil war
 - Ciencia ficción
+toc: false
 autores:
 - Ed Brubaker
 - Steve Epting
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36260005-capit-n-am-rica-civil-war)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

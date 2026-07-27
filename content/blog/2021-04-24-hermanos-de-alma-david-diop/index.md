@@ -17,6 +17,7 @@ tags:
 - Francia
 - Terror
 - Primera guerra mundial
+toc: false
 autores:
 - David Diop
 - Rubén Martín Giráldez
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53016418-hermanos-de-alma)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

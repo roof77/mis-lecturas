@@ -16,6 +16,7 @@ tags:
 - Ciencia Ficción
 - Adultos
 - Extraterrestres
+toc: false
 autores:
 - Nnedi Okorafor
 - Carla Bataller Estruch
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37877850-binti)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

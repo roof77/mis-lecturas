@@ -16,6 +16,7 @@ tags:
 - Naturaleza
 - Humor
 - Ficción adulta
+toc: false
 autores:
 - George Saunders
 - Chelsea Cardinal
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/62668733-zorro-8)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

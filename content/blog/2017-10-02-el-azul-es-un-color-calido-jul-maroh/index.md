@@ -15,6 +15,7 @@ tags:
 - Ficción
 - Jovenes adultos
 - Francia
+toc: false
 autores:
 - Jul Maroh
 - Lorenzo F. Díaz
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17182033-el-azul-es-un-color-c-lido)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

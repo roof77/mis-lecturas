@@ -15,6 +15,7 @@ tags:
 - Guerra
 - Contemporaneo
 - Novela
+toc: false
 autores:
 - Gonçalo M. Tavares
 - Rosa Martinez Alfaro
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29388408-una-ni-a-est-perdida-en-el-siglo-xx)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Coming of age
 - Drama
 - Ficción Literaria
+toc: false
 autores:
 - Beatrice Salvioni
 - Ana Ciurans Ferrándiz
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123364621-la-malnacida)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Contemporaneo
 - Misterio
 - Distopía
+toc: false
 autores:
 - David Mitchell
 - Laura Salas Rodríguez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29662504-relojes-de-hueso)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

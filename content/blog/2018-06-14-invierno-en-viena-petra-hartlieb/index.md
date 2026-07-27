@@ -17,6 +17,7 @@ tags:
 - Autoras
 - Comfortable
 - Novela
+toc: false
 autores:
 - Petra Hartlieb
 - Richard Gross
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36243131-invierno-en-viena)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Ficción histórica
 - Club de lectura
 - Histórico
+toc: false
 autores:
 - Claire Morgan
 - Patricia Highsmith
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6424009-carol)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

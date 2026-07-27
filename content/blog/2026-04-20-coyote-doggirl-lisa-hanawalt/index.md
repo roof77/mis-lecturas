@@ -16,6 +16,7 @@ tags:
 - Animales
 - Adultos
 - Feminismo
+toc: false
 autores:
 - Lisa Hanawalt
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51081995-coyote-doggirl)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

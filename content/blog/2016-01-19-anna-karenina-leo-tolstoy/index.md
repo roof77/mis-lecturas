@@ -16,6 +16,7 @@ tags:
 - Literatura
 - Novela
 - Histórico
+toc: false
 autores:
 - Leo Tolstoy
 - Víctor Gallego Ballestero
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13454802-anna-kar-nina)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

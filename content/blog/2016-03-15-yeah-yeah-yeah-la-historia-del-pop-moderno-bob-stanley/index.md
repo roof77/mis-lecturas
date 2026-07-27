@@ -16,6 +16,7 @@ tags:
 - Sociología
 - Crítica
 - Siglo XXI
+toc: false
 autores:
 - Bob Stanley
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28271884-yeah-yeah-yeah-la-historia-del-pop-moderno)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Gótico
 - Adultos
 - Literatura hispana
+toc: false
 autores:
 - María Fernanda Ampuero
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56509274-sacrificios-humanos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

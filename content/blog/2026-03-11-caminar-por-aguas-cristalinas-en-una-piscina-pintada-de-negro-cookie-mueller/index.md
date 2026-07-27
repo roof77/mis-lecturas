@@ -16,6 +16,7 @@ tags:
 - LGTBIQ+
 - Arte
 - Nueva York
+toc: false
 autores:
 - Cookie Mueller
 - Rodrigo Olavarría
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/209302470-caminar-por-aguas-cristalinas-en-una-piscina-pintada-de-negro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

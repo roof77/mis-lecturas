@@ -16,6 +16,7 @@ tags:
 - Realismo mágico
 - Fantasía
 - Literatura asiática
+toc: false
 autores:
 - Yukiko Motoya
 - Jordi Fibla
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45717173-mi-marido-es-de-otra-especie)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

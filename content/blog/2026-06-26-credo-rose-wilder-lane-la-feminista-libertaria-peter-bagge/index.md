@@ -15,6 +15,7 @@ tags:
 - Política
 - Memorias
 - Feminismo
+toc: false
 autores:
 - Peter Bagge
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50689969-credo-rose-wilder-lane-la-feminista-libertaria)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

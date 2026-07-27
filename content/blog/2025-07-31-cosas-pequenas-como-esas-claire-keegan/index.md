@@ -16,6 +16,7 @@ tags:
 - Novella
 - Literatura irlandesa
 - Histórico
+toc: false
 autores:
 - Claire Keegan
 - Jorge Fondebrider
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59111053-cosas-peque-as-como-esas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

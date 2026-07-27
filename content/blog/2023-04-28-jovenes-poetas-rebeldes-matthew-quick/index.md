@@ -15,6 +15,7 @@ tags:
 - Coming of age
 - Salud mentál
 - Adolescencia
+toc: false
 autores:
 - Matthew Quick
 - Julio Hermoso
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30833310-j-venes-poetas-rebeldes)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

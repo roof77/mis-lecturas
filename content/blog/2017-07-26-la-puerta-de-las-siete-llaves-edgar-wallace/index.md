@@ -16,6 +16,7 @@ tags:
 - Edad de oro
 - Siglo XX
 - Literatura británica
+toc: false
 autores:
 - Edgar Wallace
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22005685-la-puerta-de-las-siete-llaves)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

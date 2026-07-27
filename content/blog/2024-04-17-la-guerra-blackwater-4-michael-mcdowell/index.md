@@ -16,6 +16,7 @@ tags:
 - Gótico sureño
 - Thriller
 - Histórico
+toc: false
 autores:
 - Michael McDowell
 - Albert Vitó
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202795194-la-guerra)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

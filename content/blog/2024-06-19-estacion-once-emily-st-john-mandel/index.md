@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Ficción Literaria
 - Apocalipsis
+toc: false
 autores:
 - Emily St. John Mandel
 - María del Puerto Barruetabeña Díez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28445890-estaci-n-once)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

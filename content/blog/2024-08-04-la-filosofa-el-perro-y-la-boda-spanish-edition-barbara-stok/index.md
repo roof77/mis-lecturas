@@ -15,6 +15,7 @@ tags:
 - Biografía
 - Feminismo
 - Histórico
+toc: false
 autores:
 - Barbara Stok
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/211174142-la-fil-sofa-el-perro-y-la-boda)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

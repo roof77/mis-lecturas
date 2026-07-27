@@ -15,6 +15,7 @@ tags:
 - Salud mentál
 - Contemporaneo
 - Muerte
+toc: false
 autores:
 - Jordan Crane
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202308894-no-te-vayas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

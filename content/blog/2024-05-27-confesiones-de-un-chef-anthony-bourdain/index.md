@@ -15,6 +15,7 @@ tags:
 - Autobiografía
 - Club de lectura
 - Humor
+toc: false
 autores:
 - Anthony Bourdain
 - Carmen Aguilar
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/111132.Confesiones_de_un_chef)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

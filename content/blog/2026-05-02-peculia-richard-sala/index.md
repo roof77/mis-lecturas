@@ -11,6 +11,7 @@ tags:
 - Novela gráfica
 - Terror
 - Ficción
+toc: false
 autores:
 - Richard Sala
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/808944.Peculia)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

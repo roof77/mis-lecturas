@@ -16,6 +16,7 @@ tags:
 - Contemporaneo
 - Novela
 - Histórico
+toc: false
 autores:
 - Anna Burns
 - Maia Figueroa Evans
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44151217-milkman)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

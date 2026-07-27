@@ -16,6 +16,7 @@ tags:
 - Novela
 - Contemporaneo
 - Literatura británica
+toc: false
 autores:
 - Michael Dobbs
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24295815-house-of-cards)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

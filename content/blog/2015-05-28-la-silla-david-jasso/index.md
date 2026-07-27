@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Terror
+toc: false
 autores:
 - David Jasso
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9547513-la-silla)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

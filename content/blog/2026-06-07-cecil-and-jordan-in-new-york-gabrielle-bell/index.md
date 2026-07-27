@@ -14,6 +14,7 @@ tags:
 - Nueva York
 - Mujeres
 - Adultos
+toc: false
 autores:
 - Gabrielle Bell
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3061857-cecil-and-jordan-in-new-york)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

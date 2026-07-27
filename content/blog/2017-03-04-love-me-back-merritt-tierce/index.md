@@ -17,6 +17,7 @@ tags:
 - Ficción realista
 - Oscuro
 - Literatura
+toc: false
 autores:
 - Merritt Tierce
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20171005-love-me-back)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

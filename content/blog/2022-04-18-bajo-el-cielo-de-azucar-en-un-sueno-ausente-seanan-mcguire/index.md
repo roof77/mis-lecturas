@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Fantasía
+toc: false
 autores:
 - Seanan McGuire
 - María Pilar San Román
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60187916-bajo-el-cielo-de-az-car-en-un-sue-o-ausente)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

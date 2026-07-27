@@ -15,6 +15,7 @@ tags:
 - Gay
 - Ciencia Ficción
 - Adultos
+toc: false
 autores:
 - Ellen Kushner
 - Manuel de los Reyes
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6404872-a-punta-de-espada)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

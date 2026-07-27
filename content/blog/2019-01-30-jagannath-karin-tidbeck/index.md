@@ -17,6 +17,7 @@ tags:
 - Ficción especulativa
 - Suecia
 - Colección de relatos
+toc: false
 autores:
 - Karin Tidbeck
 - Carmen Montes Cano
@@ -28,8 +29,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20652503-jagannath)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

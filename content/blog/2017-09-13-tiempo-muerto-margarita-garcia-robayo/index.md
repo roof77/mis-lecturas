@@ -19,6 +19,7 @@ tags:
 - Contemporaneo
 - Latino américa
 - Mujeres
+toc: false
 autores:
 - Margarita García Robayo
 editoriales:
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36250104-tiempo-muerto)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Aventuras
 - Ciencia Ficción
 - Mágia
+toc: false
 autores:
 - Joe Abercrombie
 - Borja García Bercero
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1794071.La_voz_de_las_espadas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Crimen
 - Terror
 - Humor
+toc: false
 autores:
 - John Layman
 - Rob Guillory
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6839093-chew-vol-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

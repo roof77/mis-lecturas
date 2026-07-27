@@ -16,6 +16,7 @@ tags:
 - Sociología
 - Salud mentál
 - Estudios de género
+toc: false
 autores:
 - Caitlin Moran
 - Gemma Rovira
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/229262898-y-los-hombres-qu)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

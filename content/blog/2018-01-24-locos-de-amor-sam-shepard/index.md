@@ -14,6 +14,7 @@ tags:
 - Universidad
 - EEUU
 - Romance
+toc: false
 autores:
 - Sam Shepard
 - Gustavo Pérez de Ayala
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/687389.Locos_de_amor)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

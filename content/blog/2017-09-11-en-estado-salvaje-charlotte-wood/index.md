@@ -17,6 +17,7 @@ tags:
 - Ciencia ficción
 - Terror
 - Literatura
+toc: false
 autores:
 - Charlotte Wood
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35528769-en-estado-salvaje)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

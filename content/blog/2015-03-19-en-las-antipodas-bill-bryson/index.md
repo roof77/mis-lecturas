@@ -16,6 +16,7 @@ tags:
 - Aventuras
 - Club de lectura
 - Biografía
+toc: false
 autores:
 - Bill Bryson
 - Esther Roig Giménez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16089505-en-las-ant-podas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

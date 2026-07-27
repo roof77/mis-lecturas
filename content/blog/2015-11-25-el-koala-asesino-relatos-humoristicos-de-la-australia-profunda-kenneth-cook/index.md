@@ -13,6 +13,7 @@ tags:
 - Francia
 - Viajes
 - Ficción
+toc: false
 autores:
 - Kenneth Cook
 - Guido Sender Montes
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13340609-el-koala-asesino)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

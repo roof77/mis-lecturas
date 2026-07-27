@@ -15,6 +15,7 @@ tags:
 - Novella
 - Adultos
 - Fantasía
+toc: false
 autores:
 - Sara Gran
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/152047655-ac-rcate)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

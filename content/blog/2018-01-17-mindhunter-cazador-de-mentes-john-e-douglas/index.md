@@ -16,6 +16,7 @@ tags:
 - Memorias
 - Misterio
 - Adultos
+toc: false
 autores:
 - John E. Douglas
 - Mark Olshaker
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37543890-mindhunter)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

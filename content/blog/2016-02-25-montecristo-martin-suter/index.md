@@ -15,6 +15,7 @@ tags:
 - Misterio
 - Clásico
 - Novela
+toc: false
 autores:
 - Martin Suter
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26807496-montecristo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

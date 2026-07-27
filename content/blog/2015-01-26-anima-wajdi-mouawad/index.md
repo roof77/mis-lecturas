@@ -15,6 +15,7 @@ tags:
 - Novela
 - Contemporaneo
 - Ficción Literaria
+toc: false
 autores:
 - Wajdi Mouawad
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16008346-anima)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

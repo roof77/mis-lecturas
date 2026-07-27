@@ -10,6 +10,7 @@ tags:
 - Ficción
 - Humor
 - Novela
+toc: false
 autores:
 - Laura Fernández
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59418672-la-se-ora-potter-no-es-exactamente-santa-claus)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

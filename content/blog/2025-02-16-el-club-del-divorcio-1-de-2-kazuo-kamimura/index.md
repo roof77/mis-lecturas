@@ -13,6 +13,7 @@ tags:
 - Drama
 - Seinen manga
 - Japón
+toc: false
 autores:
 - Kazuo Kamimura
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36436640-el-club-del-divorcio-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

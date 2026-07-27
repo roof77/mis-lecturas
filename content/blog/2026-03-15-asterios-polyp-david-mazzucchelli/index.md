@@ -13,6 +13,7 @@ tags:
 - Filosofía
 - Arte
 - Arquitectura
+toc: false
 autores:
 - David Mazzucchelli
 - Esther Cruz Santaella
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24978609-asterios-polyp)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -12,6 +12,7 @@ tags:
 - Ficción
 - Relatos
 - Literatura hispana
+toc: false
 autores:
 - Rocío Vega
 editoriales:
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29367864-un-encargo-f-cil)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

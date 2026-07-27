@@ -15,6 +15,7 @@ tags:
 - Gótico
 - Adultos
 - Ficción histórica
+toc: false
 autores:
 - Julia Gfrörer
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59110540-visi-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

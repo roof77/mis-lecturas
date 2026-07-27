@@ -15,6 +15,7 @@ tags:
 - Novela
 - Negocios
 - Clásico
+toc: false
 autores:
 - Hunter S. Thompson
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29914913-la-maldici-n-de-lono)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

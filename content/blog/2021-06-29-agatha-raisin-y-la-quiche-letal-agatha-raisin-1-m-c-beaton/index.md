@@ -16,6 +16,7 @@ tags:
 - Literatura británica
 - Humor
 - Adultos
+toc: false
 autores:
 - M.C. Beaton
 - Vicente Campos
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22556556-agatha-raisin-y-la-quiche-letal)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

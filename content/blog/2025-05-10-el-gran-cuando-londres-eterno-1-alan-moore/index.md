@@ -16,6 +16,7 @@ tags:
 - Libros sobre libros
 - Histórico
 - Ficción especulativa
+toc: false
 autores:
 - Alan Moore
 - Juan Trejo
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/228564741-el-gran-cuando)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

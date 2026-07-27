@@ -16,6 +16,7 @@ tags:
 - EEUU
 - Ficción Literaria
 - Siglo XX
+toc: false
 autores:
 - Tillie Olsen
 - Blanca Gago Domínguez
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53361948-dime-una-adivinanza)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

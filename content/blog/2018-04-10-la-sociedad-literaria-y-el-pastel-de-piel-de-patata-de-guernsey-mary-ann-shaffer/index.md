@@ -16,6 +16,7 @@ tags:
 - Guerra
 - Libros sobre libros
 - Adultos
+toc: false
 autores:
 - Mary Ann Shaffer
 - Annie Barrows
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6404106-la-sociedad-literaria-y-el-pastel-de-piel-de-patata-de-guernsey)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

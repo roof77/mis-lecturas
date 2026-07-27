@@ -15,6 +15,7 @@ tags:
 - Ciencia ficción
 - Misterio
 - Vampiros
+toc: false
 autores:
 - Kurt Busiek
 - Brent Anderson
@@ -28,8 +29,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/72112.Astro_City_Vol_2)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

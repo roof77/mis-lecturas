@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Humor
 - Contemporaneo
+toc: false
 autores:
 - Daryl Gregory
 - Carles Andreu Saburit
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39084706-la-extraordinaria-familia-telemacus)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

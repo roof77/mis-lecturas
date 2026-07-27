@@ -13,6 +13,7 @@ tags:
 - Ficción
 - Novela
 - Contemporaneo
+toc: false
 autores:
 - José Luís Peixoto
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32332855-galveias-galveias)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

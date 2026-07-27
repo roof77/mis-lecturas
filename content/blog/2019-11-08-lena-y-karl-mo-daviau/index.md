@@ -16,6 +16,7 @@ tags:
 - Humor
 - Ficción adulta
 - Adultos
+toc: false
 autores:
 - Mo Daviau
 - Carles Andreu Saburit
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46268541-lena-y-karl)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

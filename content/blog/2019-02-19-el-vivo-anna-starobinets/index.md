@@ -16,6 +16,7 @@ tags:
 - Cyberpunk
 - Terror
 - Ficción especulativa
+toc: false
 autores:
 - Anna Starobinets
 - Raquel Marqués García
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16158844-el-vivo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

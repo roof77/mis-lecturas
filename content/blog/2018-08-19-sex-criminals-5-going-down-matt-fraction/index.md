@@ -13,6 +13,7 @@ tags:
 - Sexualidad
 - Comedia
 - Romance
+toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18875817-sex-criminals-5)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

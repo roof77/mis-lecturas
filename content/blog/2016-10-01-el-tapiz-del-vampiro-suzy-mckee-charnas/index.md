@@ -17,6 +17,7 @@ tags:
 - Fantasía urbana
 - Sobrenatural
 - Ficción especulativa
+toc: false
 autores:
 - Suzy McKee Charnas
 - Albert Solé
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6465034-el-tapiz-del-vampiro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

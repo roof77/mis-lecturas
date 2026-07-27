@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Comics
 - Fantasía
+toc: false
 autores:
 - David Sánchez
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34644421-un-mill-n-de-a-os)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

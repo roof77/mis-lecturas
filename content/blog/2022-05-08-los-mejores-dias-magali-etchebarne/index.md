@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Relatos
 - Ficción
+toc: false
 autores:
 - Magalí Etchebarne
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44581187-los-mejores-d-as)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

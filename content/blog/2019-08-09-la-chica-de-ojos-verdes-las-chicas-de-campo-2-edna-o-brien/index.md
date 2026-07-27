@@ -17,6 +17,7 @@ tags:
 - Mujeres
 - Coming of age
 - Clásicos modernos
+toc: false
 autores:
 - Edna O'Brien
 - Regina López Muñoz
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22734631-la-chica-de-ojos-verdes)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

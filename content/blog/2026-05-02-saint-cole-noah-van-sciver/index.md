@@ -12,6 +12,7 @@ tags:
 - Ficción
 - EEUU
 - Slice of life
+toc: false
 autores:
 - Noah Van Sciver
 editoriales:
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41728561-saint-cole)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Mágia
 - Relatos
 - Ciencia Ficción
+toc: false
 autores:
 - Kennilworthy Whisp
 - J.K. Rowling
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9395411-quidditch-a-trav-s-de-los-tiempos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

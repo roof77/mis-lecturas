@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Literatura hispana
 - No Ficción
+toc: false
 autores:
 - Paco Gómez
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20806597-los-modlin)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

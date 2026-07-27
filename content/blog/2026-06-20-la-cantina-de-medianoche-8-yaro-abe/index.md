@@ -8,6 +8,7 @@ tags:
 - Lecturas
 - Manga
 - Comics
+toc: false
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/235058109-la-cantina-de-medianoche-8)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Ficha del libro
 

@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - LGTBIQ+
+toc: false
 autores:
 - Melani Penna Tosso
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57964550-bollo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

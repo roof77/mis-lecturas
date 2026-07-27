@@ -7,6 +7,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+toc: false
 autores:
 - Jeff Lemire
 - Santiago García
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/211172597-las-ef-meras-tomo-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Ficha del libro
 

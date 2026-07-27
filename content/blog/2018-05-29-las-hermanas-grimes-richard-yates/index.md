@@ -15,6 +15,7 @@ tags:
 - Literatura
 - Siglo XX
 - Club de lectura
+toc: false
 autores:
 - Richard Yates
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12535048-las-hermanas-grimes)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

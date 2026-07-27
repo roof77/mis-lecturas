@@ -15,6 +15,7 @@ tags:
 - Historia
 - Humor
 - Club de lectura
+toc: false
 autores:
 - Bill Bryson
 - Francisco J. Ramos Mena
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51808402-el-cuerpo-humano)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

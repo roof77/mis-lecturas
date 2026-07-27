@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Comics
 - Marvel
+toc: false
 autores:
 - Jason Latour
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30166509-spider-gwen-vol-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

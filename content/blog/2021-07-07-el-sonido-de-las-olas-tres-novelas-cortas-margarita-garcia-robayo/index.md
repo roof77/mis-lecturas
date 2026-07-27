@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Ficción
 - Novela
+toc: false
 autores:
 - Margarita García Robayo
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51154652-el-sonido-de-las-olas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

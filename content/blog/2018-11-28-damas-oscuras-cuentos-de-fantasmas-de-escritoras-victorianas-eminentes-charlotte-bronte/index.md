@@ -15,6 +15,7 @@ tags:
 - Gótico
 - Halloween
 - Oscuro
+toc: false
 autores:
 - Charlotte Brontë
 - Elizabeth Gaskell
@@ -42,8 +43,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36240327-damas-oscuras)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

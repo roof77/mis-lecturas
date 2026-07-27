@@ -15,6 +15,7 @@ tags:
 - Mujeres
 - Novela
 - Ficción Literaria
+toc: false
 autores:
 - Sara Mesa
 - Marta Martín
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55170929-un-amor)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

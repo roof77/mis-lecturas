@@ -7,6 +7,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+toc: false
 autores:
 - Jean-Claude Forest
 editoriales:
@@ -14,8 +15,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21899410-hypocrite)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

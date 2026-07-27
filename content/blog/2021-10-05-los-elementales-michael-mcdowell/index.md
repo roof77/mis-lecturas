@@ -16,6 +16,7 @@ tags:
 - Sobrenatural
 - Fantasmas
 - Thriller
+toc: false
 autores:
 - Michael McDowell
 - Teresa Arijón
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36607375-los-elementales)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

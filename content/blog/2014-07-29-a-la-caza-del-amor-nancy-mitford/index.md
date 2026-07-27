@@ -16,6 +16,7 @@ tags:
 - Siglo XX
 - Histórico
 - Club de lectura
+toc: false
 autores:
 - Nancy Mitford
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22294792-a-la-caza-del-amor)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

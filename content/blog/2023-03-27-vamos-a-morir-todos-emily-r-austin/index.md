@@ -16,6 +16,7 @@ tags:
 - Ficción Literaria
 - Adultos
 - Club de lectura
+toc: false
 autores:
 - Emily R. Austin
 - Julia Viejo
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/122969874-vamos-a-morir-todos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

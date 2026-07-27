@@ -16,6 +16,7 @@ tags:
 - Género
 - Contemporaneo
 - Sociología
+toc: false
 autores:
 - Jessa Crispin
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36527354-por-qu-no-soy-feminista-un-manifiesto-feminista)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

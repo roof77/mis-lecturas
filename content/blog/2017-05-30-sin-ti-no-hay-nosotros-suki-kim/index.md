@@ -15,6 +15,7 @@ tags:
 - Biografía
 - Club de lectura
 - Viajes
+toc: false
 autores:
 - Suki Kim
 - Pablo Álvarez Ellacuría
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25001116-sin-ti-no-hay-nosotros)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

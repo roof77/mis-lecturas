@@ -17,6 +17,7 @@ tags:
 - Ficción histórica
 - Literatura
 - Siglo XX
+toc: false
 autores:
 - Roddy Doyle
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/67725753-paddy-clarke-ja-ja-ja)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Literatura
 - Novela
 - Adultos
+toc: false
 autores:
 - Mónica Gutiérrez Artero
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54919980-la-librer-a-del-se-or-livingstone)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

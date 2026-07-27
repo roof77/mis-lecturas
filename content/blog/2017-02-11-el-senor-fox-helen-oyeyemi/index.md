@@ -16,6 +16,7 @@ tags:
 - Novela
 - Ficción histórica
 - Adultos
+toc: false
 autores:
 - Helen Oyeyemi
 - María Belmonte
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18074099-el-se-or-fox)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

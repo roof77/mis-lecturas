@@ -16,6 +16,7 @@ tags:
 - Literatura asiática
 - Ásia
 - Club de lectura
+toc: false
 autores:
 - Mieko Kawakami
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60728716-pechos-y-huevos-seix-barral-biblioteca-formentor)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

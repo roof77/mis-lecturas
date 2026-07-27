@@ -16,6 +16,7 @@ tags:
 - Novela
 - Literatura británica
 - Histórico
+toc: false
 autores:
 - Roy Lewis
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55526282-por-qu-me-com-a-padre)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

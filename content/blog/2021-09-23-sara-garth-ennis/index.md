@@ -14,6 +14,7 @@ tags:
 - Guerra
 - Rusia
 - Segunda guerra mundial
+toc: false
 autores:
 - Garth Ennis
 - Steve Epting
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56554824-sara)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

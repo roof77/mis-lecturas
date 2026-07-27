@@ -16,6 +16,7 @@ tags:
 - Literatura británica
 - Ficción histórica
 - Novela
+toc: false
 autores:
 - Charles Dickens
 - José María Valverde
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6893343-los-papeles-p-stumos-del-club-pickwick)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

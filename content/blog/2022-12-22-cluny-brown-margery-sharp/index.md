@@ -16,6 +16,7 @@ tags:
 - Histórico
 - Novela
 - Coming of age
+toc: false
 autores:
 - Margery Sharp
 - Raquel García Rojas
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55219495-cluny-brown)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

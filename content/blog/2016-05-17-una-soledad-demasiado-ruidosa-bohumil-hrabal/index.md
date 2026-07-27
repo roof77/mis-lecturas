@@ -17,6 +17,7 @@ tags:
 - Siglo XX
 - Ficción Literaria
 - Filosofía
+toc: false
 autores:
 - Bohumil Hrabal
 - Monika Zgustová
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/293393.Una_soledad_demasiado_ruidosa)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

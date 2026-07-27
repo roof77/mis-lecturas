@@ -16,6 +16,7 @@ tags:
 - Novela
 - Literatura
 - Histórico
+toc: false
 autores:
 - Antonio Tabucchi
 - Carlos Gumpert
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/562212.Sostiene_Pereira)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Crime real
 - Historia
 - Afroamericanos
+toc: false
 autores:
 - Iceberg Slim
 - Enrique Maldonado Roldán
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41963345-pimp-memorias-de-un-chulo-colecci-n-ensayo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

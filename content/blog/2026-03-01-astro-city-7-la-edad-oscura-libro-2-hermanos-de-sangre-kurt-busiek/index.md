@@ -15,6 +15,7 @@ tags:
 - Ciencia ficción
 - Crimen
 - Acción
+toc: false
 autores:
 - Kurt Busiek
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13616812-astro-city-7)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

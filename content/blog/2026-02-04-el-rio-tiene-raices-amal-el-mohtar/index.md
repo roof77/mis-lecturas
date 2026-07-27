@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Hadas
 - Mágia
+toc: false
 autores:
 - Amal El-Mohtar
 - Pilar Ramírez Tello
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/235672154-el-r-o-tiene-ra-ces)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

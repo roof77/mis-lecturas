@@ -16,6 +16,7 @@ tags:
 - España
 - Religión
 - Memorias
+toc: false
 autores:
 - Bea Lema
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/199510212-el-cuerpo-de-cristo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

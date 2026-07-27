@@ -16,6 +16,7 @@ tags:
 - Contemporaneo
 - Literatura
 - Novela
+toc: false
 autores:
 - Eleanor Catton
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23053532-las-luminarias)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

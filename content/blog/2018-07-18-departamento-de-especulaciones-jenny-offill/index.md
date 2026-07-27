@@ -16,6 +16,7 @@ tags:
 - Matrimonio
 - Ficción adulta
 - Literatura
+toc: false
 autores:
 - Jenny Offill
 - Eduardo Jordá
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28503741-departamento-de-especulaciones)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

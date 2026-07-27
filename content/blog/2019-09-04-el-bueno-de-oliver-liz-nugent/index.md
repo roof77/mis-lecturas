@@ -15,6 +15,7 @@ tags:
 - Suspense
 - Irlanda
 - Club de lectura
+toc: false
 autores:
 - Liz Nugent
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24525748-el-bueno-de-oliver)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

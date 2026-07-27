@@ -17,6 +17,7 @@ tags:
 - Space Opera
 - Ciencia Ficción
 - Fantasía
+toc: false
 autores:
 - Ian McDonald
 - Bruno Puelles
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54361178-dama-luna-la-amenaza-de-farside)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

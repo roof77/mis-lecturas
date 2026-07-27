@@ -17,6 +17,7 @@ tags:
 - Ficción militar
 - Viaje en el tiempo
 - Espacio
+toc: false
 autores:
 - Joe Haldeman
 - Edith Zilli
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17311048-la-guerra-interminable)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

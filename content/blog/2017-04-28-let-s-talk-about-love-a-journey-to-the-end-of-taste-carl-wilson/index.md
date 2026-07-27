@@ -16,6 +16,7 @@ tags:
 - Filosofía
 - Canada
 - Biografía
+toc: false
 autores:
 - Carl Wilson
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/383300.Let_s_Talk_About_Love)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

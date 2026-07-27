@@ -17,6 +17,7 @@ tags:
 - Relatos
 - Lesbianismo
 - Contemporaneo
+toc: false
 autores:
 - Eric LaRocca
 - José Ángel de Dios
@@ -27,8 +28,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/63141636-las-cosas-han-empeorado-desde-la-ltima-vez-que-hablamos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

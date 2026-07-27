@@ -16,6 +16,7 @@ tags:
 - Sociedad
 - Ciencia
 - Negocios
+toc: false
 autores:
 - Rutger Bregman
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34651610-utop-a-para-realistas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

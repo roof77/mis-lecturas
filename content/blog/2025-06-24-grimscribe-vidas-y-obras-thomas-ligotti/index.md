@@ -17,6 +17,7 @@ tags:
 - Colecciones
 - Ficción especulativa
 - Antología
+toc: false
 autores:
 - Thomas Ligotti
 - Marta Lila Murillo
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25463269-grimscribe)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

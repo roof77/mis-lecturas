@@ -17,6 +17,7 @@ tags:
 - Clásico
 - Religión
 - Novela
+toc: false
 autores:
 - Marcel Schwob
 - Jean-Gabriel Daragnés
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22295459-la-cruzada-de-los-ni-os)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

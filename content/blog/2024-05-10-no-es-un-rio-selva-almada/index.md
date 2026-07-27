@@ -16,6 +16,7 @@ tags:
 - Novela
 - Literatura
 - Literatura latinoamericana
+toc: false
 autores:
 - Selva Almada
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55108658-no-es-un-r-o)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

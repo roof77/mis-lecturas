@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Literatura británica
 - Historia
+toc: false
 autores:
 - Helene Hanff
 - Francisco Javier Calzada
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/102040.84_Charing_Cross_Road)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

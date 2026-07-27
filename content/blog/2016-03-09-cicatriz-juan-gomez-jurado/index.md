@@ -14,6 +14,7 @@ tags:
 - Crimen
 - Misterio
 - Novela
+toc: false
 autores:
 - Juan Gómez-Jurado
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27420709-cicatriz)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

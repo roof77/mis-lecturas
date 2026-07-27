@@ -17,6 +17,7 @@ tags:
 - Literatura británica
 - Histórico
 - Ficción Literaria
+toc: false
 autores:
 - Virginia Woolf
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13502476-flush)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -10,6 +10,7 @@ tags:
 - Comics
 - Novela gráfica
 - Fantasía
+toc: false
 autores:
 - Fred
 editoriales:
@@ -17,8 +18,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30345572-phil-mon-integral-01-de-3)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

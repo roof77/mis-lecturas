@@ -17,6 +17,7 @@ tags:
 - Literatura asiática
 - Humor
 - Siglo XX
+toc: false
 autores:
 - Natsume Sōseki
 - José Pazó Espinosa
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4458271-botchan)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

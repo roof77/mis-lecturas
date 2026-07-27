@@ -16,6 +16,7 @@ tags:
 - Literatura británica
 - Niños
 - Ciencia ficción
+toc: false
 autores:
 - Raymond Briggs
 - Rosa Montero
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/206197004-cuando-el-viento-sopla)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

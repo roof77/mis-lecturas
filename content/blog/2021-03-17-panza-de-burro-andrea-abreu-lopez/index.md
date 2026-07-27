@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - Literatura hispana
 - Lesbianismo
+toc: false
 autores:
 - Andrea Abreu López
 - Sabina Urraca
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53412888-panza-de-burro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

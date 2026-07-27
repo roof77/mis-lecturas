@@ -16,6 +16,7 @@ tags:
 - Paranormal
 - Adultos
 - Club de lectura
+toc: false
 autores:
 - Joe Hill
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/10277637-cuernos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Literatura
 - Novela
+toc: false
 autores:
 - Junot Díaz
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17973898-as-es-como-la-pierdes)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

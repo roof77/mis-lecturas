@@ -16,6 +16,7 @@ tags:
 - Familia
 - Muerte
 - Paranormal
+toc: false
 autores:
 - Roddy Doyle
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17802228-como-un-galgo-grandes-lectores)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

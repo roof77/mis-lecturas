@@ -11,6 +11,7 @@ tags:
 - Novela gráfica
 - Fantasía
 - Terror
+toc: false
 autores:
 - Thierry Smolderen
 - Alexandre Clérisse
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60698598-un-a-o-sin-cthulhu)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

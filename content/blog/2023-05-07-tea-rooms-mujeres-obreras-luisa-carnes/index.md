@@ -17,6 +17,7 @@ tags:
 - Sociedad
 - Novela
 - Autoras
+toc: false
 autores:
 - Luisa Carnés
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12856395-tea-rooms)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

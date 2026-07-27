@@ -10,6 +10,7 @@ tags:
 - Navidad
 - Relatos
 - Clásico
+toc: false
 autores:
 - Charles Dickens
 - Anthony Trollope
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59404134-cuentos-victorianos-de-navidad)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

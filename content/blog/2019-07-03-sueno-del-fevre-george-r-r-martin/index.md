@@ -16,6 +16,7 @@ tags:
 - Paranormal
 - Sobrenatural
 - Fantasía urbana
+toc: false
 autores:
 - George R.R. Martin
 - Cristina Macía
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7530864-sue-o-del-fevre)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

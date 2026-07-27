@@ -16,6 +16,7 @@ tags:
 - Queer
 - Humor
 - Aventuras
+toc: false
 autores:
 - N.D. Stevenson
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19351043-nimona)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

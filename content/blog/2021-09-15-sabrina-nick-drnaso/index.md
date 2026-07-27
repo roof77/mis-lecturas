@@ -14,6 +14,7 @@ tags:
 - Crimen
 - Contemporaneo
 - EEUU
+toc: false
 autores:
 - Nick Drnaso
 editoriales:
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40211405-sabrina)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

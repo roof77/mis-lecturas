@@ -16,6 +16,7 @@ tags:
 - Ficción especulativa
 - Club de lectura
 - Ciencia Ficción
+toc: false
 autores:
 - China Miéville
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13561231-la-ciudad-y-la-ciudad)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

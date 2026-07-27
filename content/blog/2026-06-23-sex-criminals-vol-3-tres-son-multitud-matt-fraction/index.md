@@ -15,6 +15,7 @@ tags:
 - Humor
 - Ciencia ficción
 - Adultos
+toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40792206-sex-criminals-vol-3)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

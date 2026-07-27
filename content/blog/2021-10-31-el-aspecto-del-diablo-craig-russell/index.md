@@ -15,6 +15,7 @@ tags:
 - Histórico
 - Gótico
 - Crimen
+toc: false
 autores:
 - Craig Russell
 - Enrique Alda
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45894335-el-aspecto-del-diablo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

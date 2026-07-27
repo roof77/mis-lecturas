@@ -15,6 +15,7 @@ tags:
 - Superheroes
 - Colecciones
 - Acción
+toc: false
 autores:
 - Ed Brubaker
 - Michael Lark
@@ -33,8 +34,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6203215-daredevil-by-ed-brubaker-omnibus-vol-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

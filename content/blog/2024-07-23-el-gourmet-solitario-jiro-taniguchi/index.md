@@ -16,6 +16,7 @@ tags:
 - Ásia
 - Literatura japanesa
 - Seinen manga
+toc: false
 autores:
 - Jirō Taniguchi
 - Masayuki Kusumi
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/10824374-el-gourmet-solitario)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

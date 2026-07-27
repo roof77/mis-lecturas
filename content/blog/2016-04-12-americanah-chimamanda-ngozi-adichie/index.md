@@ -16,6 +16,7 @@ tags:
 - Nigeria
 - Raza
 - Romance
+toc: false
 autores:
 - Chimamanda Ngozi Adichie
 - Carlos Milla
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20951298-americanah)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

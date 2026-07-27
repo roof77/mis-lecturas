@@ -17,6 +17,7 @@ tags:
 - Cambio climático
 - Novella
 - Ciencia Ficción
+toc: false
 autores:
 - Rita Indiana
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25477041-la-mucama-de-omicunl)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

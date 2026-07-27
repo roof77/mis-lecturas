@@ -15,6 +15,7 @@ tags:
 - Espías
 - Literatura británica
 - Suspense
+toc: false
 autores:
 - Mick Herron
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54140147-leones-muertos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

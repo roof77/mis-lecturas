@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Pájaros
 - Aflicción
+toc: false
 autores:
 - Helen Macdonald
 - Joan Eloi Roca
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27139076-h-de-halc-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

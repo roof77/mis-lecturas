@@ -16,6 +16,7 @@ tags:
 - Verano
 - Novela
 - Adultos
+toc: false
 autores:
 - Emma Cline
 - Inga Pellisa
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/216403835-la-invitada)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

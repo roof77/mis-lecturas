@@ -15,6 +15,7 @@ tags:
 - Espías
 - Club de lectura
 - Literatura británica
+toc: false
 autores:
 - Mick Herron
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41740970-caballos-lentos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

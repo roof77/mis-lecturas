@@ -11,6 +11,7 @@ tags:
 - Romance
 - Literatura alemana
 - Histórico
+toc: false
 autores:
 - Petra Hartlieb
 - María Esperanza Romero
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52762972-primavera-en-viena)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

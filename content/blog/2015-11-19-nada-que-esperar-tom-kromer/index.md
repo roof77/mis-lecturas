@@ -12,6 +12,7 @@ tags:
 - Noir
 - EEUU
 - Novela
+toc: false
 autores:
 - Tom Kromer
 editoriales:
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25715003-nada-que-esperar)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

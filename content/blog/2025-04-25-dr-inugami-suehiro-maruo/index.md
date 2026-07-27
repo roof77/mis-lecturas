@@ -11,6 +11,7 @@ tags:
 - Comics
 - Terror
 - Novela gráfica
+toc: false
 autores:
 - Suehiro Maruo
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/91824.Dr_Inugami)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

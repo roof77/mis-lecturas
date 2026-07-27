@@ -16,6 +16,7 @@ tags:
 - Thriller
 - Ficción Literaria
 - Contemporaneo
+toc: false
 autores:
 - Jonathan Lethem
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9819.Hu_rfanos_de_Brooklyn)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

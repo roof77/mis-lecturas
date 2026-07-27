@@ -12,6 +12,7 @@ tags:
 - Novela gráfica
 - Seinen manga
 - Drama
+toc: false
 autores:
 - Kazuo Koike
 - Kazuo Kamimura
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123248034-lady-snowblood-vol-2)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

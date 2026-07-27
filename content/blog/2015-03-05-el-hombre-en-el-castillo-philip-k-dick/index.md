@@ -16,6 +16,7 @@ tags:
 - Fantasía
 - Club de lectura
 - Ciencia Ficción
+toc: false
 autores:
 - Philip K. Dick
 - Manuel Figueroa
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7870326-el-hombre-en-el-castillo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

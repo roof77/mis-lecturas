@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - Ficción Literaria
 - Siglo XX
+toc: false
 autores:
 - Evelyn Waugh
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6561568-retorno-a-brideshead)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

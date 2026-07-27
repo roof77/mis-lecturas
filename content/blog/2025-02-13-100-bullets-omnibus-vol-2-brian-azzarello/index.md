@@ -13,6 +13,7 @@ tags:
 - Thriller
 - Misterio
 - Ficción
+toc: false
 autores:
 - Brian Azzarello
 - Eduardo Risso
@@ -21,8 +22,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59205112-100-bullets-omnibus-vol-2)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

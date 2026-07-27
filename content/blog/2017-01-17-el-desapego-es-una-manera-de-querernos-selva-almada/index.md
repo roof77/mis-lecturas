@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Relatos
+toc: false
 autores:
 - Selva Almada
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31374678-el-desapego-es-una-manera-de-querernos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

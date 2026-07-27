@@ -16,6 +16,7 @@ tags:
 - Colegio
 - Literatura
 - Club de lectura
+toc: false
 autores:
 - Mary Wollstonecraft Shelley
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17839921-frankenstein-o-el-moderno-prometeo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

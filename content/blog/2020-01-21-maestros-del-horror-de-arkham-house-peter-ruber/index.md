@@ -14,6 +14,7 @@ tags:
 - Fantasía
 - Ficción extraña
 - Lovecraftiano
+toc: false
 autores:
 - Peter Ruber
 - Arthur J. Burks
@@ -42,8 +43,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17440145-maestros-del-horror-de-arkham-house)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Novela
 - Novella
 - Literatura
+toc: false
 autores:
 - Muriel Spark
 - Gabriela Bustelo
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/10751720-las-se-oritas-de-escasos-medios)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

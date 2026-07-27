@@ -15,6 +15,7 @@ tags:
 - Memorias
 - Club de lectura
 - Humor
+toc: false
 autores:
 - Petra Hartlieb
 - Manolo Laguillo
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27272970-mi-maravillosa-librer-a)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

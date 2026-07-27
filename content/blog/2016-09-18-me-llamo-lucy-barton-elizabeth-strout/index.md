@@ -16,6 +16,7 @@ tags:
 - Novela
 - Adultos
 - EEUU
+toc: false
 autores:
 - Elizabeth Strout
 - Flora Casas
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31700094-me-llamo-lucy-barton)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

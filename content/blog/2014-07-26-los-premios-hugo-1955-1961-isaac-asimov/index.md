@@ -16,6 +16,7 @@ tags:
 - Premios Hugo
 - Colecciones
 - Ficción especulativa
+toc: false
 autores:
 - Isaac Asimov
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22746804-los-premios-hugo-1955-1961)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

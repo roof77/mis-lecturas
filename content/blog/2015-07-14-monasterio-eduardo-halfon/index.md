@@ -12,6 +12,7 @@ tags:
 - Relatos
 - Literatura
 - Latino américa
+toc: false
 autores:
 - Eduardo Halfon
 editoriales:
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22313983-monasterio)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

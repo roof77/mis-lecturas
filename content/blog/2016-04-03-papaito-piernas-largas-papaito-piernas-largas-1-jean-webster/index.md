@@ -16,6 +16,7 @@ tags:
 - Niños
 - Histórico
 - Coming of age
+toc: false
 autores:
 - Jean Webster
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9418200-papa-to-piernas-largas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

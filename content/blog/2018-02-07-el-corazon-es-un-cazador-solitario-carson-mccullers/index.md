@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - EEUU
 - Sureño
+toc: false
 autores:
 - Carson McCullers
 - Rosa María Bassols Camarasa
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2774939-el-coraz-n-es-un-cazador-solitario)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

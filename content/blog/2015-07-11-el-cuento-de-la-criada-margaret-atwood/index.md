@@ -16,6 +16,7 @@ tags:
 - Fantasía
 - Adultos
 - Literatura
+toc: false
 autores:
 - Margaret Atwood
 - Elsa Mateo Blanco
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6386694-el-cuento-de-la-criada)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

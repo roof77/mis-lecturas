@@ -16,6 +16,7 @@ tags:
 - Mujeres
 - Género
 - Justicia social
+toc: false
 autores:
 - Kameron Hurley
 - Alexander Páez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37758206-la-revoluci-n-feminista-geek)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

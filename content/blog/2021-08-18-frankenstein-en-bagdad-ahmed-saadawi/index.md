@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - Ciencia ficción
 - Guerra
+toc: false
 autores:
 - Ahmed Saadawi
 - Anna Gil Bardají
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49988313-frankenstein-en-bagdad)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

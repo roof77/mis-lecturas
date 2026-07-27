@@ -16,6 +16,7 @@ tags:
 - Justicia social
 - Nigeria
 - Género
+toc: false
 autores:
 - Chimamanda Ngozi Adichie
 - Javier Calvo Perales
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26529549-todos-deber-amos-ser-feministas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

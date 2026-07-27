@@ -16,6 +16,7 @@ tags:
 - Siglo XX
 - Novela
 - Ficción histórica
+toc: false
 autores:
 - Sherwood Anderson
 - Miguel Temprano García
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9813860-winesburg-ohio)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Ciencia Ficción
 - Fantasía
 - Supervivencia
+toc: false
 autores:
 - Andy Weir
 - Javier Guerrero Gimeno
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22820681-el-marciano)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

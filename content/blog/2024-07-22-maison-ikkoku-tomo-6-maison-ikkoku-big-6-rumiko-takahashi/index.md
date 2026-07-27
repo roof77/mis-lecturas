@@ -15,6 +15,7 @@ tags:
 - Ficción
 - Slice of life
 - Seinen manga
+toc: false
 autores:
 - Rumiko Takahashi
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345428.Maison_Ikkoku_tomo_6)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

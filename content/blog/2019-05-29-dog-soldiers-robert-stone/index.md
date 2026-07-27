@@ -17,6 +17,7 @@ tags:
 - Misterio
 - Thriller
 - Ficción Literaria
+toc: false
 autores:
 - Robert Stone
 - Rodrigo Fresán
@@ -27,8 +28,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12543800-dog-soldiers)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

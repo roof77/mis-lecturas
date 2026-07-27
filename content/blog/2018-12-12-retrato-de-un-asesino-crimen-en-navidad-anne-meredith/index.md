@@ -17,6 +17,7 @@ tags:
 - Ficción histórica
 - Thriller
 - Histórico
+toc: false
 autores:
 - Anne Meredith
 - Daniel de la Rubia Ortí
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43073726-retrato-de-un-asesino-crimen-en-navidad)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Humor
 - Ficción
+toc: false
 autores:
 - José C. Vales
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24816973-cabaret-biarritz)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

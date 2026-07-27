@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Literatura irlandesa
 - Novela
+toc: false
 autores:
 - Sally Rooney
 - Inga Pellisa
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57753596-d-nde-est-s-mundo-bello)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Crimen
 - Fantasía
 - Club de lectura
+toc: false
 autores:
 - Lauren Beukes
 - Pilar Ramírez Tello
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18105545-las-luminosas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

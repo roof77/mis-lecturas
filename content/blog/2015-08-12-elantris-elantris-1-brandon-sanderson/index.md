@@ -16,6 +16,7 @@ tags:
 - Romance
 - Ciencia Ficción
 - Ciencia ficción
+toc: false
 autores:
 - Brandon Sanderson
 - Rafael Marín Trechera
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29242989-elantris)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

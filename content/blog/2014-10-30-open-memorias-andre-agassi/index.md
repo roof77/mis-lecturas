@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Adultos
 - EEUU
+toc: false
 autores:
 - Andre Agassi
 - Juanjo Estrella González
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23152233-open)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

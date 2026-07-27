@@ -16,6 +16,7 @@ tags:
 - Afroamericanos
 - Novela
 - Adultos
+toc: false
 autores:
 - Colson Whitehead
 - Cruz Rodríguez Juiz
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34921069-el-ferrocarril-subterr-neo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

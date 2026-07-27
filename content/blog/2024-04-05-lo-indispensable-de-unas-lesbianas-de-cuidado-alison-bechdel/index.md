@@ -16,6 +16,7 @@ tags:
 - Lesbianismo
 - Humor
 - Gay
+toc: false
 autores:
 - Alison Bechdel
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25652453-lo-indispensable-de-unas-lesbianas-de-cuidado)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Ficción
 - Salud mentál
 - Gay
+toc: false
 autores:
 - Alice Oseman
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56969069-heartstopper-3-un-paso-adelante)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

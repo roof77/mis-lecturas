@@ -17,6 +17,7 @@ tags:
 - Nativo americano
 - Coming of age
 - Colegio
+toc: false
 autores:
 - Sherman Alexie
 - Ellen Forney
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7267544-el-diario-completamente-ver-dico-de-un-indio-a-tiempo-parcial)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

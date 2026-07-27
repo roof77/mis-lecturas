@@ -15,6 +15,7 @@ tags:
 - Biografía
 - Club de lectura
 - Adultos
+toc: false
 autores:
 - Kate Beaton
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/122495460-patos-dos-a-os-en-las-arenas-petrol-feras)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Ficción Literaria
 - Club de lectura
 - Antología
+toc: false
 autores:
 - Raphael Bob-Waksberg
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57947563-alguien-que-te-quiera-con-todas-tus-heridas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

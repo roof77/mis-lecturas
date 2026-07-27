@@ -16,6 +16,7 @@ tags:
 - Misterio
 - Fantasía urbana
 - Ucronía
+toc: false
 autores:
 - P. Djèlí Clark
 - Rebeca Cardeñoso
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58111092-la-maldici-n-del-tranv-a-015)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

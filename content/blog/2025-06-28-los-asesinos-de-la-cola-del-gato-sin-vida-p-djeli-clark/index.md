@@ -16,6 +16,7 @@ tags:
 - Mágia
 - Ciencia Ficción
 - Alta fantasía
+toc: false
 autores:
 - P. Djèlí Clark
 - Raúl García Campos
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/221482309-los-asesinos-de-la-cola-del-gato-sin-vida)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Aventuras
 - Romance
 - EEUU
+toc: false
 autores:
 - Christopher Morley
 - Juan Cárdenas
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13504904-la-librer-a-ambulante)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

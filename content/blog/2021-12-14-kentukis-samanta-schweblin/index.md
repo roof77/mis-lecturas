@@ -16,6 +16,7 @@ tags:
 - Ficción especulativa
 - Adultos
 - Novela
+toc: false
 autores:
 - Samanta Schweblin
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41442139-kentukis)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

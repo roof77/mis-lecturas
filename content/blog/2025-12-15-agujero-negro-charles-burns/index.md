@@ -13,6 +13,7 @@ tags:
 - Ficción
 - Ciencia ficción
 - Fantasía
+toc: false
 autores:
 - Charles Burns
 editoriales:
@@ -20,8 +21,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4599920-agujero-negro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

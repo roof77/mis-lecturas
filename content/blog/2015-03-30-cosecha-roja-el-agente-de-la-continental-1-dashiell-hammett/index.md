@@ -16,6 +16,7 @@ tags:
 - Thriller
 - Hard boiled
 - Novela
+toc: false
 autores:
 - Dashiell Hammett
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4110872-cosecha-roja)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

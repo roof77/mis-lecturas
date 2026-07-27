@@ -11,6 +11,7 @@ tags:
 - Relatos
 - Ficción
 - Fantasía
+toc: false
 autores:
 - Solange Rodríguez Pappe
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42410823-la-primera-vez-que-vi-un-fantasma)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

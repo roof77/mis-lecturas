@@ -15,6 +15,7 @@ tags:
 - Siglo XIX
 - Colegio
 - Novella
+toc: false
 autores:
 - Herman Melville
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7704643-bartleby-el-escribiente-y-otros-cuentos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Clásico
 - Amistad
 - Drama
+toc: false
 autores:
 - Ingvar Ambjørnsen
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22023611-elling-el-baile-de-los-pajaritos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

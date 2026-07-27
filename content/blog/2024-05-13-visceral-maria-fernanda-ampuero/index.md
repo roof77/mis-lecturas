@@ -11,6 +11,7 @@ tags:
 - Literatura hispana
 - Terror
 - Mujeres
+toc: false
 autores:
 - María Fernanda Ampuero
 editoriales:
@@ -18,8 +19,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/204112798-visceral)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Ciencia Ficción
 - Distopía
 - Ficción especulativa
+toc: false
 autores:
 - Elan Mastai
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35967818-todos-nuestros-presentes-equivocados)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

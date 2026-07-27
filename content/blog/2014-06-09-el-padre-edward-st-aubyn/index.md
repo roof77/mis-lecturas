@@ -16,6 +16,7 @@ tags:
 - Clásicos modernos
 - Drogas
 - Drama
+toc: false
 autores:
 - Edward St. Aubyn
 - Cruz Rodríguez Juiz
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18801636-el-padre)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

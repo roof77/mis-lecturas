@@ -15,6 +15,7 @@ tags:
 - Adultos
 - Historia
 - Francia
+toc: false
 autores:
 - Guy Delisle
 - María Serna Aguirre
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33234122-escapar-historia-de-un-reh-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

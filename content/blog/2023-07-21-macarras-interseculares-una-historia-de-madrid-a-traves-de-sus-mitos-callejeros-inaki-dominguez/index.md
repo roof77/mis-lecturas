@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - No Ficción
 - Historia
+toc: false
 autores:
 - Iñaki Domínguez
 editoriales:
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53416910-macarras-interseculares)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

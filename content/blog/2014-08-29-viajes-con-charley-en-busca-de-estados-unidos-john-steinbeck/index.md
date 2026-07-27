@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Literatura
 - EEUU
+toc: false
 autores:
 - John Steinbeck
 - José Manuel Álvarez Flórez
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22555261-viajes-con-charley-en-busca-de-estados-unidos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

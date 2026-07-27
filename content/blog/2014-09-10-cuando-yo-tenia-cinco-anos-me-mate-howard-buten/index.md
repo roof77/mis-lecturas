@@ -16,6 +16,7 @@ tags:
 - EEUU
 - Club de lectura
 - Drama
+toc: false
 autores:
 - Howard Buten
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18751723-cuando-yo-ten-a-cinco-a-os-me-mat)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

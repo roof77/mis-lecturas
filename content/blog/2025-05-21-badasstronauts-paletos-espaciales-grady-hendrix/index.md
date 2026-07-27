@@ -15,6 +15,7 @@ tags:
 - Espacio
 - Adultos
 - Comedia
+toc: false
 autores:
 - Grady Hendrix
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/231481248-badasstronauts)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Humor
+toc: false
 autores:
 - Carlo Padial
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34326468-doctor-portuondo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

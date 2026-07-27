@@ -15,6 +15,7 @@ tags:
 - Ficción
 - Adultos
 - Mujeres
+toc: false
 autores:
 - Katie Skelly
 - Julia Osuna Aguilar
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/199436926-mi-bella-vampira)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

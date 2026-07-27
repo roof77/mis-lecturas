@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - Histórico
 - Literatura
+toc: false
 autores:
 - Julio Llamazares
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/348018.Luna_de_lobos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

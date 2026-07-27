@@ -15,6 +15,7 @@ tags:
 - Adultos
 - Paranormal
 - Sobrenatural
+toc: false
 autores:
 - James Tynion IV
 - Werther Dell'Edera
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57421145-hay-algo-matando-ni-os-vol-1)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

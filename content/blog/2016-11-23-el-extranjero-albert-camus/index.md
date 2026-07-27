@@ -17,6 +17,7 @@ tags:
 - Colegio
 - Ficción Literaria
 - Siglo XX
+toc: false
 autores:
 - Albert Camus
 - José Ángel Valente
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1836303.El_extranjero)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

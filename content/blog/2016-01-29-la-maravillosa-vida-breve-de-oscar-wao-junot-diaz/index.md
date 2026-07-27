@@ -16,6 +16,7 @@ tags:
 - Novela
 - Literatura
 - Coming of age
+toc: false
 autores:
 - Junot Díaz
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5149889-la-maravillosa-vida-breve-de-scar-wao)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Paranormal
 - Misterio
 - LGTBIQ+
+toc: false
 autores:
 - Rachel Klein
 - Elisabete Fernández Arrieta
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16116506-diario-de-una-mariposa-nocturna)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

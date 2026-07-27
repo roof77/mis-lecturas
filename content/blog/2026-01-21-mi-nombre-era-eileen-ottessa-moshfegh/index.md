@@ -15,6 +15,7 @@ tags:
 - Contemporaneo
 - Terror
 - Club de lectura
+toc: false
 autores:
 - Ottessa Moshfegh
 - Damià Alou
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33384705-mi-nombre-era-eileen)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

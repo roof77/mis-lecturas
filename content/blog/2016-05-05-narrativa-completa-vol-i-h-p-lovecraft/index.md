@@ -17,6 +17,7 @@ tags:
 - Pulp
 - Ficción
 - Literatura
+toc: false
 autores:
 - H.P. Lovecraft
 - Juan Antonio Molina Foix
@@ -27,8 +28,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4503434-narrativa-completa)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Ciencia Ficción
 - Club de lectura
 - Robots
+toc: false
 autores:
 - Martha Wells
 - Carla Bataller Estruch
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43573614-sistemas-cr-ticos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

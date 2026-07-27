@@ -16,6 +16,7 @@ tags:
 - Novela
 - Ficción adulta
 - Nueva York
+toc: false
 autores:
 - Ottessa Moshfegh
 - Inmaculada Concepción Pérez Parra
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43185028-mi-a-o-de-descanso-y-relajaci-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

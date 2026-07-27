@@ -15,6 +15,7 @@ tags:
 - Queer
 - Biografía
 - Club de lectura
+toc: false
 autores:
 - Alison Bechdel
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16285826-fun-home-una-familia-tragic-mica)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

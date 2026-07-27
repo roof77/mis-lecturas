@@ -16,6 +16,7 @@ tags:
 - Novela
 - Contemporaneo
 - Ficción Literaria
+toc: false
 autores:
 - Umberto Eco
 - Helena Lozano Miralles
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25273399-n-mero-cero)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

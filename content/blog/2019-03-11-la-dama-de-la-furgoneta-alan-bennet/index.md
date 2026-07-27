@@ -16,6 +16,7 @@ tags:
 - Club de lectura
 - Literatura británica
 - Contemporaneo
+toc: false
 autores:
 - Alan Bennet
 - Jaime Zulaika
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/10553712-la-dama-de-la-furgoneta)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

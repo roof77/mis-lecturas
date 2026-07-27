@@ -16,6 +16,7 @@ tags:
 - Gay
 - Autobiografía
 - Queer
+toc: false
 autores:
 - Scotty Bowers
 - Jaime Zulaika
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18768528-servicio-completo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

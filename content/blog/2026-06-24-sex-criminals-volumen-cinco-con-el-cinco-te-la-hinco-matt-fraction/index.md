@@ -15,6 +15,7 @@ tags:
 - Romance
 - Ciencia ficción
 - Comedia
+toc: false
 autores:
 - Matt Fraction
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54496841-sex-criminals-volumen-cinco)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

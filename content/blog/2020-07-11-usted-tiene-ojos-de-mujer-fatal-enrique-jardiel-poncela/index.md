@@ -7,13 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
+toc: false
 autores:
 - Enrique Jardiel Poncela
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18301011-usted-tiene-ojos-de-mujer-fatal)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

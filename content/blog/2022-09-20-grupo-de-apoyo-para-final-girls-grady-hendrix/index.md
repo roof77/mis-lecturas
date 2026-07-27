@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Contemporaneo
 - Suspense
+toc: false
 autores:
 - Grady Hendrix
 - Víctor Manuel García de Isusi
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61283066-grupo-de-apoyo-para-final-girls)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

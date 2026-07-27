@@ -16,6 +16,7 @@ tags:
 - Espacio
 - Ciencia Ficción
 - Adultos
+toc: false
 autores:
 - Kameron Hurley
 - Alexander Páez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36369375-las-estrellas-son-legi-n)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

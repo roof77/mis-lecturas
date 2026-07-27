@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Nigeria
 - Política
+toc: false
 autores:
 - Chimamanda Ngozi Adichie
 - Cruz Rodríguez Juiz
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33876650-querida-ijeawele-c-mo-educar-en-el-feminismo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

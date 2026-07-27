@@ -16,6 +16,7 @@ tags:
 - Club de lectura
 - Adultos
 - Ficción especulativa
+toc: false
 autores:
 - Ann Leckie
 - Victoria Morera García
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25333700-justicia-auxiliar)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

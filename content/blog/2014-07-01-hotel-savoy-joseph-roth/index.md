@@ -16,6 +16,7 @@ tags:
 - Ficción histórica
 - Alemania
 - Ficción Literaria
+toc: false
 autores:
 - Joseph Roth
 - Feliu Formosa
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12497034-hotel-savoy)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

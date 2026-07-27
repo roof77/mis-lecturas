@@ -16,6 +16,7 @@ tags:
 - Paranormal
 - Misterio
 - Adultos
+toc: false
 autores:
 - Grady Hendrix
 - Paz Pruneda
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58555274-gu-a-del-club-de-lectura-para-matar-vampiros)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

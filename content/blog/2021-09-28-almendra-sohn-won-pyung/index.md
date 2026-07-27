@@ -16,6 +16,7 @@ tags:
 - Coming of age
 - Ásia
 - Club de lectura
+toc: false
 autores:
 - Sohn Won-Pyung
 - Sunme Yoon
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51484920-almendra)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

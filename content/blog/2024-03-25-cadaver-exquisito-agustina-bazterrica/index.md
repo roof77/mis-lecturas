@@ -15,6 +15,7 @@ tags:
 - Club de lectura
 - Adultos
 - Oscuro
+toc: false
 autores:
 - Agustina Bazterrica
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36696699-cad-ver-exquisito)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

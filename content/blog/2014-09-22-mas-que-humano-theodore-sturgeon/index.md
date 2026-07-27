@@ -16,6 +16,7 @@ tags:
 - Ficción especulativa
 - Siglo XX
 - Club de lectura
+toc: false
 autores:
 - Theodore Sturgeon
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8138083-m-s-que-humano)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

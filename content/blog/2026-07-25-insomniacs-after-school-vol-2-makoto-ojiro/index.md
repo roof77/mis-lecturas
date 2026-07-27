@@ -16,6 +16,7 @@ tags:
 - Ficción
 - Contemporaneo
 - Seinen manga
+toc: false
 autores:
 - Makoto Ojiro
 - Óscar Tejero
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58473976-insomniacs-after-school-vol-2)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Gótico sureño
 - Misterio
 - Gótico
+toc: false
 autores:
 - Donald Ray Pollock
 - Javier Calvo
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16247251-el-diablo-a-todas-horas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

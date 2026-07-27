@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - España
+toc: false
 autores:
 - Isaac Rosa
 editoriales:
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18456158-la-habitaci-n-oscura)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

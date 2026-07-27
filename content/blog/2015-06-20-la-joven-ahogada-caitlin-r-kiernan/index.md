@@ -17,6 +17,7 @@ tags:
 - Salud mentál
 - Realismo mágico
 - Enfermedad mentál
+toc: false
 autores:
 - Caitlín R. Kiernan
 - Marta Lila Murillo
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21398782-la-joven-ahogada)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -15,6 +15,7 @@ tags:
 - Mujeres
 - Autoayuda
 - Género
+toc: false
 autores:
 - Orna Donath
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31847321-madres-arrepentidas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

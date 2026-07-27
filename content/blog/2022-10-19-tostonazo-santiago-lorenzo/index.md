@@ -12,6 +12,7 @@ tags:
 - Literatura hispana
 - Drama
 - Novela
+toc: false
 autores:
 - Santiago Lorenzo
 editoriales:
@@ -19,8 +20,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61930624-tostonazo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

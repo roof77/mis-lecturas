@@ -15,6 +15,7 @@ tags:
 - Biografía
 - EEUU
 - Comedia
+toc: false
 autores:
 - Bill Bryson
 - Manuel Manzano Gómez
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/129113531-viaje-al-sue-o-americano)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

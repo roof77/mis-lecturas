@@ -16,6 +16,7 @@ tags:
 - Política
 - Periodismo
 - Contemporaneo
+toc: false
 autores:
 - Roberto Saviano
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16156537-gomorra)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

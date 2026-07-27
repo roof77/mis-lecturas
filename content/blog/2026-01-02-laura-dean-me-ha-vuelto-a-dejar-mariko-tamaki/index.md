@@ -16,6 +16,7 @@ tags:
 - Contemporaneo
 - Ficción
 - Lesbianismo
+toc: false
 autores:
 - Mariko Tamaki
 - Rosemary Valero-O'Connell
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45710371-laura-dean-me-ha-vuelto-a-dejar)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

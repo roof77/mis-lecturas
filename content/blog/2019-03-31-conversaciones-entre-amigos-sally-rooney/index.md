@@ -16,6 +16,7 @@ tags:
 - Queer
 - Irlanda
 - Novela
+toc: false
 autores:
 - Sally Rooney
 - Ana García Casadesús
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39330921-conversaciones-entre-amigos)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

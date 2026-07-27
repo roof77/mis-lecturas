@@ -16,6 +16,7 @@ tags:
 - Dark Academia
 - Misterio
 - Adultos
+toc: false
 autores:
 - Mónica Ojeda
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39391224-mand-bula)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

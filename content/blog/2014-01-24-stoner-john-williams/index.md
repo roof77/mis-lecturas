@@ -15,6 +15,7 @@ tags:
 - Novela
 - Club de lectura
 - EEUU
+toc: false
 autores:
 - John Williams
 - Antonio Díez
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17840080-stoner)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

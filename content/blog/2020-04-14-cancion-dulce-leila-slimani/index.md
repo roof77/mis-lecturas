@@ -15,6 +15,7 @@ tags:
 - Crimen
 - Club de lectura
 - Suspense
+toc: false
 autores:
 - Leïla Slimani
 - Malika Embarek López
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34612694-canci-n-dulce)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

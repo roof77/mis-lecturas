@@ -16,6 +16,7 @@ tags:
 - Distopía
 - Novella
 - Drama
+toc: false
 autores:
 - Elisa Levi
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58957605-yo-no-s-de-otras-cosas)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

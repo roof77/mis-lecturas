@@ -16,6 +16,7 @@ tags:
 - Adultos
 - Ciencia ficción
 - Club de lectura
+toc: false
 autores:
 - P. Djèlí Clark
 - Raúl García Campos
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58859756-ring-shout-nuestro-c-ntico)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

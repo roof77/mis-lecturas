@@ -17,6 +17,7 @@ tags:
 - Thriller
 - Literatura británica
 - Club de lectura
+toc: false
 autores:
 - G.K. Chesterton
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/909668.El_hombre_que_fue_Jueves)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

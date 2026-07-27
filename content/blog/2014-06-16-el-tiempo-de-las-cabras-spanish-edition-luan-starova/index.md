@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Ficción
+toc: false
 autores:
 - Luan Starova
 - Ramón Sánchez Lizarralde
@@ -16,8 +17,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9464114-el-tiempo-de-las-cabras)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

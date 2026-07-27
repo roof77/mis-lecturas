@@ -16,6 +16,7 @@ tags:
 - Ficción histórica
 - Novela
 - Contemporaneo
+toc: false
 autores:
 - Tom Spanbauer
 - Aurora Echevarría
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5972245-ahora-es-el-momento)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

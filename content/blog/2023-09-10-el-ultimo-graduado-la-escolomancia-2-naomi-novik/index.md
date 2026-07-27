@@ -15,6 +15,7 @@ tags:
 - Romance
 - Fantasía urbana
 - Terror
+toc: false
 autores:
 - Naomi Novik
 - Patricia Sebastián Hernández
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60030509-el-ltimo-graduado)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -17,6 +17,7 @@ tags:
 - Ficción adulta
 - Literatura
 - Relatos
+toc: false
 autores:
 - Donal Ryan
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46031140-coraz-n-giratorio)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

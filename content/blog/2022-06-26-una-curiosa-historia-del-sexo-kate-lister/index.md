@@ -16,6 +16,7 @@ tags:
 - Histórico
 - Humor
 - Adultos
+toc: false
 autores:
 - Kate Lister
 - Isadora Carolina Prieto
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61151436-una-curiosa-historia-del-sexo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

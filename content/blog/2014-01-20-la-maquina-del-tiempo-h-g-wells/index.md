@@ -16,6 +16,7 @@ tags:
 - Literatura
 - Aventuras
 - Ciencia Ficción
+toc: false
 autores:
 - H.G. Wells
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49903411-la-m-quina-del-tiempo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

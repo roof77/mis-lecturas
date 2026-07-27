@@ -17,6 +17,7 @@ tags:
 - Novela
 - Club de lectura
 - Ficción histórica
+toc: false
 autores:
 - Mikhail Bulgakov
 - Marta Rebón
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61217133-el-maestro-y-margarita)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

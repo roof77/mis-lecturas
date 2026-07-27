@@ -16,6 +16,7 @@ tags:
 - Clase social
 - Literatura británica
 - Actualidad
+toc: false
 autores:
 - Owen Jones
 - Íñigo Jaúregui Eguía
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17229088-chavs)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

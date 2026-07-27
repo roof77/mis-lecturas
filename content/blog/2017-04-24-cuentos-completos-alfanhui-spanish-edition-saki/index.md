@@ -17,6 +17,7 @@ tags:
 - Literatura británica
 - Antología
 - Moderno
+toc: false
 autores:
 - Saki
 editoriales:
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/8763588-cuentos-completos-alfanhu)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

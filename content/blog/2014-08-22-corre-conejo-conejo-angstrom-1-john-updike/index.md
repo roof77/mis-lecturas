@@ -17,6 +17,7 @@ tags:
 - Libros prohibidos
 - Siglo XX
 - Contemporaneo
+toc: false
 autores:
 - John Updike
 - Jordi Fibla
@@ -25,8 +26,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2059336.Corre_Conejo)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

@@ -16,6 +16,7 @@ tags:
 - Siglo XXI
 - Contracultura
 - Ensayo
+toc: false
 autores:
 - Ian F. Svenonius
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22449186-estrategias-sobrenaturales-para-montar-un-grupo-de-rock)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

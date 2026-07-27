@@ -17,6 +17,7 @@ tags:
 - Histórico
 - Dark Academia
 - Club de lectura
+toc: false
 autores:
 - Joan Lindsay
 - Pilar Adón
@@ -26,8 +27,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9738320-picnic-en-hanging-rock)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

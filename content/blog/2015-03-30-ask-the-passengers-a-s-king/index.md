@@ -16,6 +16,7 @@ tags:
 - Ficción realista
 - Realismo mágico
 - Adolescencia
+toc: false
 autores:
 - A.S. King
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13069935-ask-the-passengers)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

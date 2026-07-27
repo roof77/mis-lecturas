@@ -7,6 +7,7 @@ authors:
 tags:
 - Lecturas
 - Ficción
+toc: false
 autores:
 - Stanley Elkin
 - Montse Meneses Vilar
@@ -15,8 +16,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25720480-el-condominio)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

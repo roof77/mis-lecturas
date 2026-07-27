@@ -16,6 +16,7 @@ tags:
 - Thriller
 - Club de lectura
 - Histórico
+toc: false
 autores:
 - Silvia Moreno-Garcia
 - Alexander Páez
@@ -24,8 +25,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57394345-g-tico)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

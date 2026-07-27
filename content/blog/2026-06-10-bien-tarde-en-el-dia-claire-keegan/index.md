@@ -16,6 +16,7 @@ tags:
 - Novella
 - Feminismo
 - Adultos
+toc: false
 autores:
 - Claire Keegan
 editoriales:
@@ -23,8 +24,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/211993455-bien-tarde-en-el-d-a)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 

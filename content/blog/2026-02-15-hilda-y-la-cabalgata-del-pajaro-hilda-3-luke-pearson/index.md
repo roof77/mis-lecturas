@@ -15,6 +15,7 @@ tags:
 - Aventuras
 - Juvenil
 - Animales
+toc: false
 autores:
 - Luke Pearson
 editoriales:
@@ -22,8 +23,6 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22386038-hilda-y-la-cabalgata-del-p-jaro)'
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Sinopsis
 
