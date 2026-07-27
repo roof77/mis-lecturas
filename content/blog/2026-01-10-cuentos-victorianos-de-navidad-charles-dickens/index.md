@@ -2,7 +2,7 @@
 title: Cuentos victorianos de Navidad
 summary: El extenso periodo victoriano fue, por diversas y variadas circunstancias, quien dio carta de naturaleza al "espíritu
   navideño" y consolidó buena parte de la…
-date: '2026-01-10'
+date: '2026-01-10T23:59:59'
 authors:
 - roof77
 tags:

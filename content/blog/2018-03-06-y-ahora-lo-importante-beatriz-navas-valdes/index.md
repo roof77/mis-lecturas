@@ -2,7 +2,7 @@
 title: Y ahora, lo importante
 summary: Bienvenidos a los diarios de Beatriz, una madrileña que ha cumplido 14 años en 1992. Beatriz es buena estudiante,
   sin que eso le impida salir los fines de…
-date: '2018-03-06'
+date: '2018-03-06T23:59:59'
 authors:
 - roof77
 tags:

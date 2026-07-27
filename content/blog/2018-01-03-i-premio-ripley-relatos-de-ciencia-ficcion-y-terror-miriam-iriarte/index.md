@@ -2,7 +2,7 @@
 title: 'I Premio Ripley: Relatos de ciencia ficción y terror'
 summary: 'Los viajes hacia futuros inciertos y temores recónditos que proponen los relatos de estas doce autoras inquietan:
   inquietan sus sociedades férreas pero…'
-date: '2018-01-03'
+date: '2018-01-03T23:59:59'
 authors:
 - roof77
 tags:

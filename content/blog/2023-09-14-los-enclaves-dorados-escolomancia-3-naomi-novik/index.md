@@ -2,7 +2,7 @@
 title: 'Los enclaves dorados (Escolomancia, #3)'
 summary: "Salvar el mundo es una prueba para la que ninguna escuela de magia te puede preparar.\r\n\r\nCasi sin ayuda de nadie\
   \ (aunque respaldada por un grupo de amigos cada…"
-date: '2023-09-14'
+date: '2023-09-14T23:59:59'
 authors:
 - roof77
 tags:

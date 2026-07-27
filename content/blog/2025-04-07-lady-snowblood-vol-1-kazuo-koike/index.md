@@ -2,7 +2,7 @@
 title: Lady Snowblood, vol. 1
 summary: Osayo era una mujer que lo perdió todo a manos de cuatro indeseables, que asesinaron a sus seres queridos y la violaron.
   Años más tarde, encerrada de por vida…
-date: '2025-04-07'
+date: '2025-04-07T23:59:59'
 authors:
 - roof77
 tags:

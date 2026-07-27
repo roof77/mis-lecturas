@@ -2,7 +2,7 @@
 title: Juliet, desnuda
 summary: Annie y Duncan están cerca de la cuarentena, y son una pareja de hecho desde hace quince años. Viven en una pequeña
   ciudad de la costa de Inglaterra. Ambos son…
-date: '2020-04-10'
+date: '2020-04-10T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Diez Razones Para Borrar Tus Redes Sociales de Inmediato
 summary: "¿Te cuesta imaginar una vida sin redes sociales? ¿Y si te dieran diez razones que te convencieran de la toxicidad\
   \ de sus efectos?\r\n\r\nEn este libro Jaron…"
-date: '2023-10-24'
+date: '2023-10-24T23:59:59'
 authors:
 - roof77
 tags:

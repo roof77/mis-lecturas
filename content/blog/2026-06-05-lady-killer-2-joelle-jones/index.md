@@ -2,7 +2,7 @@
 title: 'Lady Killer #2'
 summary: '**Spellbinding.Powell''s Books** Josie''s life grows more complicated than ever. Between the demands of her family
   life (including her disapproving…'
-date: '2026-06-05'
+date: '2026-06-05T23:59:56'
 authors:
 - roof77
 tags:

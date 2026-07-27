@@ -2,7 +2,7 @@
 title: La quinta estación
 summary: La quinta estación es la primera novela de «La Tierra Fragmentada», serie que mezcla fantasía y ciencia ficción,
   y que ha hecho merecedora a su autora de dos…
-date: '2017-08-07'
+date: '2017-08-07T23:59:59'
 authors:
 - roof77
 tags:

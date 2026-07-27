@@ -2,7 +2,7 @@
 title: Felino maníaco homicida (Súper Calvin y Hobbes 3)
 summary: Entrega número 3 de este relanzamiento con nuevo diseño de la serie Calvin y Hobbes, uno de los grandes clásicos
   de Ediciones B y del cómic internacional. Un…
-date: '2025-03-16'
+date: '2025-03-16T23:59:59'
 authors:
 - roof77
 tags:

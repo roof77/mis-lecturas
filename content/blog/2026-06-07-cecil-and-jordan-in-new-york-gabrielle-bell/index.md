@@ -2,7 +2,7 @@
 title: Cecil and Jordan in New York
 summary: Short stories, including the adapted-to-film original Cecil and Jordan in New York Gabrielle Bell splits her cartooning
   time between creating wry sketchbook…
-date: '2026-06-07'
+date: '2026-06-07T23:59:59'
 authors:
 - roof77
 tags:

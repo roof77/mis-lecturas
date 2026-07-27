@@ -2,7 +2,7 @@
 title: 'Sex Criminals #10: Alone Together'
 summary: In which Jon and Suzie learn just how alone together we all are, and the stakes get raised crazy-high in this, the
   second arc finale. By MATT FRACTION…
-date: '2018-08-20'
+date: '2018-08-20T23:59:40'
 authors:
 - roof77
 tags:

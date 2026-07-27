@@ -2,7 +2,7 @@
 title: Heil Hitler, el cerdo está muerto
 summary: Debido a la trágica dimensión de los horrores cometidos por el régimen nazi mucha gente tiene dificultades para adoptar
   una mirada cómica sobre Hitler y el…
-date: '2014-07-21'
+date: '2014-07-21T23:59:59'
 authors:
 - roof77
 tags:

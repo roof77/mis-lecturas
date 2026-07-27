@@ -2,7 +2,7 @@
 title: Brujería para chicas descarriadas
 summary: "Brujería para chicas descarriadas no es solo un libro de brujas: es un grito contra el olvido.\r\n\r\nFlorida, 1971.\
   \ Fern es una adolescente que, al quedar…"
-date: '2025-10-15'
+date: '2025-10-15T23:59:59'
 authors:
 - roof77
 tags:

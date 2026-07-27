@@ -2,7 +2,7 @@
 title: 'Sky Doll: Decade 00>10'
 summary: "UNA MAGNÍFICA EDICIÓN PARA UN CÓMIC QUE HA MARCADO ÉPOCA.\r\n\r\nÚnica, vibrante, controvertida, SkyDoll nació en\
   \ el año 2000. La innovadora serie creada por…"
-date: '2025-05-30'
+date: '2025-05-30T23:59:59'
 authors:
 - roof77
 tags:

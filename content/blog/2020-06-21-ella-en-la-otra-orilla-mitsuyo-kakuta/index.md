@@ -2,7 +2,7 @@
 title: Ella en la otra orilla
 summary: Sayoko, un ama de casa de treinta y cinco años con una niña de tres, empieza a trabajar para Aoi, una mujer universitaria
   de su misma edad y espíritu libre que…
-date: '2020-06-21'
+date: '2020-06-21T23:59:59'
 authors:
 - roof77
 tags:

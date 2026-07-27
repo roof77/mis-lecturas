@@ -2,7 +2,7 @@
 title: Alguien que te quiera con todas tus heridas
 summary: A través de sus personajes rotos, el autor se ríe de lo que se asume como el triunfo, de la vanidad, del esfuerzo
   inútil de ser reconocido por los otros. Pero…
-date: '2021-07-14'
+date: '2021-07-14T23:59:59'
 authors:
 - roof77
 tags:

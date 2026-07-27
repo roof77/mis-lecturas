@@ -2,7 +2,7 @@
 title: El motel del voyeur
 summary: "El esperado y controvertido libro del «maestro del periodismo»: una historia increíble y real que abre un debate\
   \ ético.\r\n\r\nPoco antes de la publicación de La…"
-date: '2020-05-01'
+date: '2020-05-01T23:59:59'
 authors:
 - roof77
 tags:

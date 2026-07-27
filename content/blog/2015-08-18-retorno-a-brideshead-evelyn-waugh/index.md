@@ -2,7 +2,7 @@
 title: Retorno a Brideshead
 summary: El retorno de Charles Ryder a Brideshead —la elegante mansión de lord Marchmain, convertida ahora en cuartel— devuelve
   a su memoria aquellos tiempos…
-date: '2015-08-18'
+date: '2015-08-18T23:59:59'
 authors:
 - roof77
 tags:

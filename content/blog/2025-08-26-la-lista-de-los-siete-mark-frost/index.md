@@ -2,7 +2,7 @@
 title: La lista de los siete
 summary: Navidad de 1884. El joven médico y aspirante a escritor Arthur Conan Doyle es invitado a una sesión de espiritismo
   en una casa del East End londinense. La…
-date: '2025-08-26'
+date: '2025-08-26T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: El pasajero
 summary: Alemania, 1938. El comerciante Otto Silbermann es un miembro respetado de la sociedad. Es, también, judío. Tras la
   Noche de los Cristales Rotos, comprueba que…
-date: '2019-06-12'
+date: '2019-06-12T23:59:59'
 authors:
 - roof77
 tags:

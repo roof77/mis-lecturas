@@ -2,7 +2,7 @@
 title: Aranmanoth
 summary: Aranmanoth es una novela de iniciación a la vida y al amor, protagonizada por un muchacho medio humano medio mágico,
   hijo del Señor de Lines y de un hada de…
-date: '2016-08-12'
+date: '2016-08-12T23:59:59'
 authors:
 - roof77
 tags:

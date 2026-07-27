@@ -2,7 +2,7 @@
 title: Usted tiene ojos de mujer fatal
 summary: Sergio Hernán es un conquistador que tras seducir a las mujeres y gozar de ellas, las abandona a la mañana siguiente
   con la inestimable colaboración de su…
-date: '2020-07-11'
+date: '2020-07-11T23:59:59'
 authors:
 - roof77
 tags:

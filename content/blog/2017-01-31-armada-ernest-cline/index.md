@@ -2,7 +2,7 @@
 title: Armada
 summary: Zack Lightman se ha pasado la vida soñando. Soñando con que el mundo real se pareciera un poco más al sinfín de libros,
   películas y videojuegos de ciencia…
-date: '2017-01-31'
+date: '2017-01-31T23:59:59'
 authors:
 - roof77
 tags:

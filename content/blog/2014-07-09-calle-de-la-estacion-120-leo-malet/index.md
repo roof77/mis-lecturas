@@ -1,7 +1,7 @@
 ---
 title: Calle de la Estación, 120
 summary: The first Nestor Burma mystery. Translated from the French. Cover photo by Robert Doisneau.
-date: '2014-07-09'
+date: '2014-07-09T23:59:59'
 authors:
 - roof77
 tags:

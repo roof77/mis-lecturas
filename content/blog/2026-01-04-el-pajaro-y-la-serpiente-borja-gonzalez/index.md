@@ -2,7 +2,7 @@
 title: El pájaro y la serpiente
 summary: "LA HISTORIA DE TERESA LLEGA A SU FIN\r\nCon el aclamado ciclo Las Tres Noches,\r\nBorja González cierra su primer\
   \ monumento gráfico. «Es tu cuento. Y terminará…"
-date: '2026-01-04'
+date: '2026-01-04T23:59:59'
 authors:
 - roof77
 tags:

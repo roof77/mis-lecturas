@@ -2,7 +2,7 @@
 title: 'Lady Killer #4'
 summary: 'Josie is a happily dedicated housewife and mother in 1960s suburban Seattle—but she’s keeping a secret from her
   family: she’s also a contract killer with…'
-date: '2026-06-05'
+date: '2026-06-05T23:59:58'
 authors:
 - roof77
 tags:

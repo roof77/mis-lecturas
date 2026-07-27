@@ -2,7 +2,7 @@
 title: Destellos
 summary: 'Moon es todo lo que Christine no es: impulsiva, segura y creativa. A pesar de haber crecido en la misma comunidad
   chino-americana, no pueden ser más distintas…'
-date: '2021-09-26'
+date: '2021-09-26T23:59:59'
 authors:
 - roof77
 tags:

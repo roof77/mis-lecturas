@@ -2,7 +2,7 @@
 title: 'Lluvia (Blackwater, #6)'
 summary: 1958. Pasan los años entre suntuosas fiestas, uniones insólitas y estremecedoras revelaciones, pero nada traerá paz
   a la familia Caskey. Saben que, tras la…
-date: '2024-04-23'
+date: '2024-04-23T23:59:59'
 authors:
 - roof77
 tags:

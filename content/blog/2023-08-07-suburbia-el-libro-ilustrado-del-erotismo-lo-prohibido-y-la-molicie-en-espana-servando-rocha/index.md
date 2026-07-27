@@ -2,7 +2,7 @@
 title: Suburbia. El libro ilustrado del erotismo, lo prohibido y la molicie en España
 summary: Un espectacular recorrido ilustrado por nuestros mundos más oscuros y «depravados», desde la sicalipsis de fin de
   siglo hasta la brutalidad de la transición…
-date: '2023-08-07'
+date: '2023-08-07T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Elling. El baile de los pajaritos
 summary: Tras la muerte de su madre, Elling es internado en una institución psiquiátrica, que se presenta más bien como una
   instalación recreativa. Allí conoce al que…
-date: '2015-06-24'
+date: '2015-06-24T23:59:59'
 authors:
 - roof77
 tags:

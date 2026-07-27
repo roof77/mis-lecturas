@@ -2,7 +2,7 @@
 title: 'Spider-Gwen, Vol. 1: Un Gran Poder'
 summary: 'Gwen Stacy ha vuelto a las telarañas y tiene un nuevo misterio que resolver: El Lagarto ha vuelto. ¿Cómo es posible,
   si murió en sus brazos? Quizás algún…'
-date: '2026-07-07'
+date: '2026-07-07T23:59:59'
 authors:
 - roof77
 tags:

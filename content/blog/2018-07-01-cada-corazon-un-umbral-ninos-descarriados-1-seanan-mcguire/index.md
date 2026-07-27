@@ -2,7 +2,7 @@
 title: 'Cada corazón, un umbral (Niños descarriados, #1)'
 summary: Deslizándose entre las sombras bajo la cama, o a través de un armario, o por madrigueras de conejos... los niños
   siempre han sabido acceder a mundos mágicos…
-date: '2018-07-01'
+date: '2018-07-01T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Damas oscuras: Cuentos de fantasmas de escritoras victorianas eminentes'
 summary: "¿Qué hace que las historias victorianas de fantasmas sean tan perfectas para leer al calor de una chimenea en una\
   \ noche oscura y tempestuosa?\r\n\r\nPorque si hay…"
-date: '2018-11-28'
+date: '2018-11-28T23:59:59'
 authors:
 - roof77
 tags:

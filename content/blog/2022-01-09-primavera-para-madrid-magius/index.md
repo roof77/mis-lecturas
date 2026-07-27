@@ -2,7 +2,7 @@
 title: Primavera para Madrid
 summary: El libro de oro de la corrupción, el chalaneo y el lenocinio. Si Magius en su anterior cómic, «El Método Gemini»,
   desgranaba el funcionamiento de la mafia…
-date: '2022-01-09'
+date: '2022-01-09T23:59:59'
 authors:
 - roof77
 tags:

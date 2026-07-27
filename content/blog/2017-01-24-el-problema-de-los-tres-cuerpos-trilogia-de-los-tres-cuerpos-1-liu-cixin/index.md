@@ -2,7 +2,7 @@
 title: 'El problema de los tres cuerpos (Trilogía de los tres cuerpos, #1)'
 summary: '"El problema de los tres cuerpos" es la primera novela no escrita originariamente en inglés galardonada con el premio
   Hugo, el Nobel del género de la ciencia…'
-date: '2017-01-24'
+date: '2017-01-24T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Los testamentos (El cuento de la criada, #2)'
 summary: Cuando las puertas de la furgoneta se cerraron de golpe tras Offred al final de El cuento de la criada, los lectores
   no tenían forma de saber cuál iba a ser su…
-date: '2019-10-17'
+date: '2019-10-17T23:59:59'
 authors:
 - roof77
 tags:

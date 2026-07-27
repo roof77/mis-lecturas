@@ -2,7 +2,7 @@
 title: Cuando yo tenía cinco años, me maté
 summary: Burt sólo tiene ocho años, pero su pequeño corazón ya ha conocido grandes sentimientos. Demasiado grandes. Demasiado
   fuertes. Ahora vive recluido en un Centro…
-date: '2014-09-10'
+date: '2014-09-10T23:59:59'
 authors:
 - roof77
 tags:

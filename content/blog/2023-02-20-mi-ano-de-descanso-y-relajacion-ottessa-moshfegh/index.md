@@ -2,7 +2,7 @@
 title: Mi año de descanso y relajación
 summary: En Mi año de descanso y relajación, Ottessa Moshfegh hace de Manhattan el epicentro de una civilización, la del año
   2000, dominada por la apatía. Como una…
-date: '2023-02-20'
+date: '2023-02-20T23:59:59'
 authors:
 - roof77
 tags:

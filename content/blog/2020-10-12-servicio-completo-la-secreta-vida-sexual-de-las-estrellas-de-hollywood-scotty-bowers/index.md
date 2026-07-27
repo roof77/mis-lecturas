@@ -2,7 +2,7 @@
 title: 'Servicio completo: La secreta vida sexual de las estrellas de Hollywood'
 summary: La saludable imagen de América difundida por Hollywood en los años 40, 50 y 60 del pasado siglo es una de las más
   persistentes en la cultura popular -madres…
-date: '2020-10-12'
+date: '2020-10-12T23:59:59'
 authors:
 - roof77
 tags:

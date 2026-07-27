@@ -1,7 +1,7 @@
 ---
 title: 'Sex Criminals #14: Ladies Please'
 summary: Why can't we all just get along? Because then the comic would be boring.
-date: '2018-08-20'
+date: '2018-08-20T23:59:44'
 authors:
 - roof77
 tags:

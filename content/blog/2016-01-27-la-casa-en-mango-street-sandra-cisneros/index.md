@@ -2,7 +2,7 @@
 title: La casa en Mango Street
 summary: DISPONIBLE POR PRIMERA VEZ EN EBOOKElogiado por la crítica, admirado por lectores de todas las edades, en escuelas
   y universidades de todo el país y traducido…
-date: '2016-01-27'
+date: '2016-01-27T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Maison Ikkoku tomo 5 (Maison Ikkoku Big, #5)'
 summary: "Tomo 5 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
-date: '2024-06-21'
+date: '2024-06-21T23:59:59'
 authors:
 - roof77
 tags:

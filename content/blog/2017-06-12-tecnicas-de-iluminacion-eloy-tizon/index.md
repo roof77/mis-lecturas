@@ -2,7 +2,7 @@
 title: Técnicas de iluminación
 summary: ¿Qué ocurrió realmente en la fiesta celebrada anoche? ¿Hubo alguna víctima? ¿Qué contiene la caja que nuestro jefe
   nos entrega en secreto, pidiéndonos que no…
-date: '2017-06-12'
+date: '2017-06-12T23:59:59'
 authors:
 - roof77
 tags:

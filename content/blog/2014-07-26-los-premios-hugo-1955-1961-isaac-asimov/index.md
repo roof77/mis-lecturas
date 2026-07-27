@@ -2,7 +2,7 @@
 title: Los premios Hugo 1955-1961
 summary: "Nine award-winning stories for the years 1955 to 1961, each with an introduction by Isaac Asimov. — \r\n\r\nContents:\
   \ \r\n\r\n— 1955: 13th Convention, Cleveland — 1-…"
-date: '2014-07-26'
+date: '2014-07-26T23:59:58'
 authors:
 - roof77
 tags:

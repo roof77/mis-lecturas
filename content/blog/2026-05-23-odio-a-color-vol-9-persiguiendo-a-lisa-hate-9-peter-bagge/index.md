@@ -2,7 +2,7 @@
 title: 'Odio a color, vol. 9: Persiguiendo a Lisa (Hate, #9)'
 summary: ¡Crisis, alarma, alerta roja! ¡La familia Bradley está tocada y hundida, y la relación de Buddy y Lisa va camino
   de correr la misma suerte!
-date: '2026-05-23'
+date: '2026-05-23T23:59:59'
 authors:
 - roof77
 tags:

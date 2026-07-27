@@ -2,7 +2,7 @@
 title: Canción de Rachel
 summary: Canción de Rachel cuenta la azarosa existencia de una vedette durante los rutilantes años veinte cubanos. La voz
   de Rachel, su protagonista —actriz, bailarina…
-date: '2015-06-29'
+date: '2015-06-29T23:59:59'
 authors:
 - roof77
 tags:

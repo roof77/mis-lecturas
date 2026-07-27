@@ -2,7 +2,7 @@
 title: Del Amor
 summary: Todo empieza con un primer encuentro en un avión; ella se llama Chloe y tiene los ojos verdes. Él es muy tímido,
   un romántico con excesiva tendencia a…
-date: '2021-05-20'
+date: '2021-05-20T23:59:58'
 authors:
 - roof77
 tags:

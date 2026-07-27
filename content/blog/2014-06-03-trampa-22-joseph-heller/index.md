@@ -2,7 +2,7 @@
 title: Trampa 22
 summary: La acción se desarrolla durante los últimos meses de la Segunda Guerra Mundial y se centra en una escuadrilla de
   bombarderos estadounidense. El coronel…
-date: '2014-06-03'
+date: '2014-06-03T23:59:59'
 authors:
 - roof77
 tags:

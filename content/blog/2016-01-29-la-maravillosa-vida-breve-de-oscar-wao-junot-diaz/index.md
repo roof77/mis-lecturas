@@ -2,7 +2,7 @@
 title: La maravillosa vida breve de Óscar Wao
 summary: En la noche, cuando estaba echado en la cama pensando en la chica de la que estaba enamorado, una fresita cuya familia
   era de Cancún, tuve la visión de un…
-date: '2016-01-29'
+date: '2016-01-29T23:59:59'
 authors:
 - roof77
 tags:

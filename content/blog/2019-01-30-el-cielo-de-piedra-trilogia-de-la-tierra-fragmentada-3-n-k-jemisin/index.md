@@ -2,7 +2,7 @@
 title: 'El cielo de piedra (Trilogía de la Tierra Fragmentada, #3)'
 summary: "La autora que ha hecho historia al ganar tres Premios Hugo consecutivos a la mejor novela.\r\n\r\nLa Luna volverá\
   \ pronto. Que su regreso proclame la destrucción…"
-date: '2019-01-30'
+date: '2019-01-30T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Derribos Arias. Licencia para aberrar
 summary: Desde Donostia, poseídos por una voluntad iconoclasta inédita en un panorama musical, el español, que despertaba
   a la modernidad con los titubeos del inexperto…
-date: '2016-01-20'
+date: '2016-01-20T23:59:59'
 authors:
 - roof77
 tags:

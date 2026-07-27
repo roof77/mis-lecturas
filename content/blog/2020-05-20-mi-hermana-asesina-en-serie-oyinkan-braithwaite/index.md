@@ -2,7 +2,7 @@
 title: Mi hermana, asesina en serie
 summary: 'Ayoola tiene un serio problema con sus novios: cuando se cansa de ellos, cuando le decepcionan, o a veces sin motivo
   aparente, los mata. Ya lleva tres, lo cual…'
-date: '2020-05-20'
+date: '2020-05-20T23:59:59'
 authors:
 - roof77
 tags:

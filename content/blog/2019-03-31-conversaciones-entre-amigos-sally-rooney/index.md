@@ -2,7 +2,7 @@
 title: Conversaciones entre amigos
 summary: "This is a previously-published edition of ISBN 9788439734468.\r\n\r\nTras recitar sus poemas en una velada literaria\
   \ en Dublín, Frances y Bobbi conocen a Melissa…"
-date: '2019-03-31'
+date: '2019-03-31T23:59:59'
 authors:
 - roof77
 tags:

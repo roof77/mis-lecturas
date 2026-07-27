@@ -2,7 +2,7 @@
 title: El hombre ilustrado
 summary: En esta colección de historias entrelazadas, el narrador anónimo conoce a El Hombre Ilustrado, un curioso personaje
   con el cuerpo completamente cubierto de…
-date: '2023-01-22'
+date: '2023-01-22T23:59:59'
 authors:
 - roof77
 tags:

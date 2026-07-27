@@ -1,7 +1,7 @@
 ---
 title: La encrucijada de Desert Hole
 summary: Reseña de lectura de «La encrucijada de Desert Hole».
-date: '2022-05-16'
+date: '2022-05-16T23:59:59'
 authors:
 - roof77
 tags:

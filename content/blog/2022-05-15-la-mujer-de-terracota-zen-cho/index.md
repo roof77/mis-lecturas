@@ -2,7 +2,7 @@
 title: La mujer de terracota
 summary: "Una historia sobre la corrupción, el primer amor y la inteligencia artificial en el más allá chino\r\n\r\nEn la\
   \ décima corte del infierno, los espíritus que son lo…"
-date: '2022-05-15'
+date: '2022-05-15T23:59:59'
 authors:
 - roof77
 tags:

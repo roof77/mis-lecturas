@@ -2,7 +2,7 @@
 title: La cantina de medianoche 1
 summary: Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el barrio de Shinjuku, todo el mundo los
   conoce. Abierta desde las doce de la noche…
-date: '2026-03-19'
+date: '2026-03-19T23:59:59'
 authors:
 - roof77
 tags:

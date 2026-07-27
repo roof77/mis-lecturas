@@ -2,7 +2,7 @@
 title: Una niña está perdida en el siglo XX
 summary: En la Europa del siglo xx un hombre enigmático que huye de su pasado y una niña perdida que busca a su padre se encuentran por
   azar. Hanna está…
-date: '2021-09-29'
+date: '2021-09-29T23:59:58'
 authors:
 - roof77
 tags:

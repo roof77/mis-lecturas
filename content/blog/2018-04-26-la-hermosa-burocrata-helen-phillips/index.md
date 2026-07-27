@@ -2,7 +2,7 @@
 title: La hermosa burócrata
 summary: Si las perspectivas laborales no hubieran sido tan sombrías durante ese húmedo verano, es probable que Josephine
   no hubiera aceptado el puesto de…
-date: '2018-04-26'
+date: '2018-04-26T23:59:59'
 authors:
 - roof77
 tags:

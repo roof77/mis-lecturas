@@ -2,7 +2,7 @@
 title: Cicatriz
 summary: Sonia conoce a Knut en un foro literario de internet y, a pesar de los setecientos kilómetros que los separan, establece
   con él una particular relación marcada…
-date: '2015-12-16'
+date: '2015-12-16T23:59:59'
 authors:
 - roof77
 tags:

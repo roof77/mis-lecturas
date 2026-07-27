@@ -2,7 +2,7 @@
 title: El hombre que se enamoró de la luna
 summary: Cobertizo es un huérfano sin origen que sólo puede entender las palabras recién aprendidas de un idioma ajeno y su
   amor por un cowboy de ojos verdes que podría…
-date: '2014-12-27'
+date: '2014-12-27T23:59:59'
 authors:
 - roof77
 tags:

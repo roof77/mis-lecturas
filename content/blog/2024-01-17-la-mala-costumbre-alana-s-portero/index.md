@@ -2,7 +2,7 @@
 title: La mala costumbre
 summary: Narrada desde una singular y desgarradora voz en primera persona, La mala costumbre recorre la adolescencia de una
   niña atrapada en un cuerpo que no sabe…
-date: '2024-01-17'
+date: '2024-01-17T23:59:59'
 authors:
 - roof77
 tags:

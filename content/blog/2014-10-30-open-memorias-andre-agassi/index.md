@@ -2,7 +2,7 @@
 title: 'Open: memorias'
 summary: Siendo un bebé, le pusieron una raqueta de juguete en la mano. Desde entonces, Agassi no ha hecho otra cosa que golpear
   pelotas de tenis. Su padre, obsesionado…
-date: '2014-10-30'
+date: '2014-10-30T23:59:58'
 authors:
 - roof77
 tags:

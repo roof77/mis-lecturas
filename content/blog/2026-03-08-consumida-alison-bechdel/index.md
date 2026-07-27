@@ -2,7 +2,7 @@
 title: Consumida
 summary: Los días de cierta historietista llamada Alison Bechdel transcurren, no tan plácidamente, en la finca rural de Vermont
   donde vive junto a su pareja, Holly, a…
-date: '2026-03-08'
+date: '2026-03-08T23:59:59'
 authors:
 - roof77
 tags:

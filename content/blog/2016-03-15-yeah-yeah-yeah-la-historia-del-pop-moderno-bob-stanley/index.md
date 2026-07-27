@@ -2,7 +2,7 @@
 title: Yeah! Yeah! Yeah! La historia del pop moderno
 summary: Tan divertido de criticar como de citar, Yeah! explora las raíces de la música pop a través del nacimiento del rock,
   soul, punk, hip hop, indie, house y…
-date: '2016-03-15'
+date: '2016-03-15T23:59:59'
 authors:
 - roof77
 tags:

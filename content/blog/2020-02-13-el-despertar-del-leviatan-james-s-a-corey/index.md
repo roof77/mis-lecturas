@@ -2,7 +2,7 @@
 title: El despertar del leviatán
 summary: La humanidad ha colonizado el Sistema Solar, pero las estrellas aún están fuera de nuestro alcance. Jim Holden es
   OE de un transportador de hielo. Cuando él y…
-date: '2020-02-13'
+date: '2020-02-13T23:59:59'
 authors:
 - roof77
 tags:

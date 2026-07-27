@@ -2,7 +2,7 @@
 title: Las luminarias
 summary: '«Una novela magnífica: imponente en cuanto a su complejidad estructural, adictiva por su historia y mágica por su
   forma de recrear un mundo de codicia y…'
-date: '2015-05-20'
+date: '2015-05-20T23:59:59'
 authors:
 - roof77
 tags:

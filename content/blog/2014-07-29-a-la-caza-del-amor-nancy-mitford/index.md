@@ -2,7 +2,7 @@
 title: A la caza del amor
 summary: En A la caza del amor, su novela de mayor éxito, Nancy Mitford utiliza elementos reales de su extravagante y famosa
   familia para construir el relato.La acción…
-date: '2014-07-29'
+date: '2014-07-29T23:59:59'
 authors:
 - roof77
 tags:

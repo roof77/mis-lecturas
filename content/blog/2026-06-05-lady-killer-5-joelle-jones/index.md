@@ -2,7 +2,7 @@
 title: 'Lady Killer #5'
 summary: Josie closes in on the truth behind who really wants to end her life as a cheerful housewife, mother, and ruthlessly
   skilled assassin! Who is really behind the…
-date: '2026-06-05'
+date: '2026-06-05T23:59:59'
 authors:
 - roof77
 tags:

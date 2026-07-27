@@ -2,7 +2,7 @@
 title: Lo estás deseando
 summary: "Un libro deslumbrante con doce cuentos sobre los roles de género y los misterios del deseo. Un debut arrollador.\r\
   \n\r\nEn diciembre de 2017 Kristen Roupenian…"
-date: '2021-09-03'
+date: '2021-09-03T23:59:59'
 authors:
 - roof77
 tags:

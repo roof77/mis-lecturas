@@ -2,7 +2,7 @@
 title: Mi marido es de otra especie
 summary: 'Tras su boda, San dejó el trabajo. Cierto día descubre con inquietud cierto detalle: su cara y la de su marido se
   parecen cada vez más. El marido, que proclama…'
-date: '2021-08-02'
+date: '2021-08-02T23:59:59'
 authors:
 - roof77
 tags:

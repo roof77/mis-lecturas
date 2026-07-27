@@ -2,7 +2,7 @@
 title: Lo indispensable de Unas lesbianas de cuidado
 summary: '"La narración de la autora se muestra ágil, vivaz y corrosivamente ácida ante el lector y sus trazos se perfilan
   hasta definir un perfecto mosaico que te…'
-date: '2024-04-05'
+date: '2024-04-05T23:59:59'
 authors:
 - roof77
 tags:

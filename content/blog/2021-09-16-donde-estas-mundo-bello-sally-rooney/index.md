@@ -2,7 +2,7 @@
 title: Dónde estás, mundo bello
 summary: Dos amigas se acercan a la treintena en ciudades distintas y con trayectorias vitales alejadas. Alice, novelista,
   conoce a Felix, que trabaja en un almacén, y…
-date: '2021-09-16'
+date: '2021-09-16T23:59:58'
 authors:
 - roof77
 tags:

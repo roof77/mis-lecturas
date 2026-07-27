@@ -2,7 +2,7 @@
 title: La acusación
 summary: En el año 2013 un anónimo escritor norcoreano consiguió sacar fuera del país un manuscrito que contenía parte de
   su obra literaria. Un año después se…
-date: '2018-07-26'
+date: '2018-07-26T23:59:59'
 authors:
 - roof77
 tags:

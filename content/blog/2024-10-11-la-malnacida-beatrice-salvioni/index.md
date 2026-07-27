@@ -2,7 +2,7 @@
 title: La malnacida
 summary: El poderoso debut de Beatrice Salvioni, ganadora del Premio Calvino 2021, vendido en 28 idiomas antes de su publicación
   Monza, Italia, 1936 . Francesca, de…
-date: '2024-10-11'
+date: '2024-10-11T23:59:59'
 authors:
 - roof77
 tags:

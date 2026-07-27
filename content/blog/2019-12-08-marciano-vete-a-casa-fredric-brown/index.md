@@ -2,7 +2,7 @@
 title: Marciano, vete a casa
 summary: Un escritor se refugia en una cabaña mientras escribe su próximo relato. Al instante un extraterrestre proveniente
   de Marte aparece de la nada. Pronto, cientos…
-date: '2019-12-08'
+date: '2019-12-08T23:59:59'
 authors:
 - roof77
 tags:

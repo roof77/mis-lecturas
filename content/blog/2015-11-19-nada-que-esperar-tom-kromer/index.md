@@ -2,7 +2,7 @@
 title: Nada que esperar
 summary: La Gran Depresión se llevó los empleos, hogares y esperanzas de cientos de miles de hombres y mujeres en la Norteamérica
   de los años treinta. En poco tiempo el…
-date: '2015-11-19'
+date: '2015-11-19T23:59:59'
 authors:
 - roof77
 tags:

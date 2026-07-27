@@ -2,7 +2,7 @@
 title: 'Philémon Integral 01 (de 3) (Philémon, #1)'
 summary: 'Entre 1965 y 2013, el historietista galo Fred narró las andanzas de Philémon: joven que descubre mundos fantásticos
   habitados por seres imposibles en compañía…'
-date: '2025-02-19'
+date: '2025-02-19T23:59:58'
 authors:
 - roof77
 tags:

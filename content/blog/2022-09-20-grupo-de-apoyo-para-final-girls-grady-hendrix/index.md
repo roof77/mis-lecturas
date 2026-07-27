@@ -2,7 +2,7 @@
 title: Grupo de apoyo para final girls
 summary: "La terrorífica novela de una de las voces más consolidadas del género, Grady Hendrix. \r\n\r\nEn las películas de\
   \ miedo, las Final Girls son las que han quedado…"
-date: '2022-09-20'
+date: '2022-09-20T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Los hombres me explican cosas
 summary: En este conjunto de ensayos mordaces y oportunos sobre la persistente desigualdad entre mujeres y hombres y la violencia
   basada en el género, Solnit cita su…
-date: '2017-02-17'
+date: '2017-02-17T23:59:59'
 authors:
 - roof77
 tags:

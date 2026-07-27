@@ -2,7 +2,7 @@
 title: 'Las chicas de campo (Las chicas de campo, #1)'
 summary: Irlanda, años 50. Lejos de la capital, Dublín, y en medio de un verde paisaje, bellísimo pero exigente, la joven
   y aplicada Caithleen ha crecido llena de…
-date: '2014-03-16'
+date: '2014-03-16T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Buddy y los Bradley: Aquellos odiosos años (Buddy y los Bradley, #1)'
 summary: Buddy y los Bradley nos ofrece las primeras aventuras del pringado de Buddy Bradley, el protagonista de Odio, cuando
   todavía es un adolescente que acude al…
-date: '2026-05-10'
+date: '2026-05-10T23:59:59'
 authors:
 - roof77
 tags:

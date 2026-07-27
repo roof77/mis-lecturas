@@ -2,7 +2,7 @@
 title: Luna llena
 summary: En una pequeña localidad japonesa, el matrimonio compuesto por Tetsuo y Fujiko Nire vive apaciblemente en una residencia
   en cuyos jardines cantan toda clase de…
-date: '2023-04-25'
+date: '2023-04-25T23:59:59'
 authors:
 - roof77
 tags:

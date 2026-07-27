@@ -2,7 +2,7 @@
 title: En la mente de un perro
 summary: ¿Qué piensan los perros? ¿Cómo se relacionan con el mundo que los rodea? ¿Cómo interaccionan con los humanos? ¿Qué
   les dicen sus sentidos? La autora de este…
-date: '2015-04-26'
+date: '2015-04-26T23:59:59'
 authors:
 - roof77
 tags:

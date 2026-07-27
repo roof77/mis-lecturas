@@ -2,7 +2,7 @@
 title: 'Tea Rooms: Mujeres obreras'
 summary: Corren los años treinta en Madrid y las trabajadoras de un distinguido salón de té cercano a la Puerta del Sol ajustan
   sus uniformes para comenzar una nueva…
-date: '2023-05-07'
+date: '2023-05-07T23:59:59'
 authors:
 - roof77
 tags:

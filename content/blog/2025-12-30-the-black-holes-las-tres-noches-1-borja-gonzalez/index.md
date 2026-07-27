@@ -2,7 +2,7 @@
 title: 'The Black Holes (Las tres noches, #1)'
 summary: 'Gloria, Laura y Cristina quieren montar una banda de aires punk llamada The Black Holes. Tienen todo lo que se precisa:
   actitud, presencia, instinto... y una…'
-date: '2025-12-30'
+date: '2025-12-30T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Gente normal
 summary: Después de Conversaciones entre amigos, Sally Rooney vuelve a deslumbrarnos con una historia sobre la fascinación
   mutua entre dos personas que no consiguen…
-date: '2019-10-25'
+date: '2019-10-25T23:59:59'
 authors:
 - roof77
 tags:

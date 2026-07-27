@@ -2,7 +2,7 @@
 title: 'Hogwarts: una guía incompleta y poco fiable (Pottermore presenta, #3)'
 summary: Sin embargo, el Ministerio de Magia sabía que construir una estación mágica en medio de Londres sería demasiado incluso
   para la famosa persistencia de los…
-date: '2016-12-30'
+date: '2016-12-30T23:59:59'
 authors:
 - roof77
 tags:

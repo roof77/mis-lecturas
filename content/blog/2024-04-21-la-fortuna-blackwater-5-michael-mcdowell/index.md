@@ -2,7 +2,7 @@
 title: 'La fortuna (Blackwater, #5)'
 summary: '1946. Come un organismo vivente, la famiglia Caskey si sviluppa e si trasforma. Alcuni affrontano la morte, altri
   accolgono la vita: tra riavvicinamenti…'
-date: '2024-04-21'
+date: '2024-04-21T23:59:59'
 authors:
 - roof77
 tags:

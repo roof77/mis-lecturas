@@ -2,7 +2,7 @@
 title: Akira, No. 2
 summary: Segundo tomo de la nueva y flamante edición a todo color del clásico de Katsuhiro Otomo. A KIRA es una obra maestra
   que no puede faltar en la biblioteca de…
-date: '2024-07-10'
+date: '2024-07-10T23:59:58'
 authors:
 - roof77
 tags:

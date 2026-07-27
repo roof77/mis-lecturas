@@ -2,7 +2,7 @@
 title: La vida cotidiana del dibujante underground
 summary: Nazario Luque Vera, de nombre artístico Nazario, llegó a Barcelona procedente de Sevilla en 1972 con un trabajo de
   maestro bajo el brazo y el firme propósito…
-date: '2016-09-15'
+date: '2016-09-15T23:59:59'
 authors:
 - roof77
 tags:

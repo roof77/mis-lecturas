@@ -2,7 +2,7 @@
 title: 'La voz de las espadas (La Primera Ley, #1)'
 summary: El inquisidor Glokta, convertido en un cínico tullido tras su paso por las cárceles de los enemigos de la Unión,
   es ahora a su vez un eficaz torturador capaz…
-date: '2014-07-07'
+date: '2014-07-07T23:59:59'
 authors:
 - roof77
 tags:

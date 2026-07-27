@@ -2,7 +2,7 @@
 title: Querida Ijeawele. Cómo educar en el feminismo
 summary: El feminismo empieza en la educación. Con su voz cálida y directa,  Chimamanda Ngozi Adichie dirige esta emotiva
   carta a una joven madre que  acaba de dar a…
-date: '2017-03-15'
+date: '2017-03-15T23:59:57'
 authors:
 - roof77
 tags:

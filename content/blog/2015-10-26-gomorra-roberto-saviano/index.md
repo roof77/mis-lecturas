@@ -2,7 +2,7 @@
 title: Gomorra
 summary: Roberto Saviano nació en 1979 en Nápoles, donde vivía y trabajaba hasta que en septiembre de 2006 el éxito del libro,
   que cita nombres y lugares, lo ha…
-date: '2015-10-26'
+date: '2015-10-26T23:59:59'
 authors:
 - roof77
 tags:

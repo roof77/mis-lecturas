@@ -2,7 +2,7 @@
 title: La joven ahogada
 summary: India Morgan Phelps –Imp para los amigos– es esquizofrénica. Ya no puede confiar en su propia mente, porque está
   convencida de que sus recuerdos, de alguna…
-date: '2015-06-20'
+date: '2015-06-20T23:59:59'
 authors:
 - roof77
 tags:

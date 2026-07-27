@@ -2,7 +2,7 @@
 title: Enormes cambios de último minuto
 summary: In this collection of short stories, originally published in 1974, Grace Paley "makes the novel as a form seem virtually
   redundant" (Angela Carter, London…
-date: '2019-11-14'
+date: '2019-11-14T23:59:59'
 authors:
 - roof77
 tags:

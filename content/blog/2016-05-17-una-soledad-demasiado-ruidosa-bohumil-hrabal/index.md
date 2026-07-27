@@ -2,7 +2,7 @@
 title: Una soledad demasiado ruidosa
 summary: Desde hace treinta y cinco años, Hanta trabaja en una trituradora de papel prensando libros y reproducciones de cuadros.
   En cada una de las balas de papel que…
-date: '2016-05-17'
+date: '2016-05-17T23:59:59'
 authors:
 - roof77
 tags:

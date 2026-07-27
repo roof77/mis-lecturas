@@ -2,7 +2,7 @@
 title: Las indignas
 summary: El mundo atravesó guerras por el agua y catástrofes ambientales. Los días pasan de gélidos a sofocantes en cuestión
   de horas; el aire está saturado de olores…
-date: '2025-01-14'
+date: '2025-01-14T23:59:58'
 authors:
 - roof77
 tags:

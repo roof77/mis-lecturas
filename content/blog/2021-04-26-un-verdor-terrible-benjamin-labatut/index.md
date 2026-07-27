@@ -2,7 +2,7 @@
 title: Un verdor terrible
 summary: "La aventura de la ciencia convertida en literatura. Un libro inclasificable y poderosamente seductor.\r\n\r\nLas\
   \ narraciones incluidas en este libro singular y…"
-date: '2021-04-26'
+date: '2021-04-26T23:59:59'
 authors:
 - roof77
 tags:

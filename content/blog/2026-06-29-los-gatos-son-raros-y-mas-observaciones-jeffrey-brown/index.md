@@ -2,7 +2,7 @@
 title: Los gatos son raros y más observaciones
 summary: Los dibujos de Jeffrey Brown capturan a la perfección la comicidad y el carácter estrafalario de los gatos en todo
   su encantador apogeo. Tras el éxito de Gato…
-date: '2026-06-29'
+date: '2026-06-29T23:59:59'
 authors:
 - roof77
 tags:

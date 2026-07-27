@@ -2,7 +2,7 @@
 title: Sueño del Fevre
 summary: 'En 1857, la cuenca del Misisipi bulle de actividad: los vapores señorean sus aguas en feroz competencia. Cuando
   Joshua York le ofrece sacar a flote su naviera…'
-date: '2019-07-03'
+date: '2019-07-03T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: El caso de madame Paul
 summary: Julie Doucet and her boyfriend find a new apartment with cheap rent and a string of nutty neighbors. One ex-con “breaks
   out” of his apartment by smashing his…
-date: '2026-05-31'
+date: '2026-05-31T23:59:59'
 authors:
 - roof77
 tags:

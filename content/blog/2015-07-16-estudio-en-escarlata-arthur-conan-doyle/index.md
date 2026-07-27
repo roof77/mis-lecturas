@@ -2,7 +2,7 @@
 title: Estudio en escarlata
 summary: La publicación en 1887 de ESTUDIO EN ESCARLATA significó para la historia del relato policiaco no sólo la aparición
   de un escritor que revolucionaría el…
-date: '2015-07-16'
+date: '2015-07-16T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Amores imperfectos
 summary: Una mujer enamorada de su íntima amiga, a quien teme confesar sus sentimientos; un adolescente prendado de su vecina,
   mayor que él; mujeres que transitan por…
-date: '2021-08-10'
+date: '2021-08-10T23:59:59'
 authors:
 - roof77
 tags:

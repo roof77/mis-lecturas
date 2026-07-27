@@ -2,7 +2,7 @@
 title: Los hombres lobo de Montpellier
 summary: Sven, un artista escandinavo semibohemio que ha ido a parar a la ciudad francesa de Montpellier, se disfraza de hombre
   lobo para asustar a las víctimas de sus…
-date: '2026-02-07'
+date: '2026-02-07T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Hábitos atómicos
 summary: 'HÁBITOS ATÓMICOS parte de una simple pero poderosa pregunta: ¿Cómo podemos vivir mejor? Sabemos que unos buenos
   hábitos nos permiten mejorar significativamente…'
-date: '2022-04-06'
+date: '2022-04-06T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Las estrellas son legión
 summary: En los confines del universo, la Legión, un sistema de naves-mundo que se van pudriendo poco a poco, se desplaza
   por los intersticios de las estrellas. Parece…
-date: '2017-12-20'
+date: '2017-12-20T23:59:59'
 authors:
 - roof77
 tags:

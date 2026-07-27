@@ -2,7 +2,7 @@
 title: Insomniacs After School, vol. 1
 summary: Ganta, un chico de secundaria, descubre que su compañera Isaki, al igual que él, sufre insomnio. Con ella comienza
   una singular relación al compartir breves…
-date: '2026-07-25'
+date: '2026-07-25T23:59:57'
 authors:
 - roof77
 tags:

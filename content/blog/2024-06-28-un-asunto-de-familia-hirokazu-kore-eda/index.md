@@ -2,7 +2,7 @@
 title: Un asunto de familia
 summary: La novela de la aclamada película Un asunto de familia (Palma de Oro en Cannes, Premio Donostia en el Festival de
   Cine de San Sebastián, elegida mejor…
-date: '2024-06-28'
+date: '2024-06-28T23:59:58'
 authors:
 - roof77
 tags:

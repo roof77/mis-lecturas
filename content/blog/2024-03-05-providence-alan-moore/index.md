@@ -2,7 +2,7 @@
 title: Providence
 summary: Il capolavoro lovecraftiano di Alan Moore e Jacen Burrows raccolto in un prestigioso volume in grande formato e con
   finiture di pregio! È il 1919 e l’ambizioso…
-date: '2024-03-05'
+date: '2024-03-05T23:59:59'
 authors:
 - roof77
 tags:

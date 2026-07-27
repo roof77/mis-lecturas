@@ -2,7 +2,7 @@
 title: 'Harry Potter y el misterio del príncipe (Harry Potter, #6)'
 summary: Con dieciséis años cumplidos, Harry Potter inicia el sexto curso en Hogwarts en medio de terribles acontecimientos
   que asolan Inglaterra. Elegido capitán del…
-date: '2016-12-21'
+date: '2016-12-21T23:59:59'
 authors:
 - roof77
 tags:

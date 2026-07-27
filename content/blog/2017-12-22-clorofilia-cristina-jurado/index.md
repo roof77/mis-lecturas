@@ -2,7 +2,7 @@
 title: CloroFilia
 summary: ¿Quién es Kirmen? ¿Por qué el joven no se parece a sus padres, ni a su amigos, ni a ninguno de los habitantes del
   Claustro? En el exterior de las cúpulas que…
-date: '2017-12-22'
+date: '2017-12-22T23:59:59'
 authors:
 - roof77
 tags:

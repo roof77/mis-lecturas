@@ -2,7 +2,7 @@
 title: La mujer del viajero en el tiempo
 summary: Un hombre tiene la capacidad de viajar en el tiempo y revisita su historia de amor... Clare y Henry forman una pareja
   aparentemente normal, se quieren e…
-date: '2015-07-08'
+date: '2015-07-08T23:59:59'
 authors:
 - roof77
 tags:

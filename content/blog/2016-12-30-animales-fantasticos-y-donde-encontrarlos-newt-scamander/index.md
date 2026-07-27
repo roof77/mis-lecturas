@@ -2,7 +2,7 @@
 title: Animales fantásticos y dónde encontrarlos
 summary: Hay un ejemplar de Animales fantásticos y dónde encontrarlos en casi todos los hogares de magos del país. Ahora,
   sólo por cierto tiempo, también los muggles…
-date: '2016-12-30'
+date: '2016-12-30T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Winesburg, Ohio
 summary: El joven George Willard, reportero del periódico local, observa la vida de los habitantes de su pequeño pueblo, Winesburg,
   en Ohio. La mirada del narrador…
-date: '2014-04-02'
+date: '2014-04-02T23:59:59'
 authors:
 - roof77
 tags:

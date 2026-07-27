@@ -2,7 +2,7 @@
 title: 'Instrumental: Memorias de música, medicina y locura'
 summary: "«AHORA SÉ QUE LA MÚSICA CURA.»\r\n \r\nJames Rhodes es uno de los más eminentes concertistas de piano de la actualidad\
   \ y un gran renovador de la música clásica. Ha…"
-date: '2016-04-28'
+date: '2016-04-28T23:59:59'
 authors:
 - roof77
 tags:

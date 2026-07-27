@@ -2,7 +2,7 @@
 title: Miss Lonelyhearts
 summary: Nathanael West (1904-1940) fue el último representante de la emblemática “Generación Perdida” norteamericana de la
   que formaron parte autores como Scott…
-date: '2015-01-14'
+date: '2015-01-14T23:59:59'
 authors:
 - roof77
 tags:

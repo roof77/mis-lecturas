@@ -2,7 +2,7 @@
 title: El periodista deportivo
 summary: Frank Bascombe tiene treinta y ocho años y un magnífico porvenir como escritor a sus espaldas. Disfrutó de un breve
   instante de gloria, tras la publicación de…
-date: '2016-04-01'
+date: '2016-04-01T23:59:59'
 authors:
 - roof77
 tags:

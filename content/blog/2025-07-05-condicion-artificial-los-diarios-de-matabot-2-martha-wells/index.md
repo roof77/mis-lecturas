@@ -2,7 +2,7 @@
 title: 'Condición artificial (Los diarios de Matabot #2)'
 summary: Tiene un pasado oscuro donde murieron muchos humanos. Y por ese pasado decidió llamarse Matabot. Pero, de la masacre
   que le dio nombre solo conserva un…
-date: '2025-07-05'
+date: '2025-07-05T23:59:59'
 authors:
 - roof77
 tags:

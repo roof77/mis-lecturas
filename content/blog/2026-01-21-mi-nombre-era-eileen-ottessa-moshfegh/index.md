@@ -2,7 +2,7 @@
 title: Mi nombre era Eileen
 summary: La Navidad ofrece muy poco a Eileen Dunlop, una chica modesta y perturbada atrapada entre su papel de cuidadora de
   un padre alcohólico y su empleo…
-date: '2026-01-21'
+date: '2026-01-21T23:59:59'
 authors:
 - roof77
 tags:

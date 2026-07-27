@@ -2,7 +2,7 @@
 title: Hey! Julio Iglesias y la conquista de América
 summary: A nivel popular, Julio Iglesias es un icono kitsch, un personaje de la prensa rosa, un galán machista, un representante
   de la españolidad más rancia o un…
-date: '2023-09-06'
+date: '2023-09-06T23:59:59'
 authors:
 - roof77
 tags:

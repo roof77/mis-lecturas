@@ -2,7 +2,7 @@
 title: 'House of Cards (Francis Urquhart, #1)'
 summary: "\"¡Qué personaje! ¡Qué creación más brillante!\" Sunday Telegraph\r\n\"House of Cards es la obra de un genio.\"\
   \ Sunday Post\r\n\"Afilado como una cuchilla. Sin…"
-date: '2015-03-11'
+date: '2015-03-11T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: El vivo
 summary: El mundo tal y como lo conocemos ha llegado a su fin. Después de la Gran Reducción, la población de la Tierra se
   mantiene fija en tres billones de habitantes…
-date: '2019-02-19'
+date: '2019-02-19T23:59:59'
 authors:
 - roof77
 tags:

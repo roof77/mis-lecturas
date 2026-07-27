@@ -1,7 +1,7 @@
 ---
 title: 'El Asco: El mundo de Ander Klimakks (El Asco #2 de 3)'
 summary: Segundo tomo de tres.
-date: '2025-01-30'
+date: '2025-01-30T23:59:57'
 authors:
 - roof77
 tags:

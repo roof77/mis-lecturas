@@ -2,7 +2,7 @@
 title: 'El cuerpo humano: Guía para ocupantes'
 summary: Del autor de Una breve historia de casi todo (200.000 ejemplares vendidosNos pasamos toda una vida con un solo cuerpo
   y casi no sabemos cómo funciona. Desde…
-date: '2020-06-24'
+date: '2020-06-24T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Viaje al sueño americano
 summary: Bill Bryson tiene la rara habilidad de sentirse descolocado donde quiera que vaya, incluso (quizá especialmente)
   en su tierra natal. Este rasgo de su carácter…
-date: '2024-09-17'
+date: '2024-09-17T23:59:59'
 authors:
 - roof77
 tags:

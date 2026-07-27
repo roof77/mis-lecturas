@@ -2,7 +2,7 @@
 title: 'La mujer de negro (La mujer de negro, #1)'
 summary: Cuando el joven abogado Arthur Kipps recibe el encargo de viajar a un purblo remoto del interior rodeado de marismas
   brumosas para asistir al entierro de una…
-date: '2015-11-02'
+date: '2015-11-02T23:59:59'
 authors:
 - roof77
 tags:

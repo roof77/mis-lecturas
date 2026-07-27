@@ -2,7 +2,7 @@
 title: De cómo recibí mi herencia
 summary: Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata su herencia eslava y judía de una forma
   tan fascinante y estilizada que parece…
-date: '2022-06-06'
+date: '2022-06-06T23:59:59'
 authors:
 - roof77
 tags:

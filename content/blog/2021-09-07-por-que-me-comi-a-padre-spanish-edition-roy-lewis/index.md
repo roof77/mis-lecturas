@@ -2,7 +2,7 @@
 title: Por qué me comí a padre (Spanish Edition)
 summary: Ambientada en una región del centro de África hacia finales del Pleistoceno, Por qué me comí a mi padre es la crónica
   trepidante y en algunos momentos jocosa…
-date: '2021-09-07'
+date: '2021-09-07T23:59:58'
 authors:
 - roof77
 tags:

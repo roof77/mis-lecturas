@@ -2,7 +2,7 @@
 title: 'Astro City, Vol. 2: Confession'
 summary: Brian Kinney struggles to become the sidekick to Astro City's vigilante, known as the Confessor, only to learn that
   his hero holds a dark secret.
-date: '2026-02-08'
+date: '2026-02-08T23:59:59'
 authors:
 - roof77
 tags:

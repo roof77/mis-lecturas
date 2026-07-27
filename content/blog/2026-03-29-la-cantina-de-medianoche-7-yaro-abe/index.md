@@ -2,7 +2,7 @@
 title: La cantina de medianoche 7
 summary: Arriva il settimo volume del manga best seller di Abe Yaro. In questa nuova uscita, le storie sono particolarmente
   divertenti, per i motivi più  nomi di amici…
-date: '2026-03-29'
+date: '2026-03-29T23:59:59'
 authors:
 - roof77
 tags:

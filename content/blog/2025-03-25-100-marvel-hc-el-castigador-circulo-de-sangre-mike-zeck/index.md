@@ -2,7 +2,7 @@
 title: '100% Marvel HC. El Castigador: Círculo de Sangre'
 summary: ¡La mítica historia que lanzó al estrellato a Frank Castle, en un volumen en tapa dura que incluye también su secuela
   y decenas de extras! El Castigador ha…
-date: '2025-03-25'
+date: '2025-03-25T23:59:59'
 authors:
 - roof77
 tags:

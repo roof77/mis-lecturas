@@ -2,7 +2,7 @@
 title: Todos nuestros presentes equivocados
 summary: Tom Barren vive en un 2016 utópico de coches voladores, aceras móviles y bases en la luna, en el que los aguacates
   no se estropean y el punk nunca ha…
-date: '2017-10-14'
+date: '2017-10-14T23:59:59'
 authors:
 - roof77
 tags:

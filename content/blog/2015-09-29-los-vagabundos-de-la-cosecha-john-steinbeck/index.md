@@ -2,7 +2,7 @@
 title: Los vagabundos de la cosecha
 summary: Durante los años más duros sucesivos a la Gran Depresión, gran cantidad de campesinos expulsados de sus granjas abarrotaron
   las carreteras del estado de…
-date: '2015-09-29'
+date: '2015-09-29T23:59:59'
 authors:
 - roof77
 tags:

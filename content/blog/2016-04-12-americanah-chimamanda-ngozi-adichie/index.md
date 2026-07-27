@@ -2,7 +2,7 @@
 title: Americanah
 summary: "Una original historia sobre la inmigración en Estados Unidos desde el punto de vista de una estudiante de literatura\
   \ nigeriana.\r\n\r\n\r\nLagos, mediados de los…"
-date: '2016-04-12'
+date: '2016-04-12T23:59:59'
 authors:
 - roof77
 tags:

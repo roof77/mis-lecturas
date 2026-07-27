@@ -2,7 +2,7 @@
 title: El marciano
 summary: "Alternate cover edition of ISBN 9788466655057.\r\nSeis días atrás el astronauta Mark Watney se convirtió en uno\
   \ de los primeros hombres  en caminar por la…"
-date: '2015-10-31'
+date: '2015-10-31T23:59:59'
 authors:
 - roof77
 tags:

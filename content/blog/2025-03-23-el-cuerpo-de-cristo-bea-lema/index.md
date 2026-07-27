@@ -2,7 +2,7 @@
 title: El cuerpo de Cristo
 summary: Cuando Vera era niña, un demonio rondaba su casa y acosaba a su madre, martilleándole los nervios hasta postrarla
   en la cama durante días. Entre las sesiones…
-date: '2025-03-23'
+date: '2025-03-23T23:59:59'
 authors:
 - roof77
 tags:

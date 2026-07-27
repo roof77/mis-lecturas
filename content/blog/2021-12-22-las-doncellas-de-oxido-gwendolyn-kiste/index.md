@@ -2,7 +2,7 @@
 title: Las doncellas de óxido
 summary: Verano de 1980 en Cleveland, Ohio. Phoebe Shaw, y su prima y mejor amiga, Jacqueline, acaban de graduarse en la escuela
   de secundaria en medio de un futuro del…
-date: '2021-12-22'
+date: '2021-12-22T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'El cerebro obeso: Las claves para combatir la obesidad están en el cerebro (Spanish Edition)'
 summary: La obesidad crece imparable y sus efectos negativos sobre la salud también. Las campañas e iniciativas para combatir
   el sobrepeso que se han lanzado por todo…
-date: '2015-11-24'
+date: '2015-11-24T23:59:59'
 authors:
 - roof77
 tags:

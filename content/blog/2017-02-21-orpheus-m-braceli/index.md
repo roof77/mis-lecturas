@@ -2,7 +2,7 @@
 title: Orpheus
 summary: Cuando destinaron a su padre a Minos, un asteroide en una galaxia moribunda, Orfeo no sospechaba de las auténticas
   intenciones de SAITO, la todopoderosa…
-date: '2017-02-21'
+date: '2017-02-21T23:59:59'
 authors:
 - roof77
 tags:

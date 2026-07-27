@@ -2,7 +2,7 @@
 title: 'El último graduado (La escolomancia, #2)'
 summary: El conocimiento otorga protección. Ese es el lema oficial de la Escolomancia. Supongo que podríamos decir que es
   cierto., el problema es que aquí resulta muy…
-date: '2023-09-10'
+date: '2023-09-10T23:59:59'
 authors:
 - roof77
 tags:

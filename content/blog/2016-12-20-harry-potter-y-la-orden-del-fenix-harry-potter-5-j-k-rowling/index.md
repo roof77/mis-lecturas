@@ -2,7 +2,7 @@
 title: 'Harry Potter y la Orden del Fénix (Harry Potter, #5)'
 summary: Las tediosas vacaciones en casa de sus tíos todavía no han acabado y Harry Potter se encuentra más inquieto que nunca.
   Apenas ha tenido noticias de Ron y…
-date: '2016-12-20'
+date: '2016-12-20T23:59:59'
 authors:
 - roof77
 tags:

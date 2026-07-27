@@ -2,7 +2,7 @@
 title: Insomniacs After School, vol. 2
 summary: "Todo el mundo ha tenido una de esas noches en las que, por alguna razón, no puede pegar ojo...\r\n\r\nEscabullirte\
   \ en mitad de la noche para quedar con la chica o…"
-date: '2026-07-25'
+date: '2026-07-25T23:59:58'
 authors:
 - roof77
 tags:

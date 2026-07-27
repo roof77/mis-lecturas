@@ -2,7 +2,7 @@
 title: ¿Por qué ser feliz cuando puedes ser normal?
 summary: "Recent cover edition here\r\nEn 1985, Winterson publicó Fruta prohibida, su primera novela, un relato apenas disimulado\
   \ sobre su infancia y adolescencia como…"
-date: '2021-07-11'
+date: '2021-07-11T23:59:59'
 authors:
 - roof77
 tags:

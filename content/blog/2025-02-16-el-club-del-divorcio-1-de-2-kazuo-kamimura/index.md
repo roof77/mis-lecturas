@@ -2,7 +2,7 @@
 title: El club del divorcio 1 (de 2)
 summary: El club del divorcio (1974-1975) narra las desventuras de la joven Yûko, quien regenta un bar donde trabajan mujeres
   divorciadas que intentan sobrevivir como…
-date: '2025-02-16'
+date: '2025-02-16T23:59:59'
 authors:
 - roof77
 tags:

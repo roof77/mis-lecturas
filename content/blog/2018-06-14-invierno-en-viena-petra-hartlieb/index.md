@@ -2,7 +2,7 @@
 title: Invierno en Viena
 summary: Viena, primeros años del siglo XX. Marie trabaja como niñera para la respetable familia del doctor Arthur Schnitzler,
   el famoso autor de La señorita Else…
-date: '2018-06-14'
+date: '2018-06-14T23:59:58'
 authors:
 - roof77
 tags:

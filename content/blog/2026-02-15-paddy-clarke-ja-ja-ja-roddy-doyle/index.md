@@ -2,7 +2,7 @@
 title: Paddy Clarke, ja, ja, ja
 summary: '"Sometimes when nothing happened it was really getting ready to happen." Irish Paddy rampages through Barrytown
   streets with like-minded hooligans, playing…'
-date: '2026-02-15'
+date: '2026-02-15T23:59:57'
 authors:
 - roof77
 tags:

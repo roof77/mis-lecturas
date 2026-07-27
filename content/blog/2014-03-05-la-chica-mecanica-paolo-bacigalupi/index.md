@@ -2,7 +2,7 @@
 title: La chica mecánica
 summary: Anderson Lake es el hombre de confianza de AgriGen en Tailandia, un reino cerrado a los extranjeros para proteger
   sus preciadas reservas ecológicas. Su empleo…
-date: '2014-03-05'
+date: '2014-03-05T23:59:59'
 authors:
 - roof77
 tags:

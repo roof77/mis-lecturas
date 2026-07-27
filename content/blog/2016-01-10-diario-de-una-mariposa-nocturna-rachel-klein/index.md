@@ -2,7 +2,7 @@
 title: Diario de una mariposa nocturna
 summary: Lucy y Ernessa se han vuelto inseparables. Ernessa la ha absorvido. La está consumiendo. Lo que vi no era real. Y
   sé que tampoco era un sueño. Ernessa es un…
-date: '2016-01-10'
+date: '2016-01-10T23:59:59'
 authors:
 - roof77
 tags:

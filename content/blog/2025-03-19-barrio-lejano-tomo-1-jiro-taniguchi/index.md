@@ -2,7 +2,7 @@
 title: Barrio lejano - Tomo 1
 summary: "Estoy soñando... ¿o qué?\r\n¿Quién no ha soñado con regresar a la infancia? Es lo que le pasa a este hombre maduro\
   \ que, a la vuelta de un viaje de negocios, da…"
-date: '2025-03-19'
+date: '2025-03-19T23:59:58'
 authors:
 - roof77
 tags:

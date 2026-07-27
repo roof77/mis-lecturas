@@ -2,7 +2,7 @@
 title: Crónica del pájaro que da cuerda al mundo
 summary: 'Crónica de un pájaro que da cuerda al mundo: El joven Tooru Okada, que acaba de dejar su trabajo en un bufete de
   abogados, recibe un día la llamada anónima de…'
-date: '2014-10-26'
+date: '2014-10-26T23:59:59'
 authors:
 - roof77
 tags:

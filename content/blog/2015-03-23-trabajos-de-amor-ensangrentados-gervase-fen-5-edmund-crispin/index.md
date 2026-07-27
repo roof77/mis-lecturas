@@ -2,7 +2,7 @@
 title: 'Trabajos de amor ensangrentados (Gervase Fen, #5)'
 summary: Trabajos de amor ensangrentados es un clásico de la Edad Dorada de la novela de detectives inglesa, llena de referencias
   literarias y persecuciones en bólido…
-date: '2015-03-23'
+date: '2015-03-23T23:59:59'
 authors:
 - roof77
 tags:

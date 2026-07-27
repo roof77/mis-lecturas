@@ -2,7 +2,7 @@
 title: 'Un encargo fácil (Horizonte Rojo #1)'
 summary: "Rea Kerr no es buena persona.\r\n\r\nComo líder del grupo de mercenarios espaciales Horizonte Rojo, se dedica a\
   \ disparar a gente de planeta en planeta por dinero…"
-date: '2018-07-15'
+date: '2018-07-15T23:59:59'
 authors:
 - roof77
 tags:

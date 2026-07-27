@@ -2,7 +2,7 @@
 title: Los jardines de la disidencia
 summary: En esta novela, Lethem cuenta un periplo que atraviesa tres generaciones neoyorquinas, ninguna de ellas nada modélicas
   debido a sus convicciones, pues en éstas…
-date: '2015-01-28'
+date: '2015-01-28T23:59:59'
 authors:
 - roof77
 tags:

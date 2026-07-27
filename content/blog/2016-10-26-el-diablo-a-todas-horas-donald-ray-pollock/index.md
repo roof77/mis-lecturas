@@ -2,7 +2,7 @@
 title: El diablo a todas horas
 summary: Cuando Willard Russell, veterano de la segunda guerra mundial, descubre que el cáncer empuja a su mujer hacia una
   muerte inevitable, concluye que solo Jesús…
-date: '2016-10-26'
+date: '2016-10-26T23:59:59'
 authors:
 - roof77
 tags:

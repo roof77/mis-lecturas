@@ -2,7 +2,7 @@
 title: Los amores de Nishino
 summary: "«¿Qué será el amor? Las personas tienen derecho a enamorarse de otros, no a que los demás las amen.»\r\n\r\nTodas\
   \ han amado a Nishino. Todas han sucumbido, aunque…"
-date: '2026-04-16'
+date: '2026-04-16T23:59:59'
 authors:
 - roof77
 tags:

@@ -5,7 +5,7 @@ summary: 'Tiempo muerto es un retrato de la tragedia personal que experimenta un
 
 
   Lucía y Pablo están…'
-date: '2017-09-13'
+date: '2017-09-13T23:59:59'
 authors:
 - roof77
 tags:

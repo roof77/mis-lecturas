@@ -2,7 +2,7 @@
 title: La princesa prometida
 summary: La bella Buttercup jura amor eterno a Westley, que parte en busca de furtuna y es asesinado por unos piratas. La
   doncella, obligada, se promete al príncipe…
-date: '2018-08-21'
+date: '2018-08-21T23:59:59'
 authors:
 - roof77
 tags:

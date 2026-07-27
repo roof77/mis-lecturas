@@ -2,7 +2,7 @@
 title: 'Sex Criminals #17: The Skell'
 summary: 'You think it''s hard being a sex criminal? Try being a sex cop for, like, an issue, give or take. ALSO THIS ISSUE:
   a special sequence guest-colored by a MYSTERY…'
-date: '2018-08-20'
+date: '2018-08-20T23:59:47'
 authors:
 - roof77
 tags:

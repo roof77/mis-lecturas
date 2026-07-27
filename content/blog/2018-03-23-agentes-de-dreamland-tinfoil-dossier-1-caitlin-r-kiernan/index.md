@@ -2,7 +2,7 @@
 title: 'Agentes de Dreamland (Tinfoil Dossier, #1)'
 summary: En una calurosa mañana un agente especial del gobierno llega a Winslow, Arizona, y se reúne con una mujer para intercambiar
   información sobre un suceso…
-date: '2018-03-23'
+date: '2018-03-23T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Astro City #6: La Edad Oscura Libro 1: Hermanos y otros extraños'
 summary: "EL PRIMER TOMO DE LA NUEVA E INÉDITA SAGA DE ASTRO CITY: LA EDAD OSCURA \r\nAstro City, la década de los 70. Nixon\
   \ es el actual y polémico presidente; el…"
-date: '2026-02-28'
+date: '2026-02-28T23:59:59'
 authors:
 - roof77
 tags:

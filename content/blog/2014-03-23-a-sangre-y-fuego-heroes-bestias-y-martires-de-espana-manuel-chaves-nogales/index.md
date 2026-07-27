@@ -2,7 +2,7 @@
 title: 'A sangre y fuego: Héroes, bestias y mártires de España'
 summary: Los relatos que componen este libro están considerados por muchos como lo mejor que se ha escrito en España sobre
   nuestra guerra civil. Redactados entre 1936 y…
-date: '2014-03-23'
+date: '2014-03-23T23:59:59'
 authors:
 - roof77
 tags:

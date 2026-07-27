@@ -2,7 +2,7 @@
 title: 100 Bullets Omnibus Vol. 1
 summary: f you were approached with a convincing story of someone who betrayed you and then offered a gun and one hundred
   untraceable bullets, would you seek vengeance?…
-date: '2025-02-10'
+date: '2025-02-10T23:59:59'
 authors:
 - roof77
 tags:

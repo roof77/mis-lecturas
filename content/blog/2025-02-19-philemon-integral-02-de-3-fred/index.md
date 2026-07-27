@@ -2,7 +2,7 @@
 title: Philemon Integral 02 (de 3)
 summary: Prosiguen las andanzas de Philémon, quien, con la complicidad de su tío Félicien, de su burro Anatole y del propio
   Barthélémy, continúa descubriendo mundos…
-date: '2025-02-19'
+date: '2025-02-19T23:59:59'
 authors:
 - roof77
 tags:

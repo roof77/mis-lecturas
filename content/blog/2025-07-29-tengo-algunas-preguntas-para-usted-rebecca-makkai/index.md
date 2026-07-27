@@ -2,7 +2,7 @@
 title: Tengo algunas preguntas para usted
 summary: Bodie Kane, autora de un podcast de gran éxito, es invitada a regresar como profesora a Granby School, el internado
   de élite de New Hampshire en que se graduó…
-date: '2025-07-29'
+date: '2025-07-29T23:59:59'
 authors:
 - roof77
 tags:

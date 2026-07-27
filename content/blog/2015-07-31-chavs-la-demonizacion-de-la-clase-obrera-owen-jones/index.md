@@ -2,7 +2,7 @@
 title: 'Chavs: La demonización de la clase obrera'
 summary: En la Gran Bretaña actual, la clase trabajadora se ha convertido en objeto de miedo y escarnio. Desde la Vicky Pollard
   de Little Britain a la demonización de…
-date: '2015-07-31'
+date: '2015-07-31T23:59:59'
 authors:
 - roof77
 tags:

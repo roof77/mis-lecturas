@@ -2,7 +2,7 @@
 title: Distancia de rescate
 summary: El campo ha cambiado frente a nuestros ojos sin que nadie se diera cuenta. Y quizá no se trate solo de sequías y
   herbicidas, quizá se trate del hilo vital y…
-date: '2022-03-15'
+date: '2022-03-15T23:59:59'
 authors:
 - roof77
 tags:

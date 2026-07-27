@@ -2,7 +2,7 @@
 title: La constelación del perro
 summary: Tras la pandemia que casi aniquila a toda la humanidad, Hig sobrevive en un hangar, con su perro y una vieja avioneta
   Cessna. Todos sus seres queridos han…
-date: '2015-06-12'
+date: '2015-06-12T23:59:59'
 authors:
 - roof77
 tags:

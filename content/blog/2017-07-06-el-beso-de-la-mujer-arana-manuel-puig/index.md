@@ -2,7 +2,7 @@
 title: El beso de la mujer araña
 summary: La obra más conocida de Manuel Puig, “el brillantemente inventivo novelista argentino” (The New York Times), es ahora
   el tema de una premiada comedia…
-date: '2017-07-06'
+date: '2017-07-06T23:59:59'
 authors:
 - roof77
 tags:

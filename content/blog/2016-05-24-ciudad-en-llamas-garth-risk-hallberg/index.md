@@ -2,7 +2,7 @@
 title: Ciudad en llamas
 summary: "Un himno a la ciudad de Nueva York, un homenaje a los años setenta, una novela coral al más puro estilo americano.\r\
   \n\r\nWilliam Hamilton-Sweeney y su hermana…"
-date: '2016-05-24'
+date: '2016-05-24T23:59:59'
 authors:
 - roof77
 tags:

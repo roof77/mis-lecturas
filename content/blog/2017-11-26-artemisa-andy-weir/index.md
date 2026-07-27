@@ -2,7 +2,7 @@
 title: Artemisa
 summary: "Jazz Bashara es una criminal… O al menos lo parece. \r\n\r\nLa vida en Artemisa, la primera y única ciudad de la\
   \ Luna, es difícil si no eres un turista adinerado o…"
-date: '2017-11-26'
+date: '2017-11-26T23:59:59'
 authors:
 - roof77
 tags:

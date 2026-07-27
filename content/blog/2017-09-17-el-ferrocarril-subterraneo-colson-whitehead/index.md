@@ -2,7 +2,7 @@
 title: El ferrocarril subterráneo
 summary: "Librarian note: Alternate cover edition of ISBN-13: 9788439733003, ISBN-10/ASIN: 8439733003\r\n\r\nCora es una joven\
   \ esclava de una plantación de algodón en…"
-date: '2017-09-17'
+date: '2017-09-17T23:59:59'
 authors:
 - roof77
 tags:

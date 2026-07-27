@@ -2,7 +2,7 @@
 title: El contrabajo
 summary: Como la pasión y poderío olfativos del protagonista de El perfume, el instrumento que es a un tiempo orgullo y condena
   del músico de El contrabajo, posee la…
-date: '2015-01-29'
+date: '2015-01-29T23:59:59'
 authors:
 - roof77
 tags:

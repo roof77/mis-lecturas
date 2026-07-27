@@ -2,7 +2,7 @@
 title: 'Binti (Binti, #1)'
 summary: 'Su nombre es Binti, y es la primera de los himba a la que se le ha ofrecido una plaza en Oomza Uni: la mejor institución
   de enseñanza superior de la galaxia…'
-date: '2018-05-02'
+date: '2018-05-02T23:59:59'
 authors:
 - roof77
 tags:

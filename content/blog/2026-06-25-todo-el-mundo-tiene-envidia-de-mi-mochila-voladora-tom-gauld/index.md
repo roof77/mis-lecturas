@@ -2,7 +2,7 @@
 title: Todo el mundo tiene envidia de mi mochila voladora
 summary: Todo el mundo tiene envidia de mi mochila voladora es una selección de las tiras cómicas de Tom Gauld, que durante
   los últimos años ha hecho las delicias de…
-date: '2026-06-25'
+date: '2026-06-25T23:59:59'
 authors:
 - roof77
 tags:

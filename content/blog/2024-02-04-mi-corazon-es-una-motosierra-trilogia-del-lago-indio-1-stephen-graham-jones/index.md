@@ -2,7 +2,7 @@
 title: 'Mi corazón es una motosierra (Trilogía del lago Indio, #1)'
 summary: Jade Daniels es una adolescente fanática de los slashers que vive en Proofrock, Idaho, un pueblo situado al lado
   del lago Indian. En la otra orilla del lago se…
-date: '2024-02-04'
+date: '2024-02-04T23:59:59'
 authors:
 - roof77
 tags:

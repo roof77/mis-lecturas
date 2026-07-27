@@ -2,7 +2,7 @@
 title: Me llamo Lucy Barton
 summary: En una habitación de hospital en pleno centro de Manhattan, delante del iluminado edificio Chrysler, cuyo perfil
   se recorta al otro lado de la ventana, dos…
-date: '2016-09-18'
+date: '2016-09-18T23:59:59'
 authors:
 - roof77
 tags:

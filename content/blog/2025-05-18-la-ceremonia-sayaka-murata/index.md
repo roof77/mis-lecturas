@@ -2,7 +2,7 @@
 title: La ceremonia
 summary: "Historias de amor extraño, amistades sinceras y la naturaleza inquietante de la existencia humana.\r\n\r\nLas tensiones\
   \ de una pareja de novios por sus diferencias…"
-date: '2025-05-18'
+date: '2025-05-18T23:59:59'
 authors:
 - roof77
 tags:

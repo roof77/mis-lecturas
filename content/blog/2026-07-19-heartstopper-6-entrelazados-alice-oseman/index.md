@@ -2,7 +2,7 @@
 title: Heartstopper 6. Entrelazados
 summary: Boy meets boy. Boys become friends. Boys fall in love. The final installment in the bestselling LGBTQ+ graphic novel
   series about life, love, and everything…
-date: '2026-07-19'
+date: '2026-07-19T23:59:59'
 authors:
 - roof77
 tags:

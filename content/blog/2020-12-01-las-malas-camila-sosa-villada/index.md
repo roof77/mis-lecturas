@@ -2,7 +2,7 @@
 title: Las malas
 summary: "En un ambiente urbano hostil, Camila Sosa narra desde dentro la vida de una comunidad de travestis en Córdoba, Argentina.\r\
   \n\r\nCuando llegó a Córdoba capital…"
-date: '2020-12-01'
+date: '2020-12-01T23:59:59'
 authors:
 - roof77
 tags:

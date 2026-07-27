@@ -2,7 +2,7 @@
 title: 'Un tablao en otro mundo: La asombrosa historia de cómo el flamenco conquistó Japón'
 summary: En los años 50 del siglo pasado comenzaron a viajar a Japón los flamencos españoles. Lo hicieron, por temporadas
   larguísimas, artistas como Chiquito de la…
-date: '2021-04-23'
+date: '2021-04-23T23:59:59'
 authors:
 - roof77
 tags:

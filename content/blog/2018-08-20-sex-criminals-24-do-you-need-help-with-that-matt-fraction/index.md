@@ -2,7 +2,7 @@
 title: 'Sex Criminals #24: Do You Need Help With That'
 summary: "\"FIVE-FINGERED DISCOUNT,” Part Four\r\n\r\nThe long-awaited return of the most beloved piece of the SEX CRIMINALS\
   \ phenomenon that took the comics world by storm…"
-date: '2018-08-20'
+date: '2018-08-20T23:59:54'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Los optimistas
 summary: Yale Tishman es uno de los muchos amigos de Nico que se han reunido para honrar su memoria en una pequeña fiesta.
   A la misma hora, no muy lejos de allí, se…
-date: '2021-12-01'
+date: '2021-12-01T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: La invitada
 summary: 'Tras el éxito mundial de Las chicas, llega la esperadísima segunda novela de Emma Cline: una joven a la fuga en
   un entorno de lujo y apariencias, un thriller…'
-date: '2025-03-09'
+date: '2025-03-09T23:59:59'
 authors:
 - roof77
 tags:

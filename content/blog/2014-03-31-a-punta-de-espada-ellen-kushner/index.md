@@ -2,7 +2,7 @@
 title: A punta de espada
 summary: '"Comienza con una única gota de sangre sobre un campo de nieve recién caída: es un comienzo maravilloso, y a partir
   de ahí el libro no hace sino…'
-date: '2014-03-31'
+date: '2014-03-31T23:59:59'
 authors:
 - roof77
 tags:

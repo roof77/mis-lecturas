@@ -2,7 +2,7 @@
 title: Utopía para realistas
 summary: Fruto del espectacular avance de la ciencia en los últimos decenios, la globalización está transformando de forma
   radical el orden social y económico del siglo…
-date: '2020-07-19'
+date: '2020-07-19T23:59:59'
 authors:
 - roof77
 tags:

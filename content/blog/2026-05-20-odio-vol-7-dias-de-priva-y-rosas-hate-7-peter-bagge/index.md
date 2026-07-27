@@ -2,7 +2,7 @@
 title: 'Odio, vol. 7: Dias de priva y rosas (Hate, #7)'
 summary: Collects an alternative comic from the 1990s that chronicles the misadventures and life experiences of Buddy Bradley,
   oldest son of America's most…
-date: '2026-05-20'
+date: '2026-05-20T23:59:59'
 authors:
 - roof77
 tags:

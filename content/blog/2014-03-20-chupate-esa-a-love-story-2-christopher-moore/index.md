@@ -2,7 +2,7 @@
 title: '¡Chúpate esa! (A Love Story, #2)'
 summary: Estar muerto es un asco. Igual que estar no muerto. Y, si no, que se lo pregunten a Thomas Flood, que, al despertarse
   tras la noche más fantástica de su vida…
-date: '2014-03-20'
+date: '2014-03-20T23:59:59'
 authors:
 - roof77
 tags:

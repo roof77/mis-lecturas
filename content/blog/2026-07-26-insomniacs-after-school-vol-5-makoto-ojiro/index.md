@@ -2,7 +2,7 @@
 title: Insomniacs After School, vol. 5
 summary: "¡Al fin llegó el día! Nakami y Magari salen de excursión para fotografiar el cielo estrellado de Noto!\r\n\r\nTras\
   \ el fiasco de la actividad de observación de las…"
-date: '2026-07-26'
+date: '2026-07-26T23:59:59'
 authors:
 - roof77
 tags:

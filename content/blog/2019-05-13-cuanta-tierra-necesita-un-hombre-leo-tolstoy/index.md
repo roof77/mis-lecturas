@@ -2,7 +2,7 @@
 title: ¿Cuánta tierra necesita un hombre?
 summary: Escrito en 1886, ¿Cuánta tierra necesita un hombre? es una modernísima parábola sobre la ambición del ser humano.
   Pajom es un campesino al que ninguna…
-date: '2019-05-13'
+date: '2019-05-13T23:59:59'
 authors:
 - roof77
 tags:

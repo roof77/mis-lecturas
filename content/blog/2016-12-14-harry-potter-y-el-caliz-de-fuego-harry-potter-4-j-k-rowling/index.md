@@ -2,7 +2,7 @@
 title: 'Harry Potter y el cáliz de fuego (Harry Potter, #4)'
 summary: Tras otro abominable verano con los Dursley, Harry se dispone a iniciar el cuarto curso en Hogwarts, la famosa escuela
   de magia y hechicería. A sus catorce…
-date: '2016-12-14'
+date: '2016-12-14T23:59:59'
 authors:
 - roof77
 tags:

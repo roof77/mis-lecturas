@@ -2,7 +2,7 @@
 title: Hay algo matando niños, vol. 1
 summary: "¡Son los monstruos los que tendrían que estar asustados!\r\n\r\nCuando empiezan a desaparecer los niños de Archer's\
   \ Peak, una tranquila localidad en el corazón de…"
-date: '2025-11-14'
+date: '2025-11-14T23:59:59'
 authors:
 - roof77
 tags:

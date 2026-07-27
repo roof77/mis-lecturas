@@ -2,7 +2,7 @@
 title: Visceral
 summary: 'Un cadáver contagiado de virus covid yace amortajado sobre un sofá doméstico bajo un parasol. Junto a él un cartel
   dice: «¡Hemos llamado al 911 y no hay…'
-date: '2024-05-13'
+date: '2024-05-13T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Las Biuty Queens
 summary: In this acclaimed story collection, Chilean transgender performer and author Iván Monalisa Ojeda delivers an irreverent,
   honest and full-throated love song to…
-date: '2021-09-23'
+date: '2021-09-23T23:59:59'
 authors:
 - roof77
 tags:

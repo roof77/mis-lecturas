@@ -2,7 +2,7 @@
 title: Producciones Kim Jong-Il presenta...
 summary: Antes de convertirse en el dictador más famoso del planeta, Kim Jong-Il dirigía el Ministerio de Propaganda de Corea
   del Norte. Desde allí, informado como…
-date: '2016-03-23'
+date: '2016-03-23T23:59:59'
 authors:
 - roof77
 tags:

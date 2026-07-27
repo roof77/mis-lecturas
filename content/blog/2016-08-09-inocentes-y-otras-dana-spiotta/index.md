@@ -2,7 +2,7 @@
 title: Inocentes y otras
 summary: Jelly sale con Jack, el campeón de los phone phreaks, algo así como el primer hacker. Y sin embargo, en algún momento
   acaba seduciendo telefónicamente a un…
-date: '2016-08-09'
+date: '2016-08-09T23:59:59'
 authors:
 - roof77
 tags:

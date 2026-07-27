@@ -2,7 +2,7 @@
 title: Jóvenes poetas rebeldes
 summary: Nanette O´Hare es una sencilla adolescente que lleva mucho tiempo interpretando los papeles de hija obediente, estudiante
   modelo y brillante atleta. Este año…
-date: '2023-04-28'
+date: '2023-04-28T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Insomniacs After School, vol. 4
 summary: "Una aplicación de radio con la que emiten programas especiales que solo ellos pueden escuchar...\r\n\r\nGanta e\
   \ Isaki intentarán salvar el club de astronomía, por…"
-date: '2026-07-26'
+date: '2026-07-26T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Nada es verdad
 summary: Una novela desternillante y feroz sobre vínculos, pérdidas, desastres familiares y la aventura de crecer. Veronica
   pasa su infancia y adolescencia en un barrio…
-date: '2025-06-02'
+date: '2025-06-02T23:59:59'
 authors:
 - roof77
 tags:

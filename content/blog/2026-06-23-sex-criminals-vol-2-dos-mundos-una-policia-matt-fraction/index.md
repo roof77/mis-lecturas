@@ -2,7 +2,7 @@
 title: 'Sex Criminals, Vol. 2: Dos mundos, una policía'
 summary: 'Suzie y Jon tienen un don: cuando alcanzan el orgasmo, el tiempo se congela y entran en otra dimensión donde nadie
   puede alcanzarlos. O eso creían, cuando…'
-date: '2026-06-23'
+date: '2026-06-23T23:59:58'
 authors:
 - roof77
 tags:

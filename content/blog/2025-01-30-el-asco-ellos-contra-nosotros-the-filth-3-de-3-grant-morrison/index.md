@@ -1,7 +1,7 @@
 ---
 title: 'El Asco: Ellos contra nosotros (The Filth #3 de 3)'
 summary: Volumen que traduce los números 9 al 13 del título estadounidense The Filth.
-date: '2025-01-30'
+date: '2025-01-30T23:59:58'
 authors:
 - roof77
 tags:

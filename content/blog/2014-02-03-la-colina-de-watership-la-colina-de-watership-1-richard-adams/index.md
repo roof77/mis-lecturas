@@ -2,7 +2,7 @@
 title: 'La colina de Watership (La colina de Watership, #1)'
 summary: Quinto, un joven y apacible conejo, sufre unas visiones aterradoras sobre el futuro de la conejera donde reside.
   Convertido en líder de sus cinco inseparables…
-date: '2014-02-03'
+date: '2014-02-03T23:59:59'
 authors:
 - roof77
 tags:

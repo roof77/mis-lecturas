@@ -2,7 +2,7 @@
 title: Elevación
 summary: King vuelve a Castle Rock con un mensaje para nuestros tiempos. «La prueba de que un maestro aún puede elevar más
   su leyenda.»USA Today El cuerpo de Scott…
-date: '2024-02-13'
+date: '2024-02-13T23:59:59'
 authors:
 - roof77
 tags:

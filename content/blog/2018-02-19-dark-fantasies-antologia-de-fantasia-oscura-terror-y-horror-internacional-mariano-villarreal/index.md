@@ -2,7 +2,7 @@
 title: Dark Fantasies. Antología de fantasía oscura, terror y horror internacional
 summary: Coordinada por Mariano Villarreal, la colección Nova Fantástica se ha caracterizado desde su inicio por su empeño
   en ofrecer los mejores relatos de género…
-date: '2018-02-19'
+date: '2018-02-19T23:59:59'
 authors:
 - roof77
 tags:

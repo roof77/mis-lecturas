@@ -2,7 +2,7 @@
 title: Los Modlin
 summary: 'El libro crowdfunding del año: 609 mecenas, 21.170 € conseguidos y un total de 760 libros adquiridos antes de la
   impresión. Una vez impreso, vendió en pocos…'
-date: '2015-01-14'
+date: '2015-01-14T23:59:57'
 authors:
 - roof77
 tags:

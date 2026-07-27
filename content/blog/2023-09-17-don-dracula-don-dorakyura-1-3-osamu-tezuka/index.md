@@ -2,7 +2,7 @@
 title: 'Don Drácula (ドン・ドラキュラ [Don Dorakyura], #1-3)'
 summary: Una versión totalmente alocada de este personaje universal, en la cual Don Drácula vive en Japón junto a su hijita
   Chócola y su sirviente Igor. El profesor…
-date: '2023-09-17'
+date: '2023-09-17T23:59:59'
 authors:
 - roof77
 tags:

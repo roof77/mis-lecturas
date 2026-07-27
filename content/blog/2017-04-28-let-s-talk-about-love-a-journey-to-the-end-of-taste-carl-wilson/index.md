@@ -2,7 +2,7 @@
 title: 'Let''s Talk About Love: A Journey to the End of Taste'
 summary: Non-fans regard Céline Dion as ersatz and plastic, yet to those who love her, no one could be more real, with her
   impoverished childhood, her (creepy)…
-date: '2017-04-28'
+date: '2017-04-28T23:59:59'
 authors:
 - roof77
 tags:

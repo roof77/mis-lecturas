@@ -2,7 +2,7 @@
 title: Vamos a morir todos
 summary: Gilda teme a la muerte, lo normal. Solo que también le da miedo seguir viva, y lo que eso supone. Lidiar con una
   familia excesiva. Pagar facturas. Dar un paso…
-date: '2023-03-27'
+date: '2023-03-27T23:59:59'
 authors:
 - roof77
 tags:

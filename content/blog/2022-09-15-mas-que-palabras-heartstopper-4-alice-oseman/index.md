@@ -2,7 +2,7 @@
 title: 'Más que palabras (Heartstopper, #4)'
 summary: Charlie nunca pensó que podría gustarle a Nick, pero resulta que ahora son pareja. De forma oficial. Pero no solo
   eso, también cree que está preparado para…
-date: '2022-09-15'
+date: '2022-09-15T23:59:59'
 authors:
 - roof77
 tags:

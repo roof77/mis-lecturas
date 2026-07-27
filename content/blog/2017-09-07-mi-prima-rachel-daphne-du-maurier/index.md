@@ -2,7 +2,7 @@
 title: Mi prima Rachel
 summary: Philip Ashley, el narrador de esta novela, es un joven huérfano que ha sido criado por su primo Ambrose, un terrateniente
   de Cornualles veinte años mayor que…
-date: '2017-09-07'
+date: '2017-09-07T23:59:59'
 authors:
 - roof77
 tags:

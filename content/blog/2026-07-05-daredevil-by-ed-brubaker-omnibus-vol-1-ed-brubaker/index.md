@@ -2,7 +2,7 @@
 title: Daredevil by Ed Brubaker Omnibus, Vol. 1
 summary: Nominated for three Eisner Awards - "Best Continuing Series," "Best Writer," and "Best Penciler-Inker Team " Longtime
   Daredevil fans will not be disappointed…
-date: '2026-07-05'
+date: '2026-07-05T23:59:59'
 authors:
 - roof77
 tags:

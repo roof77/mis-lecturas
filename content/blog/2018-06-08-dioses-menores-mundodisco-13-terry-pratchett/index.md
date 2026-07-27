@@ -2,7 +2,7 @@
 title: 'Dioses menores (Mundodisco, #13)'
 summary: Una fábula fantástica sobre el planeta plano y circular que navega por el espacio sobre el lomo de cuatro elefantes
   y una tortuga gigante. Una desternillante…
-date: '2018-06-08'
+date: '2018-06-08T23:59:59'
 authors:
 - roof77
 tags:

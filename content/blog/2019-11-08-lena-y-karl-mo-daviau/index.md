@@ -2,7 +2,7 @@
 title: Lena y Karl
 summary: Los mejores años de Karl parecen lejos. En su día tocó con una banda de culto de indie-rock, pero hoy ve pasar la
   vida desde sus cuarenta años y desde detrás…
-date: '2019-11-08'
+date: '2019-11-08T23:59:59'
 authors:
 - roof77
 tags:

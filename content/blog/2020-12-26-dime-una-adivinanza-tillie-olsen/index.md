@@ -2,7 +2,7 @@
 title: Dime una adivinanza
 summary: Dime una adivinanza está considerado, con justicia, un verdadero clásico de la literatura norteamericana. Un libro
   que explora algunos de los temas…
-date: '2020-12-26'
+date: '2020-12-26T23:59:59'
 authors:
 - roof77
 tags:

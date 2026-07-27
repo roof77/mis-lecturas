@@ -2,7 +2,7 @@
 title: Quidditch a través de los tiempos
 summary: Si alguna vez te has preguntado de dónde proviene la snitch dorada, cómo adquieren vida las bludgers o por qué los
   Wigtown Wanderers llevan un cuchillo de…
-date: '2016-12-29'
+date: '2016-12-29T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Odio 5: Lan Gran Evasion / Hate 5: the Great Escape: La Gran Evasion/the Great Escape (Spanish Edition)'
 summary: Collects an alternative comic from the 1990s that chronicles the misadventures and life experiences of Buddy Bradley,
   oldest son of America's most…
-date: '2026-05-20'
+date: '2026-05-20T23:59:57'
 authors:
 - roof77
 tags:

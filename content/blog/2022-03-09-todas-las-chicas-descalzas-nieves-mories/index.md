@@ -2,7 +2,7 @@
 title: Todas las chicas descalzas
 summary: "No importa cómo las llames; sus nombres son todos los nombres.\r\nNo importa el tinte de su mirada, de su piel,\
   \ de su pelo; sus colores abarcan todos los…"
-date: '2022-03-09'
+date: '2022-03-09T23:59:59'
 authors:
 - roof77
 tags:

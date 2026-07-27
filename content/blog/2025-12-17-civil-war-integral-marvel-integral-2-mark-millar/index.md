@@ -1,7 +1,7 @@
 ---
 title: 'Civil War: Integral (Marvel Integral, #2)'
 summary: Rare book
-date: '2025-12-17'
+date: '2025-12-17T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Capitán América: La muerte de Cráneo Rojo (Captain America Marvel Gold)'
 summary: "Contiene Captain America 290-301 y Annual 8\r\n\r\n¡El último tomo de la recopilación completa del Capitán América\
   \ de J. M. DeMatteis y Mike Zeck es el más…"
-date: '2025-11-30'
+date: '2025-11-30T23:59:59'
 authors:
 - roof77
 tags:

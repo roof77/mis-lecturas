@@ -2,7 +2,7 @@
 title: Weird Things Customers Say in Bookshops
 summary: A John Cleese Twitter question ("What is your pet peeve?"), first sparked the "Weird Things Customers Say in Bookshops"
   blog, which grew over three years into…
-date: '2014-10-30'
+date: '2014-10-30T23:59:59'
 authors:
 - roof77
 tags:

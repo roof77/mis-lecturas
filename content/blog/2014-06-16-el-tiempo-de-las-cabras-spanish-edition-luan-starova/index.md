@@ -2,7 +2,7 @@
 title: El tiempo de las cabras (Spanish Edition)
 summary: Based on a seemingly trivial event in recent Balkan history, this fable about the history and spirit of the Balkans
   highlights the dangers of ideologies and…
-date: '2014-06-16'
+date: '2014-06-16T23:59:59'
 authors:
 - roof77
 tags:

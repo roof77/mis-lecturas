@@ -2,7 +2,7 @@
 title: Credo. Rose Wilder Lane, la feminista libertaria
 summary: 'Peter Bagge regresa con una biografía de otra fascinante pionera del siglo XX: la escritora, feminista, corresponsal
   de guerra y libertaria Rose Wilder Lane…'
-date: '2026-06-26'
+date: '2026-06-26T23:59:59'
 authors:
 - roof77
 tags:

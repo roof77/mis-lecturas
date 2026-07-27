@@ -2,7 +2,7 @@
 title: 'Los magos (Los magos, #1)'
 summary: Quentin Coldwater es un chico brillante pero desdichado que vive obsesionado con las novelas de fantasía que leyó
   en su infancia y que transcurrían en un país…
-date: '2016-02-03'
+date: '2016-02-03T23:59:59'
 authors:
 - roof77
 tags:

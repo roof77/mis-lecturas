@@ -2,7 +2,7 @@
 title: 'Sex Criminals #1: Suzie Down in the Quiet'
 summary: "A SEX COMEDY FOR COMICS\r\n\r\nSuzie's a normal girl with an extraordinary ability: when she has sex, she stops\
   \ time. One night she meets John...  who has the same…"
-date: '2018-08-19'
+date: '2018-08-19T23:59:55'
 authors:
 - roof77
 tags:

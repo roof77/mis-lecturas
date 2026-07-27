@@ -2,7 +2,7 @@
 title: La sombra del águila
 summary: During the Russian campaign of 1812, a battalion of former Spanish prisoners recruited to fight for Napoleon's army
   defects to side with the Russians. The…
-date: '2017-04-03'
+date: '2017-04-03T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Akira, No. 3
 summary: En un caótico Neo-Tokio recién emergido de las cenizas de la III Guerra Mundial, Kaneda, Tetsuo y compañía se ven
   envueltos en el misterio de Akira, un extraño…
-date: '2024-07-10'
+date: '2024-07-10T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Doppler
 summary: Después de la muerte de su padre y tras caerse de la bicicleta, Doppler decide abandonar su hogar en Oslo, su trabajo,
   a sus hijos y a su esposa embarazada, y…
-date: '2024-08-12'
+date: '2024-08-12T23:59:59'
 authors:
 - roof77
 tags:

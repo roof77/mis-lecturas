@@ -2,7 +2,7 @@
 title: Cadáver exquisito
 summary: "Una despiadada distopía en la que Agustina Bazterrica inspira, con el poder explosivo de la ficción, debates de\
   \ suma actualidad.\r\n\r\nLa súbita aparición de un…"
-date: '2024-03-25'
+date: '2024-03-25T23:59:59'
 authors:
 - roof77
 tags:

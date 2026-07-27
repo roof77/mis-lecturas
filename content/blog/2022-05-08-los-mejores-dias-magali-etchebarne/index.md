@@ -2,7 +2,7 @@
 title: Los mejores días
 summary: De una sensibilidad poética poco común, los cuentos de Magalí Etchebarne ponen en escena a niñas, adolescentes, mujeres
   jóvenes o de mediana edad, ancianas…
-date: '2022-05-08'
+date: '2022-05-08T23:59:59'
 authors:
 - roof77
 tags:

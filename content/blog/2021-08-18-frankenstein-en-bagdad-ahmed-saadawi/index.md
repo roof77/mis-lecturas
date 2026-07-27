@@ -2,7 +2,7 @@
 title: Frankenstein en Bagdad
 summary: Después de la segunda guerra de Irak, en el Bagdad todavía ocupado por las tropas estadounidenses, un trapero decide
   recolectar algunos de los restos humanos…
-date: '2021-08-18'
+date: '2021-08-18T23:59:59'
 authors:
 - roof77
 tags:

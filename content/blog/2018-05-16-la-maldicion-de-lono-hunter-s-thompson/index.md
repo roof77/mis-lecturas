@@ -2,7 +2,7 @@
 title: La maldición de Lono
 summary: En 1980, Hunter S. Thompson recibe una propuesta de una revista desconocida, llamada Running, para cubrir la maratón
   de Honolulú, con un buen sueldo y con…
-date: '2018-05-16'
+date: '2018-05-16T23:59:59'
 authors:
 - roof77
 tags:

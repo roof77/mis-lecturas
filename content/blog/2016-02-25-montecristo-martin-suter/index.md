@@ -2,7 +2,7 @@
 title: Montecristo
 summary: Jonas es un suizo de poco más de cuarenta años que trabaja como videorreportero para una televisión local de Zúrich.
   Está convencido de que su trabajo es solo…
-date: '2016-02-25'
+date: '2016-02-25T23:59:59'
 authors:
 - roof77
 tags:

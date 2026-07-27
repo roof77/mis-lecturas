@@ -1,7 +1,7 @@
 ---
 title: Desde el jergón
 summary: Reseña de lectura de «Desde el jergón».
-date: '2026-07-02'
+date: '2026-07-02T23:59:59'
 authors:
 - roof77
 tags:

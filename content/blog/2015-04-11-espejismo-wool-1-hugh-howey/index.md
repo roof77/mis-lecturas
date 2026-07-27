@@ -2,7 +2,7 @@
 title: 'Espejismo (Wool, #1)'
 summary: Los últimos seres humanos viven en el silo, una prisión subterránea que ellos mismos han construido. Desde allí pueden
   ver el exterior, una imagen pixelada del…
-date: '2015-04-11'
+date: '2015-04-11T23:59:59'
 authors:
 - roof77
 tags:

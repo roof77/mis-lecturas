@@ -2,7 +2,7 @@
 title: El rito
 summary: En la periferia de nuestra existencia, acechando desde oscuridades más profundas que el Cosmos y que se extienden
   más allá del círculo de luz de nuestra…
-date: '2015-05-01'
+date: '2015-05-01T23:59:59'
 authors:
 - roof77
 tags:

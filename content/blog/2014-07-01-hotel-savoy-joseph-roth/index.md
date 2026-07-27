@@ -2,7 +2,7 @@
 title: Hotel Savoy
 summary: Un joven judío vienés, prisionero durante tres años, vuelve a casa una vez liberado, al término de la Primera Guerra
   Mundial. Aún en tierra extranjera, en una…
-date: '2014-07-01'
+date: '2014-07-01T23:59:59'
 authors:
 - roof77
 tags:

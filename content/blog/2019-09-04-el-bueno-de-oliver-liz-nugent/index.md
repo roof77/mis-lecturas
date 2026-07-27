@@ -2,7 +2,7 @@
 title: El bueno de Oliver
 summary: "El hombre perfecto. El monstruo perfecto\r\n\r\nOliver Ryan es la personificación del éxito y el carisma. Vive en\
   \ el mejor barrio residencial de Dublín, los libros…"
-date: '2019-09-04'
+date: '2019-09-04T23:59:59'
 authors:
 - roof77
 tags:

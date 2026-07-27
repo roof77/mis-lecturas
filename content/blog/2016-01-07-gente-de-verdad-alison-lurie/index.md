@@ -2,7 +2,7 @@
 title: Gente de verdad
 summary: En Gente de verdad seis personajes conviven durante dos semanas de verano en una gran casa de campo para concentrarse
   en su trabajo lejos de las presiones del…
-date: '2016-01-07'
+date: '2016-01-07T23:59:59'
 authors:
 - roof77
 tags:

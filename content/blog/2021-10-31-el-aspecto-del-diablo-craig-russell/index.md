@@ -2,7 +2,7 @@
 title: El aspecto del diablo
 summary: ¿Cómo atrapas a un asesino cuando estás rodeado de locura?1935. Mientras Europa se prepara para una guerra funesta,
   seis homicidas dementes, conocidos como…
-date: '2021-10-31'
+date: '2021-10-31T23:59:59'
 authors:
 - roof77
 tags:

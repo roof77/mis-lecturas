@@ -2,7 +2,7 @@
 title: 'El apagón (Cese de alerta, #1 ; Historiadores de Oxford, #3)'
 summary: Universidad de Oxford, 2060. Los viajes en el tiempo son habituales entre los historiadores para investigar el pasado.
   Michael Davies se está preparando para…
-date: '2018-04-23'
+date: '2018-04-23T23:59:59'
 authors:
 - roof77
 tags:

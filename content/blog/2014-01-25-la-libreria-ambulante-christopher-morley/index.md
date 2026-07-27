@@ -2,7 +2,7 @@
 title: La librería ambulante
 summary: 'Prepárese para entrar en un mundo único y lleno de encanto, donde el tiempo se ha detenido: estamos en la segunda
   década del siglo XX, en unos Estados Unidos…'
-date: '2014-01-25'
+date: '2014-01-25T23:59:59'
 authors:
 - roof77
 tags:

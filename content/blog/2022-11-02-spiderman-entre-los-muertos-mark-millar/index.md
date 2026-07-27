@@ -2,7 +2,7 @@
 title: 'Spiderman: Entre los muertos'
 summary: 'Peter Parker''s worst nightmare has finally come true: one of Spider-Man''s enemies has learned his secret identity
   and is using that knowledge to strike at…'
-date: '2022-11-02'
+date: '2022-11-02T23:59:59'
 authors:
 - roof77
 tags:

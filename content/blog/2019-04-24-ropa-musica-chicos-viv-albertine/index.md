@@ -2,7 +2,7 @@
 title: Ropa música chicos
 summary: Como los viejos elepés, este libro tiene una cara A y una cara B. La primera po­dría titularse «Sexo, drogas y punk».
   La segunda, «Hay vida después del…
-date: '2019-04-24'
+date: '2019-04-24T23:59:59'
 authors:
 - roof77
 tags:

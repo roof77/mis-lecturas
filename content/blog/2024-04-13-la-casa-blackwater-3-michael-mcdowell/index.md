@@ -2,7 +2,7 @@
 title: 'La casa (Blackwater, #3)'
 summary: "Perdido, 1928. \r\nEl clan Caskey se desmorona con la cruenta guerra personal entre Mary-Love y Elinor. En los recovecos\
   \ del caserón donde viven Elinor y Oscar…"
-date: '2024-04-13'
+date: '2024-04-13T23:59:59'
 authors:
 - roof77
 tags:

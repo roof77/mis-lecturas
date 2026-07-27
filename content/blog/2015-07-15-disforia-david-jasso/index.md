@@ -2,7 +2,7 @@
 title: Disforia
 summary: La sociedad arrastra una crisis económica y de valores que parece irreversible. Esther y Tomás, un matrimonio joven
   con serios problemas laborales, deciden…
-date: '2015-07-15'
+date: '2015-07-15T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: El marido de mi hermano, vol. 2
 summary: El regreso a Canadá se acerca... ¡Pero a Mike aún le quedan un montón de cosas que hacer en Japón! Un viaje a un
   onsen con la familia Origuchi al completo, una…
-date: '2025-01-31'
+date: '2025-01-31T23:59:59'
 authors:
 - roof77
 tags:

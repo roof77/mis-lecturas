@@ -2,7 +2,7 @@
 title: Paradero desconocido
 summary: Publicado en 1938 y acogido como una obra maestra, ésta es la historia de dos amigos y socios, un alemán y un judío
   estadounidense, en los años previos a la…
-date: '2017-03-11'
+date: '2017-03-11T23:59:59'
 authors:
 - roof77
 tags:

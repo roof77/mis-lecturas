@@ -2,7 +2,7 @@
 title: Dr. Slump (Ultimate Edition) Nº2
 summary: Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de
   Villa Pingüino. Pero eso no es nada…
-date: '2024-03-02'
+date: '2024-03-02T23:59:59'
 authors:
 - roof77
 tags:

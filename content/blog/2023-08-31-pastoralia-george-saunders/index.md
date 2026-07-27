@@ -2,7 +2,7 @@
 title: Pastoralia
 summary: ¿Por qué nos fascina George Saunders? Por su maestría, ritmo y sentido del humor. Pero lo que diferencia al escritor
   texano, profesor de la Universidad de…
-date: '2023-08-31'
+date: '2023-08-31T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Maison Ikkoku tomo 8 (Maison Ikkoku Big, #8)'
 summary: Maison Ikkoku unterscheidet sich etwas von Rumiko Takahashis verrücktchaotischen Standartwerken wie Ranma 1/2 oder
   Inu Yasha. Der uns vertraute Takahashi-Witz…
-date: '2024-06-28'
+date: '2024-06-28T23:59:59'
 authors:
 - roof77
 tags:

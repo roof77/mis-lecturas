@@ -2,7 +2,7 @@
 title: 'Elantris (Elantris, #1)'
 summary: Brandon Sanderson debutó en 2006 ante los lectores en castellano con Elantris, una novela de fantasía épica que marcó
   un auténtico hito. Cuando se cumple el…
-date: '2015-08-12'
+date: '2015-08-12T23:59:59'
 authors:
 - roof77
 tags:

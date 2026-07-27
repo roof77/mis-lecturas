@@ -2,7 +2,7 @@
 title: Señoras que se empotraron hace mucho
 summary: "¿Dónde están las lesbianas en la historia?\r\n\r\nMujeres que se rebelaron contra el matrimonio y rompieron las\
   \ reglas de etiqueta. Rebeldes, genias, decadentes…"
-date: '2020-02-20'
+date: '2020-02-20T23:59:59'
 authors:
 - roof77
 tags:

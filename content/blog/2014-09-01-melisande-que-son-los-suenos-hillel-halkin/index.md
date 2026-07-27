@@ -2,7 +2,7 @@
 title: ¡Melisande! ¿Qué son los sueños?
 summary: 'A finales de los años cincuenta, en Nueva York, dos chicos: Hoo y Ricky, y una chica, Mellie, se conocen mientras
   trabajan en la redacción de la revista…'
-date: '2014-09-01'
+date: '2014-09-01T23:59:59'
 authors:
 - roof77
 tags:

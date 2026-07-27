@@ -2,7 +2,7 @@
 title: El Japón de los perros
 summary: Desde Ryūnosuke Akutagawa, maestro indiscutible del relato breve, al premio nobel Kenzaburo Ōe; desde la irreverencia
   de Yasutaka Tsutsui a las novísimas voces…
-date: '2020-11-08'
+date: '2020-11-08T23:59:59'
 authors:
 - roof77
 tags:

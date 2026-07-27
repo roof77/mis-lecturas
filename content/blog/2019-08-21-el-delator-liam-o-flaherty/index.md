@@ -2,7 +2,7 @@
 title: El delator
 summary: Ambientada en el convulso Dublín durante los años posteriores a la guerra civil irlandesa, ésta es una historia de
   traiciones y lucha clandestina que retrata…
-date: '2019-08-21'
+date: '2019-08-21T23:59:59'
 authors:
 - roof77
 tags:

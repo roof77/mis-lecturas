@@ -2,7 +2,7 @@
 title: Cuando el viento sopla
 summary: Considerada de forma unánime la obra cumbre de Raymond Briggs, Cuando el viento sopla fue publicada en 1982, en plena
   efervescencia del terror ciudadano ante…
-date: '2025-09-15'
+date: '2025-09-15T23:59:59'
 authors:
 - roof77
 tags:

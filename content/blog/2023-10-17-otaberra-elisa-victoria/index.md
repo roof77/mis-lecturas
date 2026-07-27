@@ -2,7 +2,7 @@
 title: Otaberra
 summary: Algo pasó en 1989. Renata vuelve a ese año una y otra vez. El presente para ella no existe. El tiempo quedó detenido
   en Otaberra.
-date: '2023-10-17'
+date: '2023-10-17T23:59:59'
 authors:
 - roof77
 tags:

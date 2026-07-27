@@ -2,7 +2,7 @@
 title: Galveias / Galveias (Spanish Edition)
 summary: "Una preciosa novela sobre el espíritu y la vida de la gente que habita en la pequeña localidad portuguesa de Galveias,\
   \ al norte de Alentejo.\r\n\r\nUna noche de…"
-date: '2021-08-25'
+date: '2021-08-25T23:59:59'
 authors:
 - roof77
 tags:

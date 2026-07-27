@@ -2,7 +2,7 @@
 title: Zombi
 summary: Conozcan a Quentin P., un dolor de cabeza para su padre profesor y su amante madre. Un desafío para su diplomadísimo
   psiquiatra. Un dulce y tierno jovencito…
-date: '2019-03-12'
+date: '2019-03-12T23:59:59'
 authors:
 - roof77
 tags:

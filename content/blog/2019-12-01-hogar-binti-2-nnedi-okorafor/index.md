@@ -2,7 +2,7 @@
 title: 'Hogar (Binti, #2)'
 summary: '"Binti: Hogar" es la segunda parte de esta emocionante trilogía. Binti y Okwu llevan un año en la Universidad Oomza.
   Un año desde que Binti consiguiera la…'
-date: '2019-12-01'
+date: '2019-12-01T23:59:59'
 authors:
 - roof77
 tags:

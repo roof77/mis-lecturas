@@ -2,7 +2,7 @@
 title: Odio Integral Vol. 6
 summary: ¡La vida sigue igual! Lisa siempre estuvo de la olla y, en contra de todo pronóstico (¡ja!), la vida marital parece
   ser un estupendo caldo de cultivo para sus…
-date: '2026-05-25'
+date: '2026-05-25T23:59:56'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Legión: Las múltiples vidas de Stephen Leeds (Legión, #1-3)'
 summary: Stephen leeds está perfectamente sano, son sus alucinaciones las que están locas. Puede aprender cualquier habilidad
   en cuestión de horas, pero, para ello, su…
-date: '2022-03-28'
+date: '2022-03-28T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: La plaza del diamante
 summary: La plaza del Diamante ha sido reconocida como una de las mejores novelas catalanas de posguerra. “La novelista –
   dice Joan Fuester- ha sabido encontrar el tono…
-date: '2026-03-06'
+date: '2026-03-06T23:59:59'
 authors:
 - roof77
 tags:

@@ -1,7 +1,7 @@
 ---
 title: La cantina de medianoche 8
 summary: Reseña de lectura de «La cantina de medianoche 8».
-date: '2026-06-20'
+date: '2026-06-20T23:59:59'
 authors:
 - roof77
 tags:

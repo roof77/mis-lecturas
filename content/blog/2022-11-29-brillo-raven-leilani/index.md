@@ -2,7 +2,7 @@
 title: Brillo
 summary: «Un hombre mayor es una maravilla porque lleva treinta y ocho años pagando las facturas del gas, ha tenido salmonelosis
   y ha visto los informes sobre el cambio…
-date: '2022-11-29'
+date: '2022-11-29T23:59:59'
 authors:
 - roof77
 tags:

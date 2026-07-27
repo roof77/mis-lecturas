@@ -2,7 +2,7 @@
 title: ¿Y los hombres qué?
 summary: "Un retrato perspicaz y atrevido de la masculinidad contemporánea.\r\n\r\nCualquier feminista que haya dialogado\
   \ ante el público sobre las frustraciones y los…"
-date: '2025-06-18'
+date: '2025-06-18T23:59:59'
 authors:
 - roof77
 tags:

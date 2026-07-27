@@ -2,7 +2,7 @@
 title: El final de todos los agostos
 summary: A menudo el pasado deja cabos sueltos, asuntos por resolver, interrogantes que persiguen nuestro futuro. Esto es
   lo que le ocurre al protagonista de este…
-date: '2024-07-13'
+date: '2024-07-13T23:59:59'
 authors:
 - roof77
 tags:

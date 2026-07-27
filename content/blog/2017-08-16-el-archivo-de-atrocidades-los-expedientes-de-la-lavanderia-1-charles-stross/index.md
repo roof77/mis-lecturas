@@ -2,7 +2,7 @@
 title: 'El archivo de atrocidades (Los expedientes de la Lavandería, #1)'
 summary: Primera entrega de la serie de culto "Los expedientes de la Lavandería", una fascinante combinación de techno-thriller
   de espionaje, comedia y horror…
-date: '2017-08-16'
+date: '2017-08-16T23:59:59'
 authors:
 - roof77
 tags:

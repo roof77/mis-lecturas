@@ -2,7 +2,7 @@
 title: Las cosas han empeorado desde la última vez que hablamos (y otras desgracias)
 summary: "¿Qué has hecho hoy para merecer tus ojos?\r\n\r\nUn torbellino de oscuridad se agita en los entresijos de un macabro\
   \ cortejo entre dos jóvenes solitarias en un…"
-date: '2024-01-23'
+date: '2024-01-23T23:59:59'
 authors:
 - roof77
 tags:

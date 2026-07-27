@@ -2,7 +2,7 @@
 title: Caramelo ácido
 summary: "\"Cuatro meses después de su primer encuentro con el niño en Walmart, a Phil Pendleton se le cayó el último diente\"\
   .\r\n\r\nA primera vista, cualquiera diría que…"
-date: '2024-01-19'
+date: '2024-01-19T23:59:59'
 authors:
 - roof77
 tags:

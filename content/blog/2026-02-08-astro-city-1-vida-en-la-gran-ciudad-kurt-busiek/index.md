@@ -2,7 +2,7 @@
 title: 'Astro City #1: Vida en la Gran Ciudad'
 summary: "LA SERIE MÁS PERSONAL DE KURT BUSIEK, BRENT E. ANDERSON Y ALEX ROSS.\r\n\r\nAstro City es una ciudad de superhéroes\
   \ y villanos, de magos y monstruos, donde la…"
-date: '2026-02-08'
+date: '2026-02-08T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Dr. Slump Ultimate Edition Nº1 (Dr. Slump Kanzenban, #1)'
 summary: La primera gran serie de Toriyama tuvo un éxito enorme y ahora ha recibido una nueva traducción. Esta monumental
   historia de humor no ha  en la curiosa Villa…
-date: '2024-02-22'
+date: '2024-02-22T23:59:59'
 authors:
 - roof77
 tags:

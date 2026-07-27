@@ -1,7 +1,7 @@
 ---
 title: La muñequita de papá
 summary: "Edición española.\r\nUna estremecedora historia de incesto magistralmente narrada por una de sus víctimas."
-date: '2026-05-29'
+date: '2026-05-29T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Stoner
 summary: William Stoner, hijo único de un matrimonio de granjeros que sobrevive en la penuria, es enviado a estudiar agricultura
   a la Universidad de Missouri. El…
-date: '2014-01-24'
+date: '2014-01-24T23:59:59'
 authors:
 - roof77
 tags:

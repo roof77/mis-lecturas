@@ -2,7 +2,7 @@
 title: 'El guardián invisible (Trilogía del Baztán, #1)'
 summary: «Ainhoa Elizasu fue la segunda víctima del basajaun, aunque entonces la prensa todavía no lo llamaba así. Fue un
   poco más tarde cuando trascendió que alrededor…
-date: '2015-09-10'
+date: '2015-09-10T23:59:59'
 authors:
 - roof77
 tags:

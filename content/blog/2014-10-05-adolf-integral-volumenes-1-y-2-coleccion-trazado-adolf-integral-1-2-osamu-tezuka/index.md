@@ -2,7 +2,7 @@
 title: 'Adolf Integral, volúmenes 1 y 2 (Colección Trazado: Adolf Integral, #1-2)'
 summary: 'Adolf es la historia de tres personas llamadas Adolf: un niño judío que viven en Japón, un niño de medio japones/medio-
   alemán, y el líder de la Alemania nazi…'
-date: '2014-10-05'
+date: '2014-10-05T23:59:59'
 authors:
 - roof77
 tags:

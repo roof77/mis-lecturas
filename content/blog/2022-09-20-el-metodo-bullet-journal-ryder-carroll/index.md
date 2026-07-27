@@ -2,7 +2,7 @@
 title: El método Bullet Journal
 summary: "De la mano de su crreador, el método que ha cambiado la vida de millones de personas en todo el mundo\r\n\r\nComo\
   \ la mayoría de nosotros, Ryder Carroll trató por…"
-date: '2022-09-20'
+date: '2022-09-20T23:59:58'
 authors:
 - roof77
 tags:

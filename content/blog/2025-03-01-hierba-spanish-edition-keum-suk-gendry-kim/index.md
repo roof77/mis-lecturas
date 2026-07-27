@@ -2,7 +2,7 @@
 title: Hierba (Spanish Edition)
 summary: 'Hierba es la historia real de una superviviente: Lee Ok-Sun, una joven coreana que durante la Guerra del Pacífico
   fue explotada como «mujer de consuelo», el…'
-date: '2025-03-01'
+date: '2025-03-01T23:59:59'
 authors:
 - roof77
 tags:

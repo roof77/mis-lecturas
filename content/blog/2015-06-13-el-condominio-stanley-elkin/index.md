@@ -1,7 +1,7 @@
 ---
 title: El condominio
 summary: CONDOMINIO
-date: '2015-06-13'
+date: '2015-06-13T23:59:59'
 authors:
 - roof77
 tags:

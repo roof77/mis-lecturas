@@ -2,7 +2,7 @@
 title: Relatos terroríficos 1
 summary: Con este tomo iniciamos la colección Relatos terroríficos, destinada a conformar toda una biblioteca integrada por
   las historias que han hecho a Junji Ito…
-date: '2024-07-04'
+date: '2024-07-04T23:59:59'
 authors:
 - roof77
 tags:

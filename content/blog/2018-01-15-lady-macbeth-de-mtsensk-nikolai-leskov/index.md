@@ -2,7 +2,7 @@
 title: Lady Macbeth de Mtsensk
 summary: Una de las mejores novelas rusas de todos los tiempos. La historia de un amor apasionado y desmedido ilustrada magníficamente
   por Ignasi Blanch. Admirado por…
-date: '2018-01-15'
+date: '2018-01-15T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Diario de un vacío
 summary: "¿Mentimos para sentirnos menos solos?\r\n\r\nShibata tiene un trabajo estable en una compañía manufacturera de papel\
   \ y cartón. Sin duda, es mejor que su puesto…"
-date: '2023-02-09'
+date: '2023-02-09T23:59:59'
 authors:
 - roof77
 tags:

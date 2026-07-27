@@ -2,7 +2,7 @@
 title: Asterios Polyp
 summary: ¿Quién es Asterios Polyp? Arquitecto, profesor, escritor, marido... aunque todo eso pertenece al pasado. Ahora, el
   día en que cumple medio siglo, se ha…
-date: '2026-03-15'
+date: '2026-03-15T23:59:59'
 authors:
 - roof77
 tags:

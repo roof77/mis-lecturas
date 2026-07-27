@@ -2,7 +2,7 @@
 title: Más que humano
 summary: "La novela más conocida de Theodore Sturgeon, en la que su autor se interroga sobre temas como la soledad del hombre\
   \ o lo que significa ser humano.\r\n\r\nMás que…"
-date: '2014-09-22'
+date: '2014-09-22T23:59:59'
 authors:
 - roof77
 tags:

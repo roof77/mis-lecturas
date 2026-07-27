@@ -2,7 +2,7 @@
 title: 'La chica de ojos verdes (Las chicas de campo, #2)'
 summary: Caithleen (luego Kate) y Baba, dos amigas irlandesas —encantadoras unas veces, contradictorias otras—, se han instalado,
   tras una adolescencia de paisajes…
-date: '2019-08-09'
+date: '2019-08-09T23:59:59'
 authors:
 - roof77
 tags:

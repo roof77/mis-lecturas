@@ -2,7 +2,7 @@
 title: Eleanor y Park
 summary: Eleanor es nueva en el instituto; su vida familiar es un desastre; con su intenso pelo rojo, su extraña y poco conjuntada
   forma de vestir no podría llamar más…
-date: '2014-02-05'
+date: '2014-02-05T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: La balada del mar salado
 summary: '"La balada del mar salado" está ambientada en un Pacífico azotado por los huracanes, pero también por los vientos
   de una guerra lejana, un mundo poblado por…'
-date: '2025-06-30'
+date: '2025-06-30T23:59:59'
 authors:
 - roof77
 tags:

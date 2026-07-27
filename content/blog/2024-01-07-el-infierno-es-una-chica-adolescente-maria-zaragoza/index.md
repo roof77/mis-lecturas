@@ -2,7 +2,7 @@
 title: El infierno es una chica adolescente
 summary: Un libro de relatos para adultos sin adultos. Niñas que deciden ser malas un verano y pierden su amistad y su inocencia,
   adolescentes que se quedan embarazadas…
-date: '2024-01-07'
+date: '2024-01-07T23:59:59'
 authors:
 - roof77
 tags:

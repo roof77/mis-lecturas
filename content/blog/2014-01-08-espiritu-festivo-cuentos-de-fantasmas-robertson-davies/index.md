@@ -2,7 +2,7 @@
 title: 'Espíritu festivo: Cuentos de fantasmas'
 summary: «A pesar de la afición que he tenido toda la vida a los cuentos de fantasmas jamás se me ocurrió escribir ninguno
   hasta que fui a Massey College, facultad y…
-date: '2014-01-08'
+date: '2014-01-08T23:59:59'
 authors:
 - roof77
 tags:

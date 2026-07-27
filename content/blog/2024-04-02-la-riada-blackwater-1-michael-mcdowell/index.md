@@ -2,7 +2,7 @@
 title: 'La riada (Blackwater, #1)'
 summary: "Descubre el primer volumen de la saga Blackwater.\r\n\r\nUna saga matriarcal. Mujeres poderosas que luchan por el\
   \ dominio durante generaciones. Una atmósfera única…"
-date: '2024-04-02'
+date: '2024-04-02T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: El intérprete del dolor
 summary: Los nueve relatos que componen este libro revelan la maestría de Lahiri para trazar una compleja cartografía emocional,
   la de una serie de personajes que en su…
-date: '2014-05-13'
+date: '2014-05-13T23:59:59'
 authors:
 - roof77
 tags:

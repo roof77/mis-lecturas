@@ -2,7 +2,7 @@
 title: El hombre en el castillo
 summary: La Segunda Guerra Mundial ha terminado en 1947, siendo los Aliados derrotados por el Eje. Los Estados Unidos han
   sido invadidos y consecuentemente divididos…
-date: '2015-03-05'
+date: '2015-03-05T23:59:59'
 authors:
 - roof77
 tags:

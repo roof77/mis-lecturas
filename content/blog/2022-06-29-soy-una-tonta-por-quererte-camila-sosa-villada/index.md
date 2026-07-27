@@ -2,7 +2,7 @@
 title: Soy una tonta por quererte
 summary: En plena decada de los años 90 una mujer se gana la vida como novia de alquiler de hombres gays. En un fumadero de
   Harlem una travesti latina conoce…
-date: '2022-06-29'
+date: '2022-06-29T23:59:58'
 authors:
 - roof77
 tags:

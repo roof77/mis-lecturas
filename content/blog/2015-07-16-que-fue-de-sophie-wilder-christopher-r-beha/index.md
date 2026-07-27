@@ -2,7 +2,7 @@
 title: Qué fue de Sophie Wilder
 summary: Charlie Blakeman vive en Washington Square, Nueva York, ha publicado una novela que ha pasado sin pena ni gloria
   y, aunque se supone que está escribiendo otra…
-date: '2015-07-16'
+date: '2015-07-16T23:59:59'
 authors:
 - roof77
 tags:

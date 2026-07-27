@@ -2,7 +2,7 @@
 title: Tropas del espacio
 summary: Starship Troopers narra la formación de un soldado espacial y su aceptación final del darwinismo social en un proceso
   que implica la justificación del…
-date: '2014-02-16'
+date: '2014-02-16T23:59:59'
 authors:
 - roof77
 tags:

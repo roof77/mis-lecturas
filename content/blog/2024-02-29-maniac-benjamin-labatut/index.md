@@ -2,7 +2,7 @@
 title: MANIAC
 summary: "Un tríptico del siglo XX. \r\n\r\nEl primero es Paul Ehrenfest, físico austriaco, amigo de Einstein y con una vida\
   \ privada tormentosa. Temeroso por el destino de…"
-date: '2024-02-29'
+date: '2024-02-29T23:59:59'
 authors:
 - roof77
 tags:

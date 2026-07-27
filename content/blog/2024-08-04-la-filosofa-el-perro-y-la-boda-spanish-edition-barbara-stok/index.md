@@ -2,7 +2,7 @@
 title: La filósofa, el perro y la boda (Spanish Edition)
 summary: Una novela gráfica que nos descubre a la brillanteHiparquía, figura imprescindible de la Antigüedad clásica. Una
   celebración del poder y la vigencia de la…
-date: '2024-08-04'
+date: '2024-08-04T23:59:59'
 authors:
 - roof77
 tags:

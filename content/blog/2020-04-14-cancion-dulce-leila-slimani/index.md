@@ -2,7 +2,7 @@
 title: Canción dulce
 summary: Myriam, madre de dos niños, decide reemprender su actividad laboral en un bufete de abogados a pesar de las reticencias
   de su marido. Tras un minucioso proceso…
-date: '2020-04-14'
+date: '2020-04-14T23:59:59'
 authors:
 - roof77
 tags:

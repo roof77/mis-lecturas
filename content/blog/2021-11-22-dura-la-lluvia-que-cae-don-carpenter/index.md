@@ -2,7 +2,7 @@
 title: Dura la lluvia que cae
 summary: Dura la lluvia que cae es una novela de crimen, castigo y la búsqueda de una redención siempre postergada en la estela
   de Dostoyevski. Épica en su alcance, la…
-date: '2021-11-22'
+date: '2021-11-22T23:59:59'
 authors:
 - roof77
 tags:

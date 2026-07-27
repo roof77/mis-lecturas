@@ -2,7 +2,7 @@
 title: 'Los reyes de la arena: Cuentos de terror'
 summary: Antes de vender millones de ejemplares y cosechar fama mundial por la saga Canción de Hielo y Fuego, George R. R.
   Martin publicó cuentos y novelas de fantasía…
-date: '2014-01-13'
+date: '2014-01-13T23:59:59'
 authors:
 - roof77
 tags:

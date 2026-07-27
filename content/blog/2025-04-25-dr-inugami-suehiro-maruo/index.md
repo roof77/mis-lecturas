@@ -2,7 +2,7 @@
 title: Dr. Inugami
 summary: Una terrorífica y deliciosa historia del maestro Maruo. Una densa trama de satanismo y sacrificios humanos y animales,
   con ingredientes tan espectaculares como…
-date: '2025-04-25'
+date: '2025-04-25T23:59:59'
 authors:
 - roof77
 tags:

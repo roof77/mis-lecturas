@@ -2,7 +2,7 @@
 title: La mujer de la falda violeta
 summary: "UNA EXTRAORDINARIA NOVELA \r\nSOBRE EL PODER DE LA (IN)DIFERENCIA\r\n\r\nLa mujer de la falda violeta es de una\
   \ edad indeterminada, vive sola, no se relaciona con…"
-date: '2021-12-30'
+date: '2021-12-30T23:59:59'
 authors:
 - roof77
 tags:

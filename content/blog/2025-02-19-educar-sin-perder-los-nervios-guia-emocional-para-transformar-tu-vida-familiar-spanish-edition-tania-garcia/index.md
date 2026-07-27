@@ -4,7 +4,7 @@ summary: 'La guía emocional para transformar tu vida familiar con respeto y emp
 
 
   «Para integrar la educación emocional en tus hijos, primero tendrás que hacerlo en…'
-date: '2025-02-19'
+date: '2025-02-19T23:59:57'
 authors:
 - roof77
 tags:

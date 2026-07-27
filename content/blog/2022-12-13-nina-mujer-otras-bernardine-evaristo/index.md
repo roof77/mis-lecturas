@@ -2,7 +2,7 @@
 title: Niña, mujer, otras
 summary: Un estilo literario rompedor a caballo entre la poesía y la prosa que la autora define como "literatura fusión".
   Un texto escrito al margen de las convenciones…
-date: '2022-12-13'
+date: '2022-12-13T23:59:59'
 authors:
 - roof77
 tags:

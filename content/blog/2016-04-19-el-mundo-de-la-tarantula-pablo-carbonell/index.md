@@ -2,7 +2,7 @@
 title: El mundo de la tarántula
 summary: "Los niños mienten mal, pero se emocionan bien.\r\n\r\nPor eso lo que cuenta Pablo es una verdad emocionante.\r\n\
   \r\nLa verdad de cuando hacía teatro en las…"
-date: '2016-04-19'
+date: '2016-04-19T23:59:59'
 authors:
 - roof77
 tags:

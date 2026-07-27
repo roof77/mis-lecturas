@@ -2,7 +2,7 @@
 title: 'Nunca delante de los criados: Retrato fiel de la vida arriba y abajo'
 summary: Whole armies of butlers, cooks and housemaids were employed in the great households of Victorian and Edwardian England.
   This book is a nostalgic study of this…
-date: '2022-10-04'
+date: '2022-10-04T23:59:59'
 authors:
 - roof77
 tags:

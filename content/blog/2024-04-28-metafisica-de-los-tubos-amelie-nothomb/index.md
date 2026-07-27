@@ -2,7 +2,7 @@
 title: Metafísica de los tubos
 summary: Esta novela narra los primeros años de la vida de una niña obsesionada por el agua que, disconforme con su entorno,
   adopta la inerte forma de tubo como…
-date: '2024-04-28'
+date: '2024-04-28T23:59:59'
 authors:
 - roof77
 tags:

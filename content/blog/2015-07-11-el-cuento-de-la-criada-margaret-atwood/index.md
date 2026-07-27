@@ -2,7 +2,7 @@
 title: El cuento de la criada
 summary: '"El cuento de la criada", una de las novelas más célebres y prestigiosas de Margaret Atwood, constituye una mirada
   futurista a una sociedad totalitaria. Una…'
-date: '2015-07-11'
+date: '2015-07-11T23:59:58'
 authors:
 - roof77
 tags:

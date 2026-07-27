@@ -1,7 +1,7 @@
 ---
 title: 'El Asco: Nosotros contra ellos (El Asco #1 de 3)'
 summary: 'Reseña de lectura de «El Asco: Nosotros contra ellos (El Asco #1 de 3)».'
-date: '2025-01-29'
+date: '2025-01-29T23:59:59'
 authors:
 - roof77
 tags:

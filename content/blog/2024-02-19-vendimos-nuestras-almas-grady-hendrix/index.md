@@ -2,7 +2,7 @@
 title: Vendimos nuestras almas
 summary: "Un viaje épico hacia el corazón de un país paranoico dominado por las pastillas y las conspiraciones que parece\
   \ haber perdido su propia alma.\r\n\r\nTodas las…"
-date: '2024-02-19'
+date: '2024-02-19T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Un policía en la luna
 summary: La colonia lunar ha conocido tiempos mejores, como uno de esos pueblos en los que ha dejado de pasar la carretera
   principal y su población se reduce día tras…
-date: '2025-04-26'
+date: '2025-04-26T23:59:59'
 authors:
 - roof77
 tags:

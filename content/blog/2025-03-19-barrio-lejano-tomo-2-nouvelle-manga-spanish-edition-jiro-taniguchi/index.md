@@ -2,7 +2,7 @@
 title: Barrio Lejano Tomo 2 (Nouvelle Manga) (Spanish Edition)
 summary: Hiroshi, un padre de familia de 48 años, se siente transportado al adolescente que fue a los 14 años. En este segundo
   volumen prosigue el redescubrimiento de…
-date: '2025-03-19'
+date: '2025-03-19T23:59:59'
 authors:
 - roof77
 tags:

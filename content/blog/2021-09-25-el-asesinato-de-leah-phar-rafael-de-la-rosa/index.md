@@ -2,7 +2,7 @@
 title: El asesinato de Leah Phar
 summary: Todos nos hemos preguntado cómo será nuestra muerte. Cuándo ocurrirá, dónde. Y nuestra imaginación ha divagado entre
   mil posibilidades, desde las más pacíficas…
-date: '2021-09-25'
+date: '2021-09-25T23:59:59'
 authors:
 - roof77
 tags:

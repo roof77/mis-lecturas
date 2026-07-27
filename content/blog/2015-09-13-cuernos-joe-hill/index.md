@@ -2,7 +2,7 @@
 title: Cuernos
 summary: La vida de Ig Perrish es un verdadero infierno desde que su novia Merrin fuera asesinada un año atrás, en un episodio
   que si bien le fue ajeno tendió sobre él…
-date: '2015-09-13'
+date: '2015-09-13T23:59:59'
 authors:
 - roof77
 tags:

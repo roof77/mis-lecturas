@@ -2,7 +2,7 @@
 title: Visión
 summary: Julia Gfrörer explora el deseo, el duelo y la necesidad humana de conexión en esta historia sobre una mujer soltera
   del siglo XIX y el espejo embrujado que le…
-date: '2026-06-21'
+date: '2026-06-21T23:59:59'
 authors:
 - roof77
 tags:

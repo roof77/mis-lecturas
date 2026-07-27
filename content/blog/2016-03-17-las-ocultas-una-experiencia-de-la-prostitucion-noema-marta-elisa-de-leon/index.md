@@ -2,7 +2,7 @@
 title: Las ocultas. Una experiencia de la prostitución (Noema)
 summary: Marta Elisa de León fue al infierno y volvió. El infierno era la mentira, la ambigüedad, el consumismo, la poca autoestima,
   la obsesión por la imagen, el…
-date: '2016-03-17'
+date: '2016-03-17T23:59:59'
 authors:
 - roof77
 tags:

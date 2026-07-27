@@ -2,7 +2,7 @@
 title: La doncella de hielo
 summary: 'Con gran originalidad y maestría narrativa, se combinan en esta obra dos géneros clásicos: el de suspense y el de
   relatos de vampiros. Y aunque el autor…'
-date: '2018-04-12'
+date: '2018-04-12T23:59:59'
 authors:
 - roof77
 tags:

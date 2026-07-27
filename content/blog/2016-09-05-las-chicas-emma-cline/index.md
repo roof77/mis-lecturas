@@ -2,7 +2,7 @@
 title: Las chicas
 summary: California. Verano de 1969. Evie, una adolescente insegura y solitaria a punto de adentrarse en el incierto mundo
   de los adultos, se fija en un grupo de chicas…
-date: '2016-09-05'
+date: '2016-09-05T23:59:59'
 authors:
 - roof77
 tags:

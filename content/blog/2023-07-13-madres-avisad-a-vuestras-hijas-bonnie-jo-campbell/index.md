@@ -2,7 +2,7 @@
 title: Madres, avisad a vuestras hijas
 summary: Los relatos de este libro están poblados de madres e hijas que se aman, se honran y se traicionan. Novias afligidas,
   embarazos prematuros, esposas maltratadas…
-date: '2023-07-13'
+date: '2023-07-13T23:59:59'
 authors:
 - roof77
 tags:

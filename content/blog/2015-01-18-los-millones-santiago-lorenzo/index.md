@@ -2,7 +2,7 @@
 title: Los millones
 summary: Marzo de 1986. A uno del GRAPO le tocan doscientos millones de pesetas en la Lotería Primitiva. No puede cobrar el
   premio por que no tiene DNI.
-date: '2015-01-18'
+date: '2015-01-18T23:59:59'
 authors:
 - roof77
 tags:

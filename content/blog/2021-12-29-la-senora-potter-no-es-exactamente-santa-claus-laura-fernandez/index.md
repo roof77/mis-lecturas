@@ -2,7 +2,7 @@
 title: La señora Potter no es exactamente Santa Claus
 summary: La fama de la desapacible Kimberly Clark Weymouth, una pequeña ciudad eternamente aquejada por heladas ventiscas
   y mucha nieve, y donde Louise Feldman ambientó…
-date: '2021-12-29'
+date: '2021-12-29T23:59:59'
 authors:
 - roof77
 tags:

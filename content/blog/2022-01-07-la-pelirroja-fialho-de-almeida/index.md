@@ -2,7 +2,7 @@
 title: La pelirroja
 summary: Fialho de Almeida (1857-1911) pertence àquela família de médicos que se tornam escritores porque vêem na literatura
   uma forma de medicina e na palavra um ácido…
-date: '2022-01-07'
+date: '2022-01-07T23:59:59'
 authors:
 - roof77
 tags:

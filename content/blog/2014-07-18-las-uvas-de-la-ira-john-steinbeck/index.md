@@ -2,7 +2,7 @@
 title: Las uvas de la ira
 summary: Distinguida con el Premio Pulitzer en 1940, Las uvas de la ira describe el drama de la emigración de los componentes
   de la familia Joad, que, obligados por el…
-date: '2014-07-18'
+date: '2014-07-18T23:59:59'
 authors:
 - roof77
 tags:

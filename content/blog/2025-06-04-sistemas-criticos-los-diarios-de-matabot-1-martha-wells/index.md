@@ -2,7 +2,7 @@
 title: 'Sistemas críticos (Los diarios de Matabot, #1)'
 summary: En un futuro controlado por entidades corporativas donde el viaje espacial es posible, una compañía de seguros debe
   aprobar y abastecer todas las misiones…
-date: '2025-06-04'
+date: '2025-06-04T23:59:59'
 authors:
 - roof77
 tags:

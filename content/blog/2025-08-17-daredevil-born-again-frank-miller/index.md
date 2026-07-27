@@ -2,7 +2,7 @@
 title: 'Daredevil: Born Again'
 summary: In this larger-than-life theater, the forces of corruption and redemption have at one another with a Wagnerian intensity
   that rivals the very best this medium…
-date: '2025-08-17'
+date: '2025-08-17T23:59:59'
 authors:
 - roof77
 tags:

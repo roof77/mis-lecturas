@@ -1,7 +1,7 @@
 ---
 title: 'Odio a color, vol. 10: Una terapia asquerosa (Hate, #10)'
 summary: ¡Bienvenidos al sórdido mundo de los psicoterapeutas! ¡Que corra el prozac!
-date: '2026-05-24'
+date: '2026-05-24T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: '¿Cuánto bebes?: El alcohol y tu salud (Yonki Books nº 1) (Spanish Edition)'
 summary: Este libro pretende contribuir a que tomes decisiones bien fundamentadas e inteligentes en torno a la bebida. ¿Bebes
   para reducir tu ansiedad? ¿Como válvula…
-date: '2022-06-09'
+date: '2022-06-09T23:59:59'
 authors:
 - roof77
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'Hypocrite: Cómo descodificar el Atircopih'
 summary: Una de las obras más POP del creador de Barbarella.
-date: '2025-01-15'
+date: '2025-01-15T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Rusia gótica
 summary: Adoradores del diablo, hombres lobo, locura y magia. A principios del siglo diecinueve, muchos escritores rusos comenzaron
   a interesarse por los cuentos…
-date: '2022-07-20'
+date: '2022-07-20T23:59:59'
 authors:
 - roof77
 tags:

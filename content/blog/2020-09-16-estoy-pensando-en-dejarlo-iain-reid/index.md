@@ -2,7 +2,7 @@
 title: Estoy pensando en dejarlo
 summary: "<Tendrás miedo, pero no sabrás por qué... «Estoy pensando en dejarlo». Una vez que llega este pensamiento, se queda.\
   \ Está presente siempre. Siempre.\r\nJake y yo…"
-date: '2020-09-16'
+date: '2020-09-16T23:59:59'
 authors:
 - roof77
 tags:

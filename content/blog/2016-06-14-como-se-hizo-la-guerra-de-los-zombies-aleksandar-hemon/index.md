@@ -2,7 +2,7 @@
 title: Cómo se hizo La guerra de los zombies
 summary: Josh Levin es un aprendiz de guionista treintañero que se gana la vida dando clases de inglés para extranjeros mientras
   sueña con vender una de sus historias a…
-date: '2016-06-14'
+date: '2016-06-14T23:59:59'
 authors:
 - roof77
 tags:

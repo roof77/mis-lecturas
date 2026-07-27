@@ -2,7 +2,7 @@
 title: Piercing
 summary: 'Kawashima Masayuki está casado con Yoko. Están enamorados, tienen una hija de cuatro meses, trabajos estables, pan
   cocinado en casa: felices. Pero éste es un…'
-date: '2015-07-10'
+date: '2015-07-10T23:59:59'
 authors:
 - roof77
 tags:

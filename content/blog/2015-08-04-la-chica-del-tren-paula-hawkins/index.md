@@ -2,7 +2,7 @@
 title: La chica del tren
 summary: "¿Estabas en el tren de las 8.04? ¿Viste algo sospechoso?\r\nRachel, sí\r\n\r\nRachel toma siempre el tren de las\
   \ 8.04 h. Cada mañana lo mismo: el mismo paisaje, las…"
-date: '2015-08-04'
+date: '2015-08-04T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Granta en español 23: Los mejores narradores jóvenes en español'
 summary: Uno de los grandes acontecimientos del mundo literario, tanto en lengua inglesa como en la española, es la publicación,
   cada diez años, de la lista de GRANTA…
-date: '2021-08-10'
+date: '2021-08-10T23:59:58'
 authors:
 - roof77
 tags:

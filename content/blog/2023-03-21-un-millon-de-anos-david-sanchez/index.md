@@ -2,7 +2,7 @@
 title: Un millón de años
 summary: Cielo, tierra y rocas. Un teléfono suena en el desierto. Brotan de la arena escarabajos azules, cíclopes, caníbales,
   animales practicando la cartomancia. Y…
-date: '2023-03-21'
+date: '2023-03-21T23:59:59'
 authors:
 - roof77
 tags:

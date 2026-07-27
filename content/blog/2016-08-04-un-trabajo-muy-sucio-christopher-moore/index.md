@@ -2,7 +2,7 @@
 title: Un trabajo muy sucio
 summary: Charlie Asher es dueño de un edificio en San Francisco, tiene una tienda de objetos de segunda mano y está casado
   con una mujer guapa e inteligente que lo…
-date: '2016-08-04'
+date: '2016-08-04T23:59:59'
 authors:
 - roof77
 tags:

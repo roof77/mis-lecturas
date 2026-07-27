@@ -2,7 +2,7 @@
 title: Carta de una desconocida
 summary: «Sólo quiero hablar contigo, decírtelo todo por primera vez. Tendrías que conocer toda mi vida, que siempre fue la
   tuya aunque nunca lo supiste. Pero sólo tú…
-date: '2021-08-11'
+date: '2021-08-11T23:59:59'
 authors:
 - roof77
 tags:

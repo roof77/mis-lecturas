@@ -2,7 +2,7 @@
 title: Una Curiosa Historia del Sexo
 summary: Basado en el popular proyecto de investigación Whores of Yore (Putas de Antaño) y escrito con su característico humor
   e ingenio, este libro se basa en los…
-date: '2022-06-26'
+date: '2022-06-26T23:59:59'
 authors:
 - roof77
 tags:

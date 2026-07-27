@@ -2,7 +2,7 @@
 title: 'El antropólogo inocente (El antropólogo inocente, #1)'
 summary: 'El antropólogo inocente es un texto ciertamente insólito del que se dijo: «Probablemente el libro más divertido
   que se ha publicado este año. Nigel Barley hace…'
-date: '2014-08-05'
+date: '2014-08-05T23:59:59'
 authors:
 - roof77
 tags:

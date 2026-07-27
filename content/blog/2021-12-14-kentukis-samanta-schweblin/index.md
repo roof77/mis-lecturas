@@ -2,7 +2,7 @@
 title: Kentukis
 summary: Casi siempre comienza en los hogares. Ya se registran miles de casos en Vancouver, Hong Kong, Tel Aviv, Barcelona,
   Oaxaca, y se está propagando rápidamente a…
-date: '2021-12-14'
+date: '2021-12-14T23:59:59'
 authors:
 - roof77
 tags:

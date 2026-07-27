@@ -2,7 +2,7 @@
 title: Maestros del horror de Arkham House
 summary: '"Maestros del horror de Arkham House" es una antología conmemorativa de los sesenta años de la mítica editorial
   norteamericana especializada en literatura…'
-date: '2020-01-21'
+date: '2020-01-21T23:59:59'
 authors:
 - roof77
 tags:

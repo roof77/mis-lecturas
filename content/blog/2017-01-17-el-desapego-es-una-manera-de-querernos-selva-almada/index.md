@@ -2,7 +2,7 @@
 title: El desapego es una manera de querernos
 summary: Dispersos o inhallables, estos relatos dan nuevo acceso a la literatura de Selva Almada, conocida por crónicas y
   novelas varias veces traducidas, elogiadas por…
-date: '2017-01-17'
+date: '2017-01-17T23:59:59'
 authors:
 - roof77
 tags:

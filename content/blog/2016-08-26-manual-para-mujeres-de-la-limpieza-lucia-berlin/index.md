@@ -2,7 +2,7 @@
 title: Manual para mujeres de la limpieza
 summary: Con su inigualable toque de humor y melancolía, Berlin se hace eco de su vida, asombrosa y convulsa, para crear verdaderos
   milagros literarios con episodios…
-date: '2016-08-26'
+date: '2016-08-26T23:59:59'
 authors:
 - roof77
 tags:

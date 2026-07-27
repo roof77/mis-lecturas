@@ -2,7 +2,7 @@
 title: Baby Cat-Face
 summary: Después de haber sido secuestrada con un autobús lleno de pasajeros y forzada a contemplar un peculiar baile vanguardista
   sobre insectos, Baby Cat-Face se une…
-date: '2020-01-29'
+date: '2020-01-29T23:59:59'
 authors:
 - roof77
 tags:

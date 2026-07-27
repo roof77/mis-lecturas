@@ -2,7 +2,7 @@
 title: Tiempo extraño
 summary: En Tiempo extraño, «uno de los mejores escritores norteamericanos de terror» (Time), que va «más allá de los convencionalismos
   del género hasta un nuevo…
-date: '2020-04-04'
+date: '2020-04-04T23:59:59'
 authors:
 - roof77
 tags:

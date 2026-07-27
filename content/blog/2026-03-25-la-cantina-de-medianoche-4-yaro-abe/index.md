@@ -2,7 +2,7 @@
 title: La cantina de medianoche 4
 summary: 'Esa minúscula taberna situada en una callejuela del barrio de Shinjuku acoge a los noctámbulos de Tokyo: boxeadores,
   prostitutas, actores porno, policias y…'
-date: '2026-03-25'
+date: '2026-03-25T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Cluny Brown
 summary: "Una deliciosa comedia social británica que satiriza las buenas maneras inglesas y los estrictos protocolos de clase\
   \ y de género de inicios del siglo XX.\r\n\r\nAño…"
-date: '2022-12-22'
+date: '2022-12-22T23:59:59'
 authors:
 - roof77
 tags:

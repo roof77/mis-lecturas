@@ -2,7 +2,7 @@
 title: Los huesos del invierno
 summary: '«Todos los días hay que estar preparado para morir... Solo así puedes salvarte»: quien pronuncia estas palabras,
   drogado hasta arriba, es un tipo sin una oreja…'
-date: '2014-11-03'
+date: '2014-11-03T23:59:59'
 authors:
 - roof77
 tags:

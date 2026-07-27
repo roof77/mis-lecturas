@@ -2,7 +2,7 @@
 title: 'El bosque oscuro (Trilogía de los tres cuerpos, #2)'
 summary: En El bosque oscuro, la humanidad se recupera del impacto producido por la inminencia de una invasión alienígena
   en el plazo de cuatro siglos. Los…
-date: '2017-11-03'
+date: '2017-11-03T23:59:59'
 authors:
 - roof77
 tags:

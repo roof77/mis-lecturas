@@ -2,7 +2,7 @@
 title: Día de mercado
 summary: 'La vida de Mendleman, futuro padre, se ve trastornada cuando descubre que no puede seguir trabajando en lo que mejor
   sabe hacer: fabricar alfombras…'
-date: '2026-04-29'
+date: '2026-04-29T23:59:59'
 authors:
 - roof77
 tags:

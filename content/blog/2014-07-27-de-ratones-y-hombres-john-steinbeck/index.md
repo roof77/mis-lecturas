@@ -2,7 +2,7 @@
 title: De ratones y hombres
 summary: Es una novela ambientada en California y en la época de la Depresión. En este contexto, la historia de dos trabajadores
   temporeros que sueñan en vano con…
-date: '2014-07-27'
+date: '2014-07-27T23:59:59'
 authors:
 - roof77
 tags:

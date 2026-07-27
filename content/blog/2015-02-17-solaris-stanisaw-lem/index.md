@@ -2,7 +2,7 @@
 title: Solaris
 summary: Impedimenta se complace en presentar, por primera vez en traducción directa del polaco, Solaris, la mítica novela
   que consagró a Stanisław Lem como autor de…
-date: '2015-02-17'
+date: '2015-02-17T23:59:59'
 authors:
 - roof77
 tags:

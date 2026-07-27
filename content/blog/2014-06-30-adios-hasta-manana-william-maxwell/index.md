@@ -2,7 +2,7 @@
 title: Adiós, hasta mañana
 summary: William Maxwell sitúa su novela más famosa en un pequeño pueblo del estado de Illinois, en el que dos familias comparten
   muchas cosas, tantas que los celos…
-date: '2014-06-30'
+date: '2014-06-30T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: No cambies nunca
 summary: "La faceta más oscura de la ciencia\r\n\r\nSeúl, en un futuro lejano. Tres tramas paralelas, que acabarán entrelazándose:\
   \ una científica lleva a cabo un experimento…"
-date: '2023-03-20'
+date: '2023-03-20T23:59:59'
 authors:
 - roof77
 tags:

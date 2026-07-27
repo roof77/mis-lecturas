@@ -2,7 +2,7 @@
 title: Quince años (Spanish Edition)
 summary: "Quince años es una obra maestra sobre la juventud que nos recuerda a Tove Ditlevsen o a Tove Jansson y que está\
   \ llamada a convertirse en un clásico.\r\n\r\nLa…"
-date: '2026-06-04'
+date: '2026-06-04T23:59:59'
 authors:
 - roof77
 tags:

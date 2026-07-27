@@ -2,7 +2,7 @@
 title: 'Irène (Camille Verhœven, #1)'
 summary: 'El comandante Camille Verhœven vive la vida perfecta: está casado con la maravillosa Irène, con la que espera su
   primer hijo. Pero su felicidad se resquebraja…'
-date: '2016-11-29'
+date: '2016-11-29T23:59:59'
 authors:
 - roof77
 tags:

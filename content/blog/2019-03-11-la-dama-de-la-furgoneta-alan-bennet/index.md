@@ -2,7 +2,7 @@
 title: La dama de la furgoneta
 summary: Desde finales de los años 60, los vecinos del barrio de Camden tenían entre sus transeúntes habituales a la peculiar
   Miss Shepherd, una señora de cierta edad…
-date: '2019-03-11'
+date: '2019-03-11T23:59:59'
 authors:
 - roof77
 tags:

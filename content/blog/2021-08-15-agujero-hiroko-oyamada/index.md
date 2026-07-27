@@ -2,7 +2,7 @@
 title: Agujero
 summary: Al marido de Asa le han ofrecido un nuevo trabajo en una zona remota de Japón, próxima al hogar en que nació. Durante
   un verano excepcionalmente cálido, la…
-date: '2021-08-15'
+date: '2021-08-15T23:59:59'
 authors:
 - roof77
 tags:

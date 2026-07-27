@@ -2,7 +2,7 @@
 title: 'El Gran Cuando (Londres Eterno #1)'
 summary: El esperado retorno de Alan Moore a la novela, una oda a Londres y un tour de force lleno de magia e historia que
   será adaptado a la televisión«Una delicia»…
-date: '2025-05-10'
+date: '2025-05-10T23:59:58'
 authors:
 - roof77
 tags:

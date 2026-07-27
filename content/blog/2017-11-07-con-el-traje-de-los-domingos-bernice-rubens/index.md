@@ -2,7 +2,7 @@
 title: Con el traje de los domingos
 summary: George Verrey-Smith es un hombre de cuarenta y dos años, casado desde hace diecisiete con una mujer llamada Joy.
   Todos los domingos sube a su estudio, se…
-date: '2017-11-07'
+date: '2017-11-07T23:59:59'
 authors:
 - roof77
 tags:

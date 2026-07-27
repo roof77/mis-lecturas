@@ -2,7 +2,7 @@
 title: Cabaret Biarritz
 summary: Georges Miet escribe por encargo historias populares para la editorial francesa La Fortune, hasta que un día su editor
   le pide una novela “seria” acerca de los…
-date: '2015-04-07'
+date: '2015-04-07T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Piranesi
 summary: 'La casa de Piranesi no es un edificio cualquiera: sus habitaciones son monumentales, con paredes llenas de miles
   de estatuas, y sus pasillos, interminables…'
-date: '2021-12-17'
+date: '2021-12-17T23:59:59'
 authors:
 - roof77
 tags:

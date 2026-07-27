@@ -2,7 +2,7 @@
 title: 'Como una moto: La vida galopante de John Belushi (Papel de liar) (Spanish Edition)'
 summary: In order to relate the portentous life of comedian John Belushi and the strident fanfare that surrounded his ascent
   and tragedy, Bob Woodward had to navigate a…
-date: '2015-11-10'
+date: '2015-11-10T23:59:59'
 authors:
 - roof77
 tags:

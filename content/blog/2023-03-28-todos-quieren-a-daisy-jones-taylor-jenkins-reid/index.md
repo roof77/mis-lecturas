@@ -2,7 +2,7 @@
 title: Todos quieren a Daisy Jones
 summary: 'Todo el mundo conoce a Daisy Jones & The Six: el álbum de la banda Aurora llegó a definir la era del rock ‘n’ roll
   de finales de los setenta, y una generación…'
-date: '2023-03-28'
+date: '2023-03-28T23:59:59'
 authors:
 - roof77
 tags:

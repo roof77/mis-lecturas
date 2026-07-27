@@ -2,7 +2,7 @@
 title: 'Mi persona favorita (Heartstopper, #2)'
 summary: Después de lanzarse a besar a Nick, Charlie cree que todo se ha acabado, pero... ¿es así? Heartstopper responde a
   la manera de sentir de los jóvenes reales…
-date: '2022-06-29'
+date: '2022-06-29T23:59:59'
 authors:
 - roof77
 tags:

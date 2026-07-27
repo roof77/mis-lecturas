@@ -2,7 +2,7 @@
 title: La revolución feminista geek
 summary: '"La revolución feminista geek" es una colección de ensayos de Kameron Hurley sobre feminismo, la cultura, experiencias
   personales, las relaciones de poder o…'
-date: '2018-08-15'
+date: '2018-08-15T23:59:59'
 authors:
 - roof77
 tags:

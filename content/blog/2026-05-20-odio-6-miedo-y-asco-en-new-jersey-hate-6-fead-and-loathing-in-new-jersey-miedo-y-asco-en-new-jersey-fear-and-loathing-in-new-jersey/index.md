@@ -3,7 +3,7 @@ title: 'Odio 6: Miedo Y Asco En New Jersey / Hate 6: Fead and Loathing in New Je
   Loathing in New Jersey! (Spanish Edition)'
 summary: Collects an alternative comic from the 1990s that chronicles the misadventures and life experiences of Buddy Bradley,
   oldest son of America's most…
-date: '2026-05-20'
+date: '2026-05-20T23:59:58'
 authors:
 - roof77
 tags:

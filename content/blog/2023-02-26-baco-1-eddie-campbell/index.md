@@ -2,7 +2,7 @@
 title: Baco 1
 summary: Baco, dios del vino y de la juerga, hijo ilegítimo de Zeus, sigue vivo. Arrastrando sus más de cuatro mil años, recorre
   los bares de la ciudad en busca de Joe…
-date: '2023-02-26'
+date: '2023-02-26T23:59:58'
 authors:
 - roof77
 tags:

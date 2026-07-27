@@ -2,7 +2,7 @@
 title: Estación Once
 summary: 'Un inesperado virus mortal acaba con la humanidad tal y como la conocemos: ya no quedan trenes que unan los lugares,
   ni internet que nos permita conocer el…'
-date: '2024-06-19'
+date: '2024-06-19T23:59:59'
 authors:
 - roof77
 tags:

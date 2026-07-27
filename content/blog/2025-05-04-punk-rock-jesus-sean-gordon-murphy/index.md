@@ -4,7 +4,7 @@ summary: 'A New York Times Bestseller!
 
 
   A reality TV show starring a clone of Jesus Christ causes chaos across the U.S. of the near future in PUNK ROCK JESUS, a…'
-date: '2025-05-04'
+date: '2025-05-04T23:59:59'
 authors:
 - roof77
 tags:

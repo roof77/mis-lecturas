@@ -2,7 +2,7 @@
 title: El exorcismo de mi mejor amiga
 summary: Dos jóvenes estudiantes de Secundaria, llamadas Abby y Gretchen, se tienen la una a la otra como mejores amigas desde
   los tiempos de la infancia. Pero en una…
-date: '2022-07-06'
+date: '2022-07-06T23:59:59'
 authors:
 - roof77
 tags:

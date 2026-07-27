@@ -2,7 +2,7 @@
 title: Lolito
 summary: "She's online.\r\n'I booked a hotel,' I say. 'Near Marble Arch.'\r\n'That sounds great, hon. I can't wait to see\
   \ you.'\r\n'Yeah. Me too.'\r\n'I'm vaguely…"
-date: '2014-04-29'
+date: '2014-04-29T23:59:59'
 authors:
 - roof77
 tags:

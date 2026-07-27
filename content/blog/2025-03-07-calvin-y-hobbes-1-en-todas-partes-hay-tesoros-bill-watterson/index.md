@@ -2,7 +2,7 @@
 title: Calvin y Hobbes 1 - En todas partes hay tesoros
 summary: Relanzamiento con nuevo diseño de la serie Calvin y Hobbes, uno de los grandes clásicos de Ediciones B y del cómic
   internacional. ¡No te pierdas esta primera…
-date: '2025-03-07'
+date: '2025-03-07T23:59:59'
 authors:
 - roof77
 tags:

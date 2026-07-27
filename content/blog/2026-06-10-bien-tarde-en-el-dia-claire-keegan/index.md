@@ -2,7 +2,7 @@
 title: Bien tarde en el día
 summary: Un cajón exclusivo en el armario. La copia de una llave. Un te amo dicho a tiempo. Un mensaje agradeciendo una cena.
   Gestos de amor y muestras de interés que…
-date: '2026-06-10'
+date: '2026-06-10T23:59:58'
 authors:
 - roof77
 tags:

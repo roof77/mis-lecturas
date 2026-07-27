@@ -2,7 +2,7 @@
 title: Cooltureta
 summary: Algunos modernos, además de llevar pantalones de pitillo y no saltarse  ni un festival de música, asisten a ciclos
   de cine iraní y leen poesía  contemporánea…
-date: '2025-09-01'
+date: '2025-09-01T23:59:59'
 authors:
 - roof77
 tags:

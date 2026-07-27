@@ -2,7 +2,7 @@
 title: 'Ofrenda a la tormenta (Trilogía del Baztán, #3)'
 summary: "El esperadísimo final de la Trilogía del Baztán, un éxito que ya ha cautivado a más de 200.000 lectores. Nunca lo\
   \ habrías imaginado.\r\n\r\nUna mujer denuncia que…"
-date: '2015-12-30'
+date: '2015-12-30T23:59:59'
 authors:
 - roof77
 tags:

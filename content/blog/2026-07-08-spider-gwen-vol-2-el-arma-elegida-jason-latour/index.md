@@ -2,7 +2,7 @@
 title: 'Spider-Gwen, Vol. 2: El Arma Elegida'
 summary: Después de los hechos de “Spiderwomen”, la vida de Gwen está del revés, con el Capitán Frank Castle enfrentado con
   ella. ¿Tiene alguna oportunidad contra las…
-date: '2026-07-08'
+date: '2026-07-08T23:59:56'
 authors:
 - roof77
 tags:

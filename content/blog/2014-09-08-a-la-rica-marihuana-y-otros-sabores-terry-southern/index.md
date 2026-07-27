@@ -2,7 +2,7 @@
 title: A La Rica Marihuana Y Otros Sabores
 summary: Esta recopilación de escritos, artículos y entrevistas en torno a la droga, la música, la política exterior norteamericana,
   la CIA, el periodismo, la moral…
-date: '2014-09-08'
+date: '2014-09-08T23:59:59'
 authors:
 - roof77
 tags:

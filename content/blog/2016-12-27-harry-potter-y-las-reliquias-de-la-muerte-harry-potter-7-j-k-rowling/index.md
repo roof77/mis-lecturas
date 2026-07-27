@@ -2,7 +2,7 @@
 title: 'Harry Potter y las reliquias de la muerte (Harry Potter, #7)'
 summary: La fecha crucial se acerca. Cuando cumpla diecisiete años, Harry perderá el encantamiento protector que lo mantiene
   a salvo. El anunciado enfrentamiento a…
-date: '2016-12-27'
+date: '2016-12-27T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Agujero negro
 summary: "Y tú que creías que tu adolescencia había sido escalofriante...\r\nSuburbios de Seattle, mediados de los 70: aprendimos\
   \ sobre la marcha que una plaga se cernía…"
-date: '2025-12-15'
+date: '2025-12-15T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Sex Criminals #18: Totems'
 summary: 'There''s a line between fan and fetishist, right? Probably. Also: the long-awaited return of JAZMINE ST. COCAINE!!!
   [COLLECTOR''S ITEM]'
-date: '2018-08-20'
+date: '2018-08-20T23:59:48'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: La mucama de Omicunlé
 summary: Esta apabullante novela, que supone la consagración de Rita Indiana como narradora, tiene tantas capas de lectura
   y tantos giros fascinantes que rehuye toda…
-date: '2016-01-24'
+date: '2016-01-24T23:59:59'
 authors:
 - roof77
 tags:

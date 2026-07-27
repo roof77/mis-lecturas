@@ -2,7 +2,7 @@
 title: Autobiograf�a de un mierda
 summary: Todas las experiencias que llevaron al protagonista, un amante de la cultura underground, a convertirse en un ser
   antisocial que tiene un escueto mensaje para…
-date: '2019-11-23'
+date: '2019-11-23T23:59:59'
 authors:
 - roof77
 tags:

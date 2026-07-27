@@ -2,7 +2,7 @@
 title: 'Maison Ikkoku tomo 6 (Maison Ikkoku Big, #6)'
 summary: "Tomo 6 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
-date: '2024-07-22'
+date: '2024-07-22T23:59:59'
 authors:
 - roof77
 tags:

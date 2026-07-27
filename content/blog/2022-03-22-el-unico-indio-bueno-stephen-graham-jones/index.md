@@ -2,7 +2,7 @@
 title: El único indio bueno
 summary: Ricky, Gabe, Lewis and Cassidy son cuatro amigos de la infancia, cuatro indios americanos que, en su madurez, viven
   atrapados entre una sociedad que los…
-date: '2022-03-22'
+date: '2022-03-22T23:59:59'
 authors:
 - roof77
 tags:

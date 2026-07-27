@@ -2,7 +2,7 @@
 title: Un amor cualquiera
 summary: Hace ahora justo veinte años, los Kinsella eran, en apariencia, una familia idílica y feliz. De un día para otro,
   el marido de Rachel vendió sin avisarle la…
-date: '2020-12-21'
+date: '2020-12-21T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Bunny
 summary: «Solo éramos unas jovencitas inocentes que intentaban hacer algo bonito en mitad de la noche. Estuvimos a punto de
   morir. Nos faltó muy poco, ¿a que…
-date: '2026-01-29'
+date: '2026-01-29T23:59:59'
 authors:
 - roof77
 tags:

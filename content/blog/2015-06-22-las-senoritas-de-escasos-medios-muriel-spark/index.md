@@ -2,7 +2,7 @@
 title: Las señoritas de escasos medios
 summary: Ambientada en las ruinas de Londres durante la difícil primavera y el verano indigente de 1945, recién acabada la
   Segunda Guerra Mundial, Las señoritas de…
-date: '2015-06-22'
+date: '2015-06-22T23:59:59'
 authors:
 - roof77
 tags:

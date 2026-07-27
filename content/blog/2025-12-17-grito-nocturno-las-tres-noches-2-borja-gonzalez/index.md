@@ -2,7 +2,7 @@
 title: 'Grito nocturno (Las tres noches, #2)'
 summary: "TRAS THE BLACK HOLES, BORJA GONZÁLEZ SE CONSAGRA CON SU SEGUNDA NOVELA GRÁFICA, AMBIENTADA EN EL MISMO UNIVERSO\
   \ BELLO Y MACABRO.\r\n\r\n«No eres como…"
-date: '2025-12-17'
+date: '2025-12-17T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Por qué se rompió Estados Unidos: Populismo y polarización en la era Trump'
 summary: El experto en política estadounidense Roger Senserrich nos explica en este ensayo cómo el germen de los escándalos
   de Trump responde a las raíces históricas de…
-date: '2025-11-10'
+date: '2025-11-10T23:59:58'
 authors:
 - roof77
 tags:

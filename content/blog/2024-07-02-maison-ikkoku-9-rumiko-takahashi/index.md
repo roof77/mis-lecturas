@@ -2,7 +2,7 @@
 title: Maison Ikkoku 9
 summary: "Tomo 9 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
-date: '2024-07-02'
+date: '2024-07-02T23:59:58'
 authors:
 - roof77
 tags:

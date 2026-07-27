@@ -2,7 +2,7 @@
 title: 'Estela Plateada: Parábola'
 summary: "Contiene Silver Surfer Parable 1 y 2 USA.\r\nLa mítica obra maestra de belleza inabarcable que reunió a los mayores\
   \ genios del cómic estadounidense y europeo, al…"
-date: '2025-03-27'
+date: '2025-03-27T23:59:59'
 authors:
 - roof77
 tags:

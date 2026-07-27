@@ -2,7 +2,7 @@
 title: Anna Karénina
 summary: 'La sola mención del nombre de Anna Karénina sugiere inmediatamente dos grandes temas de la novela decimonónica:
   pasión y adulterio. Anna Karénina, que Tolstói…'
-date: '2016-01-19'
+date: '2016-01-19T23:59:59'
 authors:
 - roof77
 tags:

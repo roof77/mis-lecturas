@@ -2,7 +2,7 @@
 title: La increíble boda de Gilbert y Moira
 summary: Gilbert Selwyn y Moira Finch tienen el placer de invitaros a la que está llamada a convertirse en la boda del año.
   Gilbert es un joven encantador al que el…
-date: '2017-02-10'
+date: '2017-02-10T23:59:59'
 authors:
 - roof77
 tags:

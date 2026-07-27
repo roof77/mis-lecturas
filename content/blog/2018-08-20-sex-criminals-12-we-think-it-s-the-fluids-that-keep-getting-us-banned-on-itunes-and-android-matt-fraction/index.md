@@ -2,7 +2,7 @@
 title: 'Sex Criminals #12: We Think It''s the Fluids That Keep Getting Us Banned On iTunes and Android'
 summary: Suzie and Jon continue the worst recruitment plan in the history of entertaining second-act montage sequences. Getting
   the band together never had so many…
-date: '2018-08-20'
+date: '2018-08-20T23:59:42'
 authors:
 - roof77
 tags:

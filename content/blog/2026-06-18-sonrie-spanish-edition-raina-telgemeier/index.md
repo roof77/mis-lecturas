@@ -2,7 +2,7 @@
 title: ¡Sonríe! (Spanish Edition)
 summary: Raina solo quiere ser normal. Pero una noche, tras una reunión de los scouts, se tropieza y se rompe los paletos.
   Los meses siguientes serán una tortura para…
-date: '2026-06-18'
+date: '2026-06-18T23:59:59'
 authors:
 - roof77
 tags:

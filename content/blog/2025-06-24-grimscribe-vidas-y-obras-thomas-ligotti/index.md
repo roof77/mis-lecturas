@@ -2,7 +2,7 @@
 title: 'Grimscribe: Vidas y obras'
 summary: Thomas Ligotti, «el secreto mejor guardado de la literatura de horror contemporánea», según el Washington Post, nació
   en Detroit en 1953 y estudió en la…
-date: '2025-06-24'
+date: '2025-06-24T23:59:59'
 authors:
 - roof77
 tags:

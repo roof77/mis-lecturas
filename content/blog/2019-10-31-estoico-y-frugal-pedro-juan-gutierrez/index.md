@@ -2,7 +2,7 @@
 title: Estoico y frugal
 summary: "Las andanzas vitales y sexuales de un escritor cubano por Madrid y por media Europa.\r\n\r\n«Hacía muchos años que\
   \ mi vida se había convertido en un juego de…"
-date: '2019-10-31'
+date: '2019-10-31T23:59:59'
 authors:
 - roof77
 tags:

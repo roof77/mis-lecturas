@@ -2,7 +2,7 @@
 title: 'Astro City #4: El ángel caído'
 summary: "¡UN NUEVO CAPÍTULO DEL GRAN CLÁSICO DE SUPERHÉROES! \r\nCarl Donewizc es también conocido como Acero . Acaba de\
   \ salir de la cárcel y ahora quiere estar alejado…"
-date: '2026-02-27'
+date: '2026-02-27T23:59:58'
 authors:
 - roof77
 tags:

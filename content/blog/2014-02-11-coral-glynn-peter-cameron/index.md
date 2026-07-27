@@ -2,7 +2,7 @@
 title: Coral Glynn
 summary: En 1950, una joven llamada Coral Glynn acepta un trabajo en una casa de campo inglesa. Deberá cuidar a una anciana
   enferma, la señora Hart, con la que vive…
-date: '2014-02-11'
+date: '2014-02-11T23:59:59'
 authors:
 - roof77
 tags:

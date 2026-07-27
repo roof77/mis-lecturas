@@ -2,7 +2,7 @@
 title: '¡Guardias! ¡Guardias! (Mundodisco, #8)'
 summary: La ciudad de Ankh-Morpork está gobernada por un Patricio, Lord Vetinari, que ha legalizado los asesinatos, los robos,
   la mendicidad y la prostitución para…
-date: '2024-05-02'
+date: '2024-05-02T23:59:59'
 authors:
 - roof77
 tags:

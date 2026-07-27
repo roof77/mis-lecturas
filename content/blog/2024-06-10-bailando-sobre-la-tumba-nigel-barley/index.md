@@ -2,7 +2,7 @@
 title: Bailando sobre la tumba
 summary: 1st edn. 8vo. Original gilt lettered blue cloth (a few faint spots on fore-edge - otherwise VG), dustwrapper (light
   wear at edges - in protective cover). Pp…
-date: '2024-06-10'
+date: '2024-06-10T23:59:59'
 authors:
 - roof77
 tags:

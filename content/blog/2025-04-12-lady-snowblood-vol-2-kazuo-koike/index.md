@@ -2,7 +2,7 @@
 title: Lady Snowblood, vol. 2
 summary: La sed de venganza de Osayo, una mujer que lo perdió todo a manos de cuatro indeseables, la lleva a quedarse embarazada
   en la prisión en la que debe acabar sus…
-date: '2025-04-12'
+date: '2025-04-12T23:59:59'
 authors:
 - roof77
 tags:

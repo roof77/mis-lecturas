@@ -2,7 +2,7 @@
 title: 'Ahí abajo, entre raíces y huesos (Niños descarriados, #2)'
 summary: Las gemelas Jack y Jill tenían diecisiete años cuando las conocimos en "Cada corazón, un umbral". Esta es la historia
   de lo que ocurrió primero. De cómo las…
-date: '2018-11-06'
+date: '2018-11-06T23:59:59'
 authors:
 - roof77
 tags:

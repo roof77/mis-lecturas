@@ -4,7 +4,7 @@ summary: 'A cool, dark, sexy nightdrive of a novel. . . . A new J.G. Ballard."--
 
 
   Jeremy Shepherd has relinquished his London life and moved back home. By day…'
-date: '2019-02-10'
+date: '2019-02-10T23:59:59'
 authors:
 - roof77
 tags:

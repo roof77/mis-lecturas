@@ -2,7 +2,7 @@
 title: Drugstore cowboy
 summary: A sus treinta y cinco años, Bob Hughes lidera una banda de yonquis que ocupa su tiempo robando farmacias y pinchándose
   el botín de sus fechorías. Carismático y…
-date: '2021-03-03'
+date: '2021-03-03T23:59:59'
 authors:
 - roof77
 tags:

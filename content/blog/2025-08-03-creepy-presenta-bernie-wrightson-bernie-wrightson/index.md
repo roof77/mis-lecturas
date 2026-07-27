@@ -2,7 +2,7 @@
 title: 'Creepy Presenta: Bernie Wrightson'
 summary: All of horror legend Bernie Wrightson's Creepy and Eerie short stories, color illustrations, and frontispieces are
   finally collected in one deluxe hardcover!…
-date: '2025-08-03'
+date: '2025-08-03T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Las aventuras de Superlópez (Superlópez #1)'
 summary: Primer álbum de Superlópez que reune toda una serie de historias cortas, entre ellas la que desvela la procedencia
   de Superlópez desde el lejano planeta…
-date: '2025-01-18'
+date: '2025-01-18T23:59:59'
 authors:
 - roof77
 tags:

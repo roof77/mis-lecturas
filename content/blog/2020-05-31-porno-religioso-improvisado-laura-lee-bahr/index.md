@@ -2,7 +2,7 @@
 title: Porno religioso improvisado
 summary: Cuando Dominique Colt asesinó de manera brutal a su prometido y a su amante gay en el transcurso de un juego sexual,
   no tenía ni idea de las calamidades por…
-date: '2020-05-31'
+date: '2020-05-31T23:59:59'
 authors:
 - roof77
 tags:

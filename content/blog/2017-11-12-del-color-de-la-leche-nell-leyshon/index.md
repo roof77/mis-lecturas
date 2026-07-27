@@ -2,7 +2,7 @@
 title: Del color de la leche
 summary: Elias Canetti escribió que en escasas ocasiones las personas logran liberarse de las cadenas que las atan para, inmediatamente
   después, quedar sujetas a otras…
-date: '2017-11-12'
+date: '2017-11-12T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Legado en los huesos (Trilogía del Baztán, #2)'
 summary: "Más emoción, más tensión, más revelaciones en la esperada segunda entrega de la trilogía del Baztán. \r\nEl juicio\
   \ contra el padrastro de la joven Johana Márquez…"
-date: '2015-12-15'
+date: '2015-12-15T23:59:59'
 authors:
 - roof77
 tags:

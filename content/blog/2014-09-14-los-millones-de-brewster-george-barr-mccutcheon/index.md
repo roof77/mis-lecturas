@@ -2,7 +2,7 @@
 title: Los millones de Brewster
 summary: En plena fiesta de su 25º cumpleaños Monty Brewster recibe la noticia de que su abuelo ha fallecido y le ha dejado
   un millón de dólares. Apenas se ha…
-date: '2014-09-14'
+date: '2014-09-14T23:59:59'
 authors:
 - roof77
 tags:

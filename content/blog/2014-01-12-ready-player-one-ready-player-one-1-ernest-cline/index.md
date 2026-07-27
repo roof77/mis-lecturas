@@ -2,7 +2,7 @@
 title: 'Ready Player One (Ready Player One, #1)'
 summary: "Librarian's note: An alternate cover edition can be found here\r\n\r\nIN THE YEAR 2044, reality is an ugly place.\
   \ The only time teenage Wade Watts really feels…"
-date: '2014-01-12'
+date: '2014-01-12T23:59:59'
 authors:
 - roof77
 tags:

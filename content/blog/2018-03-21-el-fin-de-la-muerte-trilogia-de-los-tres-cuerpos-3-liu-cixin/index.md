@@ -2,7 +2,7 @@
 title: 'El fin de la muerte (Trilogía de los tres cuerpos, #3)'
 summary: Tras El problema de los tres cuerpos y El bosque oscuro, la tensa espera de la humanidad concluye ahora con un último
   episodio, tan extraordinario como los…
-date: '2018-03-21'
+date: '2018-03-21T23:59:59'
 authors:
 - roof77
 tags:

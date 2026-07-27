@@ -2,7 +2,7 @@
 title: 'La guerra interminable (La guerra interminable, #1)'
 summary: Iniciada en 1997, la guerra con los taurinos dura desde hace siglos. Como pasan de un mundo a otro a velocidades
   superiores a la de la luz, las tropas de la…
-date: '2015-10-28'
+date: '2015-10-28T23:59:59'
 authors:
 - roof77
 tags:

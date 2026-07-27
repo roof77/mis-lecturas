@@ -2,7 +2,7 @@
 title: Maison Ikkoku 10
 summary: "Tomo 10 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores…"
-date: '2024-07-02'
+date: '2024-07-02T23:59:59'
 authors:
 - roof77
 tags:

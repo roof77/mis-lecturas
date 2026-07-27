@@ -2,7 +2,7 @@
 title: Amarillo
 summary: El 27 de febrero de 1992 Chusé Izuel se tira por el balcón. Años después, Félix Romeo abre las heridas y los huecos
   de la memoria para tratar de responder a…
-date: '2014-03-11'
+date: '2014-03-11T23:59:59'
 authors:
 - roof77
 tags:

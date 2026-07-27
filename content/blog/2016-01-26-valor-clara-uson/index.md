@@ -2,7 +2,7 @@
 title: Valor
 summary: Una directora de sucursal de una caja levantina que ha vendido preferentes. Un joven militar, Fermín Galán, que decide
   poner en práctica sus ideales…
-date: '2016-01-26'
+date: '2016-01-26T23:59:59'
 authors:
 - roof77
 tags:

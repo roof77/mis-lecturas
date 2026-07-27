@@ -2,7 +2,7 @@
 title: El dinero en The New Yorker
 summary: «Tiene el lector en sus manos una  un libro de viñetas sobre el mundo de las finanzas y la economía extraídas de
   las páginas de The New Yorker. Digo “rareza”…
-date: '2016-01-09'
+date: '2016-01-09T23:59:59'
 authors:
 - roof77
 tags:

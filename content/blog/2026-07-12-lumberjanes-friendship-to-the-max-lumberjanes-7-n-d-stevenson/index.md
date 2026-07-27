@@ -2,7 +2,7 @@
 title: 'Lumberjanes: Friendship to the Max (Lumberjanes, #7)'
 summary: Diane suddenly becomes important as she and Jen ban together with the regular cast of Lumberjanes and Jo learns the
   true meaning of friendship and sacrifice.
-date: '2026-07-12'
+date: '2026-07-12T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Sin ti no hay nosotros
 summary: Estos versos hacen referencia a Kim Jong-­il, Gran General de Corea del Norte, cuyo «ánimo solícito» condujo la nación
   hasta su muerte el 17 de diciembre de…
-date: '2017-05-30'
+date: '2017-05-30T23:59:59'
 authors:
 - roof77
 tags:

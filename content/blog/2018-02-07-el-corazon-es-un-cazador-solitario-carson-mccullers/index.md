@@ -2,7 +2,7 @@
 title: El corazón es un cazador solitario
 summary: Estamos en una ciudad provinciana del sur de los Estados Unidos en el primer tercio del siglo. Por el Café New York,
   regentado por Biff, van pasando hombres y…
-date: '2018-02-07'
+date: '2018-02-07T23:59:58'
 authors:
 - roof77
 tags:

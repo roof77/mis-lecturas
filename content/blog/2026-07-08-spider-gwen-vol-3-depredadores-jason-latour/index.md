@@ -2,7 +2,7 @@
 title: 'Spider-Gwen, Vol. 3: Depredadores'
 summary: Con “Depredadores”. Matt Murdock, señor del crimen de Nueva York y líder de La Mano, envía a Gwen a una misión que
   supondrá el debut de un terrible villano…
-date: '2026-07-08'
+date: '2026-07-08T23:59:57'
 authors:
 - roof77
 tags:

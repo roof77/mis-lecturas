@@ -2,7 +2,7 @@
 title: Hija de la venganza
 summary: Cuando en 1871 la intrépida y arruinada Philomela Drax recibe una carta de su abuelo en la que le confiesa temer
   por su vida a causa de una familia sin…
-date: '2025-10-28'
+date: '2025-10-28T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Un caballero en Moscú
 summary: Condenado a muerte por los bolcheviques en 1922, el conde Aleksandr Ilich Rostov elude su trágico final por un inusitado
   giro del destino. Gracias a un poema…
-date: '2022-11-22'
+date: '2022-11-22T23:59:59'
 authors:
 - roof77
 tags:

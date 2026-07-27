@@ -2,7 +2,7 @@
 title: Al final mueren los dos
 summary: "¿Puede un solo día albergar toda una vida? \r\n\r\nEn un presente alternativo, en el que es posible predecir la\
   \ muerte con un plazo de veinticuatro horas, Mateo…"
-date: '2018-09-13'
+date: '2018-09-13T23:59:59'
 authors:
 - roof77
 tags:

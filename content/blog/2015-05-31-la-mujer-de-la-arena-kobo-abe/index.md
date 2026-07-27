@@ -2,7 +2,7 @@
 title: La mujer de la arena
 summary: La mujer de la arena se centra en la historia de un entomólogo, Jumpei, que, buscando un nuevo espécimen de insecto,
   queda varado en una aldea perdida en las…
-date: '2015-05-31'
+date: '2015-05-31T23:59:59'
 authors:
 - roof77
 tags:

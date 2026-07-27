@@ -2,7 +2,7 @@
 title: The Power
 summary: Una niña en la América profunda escapa de un padre maltratador. Un chico en Nigeria filma a una mujer que está siendo
   atacada en un supermercado. La hija de un…
-date: '2017-06-28'
+date: '2017-06-28T23:59:59'
 authors:
 - roof77
 tags:

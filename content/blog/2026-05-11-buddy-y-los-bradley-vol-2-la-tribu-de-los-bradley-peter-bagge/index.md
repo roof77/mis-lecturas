@@ -2,7 +2,7 @@
 title: 'Buddy y los Bradley, vol. 2: La tribu De Los Bradley'
 summary: Meet the Bradleys, America's most dysfunctional family. Yes, even more dysfunctional than the Simpsons, though it's
   no surprise that Groening has cited the…
-date: '2026-05-11'
+date: '2026-05-11T23:59:59'
 authors:
 - roof77
 tags:

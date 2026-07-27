@@ -2,7 +2,7 @@
 title: Insomniacs After School, Vol. 3
 summary: "Al menos ya no están solos, se tienen el uno al otro para superar esas noches de soledad y ansiedad...\r\n\r\nEn\
   \ el campamento, tras disfrutar de una noche mágica…"
-date: '2026-07-25'
+date: '2026-07-25T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Relojes de sangre
 summary: En esta feroz e imaginativa novela el aborto es, una vez más, ilegal en Estados Unidos, la fertilización in vitro
   está prohibida y la Emmienda de Humanidad da…
-date: '2018-11-24'
+date: '2018-11-24T23:59:59'
 authors:
 - roof77
 tags:

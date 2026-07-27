@@ -2,7 +2,7 @@
 title: Cuatro hermanas
 summary: A principios de los años cincuenta, Matthew Soames, maestro en un colegio rural, y su mujer, Callie, disfrutan del
   final del verano en su granja de las afueras…
-date: '2026-07-23'
+date: '2026-07-23T23:59:59'
 authors:
 - roof77
 tags:

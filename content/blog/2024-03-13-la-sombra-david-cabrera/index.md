@@ -2,7 +2,7 @@
 title: La Sombra
 summary: Este libro es la historia de una sombra que mató a un hombre de una puñalada, fue condenado a veinte años de prisión
   y huyó antes de entrar en la cárcel. En…
-date: '2024-03-13'
+date: '2024-03-13T23:59:59'
 authors:
 - roof77
 tags:

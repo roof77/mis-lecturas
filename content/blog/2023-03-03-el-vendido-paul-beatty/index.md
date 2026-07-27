@@ -2,7 +2,7 @@
 title: El vendido
 summary: "Una escandalosa tragicomedia que explora el legado de la esclavitud y las desigualdades económicas y raciales de\
   \ la América actual.\r\nDespués de que su padre…"
-date: '2023-03-03'
+date: '2023-03-03T23:59:59'
 authors:
 - roof77
 tags:

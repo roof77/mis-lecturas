@@ -2,7 +2,7 @@
 title: Bel Canto
 summary: En algún lugar de Sudamérica, el vicepresidente de la nación celebra en su residencia una suntuosa fiesta en honor
   al señor Hosokawa, un influyente hombre de…
-date: '2025-07-15'
+date: '2025-07-15T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Harry Potter y la piedra filosofal (Harry Potter, #1)'
 summary: Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y el insoportable primo Dudley. Se siente
   muy triste y solo, hasta que un buen día…
-date: '2016-11-30'
+date: '2016-11-30T23:59:59'
 authors:
 - roof77
 tags:

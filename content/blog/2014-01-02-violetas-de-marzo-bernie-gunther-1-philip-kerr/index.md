@@ -2,7 +2,7 @@
 title: 'Violetas de marzo (Bernie Gunther, #1)'
 summary: Berlín, 1936. Bernie Gunther creía estar curado de espanto, pero ahora que ha abandonado el cuerpo de policía y se
   ha hecho investigador privado, el recuerdo…
-date: '2014-01-02'
+date: '2014-01-02T23:59:59'
 authors:
 - roof77
 tags:

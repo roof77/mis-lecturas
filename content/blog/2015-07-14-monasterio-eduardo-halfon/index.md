@@ -2,7 +2,7 @@
 title: Monasterio
 summary: Agotados tras quince horas de vuelo, dos jóvenes guatemaltecos esperan sus maletas en el aeropuerto Ben Gurión de
   Tel Aviv. Viajan a Jerusalén para asistir a…
-date: '2015-07-14'
+date: '2015-07-14T23:59:59'
 authors:
 - roof77
 tags:

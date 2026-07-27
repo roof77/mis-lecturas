@@ -1,7 +1,7 @@
 ---
 title: Odio 11 Una mente apestosa/ Hate 11 A stinking mind
 summary: Reseña de lectura de «Odio 11 Una mente apestosa/ Hate 11 A stinking mind».
-date: '2026-05-24'
+date: '2026-05-24T23:59:59'
 authors:
 - roof77
 tags:

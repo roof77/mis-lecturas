@@ -2,7 +2,7 @@
 title: Todos deberíamos ser feministas
 summary: Adaptado de su magnífica TEDx Talk del 2013, en tan solo 72 páginas Adichie nos ofrece una visión única sobre uno
   de los temas más controvertidos de nuestro…
-date: '2017-03-15'
+date: '2017-03-15T23:59:58'
 authors:
 - roof77
 tags:

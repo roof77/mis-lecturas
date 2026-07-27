@@ -2,7 +2,7 @@
 title: La cantina de medianoche 6
 summary: '"Mon restaurant est ouvert de minuit à sept heures du matin environ. On le surnomme la cantine de minuit" mais pour
   certains c''est plutôt "la cantine de…'
-date: '2026-03-28'
+date: '2026-03-28T23:59:59'
 authors:
 - roof77
 tags:

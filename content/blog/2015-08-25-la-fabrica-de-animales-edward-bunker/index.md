@@ -2,7 +2,7 @@
 title: La fábrica de animales
 summary: Ron Decker, joven de buena familia, acaba con sus huesos en la temible prisión de San Quintín tras su primera detención
   por «vender droga como si tuviese…
-date: '2015-08-25'
+date: '2015-08-25T23:59:59'
 authors:
 - roof77
 tags:

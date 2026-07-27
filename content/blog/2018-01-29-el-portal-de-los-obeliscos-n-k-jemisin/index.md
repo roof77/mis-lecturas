@@ -2,7 +2,7 @@
 title: El portal de los obeliscos
 summary: '"El portal de los obeliscos" es la segunda parte de "La Tierra Fragmentada", serie que mezcla fantasía épica y ciencia
   ficción, y que ha hecho merecedora a su…'
-date: '2018-01-29'
+date: '2018-01-29T23:59:59'
 authors:
 - roof77
 tags:

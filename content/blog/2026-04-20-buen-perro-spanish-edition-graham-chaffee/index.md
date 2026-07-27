@@ -2,7 +2,7 @@
 title: Buen Perro (Spanish Edition)
 summary: Iván es un buen perro atormentado por pesadillas de conejos y gallinas, cuya vida cambia al unirse a una orgullosa
   jauría de perros callejeros nómadas…
-date: '2026-04-20'
+date: '2026-04-20T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: El nadador en el mar secreto
 summary: William Kotzwinkle es un escritor estadounidense, autor de libros infantiles, novelas de género fantástico y de intriga,
   y también guionista cinematográfico…
-date: '2015-09-22'
+date: '2015-09-22T23:59:59'
 authors:
 - roof77
 tags:

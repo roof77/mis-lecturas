@@ -2,7 +2,7 @@
 title: Anatomía de las distancias cortas
 summary: "Una espléndida colección de cuentos que convierte la vida cotidiana en pura literatura.\r\n\r\n«No parecía que hubiera\
   \ desacuerdo entre ellos, pero algo raro debía…"
-date: '2019-05-15'
+date: '2019-05-15T23:59:59'
 authors:
 - roof77
 tags:

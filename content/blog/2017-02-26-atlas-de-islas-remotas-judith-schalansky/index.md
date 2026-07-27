@@ -2,7 +2,7 @@
 title: Atlas de islas remotas
 summary: Visualmente deslumbrante y con un diseño único, este libro recopila cincuenta islas alejadas en todos los sentidos
   de tierra firme, de la gente, los…
-date: '2017-02-26'
+date: '2017-02-26T23:59:59'
 authors:
 - roof77
 tags:

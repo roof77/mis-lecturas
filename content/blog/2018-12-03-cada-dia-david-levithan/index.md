@@ -2,7 +2,7 @@
 title: Cada día
 summary: Cada mañana, A despierta en el cuerpo y la vida de una persona diferente. Nunca hay aviso previo de dónde ocurrirá
   o quién será el elegido. Pero A ya se ha…
-date: '2018-12-03'
+date: '2018-12-03T23:59:59'
 authors:
 - roof77
 tags:

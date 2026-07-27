@@ -2,7 +2,7 @@
 title: Vernon Subutex 1
 summary: Alex Bleach, ángel caído del rock francés, ha muerto de una sobredosis en la bañera de un hotel. Toda una desgracia
   para sus fans, pero sobre todo para Vernon…
-date: '2018-03-12'
+date: '2018-03-12T23:59:59'
 authors:
 - roof77
 tags:

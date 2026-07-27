@@ -2,7 +2,7 @@
 title: '1974 (Red Riding Quartet, #1)'
 summary: «La autopsia tras la muerte de la niña de diez años Clare Kemplay ha revelado que fue torturada, violada y estrangulada.
   La policía de West Yorkshire retiene…
-date: '2014-09-28'
+date: '2014-09-28T23:59:59'
 authors:
 - roof77
 tags:

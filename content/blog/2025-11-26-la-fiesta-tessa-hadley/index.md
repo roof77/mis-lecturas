@@ -1,7 +1,7 @@
 ---
 title: La fiesta
 summary: Reseña de lectura de «La fiesta».
-date: '2025-11-26'
+date: '2025-11-26T23:59:59'
 authors:
 - roof77
 tags:

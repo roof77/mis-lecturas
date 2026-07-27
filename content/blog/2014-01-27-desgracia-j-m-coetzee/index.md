@@ -2,7 +2,7 @@
 title: Desgracia
 summary: A los cincuenta y dos años, David Lurie tiene poco de lo que enorgullecerse. Con dos divorcios a sus espaldas, apaciguar
   el deseo es su única aspiración; sus…
-date: '2014-01-27'
+date: '2014-01-27T23:59:59'
 authors:
 - roof77
 tags:

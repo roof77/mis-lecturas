@@ -2,7 +2,7 @@
 title: Estrategias Sobrenaturales Para Montar Un Grupo De Rock
 summary: "Pero qué tienen que ver...\r\n\r\n¿Los Beatles con los dibujos animados propagandísticos de la URSS?\r\n¿Los Latin\
   \ Kings con los Sex Pistols?\r\n¿La toma del Palacio…"
-date: '2014-06-10'
+date: '2014-06-10T23:59:59'
 authors:
 - roof77
 tags:

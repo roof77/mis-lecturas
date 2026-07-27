@@ -2,7 +2,7 @@
 title: Teoría King Kong
 summary: La diva destroy punk de las letras francesas, escritora de novelas en las que las protagonistas ocupan posiciones
   tradicionalmente reservadas a los hombres…
-date: '2017-02-09'
+date: '2017-02-09T23:59:59'
 authors:
 - roof77
 tags:

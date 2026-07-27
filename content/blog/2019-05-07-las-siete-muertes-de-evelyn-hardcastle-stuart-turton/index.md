@@ -2,7 +2,7 @@
 title: Las siete muertes de Evelyn Hardcastle
 summary: "Una extraordinaria mezcla de Agatha Christie, Atrapado en el tiempo, Origen y Black Mirror.\r\nLo que comienza como\
   \ una celebración termina en tragedia. Los…"
-date: '2019-05-07'
+date: '2019-05-07T23:59:59'
 authors:
 - roof77
 tags:

@@ -1,7 +1,7 @@
 ---
 title: La señorita Stark
 summary: Rare book
-date: '2025-09-09'
+date: '2025-09-09T23:59:59'
 authors:
 - roof77
 tags:

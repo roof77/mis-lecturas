@@ -2,7 +2,7 @@
 title: Después del terremoto
 summary: La magnitud del terremoto que en 1995 asoló la ciudad japonesa de Kobe, y que se cobró más de cinco mil vidas, inspiró
   a Haruki Murakami seis impactantes…
-date: '2017-07-03'
+date: '2017-07-03T23:59:59'
 authors:
 - roof77
 tags:

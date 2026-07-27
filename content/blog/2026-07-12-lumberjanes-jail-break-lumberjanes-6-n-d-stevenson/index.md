@@ -2,7 +2,7 @@
 title: 'Lumberjanes: Jail Break (Lumberjanes, #6)'
 summary: An intense game of Capture the Flag gets even crazier when mythical ancient beings get involved! Does Jo have magical
   powers? Is Diane totally cheating at this…
-date: '2026-07-12'
+date: '2026-07-12T23:59:57'
 authors:
 - roof77
 tags:

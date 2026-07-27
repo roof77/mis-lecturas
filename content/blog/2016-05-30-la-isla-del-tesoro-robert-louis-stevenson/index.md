@@ -2,7 +2,7 @@
 title: La isla del tesoro
 summary: Jim Hawkins regenta, junto a sus padres, la posada Almirante Benbow. Su vida discurre tranquila entre la barra y
   las mesas hasta que, un día, un viejo marinero…
-date: '2016-05-30'
+date: '2016-05-30T23:59:59'
 authors:
 - roof77
 tags:

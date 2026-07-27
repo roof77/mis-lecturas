@@ -2,7 +2,7 @@
 title: Corazón giratorio
 summary: El estallido de la burbuja inmobiliaria ha dejado secuelas en un pequeño pueblo irlandés, donde la prosperidad de
   los últimos años ha dado paso a…
-date: '2021-12-08'
+date: '2021-12-08T23:59:59'
 authors:
 - roof77
 tags:

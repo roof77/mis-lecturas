@@ -2,7 +2,7 @@
 title: El padre
 summary: "La trilogía sobre la vida del aristócrata Patrick Melrose en un solo volumen. \r\n\r\nEl autor nos trae la crónica\
   \ de la vida de Patrick Melrose, retratada a lo…"
-date: '2014-06-09'
+date: '2014-06-09T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Ampliación del campo de batalla
 summary: Esta novela catapultada a la categoría de estandarte de una generación está protagonizada por un antihéroe que ha
   dejado de luchar, un ingeniero informático de…
-date: '2015-09-06'
+date: '2015-09-06T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Un amor
 summary: La historia de Un amor ocurre en La Escapa, un pequeño núcleo rural donde Nat, una joven e inexperta traductora,
   acaba de mudarse. Su casero, que le regala un…
-date: '2024-10-22'
+date: '2024-10-22T23:59:59'
 authors:
 - roof77
 tags:

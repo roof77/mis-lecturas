@@ -2,7 +2,7 @@
 title: 'Carsick: John Waters Hitchhikes Across America'
 summary: John Waters is putting his life on the line. Armed with wit, a pencil-thin mustache, and a cardboard sign that reads
   "I’m Not Psycho," he hitchhikes across…
-date: '2014-11-27'
+date: '2014-11-27T23:59:59'
 authors:
 - roof77
 tags:

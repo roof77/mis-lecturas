@@ -2,7 +2,7 @@
 title: Acércate
 summary: 'Amanda es una arquitecta de éxito felizmente casada, quien, un día, empieza a experimentar extraños fenómenos: una
   propuesta dirigida a su jefe es sustituida…'
-date: '2023-11-17'
+date: '2023-11-17T23:59:59'
 authors:
 - roof77
 tags:

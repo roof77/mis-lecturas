@@ -2,7 +2,7 @@
 title: 'Astro City #5: Héroes locales'
 summary: LOCAL HEROES kicks off with three stand- alone stories that reintroduce the heroes and villains of Astro City, followed
   by the 2-part tale "Dark Ages." The…
-date: '2026-02-27'
+date: '2026-02-27T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Harry Potter y la cámara secreta (Harry Potter, #2)'
 summary: Tras derrotar una vez más a lord Voldemort, su siniestro enemigo en Harry Potter y la piedra filosofal, Harry espera
   impacientemente en casa de sus…
-date: '2016-12-02'
+date: '2016-12-02T23:59:59'
 authors:
 - roof77
 tags:

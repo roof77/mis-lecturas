@@ -2,7 +2,7 @@
 title: Saint Cole
 summary: La vida, en efecto, son cuatro días. Cuatro días en la vida de un joven que trata de eludir su realidad a través
   del alcohol que a Noah Van Sciver le bastan y…
-date: '2026-05-02'
+date: '2026-05-02T23:59:59'
 authors:
 - roof77
 tags:

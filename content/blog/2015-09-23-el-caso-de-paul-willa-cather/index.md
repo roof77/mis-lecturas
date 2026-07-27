@@ -2,7 +2,7 @@
 title: El caso de Paul
 summary: Considered one of the best works of American literature of all time, this book explores the contradictions of many
   young people with an artistic vocation who…
-date: '2015-09-23'
+date: '2015-09-23T23:59:59'
 authors:
 - roof77
 tags:

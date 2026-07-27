@@ -2,7 +2,7 @@
 title: Capitán América. Civil war
 summary: 'Contiene Captain America 65TH Anniversary Special, v5, 15-24, Winter Soldier: Winter Kills, Captain America 601
   y Iron Man / Captain America: Casualties Of War…'
-date: '2025-11-25'
+date: '2025-11-25T23:59:59'
 authors:
 - roof77
 tags:

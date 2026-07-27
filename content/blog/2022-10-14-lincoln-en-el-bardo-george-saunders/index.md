@@ -2,7 +2,7 @@
 title: Lincoln en el Bardo
 summary: Febrero de 1862. En medio de la sangrienta guerra civil que divide al país en dos, el hijo de doce años del presidente
   Lincoln está gravemente enfermo. En…
-date: '2022-10-14'
+date: '2022-10-14T23:59:59'
 authors:
 - roof77
 tags:

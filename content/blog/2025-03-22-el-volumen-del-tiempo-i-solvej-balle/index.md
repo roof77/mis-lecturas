@@ -2,7 +2,7 @@
 title: El volumen del tiempo I
 summary: "Una deslumbrante exploración sobre la memoria, el amor, la soledad, la monotonía y la libertad de decisión.\r\n\r\
   \nTara Selter y su marido Thomas viven en…"
-date: '2025-03-22'
+date: '2025-03-22T23:59:58'
 authors:
 - roof77
 tags:

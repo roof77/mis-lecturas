@@ -2,7 +2,7 @@
 title: La chica descalza en la colina de los arándanos
 summary: En Blueberry Hill no hay arándanos. Y es solo una de las cosas que van mal en este pueblo. Dos chicas salen de casa
   en Navidad y nunca vuelven. Un búho en la…
-date: '2018-03-13'
+date: '2018-03-13T23:59:59'
 authors:
 - roof77
 tags:

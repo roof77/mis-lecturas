@@ -2,7 +2,7 @@
 title: Lo contrario de la soledad
 summary: La celebridad de Marina Keegan iba en aumento cuando, en mayo de 2012, se graduó magna cum laude en Yale. Una obra
   de teatro suya iba a estrenarse en el…
-date: '2018-09-09'
+date: '2018-09-09T23:59:59'
 authors:
 - roof77
 tags:

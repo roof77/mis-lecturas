@@ -2,7 +2,7 @@
 title: La sangre de la virgen
 summary: California. 1971. Un joven ambicioso trata de abrirse camino en la industria del cine de terror y bajo presupuesto.
   Dividido entre el desorden de su vida…
-date: '2024-03-04'
+date: '2024-03-04T23:59:59'
 authors:
 - roof77
 tags:

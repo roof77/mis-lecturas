@@ -2,7 +2,7 @@
 title: Sobre los acantilados de mármol
 summary: Novela visionaria y llena de simbolismo, Sobre los acantilados de mármol narra la destrucción de la Marina, un antiguo
   y civilizado país situado junto a las…
-date: '2014-10-02'
+date: '2014-10-02T23:59:59'
 authors:
 - roof77
 tags:

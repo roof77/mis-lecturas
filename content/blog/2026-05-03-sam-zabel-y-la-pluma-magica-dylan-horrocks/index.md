@@ -2,7 +2,7 @@
 title: Sam Zabel y la pluma mágica
 summary: El autor Sam Zabel no ha dibujado un cómic en años. Atrapado en una pesadilla de desesperación y bloqueo creativo,
   Sam pasa los días escribiendo historias de…
-date: '2026-05-03'
+date: '2026-05-03T23:59:59'
 authors:
 - roof77
 tags:

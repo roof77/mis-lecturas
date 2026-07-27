@@ -2,7 +2,7 @@
 title: Los reyes del jaco
 summary: En los suburbios pobres de la ciudad con mayor índice de criminalidad de los Estados Unidos, los traficantes de droga
   se pavonean al volante de Cadillacs de…
-date: '2015-07-28'
+date: '2015-07-28T23:59:59'
 authors:
 - roof77
 tags:

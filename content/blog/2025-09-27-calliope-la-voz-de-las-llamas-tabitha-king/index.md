@@ -2,7 +2,7 @@
 title: Calliope. La voz de las llamas
 summary: "Una novela gótica sureña, escrita por Michael McDowell, el maestro indiscutible del gótico sureño autor de la saga\
   \ Blackwater.\r\n\r\nUna novela gótica sureña…"
-date: '2025-09-27'
+date: '2025-09-27T23:59:59'
 authors:
 - roof77
 tags:

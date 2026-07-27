@@ -2,7 +2,7 @@
 title: Para acabar con Eddy Bellegueule
 summary: Salí corriendo de repente. Sólo me dio tiempo a oír a mi madre, que decía Pero ¿qué hace ese idiota? No quería estar
   con ellos, me negaba a compartir con ellos…
-date: '2016-01-21'
+date: '2016-01-21T23:59:59'
 authors:
 - roof77
 tags:

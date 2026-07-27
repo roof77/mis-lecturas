@@ -2,7 +2,7 @@
 title: Pelea de gallos
 summary: Pelea de gallos narra desde diferentes voces el hogar, ese espacio que construye –­o destruye– a las personas, aborda
   los vínculos familiares y sus códigos…
-date: '2018-09-03'
+date: '2018-09-03T23:59:59'
 authors:
 - roof77
 tags:

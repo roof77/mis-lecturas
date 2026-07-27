@@ -2,7 +2,7 @@
 title: 'Lumberjanes: Up All Night (Lumberjanes, #1)'
 summary: Jo, April, Mal, Molly and Ripley are five best pals determined to have an awesome summer together...and they’re not
   gonna let any insane quest or an array of…
-date: '2026-07-12'
+date: '2026-07-12T23:59:52'
 authors:
 - roof77
 tags:

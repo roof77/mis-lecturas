@@ -2,7 +2,7 @@
 title: Akira, No. 1
 summary: ¡Vuelve el clásico que desencadenó la mangamanía en Europa y América! Una ocasión ideal para descubrir -o redescubrir-
   el manga que lanzó a Katsuhiro Otomo a…
-date: '2024-07-08'
+date: '2024-07-08T23:59:59'
 authors:
 - roof77
 tags:

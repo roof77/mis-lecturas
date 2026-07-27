@@ -2,7 +2,7 @@
 title: En estado salvaje
 summary: 'Son diez, y al despertarse una mañana descubren el horror: alguien las ha drogado y trasladado a un lugar siniestro
   en medio de la nada. Están encerradas en…'
-date: '2017-09-11'
+date: '2017-09-11T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Carol
 summary: Claire Morgan, una autora desconocida y que eligió permanecer en el más absoluto anonimato, publicó en 1952 una novela,
   El precio de la sal, notablemente audaz…
-date: '2018-05-01'
+date: '2018-05-01T23:59:59'
 authors:
 - roof77
 tags:

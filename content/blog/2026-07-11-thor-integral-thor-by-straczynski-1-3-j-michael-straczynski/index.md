@@ -2,7 +2,7 @@
 title: 'Thor Integral (Thor by Straczynski, #1-3)'
 summary: "Thor v3, 1-12, 600-603 y Giant-Size Thor Finale USA.\r\nEl Hijo de Odín vuelve a la vida para protagonizar una fabulosa\
   \ etapa con un equipo de absoluto lujo…"
-date: '2026-07-11'
+date: '2026-07-11T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Experimental film
 summary: Lois Cairns, una exprofesora de cine, desempleada y al borde de la depresión, descubre la existencia y las películas
   perdidas de quien se cree que es la…
-date: '2024-08-27'
+date: '2024-08-27T23:59:59'
 authors:
 - roof77
 tags:

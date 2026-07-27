@@ -2,7 +2,7 @@
 title: Perro come perro
 summary: Troy Cameron, criminal ampliamente respetado en los bajos fondos de Los Ángeles, embarca a dos viejos camaradas del
   reformatorio en un golpe de los que…
-date: '2015-06-27'
+date: '2015-06-27T23:59:59'
 authors:
 - roof77
 tags:

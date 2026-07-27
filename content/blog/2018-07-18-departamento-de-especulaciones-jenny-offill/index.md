@@ -2,7 +2,7 @@
 title: Departamento de especulaciones
 summary: Cuando se conocieron eran jóvenes y estaban llenos de esperanza. Aunque ambos vivían en Nueva York, solían enviarse
   cartas en las que imaginaban cómo sería su…
-date: '2018-07-18'
+date: '2018-07-18T23:59:59'
 authors:
 - roof77
 tags:

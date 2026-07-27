@@ -2,7 +2,7 @@
 title: Antes vivíamos aquí
 summary: Eve y Charlie acaban de mudarse a un viejo caserón en un entorno boscoso y aislado. Un día, mientras Charlie está
   fuera, llaman a la puerta. Al otro lado hay…
-date: '2025-11-20'
+date: '2025-11-20T23:59:59'
 authors:
 - roof77
 tags:

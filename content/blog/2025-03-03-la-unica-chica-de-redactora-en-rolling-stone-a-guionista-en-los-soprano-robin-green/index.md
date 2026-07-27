@@ -1,7 +1,7 @@
 ---
 title: 'LA ÚNICA CHICA: De redactora en Rolling Stone a guionista en Los Soprano'
 summary: 'Reseña de lectura de «LA ÚNICA CHICA: De redactora en Rolling Stone a guionista en Los Soprano».'
-date: '2025-03-03'
+date: '2025-03-03T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Maison Ikkoku tomo 4 (Maison Ikkoku Big, #4)'
 summary: "Tomo 4 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
-date: '2024-06-16'
+date: '2024-06-16T23:59:59'
 authors:
 - roof77
 tags:

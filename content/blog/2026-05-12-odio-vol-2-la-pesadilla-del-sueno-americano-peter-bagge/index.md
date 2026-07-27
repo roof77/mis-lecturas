@@ -2,7 +2,7 @@
 title: 'Odio Vol. 2: La pesadilla del sueno Americano!'
 summary: 'ODIO (HATE): 1991 HARVEY WINNER Best Cartoonist, Best New Series The bestselling alternative comic of the 1990’s,
   Odio (Hate) chronicles the misadventures…'
-date: '2026-05-12'
+date: '2026-05-12T23:59:58'
 authors:
 - roof77
 tags:

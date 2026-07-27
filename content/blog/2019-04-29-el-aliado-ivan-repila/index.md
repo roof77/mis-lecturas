@@ -2,7 +2,7 @@
 title: El aliado
 summary: Al conocer a una importante activista del movimiento feminista, el protagonista de esta novela, un hombre contemporáneo
   que se considera igualitario, se da…
-date: '2019-04-29'
+date: '2019-04-29T23:59:59'
 authors:
 - roof77
 tags:

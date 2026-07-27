@@ -2,7 +2,7 @@
 title: 'El Carnicero de Dioses (Thor de Jason Aaron, #1)'
 summary: Comienza la más aclamada etapa actual de Thor! A lo largo de los siglos, los dioses han estado desapareciendo, lo
   que condena al caos a sus adoradores. Ahora…
-date: '2025-11-03'
+date: '2025-11-03T23:59:59'
 authors:
 - roof77
 tags:

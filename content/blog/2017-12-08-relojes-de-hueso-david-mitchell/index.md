@@ -2,7 +2,7 @@
 title: Relojes de hueso
 summary: Después de una pelea con su madre, Holly huye de su hogar. Mientras se adentra en la campiña inglesa, una extraña
   se cruza en su camino y le solicita «asilo»…
-date: '2017-12-08'
+date: '2017-12-08T23:59:59'
 authors:
 - roof77
 tags:

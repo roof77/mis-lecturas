@@ -2,7 +2,7 @@
 title: Discothèque
 summary: Discothèque es una comedia negra y coral. La parodia de géneros, el culebrón, los fantasmas de Shakespeare y los
   conflictos familiares de la tragedia clásica…
-date: '2014-06-23'
+date: '2014-06-23T23:59:59'
 authors:
 - roof77
 tags:

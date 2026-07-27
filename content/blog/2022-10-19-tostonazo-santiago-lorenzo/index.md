@@ -2,7 +2,7 @@
 title: Tostonazo
 summary: Un luminoso canto a la vida contra el aburrimiento. Leer esta novela es el mejor acto de resistencia. Esta es una
   novela sobre quienes hacen la vida posible y…
-date: '2022-10-19'
+date: '2022-10-19T23:59:59'
 authors:
 - roof77
 tags:

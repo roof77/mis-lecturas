@@ -2,7 +2,7 @@
 title: 'Harry Potter y el prisionero de Azkaban (Harry Potter, #3)'
 summary: Por la cicatriz que lleva en la frente, sabemos que Harry Potter no es un niño como los demás, sino el héroe que
   venció a lord Voldemort, el mago más temible y…
-date: '2016-12-07'
+date: '2016-12-07T23:59:59'
 authors:
 - roof77
 tags:

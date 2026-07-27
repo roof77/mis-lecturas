@@ -2,7 +2,7 @@
 title: El coleccionista
 summary: Frederick es un solitario burócrata municipal que colecciona mariposas. Miranda es una radiante e inteligente estudiante
   de arte. Frederick la secuestra y la…
-date: '2015-07-23'
+date: '2015-07-23T23:59:59'
 authors:
 - roof77
 tags:

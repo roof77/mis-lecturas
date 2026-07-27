@@ -2,7 +2,7 @@
 title: 'Dr. Slump Ultimate Edition, Vol. 04 (Dr. Slump Kanzenban, #4)'
 summary: Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de
   Villa Pingüino. Pero eso no es nada…
-date: '2025-11-10'
+date: '2025-11-10T23:59:59'
 authors:
 - roof77
 tags:

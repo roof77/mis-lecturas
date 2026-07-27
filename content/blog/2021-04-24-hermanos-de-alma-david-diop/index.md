@@ -2,7 +2,7 @@
 title: Hermanos de alma
 summary: Alfa Ndiaye es senegalés y ha acabado combatiendo con el ejército francés en las trincheras de la Primera Guerra
   Mundial. En el mismo regimiento también lucha…
-date: '2021-04-24'
+date: '2021-04-24T23:59:59'
 authors:
 - roof77
 tags:

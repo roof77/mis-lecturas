@@ -2,7 +2,7 @@
 title: Inteligencia emocional. Por qué es más importante que el cociente intelectual
 summary: Đôi khi chúng ta đã đồng nhất trí tuệ với chỉ số IQ. Đó là cách hiểu phiến diện bởi chúng ta chỉ chú trọng tới trí
   tuệ lí trí mà quên mất rằng các xúc cảm cũng…
-date: '2015-01-10'
+date: '2015-01-10T23:59:59'
 authors:
 - roof77
 tags:

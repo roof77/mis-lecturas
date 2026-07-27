@@ -2,7 +2,7 @@
 title: Territorio Lovecraft
 summary: Chicago, 1954. Siguiendo la pista de su padre desaparecido de forma misteriosa, el joven de 22 años Atticus Turner
   se embarca en un road trip hasta la mágica y…
-date: '2019-04-13'
+date: '2019-04-13T23:59:59'
 authors:
 - roof77
 tags:

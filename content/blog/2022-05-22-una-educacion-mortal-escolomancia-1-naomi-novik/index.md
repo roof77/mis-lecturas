@@ -2,7 +2,7 @@
 title: 'Una Educacion Mortal (Escolomancia, #1)'
 summary: "Entra en una escuela de magia diferente a cualquiera que hayas conocido antes. \r\nEn ella no hay profesores ni\
   \ vacaciones, las amistades son pura estrategia y…"
-date: '2022-05-22'
+date: '2022-05-22T23:59:59'
 authors:
 - roof77
 tags:

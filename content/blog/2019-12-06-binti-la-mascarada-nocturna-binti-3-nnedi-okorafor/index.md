@@ -2,7 +2,7 @@
 title: 'Binti. La Mascarada Nocturna (Binti, #3)'
 summary: Binti, que había vuelto a su planeta pensando que el conflicto entre medusas y khoush había concluido, verá cómo
   las llamas de una vieja rivalidad se avivan de…
-date: '2019-12-06'
+date: '2019-12-06T23:59:59'
 authors:
 - roof77
 tags:

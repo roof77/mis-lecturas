@@ -2,7 +2,7 @@
 title: Un grito de amor desde el centro del mundo
 summary: "La conmovedora historia de amor que ha enamorado a millones de lectores de todo el mundo.\r\n\r\nSakutarô y Aki\
   \ se conocen en la escuela de una ciudad provincial…"
-date: '2022-09-06'
+date: '2022-09-06T23:59:59'
 authors:
 - roof77
 tags:

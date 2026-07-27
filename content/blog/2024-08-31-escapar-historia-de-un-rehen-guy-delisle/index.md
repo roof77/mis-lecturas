@@ -2,7 +2,7 @@
 title: Escapar. Historia de un rehén
 summary: "Christophe André, miembro de una ONG médica en la región del Cáucaso, es secuestrado durante su primera misión humanitaria\
   \ en 1997. \r\nTras numerosos encuentros…"
-date: '2024-08-31'
+date: '2024-08-31T23:59:59'
 authors:
 - roof77
 tags:

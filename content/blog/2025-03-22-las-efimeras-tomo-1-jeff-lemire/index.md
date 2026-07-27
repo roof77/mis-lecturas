@@ -1,7 +1,7 @@
 ---
 title: Las efímeras. Tomo 1
 summary: Reseña de lectura de «Las efímeras. Tomo 1».
-date: '2025-03-22'
+date: '2025-03-22T23:59:59'
 authors:
 - roof77
 tags:

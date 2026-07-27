@@ -2,7 +2,7 @@
 title: Sukkwan Island
 summary: Una isla salvaje en el sur de Alaska, a la que solamente puede accederse en barco o hidroavión, repleta de frondosos
   bosques húmedos y montañas escarpadas…
-date: '2015-11-30'
+date: '2015-11-30T23:59:59'
 authors:
 - roof77
 tags:

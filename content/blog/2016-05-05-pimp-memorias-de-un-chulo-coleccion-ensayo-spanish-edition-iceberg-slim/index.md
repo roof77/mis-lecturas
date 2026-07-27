@@ -2,7 +2,7 @@
 title: Pimp, memorias de un chulo (Colección ensayo) (Spanish Edition)
 summary: A finales de 1960 y principios de los 70, si uno quería un libro de Iceberg Slim, el último antihéroe del gueto,
   no podía acudir a una librería sino a una…
-date: '2016-05-05'
+date: '2016-05-05T23:59:59'
 authors:
 - roof77
 tags:

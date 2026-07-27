@@ -2,7 +2,7 @@
 title: Marcelín
 summary: 'Marcelín es un niño como cualquier otro, pero padece una curiosa molestia: se sonroja sin ningún motivo. Y no sabe
   por qué. Un buen día conoce a Renato, que…'
-date: '2018-03-11'
+date: '2018-03-11T23:59:59'
 authors:
 - roof77
 tags:

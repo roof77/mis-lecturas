@@ -2,7 +2,7 @@
 title: 'Cosecha roja (El agente de la Continental, #1)'
 summary: Cosecha Roja desarrolla la violenta historia de un detective privado que se propone limpiar de gangsters una pequeña
   ciudad minera. En ella se compendian ya…
-date: '2015-03-30'
+date: '2015-03-30T23:59:58'
 authors:
 - roof77
 tags:

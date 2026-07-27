@@ -2,7 +2,7 @@
 title: Polvazo
 summary: "Un delirio tan despiadado como tierno.\r\n\r\nJimmie llega un día más a su lugar de  un call center de una agencia\
   \ de viajes londinense donde van a parar, como a…"
-date: '2025-03-30'
+date: '2025-03-30T23:59:59'
 authors:
 - roof77
 tags:

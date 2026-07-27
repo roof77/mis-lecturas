@@ -2,7 +2,7 @@
 title: La máquina del tiempo
 summary: "—Hace mucho tiempo tuve la idea de una máquina…\r\n—¡Para viajar en el tiempo! —exclamó el jovencito.\r\n—Y podría\
   \ viajar absolutamente en cualquier dirección en…"
-date: '2014-01-20'
+date: '2014-01-20T23:59:59'
 authors:
 - roof77
 tags:

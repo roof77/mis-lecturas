@@ -2,7 +2,7 @@
 title: 'Lili Marleen: Canción de amor y muerte (Biorritmos) (Spanish Edition)'
 summary: When Nazi composer Norbert Schultze put the words of a poem written in the trenches of World War I to music, “Lili
   Marleen,” the musical sensation of the…
-date: '2014-07-11'
+date: '2014-07-11T23:59:59'
 authors:
 - roof77
 tags:

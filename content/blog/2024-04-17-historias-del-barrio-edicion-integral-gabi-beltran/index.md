@@ -2,7 +2,7 @@
 title: Historias del barrio - Edición integral
 summary: Palma, Mallorca, años 80. Cada esquina del barrio chino tiene una historia que contar. Gabi, el aún adolescente protagonista,
   deambula por las calles de su…
-date: '2024-04-17'
+date: '2024-04-17T23:59:58'
 authors:
 - roof77
 tags:

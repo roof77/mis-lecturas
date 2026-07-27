@@ -2,7 +2,7 @@
 title: 'El libro de la señorita Buncle (Barbara Buncle #1)'
 summary: El señor Abbott, editor londinense, recibe un manuscrito firmado por un tal "John Smith" que cuenta la vida de un
   pueblecito inglés inesperadamente trastornado…
-date: '2014-05-06'
+date: '2014-05-06T23:59:59'
 authors:
 - roof77
 tags:

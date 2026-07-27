@@ -2,7 +2,7 @@
 title: 'Sex Criminals #6: Coming On'
 summary: After their narrow getaway from the Sex Police, Jon and Suzie are learning that this is “just the tip” of a massive
   iceberg. And what happens after the rush of…
-date: '2018-08-20'
+date: '2018-08-20T23:59:56'
 authors:
 - roof77
 tags:

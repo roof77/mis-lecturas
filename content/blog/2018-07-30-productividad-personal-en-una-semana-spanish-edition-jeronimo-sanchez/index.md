@@ -2,7 +2,7 @@
 title: Productividad personal en una semana (Spanish Edition)
 summary: Para alcanzar nuestras metas profesionales y personales debemos desear realmente mejorar nuestra forma de trabajar,
   aumentar el grado de control sobre lo que…
-date: '2018-07-30'
+date: '2018-07-30T23:59:59'
 authors:
 - roof77
 tags:

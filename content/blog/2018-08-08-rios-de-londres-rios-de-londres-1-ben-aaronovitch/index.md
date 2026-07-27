@@ -2,7 +2,7 @@
 title: 'Ríos de Londres (Rios de Londres #1)'
 summary: El joven agente de la Policía Metropolitana de Londres Peter Grant era un agente novato más hasta que un día, durante
   la investigación de un terrible…
-date: '2018-08-08'
+date: '2018-08-08T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'El señor de los djinn (Dead Djinn Universe, #1)'
 summary: "El Señor de los Djinn ha recibido el premio Nebula a mejor novela en 2021, el premio Locus como mejor primera novela\
   \ y el premio Alex.\r\n\r\nNadie mejor que Fatma…"
-date: '2022-08-05'
+date: '2022-08-05T23:59:59'
 authors:
 - roof77
 tags:

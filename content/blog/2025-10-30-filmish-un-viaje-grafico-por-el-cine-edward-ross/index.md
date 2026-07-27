@@ -2,7 +2,7 @@
 title: 'Filmish: Un viaje gráfico por el cine'
 summary: Este libro es un viaje apasionante por la historia del cine en siete  capítulos temáticos. Un original ensayo gráfico
   que sirve para iluminar  las ideas que se…
-date: '2025-10-30'
+date: '2025-10-30T23:59:59'
 authors:
 - roof77
 tags:

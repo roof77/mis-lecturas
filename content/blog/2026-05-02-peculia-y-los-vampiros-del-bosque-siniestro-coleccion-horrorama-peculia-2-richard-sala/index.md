@@ -2,7 +2,7 @@
 title: 'Peculia y los vampiros del Bosque Siniestro (Colección Horrorama: Peculia, #2)'
 summary: "Cae la noche y las niñeras locales necesitan un canguro extra.\r\nEsa extraña nueva familia está esperando conocer\
   \ sangre fresca... Una por cada miembro de la…"
-date: '2026-05-02'
+date: '2026-05-02T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Todos los besos del mundo
 summary: Todos los besos del mundo es una selección de los mejores cuentos que Félix Romeo publicó a lo largo de casi veinte
   años en distintos medios y que no habían…
-date: '2014-04-27'
+date: '2014-04-27T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: La cantina de medianoche 2
 summary: C’è un piccolo ristorante, in un vicoletto di Shinjuku, a Tokyo. Apre a mezzanotte e chiude alle sette del mattino.
   Sul menù c’è un solo piatto, ma i clienti…
-date: '2026-03-22'
+date: '2026-03-22T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Kentucky seco
 summary: Kentucky seco es el bourbon que antiguamente se destilaba de forma clandestina en esta región del sur de los Estados
   Unidos y el título de los nueve relatos…
-date: '2020-07-28'
+date: '2020-07-28T23:59:59'
 authors:
 - roof77
 tags:

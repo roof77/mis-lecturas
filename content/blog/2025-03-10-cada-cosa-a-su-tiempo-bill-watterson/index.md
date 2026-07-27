@@ -2,7 +2,7 @@
 title: Cada cosa a su tiempo
 summary: Zounds! Spaceman Spiff, Stupendous Man, the ferocious tiger Hobbes, and the rest of Calvin's riotous imagination
   are all included in The Days Are Just…
-date: '2025-03-10'
+date: '2025-03-10T23:59:59'
 authors:
 - roof77
 tags:

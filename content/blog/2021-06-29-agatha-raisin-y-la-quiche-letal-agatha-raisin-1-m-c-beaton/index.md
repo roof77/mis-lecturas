@@ -2,7 +2,7 @@
 title: 'Agatha Raisin y la quiche letal (Agatha Raisin, #1)'
 summary: 'Prepárate para degustar una novela con ingredientes de primera: un cadáver al estilo Agatha Christie, una protagonista
   exquisita y una pizca de sentido del…'
-date: '2021-06-29'
+date: '2021-06-29T23:59:59'
 authors:
 - roof77
 tags:

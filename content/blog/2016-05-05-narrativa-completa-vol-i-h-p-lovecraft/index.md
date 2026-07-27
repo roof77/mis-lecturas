@@ -2,7 +2,7 @@
 title: Narrativa completa (vol. I)
 summary: "Edición de Juan Antonio Molina Foix. Traducción de Juan Antonio Molina Foix, Francisco Torres Oliver y José María\
   \ Nebreda \r\n\r\nHoward Phillips Lovecraft…"
-date: '2016-05-05'
+date: '2016-05-05T23:59:58'
 authors:
 - roof77
 tags:

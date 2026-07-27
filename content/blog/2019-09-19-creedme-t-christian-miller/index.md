@@ -2,7 +2,7 @@
 title: Creedme
 summary: "Premio Pulitzer en la categoría de Reportaje Explicativo en 2016\r\n\r\nUna investigación sobre varios casos de\
   \ violación en Estados Unidos que muestra los…"
-date: '2019-09-19'
+date: '2019-09-19T23:59:59'
 authors:
 - roof77
 tags:

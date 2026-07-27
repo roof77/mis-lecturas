@@ -2,7 +2,7 @@
 title: Manor
 summary: Manor, un joven marinero, rescata al pequeño Har de morir ahogado. A partir de ese momento, Manor y Har se enamoran
   y comienzan una relación de estrecha…
-date: '2018-02-07'
+date: '2018-02-07T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: El hombre sin nombre
 summary: Nanashi (nombre que significa anónimo o sin nombre) ha llevado una vida de violencia dentro del sindicato de la Grulla.
   Es un alcohólico rehabilitado a quien…
-date: '2024-02-06'
+date: '2024-02-06T23:59:59'
 authors:
 - roof77
 tags:

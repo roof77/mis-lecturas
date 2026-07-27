@@ -2,7 +2,7 @@
 title: Hombres sin mujeres
 summary: 'Haruki Murakami ofrece a los lectores siete relatos en torno al aislamiento y la soledad que preceden o siguen a
   la relación amorosa: hombres que han perdido a…'
-date: '2015-04-15'
+date: '2015-04-15T23:59:59'
 authors:
 - roof77
 tags:

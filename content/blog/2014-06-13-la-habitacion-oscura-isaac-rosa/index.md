@@ -2,7 +2,7 @@
 title: La habitación oscura
 summary: 'Un grupo de jóvenes decide construir una «habitación oscura»: un lugar cerrado donde nunca entra la luz. Al principio
   la utilizan para experimentar nuevas…'
-date: '2014-06-13'
+date: '2014-06-13T23:59:59'
 authors:
 - roof77
 tags:

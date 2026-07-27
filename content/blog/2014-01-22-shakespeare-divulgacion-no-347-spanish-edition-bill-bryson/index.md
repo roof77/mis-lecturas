@@ -2,7 +2,7 @@
 title: Shakespeare (DIVULGACIÓN nº 347) (Spanish Edition)
 summary: '"Bill Bryson, célebre en todo el mundo por su Una breve historia de casi todo, aborda ahora un enigma mayúsculo:
   la personalidad de William Shakespeare. De…'
-date: '2014-01-22'
+date: '2014-01-22T23:59:59'
 authors:
 - roof77
 tags:

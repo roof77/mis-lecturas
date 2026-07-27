@@ -2,7 +2,7 @@
 title: 'Badasstronauts: Paletos espaciales'
 summary: "Una sátira brillante sobre la exploración espacial y el fracaso estadounidense.\r\n\r\nMelville, Carolina del Sur,\
   \ se ha quedado sin dinero, sin empleos, sin…"
-date: '2025-05-21'
+date: '2025-05-21T23:59:59'
 authors:
 - roof77
 tags:

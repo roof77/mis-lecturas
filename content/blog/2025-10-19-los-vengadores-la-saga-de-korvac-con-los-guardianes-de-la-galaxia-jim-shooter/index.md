@@ -2,7 +2,7 @@
 title: 'Los Vengadores: La Saga de Korvac ¡Con los Guardianes de la Galaxia!'
 summary: "Edición corregida.\r\nKorvac ha llegado desde el siglo XXXI para perseguir a los Guardianes de la Galaxia y a sus\
   \ nuevos aliados: Los Vengadores. El Hombre…"
-date: '2025-10-19'
+date: '2025-10-19T23:59:59'
 authors:
 - roof77
 tags:

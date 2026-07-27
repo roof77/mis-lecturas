@@ -2,7 +2,7 @@
 title: Caminar por aguas cristalinas en una piscina pintada de negro
 summary: Reconocida figura de la contracultura estadounidense en la década de 1970, Cookie Mueller vivió durante años relegada
   a la cómoda pero injusta posición…
-date: '2026-03-11'
+date: '2026-03-11T23:59:59'
 authors:
 - roof77
 tags:

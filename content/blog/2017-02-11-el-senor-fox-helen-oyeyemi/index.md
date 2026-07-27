@@ -2,7 +2,7 @@
 title: El señor Fox
 summary: Los amores en los cuentos de hadas siempre acaban en boda; al menos en los cuentos que no quieren complicarse demasiado.
   Éste no es el caso de la historia del…
-date: '2017-02-11'
+date: '2017-02-11T23:59:59'
 authors:
 - roof77
 tags:

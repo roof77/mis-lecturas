@@ -2,7 +2,7 @@
 title: Fantasmas
 summary: Cuando Jennifer Paige y su hermana adolescente Lisa regresan a Snowfield, donde la primera ejerce su profesión de
   médico, el pequeño pueblo de montaña aparece…
-date: '2014-08-17'
+date: '2014-08-17T23:59:59'
 authors:
 - roof77
 tags:

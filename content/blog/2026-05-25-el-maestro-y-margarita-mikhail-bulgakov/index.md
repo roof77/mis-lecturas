@@ -2,7 +2,7 @@
 title: El maestro y Margarita
 summary: Una tarde de primavera, el Diablo sale de las sombras hacia Moscú arrastrando el fuego y el caos con él. La sátira
   fantástica, divertida y devastadora de la…
-date: '2026-05-25'
+date: '2026-05-25T23:59:59'
 authors:
 - roof77
 tags:

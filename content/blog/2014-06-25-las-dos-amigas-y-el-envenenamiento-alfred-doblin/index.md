@@ -2,7 +2,7 @@
 title: Las dos amigas y el envenenamiento
 summary: Inspirada en un proceso que saltó a las páginas de los periódicos en los años 20 del siglo pasado, Las dos amigas
   y el envenenamiento (publicada por primera…
-date: '2014-06-25'
+date: '2014-06-25T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Chicas felizmente casadas (Las chicas de campo, #3)'
 summary: A mitad de los años cincuenta del siglo pasado, Kate y Baba, dos amigas tan distintas como complementarias, vivieron
   su infancia en los bellos paisajes rurales…
-date: '2019-08-12'
+date: '2019-08-12T23:59:59'
 authors:
 - roof77
 tags:

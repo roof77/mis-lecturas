@@ -2,7 +2,7 @@
 title: Fantasmas
 summary: Catrina y su familia se mudan a la costa norte de California porque la hermana de Catrina está enferma. Una vez en
   su nuevo hogar, un vecino les cuenta a las…
-date: '2021-09-29'
+date: '2021-09-29T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: El protegido
 summary: Esta es una novela policiaca, de las buenas, de las que no puedes dejar de leer porque te atrapan desde el principio;
   pero también es una gran novela sobre la…
-date: '2015-12-19'
+date: '2015-12-19T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Proyecto Hail Mary
 summary: "La nueva novela del autor de El marciano, que se convertirá en una película protagonizada y producida por Ryan Gosling.\r\
   \n\r\nUN ÚNICO ASTRONAUTA.\r\n\r\nUNA MISIÓN…"
-date: '2025-01-24'
+date: '2025-01-24T23:59:59'
 authors:
 - roof77
 tags:

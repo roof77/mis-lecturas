@@ -2,7 +2,7 @@
 title: Marvel Omnibus. Daredevil de Ed Brubaker y Michael Lark 2
 summary: El formidable equipo creativo formado por Ed Brubaker, el hombre que mató al Capitán América, y Michael Lark (Gotham
   Central) se une para dejar su marca en una…
-date: '2026-07-07'
+date: '2026-07-07T23:59:58'
 authors:
 - roof77
 tags:

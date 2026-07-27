@@ -2,7 +2,7 @@
 title: Hombres buenos
 summary: "Una novela apasionante que narra la heroica aventura de quienes se atrevieron a cambiar el mundo con libros.\r\n\
   \r\n«En tiempos de oscuridad siempre hubo hombres…"
-date: '2015-05-26'
+date: '2015-05-26T23:59:59'
 authors:
 - roof77
 tags:

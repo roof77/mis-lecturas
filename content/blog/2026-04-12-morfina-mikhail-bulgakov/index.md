@@ -2,7 +2,7 @@
 title: Morfina
 summary: En vida de Mijaíl Bulgákov difícilmente alguien se habría atrevido a considerarlo un «clásico» de la literatura rusa,
   ya que, después de haber gozado de un…
-date: '2026-04-12'
+date: '2026-04-12T23:59:59'
 authors:
 - roof77
 tags:

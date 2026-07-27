@@ -2,7 +2,7 @@
 title: Picnic en Hanging Rock
 summary: Febrero de 1900. Un grupo de alumnas del selecto colegio Appleyard para señoritas se dispone a celebrar un picnic
   el día de San Valentín. Lo que empieza siendo…
-date: '2014-02-24'
+date: '2014-02-24T23:59:59'
 authors:
 - roof77
 tags:

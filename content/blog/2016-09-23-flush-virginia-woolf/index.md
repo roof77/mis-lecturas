@@ -2,7 +2,7 @@
 title: Flush
 summary: Flush es un cocker spaniel de orejas largas, cola ancha y unos «ojos atónitos color avellana». A los pocos meses
   de su nacimiento es regalado a la famosa…
-date: '2016-09-23'
+date: '2016-09-23T23:59:59'
 authors:
 - roof77
 tags:

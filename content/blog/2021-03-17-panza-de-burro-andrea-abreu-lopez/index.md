@@ -2,7 +2,7 @@
 title: Panza de burro
 summary: «Reconozco que al principio, cuando Panza de burro solo había crecido unos capitulitos, pensé que sería una novela
   sencilla y hermosa que abriría un hachazo en…
-date: '2021-03-17'
+date: '2021-03-17T23:59:59'
 authors:
 - roof77
 tags:

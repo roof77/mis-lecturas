@@ -2,7 +2,7 @@
 title: California Rocket Fuel
 summary: California Rocket Fuel es la historia de una consulta al psicólogo/psiquiatra. El relato ilustrado del trastorno
   bipolar del protagonista, con sus altibajos…
-date: '2025-02-13'
+date: '2025-02-13T23:59:59'
 authors:
 - roof77
 tags:

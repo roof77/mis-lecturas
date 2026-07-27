@@ -2,7 +2,7 @@
 title: 'Mindhunter: Cazador de mentes'
 summary: Es la historia, contada por él mismo, de John Douglas, el hombre que revolucionó las técnicas para estudiar las mentes
   de los criminales en serie. Durante…
-date: '2018-01-17'
+date: '2018-01-17T23:59:59'
 authors:
 - roof77
 tags:

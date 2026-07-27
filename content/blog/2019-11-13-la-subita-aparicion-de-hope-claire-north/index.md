@@ -2,7 +2,7 @@
 title: La súbita aparición de Hope
 summary: «Todo el mundo se olvida de mí. Primero de mi cara, después de mi voz, y por último de las consecuencias de mis acciones.
   Así que escucha. Recuérdame.» Mi…
-date: '2019-11-13'
+date: '2019-11-13T23:59:59'
 authors:
 - roof77
 tags:

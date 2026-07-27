@@ -2,7 +2,7 @@
 title: Pioneros (Minus nº 39) (Spanish Edition)
 summary: Situada en una pequeña localidad de Nebraska a finales del siglo XIX, Pioneros (1913) relata una historia de inmigración
   y supervivencia cuya figura central es…
-date: '2015-10-15'
+date: '2015-10-15T23:59:59'
 authors:
 - roof77
 tags:

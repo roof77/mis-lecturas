@@ -2,7 +2,7 @@
 title: La primera vez que vi un fantasma
 summary: Los fantasmas que atraviesan este libro han tomado forma de historias. Habitan en un avejentado hotel de carretera
   o en el cuerpo de una gata embarazada, se…
-date: '2025-01-03'
+date: '2025-01-03T23:59:59'
 authors:
 - roof77
 tags:

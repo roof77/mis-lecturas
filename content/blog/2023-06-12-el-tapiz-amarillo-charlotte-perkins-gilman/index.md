@@ -2,7 +2,7 @@
 title: El tapiz amarillo
 summary: Charlotte Anna Perkins , fue una intelectual norteamericana multidisciplinar, muy activa en defensa de los derechos
   civiles de las mujeres entre finales de…
-date: '2023-06-12'
+date: '2023-06-12T23:59:59'
 authors:
 - roof77
 tags:

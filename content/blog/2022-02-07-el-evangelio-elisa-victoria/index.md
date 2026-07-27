@@ -2,7 +2,7 @@
 title: El evangelio
 summary: «Mundo maldito, llévame a mí si quieres que ya estoy podrida de todas formas pero no me chafes a Alberto, a Alberto
   déjamelo tranquilo dando saltos en su casa…
-date: '2022-02-07'
+date: '2022-02-07T23:59:59'
 authors:
 - roof77
 tags:

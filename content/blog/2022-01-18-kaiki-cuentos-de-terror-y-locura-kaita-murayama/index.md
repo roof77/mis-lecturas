@@ -2,7 +2,7 @@
 title: 'Kaiki: Cuentos de terror y locura'
 summary: Hasta la introducción de los ideogramas chinos en el siglo VI, el japonés era una lengua oral que no tenía escritura.
   Se trata, seguramente, del país con la…
-date: '2022-01-18'
+date: '2022-01-18T23:59:59'
 authors:
 - roof77
 tags:

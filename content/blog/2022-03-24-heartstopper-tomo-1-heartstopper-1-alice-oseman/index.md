@@ -2,7 +2,7 @@
 title: 'Heartstopper, Tomo 1 (Heartstopper, #1)'
 summary: "Un chico conoce a otro.\r\nLos chicos se vuelven amigos.\r\nY luego se enamoran.\r\n\r\nCharlie y Nick van al mismo\
   \ colegio, aunque nunca se habían cruzado hasta el…"
-date: '2022-03-24'
+date: '2022-03-24T23:59:59'
 authors:
 - roof77
 tags:

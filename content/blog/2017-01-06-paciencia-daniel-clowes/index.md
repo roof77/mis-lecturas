@@ -2,7 +2,7 @@
 title: Paciencia
 summary: Paciencia significa el regreso del autor más influyente de las últimas décadas, tras más de cinco años de silencio.
   El multipremiado autor de Ghost World y…
-date: '2017-01-06'
+date: '2017-01-06T23:59:59'
 authors:
 - roof77
 tags:

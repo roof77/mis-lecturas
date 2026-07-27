@@ -2,7 +2,7 @@
 title: Akira, No. 4
 summary: Tokio se encuentra en un estado post apocalíptico. La respuesta para detener a Akira puede estar en manos de la misteriosa
   Lady Miyako, miembro poderoso de la…
-date: '2024-07-11'
+date: '2024-07-11T23:59:59'
 authors:
 - roof77
 tags:

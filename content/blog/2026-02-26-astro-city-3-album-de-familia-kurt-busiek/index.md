@@ -2,7 +2,7 @@
 title: 'Astro City #3: Album de familia'
 summary: "¿CÓMO CUIDAR DE TU FAMILIA EN UNA CIUDAD DE SUPERHÉROES Y PODERES EXTRAÑOS? \r\nLa vida en Astro City es muy distinta\
   \ a la de las demás ciudades. Para un simple…"
-date: '2026-02-26'
+date: '2026-02-26T23:59:59'
 authors:
 - roof77
 tags:

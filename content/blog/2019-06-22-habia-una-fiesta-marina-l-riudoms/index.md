@@ -2,7 +2,7 @@
 title: Había una fiesta
 summary: Todo empieza y todo termina con esta  la que protagonizan cuatro jóvenes a las que los demás miran como si viajaran
   «solas» aunque ellas sepan que no pueden…
-date: '2019-06-22'
+date: '2019-06-22T23:59:59'
 authors:
 - roof77
 tags:

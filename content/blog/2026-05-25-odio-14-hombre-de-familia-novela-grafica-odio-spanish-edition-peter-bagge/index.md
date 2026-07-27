@@ -1,7 +1,7 @@
 ---
 title: Odio 14, Hombre de familia (Novela Grafica/ Odio) (Spanish Edition)
 summary: Odio 14, Hombre de familia
-date: '2026-05-25'
+date: '2026-05-25T23:59:58'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Los Tambores del Dios Negro
 summary: Trepadora quiere abandonar las calles de Nueva Orleans, donde ha vivido largo tiempo sola, luchando por sobrevivir.
   Desea levantar el vuelo, y, para lograrlo…
-date: '2024-01-11'
+date: '2024-01-11T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Como un galgo (Grandes Lectores) (Spanish Edition)
 summary: "Scarlett, Mary, Tansey, Emer. Madres e hijas, abuelas y nietas.\r\nCuatro generaciones, cuatro mujeres de una familia\
   \ irlandesa emprenden un viaje inolvidable al…"
-date: '2020-11-10'
+date: '2020-11-10T23:59:59'
 authors:
 - roof77
 tags:

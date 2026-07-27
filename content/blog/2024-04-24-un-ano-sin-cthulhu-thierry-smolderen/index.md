@@ -2,7 +2,7 @@
 title: Un año sin Cthulhu
 summary: "UN SORPRENDENTE RELATO POP SOBRE JUEGOS DE ROL, ASESINATOS Y LOVECRAFT\r\n\r\nTodos recuerdan la tragedia de Auln-sur-D’Arcq.\
   \ A mediados de los años 80, un grupo…"
-date: '2024-04-24'
+date: '2024-04-24T23:59:59'
 authors:
 - roof77
 tags:

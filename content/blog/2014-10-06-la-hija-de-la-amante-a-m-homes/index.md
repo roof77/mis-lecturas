@@ -2,7 +2,7 @@
 title: La hija de la amante
 summary: La adopción de A. M. Homes fue apalabrada antes de que naciera. Su madre biológica era una mujer soltera que mantenía
   una relación con un hombre mucho mayor…
-date: '2014-10-06'
+date: '2014-10-06T23:59:59'
 authors:
 - roof77
 tags:

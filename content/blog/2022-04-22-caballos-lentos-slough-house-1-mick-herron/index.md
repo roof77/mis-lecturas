@@ -2,7 +2,7 @@
 title: 'Caballos lentos (Slough House, #1)'
 summary: El reino del irreverente y sarcástico Jackson Lamb está en Londres y se llama Casa de la Ciénaga, un vertedero al
   que van a parar los miembros de los servicios…
-date: '2022-04-22'
+date: '2022-04-22T23:59:59'
 authors:
 - roof77
 tags:

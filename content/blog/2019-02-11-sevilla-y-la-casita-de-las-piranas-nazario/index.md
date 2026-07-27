@@ -2,7 +2,7 @@
 title: Sevilla y la Casita de las Pirañas
 summary: En La vida cotidiana del dibujante under­ground, centrado en sus andanzas en la efervescente Barcelona de la Transición,
   Nazario se reveló como un memorialista…
-date: '2019-02-11'
+date: '2019-02-11T23:59:59'
 authors:
 - roof77
 tags:

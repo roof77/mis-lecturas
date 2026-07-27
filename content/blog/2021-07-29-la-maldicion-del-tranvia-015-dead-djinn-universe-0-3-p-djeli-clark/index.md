@@ -2,7 +2,7 @@
 title: 'La maldición del tranvía 015 (Dead Djinn Universe, #0.3)'
 summary: "Año: 1912\r\nCiudad: El Cairo \r\n\r\nLa maldición de un tranvía aéreo parece un caso simple para el agente Hamed,\
   \ pero con un presupuesto casi inexistente y un…"
-date: '2021-07-29'
+date: '2021-07-29T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Sex Criminals #2: Come, World'
 summary: So who's the boy with the same sexy-time time-stopping gifts as Suzie? Meet John, who until last night thought he
   could freeze time with his junk. At long last…
-date: '2018-08-19'
+date: '2018-08-19T23:59:56'
 authors:
 - roof77
 tags:

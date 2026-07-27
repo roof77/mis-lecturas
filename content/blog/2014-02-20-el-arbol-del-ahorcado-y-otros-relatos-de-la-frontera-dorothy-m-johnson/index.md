@@ -2,7 +2,7 @@
 title: El árbol del ahorcado y otros relatos de la Frontera
 summary: Tras la buena acogida de Indian Country, primer volumen de relatos de Dorothy M. Johnson y número uno de la colección
   Frontera, el catálogo de la colección se…
-date: '2014-02-20'
+date: '2014-02-20T23:59:59'
 authors:
 - roof77
 tags:

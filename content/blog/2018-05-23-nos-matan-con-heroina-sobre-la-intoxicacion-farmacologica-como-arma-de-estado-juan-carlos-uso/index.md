@@ -2,7 +2,7 @@
 title: ¿Nos matan con heroína? Sobre la intoxicación farmacológica como arma de Estado
 summary: Urdida desde hace casi dos siglos, la teoría del envenenamiento opiáceo de la población con fines políticos ha ido
   saltando de un lado al otro del tablero…
-date: '2018-05-23'
+date: '2018-05-23T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'El misterio de Gramercy Park (Amelia Butterworth, #1; Mr. Gryce, #8)'
 summary: La acaudalada familia Van Burnam regresa de un viaje al extranjero al mismo tiempo que aparece una mujer muerta en
   el salón de su casa. Un gran aparador ha…
-date: '2016-10-16'
+date: '2016-10-16T23:59:59'
 authors:
 - roof77
 tags:

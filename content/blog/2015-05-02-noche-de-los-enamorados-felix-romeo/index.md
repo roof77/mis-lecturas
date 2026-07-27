@@ -2,7 +2,7 @@
 title: Noche de los enamorados
 summary: «Esto no es un juicio, porque no se puede juzgar a los muertos, y Santiago Dulong murió hace diez años. Ni es la
   defensa imposible de una víctima, porque no se…
-date: '2015-05-02'
+date: '2015-05-02T23:59:59'
 authors:
 - roof77
 tags:

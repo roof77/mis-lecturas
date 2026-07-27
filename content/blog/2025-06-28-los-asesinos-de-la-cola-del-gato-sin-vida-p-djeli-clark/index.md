@@ -2,7 +2,7 @@
 title: Los asesinos de la cola del gato sin vida
 summary: En la antigua ciudad de Tal Abisi opera una organización de asesinos conocida como la Cola del Gato sin Vida. Sus
   miembros, profesionales hábiles y discretos…
-date: '2025-06-28'
+date: '2025-06-28T23:59:59'
 authors:
 - roof77
 tags:

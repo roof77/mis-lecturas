@@ -2,7 +2,7 @@
 title: La puerta de las siete llaves
 summary: Dick Martin se apresta a marcharse de Scotland Yard para disfrutar de una pequeña herencia.La investigación del robo
   de un libro le lleva, después de una…
-date: '2017-07-26'
+date: '2017-07-26T23:59:59'
 authors:
 - roof77
 tags:

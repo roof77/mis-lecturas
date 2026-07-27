@@ -2,7 +2,7 @@
 title: Chicas muertas
 summary: Tres adolescentes de provincia asesinadas en la década de 1980, tres muertes impunes ocurridas cuando todavía, en
   nuestro país, desconocíamos el término…
-date: '2019-03-06'
+date: '2019-03-06T23:59:59'
 authors:
 - roof77
 tags:

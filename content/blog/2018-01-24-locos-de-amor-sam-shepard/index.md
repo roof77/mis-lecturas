@@ -2,7 +2,7 @@
 title: Locos de amor
 summary: En un zarrapastroso motel en el confín del desierto de Mojave dos destructivos y desesperados amantes, atrapados
   por neuróticas necesidades que los atraen y…
-date: '2018-01-24'
+date: '2018-01-24T23:59:59'
 authors:
 - roof77
 tags:

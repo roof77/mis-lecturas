@@ -2,7 +2,7 @@
 title: Oso
 summary: La joven e introvertida Lou abandona su trabajo como bibliotecaria cuando se le encarga catalogar la biblioteca de
   una mansión victoriana situada en una remota…
-date: '2025-05-25'
+date: '2025-05-25T23:59:59'
 authors:
 - roof77
 tags:

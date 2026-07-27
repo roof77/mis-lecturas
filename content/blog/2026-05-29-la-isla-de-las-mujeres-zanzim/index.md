@@ -2,7 +2,7 @@
 title: La Isla de las Mujeres
 summary: Céleste Bompard es el objeto de deseo de todas las mujeres por su habilidad y destreza como piloto de acrobacias.
   Durante la Gran Guerra será el encargado de…
-date: '2026-05-29'
+date: '2026-05-29T23:59:58'
 authors:
 - roof77
 tags:

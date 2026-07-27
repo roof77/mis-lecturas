@@ -2,7 +2,7 @@
 title: La mecánica del corazón
 summary: Imagina la noche más fría de la historia. La nieve cae sobre la ciudad de Edimburgo. En lo alto de una colina nace
   el pequeño Jack, pero su corazón está…
-date: '2015-01-19'
+date: '2015-01-19T23:59:59'
 authors:
 - roof77
 tags:

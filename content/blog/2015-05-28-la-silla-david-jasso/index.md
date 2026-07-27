@@ -2,7 +2,7 @@
 title: La silla
 summary: Daniel Lonces es un escritor de terror de renombre. Tiene su mujer, su hijito, su casa y fama suficiente como para
   que un buen puñado de fans le acosen con…
-date: '2015-05-28'
+date: '2015-05-28T23:59:59'
 authors:
 - roof77
 tags:

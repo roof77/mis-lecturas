@@ -2,7 +2,7 @@
 title: Frankenstein, o el moderno Prometeo
 summary: La presente edición se completa con un documentado estudio preliminar sobre Mary Shelley y la gestación de Frankenstein
   a cargo de Antonio José…
-date: '2018-10-08'
+date: '2018-10-08T23:59:59'
 authors:
 - roof77
 tags:

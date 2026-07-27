@@ -2,7 +2,7 @@
 title: Confesiones de un chef
 summary: El cocinero más salvaje, procaz y desarmantemente sincero del planeta cuenta sin pelos en la lengua sus andanzas
   tras los fogones, probando todos los manjares…
-date: '2024-05-27'
+date: '2024-05-27T23:59:59'
 authors:
 - roof77
 tags:

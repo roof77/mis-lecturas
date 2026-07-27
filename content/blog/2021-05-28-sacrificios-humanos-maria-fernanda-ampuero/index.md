@@ -2,7 +2,7 @@
 title: Sacrificios humanos
 summary: María Fernanda Ampuero se ha convertido en una de las voces indispensables de la literatura latinoamericana. Su libro
   Pelea de gallos (2018) ha sido en estos…
-date: '2021-05-28'
+date: '2021-05-28T23:59:59'
 authors:
 - roof77
 tags:

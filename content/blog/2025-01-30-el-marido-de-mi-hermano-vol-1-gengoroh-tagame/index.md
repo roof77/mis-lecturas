@@ -2,7 +2,7 @@
 title: El marido de mi hermano, vol. 1
 summary: Yaichi es un padre divorciado japonés muy tradicional y conservador que vive junto a su hija Kana en un barrio de
   Tokio. A su casa llega Mike Flanagan, un…
-date: '2025-01-30'
+date: '2025-01-30T23:59:59'
 authors:
 - roof77
 tags:

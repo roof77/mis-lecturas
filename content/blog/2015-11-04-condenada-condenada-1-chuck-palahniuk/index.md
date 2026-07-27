@@ -2,7 +2,7 @@
 title: 'Condenada (Condenada, #1)'
 summary: Hija de una estrella de cine narcisista y de un billonario, una Navidad Madison es abandonada en un internado suizo  mientras
   sus padres de dedican a impulsar…
-date: '2015-11-04'
+date: '2015-11-04T23:59:59'
 authors:
 - roof77
 tags:

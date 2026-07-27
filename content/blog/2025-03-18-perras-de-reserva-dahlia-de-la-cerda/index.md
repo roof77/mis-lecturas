@@ -2,7 +2,7 @@
 title: Perras de reserva
 summary: «Me encomendé al Diablo porque Dios en esto no hace el paro», nos dice una de las narradoras de los trece cuentos
   que conforman Perras de reserva, el genial…
-date: '2025-03-18'
+date: '2025-03-18T23:59:59'
 authors:
 - roof77
 tags:

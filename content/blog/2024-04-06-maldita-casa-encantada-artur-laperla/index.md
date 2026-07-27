@@ -2,7 +2,7 @@
 title: Maldita casa encantada
 summary: Bienvenido a la maldita casa encantada, donde sabes cuándo entras pero no cuándo sales ¿Te atreves a enfrentarte
   a muertos vivientes, vampiros, fantasmas y…
-date: '2024-04-06'
+date: '2024-04-06T23:59:59'
 authors:
 - roof77
 tags:

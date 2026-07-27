@@ -2,7 +2,7 @@
 title: H de Halcón
 summary: A raíz de la inesperada muerte de su padre, Helen Macdonald decide comprar y adiestrar un azor, el ave de presa más
   peligrosa y letal. Así empieza un viaje de…
-date: '2016-07-29'
+date: '2016-07-29T23:59:59'
 authors:
 - roof77
 tags:

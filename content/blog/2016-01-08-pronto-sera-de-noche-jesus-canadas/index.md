@@ -2,7 +2,7 @@
 title: Pronto será de noche
 summary: '"Pronto será de noche, pero no habrá diferencia. El cielo seguirá teniendo ese color incómodo. El fuego que baila
   en las ventanas sacará a la ciudad de su…'
-date: '2016-01-08'
+date: '2016-01-08T23:59:59'
 authors:
 - roof77
 tags:

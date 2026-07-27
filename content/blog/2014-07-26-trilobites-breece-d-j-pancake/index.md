@@ -2,7 +2,7 @@
 title: Trilobites
 summary: "Presentación de John Casey\r\nTraducción de Albert Fuentes\r\n\r\nBreece D’J Pancake se suicidó en Charlottesville\
   \ en 1979 a la edad de veintiséis años. Cuatro años…"
-date: '2014-07-26'
+date: '2014-07-26T23:59:59'
 authors:
 - roof77
 tags:

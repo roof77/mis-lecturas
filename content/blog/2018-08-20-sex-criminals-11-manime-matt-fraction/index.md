@@ -2,7 +2,7 @@
 title: 'Sex Criminals #11: Manime'
 summary: 'NEW STORY! NEW ARC! SAME OLD MATT AND CHIP. Jon and Suzie have a gift: when they have sex, they stop time. And they''re
   not alone. Get on board the book that''s…'
-date: '2018-08-20'
+date: '2018-08-20T23:59:41'
 authors:
 - roof77
 tags:

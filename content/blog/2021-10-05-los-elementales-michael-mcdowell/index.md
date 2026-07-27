@@ -2,7 +2,7 @@
 title: Los elementales
 summary: Después de un extraño incidente en el funeral de la matriarca Marian, las familias McCray y Savage esperan un tranquilo
   verano en la costa del golfo de…
-date: '2021-10-05'
+date: '2021-10-05T23:59:59'
 authors:
 - roof77
 tags:

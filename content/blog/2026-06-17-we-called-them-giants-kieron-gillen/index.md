@@ -2,7 +2,7 @@
 title: We Called Them Giants
 summary: "We Called Them Giants is a story of communication across a chasm at the end of the world.\r\n\r\nLori wakes to find\
   \ the streets empty. Everyone has gone. Or at…"
-date: '2026-06-17'
+date: '2026-06-17T23:59:59'
 authors:
 - roof77
 tags:

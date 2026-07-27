@@ -2,7 +2,7 @@
 title: 'En la mitad de la vida: una guía filosófica'
 summary: "Philosophical wisdom and practical advice for overcoming the problems of middle age\r\n\r\nHow can you reconcile\
   \ yourself with the lives you will never lead, with…"
-date: '2019-02-27'
+date: '2019-02-27T23:59:59'
 authors:
 - roof77
 tags:

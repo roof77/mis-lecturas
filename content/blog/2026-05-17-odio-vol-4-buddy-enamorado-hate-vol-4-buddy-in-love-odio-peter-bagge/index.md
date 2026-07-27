@@ -2,7 +2,7 @@
 title: 'Odio Vol. 4: Buddy enamorado / Hate Vol. 4: Buddy in Love (Odio)'
 summary: Collects an alternative comic from the 1990s that chronicles the misadventures and life experiences of Buddy Bradley,
   oldest son of America's most…
-date: '2026-05-17'
+date: '2026-05-17T23:59:59'
 authors:
 - roof77
 tags:

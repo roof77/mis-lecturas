@@ -2,7 +2,7 @@
 title: 'Nacidos para correr: La historia de una tribu oculta, un grupo de superatletas y la mayor carrera de la historia'
 summary: En busca de una respuesta, Christopher MacDougall se encuentra con la tribu de los mejores corredores de larga distancia
   del mundo. Aislados por el terreno más…
-date: '2014-04-13'
+date: '2014-04-13T23:59:59'
 authors:
 - roof77
 tags:

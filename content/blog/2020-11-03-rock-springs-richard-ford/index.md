@@ -2,7 +2,7 @@
 title: Rock Springs
 summary: Diez narraciones ambientadas en Montana, un lugar semisalvaje, un paisaje frío e inhóspito, el desconocido corazón
   de una América periférica. En este contexto…
-date: '2020-11-03'
+date: '2020-11-03T23:59:59'
 authors:
 - roof77
 tags:

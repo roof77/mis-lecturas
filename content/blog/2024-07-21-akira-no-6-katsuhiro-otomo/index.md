@@ -2,7 +2,7 @@
 title: Akira, No. 6
 summary: The explosive finale to one of graphic fiction's greatest achievements is here! The mad psychic colossus Tetsuo,
   the world's military, and the remaining…
-date: '2024-07-21'
+date: '2024-07-21T23:59:58'
 authors:
 - roof77
 tags:

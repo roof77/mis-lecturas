@@ -2,7 +2,7 @@
 title: El tapiz del vampiro
 summary: El doctor Weyland es el profesor más respetado de una pequeña universidad de Nueva Inglaterra. Alto, maduro, de pelo
   acerado, sus modales anticuados cautivan a…
-date: '2016-10-01'
+date: '2016-10-01T23:59:59'
 authors:
 - roof77
 tags:

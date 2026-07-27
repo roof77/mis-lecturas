@@ -2,7 +2,7 @@
 title: Meddling Kids
 summary: .Un original viaje nostálgico con guiños a Lovecraft, Los Cinco o Scooby Doo, Meddling Kids es un divertido homenaje
   al terror, la amistad y las aventuras de…
-date: '2021-10-15'
+date: '2021-10-15T23:59:59'
 authors:
 - roof77
 tags:

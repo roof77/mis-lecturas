@@ -2,7 +2,7 @@
 title: Crónicas de la Mafia
 summary: Íñigo Domínguez comenzó en 2001 su odisea como corresponsal en Italia y abrazó dos costumbres. La primera, escribir
   la palabra ‘mafia’ cada mañana en la…
-date: '2014-03-11'
+date: '2014-03-11T23:59:58'
 authors:
 - roof77
 tags:

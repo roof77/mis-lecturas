@@ -2,7 +2,7 @@
 title: Cicatriz
 summary: "Una historia absolutamente adictiva firmada por el autor español de thriller más leído en todo el mundo.\r\n\r\n\
   Simon Sax podría ser un tipo afortunado. Es joven…"
-date: '2016-03-09'
+date: '2016-03-09T23:59:59'
 authors:
 - roof77
 tags:

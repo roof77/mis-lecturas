@@ -2,7 +2,7 @@
 title: 'Odio Vol. 3: Los Idolos del Grunge!'
 summary: The bestselling alternative comic of the 1990's, Odio (Hate) chronicles the misadventures, life experiences and repugnant
   habits of Buddy Bradley, oldest son…
-date: '2026-05-12'
+date: '2026-05-12T23:59:59'
 authors:
 - roof77
 tags:

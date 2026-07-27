@@ -2,7 +2,7 @@
 title: Aquel verano
 summary: Rose y sus padres han veraneado en Awago Beach desde que ella era una niña. Es su escapada anual, su refugio. Su
   amiga Windy también está allí siempre, la…
-date: '2017-10-03'
+date: '2017-10-03T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Un puñado de polvo
 summary: "Un crítico ha señalado con razón que «Evelyn Waugh (1903-1966) es el más importante novelista cómico inglés desde\
   \ Charles Dickens».\r\nEl clima habitual de sus…"
-date: '2014-06-24'
+date: '2014-06-24T23:59:59'
 authors:
 - roof77
 tags:

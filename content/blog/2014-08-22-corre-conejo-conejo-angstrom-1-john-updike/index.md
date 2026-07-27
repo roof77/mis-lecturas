@@ -2,7 +2,7 @@
 title: 'Corre, Conejo (Conejo Angstrom, #1)'
 summary: Parece ya muy antigua la leyenda del hombre que sale un día de casa a buscar tabaco y decide no volver. Pues bien,
   se remonta tan sólo a 1960, año en que…
-date: '2014-08-22'
+date: '2014-08-22T23:59:59'
 authors:
 - roof77
 tags:

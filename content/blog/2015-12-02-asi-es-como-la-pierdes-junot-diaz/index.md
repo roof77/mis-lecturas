@@ -2,7 +2,7 @@
 title: Así es como la pierdes
 summary: Así es como la pierdes, de Junot Díaz, que ha escrito otras obras como La maravillosa vida breve de Oscar Wao (Premio
   Pulitzer 2008 y Premio National Book…
-date: '2015-12-02'
+date: '2015-12-02T23:59:59'
 authors:
 - roof77
 tags:

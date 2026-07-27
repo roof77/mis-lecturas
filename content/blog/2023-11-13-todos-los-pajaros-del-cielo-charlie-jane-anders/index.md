@@ -2,7 +2,7 @@
 title: Todos los pájaros del cielo
 summary: "PREMIO LOCUS Y NEBULA 2017\r\n\r\nPatricia es una bruja que tiene el don de comunicarse con los animales. Laurence\
   \ es un geek que ha construido una máquina del…"
-date: '2023-11-13'
+date: '2023-11-13T23:59:59'
 authors:
 - roof77
 tags:

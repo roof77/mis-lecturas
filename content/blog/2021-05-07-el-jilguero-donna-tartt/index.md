@@ -2,7 +2,7 @@
 title: El jilguero
 summary: Al acercarnos a El jilguero, vamos enfocando una habitación de hotel en Amsterdam. Theo Decker lleva más de una semana
   encerrado entre esas cuatro paredes…
-date: '2021-05-07'
+date: '2021-05-07T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Indigno de ser humano
 summary: Publicada por primera vez en 1948, Indigno de ser humano es una de las novelas más célebres de la literatura japonesa
   contemporánea. Su polémico y brillante…
-date: '2020-05-11'
+date: '2020-05-11T23:59:59'
 authors:
 - roof77
 tags:

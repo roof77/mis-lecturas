@@ -2,7 +2,7 @@
 title: Henry y Cato
 summary: Cuando Henry Marshalson y Cato Forbes se encuentran en Inglaterra después de varios años sin verse, su existencia
   no se halla en un momento precisamente fácil…
-date: '2014-05-31'
+date: '2014-05-31T23:59:59'
 authors:
 - roof77
 tags:

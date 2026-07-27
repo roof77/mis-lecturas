@@ -2,7 +2,7 @@
 title: ¿Quién hay ahí?
 summary: Esta novela corta, seguramente la más conocida y trascendente de su producción, escrita por Campbell con el pseudónimo
   de Don A. Stuart, aparece por primera…
-date: '2014-09-18'
+date: '2014-09-18T23:59:59'
 authors:
 - roof77
 tags:

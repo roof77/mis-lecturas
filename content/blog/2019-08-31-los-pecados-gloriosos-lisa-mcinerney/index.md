@@ -2,7 +2,7 @@
 title: Los pecados gloriosos
 summary: Los pecados gloriosos es un recorrido por los caminos del remordimiento y la vergüenza, así como por el legado de
   las actitudes irlandesas del siglo pasado en…
-date: '2019-08-31'
+date: '2019-08-31T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'Mi maravillosa librería (Mi maravillosa librería, #1)'
 summary: Petra Hartlieb tiene ahora una gran familia, un perro y una librería. Diez años atrás, estando de vacaciones en Viena,
   su ciudad de origen, supo de una bonita…
-date: '2018-07-03'
+date: '2018-07-03T23:59:59'
 authors:
 - roof77
 tags:

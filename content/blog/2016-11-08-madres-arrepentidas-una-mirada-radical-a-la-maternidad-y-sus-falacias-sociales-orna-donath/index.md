@@ -2,7 +2,7 @@
 title: 'Madres arrepentidas: Una mirada radical a la maternidad y sus falacias sociales'
 summary: "Aman a sus hijos, pero se arrepienten de ser madres.\r\n\r\n#madresarrepentidas es un tratado de pensamiento radical\
   \ que no dejará indiferente a…"
-date: '2016-11-08'
+date: '2016-11-08T23:59:59'
 authors:
 - roof77
 tags:

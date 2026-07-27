@@ -1,7 +1,7 @@
 ---
 title: 'Sex Criminals #16: Goals'
 summary: SEX CRIMINALS is BACK. Full sex! Deep crime! Big floppy 16th issue!
-date: '2018-08-20'
+date: '2018-08-20T23:59:46'
 authors:
 - roof77
 tags:

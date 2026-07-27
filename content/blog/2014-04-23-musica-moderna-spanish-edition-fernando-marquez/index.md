@@ -2,7 +2,7 @@
 title: Música moderna (Spanish Edition)
 summary: Testimonio impagable, y de primera mano, de la efervescencia artística y musical madrileña de principios de los 80,
   "Música moderna", y su autor, el mítico "el…
-date: '2014-04-23'
+date: '2014-04-23T23:59:59'
 authors:
 - roof77
 tags:

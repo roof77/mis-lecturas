@@ -2,7 +2,7 @@
 title: 'Justicia auxiliar (Imperial Radch, #1)'
 summary: En un planeta helado y remoto, una soldado llamada Breq se está acercando al cumplimiento de su misión. En el pasado,
   Breq era Justicia de Toren, una crucero…
-date: '2018-08-28'
+date: '2018-08-28T23:59:59'
 authors:
 - roof77
 tags:

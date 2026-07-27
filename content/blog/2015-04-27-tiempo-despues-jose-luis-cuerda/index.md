@@ -2,7 +2,7 @@
 title: Tiempo después
 summary: Como ya se sabe a estas alturas, el mundo entero se ha visto reducido a un solo edificio y unas afueras. Tal cual.
   Y se ha llegado al año 9177 tan a trancas y…
-date: '2015-04-27'
+date: '2015-04-27T23:59:59'
 authors:
 - roof77
 tags:

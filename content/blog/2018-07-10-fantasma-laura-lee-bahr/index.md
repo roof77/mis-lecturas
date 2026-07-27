@@ -2,7 +2,7 @@
 title: Fantasma
 summary: '"Fantasma" se abre con la aparición del cadáver de Sarah, fallecida en extrañas circunstancias. Esta misteriosa
   mujer te habla directamente porque tú (sí, tú…'
-date: '2018-07-10'
+date: '2018-07-10T23:59:59'
 authors:
 - roof77
 tags:

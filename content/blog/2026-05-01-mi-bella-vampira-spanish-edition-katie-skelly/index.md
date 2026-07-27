@@ -2,7 +2,7 @@
 title: Mi bella vampira (Spanish Edition)
 summary: La preciosa y rubia Clover -a medio camino entre Barbarella y Brigitte Bardot- sueña con la chica que fue una vez
   antes de ser convertida en vampira. Atrapada…
-date: '2026-05-01'
+date: '2026-05-01T23:59:59'
 authors:
 - roof77
 tags:

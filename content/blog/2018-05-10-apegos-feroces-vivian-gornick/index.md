@@ -2,7 +2,7 @@
 title: Apegos feroces
 summary: Gornick, una mujer madura, camina con su madre, ya anciana, por las calles de Manhattan, y en el transcurso de esos
   paseos llenos de reproches, de recuerdos y…
-date: '2018-05-10'
+date: '2018-05-10T23:59:59'
 authors:
 - roof77
 tags:

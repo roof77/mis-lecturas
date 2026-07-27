@@ -2,7 +2,7 @@
 title: 'Nuestro hombre en la Habana: Un entretenimiento (El Libro de Bolsillo)'
 summary: En la vasta obra narrativa de GRAHAM GREENE (1904-1991) figuran varios relatos que, catalogados por el autor como
   entretenimientos, se cuentan entre sus…
-date: '2022-05-13'
+date: '2022-05-13T23:59:59'
 authors:
 - roof77
 tags:

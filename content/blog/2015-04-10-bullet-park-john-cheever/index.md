@@ -2,7 +2,7 @@
 title: Bullet Park
 summary: Bienvenidos a Bullet Park, un universo en donde hasta sus habitantes más intachables pueden sentirse aterrorizados
   por el simple acto de mirarse al espejo. En…
-date: '2015-04-10'
+date: '2015-04-10T23:59:59'
 authors:
 - roof77
 tags:

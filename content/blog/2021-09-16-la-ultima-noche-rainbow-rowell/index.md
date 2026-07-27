@@ -2,7 +2,7 @@
 title: La última noche
 summary: Cada otoño, Deja y Josiah trabajan juntos en la Feria de la Calabaza más alucinante del mundo. Se despiden en Halloween
   y se reúnen el 1 de septiembre del año…
-date: '2021-09-16'
+date: '2021-09-16T23:59:59'
 authors:
 - roof77
 tags:

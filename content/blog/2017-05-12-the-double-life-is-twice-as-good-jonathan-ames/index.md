@@ -2,7 +2,7 @@
 title: The Double Life is Twice as Good
 summary: JONATHAN AMES'S LATEST BOOK, his eighth, is a hilarious, erotically charged, and insightful collection of articles,
   essays, cartoons, and short stories. With…
-date: '2017-05-12'
+date: '2017-05-12T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Brooklyn
 summary: Ellis Lacey, original de un pequeño pueblo de Irlanda, no duda en aceptar un trabajo en América. Se abre paso en
   Brooklyn, superando la nostalgia y los rigores…
-date: '2019-08-16'
+date: '2019-08-16T23:59:59'
 authors:
 - roof77
 tags:

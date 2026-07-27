@@ -2,7 +2,7 @@
 title: 'Lumberjanes: Friendship to the Craft (Lumberjanes, #5)'
 summary: '"Jo, April, Mal, Molly, and Ripley are not your average campers and Miss Quinzella Thiskwin Penniquiqul Thistle
   Crumpet''s Camp for Hardcore Lady-types is not…'
-date: '2026-07-12'
+date: '2026-07-12T23:59:56'
 authors:
 - roof77
 tags:

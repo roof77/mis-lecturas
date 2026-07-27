@@ -2,7 +2,7 @@
 title: 'La guerra (Blackwater, #4)'
 summary: 'Comienza una nueva era para el clan Caskey: la persistencia y el trabajo duro de Elinor en Perdido por fin parecen
   dar sus frutos. Su control arraiga en los…'
-date: '2024-04-17'
+date: '2024-04-17T23:59:59'
 authors:
 - roof77
 tags:

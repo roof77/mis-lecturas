@@ -2,7 +2,7 @@
 title: 'Astro City #7: La Edad Oscura Libro 2: Hermanos de sangre'
 summary: Today Astro City is a shining metropolis on a hill where super-heroes patrol the skies. However, things were not
   always as bright as they are today. In the…
-date: '2026-03-01'
+date: '2026-03-01T23:59:59'
 authors:
 - roof77
 tags:

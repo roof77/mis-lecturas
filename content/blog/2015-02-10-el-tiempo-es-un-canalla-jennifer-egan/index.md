@@ -2,7 +2,7 @@
 title: El tiempo es un canalla
 summary: En plena crisis de madurez, Bennie Salazar, que en los setenta formó parte de una banda punk y ahora es un alto ejecutivo
   de la decadente industria…
-date: '2015-02-10'
+date: '2015-02-10T23:59:59'
 authors:
 - roof77
 tags:

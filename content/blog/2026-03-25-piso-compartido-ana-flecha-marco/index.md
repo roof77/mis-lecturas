@@ -2,7 +2,7 @@
 title: Piso compartido
 summary: Piso compartido es una novela de interior. Un relato costumbrista donde magia, memoria y cotidianidad se unen. La
   autora entreteje la vida de cinco señoras…
-date: '2026-03-25'
+date: '2026-03-25T23:59:59'
 authors:
 - roof77
 tags:

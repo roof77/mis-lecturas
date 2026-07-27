@@ -2,7 +2,7 @@
 title: American Vampire, Vol. 1
 summary: From writers Scott Snyder and Stephen King, American Vampire introduces a new strain of vampire – a more vicious
   species – and traces the creatures' bloodline…
-date: '2025-01-19'
+date: '2025-01-19T23:59:59'
 authors:
 - roof77
 tags:

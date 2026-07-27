@@ -2,7 +2,7 @@
 title: La gente del Abismo
 summary: En 1902, Jack London llegó a Londres con la intención de escribir un reportaje sobre el East End, la zona este de
   la ciudad, donde pasó varios meses disfrazado…
-date: '2020-05-17'
+date: '2020-05-17T23:59:59'
 authors:
 - roof77
 tags:

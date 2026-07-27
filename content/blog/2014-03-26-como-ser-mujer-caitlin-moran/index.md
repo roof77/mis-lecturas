@@ -2,7 +2,7 @@
 title: Cómo ser mujer
 summary: 'No hubo nunca mejor época que ésta para ser mujer: tenemos el voto y la píldora, y desde 1727 ya no nos envían a
   la hoguera por brujas. Pero, ¿cómo ser mujer?…'
-date: '2014-03-26'
+date: '2014-03-26T23:59:59'
 authors:
 - roof77
 tags:

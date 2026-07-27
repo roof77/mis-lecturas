@@ -2,7 +2,7 @@
 title: Belleville Story (Integral)
 summary: "UN THRILLER DE ACCIÓN QUE RETRATA LA PARTE MÁS OSCURA DEL BARRIO DE BELLEVILLE \r\n\r\nBelleville Story es un thriller\
   \ de acción ambientado en las populares calles…"
-date: '2023-02-12'
+date: '2023-02-12T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: No confíes en nadie
 summary: "La habitación me resulta extraña. Desconocida. No sé dónde estoy ni cómo he llegado hasta aquí. No sé cómo voy a\
   \ volver a casa...\r\n\r\nChristine sufre las…"
-date: '2016-04-24'
+date: '2016-04-24T23:59:59'
 authors:
 - roof77
 tags:

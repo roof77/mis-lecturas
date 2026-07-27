@@ -2,7 +2,7 @@
 title: 'Hilda y el trol (Hilda, #1)'
 summary: Espíritus del mar, gigantes, extraños hombres de madera y trols. Las excursiones de Hilda nunca se limitan al reino
   de lo ordinario. Ésta en particular depara…
-date: '2026-02-15'
+date: '2026-02-15T23:59:58'
 authors:
 - roof77
 tags:

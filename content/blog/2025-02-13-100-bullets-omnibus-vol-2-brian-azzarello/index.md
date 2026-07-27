@@ -2,7 +2,7 @@
 title: 100 Bullets Omnibus Vol. 2
 summary: One gun. One hundred bullets. Zero consequences. The Eisner Award-winning and bestselling crime graphic novel series
   100 Bullets collection continues in this…
-date: '2025-02-13'
+date: '2025-02-13T23:59:58'
 authors:
 - roof77
 tags:

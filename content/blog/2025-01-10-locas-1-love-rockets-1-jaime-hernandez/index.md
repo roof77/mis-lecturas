@@ -2,7 +2,7 @@
 title: 'Locas 1 (Love & Rockets, #1)'
 summary: Maggie Chascarrillo es una joven chicana cuya historia comienza a primeros de los 80, durante la eclosión del punk
   como revulsivo al rock mustio y anquilosado…
-date: '2025-01-10'
+date: '2025-01-10T23:59:59'
 authors:
 - roof77
 tags:

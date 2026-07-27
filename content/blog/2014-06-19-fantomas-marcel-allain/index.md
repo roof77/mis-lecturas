@@ -2,7 +2,7 @@
 title: Fantômas
 summary: Recortado sobre los cielos de Paris, un hombre enmascarado y vestido de etiqueta, daga en mano, rumia espantosas
   fechorias de las que ningun ciudadano esta a…
-date: '2014-06-19'
+date: '2014-06-19T23:59:59'
 authors:
 - roof77
 tags:

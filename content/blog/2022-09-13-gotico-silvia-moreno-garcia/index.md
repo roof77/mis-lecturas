@@ -2,7 +2,7 @@
 title: Gótico
 summary: "Una novela terroríficamente brillante.\r\nTras recibir una extraña carta de su prima recién casada, Noemí Taboada\
   \ se dirige a High Place, una casa en el campo en…"
-date: '2022-09-13'
+date: '2022-09-13T23:59:59'
 authors:
 - roof77
 tags:

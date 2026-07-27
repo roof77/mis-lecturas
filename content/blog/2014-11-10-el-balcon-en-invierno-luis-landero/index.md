@@ -2,7 +2,7 @@
 title: El balcón en invierno
 summary: Asomado al balcón, debatiéndose entre la vida que bulle en la calle y la novela que ha empezado a escribir pero que
   no le satisface, el escritor se ve asaltado…
-date: '2014-11-10'
+date: '2014-11-10T23:59:59'
 authors:
 - roof77
 tags:

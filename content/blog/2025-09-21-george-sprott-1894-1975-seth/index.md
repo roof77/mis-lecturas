@@ -2,7 +2,7 @@
 title: George Sprott, 1894-1975
 summary: George Sprott 1894-1975. Una novela gráfica del dibujante Seth. "Este libro es un clásico, un tesoro." The Washington
   Post.
-date: '2025-09-21'
+date: '2025-09-21T23:59:59'
 authors:
 - roof77
 tags:

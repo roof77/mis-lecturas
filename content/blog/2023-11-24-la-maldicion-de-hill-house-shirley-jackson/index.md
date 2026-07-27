@@ -2,7 +2,7 @@
 title: La maldición de Hill House
 summary: La maldición de Hill House (The Haunting of Hill House, 1959), considerada una de las principales novelas de horror
   del siglo XX, narra el inquietante…
-date: '2023-11-24'
+date: '2023-11-24T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Huérfanos de Brooklyn
 summary: «Tengo el síndrome de Tourette.» Las palabras salen atropellándose, incontrolables, y las manos no pueden evitar
   tocar impulsiva y compulsivamente todo lo que…
-date: '2014-08-27'
+date: '2014-08-27T23:59:59'
 authors:
 - roof77
 tags:

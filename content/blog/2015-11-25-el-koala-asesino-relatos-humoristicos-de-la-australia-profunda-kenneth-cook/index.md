@@ -2,7 +2,7 @@
 title: 'El koala asesino : relatos humorísticos de la Australia profunda'
 summary: '«No me gustan los koalas. Son unos bichos asquerosos, irascibles y estúpidos sin una pizca de bondad. Sus hábitos
   sociales son vergonzosos: los machos siempre…'
-date: '2015-11-25'
+date: '2015-11-25T23:59:59'
 authors:
 - roof77
 tags:

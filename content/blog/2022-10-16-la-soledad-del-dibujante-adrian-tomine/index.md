@@ -2,7 +2,7 @@
 title: La soledad del dibujante
 summary: Tras un repentino e insignificante chequeo médico, Tomine empieza a reflexionar sobre su propia vida y a preguntarse
   si todo lo que ha vivido ha valido…
-date: '2022-10-16'
+date: '2022-10-16T23:59:59'
 authors:
 - roof77
 tags:

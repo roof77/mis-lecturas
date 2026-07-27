@@ -2,7 +2,7 @@
 title: Fun Home. Una familia tragicómica
 summary: 'En 2006 Houghton Mifflin publicó sus memorias gráficas, Fun Home: Una tragicomedia familiar, el exitoso relato de
   maduración que se ha calificado como "proeza…'
-date: '2024-05-23'
+date: '2024-05-23T23:59:59'
 authors:
 - roof77
 tags:

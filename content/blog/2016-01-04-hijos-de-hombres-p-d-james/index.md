@@ -2,7 +2,7 @@
 title: Hijos de hombres
 summary: La capacidad reproductiva de la humanidad ha desaparecido súbitamente. Theo Faron vive en la Inglaterra post-Omega,
   un periodo deprimente en el que ya no hay…
-date: '2016-01-04'
+date: '2016-01-04T23:59:59'
 authors:
 - roof77
 tags:

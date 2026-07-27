@@ -2,7 +2,7 @@
 title: El extranjero
 summary: Guía moral e intelectual de la generación llegada a la madurez entre las ruinas, la frustración y la desesperanza
   de la Europa de postguerra, Albert Camus…
-date: '2016-11-23'
+date: '2016-11-23T23:59:59'
 authors:
 - roof77
 tags:

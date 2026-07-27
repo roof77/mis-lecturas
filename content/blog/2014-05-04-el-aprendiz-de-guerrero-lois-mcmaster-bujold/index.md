@@ -2,7 +2,7 @@
 title: El aprendiz de guerrero
 summary: El aprendiz de guerrero es una de las aventuras de Miles Vorkosigan, un genio de la estrategia dotado de gran inteligencia
   pero encerrado en un cuerpo…
-date: '2014-05-04'
+date: '2014-05-04T23:59:59'
 authors:
 - roof77
 tags:

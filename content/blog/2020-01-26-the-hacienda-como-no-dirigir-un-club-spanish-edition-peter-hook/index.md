@@ -2,7 +2,7 @@
 title: 'The Haçienda: Cómo no dirigir un club (Spanish Edition)'
 summary: After Ian Curtis’s suicide in 1980, the members of Joy Division reformed as New Order. Peter Hook, whose base lines
   in both bands are famous in popular music…
-date: '2020-01-26'
+date: '2020-01-26T23:59:59'
 authors:
 - roof77
 tags:

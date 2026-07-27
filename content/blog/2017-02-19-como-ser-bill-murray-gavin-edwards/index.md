@@ -2,7 +2,7 @@
 title: Cómo ser Bill Murray
 summary: 'Esperas en un semáforo mientras comes unas patatas fritas cuando alguien mete la mano en tu bolsa. Lo miras y piensas:
   “es él, es igual que él, qué emoción si…'
-date: '2017-02-19'
+date: '2017-02-19T23:59:59'
 authors:
 - roof77
 tags:

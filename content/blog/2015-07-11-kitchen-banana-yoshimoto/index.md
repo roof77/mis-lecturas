@@ -2,7 +2,7 @@
 title: Kitchen
 summary: Cuando se le muere la abuela, la jovencísima Mikage queda sola en una casa inmensa. Pero un día Yuichi llama a la
   puerta de Mikage y le sugiere que vaya a…
-date: '2015-07-11'
+date: '2015-07-11T23:59:59'
 authors:
 - roof77
 tags:

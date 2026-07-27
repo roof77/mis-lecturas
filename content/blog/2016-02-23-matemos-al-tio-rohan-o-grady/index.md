@@ -2,7 +2,7 @@
 title: Matemos al tío
 summary: Barnaby Gaunt tiene diez años y acaba de quedarse huérfano. Solo y desamparado en la vida, ha de vivir con su tío,
   por lo que viaja a una preciosa isla remota…
-date: '2016-02-23'
+date: '2016-02-23T23:59:59'
 authors:
 - roof77
 tags:

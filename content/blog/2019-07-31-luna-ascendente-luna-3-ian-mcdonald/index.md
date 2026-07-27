@@ -2,7 +2,7 @@
 title: 'Luna ascendente (Luna #3)'
 summary: Un centenar de años en el futuro se libra una guerra entre los Cinco Dragones, las cinco familias que controlan las
   principales empresas industriales de la…
-date: '2019-07-31'
+date: '2019-07-31T23:59:59'
 authors:
 - roof77
 tags:

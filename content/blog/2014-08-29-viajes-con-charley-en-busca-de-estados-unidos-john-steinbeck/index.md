@@ -2,7 +2,7 @@
 title: Viajes con Charley en busca de Estados Unidos
 summary: «Mi plan era claro, conciso y razonable, creo yo. He viajado por diversas partes del mundo durante muchos años. En
   Estados Unidos vivo en Nueva York, o me voy…
-date: '2014-08-29'
+date: '2014-08-29T23:59:59'
 authors:
 - roof77
 tags:

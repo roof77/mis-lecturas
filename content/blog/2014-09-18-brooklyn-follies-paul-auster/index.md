@@ -2,7 +2,7 @@
 title: Brooklyn Follies
 summary: Nathan Glass ha sobrevivido a un cáncer de pulmón y a un divorcio después de tres décadas de matrimonio, y ha vuelto
   a Brooklyn, el lugar donde pasó su…
-date: '2014-09-18'
+date: '2014-09-18T23:59:58'
 authors:
 - roof77
 tags:

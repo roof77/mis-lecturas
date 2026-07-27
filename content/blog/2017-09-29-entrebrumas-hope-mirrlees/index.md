@@ -2,7 +2,7 @@
 title: Entrebrumas
 summary: Lud es una próspera ciudad mercantil situada en la confluencia de dos ríos. Años atrás, los habitantes de Lud, amantes
   del trabajo y el orden, rechazaron la…
-date: '2017-09-29'
+date: '2017-09-29T23:59:59'
 authors:
 - roof77
 tags:

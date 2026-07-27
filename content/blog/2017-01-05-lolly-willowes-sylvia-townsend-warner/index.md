@@ -2,7 +2,7 @@
 title: Lolly Willowes
 summary: Lolly Willowes, de veintiocho años, está aún soltera cuando tras la muerte de su adorado padre pasa a depender de
   sus hermanos. Tras ocuparse de todo durante…
-date: '2017-01-05'
+date: '2017-01-05T23:59:59'
 authors:
 - roof77
 tags:

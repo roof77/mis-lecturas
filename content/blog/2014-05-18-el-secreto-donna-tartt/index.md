@@ -2,7 +2,7 @@
 title: El secreto
 summary: Cinco estudiantes universitarios, fascinados por un profesor carismático y esnob, ahondan en los misterios de la
   cultura griega antigua. Sin embargo, cegados…
-date: '2014-05-18'
+date: '2014-05-18T23:59:59'
 authors:
 - roof77
 tags:

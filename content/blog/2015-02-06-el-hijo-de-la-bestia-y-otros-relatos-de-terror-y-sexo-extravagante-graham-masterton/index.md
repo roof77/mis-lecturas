@@ -2,7 +2,7 @@
 title: El hijo de la bestia y otros relatos de terror y sexo extravagante
 summary: En El Hijo de la Bestia y otras historias de terror y sexo extravagante, Graham Masterton nos lleva a escenarios
   y situaciones propias del género de terror…
-date: '2015-02-06'
+date: '2015-02-06T23:59:59'
 authors:
 - roof77
 tags:

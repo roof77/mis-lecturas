@@ -2,7 +2,7 @@
 title: Los papeles póstumos del club Pickwick
 summary: Samuel Pickwick, es el fundador y presidente vitalicio del Club Pickwick, una sociedad dedicada a la investigacion
   y clasificación de llamativos fenómenos…
-date: '2016-02-17'
+date: '2016-02-17T23:59:59'
 authors:
 - roof77
 tags:

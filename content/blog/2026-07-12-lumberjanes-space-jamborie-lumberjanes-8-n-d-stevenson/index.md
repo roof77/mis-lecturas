@@ -2,7 +2,7 @@
 title: 'Lumberjanes: Space Jamborie (Lumberjanes, #8)'
 summary: This crazy war between Apollo and Artemis finally reaches its peak and it's up to the Lumberjanes to save their camp
   from this crazy sibling rivalry. All…
-date: '2026-07-12'
+date: '2026-07-12T23:59:59'
 authors:
 - roof77
 tags:

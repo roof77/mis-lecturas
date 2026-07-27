@@ -2,7 +2,7 @@
 title: Batallas de amor
 summary: 'Grace Paley (Nueva York, 1922 - Vermont, 2007) vivió entre dos culturas: la de sus padres, inmigrantes judíos rusos,
   y la de la gente de la calle, que le…'
-date: '2019-11-12'
+date: '2019-11-12T23:59:59'
 authors:
 - roof77
 tags:

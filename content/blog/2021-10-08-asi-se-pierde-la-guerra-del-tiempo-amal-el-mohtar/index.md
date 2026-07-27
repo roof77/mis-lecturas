@@ -2,7 +2,7 @@
 title: Así se pierde la guerra del tiempo
 summary: Así se pierde la guerra del tiempo de Max Gladstone y Amal El-Mohtar es una épica historia de amor entre dos agentes
   rivales en una guerra que se extiende…
-date: '2021-10-08'
+date: '2021-10-08T23:59:59'
 authors:
 - roof77
 tags:

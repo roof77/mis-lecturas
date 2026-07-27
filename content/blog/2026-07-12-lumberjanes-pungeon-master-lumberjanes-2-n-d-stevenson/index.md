@@ -2,7 +2,7 @@
 title: 'Lumberjanes: Pungeon Master (Lumberjanes, #2)'
 summary: When you’re a scout, nothing is more important than being prepared, but how do you prepare for legions of supernatural
   creatures threatening to beat down your…
-date: '2026-07-12'
+date: '2026-07-12T23:59:53'
 authors:
 - roof77
 tags:

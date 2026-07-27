@@ -2,7 +2,7 @@
 title: Huracán en Jamaica
 summary: En Jamaica, a mediados del siglo XIX, los cinco hijos de la familia inglesa Bas-Thornton y los dos de la familia
   criolla Fernández viven en «una especie de…
-date: '2017-07-23'
+date: '2017-07-23T23:59:59'
 authors:
 - roof77
 tags:

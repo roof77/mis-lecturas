@@ -2,7 +2,7 @@
 title: 'Chew, Vol. 1: Taster''s Choice'
 summary: Tony Chu is a detective with a secret. A weird secret. Tony Chu is Cibopathic, which means he gets psychic impressions
   from whatever he eats. It also means…
-date: '2018-08-19'
+date: '2018-08-19T23:59:54'
 authors:
 - roof77
 tags:

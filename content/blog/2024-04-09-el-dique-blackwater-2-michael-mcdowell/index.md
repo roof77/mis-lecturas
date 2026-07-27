@@ -2,7 +2,7 @@
 title: 'El dique (Blackwater, #2)'
 summary: Mientras Perdido se recupera de la inundación, se propone la construcción de un dique que impida una nueva catástrofe.
   Sin embargo con las obras comenzarán las…
-date: '2024-04-09'
+date: '2024-04-09T23:59:59'
 authors:
 - roof77
 tags:

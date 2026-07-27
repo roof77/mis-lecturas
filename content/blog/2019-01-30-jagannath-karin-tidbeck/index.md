@@ -2,7 +2,7 @@
 title: Jagannath
 summary: Una muchacha sube una montaña la noche del solsticio de verano y no es vista nunca más. Un joven espera el regreso
   de su madre, perdida en el bosque. Un…
-date: '2019-01-30'
+date: '2019-01-30T23:59:58'
 authors:
 - roof77
 tags:

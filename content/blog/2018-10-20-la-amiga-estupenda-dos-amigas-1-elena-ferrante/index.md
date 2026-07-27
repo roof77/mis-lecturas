@@ -2,7 +2,7 @@
 title: 'La amiga estupenda (Dos amigas, #1)'
 summary: Con La amiga estupenda, Elena Ferrante inaugura una tetralogia deslumbrante que tiene como telón de fondo la ciudad
   de Nápoles a mediados del siglo pasado y…
-date: '2018-10-20'
+date: '2018-10-20T23:59:59'
 authors:
 - roof77
 tags:

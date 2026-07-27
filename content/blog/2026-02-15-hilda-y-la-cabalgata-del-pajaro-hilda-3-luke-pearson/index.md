@@ -2,7 +2,7 @@
 title: 'Hilda y la cabalgata del pájaro (Hilda, #3)'
 summary: Luke Pearson, en la última entrega de Hilda, traslada a la niña a la ciudad de Trölberg, donde los temores de su
   madre por los peligros de la ciudad no le…
-date: '2026-02-15'
+date: '2026-02-15T23:59:59'
 authors:
 - roof77
 tags:

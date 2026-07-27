@@ -2,7 +2,7 @@
 title: Aunque ya supiera el final
 summary: Ganadora del premio Nebula y finalista de los premios Locus, Hugo, Ignyte y World Fantasy. En el Chicago de los años
   40 tienen cabida los pactos demoníacos…
-date: '2024-10-17'
+date: '2024-10-17T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Carter
 summary: Jack Carter, principal sicario de los mafiosos londinenses Les y Gerald Fletcher, regresa a su ciudad natal en el
   norte de Inglaterra tras ocho años de…
-date: '2017-12-28'
+date: '2017-12-28T23:59:59'
 authors:
 - roof77
 tags:

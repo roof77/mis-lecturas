@@ -2,7 +2,7 @@
 title: Las efímeras
 summary: Dora y Violeta Oliver, dos hermanas que mantienen una ambigua relación, viven aisladas en una casa situada a las
   afueras de una comunidad. Sus miembros se han…
-date: '2015-12-20'
+date: '2015-12-20T23:59:59'
 authors:
 - roof77
 tags:

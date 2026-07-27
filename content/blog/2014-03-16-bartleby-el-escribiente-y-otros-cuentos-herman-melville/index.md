@@ -2,7 +2,7 @@
 title: Bartleby, el escribiente y otros cuentos
 summary: Academics hail it as the beginning of modernism, but to readers around the world even those daunted by Moby-Dick
   Bartleby the Scrivener is simply one of the…
-date: '2014-03-16'
+date: '2014-03-16T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: La leyenda del Santo Bebedor
 summary: La leyenda del Santo Bebedor, fue publicada por primera vez en 1939, pocos meses después de la muerte de Roth, exiliado
   en París, y puede ser considerada, por…
-date: '2023-05-10'
+date: '2023-05-10T23:59:59'
 authors:
 - roof77
 tags:

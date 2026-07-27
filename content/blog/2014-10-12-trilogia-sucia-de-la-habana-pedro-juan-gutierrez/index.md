@@ -2,7 +2,7 @@
 title: Trilogía sucia de La Habana
 summary: Éste es el testimonio de un habanero descreído. Un hombre que regresa extenuado de un largo camino que finalmente
   no lo condujo a sitio alguno. Pero no es…
-date: '2014-10-12'
+date: '2014-10-12T23:59:59'
 authors:
 - roof77
 tags:

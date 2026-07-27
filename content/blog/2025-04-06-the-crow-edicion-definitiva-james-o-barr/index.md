@@ -2,7 +2,7 @@
 title: 'The Crow: Edición definitiva'
 summary: Días antes de su boda, Eric Draven y su novia Shelly son asesinados violentamente por una pandilla. Un años más tarde,
   un misterioso cuervo guía a Eric en su…
-date: '2025-04-06'
+date: '2025-04-06T23:59:59'
 authors:
 - roof77
 tags:

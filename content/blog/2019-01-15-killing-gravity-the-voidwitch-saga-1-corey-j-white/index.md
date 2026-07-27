@@ -2,7 +2,7 @@
 title: 'Killing Gravity (The Voidwitch Saga, #1)'
 summary: Mariam Xi can kill you with her mind. She escaped the MEPHISTO lab where she was raised as a psychic supersoldier,
   which left her with terrifying capabilities…
-date: '2019-01-15'
+date: '2019-01-15T23:59:59'
 authors:
 - roof77
 tags:

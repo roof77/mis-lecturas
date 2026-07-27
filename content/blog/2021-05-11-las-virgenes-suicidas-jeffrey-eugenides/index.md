@@ -2,7 +2,7 @@
 title: Las vírgenes suicidas
 summary: "En menos de un año y medio, las cinco hermanas Lisbon, adolescentes de entre trece y diecisiete años, se suicidaron.\r\
   \n\r\nLos jovencitos del barrio habían estado…"
-date: '2021-05-11'
+date: '2021-05-11T23:59:59'
 authors:
 - roof77
 tags:

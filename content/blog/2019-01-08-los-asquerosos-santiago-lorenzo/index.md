@@ -2,7 +2,7 @@
 title: Los asquerosos
 summary: Manuel acuchilla a un policía antidisturbios que quería pegarle. Huye. Se esconde en una aldea abandonada. Sobrevive
   de libros Austral, vegetales de los…
-date: '2019-01-08'
+date: '2019-01-08T23:59:59'
 authors:
 - roof77
 tags:

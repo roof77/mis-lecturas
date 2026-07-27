@@ -2,7 +2,7 @@
 title: La vegetariana
 summary: '"La vegetariana" relata la historia de una mujer corriente, Yeonghye, que por la simple decisión de no volver a
   comer carne convierte una vida normal en una…'
-date: '2018-06-12'
+date: '2018-06-12T23:59:59'
 authors:
 - roof77
 tags:

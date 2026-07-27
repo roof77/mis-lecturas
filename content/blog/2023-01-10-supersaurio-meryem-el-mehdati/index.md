@@ -2,7 +2,7 @@
 title: Supersaurio
 summary: El debut literario de una autora con una voz única que enhebra humor y melancolía con la precisión de una criatura
   prehistórica que acaba de probar la sangre…
-date: '2023-01-10'
+date: '2023-01-10T23:59:59'
 authors:
 - roof77
 tags:

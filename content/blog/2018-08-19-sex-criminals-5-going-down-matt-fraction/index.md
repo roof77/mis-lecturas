@@ -2,7 +2,7 @@
 title: 'Sex Criminals #5: Going Down'
 summary: The best part of a new relationship is the first three weeks, right? The rush of the new, the gravitational pull
   of the sudden other-ness in your life, the…
-date: '2018-08-19'
+date: '2018-08-19T23:59:59'
 authors:
 - roof77
 tags:

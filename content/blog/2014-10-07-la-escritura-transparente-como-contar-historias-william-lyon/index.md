@@ -2,7 +2,7 @@
 title: 'La escritura transparente: Cómo contar historias'
 summary: "Si la lectura del periódico sigue siendo la oración matinal del agnóstico, ¿por qué hay mañanas en las que uno preferiría\
   \ volverse a la cama? \r\nSi las cartas…"
-date: '2014-10-07'
+date: '2014-10-07T23:59:59'
 authors:
 - roof77
 tags:

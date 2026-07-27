@@ -2,7 +2,7 @@
 title: Ring Shout. Nuestro cántico
 summary: Una fantasía histórica oscura y de lo más sonada con un final apoteósico que da un giro sobrenatural al reino del
   terror del Ku Klux Klan. En 1915, el estreno…
-date: '2022-03-04'
+date: '2022-03-04T23:59:59'
 authors:
 - roof77
 tags:

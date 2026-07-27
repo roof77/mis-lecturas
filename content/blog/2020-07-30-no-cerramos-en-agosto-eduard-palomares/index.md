@@ -2,7 +2,7 @@
 title: No cerramos en agosto
 summary: 'Jordi Viassolo consigue un trabajo de becario –temporal y mal pagado– en una agencia de detectives de Barcelona.
   La misión que le encargan es simple: mantener…'
-date: '2020-07-30'
+date: '2020-07-30T23:59:59'
 authors:
 - roof77
 tags:

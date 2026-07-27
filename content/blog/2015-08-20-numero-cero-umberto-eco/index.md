@@ -2,7 +2,7 @@
 title: Número Cero
 summary: «Los perdedores y los autodidactas siempre saben mucho más que los ganadores. Si quieres ganar, tienes que concentrarte
   en un solo objetivo, y más te vale no…
-date: '2015-08-20'
+date: '2015-08-20T23:59:59'
 authors:
 - roof77
 tags:

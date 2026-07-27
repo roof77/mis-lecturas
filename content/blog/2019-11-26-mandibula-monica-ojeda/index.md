@@ -2,7 +2,7 @@
 title: Mandíbula
 summary: Una adolescente fanática del horror y de las "creepypastas" (historias de terror que circulan por internet) despierta
   maniatada en una cabaña en medio del…
-date: '2019-11-26'
+date: '2019-11-26T23:59:59'
 authors:
 - roof77
 tags:

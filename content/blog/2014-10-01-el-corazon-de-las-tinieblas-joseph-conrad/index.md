@@ -2,7 +2,7 @@
 title: El corazón de las tinieblas
 summary: Escrita en forma de un largo monólogo, "El corazón de las tinieblas" es a la vez una sátira de los abusos de la colonización
   europea en el corazón del África…
-date: '2014-10-01'
+date: '2014-10-01T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Haarmann
 summary: El temor hace ya varios meses que recorre las callejuelas del casco antiguo de Hannover y la gente sigue desapareciendo
   sin dejar rastro. Los temores más…
-date: '2025-04-24'
+date: '2025-04-24T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Pícnic junto al camino
 summary: La fugaz visita de naves extraterrestres ha dejado misteriosos desperdicios fruto del insólito pícnic junto al camino
   de unos seres absolutamente…
-date: '2014-04-27'
+date: '2014-04-27T23:59:58'
 authors:
 - roof77
 tags:

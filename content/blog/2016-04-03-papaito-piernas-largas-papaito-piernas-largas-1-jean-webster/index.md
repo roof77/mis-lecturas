@@ -2,7 +2,7 @@
 title: 'Papaíto piernas largas (Papaíto piernas largas, #1)'
 summary: Judy Abbott es una muchacha alegre, cordial y trabajadora que no conoce el mundo más allá de los muros del orfanato
   donde se ha criado... hasta que su vida da…
-date: '2016-04-03'
+date: '2016-04-03T23:59:59'
 authors:
 - roof77
 tags:

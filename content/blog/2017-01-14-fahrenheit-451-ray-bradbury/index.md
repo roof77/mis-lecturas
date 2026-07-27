@@ -2,7 +2,7 @@
 title: Fahrenheit 451
 summary: Fahrenheit 451 ofrece la historia de un sombrío y horroroso futuro. Montag, el protagonista, pertenece a una extraña
   brigada de bomberos cuya misión…
-date: '2017-01-14'
+date: '2017-01-14T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: El tochaco de Mr. Natural
 summary: Cómo ganar amigos e influir en las personas. Descubre tus zonas erróneas. Viaje al optimismo. El arte de no amargarse
   la vida. Reinventarse y emprender. El…
-date: '2026-06-16'
+date: '2026-06-16T23:59:59'
 authors:
 - roof77
 tags:

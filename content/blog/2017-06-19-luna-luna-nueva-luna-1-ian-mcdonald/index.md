@@ -2,7 +2,7 @@
 title: 'Luna: Luna nueva (Luna, #1)'
 summary: "LA LUNA QUIERE MATARTE. Y TIENE MIL FORMAS DE CONSEGUIRLO.\r\n\r\nLa gélida acritud del vacío. La letal lluvia radiactiva.\
   \ El polvo que la recubre, tan viejo como…"
-date: '2017-06-19'
+date: '2017-06-19T23:59:59'
 authors:
 - roof77
 tags:

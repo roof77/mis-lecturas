@@ -2,7 +2,7 @@
 title: El Trampero
 summary: El Trampero fue llevado al cine en Las aventuras de Jeremiah Johnson (1972), de Sydney Pollack, protagonizada por
   Robert Redford y con guión de John…
-date: '2015-09-20'
+date: '2015-09-20T23:59:59'
 authors:
 - roof77
 tags:

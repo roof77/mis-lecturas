@@ -2,7 +2,7 @@
 title: Ahora es el momento
 summary: En los años 60, un adolescente de Idaho llamado Rigby John Klusener llega a la conclusión que debe abandonar la granja
   de sus padres. Ni su familia…
-date: '2015-10-04'
+date: '2015-10-04T23:59:59'
 authors:
 - roof77
 tags:

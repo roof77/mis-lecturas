@@ -2,7 +2,7 @@
 title: El zoo de papel y otros relatos
 summary: Quince relatos y novelas cortas de uno de los mejores escritores de ficción breve de la ciencia-ficción. "El zoo
   de papel" es la primera obra que ha obtenido…
-date: '2022-06-19'
+date: '2022-06-19T23:59:59'
 authors:
 - roof77
 tags:

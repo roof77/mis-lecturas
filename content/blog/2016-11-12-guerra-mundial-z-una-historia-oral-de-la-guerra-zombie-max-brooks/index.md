@@ -2,7 +2,7 @@
 title: 'Guerra mundial Z: Una historia oral de la guerra zombie'
 summary: Max Brooks ha dedicado varios años a recorrer el mundo en busca de todos los testimonios que ahora reúne aquí sobre
   la guerra mundial zombi. Por insólito que…
-date: '2016-11-12'
+date: '2016-11-12T23:59:59'
 authors:
 - roof77
 tags:

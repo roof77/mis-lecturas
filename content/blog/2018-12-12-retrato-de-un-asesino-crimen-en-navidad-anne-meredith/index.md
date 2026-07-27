@@ -2,7 +2,7 @@
 title: Retrato de un asesino. Crimen en Navidad
 summary: «Adrian Gray nació en mayo de 1862 y murió violentamente a manos de uno de sus propios hijos el día de Navidad de
   1931. El crimen fue espontáneo e…
-date: '2018-12-12'
+date: '2018-12-12T23:59:59'
 authors:
 - roof77
 tags:

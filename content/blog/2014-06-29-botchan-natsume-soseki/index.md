@@ -2,7 +2,7 @@
 title: Botchan
 summary: Botchan es un indiscutible clásico de la moderna literatura japonesa y, desde hace más de cien años, una de las novelas
   más celebradas por los lectores de…
-date: '2014-06-29'
+date: '2014-06-29T23:59:59'
 authors:
 - roof77
 tags:

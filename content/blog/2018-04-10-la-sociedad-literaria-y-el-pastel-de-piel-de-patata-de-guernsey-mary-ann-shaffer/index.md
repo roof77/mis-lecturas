@@ -2,7 +2,7 @@
 title: La sociedad literaria y el pastel de piel de patata de Guernsey
 summary: 'Enero de 1946: Londres emerge de las sombras de la segunda guerra mundial. La escritora Juliet Ashton encuentra
   la carta de un desconocido, un nativo de la…'
-date: '2018-04-10'
+date: '2018-04-10T23:59:59'
 authors:
 - roof77
 tags:

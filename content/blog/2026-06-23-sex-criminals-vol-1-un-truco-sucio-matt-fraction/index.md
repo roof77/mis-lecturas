@@ -2,7 +2,7 @@
 title: 'Sex Criminals, Vol. 1: Un truco sucio'
 summary: 'Suzie y Jon tienen una habilidad particular: cuando tienen un orgasmo, el tiempo se suspende y el mundo a su alrededor
   se paraliza. De adolescentes, usaban ese…'
-date: '2026-06-23'
+date: '2026-06-23T23:59:57'
 authors:
 - roof77
 tags:

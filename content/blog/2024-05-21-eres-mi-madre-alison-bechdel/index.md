@@ -2,7 +2,7 @@
 title: ¿Eres mi madre?
 summary: La autora del bestseller Fun Home regresa a su exitosa saga familiar. Si has leído la primera novela gráfica de Alison
   Bechdel, Fun Home. Una familia…
-date: '2024-05-21'
+date: '2024-05-21T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: 'El último deseo (Geralt de Rivia, #0.5)'
 summary: 'Geralt de Rivia, brujo y mutante sobrehumano, se gana la vida como cazador de monstruos en una tierra de magia y
   maravilla: con sus dos espadas al hombro -la…'
-date: '2018-05-07'
+date: '2018-05-07T23:59:59'
 authors:
 - roof77
 tags:

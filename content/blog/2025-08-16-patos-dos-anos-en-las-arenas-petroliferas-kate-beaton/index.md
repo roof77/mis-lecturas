@@ -2,7 +2,7 @@
 title: Patos. Dos años en las arenas petrolíferas
 summary: Antes de Kate Beaton, la autora de Hark! A Vagrant, había la Kate Beaton de los Beaton de Cabo Bretón, específicamente
   de Mabou, una comunidad costera muy…
-date: '2025-08-16'
+date: '2025-08-16T23:59:59'
 authors:
 - roof77
 tags:

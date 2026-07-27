@@ -1,7 +1,7 @@
 ---
 title: 'Odio, vol. 13: Mi gran boda yanqui (Hate, #3)'
 summary: 'Reseña de lectura de «Odio, vol. 13: Mi gran boda yanqui (Hate, #3)».'
-date: '2026-05-25'
+date: '2026-05-25T23:59:57'
 authors:
 - roof77
 tags:

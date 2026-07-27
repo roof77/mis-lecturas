@@ -2,7 +2,7 @@
 title: Mundo maravilloso
 summary: El año es 1978. El lugar es Camber Sands, Inglaterra. Lorenzo Giraut es un hombre que no se acerca a las ventanas.
   Que sabe muy bien que no debe acercarse a…
-date: '2016-07-07'
+date: '2016-07-07T23:59:59'
 authors:
 - roof77
 tags:

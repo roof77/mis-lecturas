@@ -2,7 +2,7 @@
 title: Cuentos escogidos
 summary: Una mujer pasa el día de su boda buscando frenéticamente a su futuro marido, otra hace un extraño viaje nocturno
   en autobús, un librero satisface la, en…
-date: '2021-02-09'
+date: '2021-02-09T23:59:59'
 authors:
 - roof77
 tags:

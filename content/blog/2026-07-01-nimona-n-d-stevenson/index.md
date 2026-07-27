@@ -2,7 +2,7 @@
 title: Nimona
 summary: The graphic novel debut from rising star ND Stevenson, based on his beloved and critically acclaimed web comic, which
   Slate awarded its Cartoonist Studio…
-date: '2026-07-01'
+date: '2026-07-01T23:59:59'
 authors:
 - roof77
 tags:

@@ -2,7 +2,7 @@
 title: Jane Eyre
 summary: De Jane Eyre (1847), ciertamente una de las novelas más famosas de estos dos últimos siglos, solemos conservar la
   imagen ultrarromántica de una azarosa…
-date: '2021-06-14'
+date: '2021-06-14T23:59:59'
 authors:
 - roof77
 tags:

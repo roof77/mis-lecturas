@@ -2,7 +2,7 @@
 title: Todas las almas
 summary: '"Todas las almas" coincide con un nombre bien conocido en Oxford, el All Souls College, miembro del grupo de colegios
   que integran la famosa universidad. Con…'
-date: '2014-04-22'
+date: '2014-04-22T23:59:59'
 authors:
 - roof77
 tags:
