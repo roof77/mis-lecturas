@@ -20,6 +20,8 @@ toc: false
 autores:
 - David Mitchell
 - Laura Salas Rodríguez
+autores_stats:
+- David Mitchell
 editoriales:
 - Literatura Random House
 image:

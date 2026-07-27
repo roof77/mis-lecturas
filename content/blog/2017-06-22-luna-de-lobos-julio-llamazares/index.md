@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Julio Llamazares
+autores_stats:
+- Julio Llamazares
 editoriales:
 - Seix Barral
 image:

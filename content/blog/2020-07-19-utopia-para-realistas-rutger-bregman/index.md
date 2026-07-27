@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Rutger Bregman
+autores_stats:
+- Rutger Bregman
 editoriales:
 - Salamandra
 image:

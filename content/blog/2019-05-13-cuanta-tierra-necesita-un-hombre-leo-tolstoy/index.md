@@ -23,6 +23,9 @@ autores:
 - Víctor Gallego
 - Elena Odriozola
 - Lev Tolstói
+autores_stats:
+- Leo Tolstoy
+- Lev Tolstói
 editoriales:
 - Nordica Libros
 image:

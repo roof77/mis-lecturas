@@ -19,6 +19,13 @@ autores:
 - Juliana Horatia Ewing
 - Wilkie Collins
 - Miguel Ángel Pérez Pérez
+autores_stats:
+- Charles Dickens
+- Anthony Trollope
+- Charlotte Riddell
+- Arthur Conan Doyle
+- Juliana Horatia Ewing
+- Wilkie Collins
 editoriales:
 - Alianza Editorial
 image:

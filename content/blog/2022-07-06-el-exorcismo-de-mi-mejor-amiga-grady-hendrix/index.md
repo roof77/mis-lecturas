@@ -20,6 +20,8 @@ toc: false
 autores:
 - Grady Hendrix
 - Joan Josep Mussarra Roca
+autores_stats:
+- Grady Hendrix
 editoriales:
 - Minotauro
 image:

@@ -17,6 +17,8 @@ toc: false
 autores:
 - Hiromi Kawakami
 - Marina Bornas Montaña
+autores_stats:
+- Hiromi Kawakami
 editoriales:
 - Acantilado
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Liu Cixin
 - Javier Altayó
+autores_stats:
+- Liu Cixin
 editoriales:
 - NOVA
 image:

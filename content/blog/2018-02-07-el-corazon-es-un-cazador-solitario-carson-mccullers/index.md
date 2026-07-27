@@ -21,6 +21,8 @@ toc: false
 autores:
 - Carson McCullers
 - Rosa María Bassols Camarasa
+autores_stats:
+- Carson McCullers
 editoriales:
 - Seix Barral
 image:

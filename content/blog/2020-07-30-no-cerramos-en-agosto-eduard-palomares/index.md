@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Eduard Palomares
+autores_stats:
+- Eduard Palomares
 editoriales:
 - Libros del Asteroide
 image:

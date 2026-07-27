@@ -17,6 +17,8 @@ autores:
 - Vigdis Hjorth
 - Kirsti Baggethun
 - Asunción Lorenzo
+autores_stats:
+- Vigdis Hjorth
 editoriales:
 - Nórdica Libros
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Claire North
 - Jaime Valero
+autores_stats:
+- Claire North
 editoriales:
 - Colmena Ediciones
 image:

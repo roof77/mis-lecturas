@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Connie Willis
+autores_stats:
+- Connie Willis
 editoriales:
 - Nova
 image:

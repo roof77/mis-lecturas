@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Hugo Pratt
+autores_stats:
+- Hugo Pratt
 editoriales:
 - Norma Editorial, S.A.
 image:

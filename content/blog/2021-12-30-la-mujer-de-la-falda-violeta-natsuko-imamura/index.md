@@ -20,6 +20,8 @@ toc: false
 autores:
 - Natsuko Imamura
 - Juan Francisco González Sánchez
+autores_stats:
+- Natsuko Imamura
 editoriales:
 - Duomo
 image:

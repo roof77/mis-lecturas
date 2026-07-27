@@ -24,6 +24,8 @@ autores:
 - Alex Sinclair
 - John Roshell
 - Alex Ross
+autores_stats:
+- Kurt Busiek
 editoriales:
 - Homage Comics
 image:

@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Gay Talese
+autores_stats:
+- Gay Talese
 editoriales:
 - Alfaguara
 image:

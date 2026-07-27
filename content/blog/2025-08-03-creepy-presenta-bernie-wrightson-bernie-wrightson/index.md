@@ -21,6 +21,8 @@ autores:
 - Bill Dubai
 - Bruce Jones
 - Budd Lewis
+autores_stats:
+- Bernie Wrightson
 editoriales:
 - Planeta DeAgostini
 image:

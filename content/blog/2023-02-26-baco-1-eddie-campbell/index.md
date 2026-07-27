@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Eddie Campbell
+autores_stats:
+- Eddie Campbell
 editoriales:
 - 'Astiberri '
 image:

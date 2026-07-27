@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Nathanael West
+autores_stats:
+- Nathanael West
 editoriales:
 - Alianza Editorial
 image:

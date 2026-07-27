@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - A.S. King
+autores_stats:
+- A.S. King
 editoriales:
 - Little, Brown BFYR
 image:

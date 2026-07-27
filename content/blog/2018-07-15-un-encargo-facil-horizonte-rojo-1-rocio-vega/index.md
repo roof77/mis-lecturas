@@ -15,6 +15,8 @@ tags:
 toc: false
 autores:
 - Rocío Vega
+autores_stats:
+- Rocío Vega
 editoriales:
 - Editorial Café con leche
 image:

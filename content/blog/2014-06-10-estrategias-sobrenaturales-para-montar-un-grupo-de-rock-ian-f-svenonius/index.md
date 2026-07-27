@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Ian F. Svenonius
+autores_stats:
+- Ian F. Svenonius
 editoriales:
 - Blackie Books
 image:

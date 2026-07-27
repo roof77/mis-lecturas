@@ -21,6 +21,8 @@ toc: false
 autores:
 - Ahmed Saadawi
 - Anna Gil Bardají
+autores_stats:
+- Ahmed Saadawi
 editoriales:
 - Libros del Asteroide
 image:

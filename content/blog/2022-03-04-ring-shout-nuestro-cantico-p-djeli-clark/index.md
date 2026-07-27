@@ -20,6 +20,8 @@ toc: false
 autores:
 - P. Djèlí Clark
 - Raúl García Campos
+autores_stats:
+- P. Djèlí Clark
 editoriales:
 - Obscura
 image:

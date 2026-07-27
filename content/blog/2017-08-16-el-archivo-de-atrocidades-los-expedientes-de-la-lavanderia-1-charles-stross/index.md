@@ -21,6 +21,8 @@ autores:
 - Charles Stross
 - Blanca Rodríguez
 - Antonio Rivas
+autores_stats:
+- Charles Stross
 editoriales:
 - Insólita
 image:

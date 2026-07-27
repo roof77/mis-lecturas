@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Lorenzo Montatore
+autores_stats:
+- Lorenzo Montatore
 editoriales:
 - La Cúpula
 image:

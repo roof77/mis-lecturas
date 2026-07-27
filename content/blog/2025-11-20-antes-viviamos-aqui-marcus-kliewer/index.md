@@ -19,6 +19,8 @@ toc: false
 autores:
 - Marcus Kliewer
 - I. C. Salabert
+autores_stats:
+- Marcus Kliewer
 editoriales:
 - Nocturna Ediciones
 image:

@@ -23,6 +23,8 @@ autores:
 - Juan Antonio Molina Foix
 - Francisco Torres Oliver
 - José María Nebreda
+autores_stats:
+- H.P. Lovecraft
 editoriales:
 - Valdemar
 image:

@@ -16,6 +16,8 @@ tags:
 toc: false
 autores:
 - Charles Burns
+autores_stats:
+- Charles Burns
 editoriales:
 - La Cúpula
 image:

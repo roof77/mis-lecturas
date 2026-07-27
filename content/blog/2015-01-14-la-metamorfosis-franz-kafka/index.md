@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Franz Kafka
+autores_stats:
+- Franz Kafka
 editoriales:
 - Agebe
 image:

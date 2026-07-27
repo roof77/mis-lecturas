@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Max Brooks
+autores_stats:
+- Max Brooks
 editoriales:
 - Almuzara
 image:

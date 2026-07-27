@@ -20,6 +20,8 @@ toc: false
 autores:
 - Alan Moore
 - Juan Trejo
+autores_stats:
+- Alan Moore
 editoriales:
 - Nocturna
 image:

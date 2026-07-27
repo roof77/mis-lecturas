@@ -21,6 +21,8 @@ toc: false
 autores:
 - Autumn Christian
 - Hugo Camacho
+autores_stats:
+- Autumn Christian
 editoriales:
 - Orciny Press
 image:

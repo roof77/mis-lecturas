@@ -17,6 +17,9 @@ toc: false
 autores:
 - Moderna de Pueblo
 - Carlos Carrero
+autores_stats:
+- Moderna de Pueblo
+- Carlos Carrero
 editoriales:
 - Lumen
 image:

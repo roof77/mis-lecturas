@@ -21,6 +21,8 @@ autores:
 - George Saunders
 - Chelsea Cardinal
 - Javier Calvo Perales
+autores_stats:
+- George Saunders
 editoriales:
 - Seix Barral
 image:

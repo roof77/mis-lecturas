@@ -18,6 +18,8 @@ toc: false
 autores:
 - Ida Hegazi Høyer
 - Cristina Gómez Baggethun
+autores_stats:
+- Ida Hegazi Høyer
 editoriales:
 - Nórdica Libros
 image:

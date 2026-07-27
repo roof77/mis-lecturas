@@ -21,6 +21,8 @@ toc: false
 autores:
 - David Diop
 - Rubén Martín Giráldez
+autores_stats:
+- David Diop
 editoriales:
 - Anagrama
 image:

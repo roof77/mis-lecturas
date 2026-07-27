@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Jacqueline Harpman
+autores_stats:
+- Jacqueline Harpman
 editoriales:
 - ALIANZA EDITORIAL
 image:

@@ -19,6 +19,8 @@ toc: false
 autores:
 - Chris Offutt
 - Javier Lucini
+autores_stats:
+- Chris Offutt
 editoriales:
 - Sajalín
 image:

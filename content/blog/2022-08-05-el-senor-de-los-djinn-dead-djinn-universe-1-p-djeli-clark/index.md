@@ -21,6 +21,8 @@ autores:
 - P. Djèlí Clark
 - Rebeca Cardeñoso
 - Sofía Sanz
+autores_stats:
+- P. Djèlí Clark
 editoriales:
 - Duermevela
 image:

@@ -20,6 +20,8 @@ autores:
 - Breece D'J Pancake
 - Albert Fuentes
 - John Casey
+autores_stats:
+- Breece D'J Pancake
 editoriales:
 - Alpha Decay
 image:

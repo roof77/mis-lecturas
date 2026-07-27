@@ -21,6 +21,8 @@ toc: false
 autores:
 - Bonnie Jo Campbell
 - Tomás Cobos
+autores_stats:
+- Bonnie Jo Campbell
 editoriales:
 - Dirty Works Editorial
 image:

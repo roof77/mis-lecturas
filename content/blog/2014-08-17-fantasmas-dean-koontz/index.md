@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Dean Koontz
+autores_stats:
+- Dean Koontz
 editoriales:
 - Ediciones Martínez Roca
 image:

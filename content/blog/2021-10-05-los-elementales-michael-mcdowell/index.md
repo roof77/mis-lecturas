@@ -20,6 +20,8 @@ toc: false
 autores:
 - Michael McDowell
 - Teresa Arijón
+autores_stats:
+- Michael McDowell
 editoriales:
 - 'Buenos Aires: La Bestia Equilátera'
 image:

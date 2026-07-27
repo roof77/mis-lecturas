@@ -17,6 +17,8 @@ toc: false
 autores:
 - Verity Bargate
 - Mireia Bofill Abelló
+autores_stats:
+- Verity Bargate
 editoriales:
 - Alba
 image:

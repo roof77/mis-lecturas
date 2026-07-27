@@ -19,6 +19,8 @@ toc: false
 autores:
 - Oyinkan Braithwaite
 - Montse Meneses Vilar
+autores_stats:
+- Oyinkan Braithwaite
 editoriales:
 - Alpha Decay
 image:

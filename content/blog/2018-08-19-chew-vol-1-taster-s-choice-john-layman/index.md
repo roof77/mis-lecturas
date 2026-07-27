@@ -19,6 +19,8 @@ toc: false
 autores:
 - John Layman
 - Rob Guillory
+autores_stats:
+- John Layman
 editoriales:
 - Image Comics
 image:

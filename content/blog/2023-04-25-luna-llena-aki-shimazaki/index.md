@@ -20,6 +20,8 @@ toc: false
 autores:
 - Aki Shimazaki
 - Javier Albiñana
+autores_stats:
+- Aki Shimazaki
 editoriales:
 - Tusquets
 image:

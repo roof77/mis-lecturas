@@ -19,6 +19,8 @@ toc: false
 autores:
 - Jen Wang
 - Julia Osuna Aguilar
+autores_stats:
+- Jen Wang
 editoriales:
 - Sapristi
 image:

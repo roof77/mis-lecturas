@@ -20,6 +20,8 @@ toc: false
 autores:
 - Ann Leckie
 - Victoria Morera García
+autores_stats:
+- Ann Leckie
 editoriales:
 - Ediciones B
 image:

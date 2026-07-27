@@ -20,6 +20,8 @@ toc: false
 autores:
 - Osamu Dazai
 - Montse Watkins
+autores_stats:
+- Osamu Dazai
 editoriales:
 - Sajalin Editores
 image:

@@ -20,6 +20,8 @@ autores:
 - Anna Katharine Green
 - Rosa Sahuquillo Moreno
 - Susanna González
+autores_stats:
+- Anna Katharine Green
 editoriales:
 - dÉpoca editorial
 image:

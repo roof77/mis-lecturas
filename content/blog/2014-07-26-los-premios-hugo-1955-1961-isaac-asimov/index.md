@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Isaac Asimov
+autores_stats:
+- Isaac Asimov
 editoriales:
 - Círculo de Lectores
 image:

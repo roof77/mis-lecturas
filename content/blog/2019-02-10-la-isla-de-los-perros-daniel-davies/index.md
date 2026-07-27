@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - Daniel Davies
+autores_stats:
+- Daniel Davies
 editoriales:
 - Editorial Anagrama
 image:

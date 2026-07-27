@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Félix Romeo
+autores_stats:
+- Félix Romeo
 editoriales:
 - Plot.
 image:

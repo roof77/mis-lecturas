@@ -22,6 +22,8 @@ autores:
 - Hiromi Kawakami
 - Yoko Ogihara
 - Fernando Cordobés
+autores_stats:
+- Hiromi Kawakami
 editoriales:
 - Alfaguara
 image:

@@ -21,6 +21,8 @@ toc: false
 autores:
 - Graham Greene
 - Ana Goldar
+autores_stats:
+- Graham Greene
 editoriales:
 - Alianza Editorial
 image:

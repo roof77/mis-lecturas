@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Terry Southern
+autores_stats:
+- Terry Southern
 editoriales:
 - 'Capitán Swing libros '
 image:

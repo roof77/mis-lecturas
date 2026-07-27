@@ -21,6 +21,8 @@ autores:
 - Iván Monalisa Ojeda
 - Hannah Kauders
 - Pedro Almodóvar
+autores_stats:
+- Iván Monalisa Ojeda
 editoriales:
 - Astra House
 image:

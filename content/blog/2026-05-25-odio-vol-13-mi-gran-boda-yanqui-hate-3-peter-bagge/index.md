@@ -11,6 +11,8 @@ toc: false
 autores:
 - Peter Bagge
 - Hernán Migoya
+autores_stats:
+- Peter Bagge
 editoriales:
 - La Cúpula
 image:

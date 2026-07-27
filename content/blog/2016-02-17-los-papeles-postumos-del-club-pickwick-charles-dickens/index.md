@@ -20,6 +20,8 @@ toc: false
 autores:
 - Charles Dickens
 - José María Valverde
+autores_stats:
+- Charles Dickens
 editoriales:
 - DeBolsillo
 image:

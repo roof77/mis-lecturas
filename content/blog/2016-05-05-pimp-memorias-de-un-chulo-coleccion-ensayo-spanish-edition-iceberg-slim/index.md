@@ -19,6 +19,8 @@ toc: false
 autores:
 - Iceberg Slim
 - Enrique Maldonado Roldán
+autores_stats:
+- Iceberg Slim
 editoriales:
 - Capitán Swing Libros
 image:

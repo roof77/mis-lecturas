@@ -20,6 +20,9 @@ toc: false
 autores:
 - Alessandro Barbucci
 - Barbara Canepa
+autores_stats:
+- Alessandro Barbucci
+- Barbara Canepa
 editoriales:
 - Norma Editorial
 image:

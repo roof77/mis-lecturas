@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Judith Schalansky
+autores_stats:
+- Judith Schalansky
 editoriales:
 - Nórdica Libros
 image:

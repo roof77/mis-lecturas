@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Jonathan Lethem
+autores_stats:
+- Jonathan Lethem
 editoriales:
 - Debolsillo
 image:

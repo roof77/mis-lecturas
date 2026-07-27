@@ -15,6 +15,8 @@ tags:
 toc: false
 autores:
 - Santiago Lorenzo
+autores_stats:
+- Santiago Lorenzo
 editoriales:
 - Blackie Books
 image:

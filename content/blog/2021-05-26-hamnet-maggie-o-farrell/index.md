@@ -20,6 +20,8 @@ toc: false
 autores:
 - Maggie O'Farrell
 - Concha Cardeñoso
+autores_stats:
+- Maggie O'Farrell
 editoriales:
 - Libros del Asteroide
 image:

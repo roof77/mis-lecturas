@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Lev Grossman
+autores_stats:
+- Lev Grossman
 editoriales:
 - B de Bolsillo (Ediciones B)
 image:

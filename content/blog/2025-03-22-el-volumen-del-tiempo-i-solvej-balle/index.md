@@ -20,6 +20,8 @@ toc: false
 autores:
 - Solvej Balle
 - Victoria Alonso
+autores_stats:
+- Solvej Balle
 editoriales:
 - Editorial Anagrama
 image:

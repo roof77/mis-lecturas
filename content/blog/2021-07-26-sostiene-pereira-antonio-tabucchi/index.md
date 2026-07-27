@@ -21,6 +21,8 @@ autores:
 - Antonio Tabucchi
 - Carlos Gumpert
 - Xavier González Rovira
+autores_stats:
+- Antonio Tabucchi
 editoriales:
 - Anagrama
 image:

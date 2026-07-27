@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Dashiell Hammett
+autores_stats:
+- Dashiell Hammett
 editoriales:
 - Alianza Editorial
 image:

@@ -19,6 +19,8 @@ toc: false
 autores:
 - Helene Hanff
 - Francisco Javier Calzada
+autores_stats:
+- Helene Hanff
 editoriales:
 - Editorial Anagrama
 image:

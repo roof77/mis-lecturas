@@ -15,6 +15,8 @@ toc: false
 autores:
 - Manuel Chaves Nogales
 - Andrés Trapiello
+autores_stats:
+- Manuel Chaves Nogales
 editoriales:
 - Libros del Asteroide
 image:

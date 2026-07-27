@@ -24,6 +24,8 @@ autores:
 - Marian Womack
 - Elizabeth Hand
 - Eva Ramón
+autores_stats:
+- Karin Tidbeck
 editoriales:
 - Ediciones Nevsky
 image:

@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Olivia Gallo
+autores_stats:
+- Olivia Gallo
 editoriales:
 - ALPHA DECAY
 image:

@@ -22,6 +22,9 @@ autores:
 - Marcel Allain
 - Pierre Souvestre
 - José Furió
+autores_stats:
+- Marcel Allain
+- Pierre Souvestre
 editoriales:
 - Mondadori (IT)
 image:

@@ -21,6 +21,9 @@ autores:
 - Mary Ann Shaffer
 - Annie Barrows
 - Sandra Campos
+autores_stats:
+- Mary Ann Shaffer
+- Annie Barrows
 editoriales:
 - RBA Libros
 image:

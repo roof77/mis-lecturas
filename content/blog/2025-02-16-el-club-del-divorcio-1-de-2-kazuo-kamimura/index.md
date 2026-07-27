@@ -16,6 +16,8 @@ tags:
 toc: false
 autores:
 - Kazuo Kamimura
+autores_stats:
+- Kazuo Kamimura
 editoriales:
 - ECC
 image:

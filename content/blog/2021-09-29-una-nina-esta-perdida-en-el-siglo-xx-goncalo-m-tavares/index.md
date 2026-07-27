@@ -19,6 +19,8 @@ toc: false
 autores:
 - Gonçalo M. Tavares
 - Rosa Martinez Alfaro
+autores_stats:
+- Gonçalo M. Tavares
 editoriales:
 - Seix Barral
 image:

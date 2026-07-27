@@ -20,6 +20,8 @@ autores:
 - Joseph Conrad
 - Sergio Pitol
 - Mario Vargas Llosa
+autores_stats:
+- Joseph Conrad
 editoriales:
 - Editorial Sudamericana S.A.
 image:

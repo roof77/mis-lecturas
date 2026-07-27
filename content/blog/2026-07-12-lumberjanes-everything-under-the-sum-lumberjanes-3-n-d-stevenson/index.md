@@ -19,6 +19,9 @@ autores:
 - N.D. Stevenson
 - Grace Ellis
 - Brooklyn Allen
+autores_stats:
+- N.D. Stevenson
+- Grace Ellis
 editoriales:
 - BOOM!Box
 image:

@@ -20,6 +20,8 @@ autores:
 - Catriona Ward
 - Cristina Macía
 - Octavi Segarra
+autores_stats:
+- Catriona Ward
 editoriales:
 - Alianza Runas
 image:

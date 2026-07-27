@@ -21,6 +21,8 @@ toc: false
 autores:
 - Thomas Ligotti
 - Marta Lila Murillo
+autores_stats:
+- Thomas Ligotti
 editoriales:
 - Valdemar
 image:

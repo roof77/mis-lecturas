@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Jim Shooter
+autores_stats:
+- Jim Shooter
 editoriales:
 - Panini Comics España
 image:

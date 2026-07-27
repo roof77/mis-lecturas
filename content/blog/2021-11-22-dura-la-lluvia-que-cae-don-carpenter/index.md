@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Don Carpenter
+autores_stats:
+- Don Carpenter
 editoriales:
 - Duomo Ediciones
 image:

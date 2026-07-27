@@ -20,6 +20,8 @@ autores:
 - J.K. Rowling
 - Adolfo Muñoz García
 - Nieves Martín Azofra
+autores_stats:
+- J.K. Rowling
 editoriales:
 - Salamandra
 image:

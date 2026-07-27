@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Julia Gfrörer
+autores_stats:
+- Julia Gfrörer
 editoriales:
 - Alpha Decay
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Michael Dobbs
+autores_stats:
+- Michael Dobbs
 editoriales:
 - Alba Editorial
 image:

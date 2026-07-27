@@ -19,6 +19,8 @@ toc: false
 autores:
 - Amélie Nothomb
 - Sergi Pàmies
+autores_stats:
+- Amélie Nothomb
 editoriales:
 - Editorial Anagrama
 image:

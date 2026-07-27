@@ -22,6 +22,8 @@ autores:
 - Christian Rodriguez
 - Fran Mariscal Mancilla
 - Sara Segovia Esteban
+autores_stats:
+- Edgar Cantero
 editoriales:
 - Insólita
 image:

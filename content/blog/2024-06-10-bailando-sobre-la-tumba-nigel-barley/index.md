@@ -14,6 +14,8 @@ toc: false
 autores:
 - Nigel Barley
 - Federico Corriente
+autores_stats:
+- Nigel Barley
 editoriales:
 - Editorial Anagrama
 image:

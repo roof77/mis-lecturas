@@ -22,6 +22,8 @@ autores:
 - Jack London
 - Javier Calvo
 - Iain Sinclair
+autores_stats:
+- Jack London
 editoriales:
 - Gatopardo
 image:

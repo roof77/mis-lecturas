@@ -20,6 +20,8 @@ toc: false
 autores:
 - N.K. Jemisin
 - David Tejera Expósito
+autores_stats:
+- N.K. Jemisin
 editoriales:
 - Nova
 image:

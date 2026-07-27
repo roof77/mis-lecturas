@@ -20,6 +20,8 @@ toc: false
 autores:
 - Emma Cline
 - Inga Pellisa
+autores_stats:
+- Emma Cline
 editoriales:
 - Editorial Anagrama
 image:

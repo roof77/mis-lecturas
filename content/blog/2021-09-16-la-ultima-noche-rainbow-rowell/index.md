@@ -20,6 +20,8 @@ toc: false
 autores:
 - Rainbow Rowell
 - Faith Erin Hicks
+autores_stats:
+- Rainbow Rowell
 editoriales:
 - Alfaguara
 image:

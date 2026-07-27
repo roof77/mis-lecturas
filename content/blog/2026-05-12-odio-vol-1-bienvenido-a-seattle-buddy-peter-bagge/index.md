@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Peter Bagge
+autores_stats:
+- Peter Bagge
 editoriales:
 - UNKNO
 image:

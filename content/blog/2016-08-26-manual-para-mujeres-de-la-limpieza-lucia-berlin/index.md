@@ -19,6 +19,8 @@ toc: false
 autores:
 - Lucia Berlin
 - Eugenia Vázquez Nacarino
+autores_stats:
+- Lucia Berlin
 editoriales:
 - Alfaguara
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Mo Daviau
 - Carles Andreu Saburit
+autores_stats:
+- Mo Daviau
 editoriales:
 - Blackie Books
 image:

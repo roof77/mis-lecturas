@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - Iván Repila
+autores_stats:
+- Iván Repila
 editoriales:
 - SEIX BARRAL
 image:

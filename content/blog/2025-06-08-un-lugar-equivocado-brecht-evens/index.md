@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Brecht Evens
+autores_stats:
+- Brecht Evens
 editoriales:
 - 'Sins Entido '
 image:

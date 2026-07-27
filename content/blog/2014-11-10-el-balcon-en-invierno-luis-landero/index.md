@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - Luis Landero
+autores_stats:
+- Luis Landero
 editoriales:
 - Tusquets Editores S.A.
 image:

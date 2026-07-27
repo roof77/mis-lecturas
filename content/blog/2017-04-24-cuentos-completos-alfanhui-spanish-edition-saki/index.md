@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Saki
+autores_stats:
+- Saki
 editoriales:
 - Ediciones Alpha Decay
 image:

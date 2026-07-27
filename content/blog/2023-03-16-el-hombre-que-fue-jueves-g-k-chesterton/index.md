@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - G.K. Chesterton
+autores_stats:
+- G.K. Chesterton
 editoriales:
 - MESTAS Ediciones, S.L.
 image:

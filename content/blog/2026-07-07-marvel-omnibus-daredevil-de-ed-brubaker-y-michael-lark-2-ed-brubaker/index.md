@@ -11,6 +11,8 @@ toc: false
 autores:
 - Ed Brubaker
 - Michael Lark
+autores_stats:
+- Ed Brubaker
 editoriales:
 - Panini España
 image:

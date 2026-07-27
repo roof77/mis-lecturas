@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Ann Patchett
+autores_stats:
+- Ann Patchett
 editoriales:
 - DIAGONAL
 image:

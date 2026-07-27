@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Yoshiharu Tsuge
+autores_stats:
+- Yoshiharu Tsuge
 editoriales:
 - Gallo Nero
 image:

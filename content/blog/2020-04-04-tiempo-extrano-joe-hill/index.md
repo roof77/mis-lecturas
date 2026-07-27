@@ -20,6 +20,8 @@ toc: false
 autores:
 - Joe Hill
 - Pilar Ramírez Tello
+autores_stats:
+- Joe Hill
 editoriales:
 - Nocturna Ediciones
 image:

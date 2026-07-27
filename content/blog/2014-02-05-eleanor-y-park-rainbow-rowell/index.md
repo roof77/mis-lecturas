@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Rainbow Rowell
+autores_stats:
+- Rainbow Rowell
 editoriales:
 - Alfaguara Juvenil
 image:

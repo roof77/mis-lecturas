@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Nazario
+autores_stats:
+- Nazario
 editoriales:
 - Anagrama
 image:

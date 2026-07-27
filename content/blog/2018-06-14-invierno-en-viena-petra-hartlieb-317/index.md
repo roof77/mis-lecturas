@@ -21,6 +21,8 @@ toc: false
 autores:
 - Petra Hartlieb
 - Richard Gross
+autores_stats:
+- Petra Hartlieb
 editoriales:
 - Siruela
 image:

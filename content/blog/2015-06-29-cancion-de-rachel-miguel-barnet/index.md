@@ -11,6 +11,8 @@ toc: false
 autores:
 - Miguel Barnet
 - Italo Calvino
+autores_stats:
+- Miguel Barnet
 editoriales:
 - Libros del Asteroide
 image:

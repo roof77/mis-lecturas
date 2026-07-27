@@ -22,6 +22,8 @@ autores:
 - Joan Lindsay
 - Pilar Adón
 - Miguel Cane
+autores_stats:
+- Joan Lindsay
 editoriales:
 - Impedimenta
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Jennifer Egan
+autores_stats:
+- Jennifer Egan
 editoriales:
 - Minúscula
 image:

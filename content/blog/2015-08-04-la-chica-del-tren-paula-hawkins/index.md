@@ -19,6 +19,8 @@ toc: false
 autores:
 - Paula Hawkins
 - Aleix Montoto
+autores_stats:
+- Paula Hawkins
 editoriales:
 - Planeta Internacional
 image:

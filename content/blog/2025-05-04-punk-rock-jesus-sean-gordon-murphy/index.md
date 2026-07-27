@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Sean Gordon Murphy
+autores_stats:
+- Sean Gordon Murphy
 editoriales:
 - Vertigo
 image:

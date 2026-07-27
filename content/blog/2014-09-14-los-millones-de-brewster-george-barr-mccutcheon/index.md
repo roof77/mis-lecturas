@@ -19,6 +19,8 @@ toc: false
 autores:
 - George Barr McCutcheon
 - Pablo Sauras
+autores_stats:
+- George Barr McCutcheon
 editoriales:
 - Alba Editorial
 image:

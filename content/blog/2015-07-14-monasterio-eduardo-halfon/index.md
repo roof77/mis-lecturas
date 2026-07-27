@@ -15,6 +15,8 @@ tags:
 toc: false
 autores:
 - Eduardo Halfon
+autores_stats:
+- Eduardo Halfon
 editoriales:
 - Libros del Asteroide
 image:

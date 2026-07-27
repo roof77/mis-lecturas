@@ -22,6 +22,9 @@ autores:
 - Patricia Highsmith
 - Isabel Núñez
 - José Aguirre
+autores_stats:
+- Claire Morgan
+- Patricia Highsmith
 editoriales:
 - Editorial Anagrama
 image:

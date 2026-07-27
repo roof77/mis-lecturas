@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Barry Gifford
+autores_stats:
+- Barry Gifford
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39722728-baby-cat-face)'
 sexo_autor: V

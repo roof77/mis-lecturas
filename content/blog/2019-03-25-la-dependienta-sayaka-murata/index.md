@@ -20,6 +20,8 @@ toc: false
 autores:
 - Sayaka Murata
 - Marina Bornas
+autores_stats:
+- Sayaka Murata
 editoriales:
 - 'Duomo ediciones '
 image:

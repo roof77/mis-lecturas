@@ -20,6 +20,8 @@ toc: false
 autores:
 - Sohn Won-Pyung
 - Sunme Yoon
+autores_stats:
+- Sohn Won-Pyung
 editoriales:
 - Temas de hoy
 image:

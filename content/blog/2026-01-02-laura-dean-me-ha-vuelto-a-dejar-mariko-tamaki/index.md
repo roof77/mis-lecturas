@@ -21,6 +21,8 @@ autores:
 - Mariko Tamaki
 - Rosemary Valero-O'Connell
 - Natalia Mosquera
+autores_stats:
+- Mariko Tamaki
 editoriales:
 - Ediciones La Cúpula
 image:

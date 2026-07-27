@@ -20,6 +20,8 @@ toc: false
 autores:
 - Raina Telgemeier
 - Jofre Homedes Beutnagel
+autores_stats:
+- Raina Telgemeier
 editoriales:
 - Maeva Ediciones
 image:

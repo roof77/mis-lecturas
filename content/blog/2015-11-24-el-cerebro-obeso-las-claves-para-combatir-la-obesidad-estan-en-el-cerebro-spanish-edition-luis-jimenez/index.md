@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Luis Jiménez
+autores_stats:
+- Luis Jiménez
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23960951-el-cerebro-obeso)'
 sexo_autor: V

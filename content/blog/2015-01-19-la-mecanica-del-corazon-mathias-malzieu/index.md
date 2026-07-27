@@ -21,6 +21,8 @@ autores:
 - Mathias Malzieu
 - Vicenç Tuset
 - Benjamin Lacombe
+autores_stats:
+- Mathias Malzieu
 editoriales:
 - Mondadori
 image:

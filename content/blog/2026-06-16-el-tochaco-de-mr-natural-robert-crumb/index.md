@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Robert Crumb
+autores_stats:
+- Robert Crumb
 editoriales:
 - Ediciones La Cúpula
 image:

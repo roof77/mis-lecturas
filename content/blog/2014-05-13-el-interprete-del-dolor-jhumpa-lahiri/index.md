@@ -21,6 +21,8 @@ toc: false
 autores:
 - Jhumpa Lahiri
 - Gemma Rovira Ortega
+autores_stats:
+- Jhumpa Lahiri
 editoriales:
 - Salamandra
 image:

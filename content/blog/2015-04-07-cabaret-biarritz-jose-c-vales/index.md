@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - José C. Vales
+autores_stats:
+- José C. Vales
 editoriales:
 - Destino
 image:

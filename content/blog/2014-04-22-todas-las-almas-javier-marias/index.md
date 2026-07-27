@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Javier Marías
+autores_stats:
+- Javier Marías
 editoriales:
 - Alfaguara
 image:

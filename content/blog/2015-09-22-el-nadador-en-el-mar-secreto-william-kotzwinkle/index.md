@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - William Kotzwinkle
+autores_stats:
+- William Kotzwinkle
 editoriales:
 - Navona
 image:

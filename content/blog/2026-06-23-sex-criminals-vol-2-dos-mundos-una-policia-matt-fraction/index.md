@@ -20,6 +20,8 @@ autores:
 - Matt Fraction
 - Chip Zdarsky
 - Santiago García
+autores_stats:
+- Matt Fraction
 editoriales:
 - Astiberri
 image:

@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Adrian Tomine
+autores_stats:
+- Adrian Tomine
 editoriales:
 - Sapristi
 image:

@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Mónica Gutiérrez Artero
+autores_stats:
+- Mónica Gutiérrez Artero
 editoriales:
 - Ediciones B
 image:

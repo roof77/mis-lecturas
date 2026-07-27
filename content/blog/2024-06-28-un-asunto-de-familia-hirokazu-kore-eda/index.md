@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Hirokazu Kore-eda
+autores_stats:
+- Hirokazu Kore-eda
 editoriales:
 - Nocturna
 image:

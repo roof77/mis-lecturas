@@ -21,6 +21,8 @@ toc: false
 autores:
 - Kōbō Abe
 - Kazuya Sakai
+autores_stats:
+- Kōbō Abe
 editoriales:
 - Siruela
 image:

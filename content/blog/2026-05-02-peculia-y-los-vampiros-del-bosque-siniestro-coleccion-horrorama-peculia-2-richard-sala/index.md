@@ -18,6 +18,8 @@ autores:
 - Richard Sala
 - Curro Cruz
 - Sulaco Studios
+autores_stats:
+- Richard Sala
 editoriales:
 - Recerca Editorial
 image:

@@ -21,6 +21,8 @@ autores:
 - William Maxwell
 - Edmundo Paz Soldán
 - Gabriela Bustelo
+autores_stats:
+- William Maxwell
 editoriales:
 - Libros del Asteroide
 image:

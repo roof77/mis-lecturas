@@ -20,6 +20,8 @@ toc: false
 autores:
 - Dana Spiotta
 - Carles Andreu Saburit
+autores_stats:
+- Dana Spiotta
 editoriales:
 - Turner
 image:

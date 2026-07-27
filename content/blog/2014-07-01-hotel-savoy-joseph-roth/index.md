@@ -20,6 +20,8 @@ toc: false
 autores:
 - Joseph Roth
 - Feliu Formosa
+autores_stats:
+- Joseph Roth
 editoriales:
 - Acantilado
 image:

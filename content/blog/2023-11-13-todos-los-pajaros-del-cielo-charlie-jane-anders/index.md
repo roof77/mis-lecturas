@@ -21,6 +21,8 @@ toc: false
 autores:
 - Charlie Jane Anders
 - Natalia Cervera
+autores_stats:
+- Charlie Jane Anders
 editoriales:
 - Insólita
 image:

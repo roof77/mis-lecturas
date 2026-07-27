@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - John Cheever
+autores_stats:
+- John Cheever
 editoriales:
 - Emece Editores
 image:

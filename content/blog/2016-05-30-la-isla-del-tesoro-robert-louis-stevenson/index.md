@@ -20,6 +20,8 @@ toc: false
 autores:
 - Robert Louis Stevenson
 - Jordi Beltrán Ferrer
+autores_stats:
+- Robert Louis Stevenson
 editoriales:
 - Penguin Clásicos
 image:

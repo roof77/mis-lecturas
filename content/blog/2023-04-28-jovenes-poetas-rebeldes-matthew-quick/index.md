@@ -19,6 +19,8 @@ toc: false
 autores:
 - Matthew Quick
 - Julio Hermoso
+autores_stats:
+- Matthew Quick
 editoriales:
 - Alfaguara Juvenil
 image:

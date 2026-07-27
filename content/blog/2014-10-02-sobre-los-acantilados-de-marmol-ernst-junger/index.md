@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Ernst Jünger
+autores_stats:
+- Ernst Jünger
 editoriales:
 - TusQuets
 image:

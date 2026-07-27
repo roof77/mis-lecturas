@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Arthur Conan Doyle
+autores_stats:
+- Arthur Conan Doyle
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11197507-estudio-en-escarlata)'
 sexo_autor: V

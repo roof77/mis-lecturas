@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Charlotte Perkins Gilman
+autores_stats:
+- Charlotte Perkins Gilman
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39690043-el-tapiz-amarillo)'
 sexo_autor: H

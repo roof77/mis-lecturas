@@ -15,6 +15,8 @@ toc: false
 autores:
 - Petra Hartlieb
 - María Esperanza Romero
+autores_stats:
+- Petra Hartlieb
 editoriales:
 - Siruela
 image:

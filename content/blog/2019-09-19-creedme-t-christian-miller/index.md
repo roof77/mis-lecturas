@@ -22,6 +22,9 @@ autores:
 - Ken Armstrong
 - Miguel Ros González
 - Patricia Simón
+autores_stats:
+- T. Christian Miller
+- Ken Armstrong
 editoriales:
 - Libros del K.O.
 image:

@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Donal Ryan
+autores_stats:
+- Donal Ryan
 editoriales:
 - Sajalín
 image:

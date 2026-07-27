@@ -20,6 +20,8 @@ toc: false
 autores:
 - Bill Bryson
 - Esther Roig Giménez
+autores_stats:
+- Bill Bryson
 editoriales:
 - RBA
 image:

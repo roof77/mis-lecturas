@@ -19,6 +19,9 @@ toc: false
 autores:
 - Peer Meter
 - Isabel Kreitz
+autores_stats:
+- Peer Meter
+- Isabel Kreitz
 editoriales:
 - Ediciones La Cúpula, S.L.
 image:

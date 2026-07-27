@@ -17,6 +17,8 @@ toc: false
 autores:
 - David Mazzucchelli
 - Esther Cruz Santaella
+autores_stats:
+- David Mazzucchelli
 editoriales:
 - Salamandra
 image:

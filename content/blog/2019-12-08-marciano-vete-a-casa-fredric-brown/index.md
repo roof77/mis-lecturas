@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Fredric Brown
+autores_stats:
+- Fredric Brown
 editoriales:
 - Hyspamerica, Madrid.
 image:

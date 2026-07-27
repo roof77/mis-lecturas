@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Santiago Lorenzo
+autores_stats:
+- Santiago Lorenzo
 editoriales:
 - Mondo Brutto
 image:

@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Yarō Abe
+autores_stats:
+- Yarō Abe
 editoriales:
 - Astiberri
 image:

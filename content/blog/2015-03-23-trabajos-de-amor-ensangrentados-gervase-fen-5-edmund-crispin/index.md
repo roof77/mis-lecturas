@@ -19,6 +19,8 @@ toc: false
 autores:
 - Edmund Crispin
 - José C. Vales
+autores_stats:
+- Edmund Crispin
 editoriales:
 - Impedimenta
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Bea Lema
+autores_stats:
+- Bea Lema
 editoriales:
 - Astiberri Ediciones
 image:

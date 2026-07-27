@@ -20,6 +20,8 @@ toc: false
 autores:
 - Joe Abercrombie
 - Borja García Bercero
+autores_stats:
+- Joe Abercrombie
 editoriales:
 - Alianza Editorial
 image:

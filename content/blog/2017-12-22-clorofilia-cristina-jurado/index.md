@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Cristina Jurado
+autores_stats:
+- Cristina Jurado
 editoriales:
 - Editorial Cerbero
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Paul Fischer
 - Ferran Esteve
+autores_stats:
+- Paul Fischer
 editoriales:
 - Turner
 image:

@@ -22,6 +22,8 @@ autores:
 - Nigel Barley
 - María José Rodellar
 - Alberto Cardín
+autores_stats:
+- Nigel Barley
 editoriales:
 - Editorial Anagrama
 image:

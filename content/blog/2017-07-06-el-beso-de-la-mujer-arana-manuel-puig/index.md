@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Manuel Puig
+autores_stats:
+- Manuel Puig
 editoriales:
 - Vintage Espanol
 image:

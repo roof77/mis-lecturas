@@ -25,6 +25,18 @@ autores:
 - Hugo Camacho
 - Branca Studio
 - Marta Maldonado
+autores_stats:
+- Laura Lee Bahr
+- Garrett Cook
+- Robert Devereaux
+- Kevin L. Donihe
+- Jeremy Robert Johnson
+- Violet LeVoit
+- Carlton Mellick III
+- Matthew Revert
+- Tamara Romero
+- Grant Wamack
+- D. Harlan Wilson
 editoriales:
 - Orciny Press
 image:

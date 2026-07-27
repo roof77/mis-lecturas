@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Bob Woodward
+autores_stats:
+- Bob Woodward
 editoriales:
 - Global Rhythm Press
 image:

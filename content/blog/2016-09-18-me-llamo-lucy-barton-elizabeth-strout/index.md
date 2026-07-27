@@ -20,6 +20,8 @@ toc: false
 autores:
 - Elizabeth Strout
 - Flora Casas
+autores_stats:
+- Elizabeth Strout
 editoriales:
 - Duomo
 image:

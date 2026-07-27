@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Claire Keegan
+autores_stats:
+- Claire Keegan
 editoriales:
 - Eterna Cadencia
 image:

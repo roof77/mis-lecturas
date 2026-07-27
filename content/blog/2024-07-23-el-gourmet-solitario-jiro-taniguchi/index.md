@@ -21,6 +21,9 @@ autores:
 - Jirō Taniguchi
 - Masayuki Kusumi
 - Alberto Sakai
+autores_stats:
+- Jirō Taniguchi
+- Masayuki Kusumi
 editoriales:
 - Astiberri Ediciones
 image:

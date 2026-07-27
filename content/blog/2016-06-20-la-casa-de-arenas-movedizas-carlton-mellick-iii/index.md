@@ -21,6 +21,8 @@ autores:
 - Carlton Mellick III
 - Hugo Camacho
 - Branca Studio
+autores_stats:
+- Carlton Mellick III
 editoriales:
 - Orciny Press
 image:

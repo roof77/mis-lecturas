@@ -20,6 +20,8 @@ toc: false
 autores:
 - George R.R. Martin
 - Cristina Macía
+autores_stats:
+- George R.R. Martin
 editoriales:
 - Gigamesh
 image:

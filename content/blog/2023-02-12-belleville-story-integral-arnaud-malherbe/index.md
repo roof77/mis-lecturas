@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Arnaud Malherbe
+autores_stats:
+- Arnaud Malherbe
 editoriales:
 - Norma Editorial
 image:

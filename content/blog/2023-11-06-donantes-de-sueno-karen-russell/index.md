@@ -20,6 +20,8 @@ toc: false
 autores:
 - Karen Russell
 - Rubén Martín Giráldez
+autores_stats:
+- Karen Russell
 editoriales:
 - Editorial Sexto Piso
 image:

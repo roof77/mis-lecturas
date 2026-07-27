@@ -22,6 +22,8 @@ autores:
 - Susana Moreira Marques
 - María Alonso Seisdedos
 - Manuel Marsol
+autores_stats:
+- Susana Moreira Marques
 editoriales:
 - Libros del K.O.
 image:

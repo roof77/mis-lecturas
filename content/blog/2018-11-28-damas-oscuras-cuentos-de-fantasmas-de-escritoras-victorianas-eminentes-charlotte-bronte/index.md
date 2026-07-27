@@ -38,6 +38,28 @@ autores:
 - Rhoda Broughton
 - Mrs. Henry Wood
 - Vernon Lee
+autores_stats:
+- Charlotte Brontë
+- Elizabeth Gaskell
+- Charlotte Riddell
+- Mrs. Oliphant
+- Lanoe Falconer
+- Louisa Baldwin
+- Violet Hunt
+- Mary Cholmondeley
+- Ella d'Arcy
+- Gertrude Atherton
+- Willa Cather
+- Mary Eleanor Wilkins Freeman
+- Dinah Maria Mulock Craik
+- Isabella Varley Banks
+- Catherine Crowe
+- Mary Elizabeth Braddon
+- Rosa Mulholland
+- Amelia B. Edwards
+- Rhoda Broughton
+- Mrs. Henry Wood
+- Vernon Lee
 editoriales:
 - Impedimenta
 image:

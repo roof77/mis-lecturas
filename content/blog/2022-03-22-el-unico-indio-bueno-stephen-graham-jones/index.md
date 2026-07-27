@@ -21,6 +21,8 @@ autores:
 - Stephen Graham Jones
 - Rafael Martín Coronel
 - Manuel de los Reyes
+autores_stats:
+- Stephen Graham Jones
 editoriales:
 - La biblioteca de Carfax
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Tatiana Țîbuleac
 - Marian Ochoa de Eribe
+autores_stats:
+- Tatiana Țîbuleac
 editoriales:
 - Impedimenta
 image:

@@ -18,6 +18,8 @@ toc: false
 autores:
 - Vivian Gornick
 - Daniel Ramos Sanchez
+autores_stats:
+- Vivian Gornick
 editoriales:
 - Sexto Piso
 image:

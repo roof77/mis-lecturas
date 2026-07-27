@@ -20,6 +20,8 @@ toc: false
 autores:
 - John Fowles
 - Susana Ónega
+autores_stats:
+- John Fowles
 editoriales:
 - Ediciones Cátedra
 image:

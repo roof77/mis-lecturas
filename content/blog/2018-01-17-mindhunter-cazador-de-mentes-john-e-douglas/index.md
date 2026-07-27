@@ -20,6 +20,9 @@ toc: false
 autores:
 - John E. Douglas
 - Mark Olshaker
+autores_stats:
+- John E. Douglas
+- Mark Olshaker
 editoriales:
 - Crítica
 image:

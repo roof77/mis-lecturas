@@ -20,6 +20,8 @@ toc: false
 autores:
 - Raymond Briggs
 - Rosa Montero
+autores_stats:
+- Raymond Briggs
 editoriales:
 - Blackie Books
 image:

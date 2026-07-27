@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - José Luis Cuerda
+autores_stats:
+- José Luis Cuerda
 editoriales:
 - Pepitas de Calabaza
 image:

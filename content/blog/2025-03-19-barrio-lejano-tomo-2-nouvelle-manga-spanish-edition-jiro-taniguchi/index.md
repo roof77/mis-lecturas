@@ -21,6 +21,8 @@ autores:
 - Frédéric Boilet
 - M. Barrera
 - Keiko Suzuki
+autores_stats:
+- Jirō Taniguchi
 editoriales:
 - Ponent Mon
 image:

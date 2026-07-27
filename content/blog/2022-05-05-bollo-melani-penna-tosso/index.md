@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Melani Penna Tosso
+autores_stats:
+- Melani Penna Tosso
 editoriales:
 - Dos Bigotes
 image:

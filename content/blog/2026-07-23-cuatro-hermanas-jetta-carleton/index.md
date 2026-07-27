@@ -21,6 +21,8 @@ toc: false
 autores:
 - Jetta Carleton
 - María Teresa Gispert
+autores_stats:
+- Jetta Carleton
 editoriales:
 - Libros del Asteroide
 image:

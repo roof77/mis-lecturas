@@ -21,6 +21,18 @@ autores:
 - Kizen Sasaki
 - Jun Takami
 - Roan Uchida
+autores_stats:
+- Kenzaburō Ōe
+- Yōko Tawada
+- Yukiko Motoya
+- Yasutaka Tsutsui
+- Yumiko Kurahashi
+- Akiko Yosano
+- Ryūnosuke Akutagawa
+- Masaoka Shiki
+- Kizen Sasaki
+- Jun Takami
+- Roan Uchida
 editoriales:
 - Satori
 image:

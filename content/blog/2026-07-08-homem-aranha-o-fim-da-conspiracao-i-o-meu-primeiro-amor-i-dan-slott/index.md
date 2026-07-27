@@ -14,6 +14,9 @@ autores:
 - Jim Cheung
 - Brian Michael Bendis
 - Sara Pichelli
+autores_stats:
+- Dan Slott
+- Sara Pichelli
 editoriales:
 - Goody
 image:

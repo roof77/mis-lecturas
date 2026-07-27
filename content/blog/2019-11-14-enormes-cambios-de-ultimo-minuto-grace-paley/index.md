@@ -22,6 +22,8 @@ autores:
 - Grace Paley
 - José Manuel Álvarez Flórez
 - Ángela Pérez
+autores_stats:
+- Grace Paley
 editoriales:
 - Editorial Anagrama
 image:

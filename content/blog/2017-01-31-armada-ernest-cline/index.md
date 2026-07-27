@@ -20,6 +20,8 @@ toc: false
 autores:
 - Ernest Cline
 - David Tejera Expósito
+autores_stats:
+- Ernest Cline
 editoriales:
 - Ediciones B
 image:

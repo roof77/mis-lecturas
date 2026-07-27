@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Rosa Sala Rose
+autores_stats:
+- Rosa Sala Rose
 editoriales:
 - Global Rhythm Press
 image:

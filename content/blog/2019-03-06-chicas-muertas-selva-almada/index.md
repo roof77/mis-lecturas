@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Selva Almada
+autores_stats:
+- Selva Almada
 editoriales:
 - Literatura Random House
 image:

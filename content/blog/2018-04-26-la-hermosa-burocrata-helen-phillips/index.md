@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Helen Phillips
+autores_stats:
+- Helen Phillips
 editoriales:
 - Siruela
 image:

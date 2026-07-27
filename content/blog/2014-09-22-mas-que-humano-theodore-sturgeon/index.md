@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Theodore Sturgeon
+autores_stats:
+- Theodore Sturgeon
 editoriales:
 - Ediciones Minotauro
 image:

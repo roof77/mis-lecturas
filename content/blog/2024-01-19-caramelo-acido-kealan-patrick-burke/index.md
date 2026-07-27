@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Kealan Patrick Burke
+autores_stats:
+- Kealan Patrick Burke
 editoriales:
 - 'Dilatando Mentes Editorial '
 image:

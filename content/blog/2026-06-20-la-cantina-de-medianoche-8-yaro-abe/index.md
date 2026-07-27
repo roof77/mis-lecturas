@@ -12,6 +12,8 @@ toc: false
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
+autores_stats:
+- Yarō Abe
 editoriales:
 - ASTIBERRI EDICIONES
 image:

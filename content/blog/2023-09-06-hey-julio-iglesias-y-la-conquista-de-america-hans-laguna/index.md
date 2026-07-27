@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Hans Laguna
+autores_stats:
+- Hans Laguna
 editoriales:
 - Contra
 image:

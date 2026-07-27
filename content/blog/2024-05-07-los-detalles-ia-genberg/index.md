@@ -20,6 +20,8 @@ toc: false
 autores:
 - Ia Genberg
 - Gemma Pecharromán
+autores_stats:
+- Ia Genberg
 editoriales:
 - Gatopardo Ediciones
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Christopher Moore
 - Victoria E. Horrillo Ledesma
+autores_stats:
+- Christopher Moore
 editoriales:
 - LA FACTORÍA DE IDEAS
 image:

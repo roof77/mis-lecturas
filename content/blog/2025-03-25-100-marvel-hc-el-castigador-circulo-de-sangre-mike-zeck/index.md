@@ -13,6 +13,9 @@ toc: false
 autores:
 - Mike Zeck
 - Steven Grant
+autores_stats:
+- Mike Zeck
+- Steven Grant
 editoriales:
 - Panini Comics
 image:

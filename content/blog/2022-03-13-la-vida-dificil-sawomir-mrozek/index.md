@@ -15,6 +15,8 @@ autores:
 - Sławomir Mrożek
 - Francesc Miravitlles
 - Bożena Zaboklicka
+autores_stats:
+- Sławomir Mrożek
 editoriales:
 - Acantilado
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Nick Hornby
 - Jesús Zulaika
+autores_stats:
+- Nick Hornby
 editoriales:
 - Anagrama
 image:

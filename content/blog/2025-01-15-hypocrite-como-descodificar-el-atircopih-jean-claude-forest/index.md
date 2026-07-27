@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Jean-Claude Forest
+autores_stats:
+- Jean-Claude Forest
 editoriales:
 - Ediciones Glénat España
 image:

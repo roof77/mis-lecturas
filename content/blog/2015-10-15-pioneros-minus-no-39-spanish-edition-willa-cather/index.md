@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Willa Cather
+autores_stats:
+- Willa Cather
 editoriales:
 - Alba Editorial
 image:

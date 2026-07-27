@@ -11,6 +11,8 @@ toc: false
 autores:
 - J. Michael Straczynski
 - Olivier Coipel
+autores_stats:
+- J. Michael Straczynski
 editoriales:
 - Panini Comics España
 image:

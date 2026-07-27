@@ -14,6 +14,8 @@ autores:
 - María Pilar San Román
 - Rovina Kai
 - Octavi Segarra
+autores_stats:
+- Seanan McGuire
 editoriales:
 - Alianza Runas
 image:

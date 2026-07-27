@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Isaac Rosa
+autores_stats:
+- Isaac Rosa
 editoriales:
 - Seix Barral
 image:

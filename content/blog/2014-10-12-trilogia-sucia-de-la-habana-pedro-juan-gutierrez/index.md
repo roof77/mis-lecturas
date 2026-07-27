@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Pedro Juan Gutiérrez
+autores_stats:
+- Pedro Juan Gutiérrez
 editoriales:
 - Anagrama
 image:

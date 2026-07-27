@@ -20,6 +20,8 @@ toc: false
 autores:
 - Dahlia de la Cerda
 - Rebeca Martínez
+autores_stats:
+- Dahlia de la Cerda
 editoriales:
 - Sexto Piso
 image:

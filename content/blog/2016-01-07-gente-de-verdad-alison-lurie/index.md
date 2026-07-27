@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Alison Lurie
+autores_stats:
+- Alison Lurie
 editoriales:
 - Alba Editorial
 image:

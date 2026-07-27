@@ -21,6 +21,8 @@ toc: false
 autores:
 - Sarah Waters
 - Jaime Zulaika
+autores_stats:
+- Sarah Waters
 editoriales:
 - Editorial Anagrama
 image:

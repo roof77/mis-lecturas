@@ -21,6 +21,8 @@ toc: false
 autores:
 - Mary Wesley
 - Catalina Martínez Muñoz
+autores_stats:
+- Mary Wesley
 editoriales:
 - Alba editorial
 image:

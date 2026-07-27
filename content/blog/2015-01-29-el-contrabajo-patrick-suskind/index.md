@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Patrick Süskind
+autores_stats:
+- Patrick Süskind
 editoriales:
 - 'Seix Barral '
 image:

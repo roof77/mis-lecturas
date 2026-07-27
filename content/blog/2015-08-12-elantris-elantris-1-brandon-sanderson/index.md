@@ -20,6 +20,8 @@ toc: false
 autores:
 - Brandon Sanderson
 - Rafael Marín Trechera
+autores_stats:
+- Brandon Sanderson
 editoriales:
 - Nova
 image:

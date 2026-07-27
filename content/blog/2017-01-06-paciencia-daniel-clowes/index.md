@@ -16,6 +16,8 @@ tags:
 toc: false
 autores:
 - Daniel Clowes
+autores_stats:
+- Daniel Clowes
 editoriales:
 - Fulgencio Pimentel
 image:

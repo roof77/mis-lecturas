@@ -20,6 +20,8 @@ toc: false
 autores:
 - Leo Tolstoy
 - Víctor Gallego Ballestero
+autores_stats:
+- Leo Tolstoy
 editoriales:
 - Alba Editorial
 image:

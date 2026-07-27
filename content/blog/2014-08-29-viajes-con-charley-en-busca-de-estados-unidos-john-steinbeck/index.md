@@ -19,6 +19,8 @@ toc: false
 autores:
 - John Steinbeck
 - José Manuel Álvarez Flórez
+autores_stats:
+- John Steinbeck
 editoriales:
 - Nórdica
 image:

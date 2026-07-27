@@ -20,6 +20,8 @@ toc: false
 autores:
 - Ottessa Moshfegh
 - Inmaculada Concepción Pérez Parra
+autores_stats:
+- Ottessa Moshfegh
 editoriales:
 - Alfaguara
 image:

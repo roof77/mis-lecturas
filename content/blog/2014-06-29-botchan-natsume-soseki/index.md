@@ -22,6 +22,8 @@ autores:
 - Natsume Sōseki
 - José Pazó Espinosa
 - Andrés Ibáñez
+autores_stats:
+- Natsume Sōseki
 editoriales:
 - Impedimenta
 image:

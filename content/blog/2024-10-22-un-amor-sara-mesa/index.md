@@ -19,6 +19,8 @@ toc: false
 autores:
 - Sara Mesa
 - Marta Martín
+autores_stats:
+- Sara Mesa
 editoriales:
 - Anagrama
 image:

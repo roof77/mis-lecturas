@@ -12,6 +12,8 @@ toc: false
 autores:
 - Bernice Rubens
 - Íñigo Fernández Fernández-Lomana
+autores_stats:
+- Bernice Rubens
 editoriales:
 - Alba
 image:

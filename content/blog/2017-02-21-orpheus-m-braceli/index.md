@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - M. Braceli
+autores_stats:
+- M. Braceli
 editoriales:
 - Kelonia
 image:

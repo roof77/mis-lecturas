@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Agustina Bazterrica
+autores_stats:
+- Agustina Bazterrica
 editoriales:
 - Alfaguara
 image:

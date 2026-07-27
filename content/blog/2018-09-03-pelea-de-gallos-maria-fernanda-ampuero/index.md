@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - María Fernanda Ampuero
+autores_stats:
+- María Fernanda Ampuero
 editoriales:
 - Páginas de Espuma
 image:

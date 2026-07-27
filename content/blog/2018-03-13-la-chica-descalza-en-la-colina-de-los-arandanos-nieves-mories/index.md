@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Nieves Mories
+autores_stats:
+- Nieves Mories
 editoriales:
 - Editorial Cerbero
 image:

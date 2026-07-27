@@ -20,6 +20,8 @@ toc: false
 autores:
 - Andrzej Sapkowski
 - José María Faraldo
+autores_stats:
+- Andrzej Sapkowski
 editoriales:
 - Bibliópolis
 image:

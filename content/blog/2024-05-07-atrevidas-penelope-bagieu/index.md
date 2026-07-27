@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Pénélope Bagieu
+autores_stats:
+- Pénélope Bagieu
 editoriales:
 - NORMA EDITORIAL, S.A.
 image:

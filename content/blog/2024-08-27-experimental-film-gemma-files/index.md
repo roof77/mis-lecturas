@@ -21,6 +21,8 @@ toc: false
 autores:
 - Gemma Files
 - Elisa Rivera
+autores_stats:
+- Gemma Files
 editoriales:
 - La biblioteca de Carfax
 image:

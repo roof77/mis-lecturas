@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Hugh Howey
+autores_stats:
+- Hugh Howey
 editoriales:
 - Minotauro
 image:

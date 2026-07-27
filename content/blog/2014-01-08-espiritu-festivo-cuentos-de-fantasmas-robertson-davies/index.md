@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Robertson Davies
+autores_stats:
+- Robertson Davies
 editoriales:
 - Libros del Asteroide
 image:

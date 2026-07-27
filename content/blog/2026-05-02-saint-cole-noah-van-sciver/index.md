@@ -15,6 +15,8 @@ tags:
 toc: false
 autores:
 - Noah Van Sciver
+autores_stats:
+- Noah Van Sciver
 editoriales:
 - La Cúpula
 image:

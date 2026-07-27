@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - William Lyon
+autores_stats:
+- William Lyon
 editoriales:
 - Libros del K.O.
 image:

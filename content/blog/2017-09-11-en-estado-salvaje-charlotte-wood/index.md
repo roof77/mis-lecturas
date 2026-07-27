@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Charlotte Wood
+autores_stats:
+- Charlotte Wood
 editoriales:
 - Lumen
 image:

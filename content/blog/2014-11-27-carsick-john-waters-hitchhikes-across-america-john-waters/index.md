@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - John Waters
+autores_stats:
+- John Waters
 editoriales:
 - Farrar, Straus and Giroux
 image:

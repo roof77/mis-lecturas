@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - Marta Orriols
+autores_stats:
+- Marta Orriols
 editoriales:
 - Penguin Random House Grupo Editorial, S. A. U.
 image:

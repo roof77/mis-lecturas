@@ -20,6 +20,8 @@ toc: false
 autores:
 - Nell Leyshon
 - Mariano Peyrou
+autores_stats:
+- Nell Leyshon
 editoriales:
 - Sexto Piso
 image:

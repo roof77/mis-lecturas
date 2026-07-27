@@ -31,6 +31,19 @@ autores:
 - Jun'ichi Shibaguchi
 - Isami Romero Hoshino
 - Juan Antonio Yáñez
+autores_stats:
+- Kaita Murayama
+- Kidō Okamoto
+- Kyōka Izumi
+- Kōtarō Tanaka
+- Ryūnosuke Akutagawa
+- Ōgai Mori
+- Jun'ichirō Tanizaki
+- Atsushi Nakajima
+- Edogawa Rampo
+- Jūran Hisao
+- Rohan Kōda
+- Kyūsaku Yumeno
 editoriales:
 - Quaterni
 image:

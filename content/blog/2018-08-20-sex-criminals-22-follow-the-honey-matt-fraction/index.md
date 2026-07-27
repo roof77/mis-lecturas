@@ -14,6 +14,8 @@ toc: false
 autores:
 - Matt Fraction
 - Chip Zdarsky
+autores_stats:
+- Matt Fraction
 editoriales:
 - Image
 image:

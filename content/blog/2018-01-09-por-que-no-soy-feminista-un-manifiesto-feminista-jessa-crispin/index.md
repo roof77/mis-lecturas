@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Jessa Crispin
+autores_stats:
+- Jessa Crispin
 editoriales:
 - Lince Ediciones
 image:

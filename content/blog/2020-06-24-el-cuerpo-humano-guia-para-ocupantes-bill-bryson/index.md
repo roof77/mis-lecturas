@@ -19,6 +19,8 @@ toc: false
 autores:
 - Bill Bryson
 - Francisco J. Ramos Mena
+autores_stats:
+- Bill Bryson
 editoriales:
 - RBA Libros
 image:

@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Jan
+autores_stats:
+- Jan
 editoriales:
 - Ediciones B
 image:

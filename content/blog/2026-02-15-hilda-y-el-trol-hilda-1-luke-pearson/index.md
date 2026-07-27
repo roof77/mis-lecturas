@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Luke Pearson
+autores_stats:
+- Luke Pearson
 editoriales:
 - Barbara Fiore
 image:

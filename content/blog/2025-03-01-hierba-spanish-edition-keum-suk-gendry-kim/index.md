@@ -21,6 +21,8 @@ toc: false
 autores:
 - Keum Suk Gendry-Kim
 - Joo Hasun
+autores_stats:
+- Keum Suk Gendry-Kim
 editoriales:
 - RESERVOIR BOOKS
 image:

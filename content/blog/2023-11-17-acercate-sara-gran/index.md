@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Sara Gran
+autores_stats:
+- Sara Gran
 editoriales:
 - La Biblioteca de Carfax
 image:

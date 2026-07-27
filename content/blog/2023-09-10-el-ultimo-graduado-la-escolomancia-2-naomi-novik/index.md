@@ -19,6 +19,8 @@ toc: false
 autores:
 - Naomi Novik
 - Patricia Sebastián Hernández
+autores_stats:
+- Naomi Novik
 editoriales:
 - Umbriel
 image:

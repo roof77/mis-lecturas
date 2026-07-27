@@ -20,6 +20,8 @@ autores:
 - Dean White
 - Tom Palmer
 - Gonzalo Quesada
+autores_stats:
+- Jason Aaron
 editoriales:
 - Panini Comics
 image:

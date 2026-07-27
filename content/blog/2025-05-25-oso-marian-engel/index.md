@@ -21,6 +21,8 @@ toc: false
 autores:
 - Marian Engel
 - Magdalena Palmer
+autores_stats:
+- Marian Engel
 editoriales:
 - Impedimenta
 image:

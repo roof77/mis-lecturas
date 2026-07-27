@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Quentin Crisp
+autores_stats:
+- Quentin Crisp
 editoriales:
 - Valdemar
 image:

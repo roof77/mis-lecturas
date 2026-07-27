@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - David López Canales
+autores_stats:
+- David López Canales
 editoriales:
 - Alianza
 image:

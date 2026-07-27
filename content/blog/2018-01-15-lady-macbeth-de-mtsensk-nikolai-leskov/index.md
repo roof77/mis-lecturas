@@ -22,6 +22,8 @@ autores:
 - Nikolai Leskov
 - Ignasi Blanch Gisbert
 - Marta Sánchez-Nieves
+autores_stats:
+- Nikolai Leskov
 editoriales:
 - Nórdica Libros
 image:

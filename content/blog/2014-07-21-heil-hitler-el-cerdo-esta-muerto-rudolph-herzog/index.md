@@ -20,6 +20,8 @@ toc: false
 autores:
 - Rudolph Herzog
 - Begoña Llovet Barquero
+autores_stats:
+- Rudolph Herzog
 editoriales:
 - Capitan Swing
 image:

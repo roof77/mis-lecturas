@@ -19,6 +19,8 @@ toc: false
 autores:
 - Paul Auster
 - Benito Gómez Ibáñez
+autores_stats:
+- Paul Auster
 editoriales:
 - Anagrama
 image:

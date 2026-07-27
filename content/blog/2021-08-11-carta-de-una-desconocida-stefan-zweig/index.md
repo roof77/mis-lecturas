@@ -20,6 +20,8 @@ toc: false
 autores:
 - Stefan Zweig
 - Berta Conill Purgimon
+autores_stats:
+- Stefan Zweig
 editoriales:
 - Acantilado
 image:

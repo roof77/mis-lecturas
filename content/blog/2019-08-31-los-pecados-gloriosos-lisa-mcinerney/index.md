@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Lisa McInerney
+autores_stats:
+- Lisa McInerney
 editoriales:
 - Alianza de Novelas
 image:

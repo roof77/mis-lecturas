@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Christopher Moore
+autores_stats:
+- Christopher Moore
 editoriales:
 - LA FACTORÍA DE IDEAS
 image:

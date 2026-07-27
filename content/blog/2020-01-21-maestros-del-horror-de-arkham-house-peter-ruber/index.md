@@ -38,6 +38,29 @@ autores:
 - Robert Bloch
 - Robert E. Howard
 - Seabury Quinn
+autores_stats:
+- Peter Ruber
+- Arthur J. Burks
+- August Derleth
+- Carl Jacobi
+- Clark Ashton Smith
+- David H. Keller
+- Donald Wandrei
+- E. Hoffmann Price
+- Frank Belknap Long
+- Greye La Spina
+- Henry S. Whitehead
+- H. Russell Wakefield
+- H.P. Lovecraft
+- Howard Wandrei
+- Mark Schorer
+- Mary Elizabeth Counselman
+- Nelson S. Bond
+- Ramsey Campbell
+- Ray Bradbury
+- Robert Bloch
+- Robert E. Howard
+- Seabury Quinn
 editoriales:
 - Valdemar
 image:

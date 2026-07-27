@@ -20,6 +20,8 @@ toc: false
 autores:
 - Katharina Volckmer
 - Inga Pellisa
+autores_stats:
+- Katharina Volckmer
 editoriales:
 - Editorial Anagrama
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Donna Tartt
+autores_stats:
+- Donna Tartt
 editoriales:
 - Lumen
 image:

@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Joseph Roth
+autores_stats:
+- Joseph Roth
 editoriales:
 - Páginas de Espuma
 image:

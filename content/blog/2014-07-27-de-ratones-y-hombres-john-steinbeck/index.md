@@ -21,6 +21,10 @@ autores:
 - John Steinbeck
 - Juan José Coy
 - Consuelo Montes Granado
+autores_stats:
+- John Steinbeck
+- Juan José Coy
+- Consuelo Montes Granado
 editoriales:
 - Editorial Vicens Vives
 image:

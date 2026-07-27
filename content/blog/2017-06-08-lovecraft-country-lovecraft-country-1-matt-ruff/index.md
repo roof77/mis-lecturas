@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Matt Ruff
+autores_stats:
+- Matt Ruff
 editoriales:
 - Harper
 image:

@@ -19,6 +19,8 @@ toc: false
 autores:
 - Grady Hendrix
 - Pilar de la Peña Minguell
+autores_stats:
+- Grady Hendrix
 editoriales:
 - Minotauro
 image:

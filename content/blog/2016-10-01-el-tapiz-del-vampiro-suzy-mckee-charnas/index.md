@@ -21,6 +21,8 @@ toc: false
 autores:
 - Suzy McKee Charnas
 - Albert Solé
+autores_stats:
+- Suzy McKee Charnas
 editoriales:
 - 'Madrid: Alamut'
 image:

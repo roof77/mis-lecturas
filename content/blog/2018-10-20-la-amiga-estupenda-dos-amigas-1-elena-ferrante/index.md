@@ -20,6 +20,8 @@ toc: false
 autores:
 - Elena Ferrante
 - Celia Filipetto Isicato
+autores_stats:
+- Elena Ferrante
 editoriales:
 - 'LUMEN '
 image:

@@ -15,6 +15,8 @@ tags:
 toc: false
 autores:
 - Tom Kromer
+autores_stats:
+- Tom Kromer
 editoriales:
 - Sajalín Editores
 image:

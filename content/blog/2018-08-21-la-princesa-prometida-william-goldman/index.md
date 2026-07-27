@@ -21,6 +21,8 @@ toc: false
 autores:
 - William Goldman
 - Celia Filipetto Isicato
+autores_stats:
+- William Goldman
 editoriales:
 - Booket
 image:

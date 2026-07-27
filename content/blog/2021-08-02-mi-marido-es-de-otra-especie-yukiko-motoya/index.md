@@ -21,6 +21,8 @@ autores:
 - Yukiko Motoya
 - Jordi Fibla
 - Keiko Takahashi
+autores_stats:
+- Yukiko Motoya
 editoriales:
 - Alianza editorial
 image:

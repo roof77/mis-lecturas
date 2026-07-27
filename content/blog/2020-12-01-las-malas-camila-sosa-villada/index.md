@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Camila Sosa Villada
+autores_stats:
+- Camila Sosa Villada
 editoriales:
 - Tusquets
 image:

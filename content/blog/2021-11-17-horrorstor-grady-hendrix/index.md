@@ -20,6 +20,8 @@ toc: false
 autores:
 - Grady Hendrix
 - Jaime Valero
+autores_stats:
+- Grady Hendrix
 editoriales:
 - Colmena Ediciones
 image:

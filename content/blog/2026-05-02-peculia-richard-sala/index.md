@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Richard Sala
+autores_stats:
+- Richard Sala
 editoriales:
 - Fantagraphics Books
 image:

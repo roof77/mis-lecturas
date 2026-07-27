@@ -21,6 +21,8 @@ autores:
 - Liu Cixin
 - Javier Altayó
 - Jianguo Feng
+autores_stats:
+- Liu Cixin
 editoriales:
 - NOVA
 image:

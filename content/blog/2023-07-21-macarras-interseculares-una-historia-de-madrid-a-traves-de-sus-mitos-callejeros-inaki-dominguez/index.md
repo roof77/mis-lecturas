@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Iñaki Domínguez
+autores_stats:
+- Iñaki Domínguez
 editoriales:
 - Melusina
 image:

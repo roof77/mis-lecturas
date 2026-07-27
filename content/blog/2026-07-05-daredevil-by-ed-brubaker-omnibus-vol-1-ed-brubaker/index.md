@@ -29,6 +29,8 @@ autores:
 - Alex Maleev
 - Brian Michael Bendis
 - John Rhett Thomas
+autores_stats:
+- Ed Brubaker
 editoriales:
 - Marvel
 image:

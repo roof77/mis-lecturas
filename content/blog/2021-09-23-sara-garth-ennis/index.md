@@ -20,6 +20,8 @@ autores:
 - Steve Epting
 - Elizabeth Breitweiser
 - Eduardo López Lafuente
+autores_stats:
+- Garth Ennis
 editoriales:
 - Panini Comics
 image:

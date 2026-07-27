@@ -20,6 +20,8 @@ toc: false
 autores:
 - Emily St. John Mandel
 - María del Puerto Barruetabeña Díez
+autores_stats:
+- Emily St. John Mandel
 editoriales:
 - Kailas Editorial
 image:

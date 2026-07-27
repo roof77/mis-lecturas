@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Lois McMaster Bujold
+autores_stats:
+- Lois McMaster Bujold
 editoriales:
 - Ediciones B
 image:

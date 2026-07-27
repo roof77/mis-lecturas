@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Carlo Padial
+autores_stats:
+- Carlo Padial
 editoriales:
 - Blackie Books
 image:

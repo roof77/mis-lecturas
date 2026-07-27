@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Vardis Fisher
+autores_stats:
+- Vardis Fisher
 editoriales:
 - Valdemar
 image:

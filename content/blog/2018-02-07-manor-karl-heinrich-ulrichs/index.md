@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Karl Heinrich Ulrichs
+autores_stats:
+- Karl Heinrich Ulrichs
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15982949-manor)'
 sexo_autor: V

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Edward Bunker
 - Zulema Couso
+autores_stats:
+- Edward Bunker
 editoriales:
 - Sajalín
 image:

@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Beatriz Navas Valdés
+autores_stats:
+- Beatriz Navas Valdés
 editoriales:
 - Caballo de Troya
 image:

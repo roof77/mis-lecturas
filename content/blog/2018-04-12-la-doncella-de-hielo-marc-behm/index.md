@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Marc Behm
+autores_stats:
+- Marc Behm
 editoriales:
 - Círculo de Lectores
 image:

@@ -14,6 +14,9 @@ toc: false
 autores:
 - Joëlle Jones
 - Jamie S. Rich
+autores_stats:
+- Joëlle Jones
+- Jamie S. Rich
 editoriales:
 - Dark Horse
 image:

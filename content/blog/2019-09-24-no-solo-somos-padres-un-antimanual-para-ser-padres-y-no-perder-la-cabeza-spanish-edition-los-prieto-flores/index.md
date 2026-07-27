@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Los Prieto Flores
+autores_stats:
+- Los Prieto Flores
 editoriales:
 - EDICIONES B
 image:

@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Matt Fraction
+autores_stats:
+- Matt Fraction
 editoriales:
 - Image Comics
 image:

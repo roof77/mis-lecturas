@@ -22,6 +22,8 @@ tags:
 toc: false
 autores:
 - Margarita García Robayo
+autores_stats:
+- Margarita García Robayo
 editoriales:
 - ALFAGUARA
 image:

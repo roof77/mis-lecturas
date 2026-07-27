@@ -19,6 +19,8 @@ toc: false
 autores:
 - Richard Ford
 - Jesús Zulaika Goicoechea
+autores_stats:
+- Richard Ford
 editoriales:
 - Editorial Anagrama
 image:

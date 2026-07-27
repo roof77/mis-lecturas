@@ -22,6 +22,8 @@ autores:
 - Haruki Murakami
 - Junichi Matsuura
 - Lourdes Porta Fuentes
+autores_stats:
+- Haruki Murakami
 editoriales:
 - Tusquets Editores S.A.
 image:

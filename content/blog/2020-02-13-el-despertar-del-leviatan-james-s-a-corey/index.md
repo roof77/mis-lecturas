@@ -20,6 +20,8 @@ toc: false
 autores:
 - James S.A. Corey
 - David Tejera Expósito
+autores_stats:
+- James S.A. Corey
 editoriales:
 - Ediciones B
 image:

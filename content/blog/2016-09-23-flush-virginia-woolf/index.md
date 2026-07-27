@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Virginia Woolf
+autores_stats:
+- Virginia Woolf
 editoriales:
 - Ediciones Destino
 image:

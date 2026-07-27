@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Kurt Busiek
+autores_stats:
+- Kurt Busiek
 editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Meryem El Mehdati
+autores_stats:
+- Meryem El Mehdati
 editoriales:
 - Blackie Books
 image:

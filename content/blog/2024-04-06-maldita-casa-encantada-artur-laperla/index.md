@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Artur Laperla
+autores_stats:
+- Artur Laperla
 editoriales:
 - Sapristi
 image:

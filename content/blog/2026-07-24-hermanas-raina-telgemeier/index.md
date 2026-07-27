@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Raina Telgemeier
+autores_stats:
+- Raina Telgemeier
 editoriales:
 - Maeva Young
 image:

@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Corey J. White
+autores_stats:
+- Corey J. White
 editoriales:
 - Tor.com
 image:

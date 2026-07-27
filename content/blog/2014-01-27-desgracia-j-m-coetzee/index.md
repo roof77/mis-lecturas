@@ -21,6 +21,8 @@ toc: false
 autores:
 - J.M. Coetzee
 - Miguel Martínez-Lage
+autores_stats:
+- J.M. Coetzee
 editoriales:
 - Debolsillo
 image:

@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Magalí Etchebarne
+autores_stats:
+- Magalí Etchebarne
 editoriales:
 - Las Afueras
 image:

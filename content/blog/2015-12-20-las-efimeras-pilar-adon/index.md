@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Pilar Adón
+autores_stats:
+- Pilar Adón
 editoriales:
 - Galaxia Gutenberg
 image:

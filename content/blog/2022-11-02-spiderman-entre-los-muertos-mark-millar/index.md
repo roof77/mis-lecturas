@@ -19,6 +19,8 @@ toc: false
 autores:
 - Mark Millar
 - Terry Dodson
+autores_stats:
+- Mark Millar
 editoriales:
 - Panini España, S.A.
 image:

@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Jeffrey Brown
+autores_stats:
+- Jeffrey Brown
 editoriales:
 - Ediciones La Cúpula
 image:

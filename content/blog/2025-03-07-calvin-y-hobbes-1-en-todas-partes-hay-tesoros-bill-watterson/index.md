@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Bill Watterson
+autores_stats:
+- Bill Watterson
 editoriales:
 - Bruguera
 image:

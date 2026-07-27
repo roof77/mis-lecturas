@@ -21,6 +21,8 @@ autores:
 - Han Kang
 - Sunme Yoon
 - Gabi Martínez
+autores_stats:
+- Han Kang
 editoriales:
 - :Rata_
 image:

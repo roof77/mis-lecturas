@@ -15,6 +15,8 @@ toc: false
 autores:
 - Fialho de Almeida
 - Antonio Sáez Delgado
+autores_stats:
+- Fialho de Almeida
 editoriales:
 - Editorial Periférica
 image:

@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - The New Yorker
+autores_stats:
+- The New Yorker
 editoriales:
 - The New Yorker Magazine
 image:

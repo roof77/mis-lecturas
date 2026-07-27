@@ -20,6 +20,8 @@ toc: false
 autores:
 - Margery Sharp
 - Raquel García Rojas
+autores_stats:
+- Margery Sharp
 editoriales:
 - Hoja de Lata
 image:

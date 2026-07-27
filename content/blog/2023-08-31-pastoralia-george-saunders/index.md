@@ -20,6 +20,8 @@ toc: false
 autores:
 - George Saunders
 - Ben Clark
+autores_stats:
+- George Saunders
 editoriales:
 - Alfabia
 image:

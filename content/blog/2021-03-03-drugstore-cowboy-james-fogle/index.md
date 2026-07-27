@@ -18,6 +18,8 @@ toc: false
 autores:
 - James Fogle
 - Juan Carlos Postigo
+autores_stats:
+- James Fogle
 editoriales:
 - Sajalín Editores
 image:

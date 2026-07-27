@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - J.K. Rowling
+autores_stats:
+- J.K. Rowling
 editoriales:
 - Salamandra
 image:

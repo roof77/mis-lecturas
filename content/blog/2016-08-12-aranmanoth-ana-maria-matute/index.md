@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Ana María Matute
+autores_stats:
+- Ana María Matute
 editoriales:
 - Espasa-Calpe SA
 image:

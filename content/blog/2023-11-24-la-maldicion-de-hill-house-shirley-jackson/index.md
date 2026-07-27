@@ -20,6 +20,8 @@ toc: false
 autores:
 - Shirley Jackson
 - Óscar Palmer Yáñez
+autores_stats:
+- Shirley Jackson
 editoriales:
 - Valdemar
 image:

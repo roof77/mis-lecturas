@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Peter Cameron
+autores_stats:
+- Peter Cameron
 editoriales:
 - Libros del Asteroide
 image:

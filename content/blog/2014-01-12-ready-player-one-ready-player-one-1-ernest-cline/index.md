@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Ernest Cline
+autores_stats:
+- Ernest Cline
 editoriales:
 - Crown Publishers
 image:

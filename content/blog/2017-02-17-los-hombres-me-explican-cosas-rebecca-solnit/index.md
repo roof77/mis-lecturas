@@ -20,6 +20,8 @@ toc: false
 autores:
 - Rebecca Solnit
 - Paula Martín Ponz
+autores_stats:
+- Rebecca Solnit
 editoriales:
 - Capitán Swing
 image:

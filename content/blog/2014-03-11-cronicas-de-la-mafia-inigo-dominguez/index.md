@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Íñigo Domínguez
+autores_stats:
+- Íñigo Domínguez
 editoriales:
 - Libros del K.O.
 image:

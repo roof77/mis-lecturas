@@ -20,6 +20,8 @@ toc: false
 autores:
 - Liu Cixin
 - Agustín Alepuz Morales
+autores_stats:
+- Liu Cixin
 editoriales:
 - NOVA
 image:

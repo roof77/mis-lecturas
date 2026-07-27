@@ -20,6 +20,8 @@ toc: false
 autores:
 - Umberto Eco
 - Helena Lozano Miralles
+autores_stats:
+- Umberto Eco
 editoriales:
 - Lumen
 image:

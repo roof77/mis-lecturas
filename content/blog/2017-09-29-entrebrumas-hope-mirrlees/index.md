@@ -21,6 +21,8 @@ toc: false
 autores:
 - Hope Mirrlees
 - Emilio Mayorga
+autores_stats:
+- Hope Mirrlees
 editoriales:
 - Minotauro
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Margaret Atwood
 - Eugenia Vázquez Nacarino
+autores_stats:
+- Margaret Atwood
 editoriales:
 - Salamandra
 image:

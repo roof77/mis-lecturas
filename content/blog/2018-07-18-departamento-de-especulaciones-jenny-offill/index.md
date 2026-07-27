@@ -20,6 +20,8 @@ toc: false
 autores:
 - Jenny Offill
 - Eduardo Jordá
+autores_stats:
+- Jenny Offill
 editoriales:
 - Libros del Asteroide
 image:

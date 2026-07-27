@@ -20,6 +20,8 @@ toc: false
 autores:
 - Margaret Atwood
 - Elsa Mateo Blanco
+autores_stats:
+- Margaret Atwood
 editoriales:
 - BRUGUERA (SELLO)
 image:

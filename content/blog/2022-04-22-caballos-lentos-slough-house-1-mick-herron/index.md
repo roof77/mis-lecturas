@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Mick Herron
+autores_stats:
+- Mick Herron
 editoriales:
 - Salamandra Black
 image:

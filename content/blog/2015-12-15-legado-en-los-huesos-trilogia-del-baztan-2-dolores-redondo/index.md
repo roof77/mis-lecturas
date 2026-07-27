@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Dolores Redondo
+autores_stats:
+- Dolores Redondo
 editoriales:
 - Destino
 image:

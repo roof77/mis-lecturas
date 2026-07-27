@@ -20,6 +20,8 @@ toc: false
 autores:
 - Yarō Abe
 - Alberto Sakai
+autores_stats:
+- Yarō Abe
 editoriales:
 - Astiberri Ediciones
 image:

@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Kathrine Kressmann Taylor
+autores_stats:
+- Kathrine Kressmann Taylor
 editoriales:
 - RBA Libros
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Roddy Doyle
+autores_stats:
+- Roddy Doyle
 editoriales:
 - Bambú
 image:

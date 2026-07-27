@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Cristina Domenech
+autores_stats:
+- Cristina Domenech
 editoriales:
 - 'Plan B '
 image:

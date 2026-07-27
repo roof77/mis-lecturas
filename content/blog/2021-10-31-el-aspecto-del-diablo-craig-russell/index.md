@@ -19,6 +19,8 @@ toc: false
 autores:
 - Craig Russell
 - Enrique Alda
+autores_stats:
+- Craig Russell
 editoriales:
 - ROCA EDITORIAL
 image:

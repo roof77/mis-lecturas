@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Alison Bechdel
+autores_stats:
+- Alison Bechdel
 editoriales:
 - Reservoir Books / Mondadori
 image:

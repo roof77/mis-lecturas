@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Edgar Wallace
+autores_stats:
+- Edgar Wallace
 editoriales:
 - Open Road Español
 image:

@@ -21,6 +21,8 @@ toc: false
 autores:
 - C.L. Polk
 - Carla Bataller Estruch
+autores_stats:
+- C.L. Polk
 editoriales:
 - Duermevela Ediciones
 image:

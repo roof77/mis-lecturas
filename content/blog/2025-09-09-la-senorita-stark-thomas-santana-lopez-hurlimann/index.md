@@ -9,6 +9,8 @@ tags:
 toc: false
 autores:
 - Thomas / Santana López Hürlimann
+autores_stats:
+- Thomas / Santana López Hürlimann
 editoriales:
 - Tropismos
 image:

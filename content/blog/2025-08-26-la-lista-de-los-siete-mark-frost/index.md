@@ -20,6 +20,8 @@ toc: false
 autores:
 - Mark Frost
 - Alberto Coscarelli Guaschino
+autores_stats:
+- Mark Frost
 editoriales:
 - Impedimenta
 image:

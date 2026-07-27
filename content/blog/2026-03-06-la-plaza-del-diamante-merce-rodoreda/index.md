@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Mercè Rodoreda
+autores_stats:
+- Mercè Rodoreda
 editoriales:
 - Edhasa
 image:

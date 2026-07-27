@@ -20,6 +20,8 @@ toc: false
 autores:
 - M.C. Beaton
 - Vicente Campos
+autores_stats:
+- M.C. Beaton
 editoriales:
 - Circulo de Lectores
 image:

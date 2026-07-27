@@ -18,6 +18,8 @@ toc: false
 autores:
 - Eleanor Davis
 - Santiago García Fernández
+autores_stats:
+- Eleanor Davis
 editoriales:
 - ASTIBERRI EDICIONES
 image:

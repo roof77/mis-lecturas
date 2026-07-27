@@ -9,6 +9,8 @@ tags:
 toc: false
 autores:
 - Peter Bagge
+autores_stats:
+- Peter Bagge
 editoriales:
 - Ediciones La Cúpula
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Lisa Hanawalt
+autores_stats:
+- Lisa Hanawalt
 editoriales:
 - Astiberri
 image:

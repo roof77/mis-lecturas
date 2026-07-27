@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Samanta Schweblin
+autores_stats:
+- Samanta Schweblin
 editoriales:
 - Literatura Random House
 image:

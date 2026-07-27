@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Alison Bechdel
+autores_stats:
+- Alison Bechdel
 editoriales:
 - RESERVOIR BOOKS
 image:

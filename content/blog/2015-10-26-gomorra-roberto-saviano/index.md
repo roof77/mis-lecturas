@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Roberto Saviano
+autores_stats:
+- Roberto Saviano
 editoriales:
 - Editorial Sudamericana
 image:

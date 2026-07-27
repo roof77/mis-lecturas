@@ -21,6 +21,8 @@ toc: false
 autores:
 - William Maxwell
 - Gabriela Bustelo
+autores_stats:
+- William Maxwell
 editoriales:
 - Libros del Asteroide
 image:

@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - James Clear
+autores_stats:
+- James Clear
 editoriales:
 - Paidos México
 image:

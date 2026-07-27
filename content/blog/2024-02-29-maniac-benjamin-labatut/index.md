@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Benjamín Labatut
+autores_stats:
+- Benjamín Labatut
 editoriales:
 - Anagrama
 image:

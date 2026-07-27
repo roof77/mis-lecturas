@@ -19,6 +19,8 @@ toc: false
 autores:
 - Donald Ray Pollock
 - Javier Calvo
+autores_stats:
+- Donald Ray Pollock
 editoriales:
 - Libros del Silencio
 image:

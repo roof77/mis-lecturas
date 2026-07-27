@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Jason
+autores_stats:
+- Jason
 editoriales:
 - Astiberri
 image:

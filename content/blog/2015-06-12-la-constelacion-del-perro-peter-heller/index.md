@@ -21,6 +21,8 @@ autores:
 - Peter Heller
 - Marc Jiménez Buzzi
 - Blanca Rodríguez
+autores_stats:
+- Peter Heller
 editoriales:
 - Blackie Books
 image:

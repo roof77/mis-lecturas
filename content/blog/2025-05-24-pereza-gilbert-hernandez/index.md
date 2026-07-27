@@ -16,6 +16,8 @@ tags:
 toc: false
 autores:
 - Gilbert Hernández
+autores_stats:
+- Gilbert Hernández
 editoriales:
 - Planeta DeAgostini Comics
 image:

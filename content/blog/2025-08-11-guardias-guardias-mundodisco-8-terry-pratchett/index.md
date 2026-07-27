@@ -20,6 +20,8 @@ toc: false
 autores:
 - Terry Pratchett
 - Cristina Macía Orio
+autores_stats:
+- Terry Pratchett
 editoriales:
 - DeBolsillo
 image:

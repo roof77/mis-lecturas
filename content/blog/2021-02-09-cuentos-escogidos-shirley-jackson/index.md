@@ -16,6 +16,8 @@ toc: false
 autores:
 - Shirley Jackson
 - Paula Kuffer
+autores_stats:
+- Shirley Jackson
 editoriales:
 - Editorial Minúscula
 image:

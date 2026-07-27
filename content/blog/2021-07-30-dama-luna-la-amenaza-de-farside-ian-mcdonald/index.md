@@ -21,6 +21,8 @@ toc: false
 autores:
 - Ian McDonald
 - Bruno Puelles
+autores_stats:
+- Ian McDonald
 editoriales:
 - Ed. Apache Libros
 image:

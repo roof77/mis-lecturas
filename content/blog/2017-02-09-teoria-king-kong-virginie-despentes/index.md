@@ -21,6 +21,8 @@ toc: false
 autores:
 - Virginie Despentes
 - Paul B. Preciado
+autores_stats:
+- Virginie Despentes
 editoriales:
 - Melusina
 image:

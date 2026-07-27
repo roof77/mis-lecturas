@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Carl Wilson
+autores_stats:
+- Carl Wilson
 editoriales:
 - Continuum
 image:

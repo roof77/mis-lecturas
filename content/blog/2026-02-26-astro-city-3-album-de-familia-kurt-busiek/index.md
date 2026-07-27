@@ -19,6 +19,9 @@ toc: false
 autores:
 - Kurt Busiek
 - Brent Anderson
+autores_stats:
+- Kurt Busiek
+- Brent Anderson
 editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:

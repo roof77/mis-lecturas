@@ -16,6 +16,8 @@ tags:
 toc: false
 autores:
 - Seth
+autores_stats:
+- Seth
 editoriales:
 - Random House Mondadori, S.A.
 image:

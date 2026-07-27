@@ -18,6 +18,8 @@ toc: false
 autores:
 - Edward Ross
 - Carlos Mayor Ortega
+autores_stats:
+- Edward Ross
 editoriales:
 - RESERVOIR BOOKS
 image:

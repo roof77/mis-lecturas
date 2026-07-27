@@ -20,6 +20,9 @@ toc: false
 autores:
 - Ray Bradbury
 - Francisco Abelenda
+autores_stats:
+- Ray Bradbury
+- Francisco Abelenda
 editoriales:
 - Minotauro
 image:

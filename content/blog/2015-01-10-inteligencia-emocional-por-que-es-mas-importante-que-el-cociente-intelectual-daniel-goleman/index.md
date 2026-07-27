@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Daniel Goleman
+autores_stats:
+- Daniel Goleman
 editoriales:
 - Ediciones B
 image:

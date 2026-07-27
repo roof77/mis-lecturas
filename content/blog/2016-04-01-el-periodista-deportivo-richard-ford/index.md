@@ -20,6 +20,8 @@ autores:
 - Richard Ford
 - Isabel Núñez
 - José Aguirre
+autores_stats:
+- Richard Ford
 editoriales:
 - Editorial Anagrama
 image:

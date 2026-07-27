@@ -19,6 +19,8 @@ toc: false
 autores:
 - Léo Malet
 - Luisa Feliu
+autores_stats:
+- Léo Malet
 editoriales:
 - Libros del Asteroide
 image:

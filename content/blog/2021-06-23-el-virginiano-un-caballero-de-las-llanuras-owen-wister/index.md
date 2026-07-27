@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Owen Wister
+autores_stats:
+- Owen Wister
 editoriales:
 - Valdemar
 image:

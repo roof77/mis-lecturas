@@ -16,6 +16,8 @@ tags:
 toc: false
 autores:
 - Jaime Hernández
+autores_stats:
+- Jaime Hernández
 editoriales:
 - Ediciones La Cúpula, S.A.
 image:

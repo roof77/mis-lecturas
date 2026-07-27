@@ -21,6 +21,8 @@ autores:
 - Scotty Bowers
 - Jaime Zulaika
 - Román Gubern
+autores_stats:
+- Scotty Bowers
 editoriales:
 - Anagrama
 image:

@@ -10,6 +10,8 @@ toc: false
 autores:
 - Tessa Hadley
 - Magdalena Teresa Palmer Molera
+autores_stats:
+- Tessa Hadley
 editoriales:
 - Narrativa
 image:

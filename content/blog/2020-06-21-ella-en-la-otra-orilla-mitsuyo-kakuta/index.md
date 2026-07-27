@@ -22,6 +22,8 @@ autores:
 - Mitsuyo Kakuta
 - Yoko Ogihara
 - Fernando Cordobés
+autores_stats:
+- Mitsuyo Kakuta
 editoriales:
 - Galaxia Gutenberg
 image:

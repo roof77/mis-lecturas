@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - David Sánchez
+autores_stats:
+- David Sánchez
 editoriales:
 - Astiberri
 image:

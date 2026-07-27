@@ -21,6 +21,8 @@ autores:
 - Bandi
 - Hèctor Bofill
 - Hye Young Yu
+autores_stats:
+- Bandi
 editoriales:
 - Libros del Asteroide
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - China Miéville
+autores_stats:
+- China Miéville
 editoriales:
 - La Factoría de Ideas
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Lauren Beukes
 - Pilar Ramírez Tello
+autores_stats:
+- Lauren Beukes
 editoriales:
 - RBA
 image:

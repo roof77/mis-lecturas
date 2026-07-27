@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Kate Beaton
+autores_stats:
+- Kate Beaton
 editoriales:
 - Norma Editorial
 image:

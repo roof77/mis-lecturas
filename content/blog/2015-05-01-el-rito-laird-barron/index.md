@@ -20,6 +20,8 @@ toc: false
 autores:
 - Laird Barron
 - Rubén Martín Giráldez
+autores_stats:
+- Laird Barron
 editoriales:
 - Valdemar
 image:

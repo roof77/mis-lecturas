@@ -20,6 +20,8 @@ toc: false
 autores:
 - Alan Bennet
 - Jaime Zulaika
+autores_stats:
+- Alan Bennet
 editoriales:
 - Anagrama
 image:

@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Nick Drnaso
+autores_stats:
+- Nick Drnaso
 editoriales:
 - Granta Books
 image:

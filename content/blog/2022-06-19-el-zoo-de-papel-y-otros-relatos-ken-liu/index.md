@@ -20,6 +20,8 @@ toc: false
 autores:
 - Ken Liu
 - María Pilar San Román
+autores_stats:
+- Ken Liu
 editoriales:
 - 'Alianza '
 image:

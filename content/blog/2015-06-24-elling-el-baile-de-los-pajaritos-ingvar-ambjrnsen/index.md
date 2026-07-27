@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Ingvar Ambjørnsen
+autores_stats:
+- Ingvar Ambjørnsen
 editoriales:
 - Nórdica Libros
 image:

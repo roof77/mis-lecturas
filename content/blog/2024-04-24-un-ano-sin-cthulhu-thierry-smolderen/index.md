@@ -15,6 +15,8 @@ toc: false
 autores:
 - Thierry Smolderen
 - Alexandre Clérisse
+autores_stats:
+- Thierry Smolderen
 editoriales:
 - 'Norma Editorial '
 image:

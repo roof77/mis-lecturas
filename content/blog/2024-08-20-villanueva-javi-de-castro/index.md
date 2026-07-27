@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Javi de Castro
+autores_stats:
+- Javi de Castro
 editoriales:
 - Astiberri
 image:

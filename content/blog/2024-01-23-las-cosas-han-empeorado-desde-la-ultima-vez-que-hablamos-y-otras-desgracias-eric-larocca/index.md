@@ -23,6 +23,8 @@ autores:
 - José Ángel de Dios
 - Raúl Ruiz
 - Maria Teresa Aranda Morata
+autores_stats:
+- Eric LaRocca
 editoriales:
 - Dilatando Mentes
 image:

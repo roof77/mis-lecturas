@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Emi Yagi
+autores_stats:
+- Emi Yagi
 editoriales:
 - Temas de Hoy
 image:

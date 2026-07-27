@@ -20,6 +20,8 @@ toc: false
 autores:
 - Grady Hendrix
 - Paz Pruneda
+autores_stats:
+- Grady Hendrix
 editoriales:
 - Minotauro
 image:

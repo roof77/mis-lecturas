@@ -20,6 +20,8 @@ toc: false
 autores:
 - Virginie Despentes
 - Noemí Sobregués Arias
+autores_stats:
+- Virginie Despentes
 editoriales:
 - Literatura Random House
 image:

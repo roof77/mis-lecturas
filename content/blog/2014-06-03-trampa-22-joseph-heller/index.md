@@ -21,6 +21,8 @@ toc: false
 autores:
 - Joseph Heller
 - Flora Casas
+autores_stats:
+- Joseph Heller
 editoriales:
 - RBA Bolsillo
 image:

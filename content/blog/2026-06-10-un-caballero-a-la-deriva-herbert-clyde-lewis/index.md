@@ -19,6 +19,8 @@ toc: false
 autores:
 - Herbert Clyde Lewis
 - Ángeles de los Santos
+autores_stats:
+- Herbert Clyde Lewis
 editoriales:
 - Editorial Periférica
 image:

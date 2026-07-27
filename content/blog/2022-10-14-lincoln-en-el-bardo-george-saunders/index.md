@@ -20,6 +20,8 @@ toc: false
 autores:
 - George Saunders
 - Javier Calvo
+autores_stats:
+- George Saunders
 editoriales:
 - Seix Barral
 image:

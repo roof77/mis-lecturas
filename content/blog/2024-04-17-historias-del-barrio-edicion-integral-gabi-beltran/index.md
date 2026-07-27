@@ -16,6 +16,8 @@ toc: false
 autores:
 - Gabi Beltrán
 - Bartolomé Seguí
+autores_stats:
+- Gabi Beltrán
 editoriales:
 - Astiberri
 image:

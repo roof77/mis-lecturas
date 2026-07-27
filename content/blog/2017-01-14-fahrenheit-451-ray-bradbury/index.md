@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Ray Bradbury
+autores_stats:
+- Ray Bradbury
 editoriales:
 - DeBolsillo
 image:

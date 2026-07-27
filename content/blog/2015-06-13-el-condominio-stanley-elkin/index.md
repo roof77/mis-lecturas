@@ -11,6 +11,8 @@ toc: false
 autores:
 - Stanley Elkin
 - Montse Meneses Vilar
+autores_stats:
+- Stanley Elkin
 editoriales:
 - La Fuga Ediciones
 image:

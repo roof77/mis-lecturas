@@ -21,6 +21,8 @@ toc: false
 autores:
 - Juan Rulfo
 - Fundación Juan Rulfo
+autores_stats:
+- Juan Rulfo
 editoriales:
 - Editorial RM - Fundación Juan Rulfo
 image:

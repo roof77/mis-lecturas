@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Gabrielle Bell
+autores_stats:
+- Gabrielle Bell
 editoriales:
 - Drawn and Quarterly
 image:

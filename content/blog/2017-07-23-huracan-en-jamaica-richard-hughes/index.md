@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Richard Hughes
+autores_stats:
+- Richard Hughes
 editoriales:
 - Alba Editorial
 image:

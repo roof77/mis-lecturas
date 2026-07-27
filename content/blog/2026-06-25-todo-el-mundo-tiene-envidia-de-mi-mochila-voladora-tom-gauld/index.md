@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Tom Gauld
+autores_stats:
+- Tom Gauld
 editoriales:
 - Salamandra Graphic
 image:

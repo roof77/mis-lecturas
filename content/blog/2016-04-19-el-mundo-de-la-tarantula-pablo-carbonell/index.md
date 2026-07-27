@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Pablo Carbonell
+autores_stats:
+- Pablo Carbonell
 editoriales:
 - Blackie Books
 image:

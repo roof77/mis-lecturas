@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Martin Suter
+autores_stats:
+- Martin Suter
 editoriales:
 - Libros del Asteroide
 image:

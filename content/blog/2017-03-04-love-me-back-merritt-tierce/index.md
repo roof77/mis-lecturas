@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Merritt Tierce
+autores_stats:
+- Merritt Tierce
 editoriales:
 - Doubleday
 image:

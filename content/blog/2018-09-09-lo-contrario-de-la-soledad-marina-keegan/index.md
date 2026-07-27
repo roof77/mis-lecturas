@@ -19,6 +19,8 @@ toc: false
 autores:
 - Marina Keegan
 - Regina López Muñoz
+autores_stats:
+- Marina Keegan
 editoriales:
 - Alpha Decay
 image:

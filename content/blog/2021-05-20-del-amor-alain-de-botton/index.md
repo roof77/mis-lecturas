@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Alain de Botton
+autores_stats:
+- Alain de Botton
 editoriales:
 - Ediciones B
 image:

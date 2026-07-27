@@ -19,6 +19,8 @@ toc: false
 autores:
 - Andre Agassi
 - Juanjo Estrella González
+autores_stats:
+- Andre Agassi
 editoriales:
 - Duomo Ediciones
 image:

@@ -12,6 +12,8 @@ toc: false
 autores:
 - Graham Masterton
 - Marta Lila Murillo
+autores_stats:
+- Graham Masterton
 editoriales:
 - Valdemar
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Philip K. Dick
 - Manuel Figueroa
+autores_stats:
+- Philip K. Dick
 editoriales:
 - 'Minotauro '
 image:

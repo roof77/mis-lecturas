@@ -21,6 +21,8 @@ autores:
 - Laird Barron
 - Antonio Rivas
 - Santiago Sequeiros
+autores_stats:
+- Laird Barron
 editoriales:
 - La Biblioteca de Carfax
 image:

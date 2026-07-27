@@ -20,6 +20,8 @@ toc: false
 autores:
 - Muriel Spark
 - Gabriela Bustelo
+autores_stats:
+- Muriel Spark
 editoriales:
 - Impedimenta
 image:

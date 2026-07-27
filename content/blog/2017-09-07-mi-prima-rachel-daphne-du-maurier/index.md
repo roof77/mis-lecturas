@@ -20,6 +20,8 @@ toc: false
 autores:
 - Daphne du Maurier
 - Concha Cardeñoso Sáenz de Miera
+autores_stats:
+- Daphne du Maurier
 editoriales:
 - Alba
 image:

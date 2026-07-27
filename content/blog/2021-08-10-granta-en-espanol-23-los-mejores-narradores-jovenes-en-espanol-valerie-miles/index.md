@@ -40,6 +40,33 @@ autores:
 - Irene Reyes Noguerol
 - Aniela Rodríguez
 - Diego Zúñiga
+autores_stats:
+- Valerie Miles
+- Mónica Ojeda
+- Andrea Abreu López
+- José Adiak Montoya
+- David Aliaga
+- Carlos Manuel Álvarez
+- José Ardila
+- Gonzalo Baz
+- Miluska Benavides
+- Martín Felipe Castagnet
+- Andrea Chapela
+- Camila Fabbri
+- Paulina Flores
+- Carlos Fonseca
+- Mateo García Elizondo
+- Aura García-Junco
+- Munier Hachemi
+- Dayneris Machado Vento
+- Estanislao Medina Huesca
+- Cristina Morales
+- Alejandro Morellón
+- Michel Nieva
+- Eduris Planché Savon
+- Irene Reyes Noguerol
+- Aniela Rodríguez
+- Diego Zúñiga
 editoriales:
 - Candaya
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Hanya Yanagihara
 - Aurora Echevarría
+autores_stats:
+- Hanya Yanagihara
 editoriales:
 - Lumen
 image:

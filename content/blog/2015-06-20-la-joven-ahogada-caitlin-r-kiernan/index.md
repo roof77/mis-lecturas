@@ -21,6 +21,8 @@ toc: false
 autores:
 - Caitlín R. Kiernan
 - Marta Lila Murillo
+autores_stats:
+- Caitlín R. Kiernan
 editoriales:
 - Valdemar
 image:

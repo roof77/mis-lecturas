@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Jonathan Ames
+autores_stats:
+- Jonathan Ames
 editoriales:
 - Scribner
 image:

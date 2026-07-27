@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - Tania García
+autores_stats:
+- Tania García
 editoriales:
 - VERGARA
 image:

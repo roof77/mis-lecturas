@@ -12,6 +12,8 @@ toc: false
 autores:
 - Luan Starova
 - Ramón Sánchez Lizarralde
+autores_stats:
+- Luan Starova
 editoriales:
 - Libros del Asteroide
 image:

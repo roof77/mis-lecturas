@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Kyōichi Katayama
+autores_stats:
+- Kyōichi Katayama
 editoriales:
 - Alfaguara
 image:

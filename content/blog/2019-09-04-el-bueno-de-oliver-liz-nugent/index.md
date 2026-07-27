@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Liz Nugent
+autores_stats:
+- Liz Nugent
 editoriales:
 - Suma de Letras
 image:

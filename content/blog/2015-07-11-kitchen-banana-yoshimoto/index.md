@@ -22,6 +22,8 @@ autores:
 - Banana Yoshimoto
 - Junichi Mattsuura
 - Lourdes Porta Fuentes
+autores_stats:
+- Banana Yoshimoto
 editoriales:
 - Tusquets
 image:

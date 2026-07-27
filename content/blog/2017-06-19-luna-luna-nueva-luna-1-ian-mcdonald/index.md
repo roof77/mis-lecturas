@@ -19,6 +19,8 @@ toc: false
 autores:
 - Ian McDonald
 - José Heisenberg
+autores_stats:
+- Ian McDonald
 editoriales:
 - Ediciones B/Nova
 image:

@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - George R.R. Martin
+autores_stats:
+- George R.R. Martin
 editoriales:
 - PLAZA JANÉS
 image:

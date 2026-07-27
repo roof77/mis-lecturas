@@ -21,6 +21,8 @@ toc: false
 autores:
 - John Steinbeck
 - María Coy Girón
+autores_stats:
+- John Steinbeck
 editoriales:
 - Alianza
 image:

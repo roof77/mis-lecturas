@@ -15,6 +15,8 @@ tags:
 toc: false
 autores:
 - Osamu Tezuka
+autores_stats:
+- Osamu Tezuka
 editoriales:
 - Planeta Cómic
 image:

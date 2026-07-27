@@ -23,6 +23,8 @@ autores:
 - Silvia Broome
 - Juan Alberto Hernández
 - José Ángel de Dios
+autores_stats:
+- Gwendolyn Kiste
 editoriales:
 - Dilatando Mentes
 image:

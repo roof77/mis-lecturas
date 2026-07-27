@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Bob Stanley
+autores_stats:
+- Bob Stanley
 editoriales:
 - Turner
 image:

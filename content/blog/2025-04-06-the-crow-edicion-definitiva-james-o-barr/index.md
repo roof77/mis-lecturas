@@ -19,6 +19,8 @@ toc: false
 autores:
 - James O'Barr
 - Ramón de España
+autores_stats:
+- James O'Barr
 editoriales:
 - Ediciones Glénat España
 image:

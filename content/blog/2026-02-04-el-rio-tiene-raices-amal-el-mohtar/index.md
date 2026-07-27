@@ -20,6 +20,8 @@ toc: false
 autores:
 - Amal El-Mohtar
 - Pilar Ramírez Tello
+autores_stats:
+- Amal El-Mohtar
 editoriales:
 - Obscura Editorial, SL
 image:

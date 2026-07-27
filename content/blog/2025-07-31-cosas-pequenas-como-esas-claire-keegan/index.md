@@ -20,6 +20,8 @@ toc: false
 autores:
 - Claire Keegan
 - Jorge Fondebrider
+autores_stats:
+- Claire Keegan
 editoriales:
 - Eterna Cadencia
 image:

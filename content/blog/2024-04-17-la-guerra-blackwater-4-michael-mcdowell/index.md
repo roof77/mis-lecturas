@@ -20,6 +20,8 @@ toc: false
 autores:
 - Michael McDowell
 - Albert Vitó
+autores_stats:
+- Michael McDowell
 editoriales:
 - Blackie Books
 image:

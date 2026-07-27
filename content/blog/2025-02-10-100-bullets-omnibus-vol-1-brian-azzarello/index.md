@@ -17,6 +17,8 @@ toc: false
 autores:
 - Brian Azzarello
 - Eduardo Risso
+autores_stats:
+- Brian Azzarello
 editoriales:
 - DC Comics
 image:

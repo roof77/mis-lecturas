@@ -21,6 +21,8 @@ toc: false
 autores:
 - Albert Camus
 - José Ángel Valente
+autores_stats:
+- Albert Camus
 editoriales:
 - Alianza Editorial
 image:

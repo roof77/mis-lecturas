@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Juan Carlos Uso
+autores_stats:
+- Juan Carlos Uso
 editoriales:
 - Libros Crudos
 image:

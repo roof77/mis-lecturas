@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Hiromi Kawakami
+autores_stats:
+- Hiromi Kawakami
 editoriales:
 - Alfaguara
 image:

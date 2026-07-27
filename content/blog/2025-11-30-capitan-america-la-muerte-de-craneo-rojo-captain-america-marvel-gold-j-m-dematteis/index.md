@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - J.M. DeMatteis
+autores_stats:
+- J.M. DeMatteis
 editoriales:
 - Panini Comics España
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - N.D. Stevenson
+autores_stats:
+- N.D. Stevenson
 editoriales:
 - Harper Collins
 image:

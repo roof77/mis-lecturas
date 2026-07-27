@@ -19,6 +19,8 @@ toc: false
 autores:
 - Bill Bryson
 - Manuel Manzano Gómez
+autores_stats:
+- Bill Bryson
 editoriales:
 - RBA Libros
 image:

@@ -19,6 +19,8 @@ toc: false
 autores:
 - Petra Hartlieb
 - Manolo Laguillo
+autores_stats:
+- Petra Hartlieb
 editoriales:
 - Periférica
 image:

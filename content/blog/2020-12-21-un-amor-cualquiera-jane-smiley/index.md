@@ -13,6 +13,8 @@ toc: false
 autores:
 - Jane Smiley
 - Francisco González López
+autores_stats:
+- Jane Smiley
 editoriales:
 - Sexto Piso
 image:

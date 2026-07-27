@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Luisa Carnés
+autores_stats:
+- Luisa Carnés
 editoriales:
 - Hoja de Lata
 image:

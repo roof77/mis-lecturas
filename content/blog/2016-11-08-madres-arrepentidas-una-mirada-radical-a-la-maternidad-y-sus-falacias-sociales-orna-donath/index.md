@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Orna Donath
+autores_stats:
+- Orna Donath
 editoriales:
 - Reservoir Books
 image:

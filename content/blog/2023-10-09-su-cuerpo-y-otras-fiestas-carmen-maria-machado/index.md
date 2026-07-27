@@ -21,6 +21,8 @@ toc: false
 autores:
 - Carmen Maria Machado
 - Laura Salas Rodríguez
+autores_stats:
+- Carmen Maria Machado
 editoriales:
 - Anagrama
 image:

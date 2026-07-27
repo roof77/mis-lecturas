@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Javier Albares
+autores_stats:
+- Javier Albares
 editoriales:
 - Ediciones Península
 image:

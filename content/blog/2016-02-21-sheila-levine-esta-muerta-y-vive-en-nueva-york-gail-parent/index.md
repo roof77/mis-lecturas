@@ -21,6 +21,8 @@ toc: false
 autores:
 - Gail Parent
 - Zulema Couso
+autores_stats:
+- Gail Parent
 editoriales:
 - Libros del Asteroide
 image:

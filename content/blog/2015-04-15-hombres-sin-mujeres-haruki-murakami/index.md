@@ -20,6 +20,8 @@ toc: false
 autores:
 - Haruki Murakami
 - Gabriel Álvarez Martínez
+autores_stats:
+- Haruki Murakami
 editoriales:
 - Tusquets Editores
 image:

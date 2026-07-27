@@ -21,6 +21,8 @@ toc: false
 autores:
 - Kaori Ekuni
 - Juan Francisco González Sánchez
+autores_stats:
+- Kaori Ekuni
 editoriales:
 - Funambulista
 image:

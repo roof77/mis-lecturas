@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - H.G. Wells
+autores_stats:
+- H.G. Wells
 editoriales:
 - Austral
 image:

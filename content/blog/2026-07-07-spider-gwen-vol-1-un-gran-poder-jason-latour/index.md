@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Jason Latour
+autores_stats:
+- Jason Latour
 editoriales:
 - Panini Comics España (Marvel Comics)
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - P. Djèlí Clark
 - Rebeca Cardeñoso
+autores_stats:
+- P. Djèlí Clark
 editoriales:
 - Duermevela Ediciones
 image:

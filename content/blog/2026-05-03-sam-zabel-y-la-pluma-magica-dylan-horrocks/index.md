@@ -18,6 +18,8 @@ toc: false
 autores:
 - Dylan Horrocks
 - Óscar Palmer Yáñez
+autores_stats:
+- Dylan Horrocks
 editoriales:
 - Astiberri
 image:

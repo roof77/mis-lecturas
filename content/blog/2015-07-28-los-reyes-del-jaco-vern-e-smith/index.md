@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Vern E. Smith
+autores_stats:
+- Vern E. Smith
 editoriales:
 - Sajalín Editores
 image:

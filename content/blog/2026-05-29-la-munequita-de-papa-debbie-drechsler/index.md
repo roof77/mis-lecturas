@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Debbie Drechsler
+autores_stats:
+- Debbie Drechsler
 editoriales:
 - La Cúpula
 image:

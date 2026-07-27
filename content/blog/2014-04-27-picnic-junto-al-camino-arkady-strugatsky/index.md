@@ -21,6 +21,9 @@ autores:
 - Arkady Strugatsky
 - Boris Strugatsky
 - Miquel Barceló
+autores_stats:
+- Arkady Strugatsky
+- Boris Strugatsky
 editoriales:
 - Nova
 image:

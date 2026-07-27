@@ -19,6 +19,8 @@ autores:
 - Michael McDowell
 - Carles Andreu
 - Pedro Oyarbide
+autores_stats:
+- Michael McDowell
 editoriales:
 - Blackie Books
 image:

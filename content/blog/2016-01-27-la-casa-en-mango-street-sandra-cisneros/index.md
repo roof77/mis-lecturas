@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Sandra Cisneros
+autores_stats:
+- Sandra Cisneros
 editoriales:
 - VINTAGE ESPAÑOL
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Raphael Bob-Waksberg
+autores_stats:
+- Raphael Bob-Waksberg
 editoriales:
 - Círculo de Tiza
 image:

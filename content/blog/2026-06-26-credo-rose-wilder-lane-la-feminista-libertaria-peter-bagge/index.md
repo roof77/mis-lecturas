@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Peter Bagge
+autores_stats:
+- Peter Bagge
 editoriales:
 - La Cúpula
 image:

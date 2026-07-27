@@ -9,6 +9,8 @@ tags:
 toc: false
 autores:
 - Vicky Gatekeeper
+autores_stats:
+- Vicky Gatekeeper
 editoriales:
 - Proyecto Estefanía
 image:

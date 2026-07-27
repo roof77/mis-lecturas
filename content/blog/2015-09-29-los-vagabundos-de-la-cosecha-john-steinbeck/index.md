@@ -19,6 +19,8 @@ autores:
 - John Steinbeck
 - Dorothea Lange
 - Eduardo Jordá
+autores_stats:
+- John Steinbeck
 editoriales:
 - Libros del Asteroide
 image:

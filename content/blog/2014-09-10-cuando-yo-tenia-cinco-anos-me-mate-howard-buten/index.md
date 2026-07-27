@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Howard Buten
+autores_stats:
+- Howard Buten
 editoriales:
 - Blackie Books
 image:

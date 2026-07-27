@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - Laura Fernández
+autores_stats:
+- Laura Fernández
 editoriales:
 - Literatura Random House
 image:

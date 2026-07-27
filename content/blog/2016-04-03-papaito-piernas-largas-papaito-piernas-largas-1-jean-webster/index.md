@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Jean Webster
+autores_stats:
+- Jean Webster
 editoriales:
 - Biblok
 image:

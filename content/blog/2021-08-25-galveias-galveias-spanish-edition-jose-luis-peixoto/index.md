@@ -16,6 +16,8 @@ tags:
 toc: false
 autores:
 - José Luís Peixoto
+autores_stats:
+- José Luís Peixoto
 editoriales:
 - Literatura Random House
 image:

@@ -16,6 +16,8 @@ autores:
 - Lars Berge
 - Martin Lexell
 - Mónica Corral Frías
+autores_stats:
+- Lars Berge
 editoriales:
 - Alfaguara
 image:

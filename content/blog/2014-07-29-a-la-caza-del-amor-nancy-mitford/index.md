@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Nancy Mitford
+autores_stats:
+- Nancy Mitford
 editoriales:
 - Libros del Asteroide
 image:

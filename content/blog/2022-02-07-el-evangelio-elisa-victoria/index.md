@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Elisa Victoria
+autores_stats:
+- Elisa Victoria
 editoriales:
 - Blackie Books
 image:

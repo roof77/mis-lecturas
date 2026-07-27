@@ -17,6 +17,13 @@ autores:
 - Yevgeny Baratynsky
 - Orest Somov
 - Mikhail Zagoskin
+autores_stats:
+- Nikolay Karamzin
+- Antony Pogorelsky
+- Mikhail Lermontov
+- Yevgeny Baratynsky
+- Orest Somov
+- Mikhail Zagoskin
 editoriales:
 - Nevsky Prospects
 image:

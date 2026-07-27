@@ -21,6 +21,8 @@ autores:
 - Richard Adams
 - Pilar Giralt Gorina
 - Encarna Quijada Vargas
+autores_stats:
+- Richard Adams
 editoriales:
 - Editorial Seix Barral
 image:

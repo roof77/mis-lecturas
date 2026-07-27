@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - David Jasso
+autores_stats:
+- David Jasso
 editoriales:
 - Equipo Sirius
 image:

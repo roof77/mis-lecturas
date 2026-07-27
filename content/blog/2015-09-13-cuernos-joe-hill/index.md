@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Joe Hill
+autores_stats:
+- Joe Hill
 editoriales:
 - Suma
 image:

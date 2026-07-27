@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Wajdi Mouawad
+autores_stats:
+- Wajdi Mouawad
 editoriales:
 - Actes Sud
 image:

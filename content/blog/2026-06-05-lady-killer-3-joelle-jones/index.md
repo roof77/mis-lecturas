@@ -15,6 +15,8 @@ autores:
 - Joëlle Jones
 - Jamie S. Rich
 - Laura Allred
+autores_stats:
+- Joëlle Jones
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25069392-lady-killer-3)'
 sexo_autor: H

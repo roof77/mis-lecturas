@@ -20,6 +20,8 @@ toc: false
 autores:
 - Sherwood Anderson
 - Miguel Temprano García
+autores_stats:
+- Sherwood Anderson
 editoriales:
 - Acantilado
 image:

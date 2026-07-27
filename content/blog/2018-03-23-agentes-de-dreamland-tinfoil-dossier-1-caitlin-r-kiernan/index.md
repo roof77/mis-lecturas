@@ -20,6 +20,8 @@ toc: false
 autores:
 - Caitlín R. Kiernan
 - María Pilar San Román
+autores_stats:
+- Caitlín R. Kiernan
 editoriales:
 - Alianza
 image:

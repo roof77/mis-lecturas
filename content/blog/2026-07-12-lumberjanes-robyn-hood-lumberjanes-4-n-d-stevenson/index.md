@@ -21,6 +21,10 @@ autores:
 - Grace Ellis
 - Shannon Watters
 - Brooke A. Allen
+autores_stats:
+- N.D. Stevenson
+- Grace Ellis
+- Shannon Watters
 editoriales:
 - BOOM! - BOOM! Box
 image:

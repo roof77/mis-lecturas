@@ -18,6 +18,8 @@ autores:
 - Kenneth Cook
 - Guido Sender Montes
 - Federico Corriente Basús
+autores_stats:
+- Kenneth Cook
 editoriales:
 - Sajalín
 image:

@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Mariana Enriquez
+autores_stats:
+- Mariana Enriquez
 editoriales:
 - Emecé Editores
 image:

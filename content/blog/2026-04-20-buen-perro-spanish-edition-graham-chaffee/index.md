@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Graham Chaffee
+autores_stats:
+- Graham Chaffee
 editoriales:
 - Ediciones La Cúpula, S.L.
 image:

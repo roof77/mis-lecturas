@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Joe Matt
+autores_stats:
+- Joe Matt
 editoriales:
 - Fulgencio Pimentel
 image:

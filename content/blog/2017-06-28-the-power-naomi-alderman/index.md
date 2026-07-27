@@ -20,6 +20,8 @@ toc: false
 autores:
 - Naomi Alderman
 - Ana Guelbenzu
+autores_stats:
+- Naomi Alderman
 editoriales:
 - Roca Editorial
 image:

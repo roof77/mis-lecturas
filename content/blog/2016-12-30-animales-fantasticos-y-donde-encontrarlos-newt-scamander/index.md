@@ -20,6 +20,9 @@ autores:
 - Newt Scamander
 - Alicia Dellepiane Rawson
 - J.K. Rowling
+autores_stats:
+- Newt Scamander
+- J.K. Rowling
 editoriales:
 - Salamandra
 image:

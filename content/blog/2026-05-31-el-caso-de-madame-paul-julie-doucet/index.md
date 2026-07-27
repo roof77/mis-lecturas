@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Julie Doucet
+autores_stats:
+- Julie Doucet
 editoriales:
 - Inrevés SLL
 image:

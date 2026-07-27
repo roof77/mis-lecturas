@@ -20,6 +20,8 @@ toc: false
 autores:
 - Ted Lewis
 - Damià Alou
+autores_stats:
+- Ted Lewis
 editoriales:
 - Sajalin
 image:

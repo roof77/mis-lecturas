@@ -16,6 +16,8 @@ tags:
 toc: false
 autores:
 - Dorothy M. Johnson
+autores_stats:
+- Dorothy M. Johnson
 editoriales:
 - Valdemar
 image:

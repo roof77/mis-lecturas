@@ -21,6 +21,8 @@ autores:
 - Brandon Sanderson
 - Manu Viciano
 - Rafael Marín Trechera
+autores_stats:
+- Brandon Sanderson
 editoriales:
 - Ediciones B
 image:

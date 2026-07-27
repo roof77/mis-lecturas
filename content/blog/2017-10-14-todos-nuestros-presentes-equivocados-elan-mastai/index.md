@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Elan Mastai
+autores_stats:
+- Elan Mastai
 editoriales:
 - Alfaguara
 image:

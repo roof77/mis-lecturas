@@ -20,6 +20,8 @@ toc: false
 autores:
 - Sally Rooney
 - Inga Pellisa
+autores_stats:
+- Sally Rooney
 editoriales:
 - Literatura Random House
 image:

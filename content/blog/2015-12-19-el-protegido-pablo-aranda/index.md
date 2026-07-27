@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Pablo Aranda
+autores_stats:
+- Pablo Aranda
 editoriales:
 - Malpaso Ediciones, SL
 image:

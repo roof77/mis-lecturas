@@ -21,6 +21,8 @@ toc: false
 autores:
 - Annalee Newitz
 - Alexander Páez
+autores_stats:
+- Annalee Newitz
 editoriales:
 - Minotauro
 image:

@@ -21,6 +21,9 @@ autores:
 - Tabitha King
 - Michael McDowell
 - Miguel Antón
+autores_stats:
+- Tabitha King
+- Michael McDowell
 editoriales:
 - Minotauro
 image:

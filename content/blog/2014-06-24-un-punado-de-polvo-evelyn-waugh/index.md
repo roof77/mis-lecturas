@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Evelyn Waugh
+autores_stats:
+- Evelyn Waugh
 editoriales:
 - RBA
 image:

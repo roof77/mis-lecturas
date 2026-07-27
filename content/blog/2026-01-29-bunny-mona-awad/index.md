@@ -20,6 +20,8 @@ toc: false
 autores:
 - Mona Awad
 - Jaime Valero Martínez
+autores_stats:
+- Mona Awad
 editoriales:
 - Stefano Books
 image:

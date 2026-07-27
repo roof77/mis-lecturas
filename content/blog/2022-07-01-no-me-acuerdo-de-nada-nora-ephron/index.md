@@ -19,6 +19,8 @@ toc: false
 autores:
 - Nora Ephron
 - Catalina Martínez Muñoz
+autores_stats:
+- Nora Ephron
 editoriales:
 - Libros del Asteroide
 image:

@@ -18,6 +18,8 @@ toc: false
 autores:
 - Frank Victor Dawes
 - Ángeles de los Santos
+autores_stats:
+- Frank Victor Dawes
 editoriales:
 - Periférica
 image:

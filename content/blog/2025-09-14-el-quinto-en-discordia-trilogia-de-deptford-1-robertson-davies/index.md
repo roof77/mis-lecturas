@@ -22,6 +22,8 @@ autores:
 - Robertson Davies
 - Valentí Puig
 - Natalia Cervera
+autores_stats:
+- Robertson Davies
 editoriales:
 - Libros del Asteroide
 image:

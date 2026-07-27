@@ -20,6 +20,8 @@ toc: false
 autores:
 - Katsuhiro Otomo
 - Steve Oliff
+autores_stats:
+- Katsuhiro Otomo
 editoriales:
 - Norma Editorial
 image:

@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Nieves Delgado
+autores_stats:
+- Nieves Delgado
 editoriales:
 - Editorial Cerbero
 image:

@@ -20,6 +20,9 @@ autores:
 - Scott Snyder
 - Stephen King
 - Rafael Albuquerque
+autores_stats:
+- Scott Snyder
+- Stephen King
 editoriales:
 - Vertigo
 image:

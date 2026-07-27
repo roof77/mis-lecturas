@@ -21,6 +21,8 @@ toc: false
 autores:
 - Anne Meredith
 - Daniel de la Rubia Ortí
+autores_stats:
+- Anne Meredith
 editoriales:
 - Alba Editorial
 image:

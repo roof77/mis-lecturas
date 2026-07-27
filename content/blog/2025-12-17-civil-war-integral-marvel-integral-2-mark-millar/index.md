@@ -13,6 +13,9 @@ toc: false
 autores:
 - Mark Millar
 - Brian Michael Bendis
+autores_stats:
+- Mark Millar
+- Brian Michael Bendis
 editoriales:
 - Panini Comics España (Marvel Comics)
 image:

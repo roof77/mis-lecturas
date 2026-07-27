@@ -26,6 +26,18 @@ autores:
 - Caryanna Reuven
 - Elia Barceló
 - Eva Vázquez
+autores_stats:
+- Miriam Iriarte
+- Alicia Sánchez
+- Laura Replinger
+- Raquel G. Álvarez-Calderón
+- Chús Álvarez
+- Gisela Baños
+- Mar Vieites
+- Arantxa Comes
+- Viviana Rodil
+- Coral Carracedo
+- Patricia Janikowski
 editoriales:
 - Triskel Ediciones
 image:

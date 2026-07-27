@@ -19,6 +19,8 @@ toc: false
 autores:
 - Stuart Turton
 - Lorenzo F. Díaz
+autores_stats:
+- Stuart Turton
 editoriales:
 - Ático de los Libros
 image:

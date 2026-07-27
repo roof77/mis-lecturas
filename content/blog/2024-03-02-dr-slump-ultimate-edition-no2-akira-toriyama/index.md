@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - Akira Toriyama
+autores_stats:
+- Akira Toriyama
 editoriales:
 - Planeta DeAgostini
 image:

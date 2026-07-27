@@ -22,6 +22,8 @@ autores:
 - Blanca Gago Domínguez
 - Jane Lazarre
 - Laurie Olsen
+autores_stats:
+- Tillie Olsen
 editoriales:
 - Las Afueras
 image:

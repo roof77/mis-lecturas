@@ -20,6 +20,8 @@ toc: false
 autores:
 - Gemma Files
 - Pilar Ramírez Tello
+autores_stats:
+- Gemma Files
 editoriales:
 - La biblioteca de Carfax
 image:

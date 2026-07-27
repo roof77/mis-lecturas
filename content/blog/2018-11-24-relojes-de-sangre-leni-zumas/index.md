@@ -20,6 +20,8 @@ toc: false
 autores:
 - Leni Zumas
 - Mariana Hernández Cruz
+autores_stats:
+- Leni Zumas
 editoriales:
 - Destino
 image:

@@ -19,6 +19,8 @@ toc: false
 autores:
 - J.K. Rowling
 - Gemma Rovira Ortega
+autores_stats:
+- J.K. Rowling
 editoriales:
 - Ediciones Salamandra
 image:

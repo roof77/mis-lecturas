@@ -20,6 +20,8 @@ toc: false
 autores:
 - Taylor Jenkins Reid
 - Lucía Barahona
+autores_stats:
+- Taylor Jenkins Reid
 editoriales:
 - Blackie Books
 image:

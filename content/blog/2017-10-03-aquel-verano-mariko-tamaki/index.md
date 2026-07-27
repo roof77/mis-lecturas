@@ -20,6 +20,9 @@ toc: false
 autores:
 - Mariko Tamaki
 - Jillian Tamaki
+autores_stats:
+- Mariko Tamaki
+- Jillian Tamaki
 editoriales:
 - La Cúpula
 image:

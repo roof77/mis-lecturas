@@ -19,6 +19,8 @@ toc: false
 autores:
 - Kieran Setiya
 - Ramón González Férriz
+autores_stats:
+- Kieran Setiya
 editoriales:
 - Libros del Asteroide
 image:

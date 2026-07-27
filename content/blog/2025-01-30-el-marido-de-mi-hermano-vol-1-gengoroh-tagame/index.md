@@ -21,6 +21,8 @@ toc: false
 autores:
 - Gengoroh Tagame
 - Marc Bernabé
+autores_stats:
+- Gengoroh Tagame
 editoriales:
 - Panini Cómics
 image:

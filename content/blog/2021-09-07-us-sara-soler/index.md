@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Sara Soler
+autores_stats:
+- Sara Soler
 editoriales:
 - Astiberri
 image:

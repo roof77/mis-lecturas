@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - P.D. James
+autores_stats:
+- P.D. James
 editoriales:
 - ZETA BOLSILLO
 image:

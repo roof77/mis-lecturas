@@ -20,6 +20,8 @@ toc: false
 autores:
 - Todd Keisling
 - Shaila Correa
+autores_stats:
+- Todd Keisling
 editoriales:
 - La biblioteca de Carfax
 image:

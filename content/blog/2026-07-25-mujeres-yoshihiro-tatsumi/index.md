@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - Yoshihiro Tatsumi
+autores_stats:
+- Yoshihiro Tatsumi
 editoriales:
 - La Cúpula
 image:

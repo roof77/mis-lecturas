@@ -15,6 +15,8 @@ tags:
 toc: false
 autores:
 - Magius
+autores_stats:
+- Magius
 editoriales:
 - Autsaider Cómics
 image:

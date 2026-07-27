@@ -21,6 +21,8 @@ toc: false
 autores:
 - Christopher R. Beha
 - Damià Alou
+autores_stats:
+- Christopher R. Beha
 editoriales:
 - Libros del Asteroide
 image:

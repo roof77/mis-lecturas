@@ -21,6 +21,8 @@ toc: false
 autores:
 - Andy Weir
 - Javier Guerrero Gimeno
+autores_stats:
+- Andy Weir
 editoriales:
 - Ediciones B
 image:

@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Camille Vannier
+autores_stats:
+- Camille Vannier
 editoriales:
 - Astiberri
 image:

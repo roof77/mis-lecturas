@@ -20,6 +20,8 @@ toc: false
 autores:
 - Owen Jones
 - Íñigo Jaúregui Eguía
+autores_stats:
+- Owen Jones
 editoriales:
 - Capitán Swing
 image:

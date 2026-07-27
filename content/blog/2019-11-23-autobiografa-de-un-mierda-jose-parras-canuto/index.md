@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Jose Parras Canuto
+autores_stats:
+- Jose Parras Canuto
 editoriales:
 - Independently Published
 image:

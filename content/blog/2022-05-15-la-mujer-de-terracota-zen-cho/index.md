@@ -22,6 +22,8 @@ autores:
 - Zen Cho
 - Rebeca Cardeñoso Viña
 - Qu Lan
+autores_stats:
+- Zen Cho
 editoriales:
 - Duermevela
 image:

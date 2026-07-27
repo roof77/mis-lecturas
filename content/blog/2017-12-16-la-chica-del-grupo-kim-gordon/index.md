@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Kim Gordon
+autores_stats:
+- Kim Gordon
 editoriales:
 - Editorial Contra
 image:

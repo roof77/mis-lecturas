@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Edith Wharton
+autores_stats:
+- Edith Wharton
 editoriales:
 - 'Alba '
 image:

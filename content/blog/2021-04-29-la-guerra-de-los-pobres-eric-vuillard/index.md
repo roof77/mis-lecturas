@@ -20,6 +20,8 @@ toc: false
 autores:
 - Éric Vuillard
 - Javier Albiñana
+autores_stats:
+- Éric Vuillard
 editoriales:
 - TusQuets
 image:

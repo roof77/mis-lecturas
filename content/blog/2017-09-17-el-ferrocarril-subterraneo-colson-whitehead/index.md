@@ -20,6 +20,8 @@ toc: false
 autores:
 - Colson Whitehead
 - Cruz Rodríguez Juiz
+autores_stats:
+- Colson Whitehead
 editoriales:
 - Literatura Random House
 image:

@@ -21,6 +21,8 @@ toc: false
 autores:
 - Alice Oseman
 - Victoria Simó Perales
+autores_stats:
+- Alice Oseman
 editoriales:
 - Crossbooks
 image:

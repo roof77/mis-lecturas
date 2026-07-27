@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Rumiko Takahashi
+autores_stats:
+- Rumiko Takahashi
 editoriales:
 - Ediciones Glénat España
 image:

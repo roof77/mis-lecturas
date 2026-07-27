@@ -21,6 +21,8 @@ toc: false
 autores:
 - Hiroko Oyamada
 - Tana Oshima
+autores_stats:
+- Hiroko Oyamada
 editoriales:
 - Impedimenta
 image:

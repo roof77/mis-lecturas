@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Katsuhiro Otomo
+autores_stats:
+- Katsuhiro Otomo
 editoriales:
 - Norma Editorial
 image:

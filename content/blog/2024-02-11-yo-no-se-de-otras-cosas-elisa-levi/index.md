@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Elisa Levi
+autores_stats:
+- Elisa Levi
 editoriales:
 - Temas de Hoy
 image:

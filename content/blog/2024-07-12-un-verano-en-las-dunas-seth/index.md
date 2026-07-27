@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Seth
+autores_stats:
+- Seth
 editoriales:
 - Fulgencio Pimentel
 image:

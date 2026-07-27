@@ -21,6 +21,8 @@ toc: false
 autores:
 - Jonathan Lethem
 - Cruz Rodríguez Juiz
+autores_stats:
+- Jonathan Lethem
 editoriales:
 - Literatura Random House
 image:

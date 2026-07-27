@@ -20,6 +20,8 @@ toc: false
 autores:
 - Bernardine Evaristo
 - Julia Osuna Aguilar
+autores_stats:
+- Bernardine Evaristo
 editoriales:
 - Alianza Editorial
 image:

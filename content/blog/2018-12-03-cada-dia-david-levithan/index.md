@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - David Levithan
+autores_stats:
+- David Levithan
 editoriales:
 - Molino
 image:

@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - David Cabrera
+autores_stats:
+- David Cabrera
 editoriales:
 - Libros del K.O.
 image:

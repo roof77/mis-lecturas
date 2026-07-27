@@ -19,6 +19,8 @@ toc: false
 autores:
 - Suki Kim
 - Pablo Álvarez Ellacuría
+autores_stats:
+- Suki Kim
 editoriales:
 - Blackie Books
 image:

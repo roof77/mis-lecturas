@@ -20,6 +20,8 @@ toc: false
 autores:
 - Aleksandar Hemon
 - Eduardo Jordá
+autores_stats:
+- Aleksandar Hemon
 editoriales:
 - Libros del Asteroide
 image:

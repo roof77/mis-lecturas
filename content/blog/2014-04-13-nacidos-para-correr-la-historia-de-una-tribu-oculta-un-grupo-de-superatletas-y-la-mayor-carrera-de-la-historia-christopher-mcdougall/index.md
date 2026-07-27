@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Christopher McDougall
+autores_stats:
+- Christopher McDougall
 editoriales:
 - DEBATE
 image:

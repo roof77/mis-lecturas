@@ -19,6 +19,8 @@ toc: false
 autores:
 - Jul Maroh
 - Lorenzo F. Díaz
+autores_stats:
+- Jul Maroh
 editoriales:
 - Dibbuks
 image:

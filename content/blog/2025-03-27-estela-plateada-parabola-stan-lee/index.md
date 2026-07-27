@@ -19,6 +19,8 @@ autores:
 - Stan Lee
 - Mœbius
 - Uriel López
+autores_stats:
+- Stan Lee
 editoriales:
 - Panini Comics España (Marvel Comics)
 image:

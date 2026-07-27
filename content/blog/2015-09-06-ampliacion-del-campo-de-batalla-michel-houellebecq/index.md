@@ -20,6 +20,8 @@ toc: false
 autores:
 - Michel Houellebecq
 - Encarna Castejón
+autores_stats:
+- Michel Houellebecq
 editoriales:
 - Editorial Anagrama
 image:

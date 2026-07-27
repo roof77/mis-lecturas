@@ -21,6 +21,8 @@ toc: false
 autores:
 - Rachel Klein
 - Elisabete Fernández Arrieta
+autores_stats:
+- Rachel Klein
 editoriales:
 - Planeta
 image:

@@ -18,6 +18,8 @@ toc: false
 autores:
 - Sam Shepard
 - Gustavo Pérez de Ayala
+autores_stats:
+- Sam Shepard
 editoriales:
 - Editorial Anagrama
 image:

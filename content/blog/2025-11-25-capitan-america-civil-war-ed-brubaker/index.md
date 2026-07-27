@@ -20,6 +20,8 @@ autores:
 - Ed Brubaker
 - Steve Epting
 - Mark Perkins
+autores_stats:
+- Ed Brubaker
 editoriales:
 - Panini Cómics
 image:

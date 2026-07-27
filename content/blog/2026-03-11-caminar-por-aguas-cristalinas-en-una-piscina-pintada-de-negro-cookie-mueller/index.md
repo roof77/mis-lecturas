@@ -20,6 +20,8 @@ toc: false
 autores:
 - Cookie Mueller
 - Rodrigo Olavarría
+autores_stats:
+- Cookie Mueller
 editoriales:
 - los tres editores
 image:

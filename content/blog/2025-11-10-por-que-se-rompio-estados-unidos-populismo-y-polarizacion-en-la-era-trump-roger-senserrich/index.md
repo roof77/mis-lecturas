@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Roger Senserrich
+autores_stats:
+- Roger Senserrich
 editoriales:
 - DEBATE
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Robert A. Heinlein
+autores_stats:
+- Robert A. Heinlein
 editoriales:
 - Martinez Roca
 image:

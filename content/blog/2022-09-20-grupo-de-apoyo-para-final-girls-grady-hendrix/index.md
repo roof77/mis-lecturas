@@ -19,6 +19,8 @@ toc: false
 autores:
 - Grady Hendrix
 - Víctor Manuel García de Isusi
+autores_stats:
+- Grady Hendrix
 editoriales:
 - Minotauro
 image:

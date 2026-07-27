@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Philip Kerr
+autores_stats:
+- Philip Kerr
 editoriales:
 - RBA
 image:

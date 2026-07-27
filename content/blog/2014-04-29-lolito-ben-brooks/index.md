@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Ben Brooks
+autores_stats:
+- Ben Brooks
 editoriales:
 - Canongate
 image:

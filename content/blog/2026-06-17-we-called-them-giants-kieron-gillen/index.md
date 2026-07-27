@@ -20,6 +20,8 @@ autores:
 - Kieron Gillen
 - Stephanie Hans
 - Clayton Cowles
+autores_stats:
+- Kieron Gillen
 editoriales:
 - Image Comics
 image:

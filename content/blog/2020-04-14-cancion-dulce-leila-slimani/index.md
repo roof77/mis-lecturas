@@ -19,6 +19,8 @@ toc: false
 autores:
 - Leïla Slimani
 - Malika Embarek López
+autores_stats:
+- Leïla Slimani
 editoriales:
 - Cabaret Voltaire
 image:

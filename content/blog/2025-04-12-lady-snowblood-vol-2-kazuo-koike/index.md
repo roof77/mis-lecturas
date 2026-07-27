@@ -16,6 +16,8 @@ toc: false
 autores:
 - Kazuo Koike
 - Kazuo Kamimura
+autores_stats:
+- Kazuo Koike
 editoriales:
 - Planeta Cómic
 image:

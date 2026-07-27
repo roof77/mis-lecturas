@@ -19,6 +19,8 @@ toc: false
 autores:
 - Frank Miller
 - David Mazzucchelli
+autores_stats:
+- Frank Miller
 editoriales:
 - Marvel Comics
 image:

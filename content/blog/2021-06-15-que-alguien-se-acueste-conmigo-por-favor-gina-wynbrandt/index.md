@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Gina Wynbrandt
+autores_stats:
+- Gina Wynbrandt
 editoriales:
 - Reservoir Books
 image:

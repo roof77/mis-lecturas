@@ -20,6 +20,8 @@ toc: false
 autores:
 - Santiago Lorenzo
 - Guim Tió
+autores_stats:
+- Santiago Lorenzo
 editoriales:
 - Blackie Books
 image:

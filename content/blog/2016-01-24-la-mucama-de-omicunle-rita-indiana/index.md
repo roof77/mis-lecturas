@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Rita Indiana
+autores_stats:
+- Rita Indiana
 editoriales:
 - Periférica
 image:

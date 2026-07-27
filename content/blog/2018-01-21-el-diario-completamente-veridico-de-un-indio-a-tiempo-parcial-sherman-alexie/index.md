@@ -22,6 +22,8 @@ autores:
 - Sherman Alexie
 - Ellen Forney
 - Clara Ministral
+autores_stats:
+- Sherman Alexie
 editoriales:
 - Siruela
 image:

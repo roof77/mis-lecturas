@@ -21,6 +21,8 @@ toc: false
 autores:
 - Paolo Bacigalupi
 - Manuel de los Reyes
+autores_stats:
+- Paolo Bacigalupi
 editoriales:
 - Plaza & Janés
 image:

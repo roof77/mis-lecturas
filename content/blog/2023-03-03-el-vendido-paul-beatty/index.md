@@ -21,6 +21,8 @@ toc: false
 autores:
 - Paul Beatty
 - Íñigo García Ureta
+autores_stats:
+- Paul Beatty
 editoriales:
 - Malpaso
 image:

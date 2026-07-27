@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Ulrich Alexander Boschwitz
+autores_stats:
+- Ulrich Alexander Boschwitz
 editoriales:
 - Sexto Piso
 image:

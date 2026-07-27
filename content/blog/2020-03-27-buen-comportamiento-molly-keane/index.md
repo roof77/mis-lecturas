@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Molly Keane
+autores_stats:
+- Molly Keane
 editoriales:
 - Contraseña
 image:

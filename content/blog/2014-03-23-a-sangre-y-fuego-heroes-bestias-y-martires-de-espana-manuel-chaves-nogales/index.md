@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Manuel Chaves Nogales
+autores_stats:
+- Manuel Chaves Nogales
 editoriales:
 - Libros del Asteroide
 image:

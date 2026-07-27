@@ -20,6 +20,8 @@ toc: false
 autores:
 - Haruki Murakami
 - Lourdes Porta Fuentes
+autores_stats:
+- Haruki Murakami
 editoriales:
 - Tusquets
 image:

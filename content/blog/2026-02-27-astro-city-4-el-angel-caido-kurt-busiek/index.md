@@ -20,6 +20,10 @@ autores:
 - Kurt Busiek
 - Brent Anderson
 - Alex Ross
+autores_stats:
+- Kurt Busiek
+- Brent Anderson
+- Alex Ross
 editoriales:
 - Norma Editorial (Wildstorm Comics)
 image:

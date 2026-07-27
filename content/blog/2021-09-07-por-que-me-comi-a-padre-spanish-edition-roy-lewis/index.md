@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Roy Lewis
+autores_stats:
+- Roy Lewis
 editoriales:
 - Gigamesh Digital
 image:

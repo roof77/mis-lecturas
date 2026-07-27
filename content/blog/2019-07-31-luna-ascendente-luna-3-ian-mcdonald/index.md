@@ -20,6 +20,8 @@ toc: false
 autores:
 - Ian McDonald
 - Natalia Eva Cervera de la Torre
+autores_stats:
+- Ian McDonald
 editoriales:
 - Ediciones B
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Daryl Gregory
 - Carles Andreu Saburit
+autores_stats:
+- Daryl Gregory
 editoriales:
 - Blackie Books
 image:

@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Jordan Crane
+autores_stats:
+- Jordan Crane
 editoriales:
 - La cúpula
 image:

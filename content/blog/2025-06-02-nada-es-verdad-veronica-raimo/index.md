@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Veronica Raimo
+autores_stats:
+- Veronica Raimo
 editoriales:
 - Libros del Asteroide
 image:

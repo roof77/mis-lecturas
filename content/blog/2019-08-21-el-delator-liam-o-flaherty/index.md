@@ -20,6 +20,8 @@ toc: false
 autores:
 - Liam O'Flaherty
 - Antonio Rivero Taravillo
+autores_stats:
+- Liam O'Flaherty
 editoriales:
 - Libros del Asteroide
 image:

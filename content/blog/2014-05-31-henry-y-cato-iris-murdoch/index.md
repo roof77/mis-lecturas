@@ -21,6 +21,8 @@ toc: false
 autores:
 - Iris Murdoch
 - Luis Lasse
+autores_stats:
+- Iris Murdoch
 editoriales:
 - Editorial Impedimenta SL
 image:

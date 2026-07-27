@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - Fred
+autores_stats:
+- Fred
 editoriales:
 - ECC Ediciones
 image:

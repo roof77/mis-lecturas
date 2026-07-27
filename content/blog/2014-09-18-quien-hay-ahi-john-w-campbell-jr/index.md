@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - John W. Campbell Jr.
+autores_stats:
+- John W. Campbell Jr.
 editoriales:
 - 'Editor digital: Titivillus'
 image:

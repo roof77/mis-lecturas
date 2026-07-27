@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Eleanor Catton
+autores_stats:
+- Eleanor Catton
 editoriales:
 - 'Siruela '
 image:

@@ -19,6 +19,8 @@ toc: false
 autores:
 - Caitlin Moran
 - Marta Salís
+autores_stats:
+- Caitlin Moran
 editoriales:
 - Anagrama
 image:

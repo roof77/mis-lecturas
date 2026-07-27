@@ -20,6 +20,8 @@ autores:
 - Gavin Edwards
 - Ismael Attrache
 - Jonathan Millán
+autores_stats:
+- Gavin Edwards
 editoriales:
 - Blackie Books
 image:

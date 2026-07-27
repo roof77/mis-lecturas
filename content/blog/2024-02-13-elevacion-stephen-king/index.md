@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Stephen King
+autores_stats:
+- Stephen King
 editoriales:
 - Suma
 image:

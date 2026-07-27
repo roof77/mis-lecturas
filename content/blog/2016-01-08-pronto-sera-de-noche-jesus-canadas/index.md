@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Jesús Cañadas
+autores_stats:
+- Jesús Cañadas
 editoriales:
 - Valdemar
 image:

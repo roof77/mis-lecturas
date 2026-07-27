@@ -13,6 +13,9 @@ toc: false
 autores:
 - Peter Bagge
 - Hernán Migoya
+autores_stats:
+- Peter Bagge
+- Hernán Migoya
 editoriales:
 - UNKNO
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Arturo Pérez-Reverte
+autores_stats:
+- Arturo Pérez-Reverte
 editoriales:
 - Alfaguara
 image:

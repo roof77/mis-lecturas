@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Daniel Woodrell
+autores_stats:
+- Daniel Woodrell
 editoriales:
 - Alba
 image:

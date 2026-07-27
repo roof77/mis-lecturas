@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Marina L. Riudoms
+autores_stats:
+- Marina L. Riudoms
 editoriales:
 - Caballo De Troya
 image:

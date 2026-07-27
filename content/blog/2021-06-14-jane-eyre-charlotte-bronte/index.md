@@ -20,6 +20,8 @@ toc: false
 autores:
 - Charlotte Brontë
 - Carmen Martín Gaite
+autores_stats:
+- Charlotte Brontë
 editoriales:
 - Alba Editorial
 image:

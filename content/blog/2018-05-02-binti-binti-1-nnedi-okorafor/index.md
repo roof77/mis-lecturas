@@ -20,6 +20,8 @@ toc: false
 autores:
 - Nnedi Okorafor
 - Carla Bataller Estruch
+autores_stats:
+- Nnedi Okorafor
 editoriales:
 - Crononauta
 image:

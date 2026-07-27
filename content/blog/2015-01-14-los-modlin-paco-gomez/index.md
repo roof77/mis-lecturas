@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Paco Gómez
+autores_stats:
+- Paco Gómez
 editoriales:
 - Fracaso Books
 image:

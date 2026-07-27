@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Elsa Veiga
+autores_stats:
+- Elsa Veiga
 editoriales:
 - Tres Hermanas
 image:

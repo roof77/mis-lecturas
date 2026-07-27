@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Fernando Márquez
+autores_stats:
+- Fernando Márquez
 editoriales:
 - Literaturas Com Libros
 image:

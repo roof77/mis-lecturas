@@ -20,6 +20,8 @@ toc: false
 autores:
 - Thomas Olde Heuvelt
 - Ana Isabel Sánchez Díez
+autores_stats:
+- Thomas Olde Heuvelt
 editoriales:
 - Nocturna
 image:

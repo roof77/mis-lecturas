@@ -43,6 +43,28 @@ autores:
 - Manu Viciano
 - Carlos Pavón
 - David Tejera Expósito
+autores_stats:
+- Mariano Villarreal
+- Alyssa Wong
+- Angela Slatter
+- Eugie Foster
+- Rachel Swirsky
+- Damien Angelica Walters
+- Mike Resnick
+- Lucy A. Snyder
+- Maria Dahvana Headley
+- Mercurio D. Rivera
+- Luis Eduardo Bermejo
+- Caroline M. Yoachim
+- Maria Dahvana
+- Maureen F. McHugh
+- Ludo Bermejo
+- Ferrán Varela Navarro
+- Victor Sellers
+- Ferran Varela
+- Alfredo Álamo
+- Elia Barceló
+- Teresa P. Mira de Echeverría
 editoriales:
 - Sportula
 image:

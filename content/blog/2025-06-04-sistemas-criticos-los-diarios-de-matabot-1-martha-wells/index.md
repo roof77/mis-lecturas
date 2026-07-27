@@ -20,6 +20,8 @@ toc: false
 autores:
 - Martha Wells
 - Carla Bataller Estruch
+autores_stats:
+- Martha Wells
 editoriales:
 - Alethé
 image:

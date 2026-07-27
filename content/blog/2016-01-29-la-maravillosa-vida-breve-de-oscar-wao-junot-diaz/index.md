@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Junot Díaz
+autores_stats:
+- Junot Díaz
 editoriales:
 - Random House Mondadori
 image:

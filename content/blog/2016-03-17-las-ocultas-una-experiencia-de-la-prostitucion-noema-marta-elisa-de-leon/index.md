@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Marta Elisa de León
+autores_stats:
+- Marta Elisa de León
 editoriales:
 - Turner
 image:

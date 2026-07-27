@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Hunter S. Thompson
+autores_stats:
+- Hunter S. Thompson
 editoriales:
 - 'Sexto Piso '
 image:

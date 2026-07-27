@@ -20,6 +20,9 @@ toc: false
 autores:
 - Stephen King
 - Richard Chizmar
+autores_stats:
+- Stephen King
+- Richard Chizmar
 editoriales:
 - SUMA
 image:

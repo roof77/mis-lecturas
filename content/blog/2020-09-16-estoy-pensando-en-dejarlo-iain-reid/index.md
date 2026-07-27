@@ -19,6 +19,8 @@ toc: false
 autores:
 - Iain Reid
 - Cristina Martín Sanz
+autores_stats:
+- Iain Reid
 editoriales:
 - Alianza Editorial
 image:

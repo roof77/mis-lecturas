@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Jerónimo Sánchez
+autores_stats:
+- Jerónimo Sánchez
 editoriales:
 - Gestión 2000
 image:

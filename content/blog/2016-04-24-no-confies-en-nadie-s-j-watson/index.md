@@ -20,6 +20,8 @@ toc: false
 autores:
 - S.J. Watson
 - Matuca Fernández de Villavicencio
+autores_stats:
+- S.J. Watson
 editoriales:
 - Grijalbo
 image:

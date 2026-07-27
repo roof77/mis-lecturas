@@ -21,6 +21,8 @@ toc: false
 autores:
 - Sylvia Townsend Warner
 - Celia Montolío
+autores_stats:
+- Sylvia Townsend Warner
 editoriales:
 - Siruela
 image:

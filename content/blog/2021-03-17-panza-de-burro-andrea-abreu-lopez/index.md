@@ -21,6 +21,8 @@ toc: false
 autores:
 - Andrea Abreu López
 - Sabina Urraca
+autores_stats:
+- Andrea Abreu López
 editoriales:
 - Editorial Barrett
 image:

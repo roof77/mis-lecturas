@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Sara Mesa
+autores_stats:
+- Sara Mesa
 editoriales:
 - Anagrama
 image:

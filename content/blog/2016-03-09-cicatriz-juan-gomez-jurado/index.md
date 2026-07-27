@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Juan Gómez-Jurado
+autores_stats:
+- Juan Gómez-Jurado
 editoriales:
 - Ediciones B
 image:

@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - J.K. Rowling
+autores_stats:
+- J.K. Rowling
 editoriales:
 - Pottermore Publishing
 image:

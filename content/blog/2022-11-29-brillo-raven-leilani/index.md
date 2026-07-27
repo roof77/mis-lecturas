@@ -20,6 +20,8 @@ toc: false
 autores:
 - Raven Leilani
 - Laura Ibáñez
+autores_stats:
+- Raven Leilani
 editoriales:
 - Blackie Books
 image:

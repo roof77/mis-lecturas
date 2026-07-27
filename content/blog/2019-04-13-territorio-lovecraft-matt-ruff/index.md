@@ -20,6 +20,8 @@ toc: false
 autores:
 - Matt Ruff
 - Javier Calvo Perales
+autores_stats:
+- Matt Ruff
 editoriales:
 - Destino
 image:

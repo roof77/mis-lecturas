@@ -10,6 +10,8 @@ toc: false
 autores:
 - Peter Bagge
 - Hernán Migoya
+autores_stats:
+- Peter Bagge
 editoriales:
 - Ediciones La Cúpula, S.L.
 image:

@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Tom Spanbauer
+autores_stats:
+- Tom Spanbauer
 editoriales:
 - Quinteto
 image:

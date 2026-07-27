@@ -3,6 +3,78 @@ title: Estadísticas
 summary: Estadísticas de lectura por año.
 ---
 
+## Resumen histórico
+
+<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">195883</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">664</div></div></div>
+</div>
+
+<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">47596</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">231</div></div></div>
+</div>
+
+<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
+<h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
+<div style="display:flex;align-items:center;gap:1rem;">
+  <a href="/blog/2018-02-07-manor-karl-heinrich-ulrichs/"><img src="/blog/2018-02-07-manor-karl-heinrich-ulrichs/featured.jpg" alt="Manor" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <div>
+    <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
+    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">9</div>
+    <div style="font-weight:700;font-size:0.95rem;">páginas</div>
+  </div>
+</div>
+<div style="display:flex;align-items:center;gap:1rem;">
+  <a href="/blog/2021-05-07-el-jilguero-donna-tartt/"><img src="/blog/2021-05-07-el-jilguero-donna-tartt/featured.jpg" alt="El jilguero" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <div>
+    <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
+    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">1152</div>
+    <div style="font-weight:700;font-size:0.95rem;">páginas</div>
+  </div>
+</div>
+</div>
+</div>
+
+<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
+<h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
+<div style="display:flex;align-items:center;gap:1rem;">
+  <a href="/blog/2018-08-20-sex-criminals-11-manime-matt-fraction/"><img src="/blog/2018-08-20-sex-criminals-11-manime-matt-fraction/featured.jpg" alt="Sex Criminals #11: Manime" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <div>
+    <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
+    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">22</div>
+    <div style="font-weight:700;font-size:0.95rem;">páginas</div>
+  </div>
+</div>
+<div style="display:flex;align-items:center;gap:1rem;">
+  <a href="/blog/2025-02-10-100-bullets-omnibus-vol-1-brian-azzarello/"><img src="/blog/2025-02-10-100-bullets-omnibus-vol-1-brian-azzarello/featured.jpg" alt="100 Bullets Omnibus Vol. 1" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <div>
+    <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
+    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">1376</div>
+    <div style="font-weight:700;font-size:0.95rem;">páginas</div>
+  </div>
+</div>
+</div>
+</div>
+
+<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">295</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">206</div><div style="font-weight:700;">páginas de media</div></div></div>
+</div>
+
+<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (500)</li><li>Club de lectura (191)</li><li>Novela (190)</li><li>Fantasía (185)</li><li>Contemporaneo (175)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (196)</li><li>Ficción (139)</li><li>Fantasía (79)</li><li>Humor (44)</li><li>Ciencia ficción (40)</li></ol></div></div>
+</div>
+
+<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
+<h3 style="margin-top:0;">Autores más leídos</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>J.K. Rowling (10)</li><li>Michael McDowell (9)</li><li>Grady Hendrix (8)</li><li>P. Djèlí Clark (5)</li><li>Bill Bryson (4)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Matt Fraction (31)</li><li>Peter Bagge (13)</li><li>Rumiko Takahashi (9)</li><li>N.D. Stevenson (9)</li><li>Yarō Abe (8)</li></ol></div></div>
+</div>
+
+<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
+<h3 style="margin-top:0;">Editoriales más leídas</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Libros del Asteroide (28)</li><li>Blackie Books (26)</li><li>Editorial Anagrama (25)</li><li>Literatura Random House (18)</li><li>Valdemar (16)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Image Comics (23)</li><li>Astiberri (19)</li><li>Ediciones Glénat España (12)</li><li>La Cúpula (11)</li><li>Norma Editorial (9)</li></ol></div></div>
+</div>
+
+<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.70</strong></p><p>Nota más frecuente (texto): <strong>Recomendable</strong></p>
+</div>
+
 ## 2026
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">

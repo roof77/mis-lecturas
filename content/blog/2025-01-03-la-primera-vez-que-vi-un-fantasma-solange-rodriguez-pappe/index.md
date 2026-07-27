@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Solange Rodríguez Pappe
+autores_stats:
+- Solange Rodríguez Pappe
 editoriales:
 - Candaya
 image:

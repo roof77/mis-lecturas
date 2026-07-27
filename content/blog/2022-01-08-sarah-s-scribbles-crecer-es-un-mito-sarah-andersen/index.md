@@ -18,6 +18,8 @@ toc: false
 autores:
 - Sarah Andersen
 - Helena Pons
+autores_stats:
+- Sarah Andersen
 editoriales:
 - Bridge
 image:

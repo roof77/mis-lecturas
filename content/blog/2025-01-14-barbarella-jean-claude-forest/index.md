@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Jean-Claude Forest
+autores_stats:
+- Jean-Claude Forest
 editoriales:
 - Plan B Publicaciones, S.L.
 image:

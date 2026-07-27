@@ -22,6 +22,8 @@ autores:
 - Raquel Marqués García
 - Julián Díez
 - Zuri Negrín
+autores_stats:
+- Anna Starobinets
 editoriales:
 - Nevsky Prospects
 image:

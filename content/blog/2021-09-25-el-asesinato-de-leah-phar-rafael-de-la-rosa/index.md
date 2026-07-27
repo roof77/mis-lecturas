@@ -12,6 +12,8 @@ toc: false
 autores:
 - Rafael de la Rosa
 - Juan Alberto Hernández
+autores_stats:
+- Rafael de la Rosa
 editoriales:
 - Editorial Cerbero
 image:

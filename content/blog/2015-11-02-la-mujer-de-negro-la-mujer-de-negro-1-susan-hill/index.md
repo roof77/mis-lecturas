@@ -20,6 +20,8 @@ toc: false
 autores:
 - Susan Hill
 - Margarita Cavándoli
+autores_stats:
+- Susan Hill
 editoriales:
 - Edhasa
 image:

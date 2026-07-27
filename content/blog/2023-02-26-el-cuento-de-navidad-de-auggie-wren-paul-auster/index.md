@@ -20,6 +20,8 @@ autores:
 - Paul Auster
 - Isol
 - Mariana Vera
+autores_stats:
+- Paul Auster
 editoriales:
 - Sudamericana
 image:

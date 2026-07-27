@@ -20,6 +20,8 @@ toc: false
 autores:
 - Edward St. Aubyn
 - Cruz Rodríguez Juiz
+autores_stats:
+- Edward St. Aubyn
 editoriales:
 - Mondadori
 image:

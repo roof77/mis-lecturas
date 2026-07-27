@@ -12,6 +12,8 @@ autores:
 - Chris Weston
 - Gary Erskine
 - Matt Hollingsworth
+autores_stats:
+- Grant Morrison
 editoriales:
 - Norma Editorial (Vertigo Comics)
 image:

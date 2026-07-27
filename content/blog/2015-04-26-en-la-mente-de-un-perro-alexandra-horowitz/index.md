@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Alexandra Horowitz
+autores_stats:
+- Alexandra Horowitz
 editoriales:
 - RBA Libros
 image:

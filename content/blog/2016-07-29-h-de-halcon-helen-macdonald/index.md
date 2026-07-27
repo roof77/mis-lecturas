@@ -19,6 +19,8 @@ toc: false
 autores:
 - Helen Macdonald
 - Joan Eloi Roca
+autores_stats:
+- Helen Macdonald
 editoriales:
 - Ático de los Libros
 image:

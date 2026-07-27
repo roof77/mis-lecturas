@@ -20,6 +20,8 @@ toc: false
 autores:
 - Raymond A. Villareal
 - Pilar Ramírez Tello
+autores_stats:
+- Raymond A. Villareal
 editoriales:
 - Nocturna Ediciones
 image:

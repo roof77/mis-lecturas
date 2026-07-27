@@ -19,6 +19,8 @@ toc: false
 autores:
 - Kate Summerscale
 - Haizea Beitia
+autores_stats:
+- Kate Summerscale
 editoriales:
 - Blackie Books
 image:

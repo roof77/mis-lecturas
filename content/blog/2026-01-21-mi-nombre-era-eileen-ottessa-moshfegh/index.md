@@ -19,6 +19,8 @@ toc: false
 autores:
 - Ottessa Moshfegh
 - Damià Alou
+autores_stats:
+- Ottessa Moshfegh
 editoriales:
 - Alfaguara
 image:

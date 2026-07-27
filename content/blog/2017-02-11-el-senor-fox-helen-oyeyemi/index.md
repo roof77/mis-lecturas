@@ -20,6 +20,8 @@ toc: false
 autores:
 - Helen Oyeyemi
 - María Belmonte
+autores_stats:
+- Helen Oyeyemi
 editoriales:
 - Acantilado
 image:

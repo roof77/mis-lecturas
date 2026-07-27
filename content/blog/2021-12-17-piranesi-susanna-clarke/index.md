@@ -20,6 +20,8 @@ toc: false
 autores:
 - Susanna Clarke
 - Antonio Padilla Esteban
+autores_stats:
+- Susanna Clarke
 editoriales:
 - Salamandra
 image:

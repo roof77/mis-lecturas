@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Mikhail Bulgakov
+autores_stats:
+- Mikhail Bulgakov
 editoriales:
 - Editorial Anagrama
 image:

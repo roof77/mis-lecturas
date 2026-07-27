@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - James Herriot
+autores_stats:
+- James Herriot
 editoriales:
 - Blackie Books
 image:

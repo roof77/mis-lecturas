@@ -21,6 +21,8 @@ toc: false
 autores:
 - Alice Oseman
 - Victoria Simó
+autores_stats:
+- Alice Oseman
 editoriales:
 - Destino
 image:

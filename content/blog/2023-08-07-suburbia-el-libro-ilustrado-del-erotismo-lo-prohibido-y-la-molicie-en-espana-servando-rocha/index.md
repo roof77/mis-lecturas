@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Servando Rocha
+autores_stats:
+- Servando Rocha
 editoriales:
 - La Felguera Editores
 image:

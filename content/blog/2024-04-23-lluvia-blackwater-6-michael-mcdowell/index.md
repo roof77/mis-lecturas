@@ -19,6 +19,8 @@ toc: false
 autores:
 - Michael McDowell
 - Carles Andreu
+autores_stats:
+- Michael McDowell
 editoriales:
 - Blackie Books
 image:

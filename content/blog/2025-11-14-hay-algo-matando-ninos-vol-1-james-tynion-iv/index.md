@@ -21,6 +21,8 @@ autores:
 - Werther Dell'Edera
 - Miquel Muerto
 - Ignacio Bentz Simón
+autores_stats:
+- James Tynion IV
 editoriales:
 - Planeta Cómic
 image:

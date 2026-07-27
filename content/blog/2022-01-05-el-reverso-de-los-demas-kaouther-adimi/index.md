@@ -12,6 +12,8 @@ tags:
 toc: false
 autores:
 - Kaouther Adimi
+autores_stats:
+- Kaouther Adimi
 editoriales:
 - Xordica
 image:

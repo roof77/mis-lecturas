@@ -21,6 +21,8 @@ autores:
 - P. Djèlí Clark
 - Raúl García Campos
 - David G. Vaquero
+autores_stats:
+- P. Djèlí Clark
 editoriales:
 - Obscura Editorial, SL
 image:

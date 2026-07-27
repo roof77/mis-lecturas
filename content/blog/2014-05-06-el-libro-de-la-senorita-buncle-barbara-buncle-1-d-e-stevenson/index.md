@@ -20,6 +20,8 @@ toc: false
 autores:
 - D.E. Stevenson
 - Concepción Cardeñoso Sáenz de Miera
+autores_stats:
+- D.E. Stevenson
 editoriales:
 - Alba Editorial
 image:

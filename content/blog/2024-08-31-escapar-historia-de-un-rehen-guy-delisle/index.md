@@ -19,6 +19,8 @@ toc: false
 autores:
 - Guy Delisle
 - María Serna Aguirre
+autores_stats:
+- Guy Delisle
 editoriales:
 - 'Astiberri '
 image:

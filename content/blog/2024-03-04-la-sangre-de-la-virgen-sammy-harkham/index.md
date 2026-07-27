@@ -18,6 +18,8 @@ toc: false
 autores:
 - Sammy Harkham
 - Alberto García Marcos
+autores_stats:
+- Sammy Harkham
 editoriales:
 - Fulgencio Pimentel S.L.
 image:

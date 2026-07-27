@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Charles Forsman
+autores_stats:
+- Charles Forsman
 editoriales:
 - Fantagraphics
 image:

@@ -19,6 +19,8 @@ toc: false
 autores:
 - Katie Skelly
 - Julia Osuna Aguilar
+autores_stats:
+- Katie Skelly
 editoriales:
 - SAPRISTI
 image:

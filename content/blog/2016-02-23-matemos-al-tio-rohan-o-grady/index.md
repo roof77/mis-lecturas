@@ -21,6 +21,8 @@ toc: false
 autores:
 - Rohan O'Grady
 - Raquel Vicedo
+autores_stats:
+- Rohan O'Grady
 editoriales:
 - Impedimenta
 image:

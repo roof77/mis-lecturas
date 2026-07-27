@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Mary Wollstonecraft Shelley
+autores_stats:
+- Mary Wollstonecraft Shelley
 editoriales:
 - Valdemar
 image:

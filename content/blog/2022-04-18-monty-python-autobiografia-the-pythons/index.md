@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - The Pythons
+autores_stats:
+- The Pythons
 editoriales:
 - Libros del Kultrum
 image:

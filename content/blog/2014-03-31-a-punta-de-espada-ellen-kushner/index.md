@@ -19,6 +19,8 @@ toc: false
 autores:
 - Ellen Kushner
 - Manuel de los Reyes
+autores_stats:
+- Ellen Kushner
 editoriales:
 - Bibliópolis
 image:

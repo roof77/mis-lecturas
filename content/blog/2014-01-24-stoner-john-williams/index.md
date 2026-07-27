@@ -19,6 +19,8 @@ toc: false
 autores:
 - John Williams
 - Antonio Díez
+autores_stats:
+- John Williams
 editoriales:
 - Baile del Sol
 image:

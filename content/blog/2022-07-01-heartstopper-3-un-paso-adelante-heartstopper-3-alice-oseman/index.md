@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Alice Oseman
+autores_stats:
+- Alice Oseman
 editoriales:
 - Crossbooks
 image:

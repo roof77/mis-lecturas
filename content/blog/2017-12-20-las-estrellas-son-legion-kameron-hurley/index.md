@@ -20,6 +20,8 @@ toc: false
 autores:
 - Kameron Hurley
 - Alexander Páez
+autores_stats:
+- Kameron Hurley
 editoriales:
 - Alianza
 image:

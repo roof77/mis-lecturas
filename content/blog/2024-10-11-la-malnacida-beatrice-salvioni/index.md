@@ -19,6 +19,8 @@ toc: false
 autores:
 - Beatrice Salvioni
 - Ana Ciurans Ferrándiz
+autores_stats:
+- Beatrice Salvioni
 editoriales:
 - Lumen
 image:

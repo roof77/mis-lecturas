@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Sayaka Murata
+autores_stats:
+- Sayaka Murata
 editoriales:
 - Duomo
 image:

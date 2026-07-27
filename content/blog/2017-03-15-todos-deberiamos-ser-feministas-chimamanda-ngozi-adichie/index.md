@@ -20,6 +20,8 @@ toc: false
 autores:
 - Chimamanda Ngozi Adichie
 - Javier Calvo Perales
+autores_stats:
+- Chimamanda Ngozi Adichie
 editoriales:
 - Literatura Random House
 image:

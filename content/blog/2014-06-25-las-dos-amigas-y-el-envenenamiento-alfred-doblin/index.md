@@ -21,6 +21,8 @@ toc: false
 autores:
 - Alfred Döblin
 - Joan Fontcuberta i Gel
+autores_stats:
+- Alfred Döblin
 editoriales:
 - Acantilado
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Rebecca Makkai
 - Aurora Echevarría
+autores_stats:
+- Rebecca Makkai
 editoriales:
 - Sexto Piso
 image:

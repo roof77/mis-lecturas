@@ -12,6 +12,9 @@ toc: false
 autores:
 - Alan Moore
 - Jacen Burrows
+autores_stats:
+- Alan Moore
+- Jacen Burrows
 editoriales:
 - Panini España
 image:

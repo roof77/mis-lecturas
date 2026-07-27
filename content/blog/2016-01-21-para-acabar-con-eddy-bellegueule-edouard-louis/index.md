@@ -20,6 +20,8 @@ toc: false
 autores:
 - Édouard Louis
 - María Teresa Gallego Urrutia
+autores_stats:
+- Édouard Louis
 editoriales:
 - Salamandra
 image:

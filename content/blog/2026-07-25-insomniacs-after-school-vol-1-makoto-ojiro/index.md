@@ -20,6 +20,8 @@ toc: false
 autores:
 - Makoto Ojiro
 - Óscar Tejero
+autores_stats:
+- Makoto Ojiro
 editoriales:
 - Milky Way Ediciones
 image:

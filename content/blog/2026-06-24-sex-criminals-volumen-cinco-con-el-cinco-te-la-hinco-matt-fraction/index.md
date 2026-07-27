@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Matt Fraction
+autores_stats:
+- Matt Fraction
 editoriales:
 - Astiberr
 image:

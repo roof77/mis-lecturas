@@ -20,6 +20,8 @@ toc: false
 autores:
 - Sigrid Nunez
 - Mercedes Cebrián
+autores_stats:
+- Sigrid Nunez
 editoriales:
 - Editorial Anagrama
 image:

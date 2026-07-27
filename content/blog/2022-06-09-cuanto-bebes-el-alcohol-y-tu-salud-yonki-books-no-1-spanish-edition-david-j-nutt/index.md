@@ -21,6 +21,8 @@ autores:
 - David J. Nutt
 - Ex Estudi
 - Nemo Edición y Comunicación
+autores_stats:
+- David J. Nutt
 editoriales:
 - Yonki Books
 image:

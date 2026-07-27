@@ -15,6 +15,8 @@ tags:
 toc: false
 autores:
 - Jason Latour
+autores_stats:
+- Jason Latour
 editoriales:
 - Marvel Enterprises
 image:

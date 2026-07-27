@@ -20,6 +20,8 @@ toc: false
 autores:
 - Seanan McGuire
 - María Pilar San Román
+autores_stats:
+- Seanan McGuire
 editoriales:
 - Alianza
 image:

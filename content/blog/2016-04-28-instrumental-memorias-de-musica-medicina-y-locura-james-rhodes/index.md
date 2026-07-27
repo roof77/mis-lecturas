@@ -20,6 +20,8 @@ toc: false
 autores:
 - James Rhodes
 - Ismael Attrache
+autores_stats:
+- James Rhodes
 editoriales:
 - Blackie Books
 image:

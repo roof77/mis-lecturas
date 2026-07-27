@@ -20,6 +20,8 @@ toc: false
 autores:
 - Chuck Palahniuk
 - Javier Calvo
+autores_stats:
+- Chuck Palahniuk
 editoriales:
 - Mondadori
 image:

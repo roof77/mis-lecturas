@@ -20,6 +20,9 @@ autores:
 - N.D. Stevenson
 - Grace Ellis
 - Brooke A. Allen
+autores_stats:
+- N.D. Stevenson
+- Grace Ellis
 editoriales:
 - BOOM! - BOOM! Box
 image:

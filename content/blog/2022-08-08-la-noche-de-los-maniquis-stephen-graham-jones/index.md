@@ -20,6 +20,8 @@ autores:
 - Stephen Graham Jones
 - Manuel de los Reyes
 - Tomás Hijo
+autores_stats:
+- Stephen Graham Jones
 editoriales:
 - La Biblioteca de Carfax
 image:

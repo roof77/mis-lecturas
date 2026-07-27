@@ -20,6 +20,8 @@ toc: false
 autores:
 - Garth Risk Hallberg
 - Cruz Rodríguez Juiz
+autores_stats:
+- Garth Risk Hallberg
 editoriales:
 - Literatura Random House
 image:

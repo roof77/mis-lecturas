@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - David Ramírez
+autores_stats:
+- David Ramírez
 editoriales:
 - Norma Editorial
 image:

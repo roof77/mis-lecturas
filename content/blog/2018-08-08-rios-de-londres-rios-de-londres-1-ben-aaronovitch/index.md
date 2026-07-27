@@ -20,6 +20,8 @@ toc: false
 autores:
 - Ben Aaronovitch
 - Cristina Martínez
+autores_stats:
+- Ben Aaronovitch
 editoriales:
 - Oz
 image:

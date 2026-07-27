@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Lorenzo Montatore
+autores_stats:
+- Lorenzo Montatore
 editoriales:
 - Mortal y Rosa
 image:

@@ -21,6 +21,8 @@ toc: false
 autores:
 - Viet Thanh Nguyen
 - Javier Calvo Perales
+autores_stats:
+- Viet Thanh Nguyen
 editoriales:
 - Seix Barral
 image:

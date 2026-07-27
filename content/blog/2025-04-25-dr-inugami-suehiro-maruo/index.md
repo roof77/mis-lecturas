@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Suehiro Maruo
+autores_stats:
+- Suehiro Maruo
 editoriales:
 - Ediciones Glénat España
 image:

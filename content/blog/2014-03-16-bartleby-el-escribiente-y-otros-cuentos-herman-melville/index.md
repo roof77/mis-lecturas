@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Herman Melville
+autores_stats:
+- Herman Melville
 editoriales:
 - Valdemar
 image:

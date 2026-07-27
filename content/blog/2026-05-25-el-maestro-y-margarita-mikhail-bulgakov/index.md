@@ -21,6 +21,8 @@ toc: false
 autores:
 - Mikhail Bulgakov
 - Marta Rebón
+autores_stats:
+- Mikhail Bulgakov
 editoriales:
 - Navona
 image:

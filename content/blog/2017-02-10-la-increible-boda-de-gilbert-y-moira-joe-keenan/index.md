@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Joe Keenan
+autores_stats:
+- Joe Keenan
 editoriales:
 - Dos bigotes
 image:

@@ -22,6 +22,8 @@ autores:
 - Donald Ray Pollock
 - Javier Calvo
 - Kiko Amat
+autores_stats:
+- Donald Ray Pollock
 editoriales:
 - Libros del silencio
 image:

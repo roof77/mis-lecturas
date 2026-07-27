@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Richard Yates
+autores_stats:
+- Richard Yates
 editoriales:
 - ALFAGUARA
 image:

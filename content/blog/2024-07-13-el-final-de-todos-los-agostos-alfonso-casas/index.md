@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Alfonso Casas
+autores_stats:
+- Alfonso Casas
 editoriales:
 - Lunwerg Editores
 image:

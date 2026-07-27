@@ -11,6 +11,8 @@ toc: false
 autores:
 - Jeff Lemire
 - Santiago García
+autores_stats:
+- Jeff Lemire
 editoriales:
 - ASTIBERRI EDICIONES
 image:

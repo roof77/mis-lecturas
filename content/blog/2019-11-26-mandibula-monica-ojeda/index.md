@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Mónica Ojeda
+autores_stats:
+- Mónica Ojeda
 editoriales:
 - Candaya
 image:

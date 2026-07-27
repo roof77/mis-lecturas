@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Clara Usón
+autores_stats:
+- Clara Usón
 editoriales:
 - 'Seix Barral '
 image:

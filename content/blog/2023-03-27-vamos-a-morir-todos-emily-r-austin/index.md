@@ -20,6 +20,8 @@ toc: false
 autores:
 - Emily R. Austin
 - Julia Viejo
+autores_stats:
+- Emily R. Austin
 editoriales:
 - Blackie Books
 image:

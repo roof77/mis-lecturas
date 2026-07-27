@@ -21,6 +21,8 @@ toc: false
 autores:
 - John Updike
 - Jordi Fibla
+autores_stats:
+- John Updike
 editoriales:
 - Maxi-Tusquets
 image:

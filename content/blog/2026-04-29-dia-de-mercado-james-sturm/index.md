@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - James Sturm
+autores_stats:
+- James Sturm
 editoriales:
 - Astiberri
 image:

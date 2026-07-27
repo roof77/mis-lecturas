@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - Eloy Tizón
+autores_stats:
+- Eloy Tizón
 editoriales:
 - Páginas de Espuma
 image:

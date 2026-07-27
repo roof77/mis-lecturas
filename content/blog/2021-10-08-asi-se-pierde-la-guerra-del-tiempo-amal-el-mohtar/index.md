@@ -21,6 +21,9 @@ autores:
 - Amal El-Mohtar
 - Max Gladstone
 - Christian Rodríguez Carvajal
+autores_stats:
+- Amal El-Mohtar
+- Max Gladstone
 editoriales:
 - Insolita
 image:

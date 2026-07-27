@@ -20,6 +20,8 @@ toc: false
 autores:
 - Anna Burns
 - Maia Figueroa Evans
+autores_stats:
+- Anna Burns
 editoriales:
 - Alianza Editorial
 image:

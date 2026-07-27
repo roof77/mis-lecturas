@@ -11,6 +11,8 @@ autores:
 - Josele Santiago
 - Miqui Otero Díaz
 - Carles Murillo Vila
+autores_stats:
+- Josele Santiago
 editoriales:
 - CONTRA
 image:

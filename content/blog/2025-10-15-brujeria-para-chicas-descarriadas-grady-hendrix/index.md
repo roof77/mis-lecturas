@@ -20,6 +20,8 @@ toc: false
 autores:
 - Grady Hendrix
 - Simón Saitó
+autores_stats:
+- Grady Hendrix
 editoriales:
 - Minotauro
 image:

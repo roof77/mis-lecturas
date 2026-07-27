@@ -19,6 +19,8 @@ toc: false
 autores:
 - Jeanette Winterson
 - Álvaro Abella Villar
+autores_stats:
+- Jeanette Winterson
 editoriales:
 - Lumen
 image:

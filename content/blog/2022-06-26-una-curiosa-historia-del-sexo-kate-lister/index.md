@@ -21,6 +21,8 @@ autores:
 - Kate Lister
 - Isadora Carolina Prieto
 - Anna Hernández
+autores_stats:
+- Kate Lister
 editoriales:
 - Capitán Swing
 image:

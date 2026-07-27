@@ -19,6 +19,8 @@ toc: false
 autores:
 - A.M. Homes
 - Jaime Zulaika
+autores_stats:
+- A.M. Homes
 editoriales:
 - Anagrama
 image:

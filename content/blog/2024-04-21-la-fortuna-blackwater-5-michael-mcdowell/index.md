@@ -20,6 +20,8 @@ toc: false
 autores:
 - Michael McDowell
 - Elena Cantoni
+autores_stats:
+- Michael McDowell
 editoriales:
 - BEAT
 image:

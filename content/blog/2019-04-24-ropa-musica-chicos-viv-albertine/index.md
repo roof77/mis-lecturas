@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Viv Albertine
+autores_stats:
+- Viv Albertine
 editoriales:
 - Anagrama
 image:

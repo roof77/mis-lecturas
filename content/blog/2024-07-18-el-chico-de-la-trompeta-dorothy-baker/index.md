@@ -21,6 +21,8 @@ autores:
 - Dorothy Baker
 - Ismael Attrache
 - Alberto Gamón
+autores_stats:
+- Dorothy Baker
 editoriales:
 - Contraseña
 image:

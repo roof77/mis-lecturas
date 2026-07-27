@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Jirō Taniguchi
+autores_stats:
+- Jirō Taniguchi
 editoriales:
 - Ponent Mon
 image:

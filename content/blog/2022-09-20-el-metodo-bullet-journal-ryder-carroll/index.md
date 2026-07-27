@@ -20,6 +20,8 @@ toc: false
 autores:
 - Ryder Carroll
 - Gemma Moraleda Díaz
+autores_stats:
+- Ryder Carroll
 editoriales:
 - Editorial Planeta
 image:

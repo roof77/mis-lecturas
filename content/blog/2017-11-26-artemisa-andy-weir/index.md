@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Andy Weir
+autores_stats:
+- Andy Weir
 editoriales:
 - Nova
 image:

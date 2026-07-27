@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Alana S. Portero
+autores_stats:
+- Alana S. Portero
 editoriales:
 - Seix Barral
 image:

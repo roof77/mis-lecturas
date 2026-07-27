@@ -14,6 +14,8 @@ tags:
 toc: false
 autores:
 - Zanzim
+autores_stats:
+- Zanzim
 editoriales:
 - Dibbuks
 image:

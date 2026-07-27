@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Aixa de la Cruz
+autores_stats:
+- Aixa de la Cruz
 editoriales:
 - Caballo de Troya
 image:

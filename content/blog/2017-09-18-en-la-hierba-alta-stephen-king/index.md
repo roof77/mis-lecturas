@@ -20,6 +20,9 @@ autores:
 - Stephen King
 - Joe Hill
 - Manu Viciano
+autores_stats:
+- Stephen King
+- Joe Hill
 editoriales:
 - RHM FLASH
 image:

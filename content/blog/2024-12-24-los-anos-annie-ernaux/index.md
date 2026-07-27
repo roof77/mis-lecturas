@@ -20,6 +20,8 @@ toc: false
 autores:
 - Annie Ernaux
 - Lydia Vázquez Jiménez
+autores_stats:
+- Annie Ernaux
 editoriales:
 - Cabaret Voltaire
 image:

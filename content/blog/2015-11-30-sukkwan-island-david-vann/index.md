@@ -17,6 +17,8 @@ toc: false
 autores:
 - David Vann
 - Daniel Gascón
+autores_stats:
+- David Vann
 editoriales:
 - Ediciones Alfabia
 image:

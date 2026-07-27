@@ -22,6 +22,8 @@ autores:
 - Hugo Camacho
 - Tamara Romero
 - Branca Studio
+autores_stats:
+- Laura Lee Bahr
 editoriales:
 - Orciny Press
 image:

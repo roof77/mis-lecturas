@@ -20,6 +20,9 @@ autores:
 - Kennilworthy Whisp
 - J.K. Rowling
 - Alicia Dellepiane
+autores_stats:
+- Kennilworthy Whisp
+- J.K. Rowling
 editoriales:
 - Salamandra
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Terry Pratchett
 - Albert Solé Company
+autores_stats:
+- Terry Pratchett
 editoriales:
 - DeBolsillo
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Alison Bechdel
 - Rocío de la Maya Retamar
+autores_stats:
+- Alison Bechdel
 editoriales:
 - Reservoir Books
 image:

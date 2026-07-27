@@ -15,6 +15,8 @@ tags:
 toc: false
 autores:
 - Hillel Halkin
+autores_stats:
+- Hillel Halkin
 editoriales:
 - Libros del Asteroide
 image:

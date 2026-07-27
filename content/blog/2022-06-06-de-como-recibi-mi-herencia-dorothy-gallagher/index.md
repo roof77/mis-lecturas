@@ -18,6 +18,8 @@ toc: false
 autores:
 - Dorothy Gallagher
 - Regina López Muñoz
+autores_stats:
+- Dorothy Gallagher
 editoriales:
 - Muñeca infinita editorial
 image:

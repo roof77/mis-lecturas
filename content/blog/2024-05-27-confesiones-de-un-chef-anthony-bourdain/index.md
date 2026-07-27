@@ -19,6 +19,8 @@ toc: false
 autores:
 - Anthony Bourdain
 - Carmen Aguilar
+autores_stats:
+- Anthony Bourdain
 editoriales:
 - del Nuevo Extremo
 image:

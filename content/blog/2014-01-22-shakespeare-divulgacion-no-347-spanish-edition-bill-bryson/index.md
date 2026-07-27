@@ -20,6 +20,8 @@ toc: false
 autores:
 - Bill Bryson
 - Andres Ehrenhaus
+autores_stats:
+- Bill Bryson
 editoriales:
 - RBA Libros
 image:

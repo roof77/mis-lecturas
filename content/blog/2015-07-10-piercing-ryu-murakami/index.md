@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Ryū Murakami
+autores_stats:
+- Ryū Murakami
 editoriales:
 - Ediciones Escalera
 image:

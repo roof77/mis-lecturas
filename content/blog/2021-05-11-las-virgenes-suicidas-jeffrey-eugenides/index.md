@@ -21,6 +21,8 @@ toc: false
 autores:
 - Jeffrey Eugenides
 - Roser Berdagué
+autores_stats:
+- Jeffrey Eugenides
 editoriales:
 - Editorial Anagrama
 image:

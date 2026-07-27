@@ -21,6 +21,8 @@ toc: false
 autores:
 - Edna O'Brien
 - Regina López Muñoz
+autores_stats:
+- Edna O'Brien
 editoriales:
 - Errata Naturae
 image:

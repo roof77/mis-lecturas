@@ -11,6 +11,8 @@ toc: false
 autores:
 - Jason Latour
 - Robbi Rodriguez
+autores_stats:
+- Jason Latour
 editoriales:
 - Panini Comics España
 image:

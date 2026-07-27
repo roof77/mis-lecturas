@@ -16,6 +16,8 @@ tags:
 toc: false
 autores:
 - Borja González
+autores_stats:
+- Borja González
 editoriales:
 - RESERVOIR BOOKS
 image:

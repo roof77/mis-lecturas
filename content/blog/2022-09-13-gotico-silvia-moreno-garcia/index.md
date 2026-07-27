@@ -20,6 +20,8 @@ toc: false
 autores:
 - Silvia Moreno-Garcia
 - Alexander Páez
+autores_stats:
+- Silvia Moreno-Garcia
 editoriales:
 - Minotauro
 image:

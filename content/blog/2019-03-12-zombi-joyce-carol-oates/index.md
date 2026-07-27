@@ -21,6 +21,8 @@ toc: false
 autores:
 - Joyce Carol Oates
 - Carmen Camps
+autores_stats:
+- Joyce Carol Oates
 editoriales:
 - Debolsillo
 image:

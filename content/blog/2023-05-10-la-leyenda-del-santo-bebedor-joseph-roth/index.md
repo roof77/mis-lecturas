@@ -20,6 +20,8 @@ toc: false
 autores:
 - Joseph Roth
 - Michael Faber Kaiser
+autores_stats:
+- Joseph Roth
 editoriales:
 - Editorial Anagrama
 image:

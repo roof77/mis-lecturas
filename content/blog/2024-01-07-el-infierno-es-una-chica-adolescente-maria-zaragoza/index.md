@@ -11,6 +11,8 @@ tags:
 toc: false
 autores:
 - María Zaragoza
+autores_stats:
+- María Zaragoza
 editoriales:
 - Minotauro
 image:

@@ -21,6 +21,8 @@ autores:
 - Stanisław Lem
 - Joanna Orzechowska
 - Jesús Palacios
+autores_stats:
+- Stanisław Lem
 editoriales:
 - Impedimenta
 image:

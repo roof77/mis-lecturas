@@ -23,6 +23,8 @@ autores:
 - Rodrigo Fresán
 - Mariano Antolín
 - Inga Pellisa
+autores_stats:
+- Robert Stone
 editoriales:
 - Libros del Silencio
 image:

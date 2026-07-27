@@ -17,6 +17,8 @@ tags:
 toc: false
 autores:
 - Jean-Jacques Sempé
+autores_stats:
+- Jean-Jacques Sempé
 editoriales:
 - BLACKIE BOOKS
 image:

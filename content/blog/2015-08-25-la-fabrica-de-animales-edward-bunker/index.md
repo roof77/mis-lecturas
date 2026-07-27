@@ -20,6 +20,8 @@ tags:
 toc: false
 autores:
 - Edward Bunker
+autores_stats:
+- Edward Bunker
 editoriales:
 - Sajalín Editores
 image:

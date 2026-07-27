@@ -22,6 +22,8 @@ autores:
 - Marcel Schwob
 - Jean-Gabriel Daragnés
 - Luis Alberto de Cuenca
+autores_stats:
+- Marcel Schwob
 editoriales:
 - Reino de Cordelia
 image:

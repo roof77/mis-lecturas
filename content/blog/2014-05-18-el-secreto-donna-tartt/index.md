@@ -20,6 +20,8 @@ toc: false
 autores:
 - Donna Tartt
 - Gemma Rovira Ortega
+autores_stats:
+- Donna Tartt
 editoriales:
 - Debolsillo
 image:

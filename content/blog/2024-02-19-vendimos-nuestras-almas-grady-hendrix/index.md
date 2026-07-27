@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Grady Hendrix
+autores_stats:
+- Grady Hendrix
 editoriales:
 - Minotauro
 image:

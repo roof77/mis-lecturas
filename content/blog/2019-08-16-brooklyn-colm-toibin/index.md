@@ -20,6 +20,8 @@ toc: false
 autores:
 - Colm Tóibín
 - Ana Andres Lleo
+autores_stats:
+- Colm Tóibín
 editoriales:
 - LUMEN
 image:

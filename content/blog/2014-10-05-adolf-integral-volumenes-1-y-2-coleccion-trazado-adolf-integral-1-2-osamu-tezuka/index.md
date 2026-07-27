@@ -14,6 +14,8 @@ toc: false
 autores:
 - Osamu Tezuka
 - Jesús Pece
+autores_stats:
+- Osamu Tezuka
 editoriales:
 - Planeta DeAgostini
 image:

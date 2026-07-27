@@ -13,6 +13,8 @@ tags:
 toc: false
 autores:
 - Junji Ito
+autores_stats:
+- Junji Ito
 editoriales:
 - ECC
 image:

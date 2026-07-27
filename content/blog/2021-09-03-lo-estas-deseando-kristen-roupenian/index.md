@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Kristen Roupenian
+autores_stats:
+- Kristen Roupenian
 editoriales:
 - Editorial Anagrama
 image:

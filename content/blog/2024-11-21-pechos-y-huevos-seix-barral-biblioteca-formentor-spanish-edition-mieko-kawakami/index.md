@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Mieko Kawakami
+autores_stats:
+- Mieko Kawakami
 editoriales:
 - Planeta Publishing
 image:

@@ -20,6 +20,8 @@ toc: false
 autores:
 - Caitlin Moran
 - Gemma Rovira
+autores_stats:
+- Caitlin Moran
 editoriales:
 - Editorial Anagrama
 image:

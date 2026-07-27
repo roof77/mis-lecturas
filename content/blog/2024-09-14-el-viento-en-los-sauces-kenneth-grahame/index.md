@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Kenneth Grahame
+autores_stats:
+- Kenneth Grahame
 editoriales:
 - Valdemar
 image:

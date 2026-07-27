@@ -17,6 +17,8 @@ toc: false
 autores:
 - Laura Lee Bahr
 - Hugo Camacho
+autores_stats:
+- Laura Lee Bahr
 editoriales:
 - Orciny Press
 image:

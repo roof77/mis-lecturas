@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - David Peace
+autores_stats:
+- David Peace
 editoriales:
 - Alba
 image:

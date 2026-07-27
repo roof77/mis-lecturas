@@ -16,6 +16,8 @@ tags:
 toc: false
 autores:
 - Lisa Mandel
+autores_stats:
+- Lisa Mandel
 editoriales:
 - Ediciones Kraken
 image:

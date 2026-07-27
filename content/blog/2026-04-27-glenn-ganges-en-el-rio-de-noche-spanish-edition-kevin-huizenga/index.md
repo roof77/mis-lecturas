@@ -19,6 +19,8 @@ toc: false
 autores:
 - Kevin Huizenga
 - Esther Cruz Santaella
+autores_stats:
+- Kevin Huizenga
 editoriales:
 - SALAMANDRA GRAPHIC
 image:

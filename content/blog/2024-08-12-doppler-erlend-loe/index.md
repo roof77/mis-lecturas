@@ -20,6 +20,8 @@ autores:
 - Erlend Loe
 - Øyvind Fossam
 - Cristina Gómez-Baggethun
+autores_stats:
+- Erlend Loe
 editoriales:
 - Nórdica Libros
 image:

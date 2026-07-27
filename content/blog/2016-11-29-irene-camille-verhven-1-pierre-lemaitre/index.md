@@ -19,6 +19,8 @@ toc: false
 autores:
 - Pierre Lemaitre
 - Juan Carlos Durán Romero
+autores_stats:
+- Pierre Lemaitre
 editoriales:
 - Alfaguara
 image:

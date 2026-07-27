@@ -20,6 +20,8 @@ toc: false
 autores:
 - Willa Cather
 - Aurora Echeverria
+autores_stats:
+- Willa Cather
 editoriales:
 - Nordica Libros
 image:

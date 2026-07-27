@@ -18,6 +18,8 @@ tags:
 toc: false
 autores:
 - Barbara Stok
+autores_stats:
+- Barbara Stok
 editoriales:
 - SALAMANDRA GRAPHIC
 image:

@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Jen Campbell
+autores_stats:
+- Jen Campbell
 editoriales:
 - Constable and Robinson
 image:

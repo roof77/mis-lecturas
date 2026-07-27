@@ -20,6 +20,8 @@ toc: false
 autores:
 - Tom Spanbauer
 - Aurora Echevarría
+autores_stats:
+- Tom Spanbauer
 editoriales:
 - Mondadori
 image:

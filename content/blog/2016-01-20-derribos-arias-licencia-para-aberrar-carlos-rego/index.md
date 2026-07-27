@@ -10,6 +10,8 @@ tags:
 toc: false
 autores:
 - Carlos Rego
+autores_stats:
+- Carlos Rego
 editoriales:
 - 66rpm
 image:

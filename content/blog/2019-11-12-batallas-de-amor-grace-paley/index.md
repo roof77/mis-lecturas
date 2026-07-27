@@ -19,6 +19,8 @@ tags:
 toc: false
 autores:
 - Grace Paley
+autores_stats:
+- Grace Paley
 editoriales:
 - Anagrama
 image:

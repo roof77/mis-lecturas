@@ -9,6 +9,8 @@ tags:
 toc: false
 autores:
 - Robin Green
+autores_stats:
+- Robin Green
 editoriales:
 - Liburuak
 image:

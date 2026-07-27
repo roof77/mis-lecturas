@@ -20,6 +20,17 @@ autores:
 - Alejandro Marcos Ortega
 - Carlton Mellick III
 - Sergi G. Oset
+autores_stats:
+- Alfredo Álamo
+- Sergi Álvarez
+- Nick Antosca
+- Hugo Camacho
+- Takeshi García-Ashirogi
+- Rubén Guallar
+- Francisco Jota-Pérez
+- Alejandro Marcos Ortega
+- Carlton Mellick III
+- Sergi G. Oset
 editoriales:
 - Orciny Press
 image:

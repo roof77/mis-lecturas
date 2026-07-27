@@ -22,6 +22,8 @@ autores:
 - Cliff Chiang
 - Matt Wilson
 - Jared K. Fletcher
+autores_stats:
+- Brian K. Vaughan
 editoriales:
 - Image Comics
 image:

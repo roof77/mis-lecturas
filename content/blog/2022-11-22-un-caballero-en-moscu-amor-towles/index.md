@@ -20,6 +20,8 @@ toc: false
 autores:
 - Amor Towles
 - Gemma Rovira Ortega
+autores_stats:
+- Amor Towles
 editoriales:
 - Salamandra
 image:

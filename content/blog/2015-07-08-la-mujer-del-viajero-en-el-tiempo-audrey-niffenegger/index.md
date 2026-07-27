@@ -21,6 +21,8 @@ toc: false
 autores:
 - Audrey Niffenegger
 - Silvia Alemany
+autores_stats:
+- Audrey Niffenegger
 editoriales:
 - DeBolsillo
 image:

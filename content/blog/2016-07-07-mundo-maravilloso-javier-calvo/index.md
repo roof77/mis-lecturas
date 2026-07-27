@@ -15,6 +15,8 @@ tags:
 toc: false
 autores:
 - Javier Calvo
+autores_stats:
+- Javier Calvo
 editoriales:
 - Random House
 image:

@@ -21,6 +21,8 @@ toc: false
 autores:
 - Bohumil Hrabal
 - Monika Zgustová
+autores_stats:
+- Bohumil Hrabal
 editoriales:
 - Destino
 image:

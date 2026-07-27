@@ -21,6 +21,8 @@ toc: false
 autores:
 - Joe Haldeman
 - Edith Zilli
+autores_stats:
+- Joe Haldeman
 editoriales:
 - Ediciones B
 image:

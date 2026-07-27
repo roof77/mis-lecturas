@@ -20,6 +20,8 @@ toc: false
 autores:
 - Christopher Morley
 - Juan Cárdenas
+autores_stats:
+- Christopher Morley
 editoriales:
 - Editorial Periférica
 image:

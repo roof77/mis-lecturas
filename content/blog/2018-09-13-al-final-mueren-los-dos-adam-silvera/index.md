@@ -20,6 +20,8 @@ toc: false
 autores:
 - Adam Silvera
 - Antonio Padilla Esteban
+autores_stats:
+- Adam Silvera
 editoriales:
 - Puck
 image:

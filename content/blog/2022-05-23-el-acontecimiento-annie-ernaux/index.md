@@ -21,6 +21,8 @@ autores:
 - Annie Ernaux
 - Berta Corral
 - Mercedes Corral
+autores_stats:
+- Annie Ernaux
 editoriales:
 - Tusquets Editores S.A.
 image:
