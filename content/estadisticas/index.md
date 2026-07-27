@@ -14,7 +14,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2026.png" alt="Lecturas 2026" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2026</h3><img src="chart-2026.png" alt="Lecturas 2026" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -72,15 +72,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2026-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2026" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2026</h3><img src="chart-2026-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2026" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2026-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) 2026" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2026</h3><img src="chart-2026-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2026" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2026-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2026" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2026</h3><img src="chart-2026-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2026" style="max-width:100%;">
 </div>
 
 ## 2025
@@ -94,7 +94,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2025.png" alt="Lecturas 2025" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2025</h3><img src="chart-2025.png" alt="Lecturas 2025" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -152,15 +152,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2025-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2025" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2025</h3><img src="chart-2025-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2025" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2025-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) 2025" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2025</h3><img src="chart-2025-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2025" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2025-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2025" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2025</h3><img src="chart-2025-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2025" style="max-width:100%;">
 </div>
 
 ## 2024
@@ -174,7 +174,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2024.png" alt="Lecturas 2024" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2024</h3><img src="chart-2024.png" alt="Lecturas 2024" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -232,15 +232,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2024-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2024" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2024</h3><img src="chart-2024-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2024" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2024-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) 2024" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2024</h3><img src="chart-2024-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2024" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2024-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2024" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2024</h3><img src="chart-2024-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2024" style="max-width:100%;">
 </div>
 
 ## 2023
@@ -254,7 +254,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2023.png" alt="Lecturas 2023" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2023</h3><img src="chart-2023.png" alt="Lecturas 2023" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -312,15 +312,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2023-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2023" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2023</h3><img src="chart-2023-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2023" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2023-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) 2023" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2023</h3><img src="chart-2023-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2023" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2023-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2023" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2023</h3><img src="chart-2023-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2023" style="max-width:100%;">
 </div>
 
 ## 2022
@@ -334,7 +334,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2022.png" alt="Lecturas 2022" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2022</h3><img src="chart-2022.png" alt="Lecturas 2022" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -392,15 +392,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2022-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2022" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2022</h3><img src="chart-2022-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2022" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2022-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) 2022" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2022</h3><img src="chart-2022-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2022" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2022-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2022" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2022</h3><img src="chart-2022-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2022" style="max-width:100%;">
 </div>
 
 ## 2021
@@ -414,7 +414,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2021.png" alt="Lecturas 2021" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2021</h3><img src="chart-2021.png" alt="Lecturas 2021" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -472,15 +472,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2021-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2021" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2021</h3><img src="chart-2021-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2021" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2021-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) 2021" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2021</h3><img src="chart-2021-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2021" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2021-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2021" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2021</h3><img src="chart-2021-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2021" style="max-width:100%;">
 </div>
 
 ## 2020
@@ -490,7 +490,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2020.png" alt="Lecturas 2020" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2020</h3><img src="chart-2020.png" alt="Lecturas 2020" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -527,11 +527,11 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2020-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2020" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2020</h3><img src="chart-2020-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2020" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2020-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2020" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2020</h3><img src="chart-2020-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2020" style="max-width:100%;">
 </div>
 
 ## 2019
@@ -541,7 +541,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2019.png" alt="Lecturas 2019" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2019</h3><img src="chart-2019.png" alt="Lecturas 2019" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -578,11 +578,11 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2019-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2019" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2019</h3><img src="chart-2019-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2019" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2019-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2019" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2019</h3><img src="chart-2019-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2019" style="max-width:100%;">
 </div>
 
 ## 2018
@@ -596,7 +596,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2018.png" alt="Lecturas 2018" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2018</h3><img src="chart-2018.png" alt="Lecturas 2018" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -654,15 +654,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2018-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2018" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2018</h3><img src="chart-2018-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2018" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2018-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) 2018" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2018</h3><img src="chart-2018-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2018" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2018-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2018" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2018</h3><img src="chart-2018-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2018" style="max-width:100%;">
 </div>
 
 ## 2017
@@ -676,7 +676,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2017.png" alt="Lecturas 2017" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2017</h3><img src="chart-2017.png" alt="Lecturas 2017" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -734,15 +734,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2017-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2017" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2017</h3><img src="chart-2017-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2017" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2017-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) 2017" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2017</h3><img src="chart-2017-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2017" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2017-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2017" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2017</h3><img src="chart-2017-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2017" style="max-width:100%;">
 </div>
 
 ## 2016
@@ -756,7 +756,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2016.png" alt="Lecturas 2016" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2016</h3><img src="chart-2016.png" alt="Lecturas 2016" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -814,15 +814,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2016-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2016" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2016</h3><img src="chart-2016-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2016" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2016-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) 2016" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2016</h3><img src="chart-2016-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2016" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2016-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2016" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2016</h3><img src="chart-2016-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2016" style="max-width:100%;">
 </div>
 
 ## 2015
@@ -832,7 +832,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2015.png" alt="Lecturas 2015" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2015</h3><img src="chart-2015.png" alt="Lecturas 2015" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -869,11 +869,11 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2015-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2015" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2015</h3><img src="chart-2015-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2015" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2015-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2015" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2015</h3><img src="chart-2015-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2015" style="max-width:100%;">
 </div>
 
 ## 2014
@@ -887,7 +887,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2014.png" alt="Lecturas 2014" style="max-width:100%;">
+<h3 style="margin-top:0;">Lecturas 2014</h3><img src="chart-2014.png" alt="Lecturas 2014" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -945,13 +945,13 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2014-mensual-libro.png" alt="Páginas leídas por mes (Libros) 2014" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2014</h3><img src="chart-2014-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2014" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2014-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) 2014" style="max-width:100%;">
+<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2014</h3><img src="chart-2014-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2014" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<img src="chart-2014-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes 2014" style="max-width:100%;">
+<h3 style="margin-top:0;">Media diaria de páginas leídas, por mes — 2014</h3><img src="chart-2014-media-diaria-mes.png" alt="Media diaria de páginas leídas, por mes — 2014" style="max-width:100%;">
 </div>
