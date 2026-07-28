@@ -7,11 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Novela gráfica
 - LGTBIQ+
 - Queer
-- Comics
 - Ficción
 - Contemporaneo
 - Japón
@@ -46,7 +47,7 @@ El regreso a Canadá se acerca... ¡Pero a Mike aún le quedan un montón de cos
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413342252 / 9788413342252
 - **Publicación original:** 2019-12-19
-- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Adultos](/tags/adultos/), [Familia](/tags/familia/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Adultos](/tags/adultos/), [Familia](/tags/familia/)
 - **Lugares:** Tokyo (Japan)
 - **Premios ganados:** VLA Graphic Novel Diversity Award (2018)
 - **Ficha en Goodreads:** [El marido de mi hermano, vol. 2](https://www.goodreads.com/book/show/49673394-el-marido-de-mi-hermano-vol-2)

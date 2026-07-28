@@ -14,6 +14,12 @@ main:
   - name: Libros
     url: libros/
     weight: 40
+  - name: Solo libros
+    url: libros/novelas/
+    weight: 41
+  - name: Solo cómics
+    url: libros/comics/
+    weight: 42
   - name: Autores
     url: autores/
     weight: 50

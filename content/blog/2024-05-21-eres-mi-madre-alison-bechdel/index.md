@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Novela gráfica
-- Memorias
 - Comics
+- Novela gráfica
+- Comics
+- Memorias
 - No Ficción
 - Queer
 - LGTBIQ+
@@ -41,7 +42,7 @@ La autora del bestseller Fun Home regresa a su exitosa saga familiar. Si has le�
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8439726058 / 9788439726050
 - **Publicación original:** 2012-09-01
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Memorias](/tags/memorias/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Biografía](/tags/biografia/), [Psicología](/tags/psicologia/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Biografía](/tags/biografia/), [Psicología](/tags/psicologia/)
 - **Premios ganados:** The Publishing Triangle Award (2013)
 - **Nominaciones:** Lambda Literary Award (2013), Green Carnation Prize (2012), Goodreads Choice Award (2012), Readers' Favorite Graphic Novels & Comics (2012)
 - **Ficha en Goodreads:** [¿Eres mi madre?](https://www.goodreads.com/book/show/17857915-eres-mi-madre)

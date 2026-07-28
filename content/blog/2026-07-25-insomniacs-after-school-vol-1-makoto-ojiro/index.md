@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Romance
 - Novela gráfica
 - Jovenes adultos
 - Slice of life
-- Comics
 - Contemporaneo
 - Seinen manga
 - Ficción
@@ -49,7 +50,7 @@ Uno de cada cinco japoneses sufre perturbaciones del sueño y, entre los adolesc
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418788003 / 9788418788000
 - **Publicación original:** 2021-04-29
-- **Géneros:** [Manga](/tags/manga/), [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Comics](/tags/comics/), [Contemporaneo](/tags/contemporaneo/), [Seinen manga](/tags/seinen-manga/), [Ficción](/tags/ficcion/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Contemporaneo](/tags/contemporaneo/), [Seinen manga](/tags/seinen-manga/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Insomniacs After School, vol. 1](https://www.goodreads.com/book/show/57926337-insomniacs-after-school-vol-1)
 
 ## Mi lectura

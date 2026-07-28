@@ -7,6 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
+- Comics
 toc: false
 autores:
 - J. Michael Straczynski
@@ -37,6 +39,7 @@ El Hijo de Odín vuelve a la vida para protagonizar una fabulosa etapa con un eq
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491671285 / 9788491671282
 - **Publicación original:** 2017-01-01
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Thor Integral (Thor by Straczynski, #1-3)](https://www.goodreads.com/book/show/38330870-thor-integral)
 
 ## Mi lectura

@@ -7,13 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Romance
 - Novela gráfica
+- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Queer
 - Contemporaneo
-- Comics
 - Ficción
 - Gay
 toc: false
@@ -48,7 +49,7 @@ Pero el amor obra de formas inesperadas, y Nick está más interesado en Charlie
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 6078712063 / 9786078712069
 - **Publicación original:** 2020-02-01
-- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/)
+- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/)
 - **Personajes:** Charlie  Spring, Nick  Nelson
 - **Lugares:** Kent, England (United Kingdom)
 - **Premios ganados:** Nutmeg Book Award (2024), Massachusetts Teen Choice Book Award (2022)

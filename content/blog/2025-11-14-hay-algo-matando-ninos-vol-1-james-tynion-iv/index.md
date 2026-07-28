@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Novela gráfica
-- Terror
 - Comics
+- Novela gráfica
+- Comics
+- Terror
 - Fantasía
 - Ficción
 - Adultos
@@ -54,7 +55,7 @@ Editorial original: Boom!
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413416442 / 9788413416441
 - **Publicación original:** 2021-05-05
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Terror](/tags/terror/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/)
 - **Ficha en Goodreads:** [Hay algo matando niños, vol. 1](https://www.goodreads.com/book/show/57421145-hay-algo-matando-ni-os-vol-1)
 
 ## Mi lectura

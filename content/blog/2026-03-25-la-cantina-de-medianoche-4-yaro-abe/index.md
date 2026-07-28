@@ -7,10 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Japón
 - Novela gráfica
-- Comics
 - Comida
 - Relatos
 - Slice of life
@@ -45,7 +46,7 @@ Esa minúscula taberna situada en una callejuela del barrio de Shinjuku acoge a 
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418215534 / 9788418215537
 - **Publicación original:** 2021-07-01
-- **Géneros:** [Manga](/tags/manga/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Comida](/tags/comida/), [Relatos](/tags/relatos/), [Slice of life](/tags/slice-of-life/), [Cocina](/tags/cocina/), [Seinen manga](/tags/seinen-manga/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Comida](/tags/comida/), [Relatos](/tags/relatos/), [Slice of life](/tags/slice-of-life/), [Cocina](/tags/cocina/), [Seinen manga](/tags/seinen-manga/)
 - **Ficha en Goodreads:** [La cantina de medianoche 4](https://www.goodreads.com/book/show/58655129-la-cantina-de-medianoche-4)
 
 ## Mi lectura

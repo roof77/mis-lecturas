@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Novela gráfica
-- No Ficción
 - Comics
+- Novela gráfica
+- Comics
+- No Ficción
 - Historia
 - Memorias
 - Guerra
@@ -47,7 +48,7 @@ Partiendo de las entrevistas que mantuvo con Lee Ok-Sun en una residencia de anc
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418897449 / 9788418897443
 - **Publicación original:** 2022-02-24
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [No Ficción](/tags/no-ficcion/), [Comics](/tags/comics/), [Historia](/tags/historia/), [Memorias](/tags/memorias/), [Guerra](/tags/guerra/), [Biografía](/tags/biografia/), [Histórico](/tags/historico/), [Ásia](/tags/asia/), [Manga](/tags/manga/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Memorias](/tags/memorias/), [Guerra](/tags/guerra/), [Biografía](/tags/biografia/), [Histórico](/tags/historico/), [Ásia](/tags/asia/), [Manga](/tags/manga/)
 - **Ficha en Goodreads:** [Hierba (Spanish Edition)](https://www.goodreads.com/book/show/60575724-hierba)
 
 ## Mi lectura

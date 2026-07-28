@@ -7,13 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Romance
 - Novela gráfica
+- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Queer
 - Contemporaneo
-- Comics
 - Ficción
 - Salud mentál
 - Gay
@@ -48,7 +49,7 @@ Hearstopper trata del amor, la amistad y la lealtad, pero también de trastornos
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408236431 / 9788408236436
 - **Publicación original:** 2020-11-17
-- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Salud mentál](/tags/salud-mental/), [Gay](/tags/gay/)
+- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Salud mentál](/tags/salud-mental/), [Gay](/tags/gay/)
 - **Lugares:** Paris (France), Kent, England (United Kingdom)
 - **Premios ganados:** Goodreads Choice Award (2020)
 - **Nominaciones:** Readers' Favorite Graphic Novels & Comics (2020)

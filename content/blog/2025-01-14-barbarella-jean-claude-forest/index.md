@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+- Comics
 - Novela gráfica
 - Ciencia ficción
 - Ficción

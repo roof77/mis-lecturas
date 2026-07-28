@@ -7,6 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Libros
 - Música
 - No Ficción
 - Historia

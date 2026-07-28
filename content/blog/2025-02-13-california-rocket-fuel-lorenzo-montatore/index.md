@@ -7,6 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
+- Comics
 toc: false
 autores:
 - Lorenzo Montatore
@@ -32,6 +34,7 @@ California Rocket Fuel es la historia de una consulta al psicólogo/psiquiatra. 
 - **Formato:** Paperback, 134 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2019-01-01
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [California Rocket Fuel](https://www.goodreads.com/book/show/52592471-california-rocket-fuel)
 
 ## Mi lectura

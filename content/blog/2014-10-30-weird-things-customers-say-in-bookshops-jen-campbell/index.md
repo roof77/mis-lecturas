@@ -7,6 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - No Ficción
 - Humor
 - Libros sobre libros
@@ -15,6 +16,7 @@ tags:
 - Contemporaneo
 - Relatos
 - Novela gráfica
+- Comics
 - Siglo XXI
 toc: false
 autores:
@@ -47,7 +49,7 @@ This full-length collection illustrated by the Brothers McLeod also includes top
 - **Idioma:** English
 - **ISBN:** 1780334834 / 9781780334837
 - **Publicación original:** 2012-03-26
-- **Géneros:** [No Ficción](/tags/no-ficcion/), [Humor](/tags/humor/), [Libros sobre libros](/tags/libros-sobre-libros/), [Comedia](/tags/comedia/), [Adultos](/tags/adultos/), [Contemporaneo](/tags/contemporaneo/), [Relatos](/tags/relatos/), [Novela gráfica](/tags/novela-grafica/), [Siglo XXI](/tags/siglo-xxi/)
+- **Géneros:** [No Ficción](/tags/no-ficcion/), [Humor](/tags/humor/), [Libros sobre libros](/tags/libros-sobre-libros/), [Comedia](/tags/comedia/), [Adultos](/tags/adultos/), [Contemporaneo](/tags/contemporaneo/), [Relatos](/tags/relatos/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Siglo XXI](/tags/siglo-xxi/)
 - **Nominaciones:** Goodreads Choice Award (2012), Readers' Favorite Humor (2012)
 - **Ficha en Goodreads:** [Weird Things Customers Say in Bookshops](https://www.goodreads.com/book/show/12640991-weird-things-customers-say-in-bookshops)
 

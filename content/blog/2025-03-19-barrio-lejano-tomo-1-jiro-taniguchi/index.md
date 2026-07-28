@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Manga
-- Novela gráfica
 - Comics
+- Manga
+- Comics
+- Novela gráfica
 - Japón
 - Ficción
 - Viaje en el tiempo
@@ -45,7 +46,7 @@ guionista Natsuo Sekigawa, “Ciudad sin defensa”, “El viento del oeste es b
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493309311 / 9788493309312
 - **Publicación original:** 2003-04-01
-- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Literatura japanesa](/tags/literatura-japanesa/), [Seinen manga](/tags/seinen-manga/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Literatura japanesa](/tags/literatura-japanesa/), [Seinen manga](/tags/seinen-manga/)
 - **Lugares:** Kurayoshi (Japan)
 - **Premios ganados:** Prix du Festival d'Angoulême (2003), Gran Guinigi (2003)
 - **Ficha en Goodreads:** [Barrio lejano - Tomo 1](https://www.goodreads.com/book/show/1187423.Barrio_lejano_Tomo_1)

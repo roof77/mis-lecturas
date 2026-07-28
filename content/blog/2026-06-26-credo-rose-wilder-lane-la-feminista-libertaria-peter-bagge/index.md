@@ -7,11 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Novela gráfica
+- Comics
 - Biografía
 - No Ficción
 - Historia
-- Comics
 - Política
 - Memorias
 - Feminismo
@@ -43,7 +44,7 @@ Credo es una inmersión profundamente documentada en una figura histórica cuyas
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417442588 / 9788417442583
 - **Publicación original:** 2020-01-01
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Biografía](/tags/biografia/), [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Comics](/tags/comics/), [Política](/tags/politica/), [Memorias](/tags/memorias/), [Feminismo](/tags/feminismo/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Biografía](/tags/biografia/), [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Política](/tags/politica/), [Memorias](/tags/memorias/), [Feminismo](/tags/feminismo/)
 - **Personajes:** Rose Wilder Lane
 - **Ficha en Goodreads:** [Credo. Rose Wilder Lane, la feminista libertaria](https://www.goodreads.com/book/show/50689969-credo-rose-wilder-lane-la-feminista-libertaria)
 

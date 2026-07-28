@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+- Comics
 - Ficción
 toc: false
 autores:

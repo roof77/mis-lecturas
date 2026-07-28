@@ -7,11 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Novela gráfica
+- Comics
 - Jovenes adultos
 - Romance
 - Contemporaneo
-- Comics
 - LGTBIQ+
 - Ficción
 - Halloween
@@ -44,7 +45,7 @@ Cada otoño, Deja y Josiah trabajan juntos en la Feria de la Calabaza más aluci
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8420453382 / 9788420453385
 - **Publicación original:** 2019-11-21
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Halloween](/tags/halloween/), [Queer](/tags/queer/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Halloween](/tags/halloween/), [Queer](/tags/queer/)
 - **Personajes:** Josiah, Deja
 - **Lugares:** Omaha, Nebraska (United States)
 - **Premios ganados:** Goodreads Choice Award (2019), VLA Graphic Novel Diversity Award (2019), Whippoorwill Award (2020)

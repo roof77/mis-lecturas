@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Novela gráfica
-- Filosofía
 - Comics
+- Novela gráfica
+- Comics
+- Filosofía
 - Historia
 - No Ficción
 - Biografía
@@ -49,7 +50,7 @@ La crítica ha «Un libro extremadamente logrado e interesante, que inspira la l
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418621508 / 9788418621505
 - **Publicación original:** 2023-02-16
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Filosofía](/tags/filosofia/), [Comics](/tags/comics/), [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Feminismo](/tags/feminismo/), [Histórico](/tags/historico/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Filosofía](/tags/filosofia/), [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Feminismo](/tags/feminismo/), [Histórico](/tags/historico/)
 - **Ficha en Goodreads:** [La filósofa, el perro y la boda (Spanish Edition)](https://www.goodreads.com/book/show/211174142-la-fil-sofa-el-perro-y-la-boda)
 
 ## Mi lectura

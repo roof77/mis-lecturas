@@ -10,6 +10,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Libros
 - Ficción
 - Literatura latinoamericana
 - Literatura hispana

@@ -7,10 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Romance
 - Novela gráfica
-- Comics
 - Ficción
 - Slice of life
 - Seinen manga
@@ -46,7 +47,7 @@ Yusaku Godai didn’t get accepted into college on the first try, so he’s stud
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484495191 / 9788484495192
 - **Publicación original:** 2004-01-01
-- **Géneros:** [Manga](/tags/manga/), [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Seinen manga](/tags/seinen-manga/), [Humor](/tags/humor/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Seinen manga](/tags/seinen-manga/), [Humor](/tags/humor/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/)
 - **Ficha en Goodreads:** [Maison Ikkoku 1](https://www.goodreads.com/book/show/345405.Maison_Ikkoku_1)
 
 ## Mi lectura

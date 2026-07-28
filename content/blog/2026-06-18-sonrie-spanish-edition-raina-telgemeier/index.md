@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Novela gráfica
-- Jovenes adultos
 - Comics
+- Novela gráfica
+- Comics
+- Jovenes adultos
 - Ficción realista
 - Ficción
 - Niños
@@ -45,7 +46,7 @@ Raina solo quiere ser normal. Pero una noche, tras una reunión de los scouts, s
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416363641 / 9788416363643
 - **Publicación original:** 2016-03-10
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Jovenes adultos](/tags/jovenes-adultos/), [Comics](/tags/comics/), [Ficción realista](/tags/ficcion-realista/), [Ficción](/tags/ficcion/), [Niños](/tags/ninos/), [Contemporaneo](/tags/contemporaneo/), [Coming of age](/tags/coming-of-age/), [Humor](/tags/humor/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción realista](/tags/ficcion-realista/), [Ficción](/tags/ficcion/), [Niños](/tags/ninos/), [Contemporaneo](/tags/contemporaneo/), [Coming of age](/tags/coming-of-age/), [Humor](/tags/humor/)
 - **Personajes:** Raina Telgemeier
 - **Premios ganados:** Vermont Golden Dome Book Award (2012), Iowa Children's Choice Award (2012), Will Eisner Comic Industry Awards (2011), Rebecca Caudill Young Readers' Book Award (2013)
 - **Nominaciones:** Boston Globe-Horn Book Award (2010), Goodreads Choice Award (2010)

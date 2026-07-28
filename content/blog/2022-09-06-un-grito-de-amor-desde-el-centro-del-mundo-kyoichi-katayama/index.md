@@ -7,6 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Romance
 - Japón
 - Ficción
@@ -16,6 +17,7 @@ tags:
 - Ásia
 - Drama
 - Manga
+- Comics
 - Novela
 toc: false
 autores:
@@ -50,7 +52,7 @@ Un grito de amor desde el centro del mundo es la novela japonesa más leída de 
 - **Formato:** Paperback, 200 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2008-09-01
-- **Géneros:** [Romance](/tags/romance/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/), [Jovenes adultos](/tags/jovenes-adultos/), [Literatura asiática](/tags/literatura-asiatica/), [Ásia](/tags/asia/), [Drama](/tags/drama/), [Manga](/tags/manga/), [Novela](/tags/novela/)
+- **Géneros:** [Romance](/tags/romance/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/), [Jovenes adultos](/tags/jovenes-adultos/), [Literatura asiática](/tags/literatura-asiatica/), [Ásia](/tags/asia/), [Drama](/tags/drama/), [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Un grito de amor desde el centro del mundo](https://www.goodreads.com/book/show/4655733-un-grito-de-amor-desde-el-centro-del-mundo)
 
 ## Mi lectura

@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Novela gráfica
-- No Ficción
 - Comics
+- Novela gráfica
+- Comics
+- No Ficción
 - Memorias
 - Biografía
 - Adultos
@@ -44,7 +45,7 @@ Tras numerosos encuentros con él, Guy Delisle decide contar su historia. Un tes
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416251754 / 9788416251759
 - **Publicación original:** 2016-01-01
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [No Ficción](/tags/no-ficcion/), [Comics](/tags/comics/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Adultos](/tags/adultos/), [Historia](/tags/historia/), [Francia](/tags/francia/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Adultos](/tags/adultos/), [Historia](/tags/historia/), [Francia](/tags/francia/)
 - **Nominaciones:** Harvey Awards (2018)
 - **Ficha en Goodreads:** [Escapar. Historia de un rehén](https://www.goodreads.com/book/show/33234122-escapar-historia-de-un-reh-n)
 

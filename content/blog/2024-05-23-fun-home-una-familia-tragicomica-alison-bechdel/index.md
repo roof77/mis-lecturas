@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Novela gráfica
-- Memorias
 - Comics
+- Novela gráfica
+- Comics
+- Memorias
 - No Ficción
 - LGTBIQ+
 - Queer
@@ -41,7 +42,7 @@ El padre de Alison, la protagonista (y autora del libro), es profesor de inglés
 - **Formato:** Hardcover, 238 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2008-03-01
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Memorias](/tags/memorias/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/)
 - **Lugares:** Pennsylvania (United States)
 - **Premios ganados:** Stonewall Book Award (2007), Lambda Literary Award (2007), Will Eisner Comic Industry Awards (2007), The Publishing Triangle Award (2007)
 - **Ficha en Goodreads:** [Fun Home. Una familia tragicómica](https://www.goodreads.com/book/show/16285826-fun-home-una-familia-tragic-mica)

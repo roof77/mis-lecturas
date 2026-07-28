@@ -7,11 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Novela gráfica
+- Comics
 - LGTBIQ+
 - Queer
 - No Ficción
-- Comics
 - Memorias
 - Romance
 - Transgenero
@@ -46,7 +47,7 @@ Us pretende visibilizar la realidad trans y aportar su visión y su granito de a
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418215186 / 9788418215186
 - **Publicación original:** 2021-05-20
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [No Ficción](/tags/no-ficcion/), [Comics](/tags/comics/), [Memorias](/tags/memorias/), [Romance](/tags/romance/), [Transgenero](/tags/transgenero/), [Lesbianismo](/tags/lesbianismo/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Romance](/tags/romance/), [Transgenero](/tags/transgenero/), [Lesbianismo](/tags/lesbianismo/)
 - **Ficha en Goodreads:** [Us](https://www.goodreads.com/book/show/58089618-us)
 
 ## Mi lectura

@@ -10,6 +10,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+- Comics
 - Novela gráfica
 - Ficción
 - Filosofía

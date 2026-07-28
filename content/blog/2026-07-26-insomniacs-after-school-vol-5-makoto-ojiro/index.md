@@ -7,7 +7,9 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Romance
 - Jovenes adultos
 - Slice of life
@@ -15,7 +17,6 @@ tags:
 - Ficción
 - Seinen manga
 - Contemporaneo
-- Comics
 toc: false
 autores:
 - Makoto Ojiro
@@ -47,7 +48,7 @@ Tras el fiasco de la actividad de observación de las pléyades, Isaki ofrece la
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418788852 / 9788418788857
 - **Publicación original:** 2021-12-21
-- **Géneros:** [Manga](/tags/manga/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/)
 - **Ficha en Goodreads:** [Insomniacs After School, vol. 5](https://www.goodreads.com/book/show/59975677-insomniacs-after-school-vol-5)
 
 ## Mi lectura

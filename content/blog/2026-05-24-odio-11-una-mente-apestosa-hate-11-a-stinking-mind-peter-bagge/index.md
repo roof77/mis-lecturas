@@ -6,6 +6,8 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
+- Comics
 toc: false
 autores:
 - Peter Bagge
@@ -29,6 +31,7 @@ nota: Bien
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478335617 / 9788478335619
 - **Publicación original:** 2004-01-01
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio 11 Una mente apestosa/ Hate 11 A stinking mind](https://www.goodreads.com/book/show/2751010-odio-11-una-mente-apestosa-hate-11-a-stinking-mind)
 
 ## Mi lectura

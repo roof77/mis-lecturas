@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Manga
-- Novela gráfica
 - Comics
+- Manga
+- Comics
+- Novela gráfica
 - Japón
 - Ficción
 - Viaje en el tiempo
@@ -46,7 +47,7 @@ Hiroshi, un padre de familia de 48 años, se siente transportado al adolescente 
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8493309362 / 9788493309367
 - **Publicación original:** 2003-09-01
-- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Literatura japanesa](/tags/literatura-japanesa/), [Seinen manga](/tags/seinen-manga/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Literatura japanesa](/tags/literatura-japanesa/), [Seinen manga](/tags/seinen-manga/)
 - **Premios ganados:** Gran Guinigi (2003)
 - **Ficha en Goodreads:** [Barrio Lejano Tomo 2 (Nouvelle Manga) (Spanish Edition)](https://www.goodreads.com/book/show/1187426.Barrio_Lejano_Tomo_2_Nouvelle_Manga_)
 

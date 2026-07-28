@@ -7,10 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Novela gráfica
 - Japón
-- Comics
 - Comida
 - Ficción
 - Relatos
@@ -44,7 +45,7 @@ C’è un piccolo ristorante, in un vicoletto di Shinjuku, a Tokyo. Apre a mezza
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417575731 / 9788417575731
 - **Publicación original:** 2019-11-28
-- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Comics](/tags/comics/), [Comida](/tags/comida/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Seinen manga](/tags/seinen-manga/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Comida](/tags/comida/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Seinen manga](/tags/seinen-manga/)
 - **Ficha en Goodreads:** [La cantina de medianoche 2](https://www.goodreads.com/book/show/50353594-la-cantina-de-medianoche-2)
 
 ## Mi lectura

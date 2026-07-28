@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+- Comics
 toc: false
 autores:
 - Seth

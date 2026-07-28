@@ -7,13 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Romance
 - Jovenes adultos
 - Slice of life
 - Novela gráfica
 - Ficción
-- Comics
 - Seinen manga
 - Contemporaneo
 toc: false
@@ -47,7 +48,7 @@ Ganta e Isaki intentarán salvar el club de astronomía, por un lado organizando
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418788631 / 9788418788635
 - **Publicación original:** 2021-10-29
-- **Géneros:** [Manga](/tags/manga/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Comics](/tags/comics/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/)
 - **Ficha en Goodreads:** [Insomniacs After School, vol. 4](https://www.goodreads.com/book/show/59554434-insomniacs-after-school-vol-4)
 
 ## Mi lectura

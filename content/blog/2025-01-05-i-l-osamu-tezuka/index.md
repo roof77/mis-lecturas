@@ -7,11 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Novela gráfica
 - Fantasía
 - Ficción
-- Comics
 toc: false
 autores:
 - Osamu Tezuka
@@ -38,7 +39,7 @@ nota: 4,25
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413416531 / 9788413416533
 - **Publicación original:** 2021-06-01
-- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Comics](/tags/comics/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [I.L.](https://www.goodreads.com/book/show/58392764-i-l)
 
 ## Mi lectura

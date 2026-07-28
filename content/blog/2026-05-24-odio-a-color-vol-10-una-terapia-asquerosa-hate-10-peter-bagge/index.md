@@ -7,6 +7,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+- Comics
 toc: false
 autores:
 - Peter Bagge

@@ -7,12 +7,13 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Romance
 - Jovenes adultos
 - Novela gráfica
 - Slice of life
-- Comics
 - Ficción
 - Contemporaneo
 - Seinen manga
@@ -49,7 +50,7 @@ En esta historia ambientada en Noto, dos estudiantes de secundaria, Isaki y Gant
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418788178 / 9788418788178
 - **Publicación original:** 2021-06-30
-- **Géneros:** [Manga](/tags/manga/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Slice of life](/tags/slice-of-life/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Seinen manga](/tags/seinen-manga/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Slice of life](/tags/slice-of-life/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Seinen manga](/tags/seinen-manga/)
 - **Ficha en Goodreads:** [Insomniacs After School, vol. 2](https://www.goodreads.com/book/show/58473976-insomniacs-after-school-vol-2)
 
 ## Mi lectura

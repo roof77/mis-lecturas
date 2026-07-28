@@ -7,11 +7,12 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Novela gráfica
 - LGTBIQ+
 - Queer
-- Comics
 - Ficción
 - Contemporaneo
 - Japón
@@ -46,7 +47,7 @@ Yaichi es un padre divorciado japonés muy tradicional y conservador que vive ju
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8413342031 / 9788413342030
 - **Publicación original:** 2019-10-24
-- **Géneros:** [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Adultos](/tags/adultos/), [Familia](/tags/familia/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Adultos](/tags/adultos/), [Familia](/tags/familia/)
 - **Lugares:** Tokyo (Japan)
 - **Premios ganados:** Will Eisner Comic Industry Awards (2018), VLA Graphic Novel Diversity Award (2017)
 - **Nominaciones:** Harvey Awards (2018), Lambda Literary Award (2017)

@@ -6,6 +6,8 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
+- Comics
 toc: false
 autores:
 - Grant Morrison
@@ -36,6 +38,7 @@ Segundo tomo de tres.
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 848431779X / 9788484317791
 - **Publicación original:** 2004-01-01
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [El Asco: El mundo de Ander Klimakks (El Asco #2 de 3)](https://www.goodreads.com/book/show/13484026-el-asco)
 
 ## Mi lectura

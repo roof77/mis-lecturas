@@ -7,6 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Libros
 - Ficción histórica
 - Ficción
 - Club de lectura

@@ -7,13 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Romance
 - Novela gráfica
+- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Queer
 - Contemporaneo
-- Comics
 - Ficción
 - Salud mentál
 - Gay
@@ -50,7 +51,7 @@ Las semanas pasan y, en este nuevo curso escolar, Charlie y Nick están a punto 
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408243225 / 9788408243229
 - **Publicación original:** 2021-06-16
-- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Salud mentál](/tags/salud-mental/), [Gay](/tags/gay/)
+- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Salud mentál](/tags/salud-mental/), [Gay](/tags/gay/)
 - **Lugares:** Kent, England (United Kingdom)
 - **Premios ganados:** Teen Buckeye Book Award (2023), Goodreads Choice Award (2022)
 - **Nominaciones:** British Book Award (2022), Will Eisner Comic Industry Awards (2023), Readers' Favorite Graphic Novels & Comics (2022)

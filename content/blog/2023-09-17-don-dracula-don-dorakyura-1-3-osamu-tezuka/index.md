@@ -7,6 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
+- Comics
 toc: false
 autores:
 - Osamu Tezuka
@@ -34,6 +36,7 @@ Una versión totalmente alocada de este personaje universal, en la cual Don Drá
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8411403602 / 9788411407052
 - **Publicación original:** 2023-01-25
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Don Drácula (ドン・ドラキュラ [Don Dorakyura], #1-3)](https://www.goodreads.com/book/show/63038735-don-dr-cula)
 
 ## Mi lectura

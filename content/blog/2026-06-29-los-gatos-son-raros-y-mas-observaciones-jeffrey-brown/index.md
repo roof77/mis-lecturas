@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Novela gráfica
-- Humor
 - Comics
+- Novela gráfica
+- Comics
+- Humor
 - Gatos
 - Animales
 - No Ficción
@@ -41,7 +42,7 @@ Los dibujos de Jeffrey Brown capturan a la perfección la comicidad y el caráct
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478339213 / 9788478339211
 - **Publicación original:** 2010-11-01
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Humor](/tags/humor/), [Comics](/tags/comics/), [Gatos](/tags/gatos/), [Animales](/tags/animales/), [No Ficción](/tags/no-ficcion/), [Comedia](/tags/comedia/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Humor](/tags/humor/), [Gatos](/tags/gatos/), [Animales](/tags/animales/), [No Ficción](/tags/no-ficcion/), [Comedia](/tags/comedia/)
 - **Ficha en Goodreads:** [Los gatos son raros y más observaciones](https://www.goodreads.com/book/show/13606670-los-gatos-son-raros-y-m-s-observaciones)
 
 ## Mi lectura

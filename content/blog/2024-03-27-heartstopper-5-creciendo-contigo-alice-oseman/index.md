@@ -7,13 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Romance
 - Novela gráfica
+- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Queer
 - Contemporaneo
-- Comics
 - Ficción
 - Gay
 - Salud mentál
@@ -48,7 +49,7 @@ Nick y Charlie están muy enamorados. Por fin se han dicho esas dos palabras que
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8408283537 / 9788408283539
 - **Publicación original:** 2024-02-14
-- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/), [Salud mentál](/tags/salud-mental/)
+- **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/), [Salud mentál](/tags/salud-mental/)
 - **Premios ganados:** Goodreads Choice Award (2024), She Reads Best of Award (2023)
 - **Nominaciones:** British Book Award (2024), Readers' Favorite Young Adult Fiction (2024)
 - **Ficha en Goodreads:** [Heartstopper 5. Creciendo contigo](https://www.goodreads.com/book/show/202748429-heartstopper-5-creciendo-contigo)

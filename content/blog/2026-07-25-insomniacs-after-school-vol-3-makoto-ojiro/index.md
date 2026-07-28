@@ -7,13 +7,14 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Manga
+- Comics
 - Romance
 - Slice of life
 - Jovenes adultos
 - Novela gráfica
 - Ficción
-- Comics
 - Seinen manga
 - Contemporaneo
 toc: false
@@ -47,7 +48,7 @@ En el campamento, tras disfrutar de una noche mágica en la playa, Nakami e Isak
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8418788453 / 9788418788451
 - **Publicación original:** 2021-08-31
-- **Géneros:** [Manga](/tags/manga/), [Romance](/tags/romance/), [Slice of life](/tags/slice-of-life/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Comics](/tags/comics/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Slice of life](/tags/slice-of-life/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/)
 - **Ficha en Goodreads:** [Insomniacs After School, Vol. 3](https://www.goodreads.com/book/show/58855360-insomniacs-after-school-vol-3)
 
 ## Mi lectura

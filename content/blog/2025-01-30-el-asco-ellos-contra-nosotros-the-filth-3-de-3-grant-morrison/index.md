@@ -6,6 +6,8 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
+- Comics
 toc: false
 autores:
 - Grant Morrison
@@ -36,6 +38,7 @@ Volumen que traduce los números 9 al 13 del título estadounidense The Filth.
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484317803 / 9788484317807
 - **Publicación original:** 2004-01-01
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [El Asco: Ellos contra nosotros (The Filth #3 de 3)](https://www.goodreads.com/book/show/13615689-el-asco)
 
 ## Mi lectura

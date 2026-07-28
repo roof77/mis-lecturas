@@ -6,6 +6,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Marvel
 - Comics
 - Superheroes

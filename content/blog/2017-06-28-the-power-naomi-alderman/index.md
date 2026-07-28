@@ -7,6 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Libros
 - Ficción
 - Ciencia ficción
 - Club de lectura

@@ -7,8 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Libros
 - LGTBIQ+
-- Comics
+- Autores Comics
+- Libros
 toc: false
 autores:
 - Nazario
@@ -39,7 +41,7 @@ Un testimonio valiosísimo de un momento irrepetible y de una Barcelona creativa
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8433926128 / 9788433926128
 - **Publicación original:** 2016-06-01
-- **Géneros:** [LGTBIQ+](/tags/lgtbiq/), [Comics](/tags/comics/)
+- **Géneros:** [LGTBIQ+](/tags/lgtbiq/), [Autores Comics](/tags/autores-comics/), [Libros](/tags/libros/)
 - **Ficha en Goodreads:** [La vida cotidiana del dibujante underground](https://www.goodreads.com/book/show/30345643-la-vida-cotidiana-del-dibujante-underground)
 
 ## Mi lectura

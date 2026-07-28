@@ -8,6 +8,7 @@ authors:
 tags:
 - Lecturas
 - Comics
+- Comics
 - No Ficción
 - LGTBIQ+
 toc: false

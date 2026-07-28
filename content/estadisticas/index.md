@@ -6,11 +6,11 @@ summary: Estadísticas de lectura por año.
 ## Resumen histórico
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">195883</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">664</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">192998</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">649</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">47596</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">231</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">50857</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">247</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -56,19 +56,19 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">295</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">206</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">297</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">206</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (500)</li><li>Club de lectura (191)</li><li>Novela (190)</li><li>Fantasía (185)</li><li>Contemporaneo (175)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (196)</li><li>Ficción (139)</li><li>Fantasía (79)</li><li>Humor (44)</li><li>Ciencia ficción (40)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (499)</li><li>Club de lectura (191)</li><li>Novela (190)</li><li>Fantasía (184)</li><li>Contemporaneo (174)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (197)</li><li>Ficción (139)</li><li>Fantasía (79)</li><li>Humor (45)</li><li>Ciencia ficción (40)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Autores más leídos</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>J.K. Rowling (10)</li><li>Michael McDowell (9)</li><li>Grady Hendrix (8)</li><li>P. Djèlí Clark (5)</li><li>Bill Bryson (4)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Matt Fraction (31)</li><li>Peter Bagge (13)</li><li>Rumiko Takahashi (9)</li><li>N.D. Stevenson (9)</li><li>Yarō Abe (8)</li></ol></div></div>
+<h3 style="margin-top:0;">Autores más leídos</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>J.K. Rowling (10)</li><li>Michael McDowell (9)</li><li>Grady Hendrix (8)</li><li>P. Djèlí Clark (5)</li><li>Bill Bryson (4)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Matt Fraction (31)</li><li>Peter Bagge (16)</li><li>Rumiko Takahashi (9)</li><li>Yarō Abe (9)</li><li>N.D. Stevenson (9)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Editoriales más leídas</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Libros del Asteroide (28)</li><li>Blackie Books (26)</li><li>Editorial Anagrama (25)</li><li>Literatura Random House (18)</li><li>Valdemar (16)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Image Comics (23)</li><li>Astiberri (19)</li><li>Ediciones Glénat España (12)</li><li>La Cúpula (11)</li><li>Norma Editorial (9)</li></ol></div></div>
+<h3 style="margin-top:0;">Editoriales más leídas</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Libros del Asteroide (28)</li><li>Blackie Books (26)</li><li>Editorial Anagrama (25)</li><li>Literatura Random House (18)</li><li>Anagrama (17)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Image Comics (23)</li><li>Astiberri (19)</li><li>La Cúpula (12)</li><li>Ediciones Glénat España (12)</li><li>Norma Editorial (9)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -78,11 +78,11 @@ summary: Estadísticas de lectura por año.
 ## 2026
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">6352</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">26</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">5276</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">19</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">13348</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">86</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">14800</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">94</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -132,7 +132,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">244</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">155</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">278</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">157</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -158,11 +158,11 @@ summary: Estadísticas de lectura por año.
 ## 2025
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">10980</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">41</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">10018</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">35</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">15163</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">54</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">16125</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">60</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -172,10 +172,10 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2025-01-29-el-asco-nosotros-contra-ellos-el-asco-1-de-3-grant-morrison/"><img src="/blog/2025-01-29-el-asco-nosotros-contra-ellos-el-asco-1-de-3-grant-morrison/featured.jpg" alt="El Asco: Nosotros contra ellos (El Asco #1 de 3)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2025-07-31-cosas-pequenas-como-esas-claire-keegan/"><img src="/blog/2025-07-31-cosas-pequenas-como-esas-claire-keegan/featured.jpg" alt="Cosas pequeñas como esas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
-    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">74</div>
+    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">83</div>
     <div style="font-weight:700;font-size:0.95rem;">páginas</div>
   </div>
 </div>
@@ -212,7 +212,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">268</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">281</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">286</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">269</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -238,11 +238,11 @@ summary: Estadísticas de lectura por año.
 ## 2024
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">10326</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">40</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">10198</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">39</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">11297</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">38</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">11425</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">39</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -292,11 +292,11 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">258</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">297</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">261</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">293</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (34)</li><li>Terror (18)</li><li>Fantasía (17)</li><li>Thriller (13)</li><li>Ficción histórica (12)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (29)</li><li>Ficción (23)</li><li>Humor (12)</li><li>Literatura japanesa (12)</li><li>Romance (11)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (33)</li><li>Terror (18)</li><li>Fantasía (16)</li><li>Thriller (13)</li><li>Ficción histórica (12)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (29)</li><li>Ficción (23)</li><li>Humor (12)</li><li>Literatura japanesa (12)</li><li>Romance (11)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -318,11 +318,11 @@ summary: Estadísticas de lectura por año.
 ## 2023
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">10363</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">35</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">9475</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">34</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">600</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">4</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">1488</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">5</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -340,10 +340,10 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2023-09-17-don-dracula-don-dorakyura-1-3-osamu-tezuka/"><img src="/blog/2023-09-17-don-dracula-don-dorakyura-1-3-osamu-tezuka/featured.jpg" alt="Don Drácula (ドン・ドラキュラ [Don Dorakyura], #1-3)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2023-08-24-el-lustre-de-la-perla-sarah-waters/"><img src="/blog/2023-08-24-el-lustre-de-la-perla-sarah-waters/featured.jpg" alt="El lustre de la perla" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
-    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">888</div>
+    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">504</div>
     <div style="font-weight:700;font-size:0.95rem;">páginas</div>
   </div>
 </div>
@@ -361,10 +361,10 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2023-02-26-baco-1-eddie-campbell/"><img src="/blog/2023-02-26-baco-1-eddie-campbell/featured.jpg" alt="Baco 1" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2023-09-17-don-dracula-don-dorakyura-1-3-osamu-tezuka/"><img src="/blog/2023-09-17-don-dracula-don-dorakyura-1-3-osamu-tezuka/featured.jpg" alt="Don Drácula (ドン・ドラキュラ [Don Dorakyura], #1-3)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
-    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">216</div>
+    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">888</div>
     <div style="font-weight:700;font-size:0.95rem;">páginas</div>
   </div>
 </div>
@@ -372,7 +372,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">296</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">150</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">279</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">298</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -820,11 +820,7 @@ summary: Estadísticas de lectura por año.
 ## 2016
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">23109</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">61</div></div></div>
-</div>
-
-<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">288</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">1</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">23397</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">62</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -853,32 +849,11 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
-<div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/"><img src="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/featured.jpg" alt="La vida cotidiana del dibujante underground" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
-  <div>
-    <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
-    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">288</div>
-    <div style="font-weight:700;font-size:0.95rem;">páginas</div>
-  </div>
-</div>
-<div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/"><img src="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/featured.jpg" alt="La vida cotidiana del dibujante underground" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
-  <div>
-    <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
-    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">288</div>
-    <div style="font-weight:700;font-size:0.95rem;">páginas</div>
-  </div>
-</div>
-</div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">377</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">379</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">288</div><div style="font-weight:700;">páginas de media</div></div></div>
-</div>
-
-<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (49)</li><li>Fantasía (21)</li><li>Clásico (20)</li><li>Novela (18)</li><li>Club de lectura (15)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>LGTBIQ+ (1)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (49)</li><li>Fantasía (21)</li><li>Clásico (20)</li><li>Novela (18)</li><li>Club de lectura (15)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -887,10 +862,6 @@ summary: Estadísticas de lectura por año.
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Páginas leídas por mes (Libros) — 2016</h3><img src="chart-2016-mensual-libro.png" alt="Páginas leídas por mes (Libros) — 2016" style="max-width:100%;">
-</div>
-
-<div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Páginas leídas por mes (Cómics/Manga) — 2016</h3><img src="chart-2016-mensual-comic.png" alt="Páginas leídas por mes (Cómics/Manga) — 2016" style="max-width:100%;">
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -951,11 +922,11 @@ summary: Estadísticas de lectura por año.
 ## 2014
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">25131</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">82</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">25012</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">81</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">1200</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">1</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">1319</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">2</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -986,10 +957,10 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2014-10-05-adolf-integral-volumenes-1-y-2-coleccion-trazado-adolf-integral-1-2-osamu-tezuka/"><img src="/blog/2014-10-05-adolf-integral-volumenes-1-y-2-coleccion-trazado-adolf-integral-1-2-osamu-tezuka/featured.jpg" alt="Adolf Integral, volúmenes 1 y 2 (Colección Trazado: Adolf Integral, #1-2)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2014-10-30-weird-things-customers-say-in-bookshops-jen-campbell/"><img src="/blog/2014-10-30-weird-things-customers-say-in-bookshops-jen-campbell/featured.jpg" alt="Weird Things Customers Say in Bookshops" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
-    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">1200</div>
+    <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">119</div>
     <div style="font-weight:700;font-size:0.95rem;">páginas</div>
   </div>
 </div>
@@ -1005,11 +976,11 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">306</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">1200</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">309</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">660</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (63)</li><li>Clásico (35)</li><li>Literatura (31)</li><li>Novela (30)</li><li>Club de lectura (26)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (1)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (63)</li><li>Clásico (35)</li><li>Literatura (31)</li><li>Novela (30)</li><li>Club de lectura (26)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (2)</li><li>No Ficción (1)</li><li>Humor (1)</li><li>Libros sobre libros (1)</li><li>Comedia (1)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">

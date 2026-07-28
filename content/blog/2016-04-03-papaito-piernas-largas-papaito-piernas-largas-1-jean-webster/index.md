@@ -7,6 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Libros
 - Clásico
 - Ficción
 - Jovenes adultos

@@ -7,6 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
+- Comics
 toc: false
 autores:
 - Artur Laperla
@@ -37,6 +39,7 @@ Angélica debe encontrar a su mascota en el interior de una escalofriante mansi�
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8494785281 / 9788494785283
 - **Publicación original:** 2019-05-30
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Maldita casa encantada](https://www.goodreads.com/book/show/43216634-maldita-casa-encantada)
 
 ## Mi lectura

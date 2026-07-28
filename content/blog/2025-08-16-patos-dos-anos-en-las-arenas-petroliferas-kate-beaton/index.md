@@ -7,10 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Novela gráfica
+- Comics
 - No Ficción
 - Memorias
-- Comics
 - Canada
 - Biografía
 - Club de lectura
@@ -43,7 +44,7 @@ La habilidad natural de Beaton para dibujar se muestra con toda su fuerza cuando
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8467960485 / 9788467960488
 - **Publicación original:** 2023-02-17
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Comics](/tags/comics/), [Canada](/tags/canada/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Canada](/tags/canada/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/)
 - **Lugares:** Cape Breton Island, Nova Scotia (Canada), Alberta (Canada), Victoria, British Columbia (Canada), Canada, Nova Scotia (Canada)
 - **Premios ganados:** Doug Wright Award (2023), Will Eisner Comic Industry Awards (2023), CBC Canada Reads (2023), OLA Evergreen Award (2023)
 - **Nominaciones:** Goodreads Choice Award (2022), Brooklyn Public Library Literary Prize (2023), Readers' Favorite Graphic Novels & Comics (2022)

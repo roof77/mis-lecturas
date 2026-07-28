@@ -7,6 +7,8 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
+- Comics
 toc: false
 autores:
 - J.M. DeMatteis
@@ -38,6 +40,7 @@ Autores: J. M. DeMatteis, Bill Mantlo, Mike Carlin, Ron Frenz, Herb Trimpe, Paul
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490248451 / 9788490248454
 - **Publicación original:** 2014-08-01
+- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Capitán América: La muerte de Cráneo Rojo (Captain America Marvel Gold)](https://www.goodreads.com/book/show/26853456-capit-n-am-rica)
 
 ## Mi lectura

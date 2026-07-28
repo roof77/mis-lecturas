@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Novela gráfica
-- No Ficción
 - Comics
+- Novela gráfica
+- Comics
+- No Ficción
 - Películas
 - Historia
 - Arte
@@ -42,7 +43,7 @@ Este libro es un viaje apasionante por la historia del cine en siete  capítulos
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8416709459 / 9788416709458
 - **Publicación original:** 2017-02-02
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [No Ficción](/tags/no-ficcion/), [Comics](/tags/comics/), [Películas](/tags/peliculas/), [Historia](/tags/historia/), [Arte](/tags/arte/), [Adultos](/tags/adultos/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Películas](/tags/peliculas/), [Historia](/tags/historia/), [Arte](/tags/arte/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Filmish: Un viaje gráfico por el cine](https://www.goodreads.com/book/show/40171304-filmish)
 
 ## Mi lectura

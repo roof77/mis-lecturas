@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Manga
-- Japón
 - Comics
+- Manga
+- Comics
+- Japón
 - Novela gráfica
 - Comida
 - Relatos
@@ -44,7 +45,7 @@ Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el ba
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 841757591X / 9788417575915
 - **Publicación original:** 2022-04-25
-- **Géneros:** [Manga](/tags/manga/), [Japón](/tags/japon/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Comida](/tags/comida/), [Relatos](/tags/relatos/), [Literatura japanesa](/tags/literatura-japanesa/), [Cocina](/tags/cocina/)
+- **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Comida](/tags/comida/), [Relatos](/tags/relatos/), [Literatura japanesa](/tags/literatura-japanesa/), [Cocina](/tags/cocina/)
 - **Ficha en Goodreads:** [La cantina de medianoche 3](https://www.goodreads.com/book/show/55316119-la-cantina-de-medianoche-3)
 
 ## Mi lectura

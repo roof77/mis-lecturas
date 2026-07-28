@@ -7,10 +7,11 @@ authors:
 - roof77
 tags:
 - Lecturas
+- Comics
 - Novela gráfica
+- Comics
 - LGTBIQ+
 - Jovenes adultos
-- Comics
 - Romance
 - Queer
 - Contemporaneo
@@ -49,7 +50,7 @@ Mariko Tamaki y Rosemary Valero O’Conell fraguan una historia de amor efervesc
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8417442456 / 9788417442453
 - **Publicación original:** 2020-03-19
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Lesbianismo](/tags/lesbianismo/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Lesbianismo](/tags/lesbianismo/)
 - **Personajes:** Freddy Riley, Laura Dean
 - **Lugares:** Berkeley, California (United States), California (United States)
 - **Premios ganados:** Walter Dean Myers Award (2020), VLA Graphic Novel Diversity Award (2019), Prism Award (2020)

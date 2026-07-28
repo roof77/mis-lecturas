@@ -7,9 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Novela gráfica
-- Jovenes adultos
 - Comics
+- Novela gráfica
+- Comics
+- Jovenes adultos
 - Ficción
 - Contemporaneo
 - Ficción realista
@@ -48,7 +49,7 @@ En Aquel verano, las primas Mariko y Jillian Tamaki, autoras de la galardonada S
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8415724721 / 9788415724728
 - **Publicación original:** 2014-07-01
-- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Jovenes adultos](/tags/jovenes-adultos/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción realista](/tags/ficcion-realista/), [Coming of age](/tags/coming-of-age/), [Libros prohibidos](/tags/libros-prohibidos/), [Adolescencia](/tags/adolescencia/)
+- **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción realista](/tags/ficcion-realista/), [Coming of age](/tags/coming-of-age/), [Libros prohibidos](/tags/libros-prohibidos/), [Adolescencia](/tags/adolescencia/)
 - **Lugares:** Ontario (Canada), Canada
 - **Premios ganados:** Governor General's Literary Awards / Prix littéraires du Gouverneur général (2014), Gran Guinigi (2014), Will Eisner Comic Industry Awards (2015)
 - **Nominaciones:** Caldecott Medal (2015), Harvey Awards (2015), Michael L. Printz Award (2015), Goodreads Choice Award (2014), Readers' Favorite Graphic Novels & Comics (2014)
