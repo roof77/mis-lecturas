@@ -2,7 +2,7 @@
 title: Insomniacs After School, vol. 10
 summary: A medida que se acerca fin de año, Isaki recobra la salud. Ganta y ella pasan su primer invierno juntos. En la víspera
   de Año Nuevo, la profesora Kurashiki…
-date: '2026-08-06T23:59:56'
+date: '2026-08-06T23:59:55'
 authors:
 - roof77
 tags:

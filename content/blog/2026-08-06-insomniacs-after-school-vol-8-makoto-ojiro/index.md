@@ -2,7 +2,7 @@
 title: Insomniacs After School, vol. 8
 summary: Después de la carrera de clubes, Isaki empieza a emitir por radio y se decide a hablar de su enfermedad. Los dos
   miembros del club de astronomía harán un…
-date: '2026-08-06T23:59:54'
+date: '2026-08-06T23:59:53'
 authors:
 - roof77
 tags:
