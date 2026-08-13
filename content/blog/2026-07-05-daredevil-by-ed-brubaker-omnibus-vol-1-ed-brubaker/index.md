@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Marvel
 - Novela gráfica
 - Ficción
