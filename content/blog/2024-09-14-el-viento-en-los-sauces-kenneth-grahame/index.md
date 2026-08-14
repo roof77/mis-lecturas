@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11503050-el-viento-en-los-sauces)'
 sexo_autor: V
 paginas: 313
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ El río donde viven Topo, Ratón, Tejón, Sapo, las nutrias y los demás habitan
 
 - **Inicio:** 2024/09/10
 - **Fin:** 2024/09/14
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

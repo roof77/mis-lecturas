@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59111053-cosas-peque-as-como-esas)'
 sexo_autor: H
 paginas: 83
-nota: '4'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Claire Keegan, una de las voces más potentes de la literatura irlandesa contemp
 
 - **Inicio:** 2025/07/30
 - **Fin:** 2025/07/31
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Imprescindible

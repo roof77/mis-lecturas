@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15769086-maison-ikkoku-tomo-5)'
 sexo_autor: H
 paginas: 344
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 
 - **Inicio:** 2024/06/16
 - **Fin:** 2024/06/21
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

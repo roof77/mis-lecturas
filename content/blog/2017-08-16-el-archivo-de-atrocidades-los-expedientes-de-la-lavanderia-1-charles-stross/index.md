@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35287062-el-archivo-de-atrocidades)'
 sexo_autor: V
 paginas: 410
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -64,4 +64,4 @@ INCLUYE LA NOVELA CORTA GANADORA DEL PREMIO HUGO "LA JUNGLA DE CEMENTO".
 
 - **Inicio:** 2017/08/11
 - **Fin:** 2017/08/16
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

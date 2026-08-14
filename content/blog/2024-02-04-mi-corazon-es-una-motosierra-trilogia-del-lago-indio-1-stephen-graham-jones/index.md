@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/200412496-mi-coraz-n-es-una-motosierra)'
 sexo_autor: V
 paginas: 464
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Jade Daniels es una adolescente fanática de los slashers que vive en Proofrock,
 
 - **Inicio:** 2024/01/24
 - **Fin:** 2024/02/04
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

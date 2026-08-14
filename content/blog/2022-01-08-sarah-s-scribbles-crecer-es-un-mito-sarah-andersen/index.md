@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31927662-sarah-s-scribbles)'
 sexo_autor: H
 paginas: 109
-nota: 4,5
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ Sarah Andersen es una ilustradora de Brooklyn. Este libro NO es autobiográfico.
 
 - **Inicio:** 2022/01/08
 - **Fin:** 2022/01/08
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Recomendable

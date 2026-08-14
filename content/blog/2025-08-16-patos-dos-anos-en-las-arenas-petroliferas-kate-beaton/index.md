@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/122495460-patos-dos-a-os-en-las-arenas-petrol-feras)'
 sexo_autor: H
 paginas: 436
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ La habilidad natural de Beaton para dibujar se muestra con toda su fuerza cuando
 
 - **Inicio:** 2025/08/12
 - **Fin:** 2025/08/16
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

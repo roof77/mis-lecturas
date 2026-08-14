@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31540509-hogwarts)'
 sexo_autor: H
 paginas: 90
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Con Hogwarts: una guía incompleta y poco fiable viajarás al Colegio Hogwarts d
 
 - **Inicio:** 2016/12/30
 - **Fin:** 2016/12/30
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

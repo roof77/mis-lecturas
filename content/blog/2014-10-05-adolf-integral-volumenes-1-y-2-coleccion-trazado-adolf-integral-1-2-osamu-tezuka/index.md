@@ -23,7 +23,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35833660-adolf-integral-vol-menes-1-y-2)'
 sexo_autor: V
 paginas: 1200
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -47,4 +47,4 @@ Adolf es la historia de tres personas llamadas Adolf: un niño judío que viven 
 
 - **Inicio:** 2014/09/28
 - **Fin:** 2014/10/05
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

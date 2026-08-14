@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60373913-supersaurio)'
 sexo_autor: H
 paginas: 320
-nota: 4,25
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Se llama Meryem, pero nadie escribe bien su nombre. Tiene veinticinco años y ac
 
 - **Inicio:** 2022/12/29
 - **Fin:** 2023/01/10
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Muy recomendable

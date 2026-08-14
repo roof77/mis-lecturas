@@ -24,7 +24,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52762972-primavera-en-viena)'
 sexo_autor: H
 paginas: 184
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ Pero no todo en la vibrante capital austriaca se reduce a las tribulaciones de M
 
 - **Inicio:** 2025/01/26
 - **Fin:** 2025/01/28
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

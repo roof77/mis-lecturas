@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18768528-servicio-completo)'
 sexo_autor: V
 paginas: 328
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ La saludable imagen de América difundida por Hollywood en los años 40, 50 y 60
 
 - **Inicio:** 2020/10/07
 - **Fin:** 2020/10/12
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

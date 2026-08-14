@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34993083-ropa-m-sica-chicos)'
 sexo_autor: V
 paginas: 535
-nota: '2'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Como los viejos elepés, este libro tiene una cara A y una cara B. La primera po
 
 - **Inicio:** 2019/04/14
 - **Fin:** 2019/04/24
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Muy bien

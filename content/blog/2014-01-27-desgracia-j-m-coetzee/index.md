@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/896930.Desgracia)'
 sexo_autor: V
 paginas: 272
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Allá¬, en una sociedad donde los códigos de comportamiento, sean de blancos o
 
 - **Inicio:** 2014/01/25
 - **Fin:** 2014/01/27
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

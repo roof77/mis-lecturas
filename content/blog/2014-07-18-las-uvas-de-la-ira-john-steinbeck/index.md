@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6598945-las-uvas-de-la-ira)'
 sexo_autor: V
 paginas: 688
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ John Steinbeck (1902-1968) realizó diversos oficios (peón agrícola, empleado 
 
 - **Inicio:** 2014/07/11
 - **Fin:** 2014/07/18
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

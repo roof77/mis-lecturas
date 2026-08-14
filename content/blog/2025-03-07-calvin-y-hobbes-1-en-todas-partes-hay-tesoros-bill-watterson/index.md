@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54355778-calvin-y-hobbes-1---en-todas-partes-hay-tesoros)'
 sexo_autor: V
 paginas: 176
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -42,4 +42,4 @@ Relanzamiento con nuevo diseño de la serie Calvin y Hobbes, uno de los grandes 
 
 - **Inicio:** 2025/03/05
 - **Fin:** 2025/03/07
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

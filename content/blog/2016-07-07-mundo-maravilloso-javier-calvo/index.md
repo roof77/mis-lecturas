@@ -24,7 +24,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5227421-mundo-maravilloso)'
 sexo_autor: V
 paginas: 550
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ La historia de Camber Sands. Una historia de tres hermanos -el Club No Nos Gusta
 
 - **Inicio:** 2016/06/26
 - **Fin:** 2016/07/07
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

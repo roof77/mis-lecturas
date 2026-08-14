@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/215365815-en-ese-infinito-nuestro-final)'
 sexo_autor: H
 paginas: 416
-nota: 3,75
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Esta obra ganó el premio Bram Stoker a mejor antología de 2021.
 
 - **Inicio:** 2024/09/18
 - **Fin:** 2024/10/04
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Muy bien

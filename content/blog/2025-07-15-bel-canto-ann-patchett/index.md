@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6270616-bel-canto)'
 sexo_autor: H
 paginas: 381
-nota: 4,75
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ En algún lugar de Sudamérica, el vicepresidente de la nación celebra en su re
 
 - **Inicio:** 2025/07/06
 - **Fin:** 2025/07/15
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Muy recomendable

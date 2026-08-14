@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/238639933-antes-viv-amos-aqu)'
 sexo_autor: V
 paginas: 303
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Poco a poco, Eve empieza a sentir que las cosas a su alrededor están cambiando.
 
 - **Inicio:** 2025/11/10
 - **Fin:** 2025/11/20
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

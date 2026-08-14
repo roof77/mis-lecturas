@@ -19,7 +19,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21654488-m-sica-moderna)'
 sexo_autor: V
 paginas: 111
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -41,4 +41,4 @@ Retrato vivo, emotivo y directo (la obra fue escrita casi en el mismo momento en
 
 - **Inicio:** 2014/04/21
 - **Fin:** 2014/04/23
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

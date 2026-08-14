@@ -23,7 +23,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59227328-villanueva)'
 sexo_autor: V
 paginas: 157
-nota: 3,75
+nota: Bien
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ Villanueva —el topónimo más común de España, con 132 localidades homónima
 
 - **Inicio:** 2024/08/19
 - **Fin:** 2024/08/20
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Bien

@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17865068-the-crow)'
 sexo_autor: V
 paginas: 248
-nota: '3'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Nacida del dolor experimentado por su creador, J. O'Barr, ante la pérdida de un
 
 - **Inicio:** 2025/03/31
 - **Fin:** 2025/04/06
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Muy bien

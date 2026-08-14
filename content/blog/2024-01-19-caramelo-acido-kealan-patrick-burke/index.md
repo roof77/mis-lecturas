@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/194947181-caramelo-cido)'
 sexo_autor: V
 paginas: 146
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Lo que nadie sabe es que Phil es un prisionero, y que hasta hace unas semanas y 
 
 - **Inicio:** 2024/01/17
 - **Fin:** 2024/01/19
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

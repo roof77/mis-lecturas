@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13595302-canci-n-de-rachel)'
 sexo_autor: V
 paginas: 148
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -43,4 +43,4 @@ Canción de Rachel cuenta la azarosa existencia de una vedette durante los rutil
 
 - **Inicio:** 2015/06/28
 - **Fin:** 2015/06/29
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

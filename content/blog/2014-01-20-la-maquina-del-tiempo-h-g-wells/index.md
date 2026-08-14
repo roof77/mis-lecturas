@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49903411-la-m-quina-del-tiempo)'
 sexo_autor: V
 paginas: 224
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ La máquina del tiempo fue la primera obra de éxito de G. H. Wells y pionera en
 
 - **Inicio:** 2014/01/18
 - **Fin:** 2014/01/20
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

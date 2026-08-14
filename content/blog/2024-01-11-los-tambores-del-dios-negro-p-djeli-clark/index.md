@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/134961032-los-tambores-del-dios-negro)'
 sexo_autor: V
 paginas: 132
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ P. Djèlí Clark es un autor multipremiado y una de las más grandes voces de la
 
 - **Inicio:** 2024/01/08
 - **Fin:** 2024/01/11
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

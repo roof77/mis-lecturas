@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51098395-legi-n)'
 sexo_autor: V
 paginas: 349
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -60,4 +60,4 @@ Incluye Legion (ya publicado por Fantascy en 2014), Legión: A flor de piel, nun
 
 - **Inicio:** 2022/03/22
 - **Fin:** 2022/03/28
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

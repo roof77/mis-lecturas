@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7704643-bartleby-el-escribiente-y-otros-cuentos)'
 sexo_autor: V
 paginas: 0
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ The tale is one of the final works of fiction published by Melville before, slip
 
 - **Inicio:** 2014/03/16
 - **Fin:** 2014/03/16
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

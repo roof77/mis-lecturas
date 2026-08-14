@@ -19,7 +19,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16096920-todos-los-besos-del-mundo)'
 sexo_autor: V
 paginas: 144
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -43,4 +43,4 @@ Los cuentos de Félix Romeo nos hieren y nos sanan como si fueran a la vez venen
 
 - **Inicio:** 2014/04/27
 - **Fin:** 2014/04/27
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

@@ -31,7 +31,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/10824374-el-gourmet-solitario)'
 sexo_autor: V
 paginas: 200
-nota: '3'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ A través de la mirada curiosa de este viajero gastronómico, los autores, Jiro 
 
 - **Inicio:** 2024/07/22
 - **Fin:** 2024/07/23
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Bien

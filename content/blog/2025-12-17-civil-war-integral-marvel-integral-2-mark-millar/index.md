@@ -23,7 +23,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/27800660-civil-war)'
 sexo_autor: V
 paginas: 280
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +47,4 @@ Rare book
 
 - **Inicio:** 2025/12/15
 - **Fin:** 2025/12/17
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6725527-guardias-guardias)'
 sexo_autor: V
 paginas: 395
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Por otra parte, en las montañas, el rey de una mina de enanos decide enviar a s
 
 - **Inicio:** 2025/08/01
 - **Fin:** 2025/08/11
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

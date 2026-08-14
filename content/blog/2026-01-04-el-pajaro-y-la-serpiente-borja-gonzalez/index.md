@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/172870462-el-p-jaro-y-la-serpiente)'
 sexo_autor: V
 paginas: 192
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -65,4 +65,4 @@ Fran J. Ortiz, Abandonad toda esperanza
 
 - **Inicio:** 2025/12/31
 - **Fin:** 2026/01/04
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

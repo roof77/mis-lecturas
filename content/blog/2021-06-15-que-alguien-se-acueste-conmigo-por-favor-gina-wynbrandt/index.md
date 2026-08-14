@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34113811-que-alguien-se-acueste-conmigo-por-favor)'
 sexo_autor: H
 paginas: 144
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ Tras plantar el campamento base en un territorio surreal y desternillante donde 
 
 - **Inicio:** 2021/06/15
 - **Fin:** 2021/06/15
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

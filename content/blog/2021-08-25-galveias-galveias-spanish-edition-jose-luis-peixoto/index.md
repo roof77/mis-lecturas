@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32332855-galveias-galveias)'
 sexo_autor: V
 paginas: 215
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ ENGLISH DESCRIPTIONOn a regular January evening, the universe jolts the small to
 
 - **Inicio:** 2021/08/22
 - **Fin:** 2021/08/25
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

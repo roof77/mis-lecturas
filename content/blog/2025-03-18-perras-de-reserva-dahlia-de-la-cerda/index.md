@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61932609-perras-de-reserva)'
 sexo_autor: H
 paginas: 144
-nota: 4,25
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Y es que las protagonistas de Perras de reserva comparten las dificultades y pel
 
 - **Inicio:** 2025/03/16
 - **Fin:** 2025/03/18
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Muy bien

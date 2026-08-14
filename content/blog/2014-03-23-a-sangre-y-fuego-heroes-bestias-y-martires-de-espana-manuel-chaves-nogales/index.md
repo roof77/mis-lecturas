@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33852769-a-sangre-y-fuego)'
 sexo_autor: V
 paginas: 316
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Los relatos que componen este libro están considerados por muchos como lo mejor
 
 - **Inicio:** 2014/03/20
 - **Fin:** 2014/03/23
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

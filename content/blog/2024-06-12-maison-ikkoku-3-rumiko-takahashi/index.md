@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345406.Maison_Ikkoku_3)'
 sexo_autor: H
 paginas: 340
-nota: 3,75
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 
 - **Inicio:** 2024/06/09
 - **Fin:** 2024/06/12
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Recomendable

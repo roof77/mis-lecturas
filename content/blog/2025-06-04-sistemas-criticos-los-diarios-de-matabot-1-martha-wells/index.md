@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43573614-sistemas-cr-ticos)'
 sexo_autor: H
 paginas: 150
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Un equipo de científicos lleva a cabo pruebas en la superficie de un planeta le
 
 - **Inicio:** 2025/06/02
 - **Fin:** 2025/06/04
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

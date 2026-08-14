@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56644361-hamnet)'
 sexo_autor: H
 paginas: 352
-nota: 4,5
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Partiendo de la historia familiar de Shakespeare, Maggie O’Farrell transita en
 
 - **Inicio:** 2021/05/20
 - **Fin:** 2021/05/26
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Recomendable

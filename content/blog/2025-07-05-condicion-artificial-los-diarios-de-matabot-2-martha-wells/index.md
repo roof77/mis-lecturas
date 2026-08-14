@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50839395-condici-n-artificial)'
 sexo_autor: H
 paginas: 158
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -60,4 +60,4 @@ Sus descubrimientos harán que su forma de pensar cambie para siempre.
 
 - **Inicio:** 2025/06/30
 - **Fin:** 2025/07/05
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

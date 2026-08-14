@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54224000-las-biuty-queens)'
 sexo_autor: H
 paginas: 176
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ On every page, Iván Monalisa's unique narrative talent is on display as he artf
 
 - **Inicio:** 2021/09/22
 - **Fin:** 2021/09/23
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/395665.Paradero_desconocido)'
 sexo_autor: H
 paginas: 82
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Publicado en 1938 y acogido como una obra maestra, ésta es la historia de dos a
 
 - **Inicio:** 2017/03/11
 - **Fin:** 2017/03/11
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

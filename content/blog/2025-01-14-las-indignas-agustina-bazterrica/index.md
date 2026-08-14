@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/198386595-las-indignas)'
 sexo_autor: H
 paginas: 192
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Narrado a través de las anotaciones dispersas del diario en el que la protagoni
 
 - **Inicio:** 2025/01/03
 - **Fin:** 2025/01/14
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

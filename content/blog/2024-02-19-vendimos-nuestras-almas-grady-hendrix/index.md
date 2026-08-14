@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123509137-vendimos-nuestras-almas)'
 sexo_autor: V
 paginas: 320
-nota: 4,5
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Kris se lanza a la carretera con la esperanza de reunir a Dürt Würk y enfrenta
 
 - **Inicio:** 2024/02/14
 - **Fin:** 2024/02/19
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Recomendable

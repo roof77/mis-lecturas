@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60728716-pechos-y-huevos-seix-barral-biblioteca-formentor)'
 sexo_autor: H
 paginas: 496
-nota: 3,75
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Reunidas en un barrio de clase trabajadora en Tokio, pasarán juntas unos días 
 
 - **Inicio:** 2024/10/23
 - **Fin:** 2024/11/21
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Muy bien

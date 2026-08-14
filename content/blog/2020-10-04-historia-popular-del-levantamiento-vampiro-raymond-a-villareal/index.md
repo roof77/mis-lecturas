@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50058049-historia-popular-del-levantamiento-vampiro)'
 sexo_autor: V
 paginas: 512
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ A la manera de Guerra Mundial Z, esta es la escalofriante crónica, narrada a tr
 
 - **Inicio:** 2020/09/17
 - **Fin:** 2020/10/04
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

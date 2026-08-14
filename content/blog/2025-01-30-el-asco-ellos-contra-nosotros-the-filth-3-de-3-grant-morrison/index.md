@@ -22,7 +22,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13615689-el-asco)'
 sexo_autor: V
 paginas: 121
-nota: 3,25
+nota: Bien
 ---
 
 ## Sinopsis
@@ -45,4 +45,4 @@ Volumen que traduce los números 9 al 13 del título estadounidense The Filth.
 
 - **Inicio:** 2025/01/30
 - **Fin:** 2025/01/30
-- **Calificación:** ★★★☆☆ (3,25/5)
+- **Calificación:** Bien

@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54919980-la-librer-a-del-se-or-livingstone)'
 sexo_autor: H
 paginas: 288
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ La joven acepta y poco a poco va descubriendo el encanto de esta pequeña librer
 
 - **Inicio:** 2022/12/30
 - **Fin:** 2022/01/04
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

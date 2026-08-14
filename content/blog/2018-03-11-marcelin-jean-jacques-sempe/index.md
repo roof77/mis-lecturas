@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29769609-marcel-n)'
 sexo_autor: V
 paginas: 127
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -48,4 +48,4 @@ Marcelín es un niño como cualquier otro, pero padece una curiosa molestia: se 
 
 - **Inicio:** 2018/03/11
 - **Fin:** 2018/03/11
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

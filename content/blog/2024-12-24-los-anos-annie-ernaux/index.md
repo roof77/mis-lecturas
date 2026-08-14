@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49394460-los-a-os)'
 sexo_autor: H
 paginas: 322
-nota: '3'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ A través de fotos y recuerdos dejados por los acontecimientos, las palabras y l
 
 - **Inicio:** 2024/12/15
 - **Fin:** 2024/12/24
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Bien

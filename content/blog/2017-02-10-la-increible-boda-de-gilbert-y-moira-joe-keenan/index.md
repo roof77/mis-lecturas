@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30986988-la-incre-ble-boda-de-gilbert-y-moira)'
 sexo_autor: V
 paginas: 376
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Ambientada en el Nueva York de finales de los ochenta, La increíble boda de Gil
 
 - **Inicio:** 2017/02/02
 - **Fin:** 2017/02/10
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

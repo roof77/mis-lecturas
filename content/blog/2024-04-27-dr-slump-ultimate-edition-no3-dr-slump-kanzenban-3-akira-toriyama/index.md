@@ -21,7 +21,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13551495-dr-slump-ultimate-edition-n-3)'
 sexo_autor: V
 paginas: 241
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ Dr. Slump es la obra más delirante de Akira Toriyama, el creador de Dragon Ball
 
 - **Inicio:** 2024/04/26
 - **Fin:** 2024/04/27
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12593546-estela-plateada)'
 sexo_autor: V
 paginas: 80
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Dibujo: Moebius
 
 - **Inicio:** 2025/03/27
 - **Fin:** 2025/03/27
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

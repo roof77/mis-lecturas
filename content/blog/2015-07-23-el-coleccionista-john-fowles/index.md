@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9812822-el-coleccionista)'
 sexo_autor: V
 paginas: 389
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Frederick es un solitario burócrata municipal que colecciona mariposas. Miranda
 
 - **Inicio:** 2015/07/16
 - **Fin:** 2015/07/23
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

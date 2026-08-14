@@ -31,7 +31,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1132694.Enormes_cambios_de_ltimo_minuto)'
 sexo_autor: H
 paginas: 160
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ In this collection of short stories, originally published in 1974, Grace Paley "
 
 - **Inicio:** 2019/11/12
 - **Fin:** 2019/11/14
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

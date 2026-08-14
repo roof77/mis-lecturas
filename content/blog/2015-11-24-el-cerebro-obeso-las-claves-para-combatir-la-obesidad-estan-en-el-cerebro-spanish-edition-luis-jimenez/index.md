@@ -18,7 +18,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23960951-el-cerebro-obeso)'
 sexo_autor: V
 paginas: 257
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -38,4 +38,4 @@ La obesidad crece imparable y sus efectos negativos sobre la salud también. Las
 
 - **Inicio:** 2015/11/10
 - **Fin:** 2015/11/24
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/229262898-y-los-hombres-qu)'
 sexo_autor: H
 paginas: 280
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Con la misma perspicacia, lucidez y desvergüenza con las que ha venido abordand
 
 - **Inicio:** 2025/06/05
 - **Fin:** 2025/06/18
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

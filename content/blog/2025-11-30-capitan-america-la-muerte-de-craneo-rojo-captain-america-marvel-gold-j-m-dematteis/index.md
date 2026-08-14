@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26853456-capit-n-am-rica)'
 sexo_autor: V
 paginas: 336
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +47,4 @@ Autores: J. M. DeMatteis, Bill Mantlo, Mike Carlin, Ron Frenz, Herb Trimpe, Paul
 
 - **Inicio:** 2025/11/25
 - **Fin:** 2025/11/30
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

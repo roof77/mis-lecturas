@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60713677-el-c-sped-de-manzanilla)'
 sexo_autor: H
 paginas: 464
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ The Camomile Lawn (1984)
 
 - **Inicio:** 2022/07/06
 - **Fin:** 2022/07/12
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

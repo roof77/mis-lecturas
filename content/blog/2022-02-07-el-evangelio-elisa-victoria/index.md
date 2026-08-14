@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57249196-el-evangelio)'
 sexo_autor: H
 paginas: 304
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ La autora del éxito Vozdevieja, Elisa Victoria, se consolida con El Evangelio c
 
 - **Inicio:** 2022/01/18
 - **Fin:** 2022/02/07
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

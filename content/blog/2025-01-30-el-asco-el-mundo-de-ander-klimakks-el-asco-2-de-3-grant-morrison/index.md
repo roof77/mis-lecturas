@@ -22,7 +22,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13484026-el-asco)'
 sexo_autor: V
 paginas: 121
-nota: 3,25
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -45,4 +45,4 @@ Segundo tomo de tres.
 
 - **Inicio:** 2025/01/29
 - **Fin:** 2025/01/30
-- **Calificación:** ★★★☆☆ (3,25/5)
+- **Calificación:** Muy bien

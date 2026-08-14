@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29914913-la-maldici-n-de-lono)'
 sexo_autor: V
 paginas: 208
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ En 1980, Hunter S. Thompson recibe una propuesta de una revista desconocida, lla
 
 - **Inicio:** 2018/05/15
 - **Fin:** 2018/05/16
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

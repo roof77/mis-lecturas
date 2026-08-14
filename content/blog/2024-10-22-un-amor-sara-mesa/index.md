@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55170929-un-amor)'
 sexo_autor: H
 paginas: 143
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Sara Mesa vuelve a confrontar al lector con los límites de su propia moral en u
 
 - **Inicio:** 2024/10/18
 - **Fin:** 2024/10/22
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

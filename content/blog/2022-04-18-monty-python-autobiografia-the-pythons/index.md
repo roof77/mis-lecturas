@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59834525-monty-python-autobiograf-a)'
 sexo_autor: V
 paginas: 608
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ He aquí, en sus propias palabras, y con furtivos extractos de sus diarios, la h
 
 - **Inicio:** 2022/03/31
 - **Fin:** 2022/04/18
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

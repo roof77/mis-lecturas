@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58111092-la-maldici-n-del-tranv-a-015)'
 sexo_autor: V
 paginas: 165
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -62,4 +62,4 @@ Esta edición cuenta con un posfacio a cargo de Cristina Jurado y varios detalle
 
 - **Inicio:** 2021/07/25
 - **Fin:** 2021/07/29
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

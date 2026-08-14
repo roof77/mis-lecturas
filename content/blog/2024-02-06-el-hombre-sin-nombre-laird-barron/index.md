@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/204376061-el-hombre-sin-nombre)'
 sexo_autor: V
 paginas: 128
-nota: 1,75
+nota: No es para mi
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Nanashi (nombre que significa anónimo o sin nombre) ha llevado una vida de viol
 
 - **Inicio:** 2024/02/04
 - **Fin:** 2024/02/06
-- **Calificación:** ★★☆☆☆ (1,75/5)
+- **Calificación:** No es para mi

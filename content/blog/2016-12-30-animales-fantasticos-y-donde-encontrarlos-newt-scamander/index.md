@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2490849.Animales_fant_sticos_y_d_nde_encontrarlos)'
 sexo_autor: H
 paginas: 90
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Lo que se origine de la venta de este libro se destinará a Comic Relief, lo que
 
 - **Inicio:** 2016/12/30
 - **Fin:** 2016/12/30
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25393346-las-primeras-quince-vidas-de-harry-august)'
 sexo_autor: H
 paginas: 544
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -61,4 +61,4 @@ Esta es la historia de lo Harry August hace a continuación (y lo que hizo antes
 
 - **Inicio:** 2018/09/20
 - **Fin:** 2018/09/27
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

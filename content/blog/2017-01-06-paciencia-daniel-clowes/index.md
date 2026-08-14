@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29243251-paciencia)'
 sexo_autor: V
 paginas: 180
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Pero Paciencia es también una obra significativamente distinta de sus anteriore
 
 - **Inicio:** 2017/01/06
 - **Fin:** 2017/01/06
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

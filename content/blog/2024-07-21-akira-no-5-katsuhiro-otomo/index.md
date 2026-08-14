@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15780676-akira-no-5)'
 sexo_autor: V
 paginas: 416
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Neo-Tokio yace en ruinas. De los escombros ha surgido un imperio poblado por fan
 
 - **Inicio:** 2024/07/21
 - **Fin:** 2024/07/21
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

@@ -24,7 +24,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61930624-tostonazo)'
 sexo_autor: V
 paginas: 192
-nota: 4,75
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ Un luminoso canto a la vida contra el aburrimiento. Leer esta novela es el mejor
 
 - **Inicio:** 2022/10/16
 - **Fin:** 2022/10/19
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Muy recomendable

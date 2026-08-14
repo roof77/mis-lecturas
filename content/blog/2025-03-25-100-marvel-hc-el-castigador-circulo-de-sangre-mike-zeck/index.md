@@ -23,7 +23,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39101207-100-marvel-hc-el-castigador)'
 sexo_autor: V
 paginas: 312
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ nota: 4,25
 
 - **Inicio:** 2025/03/24
 - **Fin:** 2025/03/25
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

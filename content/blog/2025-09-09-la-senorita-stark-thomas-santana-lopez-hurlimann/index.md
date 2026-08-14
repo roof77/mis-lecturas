@@ -18,7 +18,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/107636876-la-se-orita-stark)'
 sexo_autor: V
 paginas: 0
-nota: 3,25
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -39,4 +39,4 @@ Rare book
 
 - **Inicio:** 2025/08/27
 - **Fin:** 2025/09/09
-- **Calificación:** ★★★☆☆ (3,25/5)
+- **Calificación:** Muy bien

@@ -22,7 +22,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/31199254-relatos-terror-ficos-1)'
 sexo_autor: V
 paginas: 160
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -47,4 +47,4 @@ Sobradamente conocido gracias a obras como Uzumaki, Black Paradox o Gyo, Junji I
 
 - **Inicio:** 2024/07/02
 - **Fin:** 2024/07/04
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

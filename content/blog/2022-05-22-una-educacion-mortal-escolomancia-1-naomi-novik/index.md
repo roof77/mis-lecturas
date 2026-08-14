@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55189714-una-educacion-mortal)'
 sexo_autor: H
 paginas: 352
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -60,4 +60,4 @@ Ingeniosa, mordaz y divertida, y también con un profundo sentido de la justicia
 
 - **Inicio:** 2022/05/17
 - **Fin:** 2022/05/22
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

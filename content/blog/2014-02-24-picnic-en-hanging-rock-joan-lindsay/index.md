@@ -31,7 +31,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9738320-picnic-en-hanging-rock)'
 sexo_autor: H
 paginas: 307
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Febrero de 1900. Un grupo de alumnas del selecto colegio Appleyard para señorit
 
 - **Inicio:** 2014/02/20
 - **Fin:** 2014/02/24
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

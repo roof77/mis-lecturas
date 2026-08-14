@@ -21,7 +21,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32992334-philemon-integral-02)'
 sexo_autor: V
 paginas: 288
-nota: 4,75
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ Artífice de un imaginario evocador de las grandes obras de Lewis Carroll, Jonat
 
 - **Inicio:** 2025/02/19
 - **Fin:** 2025/02/21
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Imprescindible

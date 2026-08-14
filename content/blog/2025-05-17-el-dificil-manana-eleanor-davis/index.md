@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55293267-el-dif-cil-ma-ana)'
 sexo_autor: H
 paginas: 152
-nota: 3,5
+nota: Bien
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Told with tenderness and care in an undefined near future, Eleanor Davis's The H
 
 - **Inicio:** 2025/05/16
 - **Fin:** 2025/05/17
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Bien

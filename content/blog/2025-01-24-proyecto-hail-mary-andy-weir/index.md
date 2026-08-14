@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57299481-proyecto-hail-mary)'
 sexo_autor: V
 paginas: 543
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -76,4 +76,4 @@ Proyecto Hail Mary, una aventura interestelar irresistible como solo Andy Weir p
 
 - **Inicio:** 2025/01/16
 - **Fin:** 2025/01/24
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

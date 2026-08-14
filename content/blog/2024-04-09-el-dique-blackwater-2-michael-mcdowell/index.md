@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202795005-el-dique)'
 sexo_autor: V
 paginas: 272
-nota: 3,5
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Mientras Perdido se recupera de la inundación, se propone la construcción de u
 
 - **Inicio:** 2024/04/03
 - **Fin:** 2024/04/09
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Recomendable

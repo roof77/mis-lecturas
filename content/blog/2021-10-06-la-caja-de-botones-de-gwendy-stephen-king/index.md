@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41210798-la-caja-de-botones-de-gwendy)'
 sexo_autor: V
 paginas: 130
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Pero un día, al llegar a lo alto, mientras recupera el aliento con la cara roja
 
 - **Inicio:** 2021/10/05
 - **Fin:** 2021/10/06
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

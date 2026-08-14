@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/218507754-la-cinta-duncan)'
 sexo_autor: V
 paginas: 160
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Robby y sus amigos solo quieren descargarse algo de porno un viernes por la noch
 
 - **Inicio:** 2024/12/10
 - **Fin:** 2024/12/13
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

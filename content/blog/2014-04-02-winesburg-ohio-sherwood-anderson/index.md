@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9813860-winesburg-ohio)'
 sexo_autor: V
 paginas: 256
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ El joven George Willard, reportero del periódico local, observa la vida de los 
 
 - **Inicio:** 2014/04/01
 - **Fin:** 2014/04/02
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

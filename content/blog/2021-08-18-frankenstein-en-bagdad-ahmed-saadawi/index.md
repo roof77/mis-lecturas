@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49988313-frankenstein-en-bagdad)'
 sexo_autor: V
 paginas: 328
-nota: 4,75
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Ahmed Saadawi dibuja una iluminadora sátira del conflicto iraquí y de la esper
 
 - **Inicio:** 2021/08/15
 - **Fin:** 2021/08/18
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Muy recomendable

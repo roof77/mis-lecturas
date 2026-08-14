@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49673394-el-marido-de-mi-hermano-vol-2)'
 sexo_autor: V
 paginas: 360
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ El regreso a Canadá se acerca... ¡Pero a Mike aún le quedan un montón de cos
 
 - **Inicio:** 2025/01/30
 - **Fin:** 2025/01/31
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

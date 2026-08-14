@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1187426.Barrio_Lejano_Tomo_2_Nouvelle_Manga_)'
 sexo_autor: V
 paginas: 200
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Hiroshi, un padre de familia de 48 años, se siente transportado al adolescente 
 
 - **Inicio:** 2025/03/19
 - **Fin:** 2025/03/19
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

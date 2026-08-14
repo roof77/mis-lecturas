@@ -31,7 +31,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61476.El_antrop_logo_inocente)'
 sexo_autor: V
 paginas: 240
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Después de esta experiencia, el autor se incorporó al Museo Británico, cuyo d
 
 - **Inicio:** 2014/07/31
 - **Fin:** 2014/08/05
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

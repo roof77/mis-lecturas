@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18872663-las-chicas-de-campo)'
 sexo_autor: H
 paginas: 304
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -61,4 +61,4 @@ Estamos, sin duda, ante una extraordinaria novela, iluminada tanto por el humor 
 
 - **Inicio:** 2014/03/14
 - **Fin:** 2014/03/16
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

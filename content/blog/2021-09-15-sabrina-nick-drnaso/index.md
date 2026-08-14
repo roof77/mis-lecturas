@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40211405-sabrina)'
 sexo_autor: V
 paginas: 208
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ A landmark graphic novel, already hailed as one of the most exciting and moving 
 
 - **Inicio:** 2021/09/08
 - **Fin:** 2021/09/15
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

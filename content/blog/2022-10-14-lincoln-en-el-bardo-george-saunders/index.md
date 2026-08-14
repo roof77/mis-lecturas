@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39287181-lincoln-en-el-bardo)'
 sexo_autor: V
 paginas: 440
-nota: 4,5
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ A partir de este hecho histórico, Saunders despliega una historia inolvidable s
 
 - **Inicio:** 2022/10/10
 - **Fin:** 2022/10/14
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Imprescindible

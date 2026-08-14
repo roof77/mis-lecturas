@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/75543287-atrevidas)'
 sexo_autor: H
 paginas: 312
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Frauen machen, was sie wollen! Ob Rapperin oder Apachenkriegerin, Schöpferin de
 
 - **Inicio:** 2024/05/04
 - **Fin:** 2024/05/07
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

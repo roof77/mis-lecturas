@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39690043-el-tapiz-amarillo)'
 sexo_autor: H
 paginas: 40
-nota: 4,5
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ Charlotte Anna Perkins , fue una intelectual norteamericana multidisciplinar, mu
 
 - **Inicio:** 2023/06/12
 - **Fin:** 2023/06/12
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Imprescindible

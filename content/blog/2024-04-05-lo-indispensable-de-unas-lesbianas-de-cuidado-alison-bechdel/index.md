@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25652453-lo-indispensable-de-unas-lesbianas-de-cuidado)'
 sexo_autor: H
 paginas: 404
-nota: 4,5
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ nota: 4,5
 
 - **Inicio:** 2024/03/10
 - **Fin:** 2024/04/05
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Imprescindible

@@ -19,7 +19,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13198221-lili-marleen)'
 sexo_autor: H
 paginas: 216
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -44,4 +44,4 @@ Cuando el compositor nazi Norbert Schultze puso música a un poema escrito en la
 
 - **Inicio:** 2014/07/10
 - **Fin:** 2014/07/11
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

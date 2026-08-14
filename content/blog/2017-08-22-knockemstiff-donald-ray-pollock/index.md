@@ -31,7 +31,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11227453-knockemstiff)'
 sexo_autor: V
 paginas: 304
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Bienvenidos a Knockemstiff, Ohio. Una hondonada en mitad de ninguna parte a la q
 
 - **Inicio:** 2017/08/19
 - **Fin:** 2017/08/22
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

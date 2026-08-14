@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11253835-solaris)'
 sexo_autor: V
 paginas: 292
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Impedimenta se complace en presentar, por primera vez en traducción directa del
 
 - **Inicio:** 2015/02/15
 - **Fin:** 2015/02/17
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

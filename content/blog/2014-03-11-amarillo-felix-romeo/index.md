@@ -19,7 +19,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6845058-amarillo)'
 sexo_autor: V
 paginas: 155
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -40,4 +40,4 @@ El 27 de febrero de 1992 Chusé Izuel se tira por el balcón. Años después, F�
 
 - **Inicio:** 2014/03/10
 - **Fin:** 2014/03/11
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

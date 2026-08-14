@@ -22,7 +22,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43580250-educar-sin-perder-los-nervios)'
 sexo_autor: H
 paginas: 391
-nota: '3'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -48,4 +48,4 @@ La guía emocional para transformar tu vida familiar con respeto y empatía.
 
 - **Inicio:** 2025/01/29
 - **Fin:** 2025/02/19
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Bien

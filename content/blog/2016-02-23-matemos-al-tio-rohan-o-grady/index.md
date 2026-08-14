@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23483122-matemos-al-t-o)'
 sexo_autor: H
 paginas: 320
-nota: '5'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Una lectura deliciosamente perversa. Oscura y mortalmente ingeniosa Matemos al t
 
 - **Inicio:** 2016/02/21
 - **Fin:** 2016/02/23
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Recomendable

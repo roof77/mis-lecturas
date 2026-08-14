@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60538062-grito-nocturno)'
 sexo_autor: V
 paginas: 168
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ UN DELICIOSO CUENTO DE TERROR SOBRE LA IDENTIDAD Y EL OLVIDO
 
 - **Inicio:** 2025/12/17
 - **Fin:** 2025/12/17
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

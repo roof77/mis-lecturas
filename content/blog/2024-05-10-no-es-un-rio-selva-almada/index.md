@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55108658-no-es-un-r-o)'
 sexo_autor: H
 paginas: 104
-nota: 4,75
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Con No es un río, Selva Almada completa su trilogía de varones, inaugurada con
 
 - **Inicio:** 2024/05/08
 - **Fin:** 2024/05/10
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Muy recomendable

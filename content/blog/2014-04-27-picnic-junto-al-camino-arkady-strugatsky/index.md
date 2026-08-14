@@ -31,7 +31,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15830041-p-cnic-junto-al-camino)'
 sexo_autor: V
 paginas: 240
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -62,4 +62,4 @@ Los hermanos Strugatski -Arkadi, el mayor, filólogo especializado en lenguas or
 
 - **Inicio:** 2014/04/23
 - **Fin:** 2014/04/27
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

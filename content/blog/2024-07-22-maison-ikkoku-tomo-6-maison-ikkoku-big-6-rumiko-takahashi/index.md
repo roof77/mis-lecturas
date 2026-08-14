@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345428.Maison_Ikkoku_tomo_6)'
 sexo_autor: H
 paginas: 360
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 
 - **Inicio:** 2024/06/20
 - **Fin:** 2024/07/22
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

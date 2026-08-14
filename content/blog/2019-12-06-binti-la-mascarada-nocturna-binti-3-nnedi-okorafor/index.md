@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/49502990-binti-la-mascarada-nocturna)'
 sexo_autor: H
 paginas: 266
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Lejos de su hogar cuando comienza la batalla, Binti viajará a contrarreloj entr
 
 - **Inicio:** 2019/12/02
 - **Fin:** 2019/12/06
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

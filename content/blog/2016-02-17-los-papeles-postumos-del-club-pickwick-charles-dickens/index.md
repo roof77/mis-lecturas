@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6893343-los-papeles-p-stumos-del-club-pickwick)'
 sexo_autor: V
 paginas: 1007
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Los papeles póstumos del Club Pickwick de Charles Dickens, que ofrecemos aquí 
 
 - **Inicio:** 2016/02/03
 - **Fin:** 2016/02/17
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

@@ -22,7 +22,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13482424-el-asco)'
 sexo_autor: V
 paginas: 74
-nota: 3,25
+nota: Muy bien
 ---
 
 ## Ficha del libro
@@ -41,4 +41,4 @@ nota: 3,25
 
 - **Inicio:** 2025/01/29
 - **Fin:** 2025/01/29
-- **Calificación:** ★★★☆☆ (3,25/5)
+- **Calificación:** Muy bien

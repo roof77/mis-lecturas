@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18801636-el-padre)'
 sexo_autor: V
 paginas: 400
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ El autor nos trae la crónica de la vida de Patrick Melrose, retratada a lo larg
 
 - **Inicio:** 2014/06/01
 - **Fin:** 2014/06/09
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

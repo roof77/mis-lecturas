@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18456158-la-habitaci-n-oscura)'
 sexo_autor: V
 paginas: 256
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ La habitación oscura es una exploración de las posibilidades literarias de la 
 
 - **Inicio:** 2014/06/11
 - **Fin:** 2014/06/13
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

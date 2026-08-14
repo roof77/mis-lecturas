@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25273399-n-mero-cero)'
 sexo_autor: V
 paginas: 192
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -61,4 +61,4 @@ Todo parece ir sobre ruedas hasta que un cadáver tendido en una callejuela de M
 
 - **Inicio:** 2015/08/17
 - **Fin:** 2015/08/20
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

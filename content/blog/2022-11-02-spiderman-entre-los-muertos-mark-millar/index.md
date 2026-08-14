@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38730536-spiderman)'
 sexo_autor: V
 paginas: 312
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Collects Marvel Knights Spider-Man #1-12
 
 - **Inicio:** 2025/11/01
 - **Fin:** 2022/11/02
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

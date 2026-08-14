@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25463269-grimscribe)'
 sexo_autor: V
 paginas: 256
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ En las páginas de Grimscribe laten las obsesiones y paradojas filosóficas y ex
 
 - **Inicio:** 2025/06/19
 - **Fin:** 2025/06/24
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

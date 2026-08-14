@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/198244493-el-infierno-es-una-chica-adolescente)'
 sexo_autor: H
 paginas: 208
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -42,4 +42,4 @@ Un libro de relatos para adultos sin adultos. Niñas que deciden ser malas un ve
 
 - **Inicio:** 2024/01/07
 - **Fin:** 2024/01/07
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

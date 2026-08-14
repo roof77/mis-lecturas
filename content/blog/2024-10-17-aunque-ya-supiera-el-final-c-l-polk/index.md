@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/219473684-aunque-ya-supiera-el-final)'
 sexo_autor: H
 paginas: 165
-nota: 3,75
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Ganadora del premio Nebula y finalista de los premios Locus, Hugo, Ignyte y Worl
 
 - **Inicio:** 2024/10/11
 - **Fin:** 2024/10/17
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Muy bien

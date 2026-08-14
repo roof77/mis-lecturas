@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57421145-hay-algo-matando-ni-os-vol-1)'
 sexo_autor: V
 paginas: 152
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -62,4 +62,4 @@ Editorial original: Boom!
 
 - **Inicio:** 2025/11/14
 - **Fin:** 2025/11/14
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

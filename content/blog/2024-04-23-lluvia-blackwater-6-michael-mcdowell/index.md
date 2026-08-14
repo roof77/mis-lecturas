@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202794928-lluvia)'
 sexo_autor: V
 paginas: 272
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ nota: 4,5
 
 - **Inicio:** 2024/04/21
 - **Fin:** 2024/04/23
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

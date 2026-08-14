@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/26529549-todos-deber-amos-ser-feministas)'
 sexo_autor: H
 paginas: 32
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Adaptado de su magnífica TEDx Talk del 2013, en tan solo 72 páginas Adichie no
 
 - **Inicio:** 2017/03/15
 - **Fin:** 2017/03/15
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

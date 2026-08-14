@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/231481248-badasstronauts)'
 sexo_autor: V
 paginas: 163
-nota: '3'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Borracho de vodka y viviendo en una «granja» donde la única cosecha son coche
 
 - **Inicio:** 2025/05/18
 - **Fin:** 2025/05/21
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Bien

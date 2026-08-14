@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345426.Maison_Ikkoku_tomo_4)'
 sexo_autor: H
 paginas: 340
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 
 - **Inicio:** 2024/06/13
 - **Fin:** 2024/06/16
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

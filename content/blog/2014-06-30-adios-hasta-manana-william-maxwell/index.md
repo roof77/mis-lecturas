@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/5070249-adi-s-hasta-ma-ana)'
 sexo_autor: V
 paginas: 172
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ William Maxwell sitúa su novela más famosa en un pequeño pueblo del estado de
 
 - **Inicio:** 2014/06/25
 - **Fin:** 2014/06/30
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

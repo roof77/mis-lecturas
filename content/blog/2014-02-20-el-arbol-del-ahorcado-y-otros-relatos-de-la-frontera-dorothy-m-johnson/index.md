@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18716473-el-rbol-del-ahorcado-y-otros-relatos-de-la-frontera)'
 sexo_autor: H
 paginas: 304
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -48,4 +48,4 @@ Los relatos que componen el presente volumen fueron publicados por vez primera e
 
 - **Inicio:** 2014/02/16
 - **Fin:** 2014/02/20
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22403824-creepy-presenta)'
 sexo_autor: V
 paginas: 152
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ All of horror legend Bernie Wrightson's Creepy and Eerie short stories, color il
 
 - **Inicio:** 2025/08/01
 - **Fin:** 2025/08/03
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

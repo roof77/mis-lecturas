@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16255272-the-end-of-the-fucking-world)'
 sexo_autor: V
 paginas: 176
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ Fantagraphics is proud to publish this first-ever hardcover edition of TEotFW 
 
 - **Inicio:** 2024/04/27
 - **Fin:** 2024/04/27
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

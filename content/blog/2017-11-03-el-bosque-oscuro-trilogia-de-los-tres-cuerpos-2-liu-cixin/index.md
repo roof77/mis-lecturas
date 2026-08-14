@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32827084-el-bosque-oscuro)'
 sexo_autor: V
 paginas: 576
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ En El bosque oscuro, la humanidad se recupera del impacto producido por la inmin
 
 - **Inicio:** 2017/10/23
 - **Fin:** 2017/11/03
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

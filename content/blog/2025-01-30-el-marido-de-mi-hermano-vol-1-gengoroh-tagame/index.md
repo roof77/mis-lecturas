@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52737348-el-marido-de-mi-hermano-vol-1)'
 sexo_autor: V
 paginas: 360
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Yaichi es un padre divorciado japonés muy tradicional y conservador que vive ju
 
 - **Inicio:** 2025/01/30
 - **Fin:** 2025/01/30
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

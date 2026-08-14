@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19291960-nacidos-para-correr)'
 sexo_autor: V
 paginas: 370
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ En busca de una respuesta, Christopher MacDougall se encuentra con la tribu de l
 
 - **Inicio:** 2014/04/08
 - **Fin:** 2014/04/13
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

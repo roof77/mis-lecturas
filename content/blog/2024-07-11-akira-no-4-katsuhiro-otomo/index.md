@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13052297-akira-no-4)'
 sexo_autor: V
 paginas: 400
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Tokio se encuentra en un estado post apocalíptico. La respuesta para detener a 
 
 - **Inicio:** 2024/07/11
 - **Fin:** 2024/07/11
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

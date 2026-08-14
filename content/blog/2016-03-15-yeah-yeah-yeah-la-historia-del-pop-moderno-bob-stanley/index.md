@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28271884-yeah-yeah-yeah-la-historia-del-pop-moderno)'
 sexo_autor: V
 paginas: 748
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Tan divertido de criticar como de citar, Yeah! explora las raíces de la música
 
 - **Inicio:** 2016/02/25
 - **Fin:** 2016/03/15
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

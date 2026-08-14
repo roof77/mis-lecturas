@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36436640-el-club-del-divorcio-1)'
 sexo_autor: V
 paginas: 504
-nota: 3,75
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ Kazuo Kamimura (Yokosuka, Japón, 1940-1986) fue conocido como “el pintor ukiy
 
 - **Inicio:** 2025/02/13
 - **Fin:** 2025/02/16
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Muy bien

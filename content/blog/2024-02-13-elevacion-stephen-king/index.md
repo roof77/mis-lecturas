@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/48570953-elevaci-n)'
 sexo_autor: V
 paginas: 176
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ King vuelve a Castle Rock con un mensaje para nuestros tiempos. «La prueba de q
 
 - **Inicio:** 2024/02/12
 - **Fin:** 2024/02/13
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

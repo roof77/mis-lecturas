@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41416510-un-lugar-equivocado)'
 sexo_autor: V
 paginas: 180
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +47,4 @@ Una reunión de viejos compañeros de instituto sirve de excusa y telón de fond
 
 - **Inicio:** 2025/06/05
 - **Fin:** 2025/06/08
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

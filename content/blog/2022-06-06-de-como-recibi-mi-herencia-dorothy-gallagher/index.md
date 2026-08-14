@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60901058-de-c-mo-recib-mi-herencia)'
 sexo_autor: H
 paginas: 176
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata s
 
 - **Inicio:** 2022/06/01
 - **Fin:** 2022/06/06
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

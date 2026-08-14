@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9547513-la-silla)'
 sexo_autor: V
 paginas: 210
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -44,4 +44,4 @@ En una de estas, Daniel está escribiendo su futuro éxito y le pide a su mujer 
 
 - **Inicio:** 2015/05/26
 - **Fin:** 2015/05/28
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

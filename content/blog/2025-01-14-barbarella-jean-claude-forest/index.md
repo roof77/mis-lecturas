@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/126285448-barbarella)'
 sexo_autor: V
 paginas: 184
-nota: 3,75
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ Viene de otro lugar, de otro tiempo, y salta de un planeta a otro, de unos brazo
 
 - **Inicio:** 2025/01/11
 - **Fin:** 2025/01/14
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Recomendable

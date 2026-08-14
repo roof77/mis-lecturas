@@ -22,7 +22,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/56280301-conviviendo-19-d-as)'
 sexo_autor: V
 paginas: 184
-nota: 3,75
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -48,4 +48,4 @@ Un cómic repleto de amor, risas y sentimientos a flor de piel que el autor publ
 
 - **Inicio:** 2025/05/10
 - **Fin:** 2025/05/10
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Muy bien

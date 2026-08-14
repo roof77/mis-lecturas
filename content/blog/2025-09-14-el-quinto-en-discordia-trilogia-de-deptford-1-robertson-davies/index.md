@@ -31,7 +31,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/74421.El_quinto_en_discordia)'
 sexo_autor: V
 paginas: 360
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ El quinto en discordia es una muestra de la maestría de Davies para la novela: 
 
 - **Inicio:** 2025/09/04
 - **Fin:** 2025/09/14
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

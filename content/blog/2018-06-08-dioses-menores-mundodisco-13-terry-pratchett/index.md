@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/372389.Dioses_menores)'
 sexo_autor: V
 paginas: 352
-nota: '2'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Brutha es un muchacho sencillo y analfabeto que se enfrenta a terribles problema
 
 - **Inicio:** 2018/06/05
 - **Fin:** 2018/06/08
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Muy bien

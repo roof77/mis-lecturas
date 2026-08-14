@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/230878041-la-lista-de-los-siete)'
 sexo_autor: V
 paginas: 432
-nota: 3,75
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Navidad de 1884. El joven médico y aspirante a escritor Arthur Conan Doyle es i
 
 - **Inicio:** 2025/08/14
 - **Fin:** 2025/08/26
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Recomendable

@@ -24,7 +24,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58392764-i-l)'
 sexo_autor: V
 paginas: 336
-nota: 4,25
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ nota: 4,25
 
 - **Inicio:** 2025/01/04
 - **Fin:** 2025/01/05
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Muy recomendable

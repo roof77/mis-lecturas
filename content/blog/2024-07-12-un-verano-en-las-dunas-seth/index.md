@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30830358-un-verano-en-las-dunas)'
 sexo_autor: V
 paginas: 88
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -41,4 +41,4 @@ Entre 1991 y 1993, poco antes de alcanzar la fama a nivel mundial, Seth publicó
 
 - **Inicio:** 2024/07/12
 - **Fin:** 2024/07/12
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

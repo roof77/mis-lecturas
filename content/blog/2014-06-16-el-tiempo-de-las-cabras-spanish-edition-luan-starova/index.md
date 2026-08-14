@@ -21,7 +21,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9464114-el-tiempo-de-las-cabras)'
 sexo_autor: V
 paginas: 232
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ Basada en un episodio aparentemente trivial de la reciente historia balcánica, 
 
 - **Inicio:** 2014/06/15
 - **Fin:** 2014/06/16
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

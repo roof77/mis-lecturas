@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/216403835-la-invitada)'
 sexo_autor: H
 paginas: 296
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -60,4 +60,4 @@ Emma Cline, que con su éxito mundial Las chicas se reveló como una de las voce
 
 - **Inicio:** 2025/03/03
 - **Fin:** 2025/03/09
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

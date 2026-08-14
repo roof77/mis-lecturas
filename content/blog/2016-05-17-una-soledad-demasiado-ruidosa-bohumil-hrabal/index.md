@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/293393.Una_soledad_demasiado_ruidosa)'
 sexo_autor: V
 paginas: 160
-nota: '1'
+nota: No es para mi
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ En Una soledad demasiado ruidosa se entrecruzan reflexiones sobre el sentido de 
 
 - **Inicio:** 2016/05/16
 - **Fin:** 2016/05/17
-- **Calificación:** ★☆☆☆☆ (1/5)
+- **Calificación:** No es para mi

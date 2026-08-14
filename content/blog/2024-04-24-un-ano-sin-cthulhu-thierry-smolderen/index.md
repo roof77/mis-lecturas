@@ -24,7 +24,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60698598-un-a-o-sin-cthulhu)'
 sexo_autor: V
 paginas: 174
-nota: 3,5
+nota: Bien
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ Todos recuerdan la tragedia de Auln-sur-D’Arcq. A mediados de los años 80, un
 
 - **Inicio:** 2024/04/18
 - **Fin:** 2024/04/24
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Bien

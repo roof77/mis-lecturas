@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/222779748-polvazo)'
 sexo_autor: H
 paginas: 168
-nota: '3'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -62,4 +62,4 @@ Con una prosa elegante, una mirada tierna y un escandaloso humor negro, Polvazo
 
 - **Inicio:** 2025/03/23
 - **Fin:** 2025/03/30
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Muy bien

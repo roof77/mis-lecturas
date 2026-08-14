@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51064313-heartstopper-tomo-1)'
 sexo_autor: H
 paginas: 288
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ Pero el amor obra de formas inesperadas, y Nick está más interesado en Charlie
 
 - **Inicio:** 2022/03/24
 - **Fin:** 2022/03/24
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

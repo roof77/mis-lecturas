@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/52592471-california-rocket-fuel)'
 sexo_autor: V
 paginas: 134
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -41,4 +41,4 @@ California Rocket Fuel es la historia de una consulta al psicólogo/psiquiatra. 
 
 - **Inicio:** 2025/02/13
 - **Fin:** 2025/02/13
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

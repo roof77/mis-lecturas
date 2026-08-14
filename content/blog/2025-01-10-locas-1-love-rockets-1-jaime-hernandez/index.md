@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1774327.Locas_1)'
 sexo_autor: V
 paginas: 276
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ Maggie Chascarrillo es una joven chicana cuya historia comienza a primeros de lo
 
 - **Inicio:** 2025/01/05
 - **Fin:** 2025/01/10
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

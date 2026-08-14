@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43216634-maldita-casa-encantada)'
 sexo_autor: V
 paginas: 128
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ Angélica debe encontrar a su mascota en el interior de una escalofriante mansi�
 
 - **Inicio:** 2024/04/06
 - **Fin:** 2024/04/06
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

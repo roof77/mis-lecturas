@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36607375-los-elementales)'
 sexo_autor: V
 paginas: 312
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Admirada como joya del terror, Los Elementales es también considerada una obra 
 
 - **Inicio:** 2021/09/30
 - **Fin:** 2021/10/05
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

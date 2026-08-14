@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/961688.Cada_cosa_a_su_tiempo)'
 sexo_autor: V
 paginas: 180
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Calvin, the self-proclaimed "Boy of Destiny," continues to save the universe wit
 
 - **Inicio:** 2025/03/07
 - **Fin:** 2025/03/10
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

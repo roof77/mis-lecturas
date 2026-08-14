@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/439804.Trampa_22)'
 sexo_autor: V
 paginas: 656
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ Con una lógica siniestra, Yossarian, un piloto subordinado de Cathcart que inte
 
 - **Inicio:** 2014/05/19
 - **Fin:** 2014/06/03
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

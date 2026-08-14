@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53263929-100-bullets-omnibus-vol-1)'
 sexo_autor: V
 paginas: 1376
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ Collects Vertigo: Winter's Edge #3, 100 Bullets #1-58.
 
 - **Inicio:** 2025/01/31
 - **Fin:** 2025/02/10
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

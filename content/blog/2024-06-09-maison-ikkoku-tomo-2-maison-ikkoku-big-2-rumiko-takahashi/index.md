@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345411.Maison_Ikkoku_tomo_2)'
 sexo_autor: H
 paginas: 356
-nota: 3,75
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 
 - **Inicio:** 2024/06/07
 - **Fin:** 2024/06/09
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Recomendable

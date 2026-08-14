@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12640991-weird-things-customers-say-in-bookshops)'
 sexo_autor: V
 paginas: 119
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ This full-length collection illustrated by the Brothers McLeod also includes top
 
 - **Inicio:** 2014/10/30
 - **Fin:** 2014/10/30
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

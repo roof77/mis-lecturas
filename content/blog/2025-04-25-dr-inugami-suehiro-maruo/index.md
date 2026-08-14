@@ -23,7 +23,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/91824.Dr_Inugami)'
 sexo_autor: V
 paginas: 192
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -45,4 +45,4 @@ Una terrorífica y deliciosa historia del maestro Maruo. Una densa trama de sata
 
 - **Inicio:** 2025/04/24
 - **Fin:** 2025/04/25
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

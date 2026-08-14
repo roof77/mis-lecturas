@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202794989-la-casa)'
 sexo_autor: V
 paginas: 272
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ El clan Caskey se desmorona con la cruenta guerra personal entre Mary-Love y Eli
 
 - **Inicio:** 2024/04/09
 - **Fin:** 2024/04/13
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

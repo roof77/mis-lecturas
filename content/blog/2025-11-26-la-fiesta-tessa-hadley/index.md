@@ -19,7 +19,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/240706980-la-fiesta)'
 sexo_autor: H
 paginas: 108
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Ficha del libro
@@ -37,4 +37,4 @@ nota: '4'
 
 - **Inicio:** 2025/11/21
 - **Fin:** 2025/11/26
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

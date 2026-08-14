@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13052287-akira-no-1)'
 sexo_autor: V
 paginas: 362
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ En la hostil y caótica megalópolis de Neo Tokyo, Tetsuo y sus compañeros debe
 
 - **Inicio:** 2024/07/05
 - **Fin:** 2024/07/08
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

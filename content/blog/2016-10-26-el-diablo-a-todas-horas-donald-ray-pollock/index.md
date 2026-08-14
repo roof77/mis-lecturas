@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16247251-el-diablo-a-todas-horas)'
 sexo_autor: V
 paginas: 376
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Cuando Willard Russell, veterano de la segunda guerra mundial, descubre que el c
 
 - **Inicio:** 2016/10/20
 - **Fin:** 2016/10/26
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

@@ -19,7 +19,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/29434242-las-ocultas-una-experiencia-de-la-prostituci-n)'
 sexo_autor: H
 paginas: 255
-nota: '1'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -40,4 +40,4 @@ Marta Elisa de León fue al infierno y volvió. El infierno era la mentira, la a
 
 - **Inicio:** 2016/03/16
 - **Fin:** 2016/03/17
-- **Calificación:** ★☆☆☆☆ (1/5)
+- **Calificación:** Bien

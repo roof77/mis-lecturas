@@ -32,7 +32,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51611.De_ratones_y_hombres)'
 sexo_autor: V
 paginas: 110
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Es una novela ambientada en California y en la época de la Depresión. En este 
 
 - **Inicio:** 2014/07/27
 - **Fin:** 2014/07/27
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

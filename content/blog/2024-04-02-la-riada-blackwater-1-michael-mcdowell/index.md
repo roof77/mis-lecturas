@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202795132-la-riada)'
 sexo_autor: V
 paginas: 250
-nota: 3,75
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -63,4 +63,4 @@ Las gélidas y oscuras aguas del río Blackwater inundan Perdido, un pequeño pu
 
 - **Inicio:** 2024/03/25
 - **Fin:** 2024/04/02
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Recomendable

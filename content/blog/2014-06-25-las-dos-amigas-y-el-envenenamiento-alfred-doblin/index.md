@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18590777-las-dos-amigas-y-el-envenenamiento)'
 sexo_autor: V
 paginas: 120
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Inspirada en un proceso que saltó a las páginas de los periódicos en los año
 
 - **Inicio:** 2014/06/24
 - **Fin:** 2014/06/25
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

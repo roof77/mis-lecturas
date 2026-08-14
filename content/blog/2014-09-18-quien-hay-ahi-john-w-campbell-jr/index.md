@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41216167-qui-n-hay-ah)'
 sexo_autor: V
 paginas: 145
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ Esta novela corta, seguramente la más conocida y trascendente de su producción
 
 - **Inicio:** 2014/09/18
 - **Fin:** 2014/09/18
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/181903268-nada-es-verdad)'
 sexo_autor: H
 paginas: 216
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Una novela desternillante y feroz sobre vínculos, pérdidas, desastres familiar
 
 - **Inicio:** 2025/05/31
 - **Fin:** 2025/06/02
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

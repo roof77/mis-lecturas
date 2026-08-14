@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16153172-trilobites)'
 sexo_autor: V
 paginas: 232
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Breece D’J Pancake se suicidó en Charlottesville en 1979 a la edad de veintis
 
 - **Inicio:** 2014/07/21
 - **Fin:** 2014/07/26
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

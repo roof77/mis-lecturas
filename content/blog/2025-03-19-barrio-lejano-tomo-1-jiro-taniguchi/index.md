@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1187423.Barrio_lejano_Tomo_1)'
 sexo_autor: V
 paginas: 200
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ guionista Natsuo Sekigawa, “Ciudad sin defensa”, “El viento del oeste es b
 
 - **Inicio:** 2025/03/19
 - **Fin:** 2025/03/19
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

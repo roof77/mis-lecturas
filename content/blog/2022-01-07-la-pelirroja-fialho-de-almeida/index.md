@@ -24,7 +24,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30162057-la-pelirroja)'
 sexo_autor: V
 paginas: 153
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ Fialho de Almeida (1857-1911) pertence àquela família de médicos que se torna
 
 - **Inicio:** 2022/01/05
 - **Fin:** 2022/01/07
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

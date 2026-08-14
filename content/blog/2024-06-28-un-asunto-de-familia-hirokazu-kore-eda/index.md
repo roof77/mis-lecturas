@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/46273171-un-asunto-de-familia)'
 sexo_autor: V
 paginas: 232
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Así arranca esta preciosa novela de Hirokazu Kore-eda sobre una familia que, co
 
 - **Inicio:** 2024/06/21
 - **Fin:** 2024/06/28
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

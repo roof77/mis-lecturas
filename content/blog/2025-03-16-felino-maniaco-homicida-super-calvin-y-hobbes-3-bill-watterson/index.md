@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/50032631-felino-man-aco-homicida)'
 sexo_autor: V
 paginas: 176
-nota: 4,25
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -42,4 +42,4 @@ Entrega número 3 de este relanzamiento con nuevo diseño de la serie Calvin y H
 
 - **Inicio:** 2025/03/13
 - **Fin:** 2025/03/16
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Muy recomendable

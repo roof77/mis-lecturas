@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/206197004-cuando-el-viento-sopla)'
 sexo_autor: V
 paginas: 80
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ En ella los Blogg, un matrimonio inglés atemorizado por un posible ataque sovi�
 
 - **Inicio:** 2025/09/15
 - **Fin:** 2025/09/15
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/199066748-maniac)'
 sexo_autor: V
 paginas: 391
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Este libro explica, entre otras cosas, el origen de los ordenadores, de la predi
 
 - **Inicio:** 2024/02/20
 - **Fin:** 2024/02/29
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

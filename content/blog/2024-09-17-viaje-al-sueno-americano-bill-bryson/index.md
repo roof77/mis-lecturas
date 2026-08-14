@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/129113531-viaje-al-sue-o-americano)'
 sexo_autor: V
 paginas: 363
-nota: 3,75
+nota: Bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Por supuesto, había cosas que Bryson extrañaba de Gran Bretaña, pero cualquie
 
 - **Inicio:** 2024/09/05
 - **Fin:** 2024/09/17
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Bien

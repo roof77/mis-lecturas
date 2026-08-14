@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32720825-historias-del-barrio---edici-n-integral)'
 sexo_autor: V
 paginas: 312
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ Palma, Mallorca, años 80. Cada esquina del barrio chino tiene una historia que 
 
 - **Inicio:** 2024/04/09
 - **Fin:** 2024/04/17
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

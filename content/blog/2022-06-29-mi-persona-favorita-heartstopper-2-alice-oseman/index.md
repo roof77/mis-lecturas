@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/53803300-mi-persona-favorita)'
 sexo_autor: H
 paginas: 320
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Después de lanzarse a besar a Nick, Charlie cree que todo se ha acabado, pero..
 
 - **Inicio:** 2022/06/29
 - **Fin:** 2022/06/29
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

@@ -2,7 +2,7 @@
 title: Laura Dean me ha vuelto a dejar
 summary: 'Laura Dean es la chica más popular del instituto: es encantadora, divertida y realmente preciosa, pero tiene papeletas
   para ser la peor novia del mundo. ¡Y si…'
-date: '2026-01-02T23:59:59'
+date: '2026-04-02T23:59:59'
 authors:
 - roof77
 tags:
@@ -60,5 +60,5 @@ Mariko Tamaki y Rosemary Valero O’Conell fraguan una historia de amor efervesc
 ## Mi lectura
 
 - **Inicio:** 2026/04/01
-- **Fin:** 2026/01/02
+- **Fin:** 2026/04/02
 - **Calificación:** Recomendable

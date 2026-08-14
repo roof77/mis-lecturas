@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20433715-todas-las-almas)'
 sexo_autor: V
 paginas: 280
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ nota: '4'
 
 - **Inicio:** 2014/04/13
 - **Fin:** 2014/04/22
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

@@ -22,7 +22,7 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/204112798-visceral)'
 sexo_autor: H
-nota: 3,75
+nota: Bien
 ---
 
 ## Sinopsis
@@ -42,4 +42,4 @@ Un cadáver contagiado de virus covid yace amortajado sobre un sofá doméstico 
 
 - **Inicio:** 2024/05/10
 - **Fin:** 2024/05/13
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Bien

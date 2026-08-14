@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21797076-los-ni-os)'
 sexo_autor: H
 paginas: 416
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Martin Boyne, «un individuo crítico y cauto de cuarenta y seis años a quien d
 
 - **Inicio:** 2019/03/13
 - **Fin:** 2019/03/20
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

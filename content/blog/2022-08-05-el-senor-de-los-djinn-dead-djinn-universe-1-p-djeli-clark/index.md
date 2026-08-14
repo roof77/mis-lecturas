@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61401172-el-se-or-de-los-djinn)'
 sexo_autor: V
 paginas: 523
-nota: 4,75
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -65,4 +65,4 @@ Este volumen contiene Muerte de un djinn en El Cairo, el primer relato ambientad
 
 - **Inicio:** 2022/07/21
 - **Fin:** 2022/08/05
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Muy recomendable

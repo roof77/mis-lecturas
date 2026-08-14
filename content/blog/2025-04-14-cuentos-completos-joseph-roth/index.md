@@ -19,7 +19,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/216572664-cuentos-completos)'
 sexo_autor: V
 paginas: 384
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -40,4 +40,4 @@ En apenas dos décadas, Joseph Roth (1894-1939), uno de los escritores en lengua
 
 - **Inicio:** 2025/03/30
 - **Fin:** 2025/04/14
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

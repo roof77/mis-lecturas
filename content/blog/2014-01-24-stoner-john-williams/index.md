@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17840080-stoner)'
 sexo_autor: V
 paginas: 242
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ William Stoner, hijo único de un matrimonio de granjeros que sobrevive en la pe
 
 - **Inicio:** 2014/01/22
 - **Fin:** 2014/01/24
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25442541-los-reyes-del-jaco)'
 sexo_autor: V
 paginas: 267
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Publicada por primera vez en 1974, Los reyes del jaco es hoy en día una novela 
 
 - **Inicio:** 2015/07/24
 - **Fin:** 2015/07/28
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

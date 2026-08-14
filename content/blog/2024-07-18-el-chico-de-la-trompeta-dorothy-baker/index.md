@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18663334-el-chico-de-la-trompeta)'
 sexo_autor: H
 paginas: 256
-nota: 4,75
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ El chico de la trompeta, considerada por muchos críticos la primera novela sobr
 
 - **Inicio:** 2024/07/15
 - **Fin:** 2024/07/18
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Muy recomendable

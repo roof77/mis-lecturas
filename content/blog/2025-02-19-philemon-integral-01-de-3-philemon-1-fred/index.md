@@ -22,7 +22,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/30345572-phil-mon-integral-01-de-3)'
 sexo_autor: V
 paginas: 304
-nota: 4,5
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -47,4 +47,4 @@ Artífice de un imaginario evocador de las grandes obras de Lewis Carroll, Jonat
 
 - **Inicio:** 2025/02/18
 - **Fin:** 2025/02/19
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Imprescindible

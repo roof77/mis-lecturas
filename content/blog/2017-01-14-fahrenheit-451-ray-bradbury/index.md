@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4381.Fahrenheit_451)'
 sexo_autor: V
 paginas: 158
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Fahrenheit 451 ofrece la historia de un sombrío y horroroso futuro. Montag, el 
 
 - **Inicio:** 2017/01/11
 - **Fin:** 2017/01/14
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

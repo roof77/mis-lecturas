@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22089227-cooltureta)'
 sexo_autor: H
 paginas: 127
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ Algunos modernos, además de llevar pantalones de pitillo y no saltarse  ni un f
 
 - **Inicio:** 2025/08/30
 - **Fin:** 2025/09/01
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

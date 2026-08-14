@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123364621-la-malnacida)'
 sexo_autor: H
 paginas: 242
-nota: '3'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ Duygu Muas, editora de Penguin Verlag (Alemania)
 
 - **Inicio:** 2024/10/04
 - **Fin:** 2024/10/11
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Bien

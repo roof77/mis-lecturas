@@ -19,7 +19,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21899410-hypocrite)'
 sexo_autor: V
 paginas: 64
-nota: 3,5
+nota: Bien
 ---
 
 ## Sinopsis
@@ -42,4 +42,4 @@ Una de las obras más POP del creador de Barbarella.
 
 - **Inicio:** 2025/01/15
 - **Fin:** 2025/01/15
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Bien

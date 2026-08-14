@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/223531991-la-ceremonia)'
 sexo_autor: H
 paginas: 256
-nota: '3'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ En esta audaz expedición por los límites, Sayaka Murata, una de las mentes má
 
 - **Inicio:** 2025/05/12
 - **Fin:** 2025/05/18
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Bien

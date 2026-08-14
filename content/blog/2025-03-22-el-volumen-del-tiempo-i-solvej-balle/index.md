@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/219485014-el-volumen-del-tiempo-i)'
 sexo_autor: H
 paginas: 184
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -61,4 +61,4 @@ Utilizando los mimbres de la ciencia ficción, la autora nos propone una deslumb
 
 - **Inicio:** 2025/03/18
 - **Fin:** 2025/03/22
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

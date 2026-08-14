@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4599920-agujero-negro)'
 sexo_autor: V
 paginas: 369
-nota: 4,75
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Tardamos cierto tiempo en tomar conciencia de ello, pero finalmente descubrimos 
 
 - **Inicio:** 2025/11/29
 - **Fin:** 2025/12/15
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Imprescindible

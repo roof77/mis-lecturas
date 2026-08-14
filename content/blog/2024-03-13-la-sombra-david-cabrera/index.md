@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61254837-la-sombra)'
 sexo_autor: V
 paginas: 256
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ La Sombra es una reflexión sobre la culpabilidad, el castigo y las trampas de l
 
 - **Inicio:** 2024/03/06
 - **Fin:** 2024/03/13
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13454802-anna-kar-nina)'
 sexo_autor: V
 paginas: 1002
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ La sola mención del nombre de Anna Karénina sugiere inmediatamente dos grandes
 
 - **Inicio:** 2016/01/10
 - **Fin:** 2016/01/19
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

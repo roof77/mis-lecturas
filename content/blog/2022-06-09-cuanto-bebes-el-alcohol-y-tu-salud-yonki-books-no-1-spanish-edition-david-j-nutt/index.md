@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60655387-cu-nto-bebes)'
 sexo_autor: V
 paginas: 360
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Al final, tal vez optes por unirte a ese creciente número de personas que decid
 
 - **Inicio:** 2022/05/31
 - **Fin:** 2022/06/09
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

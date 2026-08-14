@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22294792-a-la-caza-del-amor)'
 sexo_autor: H
 paginas: 228
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ En A la caza del amor, su novela de mayor éxito, Nancy Mitford utiliza elemento
 
 - **Inicio:** 2014/07/27
 - **Fin:** 2014/07/29
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

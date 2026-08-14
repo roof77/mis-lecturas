@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/236280582-brujer-a-para-chicas-descarriadas)'
 sexo_autor: V
 paginas: 496
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -61,4 +61,4 @@ A través de voces potentes y heridas abiertas, Grady Hendrix teje una historia 
 
 - **Inicio:** 2025/10/02
 - **Fin:** 2025/10/15
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

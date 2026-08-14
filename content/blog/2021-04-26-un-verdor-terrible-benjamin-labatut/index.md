@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/55756916-un-verdor-terrible)'
 sexo_autor: V
 paginas: 213
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ La literatura explora la ciencia, la ciencia se convierte en literatura. Benjam�
 
 - **Inicio:** 2021/04/25
 - **Fin:** 2021/04/26
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

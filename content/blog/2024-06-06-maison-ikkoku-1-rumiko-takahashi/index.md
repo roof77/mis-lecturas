@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345405.Maison_Ikkoku_1)'
 sexo_autor: H
 paginas: 344
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Yusaku Godai didn’t get accepted into college on the first try, so he’s stud
 
 - **Inicio:** 2024/06/02
 - **Fin:** 2024/06/06
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

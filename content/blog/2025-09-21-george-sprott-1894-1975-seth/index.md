@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20318498-george-sprott-1894-1975)'
 sexo_autor: V
 paginas: 64
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -48,4 +48,4 @@ George Sprott 1894-1975. Una novela gráfica del dibujante Seth. "Este libro es 
 
 - **Inicio:** 2025/09/21
 - **Fin:** 2025/09/21
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

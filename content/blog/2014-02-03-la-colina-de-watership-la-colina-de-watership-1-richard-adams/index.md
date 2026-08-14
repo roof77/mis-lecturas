@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7639059-la-colina-de-watership)'
 sexo_autor: V
 paginas: 451
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Quinto, un joven y apacible conejo, sufre unas visiones aterradoras sobre el fut
 
 - **Inicio:** 2014/01/28
 - **Fin:** 2014/02/03
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

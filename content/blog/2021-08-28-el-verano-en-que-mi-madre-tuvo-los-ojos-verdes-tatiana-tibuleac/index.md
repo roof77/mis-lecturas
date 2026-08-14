@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/44289602-el-verano-en-que-mi-madre-tuvo-los-ojos-verdes)'
 sexo_autor: H
 paginas: 256
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Aleksy aún recuerda el último verano que pasó con su madre. Han transcurrido 
 
 - **Inicio:** 2021/08/25
 - **Fin:** 2021/08/28
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

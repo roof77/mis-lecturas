@@ -23,7 +23,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42410823-la-primera-vez-que-vi-un-fantasma)'
 sexo_autor: H
 paginas: 139
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -47,4 +47,4 @@ La escritora ecuatoriana Solange Rodríguez Pappe, hábil para suponer tramas pe
 
 - **Inicio:** 2024/12/25
 - **Fin:** 2025/01/03
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

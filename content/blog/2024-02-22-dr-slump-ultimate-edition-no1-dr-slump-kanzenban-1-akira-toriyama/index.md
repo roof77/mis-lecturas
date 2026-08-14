@@ -23,7 +23,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/7811348-dr-slump-ultimate-edition-n-1)'
 sexo_autor: V
 paginas: 250
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -48,4 +48,4 @@ Sin embargo, su imprudencia y su increíble ingenuidad desencadenarán, rápidam
 
 - **Inicio:** 2024/02/21
 - **Fin:** 2024/02/22
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

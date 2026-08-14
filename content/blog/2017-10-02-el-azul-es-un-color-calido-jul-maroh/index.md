@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17182033-el-azul-es-un-color-c-lido)'
 sexo_autor: H
 paginas: 161
-nota: '5'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Estamos delante de una obra que describe con mucha delicadeza lo cotidiano de un
 
 - **Inicio:** 2017/10/02
 - **Fin:** 2017/10/02
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Recomendable

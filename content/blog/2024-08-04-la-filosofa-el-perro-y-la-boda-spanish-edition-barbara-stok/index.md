@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/211174142-la-fil-sofa-el-perro-y-la-boda)'
 sexo_autor: H
 paginas: 299
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ La crítica ha «Un libro extremadamente logrado e interesante, que inspira la l
 
 - **Inicio:** 2024/08/03
 - **Fin:** 2024/08/04
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

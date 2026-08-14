@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60718865-sexo-de-mierda)'
 sexo_autor: H
 paginas: 112
-nota: '3'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -42,4 +42,4 @@ nota: '3'
 
 - **Inicio:** 2024/09/22
 - **Fin:** 2024/09/22
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Bien

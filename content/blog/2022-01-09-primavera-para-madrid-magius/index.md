@@ -24,7 +24,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/54571105-primavera-para-madrid)'
 sexo_autor: V
 paginas: 272
-nota: 4,5
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Impreso íntegramente sobre papel oro para reflejar el obsceno derroche de nuest
 
 - **Inicio:** 2022/01/08
 - **Fin:** 2022/01/09
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Recomendable

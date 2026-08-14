@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/28445890-estaci-n-once)'
 sexo_autor: H
 paginas: 379
-nota: 4,25
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Un inesperado virus mortal acaba con la humanidad tal y como la conocemos: ya no
 
 - **Inicio:** 2024/06/11
 - **Fin:** 2024/06/19
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Muy recomendable

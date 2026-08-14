@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/71530.Metaf_sica_de_los_tubos)'
 sexo_autor: H
 paginas: 144
-nota: 3,75
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Esta novela narra los primeros años de la vida de una niña obsesionada por el 
 
 - **Inicio:** 2024/04/25
 - **Fin:** 2024/04/28
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Muy bien

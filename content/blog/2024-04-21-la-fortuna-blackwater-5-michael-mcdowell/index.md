@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/71448863-la-fortuna)'
 sexo_autor: V
 paginas: 186
-nota: 3,5
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Una scoperta sorprendente e miracolosa – eccetto che per una persona – distr
 
 - **Inicio:** 2024/04/18
 - **Fin:** 2024/04/21
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Recomendable

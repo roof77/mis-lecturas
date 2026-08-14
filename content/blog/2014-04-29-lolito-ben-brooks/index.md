@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18169682-lolito)'
 sexo_autor: V
 paginas: 288
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -64,4 +64,4 @@ Hilarious, fearless and utterly outrageous, Lolito is a truly twenty-first centu
 
 - **Inicio:** 2014/04/27
 - **Fin:** 2014/04/29
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

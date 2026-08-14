@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36351146-el-final-de-todos-los-agostos)'
 sexo_autor: V
 paginas: 152
-nota: 3,25
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ A menudo el pasado deja cabos sueltos, asuntos por resolver, interrogantes que p
 
 - **Inicio:** 2024/07/13
 - **Fin:** 2024/07/13
-- **Calificación:** ★★★☆☆ (3,25/5)
+- **Calificación:** Muy bien

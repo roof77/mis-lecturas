@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/24675211-horrorst-r)'
 sexo_autor: V
 paginas: 248
-nota: 4,5
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ Para desentrañar el misterio, tres empleados se presentan voluntarios para hace
 
 - **Inicio:** 2021/11/11
 - **Fin:** 2021/11/17
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Recomendable

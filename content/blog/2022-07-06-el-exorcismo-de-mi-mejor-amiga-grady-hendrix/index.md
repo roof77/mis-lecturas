@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/61028152-el-exorcismo-de-mi-mejor-amiga)'
 sexo_autor: V
 paginas: 351
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ Un espeluznante cruce entre Eternamente amigas y El exorcista, combina las angus
 
 - **Inicio:** 2022/07/04
 - **Fin:** 2022/07/06
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

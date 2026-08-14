@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/16285826-fun-home-una-familia-tragic-mica)'
 sexo_autor: H
 paginas: 238
-nota: 4,75
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ El padre de Alison, la protagonista (y autora del libro), es profesor de inglés
 
 - **Inicio:** 2024/05/21
 - **Fin:** 2024/05/23
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Imprescindible

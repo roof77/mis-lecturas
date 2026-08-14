@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34029996-un-polic-a-en-la-luna)'
 sexo_autor: V
 paginas: 96
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Con el reconocible estilo de su autor, sobrio pero de gran expresividad, Un poli
 
 - **Inicio:** 2025/04/26
 - **Fin:** 2025/04/26
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

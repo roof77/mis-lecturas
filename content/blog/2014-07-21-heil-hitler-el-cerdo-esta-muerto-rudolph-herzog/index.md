@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22517674-heil-hitler-el-cerdo-est-muerto)'
 sexo_autor: V
 paginas: 224
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ En los primeros años del régimen muchos alemanes se burlaron de Hitler y otros
 
 - **Inicio:** 2014/07/18
 - **Fin:** 2014/07/21
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/41711264-el-simpatizante)'
 sexo_autor: V
 paginas: 479
-nota: '3'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Abril de 1975, Saigón está sumida en el caos. Desde su mansión, el general de
 
 - **Inicio:** 2024/07/19
 - **Fin:** 2024/07/30
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Bien

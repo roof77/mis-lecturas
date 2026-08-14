@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/37118735-los-reyes-de-la-arena)'
 sexo_autor: V
 paginas: 362
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Martin es además un maestro para combinar géneros: «Tráfico de piel» es un 
 
 - **Inicio:** 2014/01/13
 - **Fin:** 2014/01/13
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

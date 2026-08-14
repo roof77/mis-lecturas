@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51082517-haarmann)'
 sexo_autor: V
 paginas: 180
-nota: '3'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ El temor hace ya varios meses que recorre las callejuelas del casco antiguo de H
 
 - **Inicio:** 2025/04/23
 - **Fin:** 2025/04/24
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Recomendable

@@ -21,7 +21,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60766670-flores-rojas)'
 sexo_autor: V
 paginas: 256
-nota: 3,75
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -46,4 +46,4 @@ Flores rojas es una celebración de los encantos y las contradicciones del Japó
 
 - **Inicio:** 2024/07/03
 - **Fin:** 2024/07/05
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Muy bien

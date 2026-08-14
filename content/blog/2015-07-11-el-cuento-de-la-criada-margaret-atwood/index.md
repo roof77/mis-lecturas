@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6386694-el-cuento-de-la-criada)'
 sexo_autor: H
 paginas: 480
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -61,4 +61,4 @@ En el estado de Gilead, donde tras una hecatombe nuclear la población ha visto 
 
 - **Inicio:** 2015/07/10
 - **Fin:** 2015/07/11
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

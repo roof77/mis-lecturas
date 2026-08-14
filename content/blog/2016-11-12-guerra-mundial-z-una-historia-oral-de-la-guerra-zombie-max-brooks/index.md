@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3893586-guerra-mundial-z)'
 sexo_autor: V
 paginas: 464
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ Un relato insólito y realista, lleno de interrogantes sobre cómo se comportó 
 
 - **Inicio:** 2016/10/28
 - **Fin:** 2016/11/12
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

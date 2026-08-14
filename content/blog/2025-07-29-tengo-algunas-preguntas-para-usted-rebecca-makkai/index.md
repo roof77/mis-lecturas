@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/205869219-tengo-algunas-preguntas-para-usted)'
 sexo_autor: H
 paginas: 500
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Hipnótica y tremendamente actual, la nueva novela de Rebecca Makkai reflexiona 
 
 - **Inicio:** 2025/07/16
 - **Fin:** 2025/07/29
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

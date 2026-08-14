@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/3389882-el-aprendiz-de-guerrero)'
 sexo_autor: V
 paginas: 432
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Lois McMaster Bujold obtuvo el premio Nebula 1988 por En caída libre y también
 
 - **Inicio:** 2014/04/29
 - **Fin:** 2014/05/04
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

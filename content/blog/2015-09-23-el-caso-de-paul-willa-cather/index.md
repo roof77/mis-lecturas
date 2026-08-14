@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13199136-el-caso-de-paul)'
 sexo_autor: H
 paginas: 72
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Considerada una de las mejores obras de literatura estadounidense, esta novela e
 
 - **Inicio:** 2015/09/23
 - **Fin:** 2015/09/23
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/199510212-el-cuerpo-de-cristo)'
 sexo_autor: H
 paginas: 184
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Cuando Vera era niña, un demonio rondaba su casa y acosaba a su madre, martille
 
 - **Inicio:** 2025/03/23
 - **Fin:** 2025/03/23
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

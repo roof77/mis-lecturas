@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2297722.Vinieron_como_golondrinas)'
 sexo_autor: V
 paginas: 210
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Con esta novela, en la que el autor se enfrenta por primera vez con el recuerdo 
 
 - **Inicio:** 2014/06/25
 - **Fin:** 2014/06/26
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

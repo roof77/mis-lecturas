@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58103015-piranesi)'
 sexo_autor: H
 paginas: 272
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ La casa de Piranesi no es un edificio cualquiera: sus habitaciones son monumenta
 
 - **Inicio:** 2021/12/13
 - **Fin:** 2021/12/17
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

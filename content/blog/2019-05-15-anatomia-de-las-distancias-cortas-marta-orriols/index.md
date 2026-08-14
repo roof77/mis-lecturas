@@ -22,7 +22,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35378867-anatom-a-de-las-distancias-cortas)'
 sexo_autor: H
 paginas: 132
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ Hay lugar para lo improbable en el día a día de estos espléndidos personajes 
 
 - **Inicio:** 2019/05/13
 - **Fin:** 2019/05/15
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

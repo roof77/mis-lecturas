@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22079435-tiempo-de-canicas)'
 sexo_autor: V
 paginas: 148
-nota: '3'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ Con la maestría y la sensibilidad que se le conoce, Beto Hernandez no se limita
 
 - **Inicio:** 2025/05/14
 - **Fin:** 2025/05/17
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Muy bien

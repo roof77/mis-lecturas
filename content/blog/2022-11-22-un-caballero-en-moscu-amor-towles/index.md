@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/42069120-un-caballero-en-mosc)'
 sexo_autor: V
 paginas: 509
-nota: 4,5
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ Además de mantenerse durante casi cincuenta semanas en las principales listas d
 
 - **Inicio:** 2022/10/24
 - **Fin:** 2022/11/22
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Imprescindible

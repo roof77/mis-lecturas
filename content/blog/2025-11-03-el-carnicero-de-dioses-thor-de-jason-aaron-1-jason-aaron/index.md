@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/39931985-el-carnicero-de-dioses)'
 sexo_autor: V
 paginas: 304
-nota: '3'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Comienza la más aclamada etapa actual de Thor! A lo largo de los siglos, los di
 
 - **Inicio:** 2025/11/02
 - **Fin:** 2025/11/03
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Muy bien

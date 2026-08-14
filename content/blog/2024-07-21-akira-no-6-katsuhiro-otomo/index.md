@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15780696-akira-no-6)'
 sexo_autor: V
 paginas: 440
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ The explosive finale to one of graphic fiction's greatest achievements is here! 
 
 - **Inicio:** 2024/07/21
 - **Fin:** 2024/07/21
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

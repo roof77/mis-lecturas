@@ -24,7 +24,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/120802099-lady-snowblood-vol-1)'
 sexo_autor: V
 paginas: 512
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -48,4 +48,4 @@ Osayo era una mujer que lo perdió todo a manos de cuatro indeseables, que asesi
 
 - **Inicio:** 2025/04/06
 - **Fin:** 2025/04/07
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

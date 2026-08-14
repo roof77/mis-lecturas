@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18587528-t-cnicas-de-iluminaci-n)'
 sexo_autor: V
 paginas: 168
-nota: 0,25
+nota: No es para mi
 ---
 
 ## Sinopsis
@@ -45,4 +45,4 @@ En todos estos relatos hay un reverso de sombra, un vértice de silencio, algo q
 
 - **Inicio:** 2017/06/06
 - **Fin:** 2017/06/12
-- **Calificación:** ☆☆☆☆☆ (0,25/5)
+- **Calificación:** No es para mi

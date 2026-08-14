@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/343662.Daredevil)'
 sexo_autor: V
 paginas: 176
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ In this larger-than-life theater, the forces of corruption and redemption have a
 
 - **Inicio:** 2025/08/03
 - **Fin:** 2025/08/17
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/228564741-el-gran-cuando)'
 sexo_autor: V
 paginas: 387
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ El esperado retorno de Alan Moore a la novela, una oda a Londres y un tour de fo
 
 - **Inicio:** 2025/05/01
 - **Fin:** 2025/05/10
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/13052288-akira-no-2)'
 sexo_autor: V
 paginas: 304
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ En un caótico Neo-Tokio recién emergido de las cenizas de la III Guerra Mundia
 
 - **Inicio:** 2024/07/08
 - **Fin:** 2024/07/10
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

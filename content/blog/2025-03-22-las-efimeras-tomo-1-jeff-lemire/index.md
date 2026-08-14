@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/211172597-las-ef-meras-tomo-1)'
 sexo_autor: V
 paginas: 176
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Ficha del libro
@@ -39,4 +39,4 @@ nota: 3,5
 
 - **Inicio:** 2025/03/22
 - **Fin:** 2025/03/22
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

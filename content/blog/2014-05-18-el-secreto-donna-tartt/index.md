@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/505470.El_secreto)'
 sexo_autor: H
 paginas: 574
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Cinco estudiantes universitarios, fascinados por un profesor carismático y esno
 
 - **Inicio:** 2014/05/13
 - **Fin:** 2014/05/18
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

@@ -31,7 +31,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/237920009-calliope-la-voz-de-las-llamas)'
 sexo_autor: O
 paginas: 556
-nota: '3'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -60,4 +60,4 @@ Allí Calley descubrirá que puede oír voces que no son de este mundo y que est
 
 - **Inicio:** 2025/09/14
 - **Fin:** 2025/09/27
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Muy bien

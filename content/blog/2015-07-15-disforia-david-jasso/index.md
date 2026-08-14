@@ -20,7 +20,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25250009-disforia)'
 sexo_autor: V
 paginas: 416
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -44,4 +44,4 @@ La sociedad arrastra una crisis económica y de valores que parece irreversible.
 
 - **Inicio:** 2015/07/07
 - **Fin:** 2015/07/15
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

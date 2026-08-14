@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/23306569-por-qu-ser-feliz-cuando-puedes-ser-normal)'
 sexo_autor: V
 paginas: 220
-nota: 4,5
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ En 1985, Winterson publicó Fruta prohibida, su primera novela, un relato apenas
 
 - **Inicio:** 2021/07/07
 - **Fin:** 2021/07/11
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Recomendable

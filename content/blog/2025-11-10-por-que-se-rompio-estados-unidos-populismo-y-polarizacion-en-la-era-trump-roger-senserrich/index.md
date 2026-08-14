@@ -21,7 +21,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/205456506-por-qu-se-rompi-estados-unidos)'
 sexo_autor: V
 paginas: 307
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ Los partidos políticos y la sociedad americana están cambiando a marchas forza
 
 - **Inicio:** 2025/10/30
 - **Fin:** 2025/11/10
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

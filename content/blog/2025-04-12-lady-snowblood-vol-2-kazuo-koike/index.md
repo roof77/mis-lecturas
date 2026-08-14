@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123248034-lady-snowblood-vol-2)'
 sexo_autor: V
 paginas: 520
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -49,4 +49,4 @@ La sed de venganza de Osayo, una mujer que lo perdió todo a manos de cuatro ind
 
 - **Inicio:** 2025/04/07
 - **Fin:** 2025/04/12
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

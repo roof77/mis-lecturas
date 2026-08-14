@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6832714-el-cielo-es-azul-la-tierra-blanca)'
 sexo_autor: H
 paginas: 214
-nota: 4,5
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Tsukiko tiene 38 años y lleva una vida solitaria. Considera que no está dotada
 
 - **Inicio:** 2018/06/14
 - **Fin:** 2018/06/18
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Imprescindible

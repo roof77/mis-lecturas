@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/18804135-sky-doll)'
 sexo_autor: V
 paginas: 232
-nota: '3'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -62,4 +62,4 @@ Incluye una historia inédita y galería de homenajes de artistas internacionale
 
 - **Inicio:** 2025/05/27
 - **Fin:** 2025/05/30
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Bien

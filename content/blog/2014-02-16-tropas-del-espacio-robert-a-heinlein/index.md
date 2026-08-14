@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1911989.Tropas_del_espacio)'
 sexo_autor: V
 paginas: 242
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Starship Troopers narra la formación de un soldado espacial y su aceptación fi
 
 - **Inicio:** 2014/02/12
 - **Fin:** 2014/02/16
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

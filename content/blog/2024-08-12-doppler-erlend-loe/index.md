@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/43885426-doppler)'
 sexo_autor: V
 paginas: 176
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Esta satírica novela, que fue todo un éxito en Noruega, nos hace reflexionar s
 
 - **Inicio:** 2024/08/08
 - **Fin:** 2024/08/12
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

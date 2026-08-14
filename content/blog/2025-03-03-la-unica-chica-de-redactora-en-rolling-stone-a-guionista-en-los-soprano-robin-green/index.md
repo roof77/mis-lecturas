@@ -18,7 +18,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/205147538-la-nica-chica)'
 sexo_autor: H
 paginas: 304
-nota: '3'
+nota: Muy bien
 ---
 
 ## Ficha del libro
@@ -35,4 +35,4 @@ nota: '3'
 
 - **Inicio:** 2025/02/19
 - **Fin:** 2025/03/03
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Muy bien

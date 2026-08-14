@@ -21,7 +21,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/38937406-cuidado-que-te-asesinas)'
 sexo_autor: V
 paginas: 104
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Una movida considerable.
 
 - **Inicio:** 2024/03/05
 - **Fin:** 2024/03/05
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

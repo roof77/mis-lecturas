@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/345434.Maison_Ikkoku_tomo_8)'
 sexo_autor: H
 paginas: 340
-nota: 3,75
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ Maison Ikkoku unterscheidet sich etwas von Rumiko Takahashis verrücktchaotische
 
 - **Inicio:** 2024/06/24
 - **Fin:** 2024/06/28
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Recomendable

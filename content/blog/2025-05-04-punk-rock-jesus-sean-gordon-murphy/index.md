@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15798792-punk-rock-jesus)'
 sexo_autor: V
 paginas: 224
-nota: '3'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -62,4 +62,4 @@ Along with his artistic credits on JOE THE BARBARIAN and AMERICAN  SURVIVAL OF T
 
 - **Inicio:** 2025/04/30
 - **Fin:** 2025/05/04
-- **Calificación:** ★★★☆☆ (3/5)
+- **Calificación:** Bien

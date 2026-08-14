@@ -31,7 +31,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4458271-botchan)'
 sexo_autor: V
 paginas: 240
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Botchan es un indiscutible clásico de la moderna literatura japonesa y, desde h
 
 - **Inicio:** 2014/06/26
 - **Fin:** 2014/06/29
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

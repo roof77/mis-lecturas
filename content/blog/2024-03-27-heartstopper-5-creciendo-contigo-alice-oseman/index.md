@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202748429-heartstopper-5-creciendo-contigo)'
 sexo_autor: H
 paginas: 336
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Nick y Charlie están muy enamorados. Por fin se han dicho esas dos palabras que
 
 - **Inicio:** 2024/03/27
 - **Fin:** 2024/03/27
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

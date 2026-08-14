@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17857915-eres-mi-madre)'
 sexo_autor: H
 paginas: 290
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ La autora del bestseller Fun Home regresa a su exitosa saga familiar. Si has le�
 
 - **Inicio:** 2024/05/09
 - **Fin:** 2024/05/21
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

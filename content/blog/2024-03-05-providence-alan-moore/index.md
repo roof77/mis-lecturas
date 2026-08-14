@@ -22,7 +22,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/62969532-providence)'
 sexo_autor: V
 paginas: 720
-nota: '0'
+nota: No es para mi
 ---
 
 ## Sinopsis
@@ -45,4 +45,4 @@ Il capolavoro lovecraftiano di Alan Moore e Jacen Burrows raccolto in un prestig
 
 - **Inicio:** 2024/03/05
 - **Fin:** 2024/03/05
-- **Calificación:** ☆☆☆☆☆ (0/5)
+- **Calificación:** No es para mi

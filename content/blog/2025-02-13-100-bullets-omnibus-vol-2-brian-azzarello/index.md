@@ -26,7 +26,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59205112-100-bullets-omnibus-vol-2)'
 sexo_autor: V
 paginas: 1008
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ This second volume omnibus collects 100 Bullets #59-100!
 
 - **Inicio:** 2025/02/10
 - **Fin:** 2025/02/13
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

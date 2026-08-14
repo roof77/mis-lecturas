@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58957605-yo-no-s-de-otras-cosas)'
 sexo_autor: H
 paginas: 176
-nota: 4,75
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Yo no sé de otras cosas es la historia de alguien que quiere conocerlo todo, vi
 
 - **Inicio:** 2024/02/06
 - **Fin:** 2024/02/11
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Muy recomendable

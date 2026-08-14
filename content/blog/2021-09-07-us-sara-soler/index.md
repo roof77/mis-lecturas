@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58089618-us)'
 sexo_autor: H
 paginas: 144
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Us pretende visibilizar la realidad trans y aportar su visión y su granito de a
 
 - **Inicio:** 2021/09/07
 - **Fin:** 2021/09/07
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/33234122-escapar-historia-de-un-reh-n)'
 sexo_autor: V
 paginas: 432
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Tras numerosos encuentros con él, Guy Delisle decide contar su historia. Un tes
 
 - **Inicio:** 2024/08/30
 - **Fin:** 2024/08/31
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

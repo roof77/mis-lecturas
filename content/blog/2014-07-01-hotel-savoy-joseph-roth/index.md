@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12497034-hotel-savoy)'
 sexo_autor: V
 paginas: 176
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Un joven judío vienés, prisionero durante tres años, vuelve a casa una vez li
 
 - **Inicio:** 2014/06/30
 - **Fin:** 2014/07/01
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

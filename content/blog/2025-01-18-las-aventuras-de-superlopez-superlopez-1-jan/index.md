@@ -21,7 +21,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/19537438-las-aventuras-de-superl-pez)'
 sexo_autor: V
 paginas: 65
-nota: 3,75
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +47,4 @@ El origen de SuperlópezContra la Luz Luminosa¡Chiclón ataca!Contra el Gladiad
 
 - **Inicio:** 2025/01/18
 - **Fin:** 2025/01/18
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Recomendable

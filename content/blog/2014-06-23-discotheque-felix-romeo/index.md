@@ -19,7 +19,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/6845059-discoth-que)'
 sexo_autor: V
 paginas: 224
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -40,4 +40,4 @@ Discothèque es una comedia negra y coral. La parodia de géneros, el culebrón
 
 - **Inicio:** 2014/06/20
 - **Fin:** 2014/06/23
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

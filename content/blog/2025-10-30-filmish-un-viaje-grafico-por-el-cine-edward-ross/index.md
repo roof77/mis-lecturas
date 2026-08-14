@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40171304-filmish)'
 sexo_autor: V
 paginas: 200
-nota: 4,75
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ Este libro es un viaje apasionante por la historia del cine en siete  capítulos
 
 - **Inicio:** 2025/10/19
 - **Fin:** 2025/10/30
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Muy recomendable

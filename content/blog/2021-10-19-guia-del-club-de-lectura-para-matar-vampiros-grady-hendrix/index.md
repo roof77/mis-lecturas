@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/58555274-gu-a-del-club-de-lectura-para-matar-vampiros)'
 sexo_autor: V
 paginas: 471
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -61,4 +61,4 @@ Poco a poco, James se irá introduciendo en la vida cotidiana de Patricia tratan
 
 - **Inicio:** 2021/10/15
 - **Fin:** 2021/10/19
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

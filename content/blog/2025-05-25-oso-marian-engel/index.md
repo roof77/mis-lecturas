@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25382522-oso)'
 sexo_autor: H
 paginas: 168
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ En todos los sentidos. A pesar de las críticas que recibió por su controvertid
 
 - **Inicio:** 2025/05/21
 - **Fin:** 2025/05/25
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

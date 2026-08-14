@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/60575724-hierba)'
 sexo_autor: H
 paginas: 483
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Partiendo de las entrevistas que mantuvo con Lee Ok-Sun en una residencia de anc
 
 - **Inicio:** 2025/02/22
 - **Fin:** 2025/03/01
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

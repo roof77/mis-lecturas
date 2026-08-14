@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59747182-no-me-acuerdo-de-nada)'
 sexo_autor: H
 paginas: 176
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ A partir de cualquier anécdota, la autora es capaz de trazar unas brillantes ob
 
 - **Inicio:** 2022/06/29
 - **Fin:** 2022/07/01
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

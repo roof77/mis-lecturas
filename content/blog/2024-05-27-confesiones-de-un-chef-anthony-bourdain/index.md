@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/111132.Confesiones_de_un_chef)'
 sexo_autor: V
 paginas: 285
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ El cocinero más salvaje, procaz y desarmantemente sincero del planeta cuenta si
 
 - **Inicio:** 2024/05/17
 - **Fin:** 2024/05/27
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

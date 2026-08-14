@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/59186.La_metamorfosis)'
 sexo_autor: V
 paginas: 125
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ La metamorfosis (Die Verwandlung, en su título original en alemán) es un relat
 
 - **Inicio:** 2015/01/14
 - **Fin:** 2015/01/14
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

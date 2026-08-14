@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35102269-carter)'
 sexo_autor: V
 paginas: 269
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Ambientada en una gris y opresiva ciudad siderúrgica del norte de Inglaterra a 
 
 - **Inicio:** 2017/12/27
 - **Fin:** 2017/12/28
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

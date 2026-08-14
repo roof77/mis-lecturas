@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/122764891-los-detalles)'
 sexo_autor: H
 paginas: 160
-nota: 4,25
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -56,4 +56,4 @@ Ganadora del Premio August, el galardón literario más importante de Suecia, y 
 
 - **Inicio:** 2024/05/02
 - **Fin:** 2024/05/07
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Muy recomendable

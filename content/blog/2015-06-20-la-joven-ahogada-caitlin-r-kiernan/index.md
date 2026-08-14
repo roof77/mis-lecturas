@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/21398782-la-joven-ahogada)'
 sexo_autor: H
 paginas: 392
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -58,4 +58,4 @@ Enfrentándose a sus propias percepciones, Imp debe descubrir la verdad sobre su
 
 - **Inicio:** 2015/06/14
 - **Fin:** 2015/06/20
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

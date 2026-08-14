@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22005997-los-vengadores)'
 sexo_autor: V
 paginas: 240
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Mighty Thor Annual 6, Avengers 167, 168, 170-177 y The Korvac Saga TPB Epilogue 
 
 - **Inicio:** 2025/10/18
 - **Fin:** 2025/10/19
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

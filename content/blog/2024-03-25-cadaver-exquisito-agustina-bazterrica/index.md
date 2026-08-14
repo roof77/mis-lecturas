@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/36696699-cad-ver-exquisito)'
 sexo_autor: H
 paginas: 249
-nota: 3,75
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -62,4 +62,4 @@ Con más de 200,000 lectores en todo el mundo, traducido a 23 idiomas y derechos
 
 - **Inicio:** 2024/03/15
 - **Fin:** 2024/03/25
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Recomendable

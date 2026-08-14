@@ -21,7 +21,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/20627474-cr-nicas-de-la-mafia)'
 sexo_autor: V
 paginas: 431
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -45,4 +45,4 @@ Este libro es el resultado natural de ambas pasiones. Por un lado, contiene vein
 
 - **Inicio:** 2014/03/05
 - **Fin:** 2014/03/11
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

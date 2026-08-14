@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40522789-the-black-holes)'
 sexo_autor: V
 paginas: 128
-nota: 3,75
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -55,4 +55,4 @@ Gloria, Laura y Cristina quieren montar una banda de aires punk llamada The Blac
 
 - **Inicio:** 2025/12/22
 - **Fin:** 2025/12/30
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Recomendable

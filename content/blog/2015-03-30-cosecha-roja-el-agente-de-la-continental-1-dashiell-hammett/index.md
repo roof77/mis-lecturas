@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/4110872-cosecha-roja)'
 sexo_autor: V
 paginas: 256
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Cosecha Roja desarrolla la violenta historia de un detective privado que se prop
 
 - **Inicio:** 2015/03/26
 - **Fin:** 2015/03/30
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

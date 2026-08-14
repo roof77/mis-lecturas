@@ -24,7 +24,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/2788920-el-maestro-juan-mart-nez-que-estaba-all)'
 sexo_autor: V
 paginas: 320
-nota: '4'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -47,4 +47,4 @@ Después de triunfar en los cabarets de media Europa, el bailarín flamenco Juan
 
 - **Inicio:** 2025/05/26
 - **Fin:** 2025/05/31
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy recomendable

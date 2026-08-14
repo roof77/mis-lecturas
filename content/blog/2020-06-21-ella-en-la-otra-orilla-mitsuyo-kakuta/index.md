@@ -31,7 +31,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/32711738-ella-en-la-otra-orilla)'
 sexo_autor: H
 paginas: 224
-nota: '5'
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ Una novela rica en sensibilidad y en análisis psicológicos sobre la dificultad
 
 - **Inicio:** 2020/06/14
 - **Fin:** 2020/06/21
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Muy recomendable

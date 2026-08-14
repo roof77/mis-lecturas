@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/264704.La_leyenda_del_Santo_Bebedor)'
 sexo_autor: V
 paginas: 96
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Asimismo, este texto –como señala Carlos Barral en su feliz prologo– es un 
 
 - **Inicio:** 2023/05/07
 - **Fin:** 2023/05/10
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

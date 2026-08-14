@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/221482309-los-asesinos-de-la-cola-del-gato-sin-vida)'
 sexo_autor: V
 paginas: 214
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ P. Djèlí Clark, una de las revelaciones de la ficción especulativa de nuestro
 
 - **Inicio:** 2025/06/25
 - **Fin:** 2025/06/28
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

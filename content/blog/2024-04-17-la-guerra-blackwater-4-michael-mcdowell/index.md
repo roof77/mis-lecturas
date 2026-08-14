@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/202795194-la-guerra)'
 sexo_autor: V
 paginas: 263
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Comienza una nueva era para el clan Caskey: la persistencia y el trabajo duro de
 
 - **Inicio:** 2024/04/14
 - **Fin:** 2024/04/17
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

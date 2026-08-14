@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/17258367-dura-la-lluvia-que-cae)'
 sexo_autor: H
 paginas: 348
-nota: 4,75
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ Dura la lluvia que cae es una novela de crimen, castigo y la búsqueda de una re
 
 - **Inicio:** 2021/11/01
 - **Fin:** 2021/11/22
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Imprescindible

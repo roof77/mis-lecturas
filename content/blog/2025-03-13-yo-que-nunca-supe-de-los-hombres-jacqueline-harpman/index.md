@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/57310370-yo-que-nunca-supe-de-los-hombres)'
 sexo_autor: H
 paginas: 192
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Jacqueline Harpman (1929-2012) fue una novelista y psicoanalista belga de origen
 
 - **Inicio:** 2025/03/10
 - **Fin:** 2025/03/13
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

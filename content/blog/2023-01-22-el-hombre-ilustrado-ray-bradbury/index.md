@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1053630.El_hombre_ilustrado)'
 sexo_autor: V
 paginas: 283
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ En esta colección de historias entrelazadas, el narrador anónimo conoce a El H
 
 - **Inicio:** 2023/01/14
 - **Fin:** 2023/01/22
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/45732.Carta_de_una_desconocida)'
 sexo_autor: V
 paginas: 72
-nota: 4,5
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ nota: 4,5
 
 - **Inicio:** 2021/08/11
 - **Fin:** 2021/08/11
-- **Calificación:** ★★★★☆ (4,5/5)
+- **Calificación:** Muy recomendable

@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/125607047-la-sangre-de-la-virgen)'
 sexo_autor: V
 paginas: 296
-nota: 4,25
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -51,4 +51,4 @@ California. 1971. Un joven ambicioso trata de abrirse camino en la industria del
 
 - **Inicio:** 2024/02/26
 - **Fin:** 2024/03/04
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Muy recomendable

@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/9395411-quidditch-a-trav-s-de-los-tiempos)'
 sexo_autor: H
 paginas: 73
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -57,4 +57,4 @@ Los beneficios de la venta de este libro se destinarán a Comic Relief, que util
 
 - **Inicio:** 2016/12/27
 - **Fin:** 2016/12/29
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

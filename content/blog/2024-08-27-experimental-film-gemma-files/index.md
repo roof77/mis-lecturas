@@ -30,7 +30,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/35504947-experimental-film)'
 sexo_autor: H
 paginas: 354
-nota: 3,75
+nota: Mbien
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ Lois Cairns, una exprofesora de cine, desempleada y al borde de la depresión, d
 
 - **Inicio:** 2024/08/17
 - **Fin:** 2024/08/27
-- **Calificación:** ★★★★☆ (3,75/5)
+- **Calificación:** Mbien

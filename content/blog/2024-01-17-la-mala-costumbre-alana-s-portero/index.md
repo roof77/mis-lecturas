@@ -28,7 +28,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/123723946-la-mala-costumbre)'
 sexo_autor: H
 paginas: 252
-nota: 4,75
+nota: Muy recomendable
 ---
 
 ## Sinopsis
@@ -54,4 +54,4 @@ La mala costumbre es una novela cruda y feroz, pero también poética y conmoved
 
 - **Inicio:** 2024/01/12
 - **Fin:** 2024/01/17
-- **Calificación:** ★★★★★ (4,75/5)
+- **Calificación:** Muy recomendable

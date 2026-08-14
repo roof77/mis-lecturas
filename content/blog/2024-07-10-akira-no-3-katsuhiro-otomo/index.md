@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/15780573-akira-no-3)'
 sexo_autor: V
 paginas: 288
-nota: 3,5
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -53,4 +53,4 @@ En un caótico Neo-Tokio recién emergido de las cenizas de la III Guerra Mundia
 
 - **Inicio:** 2024/07/10
 - **Fin:** 2024/07/10
-- **Calificación:** ★★★★☆ (3,5/5)
+- **Calificación:** Muy bien

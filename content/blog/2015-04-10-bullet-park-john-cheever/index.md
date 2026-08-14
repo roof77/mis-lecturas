@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/11889.Bullet_Park)'
 sexo_autor: V
 paginas: 243
-nota: '5'
+nota: Imprescindible
 ---
 
 ## Sinopsis
@@ -50,4 +50,4 @@ Bienvenidos a Bullet Park, un universo en donde hasta sus habitantes más intach
 
 - **Inicio:** 2015/04/07
 - **Fin:** 2015/04/10
-- **Calificación:** ★★★★★ (5/5)
+- **Calificación:** Imprescindible

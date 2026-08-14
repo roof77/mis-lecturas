@@ -32,7 +32,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/63141636-las-cosas-han-empeorado-desde-la-ltima-vez-que-hablamos)'
 sexo_autor: V
 paginas: 268
-nota: '4'
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -66,4 +66,4 @@ Tres oscuras y perturbadoras historias de terror de una nueva y sorprendente voz
 
 - **Inicio:** 2024/01/20
 - **Fin:** 2024/01/23
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Recomendable

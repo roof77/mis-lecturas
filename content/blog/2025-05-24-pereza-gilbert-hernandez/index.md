@@ -25,7 +25,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/12536799-pereza)'
 sexo_autor: V
 paginas: 192
-nota: '4'
+nota: Muy bien
 ---
 
 ## Sinopsis
@@ -47,4 +47,4 @@ Troubled teenager Miguel Serra becomes a walking urban legend after he wills him
 
 - **Inicio:** 2025/05/23
 - **Fin:** 2025/05/24
-- **Calificación:** ★★★★☆ (4/5)
+- **Calificación:** Muy bien

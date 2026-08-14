@@ -29,7 +29,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/51477392-ni-a-mujer-otras)'
 sexo_autor: H
 paginas: 496
-nota: 4,25
+nota: Recomendable
 ---
 
 ## Sinopsis
@@ -59,4 +59,4 @@ De Newcastle a Cornualles, desde principio del siglo veinte hasta las adolescent
 
 - **Inicio:** 2022/12/01
 - **Fin:** 2022/12/13
-- **Calificación:** ★★★★☆ (4,25/5)
+- **Calificación:** Recomendable

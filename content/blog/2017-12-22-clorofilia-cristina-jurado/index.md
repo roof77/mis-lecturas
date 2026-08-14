@@ -23,7 +23,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/34599969-clorofilia)'
 sexo_autor: H
 paginas: 142
-nota: '2'
+nota: Bien
 ---
 
 ## Sinopsis
@@ -45,4 +45,4 @@ nota: '2'
 
 - **Inicio:** 2017/12/22
 - **Fin:** 2017/12/22
-- **Calificación:** ★★☆☆☆ (2/5)
+- **Calificación:** Bien

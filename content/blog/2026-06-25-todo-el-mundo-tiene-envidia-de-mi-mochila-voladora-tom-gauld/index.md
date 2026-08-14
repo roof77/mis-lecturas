@@ -27,7 +27,7 @@ image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/25320981-todo-el-mundo-tiene-envidia-de-mi-mochila-voladora)'
 sexo_autor: V
 paginas: 160
-nota: Bin
+nota: Bien
 ---
 
 ## Sinopsis
@@ -52,4 +52,4 @@ Traducción de Esther Cruz (Las cuatro de Syldavia)
 
 - **Inicio:** 2026/06/25
 - **Fin:** 2026/06/25
-- **Calificación:** Bin
+- **Calificación:** Bien
