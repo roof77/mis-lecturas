@@ -6,11 +6,11 @@ summary: Estadísticas de lectura por año.
 ## Resumen histórico
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">192782</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">649</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">194032</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">653</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">54417</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">265</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">55545</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">270</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -56,11 +56,11 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">297</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">205</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">297</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">206</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (500)</li><li>Club de lectura (191)</li><li>Novela (190)</li><li>Fantasía (184)</li><li>Contemporaneo (174)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (214)</li><li>Ficción (151)</li><li>Fantasía (83)</li><li>Jovenes adultos (50)</li><li>Humor (49)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (504)</li><li>Club de lectura (193)</li><li>Novela (191)</li><li>Fantasía (186)</li><li>Contemporaneo (175)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (219)</li><li>Ficción (155)</li><li>Fantasía (83)</li><li>Jovenes adultos (54)</li><li>Romance (53)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -68,21 +68,21 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Editoriales más leídas</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Libros del Asteroide (28)</li><li>Blackie Books (26)</li><li>Editorial Anagrama (25)</li><li>Literatura Random House (18)</li><li>Anagrama (17)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Image Comics (27)</li><li>Astiberri (19)</li><li>Milky Way Ediciones (17)</li><li>La Cúpula (12)</li><li>Ediciones Glénat España (12)</li></ol></div></div>
+<h3 style="margin-top:0;">Editoriales más leídas</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Libros del Asteroide (28)</li><li>Blackie Books (26)</li><li>Editorial Anagrama (25)</li><li>Literatura Random House (18)</li><li>Anagrama (17)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Image Comics (27)</li><li>Milky Way Ediciones (21)</li><li>Astiberri (19)</li><li>La Cúpula (12)</li><li>Ediciones Glénat España (12)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.70</strong></p><p>Nota más frecuente (texto): <strong>Recomendable</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.53</strong></p><p>Nota más frecuente (texto): <strong>Muy recomendable</strong></p>
 </div>
 
 ## 2026
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">5060</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">19</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">6310</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">23</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">18360</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">112</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">19488</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">117</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -132,15 +132,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">266</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">164</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">274</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">167</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (15)</li><li>Ficción Literaria (7)</li><li>Contemporaneo (7)</li><li>Novela (7)</li><li>Relatos (6)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (90)</li><li>Ficción (71)</li><li>Fantasía (37)</li><li>Jovenes adultos (31)</li><li>Romance (26)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (19)</li><li>Ficción Literaria (8)</li><li>Contemporaneo (8)</li><li>Novela (8)</li><li>Relatos (7)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (95)</li><li>Ficción (75)</li><li>Fantasía (37)</li><li>Jovenes adultos (35)</li><li>Romance (30)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.50</strong></p><p>Nota más frecuente (texto): <strong>Recomendable</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Nota más frecuente (texto): <strong>Recomendable</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -220,7 +220,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.92</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Nota más frecuente (texto): <strong>Muy bien</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -300,7 +300,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.87</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Nota más frecuente (texto): <strong>Muy bien</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -380,7 +380,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.87</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.79</strong></p><p>Nota más frecuente (texto): <strong>Muy recomendable</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -460,7 +460,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.92</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.71</strong></p><p>Nota más frecuente (texto): <strong>Muy recomendable</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -540,7 +540,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.75</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.46</strong></p><p>Nota más frecuente (texto): <strong>Recomendable</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -595,7 +595,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.50</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.55</strong></p><p>Nota más frecuente (texto): <strong>Bien</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -646,7 +646,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.45</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.55</strong></p><p>Nota más frecuente (texto): <strong>Bien</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -722,7 +722,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.45</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.44</strong></p><p>Nota más frecuente (texto): <strong>Imprescindible</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -802,7 +802,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.70</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.61</strong></p><p>Nota más frecuente (texto): <strong>Muy recomendable</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -857,7 +857,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.45</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.48</strong></p><p>Nota más frecuente (texto): <strong>Bien</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -908,7 +908,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.53</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.54</strong></p><p>Nota más frecuente (texto): <strong>Bien</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -984,7 +984,7 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.81</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.35</strong></p><p>Nota más frecuente (texto): <strong>Muy recomendable</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
