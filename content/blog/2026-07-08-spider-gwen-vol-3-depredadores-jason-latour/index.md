@@ -7,7 +7,15 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Libros
+- Comics
+- Comics
+- Marvel
+- Novela gráfica
+- Ficción
+- Crimen
+- Superheroes
+- Colecciones
+- Acción
 toc: false
 autores:
 - Jason Latour
@@ -39,6 +47,7 @@ Contiene Spider-Gwen v2, 19-24 USA
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8491674144 / 9788491674146
 - **Publicación original:** 2018-05-24
+- **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Superheroes](/tags/superheroes/), [Colecciones](/tags/colecciones/), [Acción](/tags/accion/)
 - **Ficha en Goodreads:** [Spider-Gwen, Vol. 3: Depredadores](https://www.goodreads.com/book/show/42295844-spider-gwen-vol-3)
 
 ## Mi lectura

@@ -10,6 +10,12 @@ tags:
 - Comics
 - Comics
 - Marvel
+- Novela gráfica
+- Ficción
+- Crimen
+- Superheroes
+- Colecciones
+- Acción
 toc: false
 autores:
 - Jason Latour
@@ -39,7 +45,7 @@ Contiene Spider-Gwen #1-6 y Gwenpool Special 1 USA
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490946361 / 9788490946367
 - **Publicación original:** 2016-07-14
-- **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/)
+- **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Superheroes](/tags/superheroes/), [Colecciones](/tags/colecciones/), [Acción](/tags/accion/)
 - **Ficha en Goodreads:** [Spider-Gwen, Vol. 1: Un Gran Poder](https://www.goodreads.com/book/show/30166509-spider-gwen-vol-1)
 
 ## Mi lectura
