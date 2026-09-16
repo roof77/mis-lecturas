@@ -24,8 +24,6 @@ autores_stats:
 - Isaac Asimov
 editoriales:
 - Círculo de Lectores
-image:
-  caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/22746804-los-premios-hugo-1955-1961)'
 sexo_autor: V
 paginas: 331
 nota: '3'

@@ -6,8 +6,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
-- Comics
+- Libros
 toc: false
 autores:
 - Peter Bagge
@@ -37,7 +36,6 @@ Odio 14, Hombre de familia
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8478337474 / 9788478337477
 - **Publicación original:** 2006-12-01
-- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio 14, Hombre de familia (Novela Grafica/ Odio) (Spanish Edition)](https://www.goodreads.com/book/show/2751012-odio-14-hombre-de-familia-novela-grafica-odio)
 
 ## Mi lectura

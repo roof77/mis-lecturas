@@ -7,8 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
-- Comics
+- Libros
 toc: false
 autores:
 - Dan Slott
@@ -49,7 +48,6 @@ SPIDER-GWEN (2015) #16 – Por JASON LATOUR, ROBBI RODRIGUEZ e RICO RENZI
 - **Idioma:** Portuguese
 - **ISBN:** 9898882670 / 9789898882677
 - **Publicación original:** 2018-02-16
-- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Homem-Aranha - O Fim da Conspiração I / O Meu Primeiro Amor I](https://www.goodreads.com/book/show/38928263-homem-aranha---o-fim-da-conspira-o-i-o-meu-primeiro-amor-i)
 
 ## Mi lectura

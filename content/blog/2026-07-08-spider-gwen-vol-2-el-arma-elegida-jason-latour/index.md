@@ -7,8 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
-- Comics
+- Libros
 toc: false
 autores:
 - Jason Latour
@@ -38,7 +37,6 @@ Contiene Spider-Gwen v2, 9-15 y Annual 1 USA
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8490949972 / 9788490949979
 - **Publicación original:** 2017-06-07
-- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Spider-Gwen, Vol. 2: El Arma Elegida](https://www.goodreads.com/book/show/39099830-spider-gwen-vol-2)
 
 ## Mi lectura

@@ -7,8 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
-- Comics
+- Libros
 toc: false
 autores:
 - Peter Bagge
@@ -37,7 +36,6 @@ Eh, pero que nada cambie también tiene su parte buena: ¡Peter Bagge sigue sien
 - **Formato:** Paperback, 132 páginas
 - **Idioma:** Spanish; Castilian
 - **Publicación original:** 2012-05-01
-- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio Integral Vol. 6](https://www.goodreads.com/book/show/56895328-odio-integral-vol-6)
 
 ## Mi lectura

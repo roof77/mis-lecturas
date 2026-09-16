@@ -7,8 +7,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
-- Comics
+- Libros
 toc: false
 autores:
 - Ed Brubaker
@@ -37,7 +36,6 @@ El formidable equipo creativo formado por Ed Brubaker, el hombre que mató al Ca
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8410497824 / 9788410497825
 - **Publicación original:** 2026-02-01
-- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Marvel Omnibus. Daredevil de Ed Brubaker y Michael Lark 2](https://www.goodreads.com/book/show/249850858-marvel-omnibus-daredevil-de-ed-brubaker-y-michael-lark-2)
 
 ## Mi lectura

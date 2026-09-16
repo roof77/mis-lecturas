@@ -6,8 +6,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
-- Comics
+- Libros
 toc: false
 autores:
 - Yarō Abe
@@ -32,7 +31,6 @@ nota: Muy recomendable
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8410332884 / 9788410332881
 - **Publicación original:** 2026-02-05
-- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [La cantina de medianoche 9](https://www.goodreads.com/book/show/246738642-la-cantina-de-medianoche-9)
 
 ## Mi lectura

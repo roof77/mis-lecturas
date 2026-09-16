@@ -6,8 +6,7 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
-- Comics
+- Libros
 toc: false
 autores:
 - Grant Morrison
@@ -34,7 +33,6 @@ nota: Muy bien
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8484316904 / 9788484316909
 - **Publicación original:** 2004-01-01
-- **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [El Asco: Nosotros contra ellos (El Asco #1 de 3)](https://www.goodreads.com/book/show/13482424-el-asco)
 
 ## Mi lectura
