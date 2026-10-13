@@ -1,5 +1,5 @@
 ---
-title: Narrativa completa (vol. I)
+title: Narrativa completa vol. I
 summary: "Edición de Juan Antonio Molina Foix. Traducción de Juan Antonio Molina Foix, Francisco Torres Oliver y José María\
   \ Nebreda \r\n\r\nHoward Phillips Lovecraft…"
 date: '2016-05-05T23:59:58'
@@ -52,7 +52,7 @@ Howard Phillips Lovecraft (1890-1937) fue un ave nocturna y un cazador de sueño
 - **ISBN:** 8477025290 / 9788477025290
 - **Publicación original:** 2005-01-01
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Lovecraftiano](/tags/lovecraftiano/), [Clásico](/tags/clasico/), [EEUU](/tags/eeuu/), [Relatos](/tags/relatos/), [Ciencia ficción](/tags/ciencia-ficcion/), [Pulp](/tags/pulp/), [Ficción](/tags/ficcion/), [Literatura](/tags/literatura/)
-- **Ficha en Goodreads:** [Narrativa completa (vol. I)](https://www.goodreads.com/book/show/4503434-narrativa-completa)
+- **Ficha en Goodreads:** [Narrativa completa vol. I](https://www.goodreads.com/book/show/4503434-narrativa-completa)
 
 ## Mi lectura
 

@@ -1,5 +1,5 @@
 ---
-title: Belleville Story (Integral)
+title: Belleville Story. Integral
 summary: "UN THRILLER DE ACCIÓN QUE RETRATA LA PARTE MÁS OSCURA DEL BARRIO DE BELLEVILLE \r\n\r\nBelleville Story es un thriller\
   \ de acción ambientado en las populares calles…"
 date: '2023-02-12T23:59:59'
@@ -40,7 +40,7 @@ Arnaud Malherbe y Vincent Perriot retratan la parte más oscura y siniestra de u
 - **ISBN:** 8467914696 / 9788467914696
 - **Publicación original:** 2014-04-01
 - **Géneros:** [Comics](/tags/comics/)
-- **Ficha en Goodreads:** [Belleville Story (Integral)](https://www.goodreads.com/book/show/22033238-belleville-story)
+- **Ficha en Goodreads:** [Belleville Story. Integral](https://www.goodreads.com/book/show/22033238-belleville-story)
 
 ## Mi lectura
 
