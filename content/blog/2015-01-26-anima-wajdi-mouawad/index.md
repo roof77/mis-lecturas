@@ -1,5 +1,5 @@
 ---
-title: Anima
+title: '#91 · Anima'
 summary: 'Lorsqu’il découvre le meurtre de sa femme, Wahhch Debch est tétanisé : il doit à tout prix savoir qui a fait ça,
   et qui donc si ce n’est pas lui ? Éperonné par…'
 date: '2015-01-26T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Contemporaneo
 - Ficción Literaria
 toc: false
+id: 91
 autores:
 - Wajdi Mouawad
 autores_stats:

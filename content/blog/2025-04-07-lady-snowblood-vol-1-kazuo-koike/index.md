@@ -1,5 +1,5 @@
 ---
-title: Lady Snowblood, vol. 1
+title: '#732 · Lady Snowblood, vol. 1'
 summary: Osayo era una mujer que lo perdió todo a manos de cuatro indeseables, que asesinaron a sus seres queridos y la violaron.
   Años más tarde, encerrada de por vida…
 date: '2025-04-07T23:59:59'
@@ -9,10 +9,10 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Drama
 - Ficción histórica
 toc: false
+id: 732
 autores:
 - Kazuo Koike
 - Kazuo Kamimura
@@ -38,7 +38,7 @@ Osayo era una mujer que lo perdió todo a manos de cuatro indeseables, que asesi
 - **Colaboradores:** [Kazuo Kamimura](/autores/kazuo-kamimura/) (illustrator)
 - **Editorial:** Planeta Cómic
 - **Formato:** Hardcover, 512 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8411123790 / 9788411123792
 - **Publicación original:** 2023-05-24
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Drama](/tags/drama/), [Ficción histórica](/tags/ficcion-historica/)

@@ -1,5 +1,5 @@
 ---
-title: No me acuerdo de nada
+title: '#550 · No me acuerdo de nada'
 summary: "Una divertida y sabia reflexión vital de una de las autoras más queridas, admiradas e influyentes de Estados Unidos.\r\
   \n\r\nNora Ephron es un género en sí misma…"
 date: '2022-07-01T23:59:58'
@@ -17,6 +17,7 @@ tags:
 - Autobiografía
 - Comedia
 toc: false
+id: 550
 autores:
 - Nora Ephron
 - Catalina Martínez Muñoz
@@ -47,7 +48,7 @@ A partir de cualquier anécdota, la autora es capaz de trazar unas brillantes ob
 - **Colaboradores:** [Catalina Martínez Muñoz](/autores/catalina-martinez-munoz/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419089052 / 9788419089052
 - **Publicación original:** 2022-06-06
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Humor](/tags/humor/), [Ensayo](/tags/ensayo/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Autobiografía](/tags/autobiografia/), [Comedia](/tags/comedia/)

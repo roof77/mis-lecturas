@@ -1,5 +1,5 @@
 ---
-title: Una bomba en mi interior
+title: '#438 · Una bomba en mi interior'
 summary: Cada vez que Beverly Sykes practica el sexo con otra persona, la acomete una enorme explosión en su interior que
   va más allá de todo orgasmo, y siente cómo la…
 date: '2020-07-17T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Adultos
 - Bizarro
 toc: false
+id: 438
 autores:
 - Autumn Christian
 - Hugo Camacho
@@ -82,7 +83,7 @@ Redrum Reviews
 - **Colaboradores:** [Hugo Camacho](/autores/hugo-camacho/) (Translator)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 270 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494995375 / 9788494995378
 - **Publicación original:** 2020-03-02
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Realismo mágico](/tags/realismo-magico/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Fantasía](/tags/fantasia/), [LGTBIQ+](/tags/lgtbiq/), [Ficción Literaria](/tags/ficcion-literaria/), [Adultos](/tags/adultos/), [Bizarro](/tags/bizarro/)

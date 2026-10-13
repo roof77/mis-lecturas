@@ -1,5 +1,5 @@
 ---
-title: El extranjero
+title: '#214 · El extranjero'
 summary: Guía moral e intelectual de la generación llegada a la madurez entre las ruinas, la frustración y la desesperanza
   de la Europa de postguerra, Albert Camus…
 date: '2016-11-23T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción Literaria
 - Siglo XX
 toc: false
+id: 214
 autores:
 - Albert Camus
 - José Ángel Valente
@@ -43,7 +44,7 @@ Guía moral e intelectual de la generación llegada a la madurez entre las ruina
 - **Colaboradores:** [José Ángel Valente](/autores/jose-angel-valente/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Unknown Binding, 124 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 1999-01-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Filosofía](/tags/filosofia/), [Francia](/tags/francia/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Literatura francesa](/tags/literatura-francesa/), [Colegio](/tags/colegio/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/)
 - **Personajes:** Meursault, Raymond Sintès, Marie Cardona, Salamano

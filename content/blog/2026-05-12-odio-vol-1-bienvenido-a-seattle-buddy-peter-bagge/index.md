@@ -1,5 +1,5 @@
 ---
-title: 'Odio vol. 1: Bienvenido a Seattle, Buddy!'
+title: '#836 · Odio vol. 1: Bienvenido a Seattle, Buddy!'
 summary: 'ODIO (HATE): 1991 HARVEY WINNER FOR BEST CARTOONIST, BEST NEW SERIES. The bestselling alternative comic of the 1990''s,
   Odio (Hate) chronicles the…'
 date: '2026-05-12T23:59:57'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 836
 autores:
 - Peter Bagge
 autores_stats:
@@ -33,7 +33,7 @@ ODIO (HATE): 1991 HARVEY WINNER FOR BEST CARTOONIST, BEST NEW SERIES. The bestse
 - **Serie:** Odio: Hate (#1)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 64 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1594971242 / 9781594971242
 - **Publicación original:** 2005-06-01
 - **Géneros:** [Comics](/tags/comics/)

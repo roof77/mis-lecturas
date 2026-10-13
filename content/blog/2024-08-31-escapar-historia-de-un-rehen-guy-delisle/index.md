@@ -1,5 +1,5 @@
 ---
-title: Escapar. Historia de un rehén
+title: '#681 · Escapar. Historia de un rehén'
 summary: "Christophe André, miembro de una ONG médica en la región del Cáucaso, es secuestrado durante su primera misión humanitaria\
   \ en 1997. \r\nTras numerosos encuentros…"
 date: '2024-08-31T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - No Ficción
 - Memorias
 - Biografía
@@ -17,6 +16,7 @@ tags:
 - Historia
 - Francia
 toc: false
+id: 681
 autores:
 - Guy Delisle
 - María Serna Aguirre
@@ -42,7 +42,7 @@ Tras numerosos encuentros con él, Guy Delisle decide contar su historia. Un tes
 - **Colaboradores:** [María Serna Aguirre](/autores/maria-serna-aguirre/) (Translator)
 - **Editorial:** Astiberri 
 - **Formato:** Hardcover, 432 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416251754 / 9788416251759
 - **Publicación original:** 2016-01-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Adultos](/tags/adultos/), [Historia](/tags/historia/), [Francia](/tags/francia/)

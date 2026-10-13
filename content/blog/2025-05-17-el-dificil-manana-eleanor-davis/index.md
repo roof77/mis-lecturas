@@ -1,5 +1,5 @@
 ---
-title: El difícil mañana
+title: '#745 · El difícil mañana'
 summary: "The gorgeous and empathetic story of one couple’s search for hope and a peaceful future\r\n\r\nHannah is a thirty-something\
   \ wife, home-health worker, and antiwar…"
 date: '2025-05-17T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Política
 - Adultos
 - Distopía
 - Queer
 toc: false
+id: 745
 autores:
 - Eleanor Davis
 - Santiago García Fernández
@@ -44,7 +44,7 @@ Told with tenderness and care in an undefined near future, Eleanor Davis's The H
 - **Colaboradores:** [Santiago García Fernández](/autores/santiago-garcia-fernandez/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Hardcover, 152 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841821516X / 9788418215162
 - **Publicación original:** 2020-09-10
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Política](/tags/politica/), [Adultos](/tags/adultos/), [Distopía](/tags/distopia/), [Queer](/tags/queer/)

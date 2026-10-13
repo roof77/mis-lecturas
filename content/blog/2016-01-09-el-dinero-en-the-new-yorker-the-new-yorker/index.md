@@ -1,5 +1,5 @@
 ---
-title: El dinero en The New Yorker
+title: '#167 · El dinero en The New Yorker'
 summary: «Tiene el lector en sus manos una  un libro de viñetas sobre el mundo de las finanzas y la economía extraídas de
   las páginas de The New Yorker. Digo “rareza”…
 date: '2016-01-09T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 167
 autores:
 - The New Yorker
 autores_stats:
@@ -31,7 +32,7 @@ nota: '3'
 - **Autor:** [The New Yorker](/autores/the-new-yorker/)
 - **Editorial:** The New Yorker Magazine
 - **Formato:** Paperback, 260 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415625103 / 9788415625100
 - **Publicación original:** 2012-01-01
 - **Ficha en Goodreads:** [El dinero en The New Yorker](https://www.goodreads.com/book/show/25135673-el-dinero-en-the-new-yorker)

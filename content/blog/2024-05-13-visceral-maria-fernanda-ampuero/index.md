@@ -1,5 +1,5 @@
 ---
-title: Visceral
+title: '#648 · Visceral'
 summary: 'Un cadáver contagiado de virus covid yace amortajado sobre un sofá doméstico bajo un parasol. Junto a él un cartel
   dice: «¡Hemos llamado al 911 y no hay…'
 date: '2024-05-13T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Terror
 - Mujeres
 toc: false
+id: 648
 autores:
 - María Fernanda Ampuero
 autores_stats:

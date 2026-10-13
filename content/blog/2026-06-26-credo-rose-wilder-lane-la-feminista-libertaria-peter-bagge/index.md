@@ -1,5 +1,5 @@
 ---
-title: Credo. Rose Wilder Lane, la feminista libertaria
+title: '#877 · Credo. Rose Wilder Lane, la feminista libertaria'
 summary: 'Peter Bagge regresa con una biografía de otra fascinante pionera del siglo XX: la escritora, feminista, corresponsal
   de guerra y libertaria Rose Wilder Lane…'
 date: '2026-06-26T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Biografía
 - No Ficción
 - Historia
@@ -17,6 +16,7 @@ tags:
 - Memorias
 - Feminismo
 toc: false
+id: 877
 autores:
 - Peter Bagge
 autores_stats:
@@ -41,7 +41,7 @@ Credo es una inmersión profundamente documentada en una figura histórica cuyas
 - **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 116 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417442588 / 9788417442583
 - **Publicación original:** 2020-01-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Biografía](/tags/biografia/), [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Política](/tags/politica/), [Memorias](/tags/memorias/), [Feminismo](/tags/feminismo/)

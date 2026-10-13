@@ -1,5 +1,5 @@
 ---
-title: Caballos lentos
+title: '#533 · Caballos lentos'
 summary: El reino del irreverente y sarcástico Jackson Lamb está en Londres y se llama Casa de la Ciénaga, un vertedero al
   que van a parar los miembros de los servicios…
 date: '2022-04-22T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - Literatura británica
 toc: false
+id: 533
 autores:
 - Mick Herron
 autores_stats:
@@ -40,7 +41,7 @@ El reino del irreverente y sarcástico Jackson Lamb está en Londres y se llama 
 - **Serie:** Slough House (#1)
 - **Editorial:** Salamandra Black
 - **Formato:** Kindle Edition, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841738426X / 9788417384265
 - **Publicación original:** 2018-09-06
 - **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Espionaje](/tags/espionaje/), [Crimen](/tags/crimen/), [Espías](/tags/espias/), [Club de lectura](/tags/club-de-lectura/), [Literatura británica](/tags/literatura-britanica/)

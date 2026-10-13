@@ -1,5 +1,5 @@
 ---
-title: Villanueva
+title: '#679 · Villanueva'
 summary: Miguel y Ana son jóvenes, tienen deudas y esperan un bebé. Un pequeño pueblo que ofrece alojamientos gratuitos parece
   su salvación. El folclore leonés y el…
 date: '2024-08-20T23:59:59'
@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Terror
 - Novela gráfica
 - Ficción
 toc: false
+id: 679
 autores:
 - Javi de Castro
 autores_stats:
@@ -39,7 +39,7 @@ Villanueva —el topónimo más común de España, con 132 localidades homónima
 - **Autor:** [Javi de Castro](/autores/javi-de-castro/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 157 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418215739 / 9788418215735
 - **Publicación original:** 2021-10-07
 - **Géneros:** [Comics](/tags/comics/), [Terror](/tags/terror/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/)

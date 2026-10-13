@@ -1,5 +1,5 @@
 ---
-title: Del Amor
+title: '#462 · Del Amor'
 summary: Todo empieza con un primer encuentro en un avión; ella se llama Chloe y tiene los ojos verdes. Él es muy tímido,
   un romántico con excesiva tendencia a…
 date: '2021-05-20T23:59:58'
@@ -19,6 +19,7 @@ tags:
 - Novela
 - Autoayuda
 toc: false
+id: 462
 autores:
 - Alain de Botton
 autores_stats:
@@ -42,7 +43,7 @@ Sin perder nunca la amenidad ni el sentido del humor, Alain de Botton construye 
 - **Autor:** [Alain de Botton](/autores/alain-de-botton/)
 - **Editorial:** Ediciones B
 - **Formato:** Mass Market Paperback, 373 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 844068035X / 9788440680358
 - **Publicación original:** 1998-01-01
 - **Géneros:** [Filosofía](/tags/filosofia/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Psicología](/tags/psicologia/), [Amor](/tags/amor/), [Ensayo](/tags/ensayo/), [Relacciones](/tags/relacciones/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Autoayuda](/tags/autoayuda/)

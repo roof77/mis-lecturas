@@ -1,5 +1,5 @@
 ---
-title: Visión
+title: '#868 · Visión'
 summary: Julia Gfrörer explora el deseo, el duelo y la necesidad humana de conexión en esta historia sobre una mujer soltera
   del siglo XIX y el espejo embrujado que le…
 date: '2026-06-21T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Terror
 - Ficción
 - Fantasía
@@ -17,6 +16,7 @@ tags:
 - Adultos
 - Ficción histórica
 toc: false
+id: 868
 autores:
 - Julia Gfrörer
 autores_stats:
@@ -41,7 +41,7 @@ A través de líneas finas y desgastadas, de representaciones degradadas y desco
 - **Autor:** [Julia Gfrörer](/autores/julia-gfrorer/)
 - **Editorial:** Alpha Decay
 - **Formato:** Paperback, 96 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412295542 / 9788412295542
 - **Publicación original:** 2021-10-11
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Gótico](/tags/gotico/), [Adultos](/tags/adultos/), [Ficción histórica](/tags/ficcion-historica/)

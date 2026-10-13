@@ -1,5 +1,5 @@
 ---
-title: Elling. El baile de los pajaritos
+title: '#119 · Elling. El baile de los pajaritos'
 summary: Tras la muerte de su madre, Elling es internado en una institución psiquiátrica, que se presenta más bien como una
   instalación recreativa. Allí conoce al que…
 date: '2015-06-24T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Amistad
 - Drama
 toc: false
+id: 119
 autores:
 - Ingvar Ambjørnsen
 autores_stats:
@@ -41,7 +42,7 @@ Tras la muerte de su madre, Elling es internado en una institución psiquiátric
 - **Serie:** Elling (#2)
 - **Editorial:** Nórdica Libros
 - **Formato:** Paperback, 246 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415717903 / 9788415717904
 - **Publicación original:** 2014-03-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Humor](/tags/humor/), [Literatura escandinava](/tags/literatura-escandinava/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Clásico](/tags/clasico/), [Amistad](/tags/amistad/), [Drama](/tags/drama/)

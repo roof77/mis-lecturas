@@ -1,5 +1,5 @@
 ---
-title: La ciudad y la ciudad
+title: '#370 · La ciudad y la ciudad'
 summary: Una mujer es hallada muerta en la ciudad de Beszel, en algún lugar de los confines de Europa. Para llevar a cabo
   la investigación, el inspector Borlú tiene que…
 date: '2018-12-18T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Ciencia Ficción
 toc: false
+id: 370
 autores:
 - China Miéville
 autores_stats:
@@ -42,7 +43,7 @@ China Miéville es uno de los autores más importantes de los últimos años en 
 - **Autor:** [China Miéville](/autores/china-mieville/)
 - **Editorial:** La Factoría de Ideas
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498007682 / 9788498007688
 - **Publicación original:** 2012-05-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Fantasía urbana](/tags/fantasia-urbana/), [Ficción especulativa](/tags/ficcion-especulativa/), [Club de lectura](/tags/club-de-lectura/), [Ciencia Ficción](/tags/ciencia-ficcion/)

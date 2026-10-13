@@ -1,5 +1,5 @@
 ---
-title: MANIAC
+title: '#624 · MANIAC'
 summary: "Un tríptico del siglo XX. \r\n\r\nEl primero es Paul Ehrenfest, físico austriaco, amigo de Einstein y con una vida\
   \ privada tormentosa. Temeroso por el destino de…"
 date: '2024-02-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Física
 - Inteligencia artificial
 toc: false
+id: 624
 autores:
 - Benjamín Labatut
 autores_stats:
@@ -48,7 +49,7 @@ Este libro explica, entre otras cosas, el origen de los ordenadores, de la predi
 - **Autor:** [Benjamín Labatut](/autores/benjamin-labatut/)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 391 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433911007 / 9788433911001
 - **Publicación original:** 2023-10-25
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Filosofía](/tags/filosofia/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Histórico](/tags/historico/), [Novela](/tags/novela/), [Física](/tags/fisica/), [Inteligencia artificial](/tags/inteligencia-artificial/)

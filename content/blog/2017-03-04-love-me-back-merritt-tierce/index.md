@@ -1,5 +1,5 @@
 ---
-title: Love Me Back
+title: '#239 · Love Me Back'
 summary: From "5 Under 35" honoree and Rona Jaffe Award-winner comes an urgent, intensely visceral debut novel about a young
   waitress whose downward spiral is narrated…
 date: '2017-03-04T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Oscuro
 - Literatura
 toc: false
+id: 239
 autores:
 - Merritt Tierce
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: Los niños
+title: '#382 · Los niños'
 summary: Martin Boyne, «un individuo crítico y cauto de cuarenta y seis años a quien dificilmente alguien asociaba con sucesos
   románticos e inesperados», ha decidido…
 date: '2019-03-20T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Autoras
 - Romance
 toc: false
+id: 382
 autores:
 - Edith Wharton
 autores_stats:
@@ -40,7 +41,7 @@ Martin Boyne, «un individuo crítico y cauto de cuarenta y seis años a quien d
 - **Autor:** [Edith Wharton](/autores/edith-wharton/)
 - **Editorial:** Alba 
 - **Formato:** Hardcover, 416 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788484282501
 - **Publicación original:** 2005-01-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Siglo XX](/tags/siglo-xx/), [Autoras](/tags/autoras/), [Romance](/tags/romance/)

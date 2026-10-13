@@ -1,5 +1,5 @@
 ---
-title: Un amor
+title: '#688 · Un amor'
 summary: La historia de Un amor ocurre en La Escapa, un pequeño núcleo rural donde Nat, una joven e inexperta traductora,
   acaba de mudarse. Su casero, que le regala un…
 date: '2024-10-22T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Novela
 - Ficción Literaria
 toc: false
+id: 688
 autores:
 - Sara Mesa
 - Marta Martín
@@ -45,7 +46,7 @@ Sara Mesa vuelve a confrontar al lector con los límites de su propia moral en u
 - **Colaboradores:** [Marta Martín](/autores/marta-martin/) (Narrator)
 - **Editorial:** Anagrama
 - **Formato:** Kindle Edition, 143 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433941712 / 9788433941718
 - **Publicación original:** 2020-09-02
 - **Géneros:** [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Drama](/tags/drama/), [Contemporaneo](/tags/contemporaneo/), [Mujeres](/tags/mujeres/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/)

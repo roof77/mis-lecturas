@@ -1,5 +1,5 @@
 ---
-title: Torpe de nacimiento
+title: '#915 · Torpe de nacimiento'
 summary: Makoto es un niño tímido, patoso y debilucho, que se pasa todo el año resfriado y que trata de adaptarse y encontrar
   su sitio. Es un zote en los deportes, pero…
 date: '2026-08-07T23:59:59'
@@ -9,11 +9,11 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Japón
 - Biografía
 toc: false
+id: 915
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -38,7 +38,7 @@ Makoto es un niño tímido, patoso y debilucho, que se pasa todo el año resfria
 - **Colaboradores:** [Alberto Sakai Fonseca](/autores/alberto-sakai-fonseca/) (translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419670588 / 9788419670588
 - **Publicación original:** 2024-02-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Biografía](/tags/biografia/)

@@ -1,5 +1,5 @@
 ---
-title: El evangelio
+title: '#521 · El evangelio'
 summary: «Mundo maldito, llévame a mí si quieres que ya estoy podrida de todas formas pero no me chafes a Alberto, a Alberto
   déjamelo tranquilo dando saltos en su casa…
 date: '2022-02-07T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Feminismo
 - Sociedad
 toc: false
+id: 521
 autores:
 - Elisa Victoria
 autores_stats:
@@ -42,7 +43,7 @@ La autora del éxito Vozdevieja, Elisa Victoria, se consolida con El Evangelio c
 - **Autor:** [Elisa Victoria](/autores/elisa-victoria/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418187808 / 9788418187803
 - **Publicación original:** 2021-03-31
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Literatura hispana](/tags/literatura-hispana/), [Novela](/tags/novela/), [España](/tags/espana/), [Feminismo](/tags/feminismo/), [Sociedad](/tags/sociedad/)

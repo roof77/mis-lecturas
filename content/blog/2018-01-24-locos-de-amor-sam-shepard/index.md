@@ -1,5 +1,5 @@
 ---
-title: Locos de amor
+title: '#290 · Locos de amor'
 summary: En un zarrapastroso motel en el confín del desierto de Mojave dos destructivos y desesperados amantes, atrapados
   por neuróticas necesidades que los atraen y…
 date: '2018-01-24T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - EEUU
 - Romance
 toc: false
+id: 290
 autores:
 - Sam Shepard
 - Gustavo Pérez de Ayala
@@ -40,7 +41,7 @@ En un zarrapastroso motel en el confín del desierto de Mojave dos destructivos 
 - **Colaboradores:** [Gustavo Pérez de Ayala](/autores/gustavo-perez-de-ayala/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 106 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433912720 / 9788433912725
 - **Publicación original:** 2006-04-18
 - **Géneros:** [Teatro](/tags/teatro/), [Drama](/tags/drama/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Universidad](/tags/universidad/), [EEUU](/tags/eeuu/), [Romance](/tags/romance/)

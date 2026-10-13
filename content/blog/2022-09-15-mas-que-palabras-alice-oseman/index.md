@@ -1,5 +1,5 @@
 ---
-title: Más que palabras
+title: '#561 · Más que palabras'
 summary: Charlie nunca pensó que podría gustarle a Nick, pero resulta que ahora son pareja. De forma oficial. Pero no solo
   eso, también cree que está preparado para…
 date: '2022-09-15T23:59:59'
@@ -10,7 +10,6 @@ tags:
 - Comics
 - Romance
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Queer
@@ -19,6 +18,7 @@ tags:
 - Salud mentál
 - Gay
 toc: false
+id: 561
 autores:
 - Alice Oseman
 - Victoria Simó
@@ -48,7 +48,7 @@ Las semanas pasan y, en este nuevo curso escolar, Charlie y Nick están a punto 
 - **Colaboradores:** [Victoria Simó](/autores/victoria-simo/) (Translator)
 - **Editorial:** Destino
 - **Formato:** Paperback, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8408243225 / 9788408243229
 - **Publicación original:** 2021-06-16
 - **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Salud mentál](/tags/salud-mental/), [Gay](/tags/gay/)

@@ -1,5 +1,5 @@
 ---
-title: 'Damas oscuras: Cuentos de fantasmas de escritoras victorianas eminentes'
+title: '#367 · Damas oscuras: Cuentos de fantasmas de escritoras victorianas eminentes'
 summary: "¿Qué hace que las historias victorianas de fantasmas sean tan perfectas para leer al calor de una chimenea en una\
   \ noche oscura y tempestuosa?\r\n\r\nPorque si hay…"
 date: '2018-11-28T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Halloween
 - Oscuro
 toc: false
+id: 367
 autores:
 - Charlotte Brontë
 - Elizabeth Gaskell
@@ -82,7 +83,7 @@ Porque si hay algo que caracteriza a los victorianos es su maestría a la hora d
 - **Colaboradores:** [Elizabeth Gaskell](/autores/elizabeth-gaskell/) (Author), [Charlotte Riddell](/autores/charlotte-riddell/) (Author), [Mrs. Oliphant](/autores/mrs-oliphant/) (Author), [Lanoe Falconer](/autores/lanoe-falconer/) (Author), [Louisa Baldwin](/autores/louisa-baldwin/) (Author), [Violet Hunt](/autores/violet-hunt/) (Author), [Mary Cholmondeley](/autores/mary-cholmondeley/) (Author), [Ella d'Arcy](/autores/ella-d-arcy/) (Author), [Gertrude Atherton](/autores/gertrude-atherton/) (Author), [Willa Cather](/autores/willa-cather/) (Author), [Mary Eleanor Wilkins Freeman](/autores/mary-eleanor-wilkins-freeman/) (Author), [Dinah Maria Mulock Craik](/autores/dinah-maria-mulock-craik/) (Author), [Isabella Varley Banks](/autores/isabella-varley-banks/) (Author), [Catherine Crowe](/autores/catherine-crowe/) (Author), [Mary Elizabeth Braddon](/autores/mary-elizabeth-braddon/) (Author), [Rosa Mulholland](/autores/rosa-mulholland/) (Author), [Amelia B. Edwards](/autores/amelia-b-edwards/) (Author), [Rhoda Broughton](/autores/rhoda-broughton/) (Author), [Mrs. Henry Wood](/autores/mrs-henry-wood/) (Author), [Vernon Lee](/autores/vernon-lee/) (Author)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 496 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788416542970
 - **Publicación original:** 2017-11-13
 - **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Clásico](/tags/clasico/), [Paranormal](/tags/paranormal/), [Victoriano](/tags/victoriano/), [Gótico](/tags/gotico/), [Halloween](/tags/halloween/), [Oscuro](/tags/oscuro/)

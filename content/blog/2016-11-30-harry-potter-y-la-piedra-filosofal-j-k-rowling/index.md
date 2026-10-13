@@ -1,5 +1,5 @@
 ---
-title: Harry Potter y la piedra filosofal
+title: '#216 · Harry Potter y la piedra filosofal'
 summary: Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y el insoportable primo Dudley. Se siente
   muy triste y solo, hasta que un buen día…
 date: '2016-11-30T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Clásico
 - Aventuras
 toc: false
+id: 216
 autores:
 - J.K. Rowling
 - Alicia Dellepiane
@@ -43,7 +44,7 @@ Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y e
 - **Colaboradores:** [Alicia Dellepiane](/autores/alicia-dellepiane/) (Author)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 264 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478886540 / 9788478886548
 - **Publicación original:** 1999-08-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Clásico](/tags/clasico/), [Aventuras](/tags/aventuras/)

@@ -1,5 +1,5 @@
 ---
-title: Pimp, memorias de un chulo
+title: '#192 · Pimp, memorias de un chulo'
 summary: A finales de 1960 y principios de los 70, si uno quería un libro de Iceberg Slim, el último antihéroe del gueto,
   no podía acudir a una librería sino a una…
 date: '2016-05-05T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Historia
 - Afroamericanos
 toc: false
+id: 192
 autores:
 - Iceberg Slim
 - Enrique Maldonado Roldán
@@ -41,7 +42,7 @@ A finales de 1960 y principios de los 70, si uno quería un libro de Iceberg Sli
 - **Colaboradores:** [Enrique Maldonado Roldán](/autores/enrique-maldonado-roldan/) (Translator)
 - **Editorial:** Capitán Swing Libros
 - **Formato:** Kindle Edition, 434 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494531158 / 9788494531156
 - **Publicación original:** 2018-09-03
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Memorias](/tags/memorias/), [Autobiografía](/tags/autobiografia/), [Crimen](/tags/crimen/), [Crime real](/tags/crime-real/), [Historia](/tags/historia/), [Afroamericanos](/tags/afroamericanos/)

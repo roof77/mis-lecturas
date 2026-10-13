@@ -1,5 +1,5 @@
 ---
-title: Piercing
+title: '#123 · Piercing'
 summary: 'Kawashima Masayuki está casado con Yoko. Están enamorados, tienen una hija de cuatro meses, trabajos estables, pan
   cocinado en casa: felices. Pero éste es un…'
 date: '2015-07-10T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura asiática
 - Contemporaneo
 toc: false
+id: 123
 autores:
 - Ryū Murakami
 autores_stats:
@@ -43,7 +44,7 @@ Tras las pulsiones asesinas, tras los desdoblamientos de personalidad, la sed de
 - **Autor:** [Ryū Murakami](/autores/ryu-murakami/)
 - **Editorial:** Ediciones Escalera
 - **Formato:** Paperback, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788493836382
 - **Publicación original:** 2011-09-12
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Ásia](/tags/asia/), [Literatura asiática](/tags/literatura-asiatica/), [Contemporaneo](/tags/contemporaneo/)

@@ -1,5 +1,5 @@
 ---
-title: Mi prima Rachel
+title: '#263 · Mi prima Rachel'
 summary: Philip Ashley, el narrador de esta novela, es un joven huérfano que ha sido criado por su primo Ambrose, un terrateniente
   de Cornualles veinte años mayor que…
 date: '2017-09-07T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Histórico
 toc: false
+id: 263
 autores:
 - Daphne du Maurier
 - Concha Cardeñoso Sáenz de Miera
@@ -44,7 +45,7 @@ Mi prima Rachel (1951) es una gran novela psicológica, llena de suspense, en la
 - **Colaboradores:** [Concha Cardeñoso Sáenz de Miera](/autores/concha-cardenoso-saenz-de-miera/) (Translator)
 - **Editorial:** Alba
 - **Formato:** Paperback, 456 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490652678 / 9788490652671
 - **Publicación original:** 2017-01-18
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Romance](/tags/romance/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/)

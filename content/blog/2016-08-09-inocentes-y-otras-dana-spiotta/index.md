@@ -1,5 +1,5 @@
 ---
-title: Inocentes y otras
+title: '#202 · Inocentes y otras'
 summary: Jelly sale con Jack, el campeón de los phone phreaks, algo así como el primer hacker. Y sin embargo, en algún momento
   acaba seduciendo telefónicamente a un…
 date: '2016-08-09T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Amistad
 - Mujeres
 toc: false
+id: 202
 autores:
 - Dana Spiotta
 - Carles Andreu Saburit
@@ -48,7 +49,7 @@ Cuando pase todo lo que va a pasar en este libro, donde uno siempre quiere saber
 - **Colaboradores:** [Carles Andreu Saburit](/autores/carles-andreu-saburit/) (Translator)
 - **Editorial:** Turner
 - **Formato:** Paperback, 280 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416354340 / 9788416354344
 - **Publicación original:** 2016-04-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/), [Películas](/tags/peliculas/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Amistad](/tags/amistad/), [Mujeres](/tags/mujeres/)

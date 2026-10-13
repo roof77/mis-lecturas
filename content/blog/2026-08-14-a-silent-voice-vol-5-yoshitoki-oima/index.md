@@ -1,5 +1,5 @@
 ---
-title: A Silent Voice, vol. 5
+title: '#925 · A Silent Voice, vol. 5'
 summary: Tras retomar el contacto con Nishimiya, Shôya se ha abierto a un mundo de posibilidades. Shôko comienza a colaborar
   en la película de Nagatsuka y Shôya empieza…
 date: '2026-08-14T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Jovenes adultos
 - Novela gráfica
@@ -19,6 +18,7 @@ tags:
 - Drama
 - Shonen
 toc: false
+id: 925
 autores:
 - Yoshitoki Oima
 autores_stats:
@@ -42,7 +42,7 @@ Tras retomar el contacto con Nishimiya, Shôya se ha abierto a un mundo de posib
 - **Serie:** 聲の形 [Koe no Katachi] (#5)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494456636 / 9788494456633
 - **Publicación original:** 2015-10-23
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Drama](/tags/drama/), [Shonen](/tags/shonen/)

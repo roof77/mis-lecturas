@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals, Vol. 6: Seis criminales'
+title: '#874 · Sex Criminals, Vol. 6: Seis criminales'
 summary: Suze y Jon volvían a estar juntos. Eran felices, lo habían superado. Para ellos habían acabado el crimen, los primeros
   días de su relación, su extraño truco de…
 date: '2026-06-24T23:59:58'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción
 - Fantasía
@@ -16,6 +15,7 @@ tags:
 - Ciencia ficción
 - Humor
 toc: false
+id: 874
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -46,7 +46,7 @@ Matt Fraction y Chip Zdarsky ponen fin con este sexto volumen a Sex Criminals, l
 - **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator), [Santiago García](/autores/santiago-garcia/) (Translator)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 136 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418215852 / 9788418215858
 - **Publicación original:** 2021-09-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Romance](/tags/romance/), [Ciencia ficción](/tags/ciencia-ficcion/), [Humor](/tags/humor/)

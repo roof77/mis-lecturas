@@ -1,5 +1,5 @@
 ---
-title: La chica descalza en la colina de los arándanos
+title: '#300 · La chica descalza en la colina de los arándanos'
 summary: En Blueberry Hill no hay arándanos. Y es solo una de las cosas que van mal en este pueblo. Dos chicas salen de casa
   en Navidad y nunca vuelven. Un búho en la…
 date: '2018-03-13T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Terror
 - Literatura hispana
 toc: false
+id: 300
 autores:
 - Nieves Mories
 autores_stats:
@@ -35,7 +36,7 @@ En Blueberry Hill no hay arándanos. Y es solo una de las cosas que van mal en e
 - **Autor:** [Nieves Mories](/autores/nieves-mories/)
 - **Editorial:** Editorial Cerbero
 - **Formato:** Paperback, 136 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494745441 / 9788494745447
 - **Publicación original:** 2017-09-01
 - **Géneros:** [Terror](/tags/terror/), [Literatura hispana](/tags/literatura-hispana/)

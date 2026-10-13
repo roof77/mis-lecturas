@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 12
+title: '#912 · Insomniacs After School, vol. 12'
 summary: Hoy se celebra el Seihakusai, el festival más grande de la zona, en el que unas carrozas coloridas recorren la ciudad.
   También es un día especial, pues se…
 date: '2026-08-06T23:59:57'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Slice of life
 - Jovenes adultos
@@ -18,6 +17,7 @@ tags:
 - Contemporaneo
 - Literatura japanesa
 toc: false
+id: 912
 autores:
 - Makoto Ojiro
 - Sergi Pérez
@@ -47,7 +47,7 @@ A medianoche, se juntan los de siempre e intentan completar el cruce de los siet
 - **Colaboradores:** [Sergi Pérez](/autores/sergi-perez/) (Translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419914452 / 9788419914453
 - **Publicación original:** 2023-10-31
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Slice of life](/tags/slice-of-life/), [Jovenes adultos](/tags/jovenes-adultos/), [Seinen manga](/tags/seinen-manga/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/), [Literatura japanesa](/tags/literatura-japanesa/)

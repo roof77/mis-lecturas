@@ -1,5 +1,5 @@
 ---
-title: 'Lumberjanes: Everything Under the Sum'
+title: '#891 · Lumberjanes: Everything Under the Sum'
 summary: After their hair-raising river journey, the Lumberjanes must faces a series of riddles and challenges in order to
   escape another obstacle on their wild day out…
 date: '2026-07-12T23:59:54'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Fantasía
 - Jovenes adultos
@@ -16,6 +15,7 @@ tags:
 - Aventuras
 - Queer
 toc: false
+id: 891
 autores:
 - N.D. Stevenson
 - Grace Ellis

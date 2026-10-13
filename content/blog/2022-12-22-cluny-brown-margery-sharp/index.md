@@ -1,5 +1,5 @@
 ---
-title: Cluny Brown
+title: '#573 · Cluny Brown'
 summary: "Una deliciosa comedia social británica que satiriza las buenas maneras inglesas y los estrictos protocolos de clase\
   \ y de género de inicios del siglo XX.\r\n\r\nAño…"
 date: '2022-12-22T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Coming of age
 toc: false
+id: 573
 autores:
 - Margery Sharp
 - Raquel García Rojas
@@ -44,7 +45,7 @@ Año 1938. Arnold Porritt, un próspero fontanero londinense, ya no sabe qué ha
 - **Colaboradores:** [Raquel García Rojas](/autores/raquel-garcia-rojas/) (Traductora)
 - **Editorial:** Hoja de Lata
 - **Formato:** Paperback, 280 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2020-11-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Clásico](/tags/clasico/), [Humor](/tags/humor/), [Literatura británica](/tags/literatura-britanica/), [Romance](/tags/romance/), [Histórico](/tags/historico/), [Novela](/tags/novela/), [Coming of age](/tags/coming-of-age/)
 - **Lugares:** Devon, England

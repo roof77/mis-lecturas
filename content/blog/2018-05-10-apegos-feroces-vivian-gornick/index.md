@@ -1,5 +1,5 @@
 ---
-title: Apegos feroces
+title: '#310 · Apegos feroces'
 summary: Gornick, una mujer madura, camina con su madre, ya anciana, por las calles de Manhattan, y en el transcurso de esos
   paseos llenos de reproches, de recuerdos y…
 date: '2018-05-10T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Nueva York
 - EEUU
 toc: false
+id: 310
 autores:
 - Vivian Gornick
 - Daniel Ramos Sanchez
@@ -40,7 +41,7 @@ Gornick, una mujer madura, camina con su madre, ya anciana, por las calles de Ma
 - **Colaboradores:** [Daniel Ramos Sanchez](/autores/daniel-ramos-sanchez/) (Translator)
 - **Editorial:** Sexto Piso
 - **Formato:** Kindle Edition, 195 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416677700 / 9788416677702
 - **Publicación original:** 2017-12-15
 - **Géneros:** [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Feminismo](/tags/feminismo/), [Mujeres](/tags/mujeres/), [Nueva York](/tags/nueva-york/), [EEUU](/tags/eeuu/)

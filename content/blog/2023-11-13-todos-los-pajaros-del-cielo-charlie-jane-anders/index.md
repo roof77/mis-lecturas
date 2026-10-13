@@ -1,5 +1,5 @@
 ---
-title: Todos los pájaros del cielo
+title: '#609 · Todos los pájaros del cielo'
 summary: "PREMIO LOCUS Y NEBULA 2017\r\n\r\nPatricia es una bruja que tiene el don de comunicarse con los animales. Laurence\
   \ es un geek que ha construido una máquina del…"
 date: '2023-11-13T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Club de lectura
 - Adultos
 toc: false
+id: 609
 autores:
 - Charlie Jane Anders
 - Natalia Cervera
@@ -50,7 +51,7 @@ Además de aportar una mirada fresca a algunos de los temas clásicos de la cien
 - **Colaboradores:** [Natalia Cervera](/autores/natalia-cervera/) (Translator)
 - **Editorial:** Insólita
 - **Formato:** Paperback, 380 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494898604 / 9788494898600
 - **Publicación original:** 2018-07-16
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Realismo mágico](/tags/realismo-magico/), [Mágia](/tags/magia/), [Romance](/tags/romance/), [Fantasía urbana](/tags/fantasia-urbana/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/)

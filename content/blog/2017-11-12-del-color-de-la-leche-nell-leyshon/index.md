@@ -1,5 +1,5 @@
 ---
-title: Del color de la leche
+title: '#276 · Del color de la leche'
 summary: Elias Canetti escribió que en escasas ocasiones las personas logran liberarse de las cadenas que las atan para, inmediatamente
   después, quedar sujetas a otras…
 date: '2017-11-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Adultos
 toc: false
+id: 276
 autores:
 - Nell Leyshon
 - Mariano Peyrou
@@ -44,7 +45,7 @@ En Del color de la leche, Nell Leyshon ha recreado con una belleza trágica un m
 - **Colaboradores:** [Mariano Peyrou](/autores/mariano-peyrou/) (Translator)
 - **Editorial:** Sexto Piso
 - **Formato:** Paperback, 174 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2013-01-01
 - **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Histórico](/tags/historico/), [Club de lectura](/tags/club-de-lectura/), [Drama](/tags/drama/), [Novela](/tags/novela/), [Literatura británica](/tags/literatura-britanica/), [Ficción Literaria](/tags/ficcion-literaria/), [Adultos](/tags/adultos/)
 - **Premios ganados:** Jerwood Fiction Uncovered Prize (2013)

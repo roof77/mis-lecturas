@@ -1,5 +1,5 @@
 ---
-title: Donantes de sueño
+title: '#608 · Donantes de sueño'
 summary: "Una historia original y absorbente sobre una epidemia mortal de insomnio en Estados Unidos.\r\n\r\nUna epidemia\
   \ de insomnio sacude Estados Unidos. Miles de…"
 date: '2023-11-06T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción especulativa
 - Ciencia Ficción
 toc: false
+id: 608
 autores:
 - Karen Russell
 - Rubén Martín Giráldez
@@ -48,7 +49,7 @@ Clarividente y perturbadora, Donantes de sueño indaga en valores como la empat�
 - **Colaboradores:** [Rubén Martín Giráldez](/autores/ruben-martin-giraldez/) (Translator)
 - **Editorial:** Editorial Sexto Piso
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419261475 / 9788419261472
 - **Publicación original:** 2023-05-08
 - **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Novella](/tags/novella/), [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Fantasía](/tags/fantasia/), [Ficción especulativa](/tags/ficcion-especulativa/), [Ciencia Ficción](/tags/ciencia-ficcion/)

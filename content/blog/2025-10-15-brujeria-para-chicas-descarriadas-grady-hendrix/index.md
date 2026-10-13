@@ -1,5 +1,5 @@
 ---
-title: Brujería para chicas descarriadas
+title: '#775 · Brujería para chicas descarriadas'
 summary: "Brujería para chicas descarriadas no es solo un libro de brujas: es un grito contra el olvido.\r\n\r\nFlorida, 1971.\
   \ Fern es una adolescente que, al quedar…"
 date: '2025-10-15T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Paranormal
 - Adultos
 toc: false
+id: 775
 autores:
 - Grady Hendrix
 - Simón Saitó
@@ -48,7 +49,7 @@ A través de voces potentes y heridas abiertas, Grady Hendrix teje una historia 
 - **Colaboradores:** [Simón Saitó](/autores/simon-saito/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 496 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445020951 / 9788445020951
 - **Publicación original:** 2025-09-17
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Brujas](/tags/brujas/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Paranormal](/tags/paranormal/), [Adultos](/tags/adultos/)

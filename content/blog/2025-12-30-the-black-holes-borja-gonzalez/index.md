@@ -1,5 +1,5 @@
 ---
-title: The Black Holes
+title: '#790 · The Black Holes'
 summary: 'Gloria, Laura y Cristina quieren montar una banda de aires punk llamada The Black Holes. Tienen todo lo que se precisa:
   actitud, presencia, instinto... y una…'
 date: '2025-12-30T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Jovenes adultos
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Ficción histórica
 - Realismo mágico
 toc: false
+id: 790
 autores:
 - Borja González
 autores_stats:
@@ -45,7 +45,7 @@ Gloria, Laura y Cristina quieren montar una banda de aires punk llamada The Blac
 - **Serie:** Las tres noches (#1)
 - **Editorial:** Reservoir Books
 - **Formato:** Hardcover, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417125647 / 9788417125646
 - **Publicación original:** 2018-06-14
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Fantasmas](/tags/fantasmas/), [Paranormal](/tags/paranormal/), [Ficción histórica](/tags/ficcion-historica/), [Realismo mágico](/tags/realismo-magico/)

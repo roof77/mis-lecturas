@@ -1,5 +1,5 @@
 ---
-title: Cuentos completos
+title: '#734 · Cuentos completos'
 summary: En apenas dos décadas, Joseph Roth (1894-1939), uno de los escritores en lengua alemana más importantes del siglo
   xx, diseminó su talento en periódicos y…
 date: '2025-04-14T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 734
 autores:
 - Joseph Roth
 autores_stats:
@@ -31,7 +32,7 @@ En apenas dos décadas, Joseph Roth (1894-1939), uno de los escritores en lengua
 - **Autor:** [Joseph Roth](/autores/joseph-roth/)
 - **Editorial:** Páginas de Espuma
 - **Formato:** Hardcover, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483933551 / 9788483933558
 - **Publicación original:** 2024-10-02
 - **Ficha en Goodreads:** [Cuentos completos](https://www.goodreads.com/book/show/216572664-cuentos-completos)

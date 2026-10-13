@@ -1,5 +1,5 @@
 ---
-title: Condenada
+title: '#151 · Condenada'
 summary: Hija de una estrella de cine narcisista y de un billonario, una Navidad Madison es abandonada en un internado suizo  mientras
   sus padres de dedican a impulsar…
 date: '2015-11-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Sobrenatural
 - Sátira
 toc: false
+id: 151
 autores:
 - Chuck Palahniuk
 - Javier Calvo
@@ -43,7 +44,7 @@ Hija de una estrella de cine narcisista y de un billonario, una Navidad Madison 
 - **Colaboradores:** [Javier Calvo](/autores/javier-calvo/) (Translator)
 - **Editorial:** Mondadori
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439726694 / 9788439726692
 - **Publicación original:** 2013-06-06
 - **Géneros:** [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Humor](/tags/humor/), [Contemporaneo](/tags/contemporaneo/), [Comedia](/tags/comedia/), [Adultos](/tags/adultos/), [Sobrenatural](/tags/sobrenatural/), [Sátira](/tags/satira/)

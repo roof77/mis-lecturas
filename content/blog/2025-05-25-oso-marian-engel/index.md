@@ -1,5 +1,5 @@
 ---
-title: Oso
+title: '#749 · Oso'
 summary: La joven e introvertida Lou abandona su trabajo como bibliotecaria cuando se le encarga catalogar la biblioteca de
   una mansión victoriana situada en una remota…
 date: '2025-05-25T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura
 - Literatura canadiense
 toc: false
+id: 749
 autores:
 - Marian Engel
 - Magdalena Palmer
@@ -45,7 +46,7 @@ En todos los sentidos. A pesar de las críticas que recibió por su controvertid
 - **Colaboradores:** [Magdalena Palmer](/autores/magdalena-palmer/) (Translator)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 168 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415979568 / 9788415979562
 - **Publicación original:** 2015-04-13
 - **Géneros:** [Ficción](/tags/ficcion/), [Canada](/tags/canada/), [Clásico](/tags/clasico/), [Romance](/tags/romance/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/), [Animales](/tags/animales/), [Literatura](/tags/literatura/), [Literatura canadiense](/tags/literatura-canadiense/)

@@ -1,5 +1,5 @@
 ---
-title: Dark Fantasies. Antología de fantasía oscura, terror y horror internacional
+title: '#295 · Dark Fantasies. Antología de fantasía oscura, terror y horror internacional'
 summary: Coordinada por Mariano Villarreal, la colección Nova Fantástica se ha caracterizado desde su inicio por su empeño
   en ofrecer los mejores relatos de género…
 date: '2018-02-19T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Fantasía
 - Relatos
 toc: false
+id: 295
 autores:
 - Mariano Villarreal
 - Alyssa Wong
@@ -90,7 +91,7 @@ Un volumen temático que incluye dieciséis historias, la mayoría premiadas con
 - **Colaboradores:** [Alyssa Wong](/autores/alyssa-wong/) (Author), [Angela Slatter](/autores/angela-slatter/) (Author), [Eugie Foster](/autores/eugie-foster/) (Author), [Rachel Swirsky](/autores/rachel-swirsky/) (Author), [Damien Angelica Walters](/autores/damien-angelica-walters/) (Author), [Mike Resnick](/autores/mike-resnick/) (Author), [Lucy A. Snyder](/autores/lucy-a-snyder/) (Author), [Maria Dahvana Headley](/autores/maria-dahvana-headley/) (Author), [Mercurio D. Rivera](/autores/mercurio-d-rivera/) (Author), [Luis Eduardo Bermejo](/autores/luis-eduardo-bermejo/) (Author), [Caroline M. Yoachim](/autores/caroline-m-yoachim/) (Author), [Maria Dahvana](/autores/maria-dahvana/) (Author), [Maureen F. McHugh](/autores/maureen-f-mchugh/) (Author), [Ludo Bermejo](/autores/ludo-bermejo/) (Author), [Ferrán Varela Navarro](/autores/ferran-varela-navarro/) (Author), [Pilar San Román](/autores/pilar-san-roman/) (Translator), [Alexander Páez](/autores/alexander-paez/) (Translator), [Victor Sellers](/autores/victor-sellers/) (Author), [Ferran Varela](/autores/ferran-varela/) (Author), [Alfredo Álamo](/autores/alfredo-alamo/) (Author), [Elia Barceló](/autores/elia-barcelo/) (Author), [Teresa P. Mira de Echeverría](/autores/teresa-p-mira-de-echeverria/) (Author), [Arrate Hidalgo](/autores/arrate-hidalgo/) (Translator), [Manuel de los Reyes](/autores/manuel-de-los-reyes/) (Translator), [Ramon Pena](/autores/ramon-pena/) (Translator), [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Translator), [Manu Viciano](/autores/manu-viciano/) (Translator), [Carlos Pavón](/autores/carlos-pavon/) (Translator), [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Sportula
 - **Formato:** Paperback, 318 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416637393 / 9788416637393
 - **Publicación original:** 2017-06-01
 - **Géneros:** [Terror](/tags/terror/), [Literatura hispana](/tags/literatura-hispana/), [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/)

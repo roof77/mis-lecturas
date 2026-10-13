@@ -1,5 +1,5 @@
 ---
-title: Panza de burro
+title: '#454 · Panza de burro'
 summary: «Reconozco que al principio, cuando Panza de burro solo había crecido unos capitulitos, pensé que sería una novela
   sencilla y hermosa que abriría un hachazo en…
 date: '2021-03-17T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura hispana
 - Lesbianismo
 toc: false
+id: 454
 autores:
 - Andrea Abreu López
 - Sabina Urraca
@@ -49,7 +50,7 @@ nota: '4'
 - **Colaboradores:** [Sabina Urraca](/autores/sabina-urraca/) (Editor)
 - **Editorial:** Editorial Barrett
 - **Formato:** Paperback, 172 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2020-07-07
 - **Géneros:** [Ficción](/tags/ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Contemporaneo](/tags/contemporaneo/), [Coming of age](/tags/coming-of-age/), [España](/tags/espana/), [Verano](/tags/verano/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura hispana](/tags/literatura-hispana/), [Lesbianismo](/tags/lesbianismo/)
 - **Ficha en Goodreads:** [Panza de burro](https://www.goodreads.com/book/show/53412888-panza-de-burro)

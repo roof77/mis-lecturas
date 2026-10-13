@@ -1,5 +1,5 @@
 ---
-title: El beso de la mujer araña
+title: '#256 · El beso de la mujer araña'
 summary: La obra más conocida de Manuel Puig, “el brillantemente inventivo novelista argentino” (The New York Times), es ahora
   el tema de una premiada comedia…
 date: '2017-07-06T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura latinoamericana
 - Colegio
 toc: false
+id: 256
 autores:
 - Manuel Puig
 autores_stats:
@@ -43,7 +44,7 @@ El beso de la mujer araña es una elegante y fascinante novela sobre el amor y l
 - **Autor:** [Manuel Puig](/autores/manuel-puig/)
 - **Editorial:** Vintage Espanol
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 0679755454 / 9780679755456
 - **Publicación original:** 1994-10-04
 - **Géneros:** [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Clásico](/tags/clasico/), [Queer](/tags/queer/), [Literatura hispana](/tags/literatura-hispana/), [Latino américa](/tags/latino-america/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Literatura latinoamericana](/tags/literatura-latinoamericana/), [Colegio](/tags/colegio/)

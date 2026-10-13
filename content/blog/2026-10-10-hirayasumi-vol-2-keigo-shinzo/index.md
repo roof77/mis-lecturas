@@ -1,5 +1,5 @@
 ---
-title: Hirayasumi, vol. 2
+title: '#937 · Hirayasumi, vol. 2'
 summary: "Hiroto Ikuta, 29 años, sin empleo fijo. Vive junto a su prima Natsumi, de 18 años, en una casa unifamiliar que le\
   \ dejaron en herencia.\r\n\r\nHideki es el amigo…"
 date: '2026-10-10T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Slice of life
 - Japón
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Seinen manga
 - Contemporaneo
 toc: false
+id: 937
 autores:
 - Keigo Shinzō
 - Marc Bernabé
@@ -44,7 +44,7 @@ Hideki es el amigo del alma de Hiroto y pronto será padre. Yomogi es una ocupad
 - **Colaboradores:** [Marc Bernabé](/autores/marc-bernabe/) (Translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419536873 / 9788419536877
 - **Publicación original:** 2023-05-31
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Slice of life](/tags/slice-of-life/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/)

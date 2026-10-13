@@ -1,5 +1,5 @@
 ---
-title: Canción dulce
+title: '#427 · Canción dulce'
 summary: Myriam, madre de dos niños, decide reemprender su actividad laboral en un bufete de abogados a pesar de las reticencias
   de su marido. Tras un minucioso proceso…
 date: '2020-04-14T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - Suspense
 toc: false
+id: 427
 autores:
 - Leïla Slimani
 - Malika Embarek López
@@ -45,7 +46,7 @@ Con un estilo directo, incisivo y tenebroso en ocasiones, Leila Slimani desplieg
 - **Colaboradores:** [Malika Embarek López](/autores/malika-embarek-lopez/) (Translator)
 - **Editorial:** Cabaret Voltaire
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494443488 / 9788494443480
 - **Publicación original:** 2017-03-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Francia](/tags/francia/), [Contemporaneo](/tags/contemporaneo/), [Crimen](/tags/crimen/), [Club de lectura](/tags/club-de-lectura/), [Suspense](/tags/suspense/)

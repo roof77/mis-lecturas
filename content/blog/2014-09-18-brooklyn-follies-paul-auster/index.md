@@ -1,5 +1,5 @@
 ---
-title: Brooklyn Follies
+title: '#68 · Brooklyn Follies'
 summary: Nathan Glass ha sobrevivido a un cáncer de pulmón y a un divorcio después de tres décadas de matrimonio, y ha vuelto
   a Brooklyn, el lugar donde pasó su…
 date: '2014-09-18T23:59:58'
@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - Club de lectura
 toc: false
+id: 68
 autores:
 - Paul Auster
 - Benito Gómez Ibáñez
@@ -41,7 +42,7 @@ Nathan Glass ha sobrevivido a un cáncer de pulmón y a un divorcio después de 
 - **Colaboradores:** [Benito Gómez Ibáñez](/autores/benito-gomez-ibanez/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433970925 / 9788433970923
 - **Publicación original:** 2006-03-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [EEUU](/tags/eeuu/), [Nueva York](/tags/nueva-york/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/)

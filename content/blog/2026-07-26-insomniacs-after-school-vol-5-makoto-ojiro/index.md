@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 5
+title: '#905 · Insomniacs After School, vol. 5'
 summary: "¡Al fin llegó el día! Nakami y Magari salen de excursión para fotografiar el cielo estrellado de Noto!\r\n\r\nTras\
   \ el fiasco de la actividad de observación de las…"
 date: '2026-07-26T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Jovenes adultos
 - Slice of life
@@ -18,6 +17,7 @@ tags:
 - Seinen manga
 - Contemporaneo
 toc: false
+id: 905
 autores:
 - Makoto Ojiro
 - Óscar Tejero
@@ -45,7 +45,7 @@ Tras el fiasco de la actividad de observación de las pléyades, Isaki ofrece la
 - **Colaboradores:** [Óscar Tejero](/autores/oscar-tejero/) (translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418788852 / 9788418788857
 - **Publicación original:** 2021-12-21
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/)

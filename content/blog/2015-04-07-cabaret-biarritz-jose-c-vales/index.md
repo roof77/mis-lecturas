@@ -1,5 +1,5 @@
 ---
-title: Cabaret Biarritz
+title: '#103 · Cabaret Biarritz'
 summary: Georges Miet escribe por encargo historias populares para la editorial francesa La Fortune, hasta que un día su editor
   le pide una novela “seria” acerca de los…
 date: '2015-04-07T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Humor
 - Ficción
 toc: false
+id: 103
 autores:
 - José C. Vales
 autores_stats:
@@ -35,7 +36,7 @@ Novela de investigación, divertidísima, polifónica y extravagante, una obra q
 - **Autor:** [José C. Vales](/autores/jose-c-vales/)
 - **Editorial:** Destino
 - **Formato:** Hardcover, 456 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8423349284 / 9788423349289
 - **Publicación original:** 2015-01-01
 - **Géneros:** [Humor](/tags/humor/), [Ficción](/tags/ficcion/)

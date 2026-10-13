@@ -1,5 +1,5 @@
 ---
-title: Todos los besos del mundo
+title: '#30 · Todos los besos del mundo'
 summary: Todos los besos del mundo es una selección de los mejores cuentos que Félix Romeo publicó a lo largo de casi veinte
   años en distintos medios y que no habían…
 date: '2014-04-27T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 30
 autores:
 - Félix Romeo
 autores_stats:
@@ -34,7 +35,7 @@ Los cuentos de Félix Romeo nos hieren y nos sanan como si fueran a la vez venen
 - **Autor:** [Félix Romeo](/autores/felix-romeo/)
 - **Editorial:** Xordica Editorial
 - **Formato:** Paperback, 144 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849645777X / 9788496457775
 - **Publicación original:** 2012-10-01
 - **Ficha en Goodreads:** [Todos los besos del mundo](https://www.goodreads.com/book/show/16096920-todos-los-besos-del-mundo)

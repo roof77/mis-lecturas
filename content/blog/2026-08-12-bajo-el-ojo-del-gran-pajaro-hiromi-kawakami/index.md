@@ -1,5 +1,5 @@
 ---
-title: Bajo el ojo del gran pájaro
+title: '#921 · Bajo el ojo del gran pájaro'
 summary: En un futuro lejano, los humanos están al borde de la extinción y se han establecido por todo el planeta en pequeñas
   tribus bajo la observación y el cuidado de…
 date: '2026-08-12T23:59:57'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Ásia
 toc: false
+id: 921
 autores:
 - Hiromi Kawakami
 - Yoko Ogihara
@@ -45,7 +46,7 @@ Desarrollándose a lo largo de catorce episodios interconectados que abarcan eon
 - **Colaboradores:** [Yoko Ogihara](/autores/yoko-ogihara/) (Traductora), [Fernando Cordobés](/autores/fernando-cordobes/) (Traductor)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 280 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2026-04-30
 - **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Japón](/tags/japon/), [Relatos](/tags/relatos/), [Distopía](/tags/distopia/), [Literatura japanesa](/tags/literatura-japanesa/), [Ficción especulativa](/tags/ficcion-especulativa/), [Ficción Literaria](/tags/ficcion-literaria/), [Ásia](/tags/asia/)
 - **Nominaciones:** International Booker Prize (2025)

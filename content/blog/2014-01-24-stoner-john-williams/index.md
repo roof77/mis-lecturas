@@ -1,5 +1,5 @@
 ---
-title: Stoner
+title: '#7 · Stoner'
 summary: William Stoner, hijo único de un matrimonio de granjeros que sobrevive en la penuria, es enviado a estudiar agricultura
   a la Universidad de Missouri. El…
 date: '2014-01-24T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - EEUU
 toc: false
+id: 7
 autores:
 - John Williams
 - Antonio Díez
@@ -41,7 +42,7 @@ William Stoner, hijo único de un matrimonio de granjeros que sobrevive en la pe
 - **Colaboradores:** [Antonio Díez](/autores/antonio-diez/) (Translator)
 - **Editorial:** Baile del Sol
 - **Formato:** Paperback, 242 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841570061X / 9788415700616
 - **Publicación original:** 2010-12-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [EEUU](/tags/eeuu/)

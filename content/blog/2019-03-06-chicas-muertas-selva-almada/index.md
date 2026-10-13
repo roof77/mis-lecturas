@@ -1,5 +1,5 @@
 ---
-title: Chicas muertas
+title: '#379 · Chicas muertas'
 summary: Tres adolescentes de provincia asesinadas en la década de 1980, tres muertes impunes ocurridas cuando todavía, en
   nuestro país, desconocíamos el término…
 date: '2019-03-06T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Contemporaneo
 - Latino américa
 toc: false
+id: 379
 autores:
 - Selva Almada
 autores_stats:
@@ -42,7 +43,7 @@ Convertidos en obsesión con el paso de los años, estos casos dan lugar a una i
 - **Autor:** [Selva Almada](/autores/selva-almada/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 187 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9873650261 / 9789873650260
 - **Publicación original:** 2014-05-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Crime real](/tags/crime-real/), [Crimen](/tags/crimen/), [Literatura hispana](/tags/literatura-hispana/), [Mujeres](/tags/mujeres/), [Periodismo](/tags/periodismo/), [Contemporaneo](/tags/contemporaneo/), [Latino américa](/tags/latino-america/)

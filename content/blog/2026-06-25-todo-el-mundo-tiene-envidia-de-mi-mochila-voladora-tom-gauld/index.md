@@ -1,5 +1,5 @@
 ---
-title: Todo el mundo tiene envidia de mi mochila voladora
+title: '#876 · Todo el mundo tiene envidia de mi mochila voladora'
 summary: Todo el mundo tiene envidia de mi mochila voladora es una selección de las tiras cómicas de Tom Gauld, que durante
   los últimos años ha hecho las delicias de…
 date: '2026-06-25T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Humor
@@ -17,6 +16,7 @@ tags:
 - Libros sobre libros
 - Tiras
 toc: false
+id: 876
 autores:
 - Tom Gauld
 autores_stats:
@@ -41,7 +41,7 @@ Traducción de Esther Cruz (Las cuatro de Syldavia)
 - **Autor:** [Tom Gauld](/autores/tom-gauld/)
 - **Editorial:** Salamandra Graphic
 - **Formato:** Hardcover, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416131139 / 9788416131136
 - **Publicación original:** 2015-04-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Comedia](/tags/comedia/), [Arte](/tags/arte/), [Libros sobre libros](/tags/libros-sobre-libros/), [Tiras](/tags/tiras/)

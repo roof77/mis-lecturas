@@ -1,5 +1,5 @@
 ---
-title: Una Curiosa Historia del Sexo
+title: '#547 · Una Curiosa Historia del Sexo'
 summary: Basado en el popular proyecto de investigación Whores of Yore (Putas de Antaño) y escrito con su característico humor
   e ingenio, este libro se basa en los…
 date: '2022-06-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Humor
 - Adultos
 toc: false
+id: 547
 autores:
 - Kate Lister
 - Isadora Carolina Prieto
@@ -43,7 +44,7 @@ Basado en el popular proyecto de investigación Whores of Yore (Putas de Antaño
 - **Colaboradores:** [Isadora Carolina Prieto](/autores/isadora-carolina-prieto/) (Traducción), [Anna Hernández](/autores/anna-hernandez/) (Traducción)
 - **Editorial:** Capitán Swing
 - **Formato:** Rústica con solapas, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Feminismo](/tags/feminismo/), [Sexualidad](/tags/sexualidad/), [Ciencia](/tags/ciencia/), [Sociología](/tags/sociologia/), [Histórico](/tags/historico/), [Humor](/tags/humor/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Una Curiosa Historia del Sexo](https://www.goodreads.com/book/show/61151436-una-curiosa-historia-del-sexo)
 

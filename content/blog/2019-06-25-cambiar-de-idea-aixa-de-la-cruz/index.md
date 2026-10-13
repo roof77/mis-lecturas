@@ -1,5 +1,5 @@
 ---
-title: Cambiar de idea
+title: '#395 · Cambiar de idea'
 summary: «He tardado diez años de lecturas, y fiestas, y conversaciones con las mejores mentes de mi época en entender que
   el avatar de hombre es el traje nuevo del…
 date: '2019-06-25T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - España
 - Mujeres
 toc: false
+id: 395
 autores:
 - Aixa de la Cruz
 autores_stats:
@@ -43,7 +44,7 @@ Cambiar de idea ofrece una escritura hipnótica que va mucho más allá de la si
 - **Autor:** [Aixa de la Cruz](/autores/aixa-de-la-cruz/)
 - **Editorial:** Caballo de Troya
 - **Formato:** Kindle Edition, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417417109 / 9788417417109
 - **Publicación original:** 2019-03-07
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Memorias](/tags/memorias/), [Literatura hispana](/tags/literatura-hispana/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [España](/tags/espana/), [Mujeres](/tags/mujeres/)

@@ -1,5 +1,5 @@
 ---
-title: Heartstopper 3. Un paso adelante
+title: '#551 · Heartstopper 3. Un paso adelante'
 summary: "Charlie nunca pensó que podría gustarle a Nick, pero ahora son novios. Oficialmente. Y Nick incluso se lo ha contado\
   \ a su madre.\r\nPero dar este paso no es algo…"
 date: '2022-07-01T23:59:59'
@@ -10,7 +10,6 @@ tags:
 - Comics
 - Romance
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Queer
@@ -19,6 +18,7 @@ tags:
 - Salud mentál
 - Gay
 toc: false
+id: 551
 autores:
 - Alice Oseman
 autores_stats:
@@ -46,7 +46,7 @@ Hearstopper trata del amor, la amistad y la lealtad, pero también de trastornos
 - **Serie:** Heartstopper (#3)
 - **Editorial:** Crossbooks
 - **Formato:** Kindle Edition, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8408236431 / 9788408236436
 - **Publicación original:** 2020-11-17
 - **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Salud mentál](/tags/salud-mental/), [Gay](/tags/gay/)

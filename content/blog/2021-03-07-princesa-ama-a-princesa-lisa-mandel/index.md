@@ -1,5 +1,5 @@
 ---
-title: Princesa ama a Princesa
+title: '#453 · Princesa ama a Princesa'
 summary: Végétaline vive en una moderna torre de marfil, aislada del mundo exterior por su fortuna y una posesiva madre. Codette
   es una joven refugiada política del…
 date: '2021-03-07T23:59:59'
@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - LGTBIQ+
 - Lesbianismo
 - Queer
 - Novela gráfica
 - Francia
 toc: false
+id: 453
 autores:
 - Lisa Mandel
 autores_stats:
@@ -39,7 +39,7 @@ Lisa Mandel (Marsella, 1977) nos propone una historia singular y divertida, mezc
 - **Autor:** [Lisa Mandel](/autores/lisa-mandel/)
 - **Editorial:** Ediciones Kraken
 - **Formato:** Hardcover, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492534206 / 9788492534203
 - **Publicación original:** 2010-09-10
 - **Géneros:** [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Lesbianismo](/tags/lesbianismo/), [Queer](/tags/queer/), [Novela gráfica](/tags/novela-grafica/), [Francia](/tags/francia/)

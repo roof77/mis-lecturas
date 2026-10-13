@@ -1,5 +1,5 @@
 ---
-title: Sobre los acantilados de mármol
+title: '#73 · Sobre los acantilados de mármol'
 summary: Novela visionaria y llena de simbolismo, Sobre los acantilados de mármol narra la destrucción de la Marina, un antiguo
   y civilizado país situado junto a las…
 date: '2014-10-02T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Filosofía
 - Política
 toc: false
+id: 73
 autores:
 - Ernst Jünger
 autores_stats:
@@ -43,7 +44,7 @@ Novela visionaria y llena de simbolismo, Sobre los acantilados de mármol narra 
 - **Autor:** [Ernst Jünger](/autores/ernst-junger/)
 - **Editorial:** TusQuets
 - **Formato:** Paperback, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483830817 / 9788483830819
 - **Publicación original:** 2008-07-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Literatura alemana](/tags/literatura-alemana/), [Literatura](/tags/literatura/), [Clásico](/tags/clasico/), [Alemania](/tags/alemania/), [Siglo XX](/tags/siglo-xx/), [Novela](/tags/novela/), [Fantasía](/tags/fantasia/), [Filosofía](/tags/filosofia/), [Política](/tags/politica/)

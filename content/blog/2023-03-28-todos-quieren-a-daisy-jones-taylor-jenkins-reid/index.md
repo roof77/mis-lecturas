@@ -1,5 +1,5 @@
 ---
-title: Todos quieren a Daisy Jones
+title: '#588 · Todos quieren a Daisy Jones'
 summary: 'Todo el mundo conoce a Daisy Jones & The Six: el álbum de la banda Aurora llegó a definir la era del rock ‘n’ roll
   de finales de los setenta, y una generación…'
 date: '2023-03-28T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Ficción adulta
 toc: false
+id: 588
 autores:
 - Taylor Jenkins Reid
 - Lucía Barahona
@@ -49,7 +50,7 @@ Daisy y Billy se cruzan cuando un productor se da cuenta de que la clave del éx
 - **Colaboradores:** [Lucía Barahona](/autores/lucia-barahona/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 421 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417552588 / 9788417552589
 - **Publicación original:** 2020-01-22
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Romance](/tags/romance/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Música](/tags/musica/), [Histórico](/tags/historico/), [Adultos](/tags/adultos/), [Ficción adulta](/tags/ficcion-adulta/)

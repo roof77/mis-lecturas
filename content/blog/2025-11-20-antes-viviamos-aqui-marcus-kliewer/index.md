@@ -1,5 +1,5 @@
 ---
-title: Antes vivíamos aquí
+title: '#783 · Antes vivíamos aquí'
 summary: Eve y Charlie acaban de mudarse a un viejo caserón en un entorno boscoso y aislado. Un día, mientras Charlie está
   fuera, llaman a la puerta. Al otro lado hay…
 date: '2025-11-20T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - LGTBIQ+
 - Adultos
 toc: false
+id: 783
 autores:
 - Marcus Kliewer
 - I. C. Salabert
@@ -45,7 +46,7 @@ Poco a poco, Eve empieza a sentir que las cosas a su alrededor están cambiando.
 - **Colaboradores:** [I. C. Salabert](/autores/i-c-salabert/) (Translator)
 - **Editorial:** Nocturna Ediciones
 - **Formato:** Paperback, 303 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9791387690120
 - **Publicación original:** 2025-09-15
 - **Géneros:** [Terror](/tags/terror/), [Thriller](/tags/thriller/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Club de lectura](/tags/club-de-lectura/), [Paranormal](/tags/paranormal/), [LGTBIQ+](/tags/lgtbiq/), [Adultos](/tags/adultos/)

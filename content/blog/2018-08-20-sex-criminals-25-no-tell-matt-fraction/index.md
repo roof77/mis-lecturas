@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals #25: No Tell'
+title: '#350 · Sex Criminals #25: No Tell'
 summary: "\"FIVE-FINGERED DISCOUNT,\" Conclusion.\r\n\r\nHow have we gotten through 24 issues already and not made an \"exciting\
   \ climax\" joke in the solicits? C'mon, Matty…"
 date: '2018-08-20T23:59:55'
@@ -8,10 +8,10 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Fantasía
 toc: false
+id: 350
 autores:
 - Matt Fraction
 - Chip Zdarsky

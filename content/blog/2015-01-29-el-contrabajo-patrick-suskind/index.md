@@ -1,5 +1,5 @@
 ---
-title: El contrabajo
+title: '#93 · El contrabajo'
 summary: Como la pasión y poderío olfativos del protagonista de El perfume, el instrumento que es a un tiempo orgullo y condena
   del músico de El contrabajo, posee la…
 date: '2015-01-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Contemporaneo
 - Siglo XX
 toc: false
+id: 93
 autores:
 - Patrick Süskind
 autores_stats:
@@ -44,7 +45,7 @@ Como la pasión y poderío olfativos del protagonista de El perfume, el instrume
 - **Autor:** [Patrick Süskind](/autores/patrick-suskind/)
 - **Editorial:** Seix Barral 
 - **Formato:** Paperback, 92 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8432205516 / 9788432205514
 - **Publicación original:** 1984-09-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Teatro](/tags/teatro/), [Literatura alemana](/tags/literatura-alemana/), [Música](/tags/musica/), [Alemania](/tags/alemania/), [Clásico](/tags/clasico/), [Drama](/tags/drama/), [Contemporaneo](/tags/contemporaneo/), [Siglo XX](/tags/siglo-xx/)

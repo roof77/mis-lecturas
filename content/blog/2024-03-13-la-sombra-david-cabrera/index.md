@@ -1,5 +1,5 @@
 ---
-title: La Sombra
+title: '#629 · La Sombra'
 summary: Este libro es la historia de una sombra que mató a un hombre de una puñalada, fue condenado a veinte años de prisión
   y huyó antes de entrar en la cárcel. En…
 date: '2024-03-13T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - No Ficción
 toc: false
+id: 629
 autores:
 - David Cabrera
 autores_stats:
@@ -36,7 +37,7 @@ La Sombra es una reflexión sobre la culpabilidad, el castigo y las trampas de l
 - **Autor:** [David Cabrera](/autores/david-cabrera/)
 - **Editorial:** Libros del K.O.
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419119148 / 9788419119148
 - **Publicación original:** 2022-06-13
 - **Géneros:** [No Ficción](/tags/no-ficcion/)

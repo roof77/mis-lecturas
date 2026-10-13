@@ -1,5 +1,5 @@
 ---
-title: 'El Asco: Ellos contra nosotros'
+title: '#704 · El Asco: Ellos contra nosotros'
 summary: Volumen que traduce los números 9 al 13 del título estadounidense The Filth.
 date: '2025-01-30T23:59:58'
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 704
 autores:
 - Grant Morrison
 - Chris Weston
@@ -35,7 +35,7 @@ Volumen que traduce los números 9 al 13 del título estadounidense The Filth.
 - **Colaboradores:** [Chris Weston](/autores/chris-weston/) (Dibujo), [Gary Erskine](/autores/gary-erskine/) (Tinta), [Matt Hollingsworth](/autores/matt-hollingsworth/) (Color)
 - **Editorial:** Norma Editorial (Vertigo Comics)
 - **Formato:** Paperback, 121 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484317803 / 9788484317807
 - **Publicación original:** 2004-01-01
 - **Géneros:** [Comics](/tags/comics/)

@@ -1,5 +1,5 @@
 ---
-title: De cómo recibí mi herencia
+title: '#544 · De cómo recibí mi herencia'
 summary: Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata su herencia eslava y judía de una forma
   tan fascinante y estilizada que parece…
 date: '2022-06-06T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Biografía
 - Club de lectura
 toc: false
+id: 544
 autores:
 - Dorothy Gallagher
 - Regina López Muñoz
@@ -40,7 +41,7 @@ Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata s
 - **Colaboradores:** [Regina López Muñoz](/autores/regina-lopez-munoz/) (translator)
 - **Editorial:** Muñeca infinita editorial
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412393732 / 9788412393736
 - **Publicación original:** 2022-05-01
 - **Géneros:** [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Ensayo](/tags/ensayo/), [EEUU](/tags/eeuu/), [Judaismo](/tags/judaismo/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/)

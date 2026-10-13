@@ -1,5 +1,5 @@
 ---
-title: La cantina de medianoche 9
+title: '#875 · La cantina de medianoche 9'
 summary: Reseña de lectura de «La cantina de medianoche 9».
 date: '2026-06-24T23:59:59'
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 875
 autores:
 - Yarō Abe
 - Alberto K. Fonseca Sakai
@@ -29,7 +29,7 @@ nota: Muy recomendable
 - **Colaboradores:** [Alberto K. Fonseca Sakai](/autores/alberto-k-fonseca-sakai/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410332884 / 9788410332881
 - **Publicación original:** 2026-02-05
 - **Géneros:** [Comics](/tags/comics/)

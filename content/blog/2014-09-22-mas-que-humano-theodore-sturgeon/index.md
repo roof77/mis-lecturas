@@ -1,5 +1,5 @@
 ---
-title: Más que humano
+title: '#70 · Más que humano'
 summary: "La novela más conocida de Theodore Sturgeon, en la que su autor se interroga sobre temas como la soledad del hombre\
   \ o lo que significa ser humano.\r\n\r\nMás que…"
 date: '2014-09-22T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Siglo XX
 - Club de lectura
 toc: false
+id: 70
 autores:
 - Theodore Sturgeon
 autores_stats:
@@ -42,7 +43,7 @@ Más que humano es la historia de un grupo de personajes que no encuentran su pa
 - **Autor:** [Theodore Sturgeon](/autores/theodore-sturgeon/)
 - **Editorial:** Ediciones Minotauro
 - **Formato:** Hardcover, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445077066 / 9788445077061
 - **Publicación original:** 2008-10-14
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Clásico](/tags/clasico/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Novela](/tags/novela/), [Ficción especulativa](/tags/ficcion-especulativa/), [Siglo XX](/tags/siglo-xx/), [Club de lectura](/tags/club-de-lectura/)

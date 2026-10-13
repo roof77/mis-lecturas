@@ -1,5 +1,5 @@
 ---
-title: La chica de ojos verdes
+title: '#399 · La chica de ojos verdes'
 summary: Caithleen (luego Kate) y Baba, dos amigas irlandesas —encantadoras unas veces, contradictorias otras—, se han instalado,
   tras una adolescencia de paisajes…
 date: '2019-08-09T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Coming of age
 - Clásicos modernos
 toc: false
+id: 399
 autores:
 - Edna O'Brien
 - Regina López Muñoz
@@ -50,7 +51,7 @@ Humor y amor, como en toda rima fácil, al mismo tiempo que —otra rima— dolo
 - **Colaboradores:** [Regina López Muñoz](/autores/regina-lopez-munoz/) (Translator)
 - **Editorial:** Errata Naturae
 - **Formato:** Paperback, 336 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841521765X / 9788415217657
 - **Publicación original:** 2014-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Clásico](/tags/clasico/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Romance](/tags/romance/), [Mujeres](/tags/mujeres/), [Coming of age](/tags/coming-of-age/), [Clásicos modernos](/tags/clasicos-modernos/)

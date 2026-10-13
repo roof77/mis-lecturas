@@ -1,5 +1,5 @@
 ---
-title: Kentukis
+title: '#509 · Kentukis'
 summary: Casi siempre comienza en los hogares. Ya se registran miles de casos en Vancouver, Hong Kong, Tel Aviv, Barcelona,
   Oaxaca, y se está propagando rápidamente a…
 date: '2021-12-14T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Novela
 toc: false
+id: 509
 autores:
 - Samanta Schweblin
 autores_stats:
@@ -42,7 +43,7 @@ Los personajes de esta novela encarnan el costado más real —y a la vez imprev
 - **Autor:** [Samanta Schweblin](/autores/samanta-schweblin/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9877690241 / 9789877690248
 - **Publicación original:** 2018-10-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [Ficción especulativa](/tags/ficcion-especulativa/), [Adultos](/tags/adultos/), [Novela](/tags/novela/)

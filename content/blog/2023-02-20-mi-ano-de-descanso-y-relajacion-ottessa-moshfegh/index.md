@@ -1,5 +1,5 @@
 ---
-title: Mi año de descanso y relajación
+title: '#579 · Mi año de descanso y relajación'
 summary: En Mi año de descanso y relajación, Ottessa Moshfegh hace de Manhattan el epicentro de una civilización, la del año
   2000, dominada por la apatía. Como una…
 date: '2023-02-20T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción adulta
 - Nueva York
 toc: false
+id: 579
 autores:
 - Ottessa Moshfegh
 - Inmaculada Concepción Pérez Parra
@@ -42,7 +43,7 @@ En Mi año de descanso y relajación, Ottessa Moshfegh hace de Manhattan el epic
 - **Colaboradores:** [Inmaculada Concepción Pérez Parra](/autores/inmaculada-concepcion-perez-parra/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420434906 / 9788420434902
 - **Publicación original:** 2019-01-17
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Salud mentál](/tags/salud-mental/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Novela](/tags/novela/), [Ficción adulta](/tags/ficcion-adulta/), [Nueva York](/tags/nueva-york/)

@@ -1,5 +1,5 @@
 ---
-title: Ahí abajo, entre raíces y huesos
+title: '#364 · Ahí abajo, entre raíces y huesos'
 summary: Las gemelas Jack y Jill tenían diecisiete años cuando las conocimos en "Cada corazón, un umbral". Esta es la historia
   de lo que ocurrió primero. De cómo las…
 date: '2018-11-06T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Vampiros
 - Fantasía urbana
 toc: false
+id: 364
 autores:
 - Seanan McGuire
 - María Pilar San Román
@@ -43,7 +44,7 @@ Las gemelas Jack y Jill tenían diecisiete años cuando las conocimos en "Cada c
 - **Colaboradores:** [María Pilar San Román](/autores/maria-pilar-san-roman/) (Translator)
 - **Editorial:** Alianza
 - **Formato:** Paperback, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788491813217
 - **Publicación original:** 2018-10-25
 - **Géneros:** [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Novella](/tags/novella/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Vampiros](/tags/vampiros/), [Fantasía urbana](/tags/fantasia-urbana/)

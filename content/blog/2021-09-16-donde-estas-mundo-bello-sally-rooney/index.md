@@ -1,5 +1,5 @@
 ---
-title: Dónde estás, mundo bello
+title: '#489 · Dónde estás, mundo bello'
 summary: Dos amigas se acercan a la treintena en ciudades distintas y con trayectorias vitales alejadas. Alice, novelista,
   conoce a Felix, que trabaja en un almacén, y…
 date: '2021-09-16T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Literatura irlandesa
 - Novela
 toc: false
+id: 489
 autores:
 - Sally Rooney
 - Inga Pellisa
@@ -46,7 +47,7 @@ Alice, Felix, Eileen y Simon todavía son jóvenes, pero pronto dejarán de serl
 - **Colaboradores:** [Inga Pellisa](/autores/inga-pellisa/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Mass Market Paperback, 326 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439739230 / 9788439739234
 - **Publicación original:** 2021-09-09
 - **Géneros:** [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Irlanda](/tags/irlanda/), [Adultos](/tags/adultos/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Novela](/tags/novela/)

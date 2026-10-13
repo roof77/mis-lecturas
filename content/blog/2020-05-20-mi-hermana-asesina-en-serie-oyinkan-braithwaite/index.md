@@ -1,5 +1,5 @@
 ---
-title: Mi hermana, asesina en serie
+title: '#432 · Mi hermana, asesina en serie'
 summary: 'Ayoola tiene un serio problema con sus novios: cuando se cansa de ellos, cuando le decepcionan, o a veces sin motivo
   aparente, los mata. Ya lleva tres, lo cual…'
 date: '2020-05-20T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - África
 - Adultos
 toc: false
+id: 432
 autores:
 - Oyinkan Braithwaite
 - Montse Meneses Vilar
@@ -43,7 +44,7 @@ A partir de estas dos hermanas peculiares, con personalidades opuestas y maneras
 - **Colaboradores:** [Montse Meneses Vilar](/autores/montse-meneses-vilar/) (Translator)
 - **Editorial:** Alpha Decay
 - **Formato:** Paperback, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788412073812
 - **Publicación original:** 2019-11-18
 - **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Crimen](/tags/crimen/), [África](/tags/africa/), [Adultos](/tags/adultos/)

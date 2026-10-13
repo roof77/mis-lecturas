@@ -1,5 +1,5 @@
 ---
-title: Los vagabundos de la cosecha
+title: '#144 · Los vagabundos de la cosecha'
 summary: Durante los años más duros sucesivos a la Gran Depresión, gran cantidad de campesinos expulsados de sus granjas abarrotaron
   las carreteras del estado de…
 date: '2015-09-29T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - EEUU
 - Colegio
 toc: false
+id: 144
 autores:
 - John Steinbeck
 - Dorothea Lange
@@ -43,7 +44,7 @@ En la misma época, otra artista, la fotógrafa Dorothea Lange, fue contratada p
 - **Colaboradores:** [Dorothea Lange](/autores/dorothea-lange/) (Photographer), [Eduardo Jordá](/autores/eduardo-jorda/) (Contributor)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 120 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493544817 / 9788493544812
 - **Publicación original:** 2007-05-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Clásico](/tags/clasico/), [Periodismo](/tags/periodismo/), [Ensayo](/tags/ensayo/), [EEUU](/tags/eeuu/), [Colegio](/tags/colegio/)

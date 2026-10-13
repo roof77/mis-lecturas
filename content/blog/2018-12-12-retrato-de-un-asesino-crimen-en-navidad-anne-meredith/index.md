@@ -1,5 +1,5 @@
 ---
-title: Retrato de un asesino. Crimen en Navidad
+title: '#369 · Retrato de un asesino. Crimen en Navidad'
 summary: «Adrian Gray nació en mayo de 1862 y murió violentamente a manos de uno de sus propios hijos el día de Navidad de
   1931. El crimen fue espontáneo e…
 date: '2018-12-12T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Thriller
 - Histórico
 toc: false
+id: 369
 autores:
 - Anne Meredith
 - Daniel de la Rubia Ortí
@@ -46,7 +47,7 @@ Lucy Beatrice Malleson, conocida por los seudónimos de J. Kilmeny Keith, Anthon
 - **Colaboradores:** [Daniel de la Rubia Ortí](/autores/daniel-de-la-rubia-orti/) (Translator)
 - **Editorial:** Alba Editorial
 - **Formato:** Kindle Edition, 236 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490655030 / 9788490655030
 - **Publicación original:** 2019-06-25
 - **Géneros:** [Misterio](/tags/misterio/), [Navidad](/tags/navidad/), [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura británica](/tags/literatura-britanica/), [Vacaciones](/tags/vacaciones/), [Ficción histórica](/tags/ficcion-historica/), [Thriller](/tags/thriller/), [Histórico](/tags/historico/)

@@ -1,5 +1,5 @@
 ---
-title: Hay algo matando niños, vol. 1
+title: '#782 · Hay algo matando niños, vol. 1'
 summary: "¡Son los monstruos los que tendrían que estar asustados!\r\n\r\nCuando empiezan a desaparecer los niños de Archer's\
   \ Peak, una tranquila localidad en el corazón de…"
 date: '2025-11-14T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Terror
 - Fantasía
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Paranormal
 - Sobrenatural
 toc: false
+id: 782
 autores:
 - James Tynion IV
 - Werther Dell'Edera
@@ -52,7 +52,7 @@ Editorial original: Boom!
 - **Colaboradores:** [Werther Dell'Edera](/autores/werther-dell-edera/) (Illustrator), [Miquel Muerto](/autores/miquel-muerto/) (Colorist), [Ignacio Bentz Simón](/autores/ignacio-bentz-simon/) (Translator)
 - **Editorial:** Planeta Cómic
 - **Formato:** Hardcover, 152 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8413416442 / 9788413416441
 - **Publicación original:** 2021-05-05
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/)

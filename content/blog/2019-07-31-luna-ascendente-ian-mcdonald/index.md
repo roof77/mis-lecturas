@@ -1,5 +1,5 @@
 ---
-title: Luna ascendente
+title: '#397 · Luna ascendente'
 summary: Un centenar de años en el futuro se libra una guerra entre los Cinco Dragones, las cinco familias que controlan las
   principales empresas industriales de la…
 date: '2019-07-31T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ciencia Ficción
 - Novela
 toc: false
+id: 397
 autores:
 - Ian McDonald
 - Natalia Eva Cervera de la Torre
@@ -57,7 +58,7 @@ The Guardian
 - **Colaboradores:** [Natalia Eva Cervera de la Torre](/autores/natalia-eva-cervera-de-la-torre/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 464 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417347240 / 9788417347246
 - **Publicación original:** 2019-07-04
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Space Opera](/tags/space-opera/), [Espacio](/tags/espacio/), [Queer](/tags/queer/), [Ficción especulativa](/tags/ficcion-especulativa/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Novela](/tags/novela/)

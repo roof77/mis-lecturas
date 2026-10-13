@@ -1,5 +1,5 @@
 ---
-title: La balada del mar salado
+title: '#759 · La balada del mar salado'
 summary: '"La balada del mar salado" está ambientada en un Pacífico azotado por los huracanes, pero también por los vientos
   de una guerra lejana, un mundo poblado por…'
 date: '2025-06-30T23:59:59'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Aventuras
 - Ficción
@@ -16,6 +15,7 @@ tags:
 - Literatura italiana
 - Italia
 toc: false
+id: 759
 autores:
 - Hugo Pratt
 autores_stats:
@@ -39,7 +39,7 @@ nota: Imprescindible
 - **Serie:** Corto Maltese (#1)
 - **Editorial:** Norma Editorial, S.A.
 - **Formato:** Hardcover, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498470889 / 9788498470888
 - **Publicación original:** 2009-11-17
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Aventuras](/tags/aventuras/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Literatura italiana](/tags/literatura-italiana/), [Italia](/tags/italia/)

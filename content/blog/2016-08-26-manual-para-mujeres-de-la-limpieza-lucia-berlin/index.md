@@ -1,5 +1,5 @@
 ---
-title: Manual para mujeres de la limpieza
+title: '#204 · Manual para mujeres de la limpieza'
 summary: Con su inigualable toque de humor y melancolía, Berlin se hace eco de su vida, asombrosa y convulsa, para crear verdaderos
   milagros literarios con episodios…
 date: '2016-08-26T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Mujeres
 - Literatura
 toc: false
+id: 204
 autores:
 - Lucia Berlin
 - Eugenia Vázquez Nacarino
@@ -43,7 +44,7 @@ Uno de los mejores libros del año según The New York Times, The Guardian, NPR 
 - **Colaboradores:** [Eugenia Vázquez Nacarino](/autores/eugenia-vazquez-nacarino/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 432 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 842042160X / 9788420421605
 - **Publicación original:** 2016-03-17
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/), [Mujeres](/tags/mujeres/), [Literatura](/tags/literatura/)

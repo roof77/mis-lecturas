@@ -1,5 +1,5 @@
 ---
-title: 'Astro City #3: Album de familia'
+title: '#803 · Astro City #3: Album de familia'
 summary: "¿CÓMO CUIDAR DE TU FAMILIA EN UNA CIUDAD DE SUPERHÉROES Y PODERES EXTRAÑOS? \r\nLa vida en Astro City es muy distinta\
   \ a la de las demás ciudades. Para un simple…"
 date: '2026-02-26T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Superheroes
@@ -17,6 +16,7 @@ tags:
 - DC
 - Crimen
 toc: false
+id: 803
 autores:
 - Kurt Busiek
 - Brent Anderson
@@ -44,7 +44,7 @@ La vida en Astro City es muy distinta a la de las demás ciudades. Para un simpl
 - **Colaboradores:** [Brent Anderson](/autores/brent-anderson/) (Author)
 - **Editorial:** Norma Editorial (Wildstorm Comics)
 - **Formato:** Hardcover, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467901292 / 9788467901290
 - **Publicación original:** 2010-05-28
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [DC](/tags/dc/), [Crimen](/tags/crimen/)

@@ -1,5 +1,5 @@
 ---
-title: 'Carsick: John Waters Hitchhikes Across America'
+title: '#83 · Carsick: John Waters Hitchhikes Across America'
 summary: John Waters is putting his life on the line. Armed with wit, a pencil-thin mustache, and a cardboard sign that reads
   "I’m Not Psycho," he hitchhikes across…
 date: '2014-11-27T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - Queer
 toc: false
+id: 83
 autores:
 - John Waters
 autores_stats:

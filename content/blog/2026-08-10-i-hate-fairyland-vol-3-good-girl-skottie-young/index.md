@@ -1,5 +1,5 @@
 ---
-title: 'I Hate Fairyland, Vol. 3: Good Girl'
+title: '#918 · I Hate Fairyland, Vol. 3: Good Girl'
 summary: Gert finally realizes that being such a murderous maniac might be the reason she's not been able to find her way
   out of the candy-coated world of Fairyland…
 date: '2026-08-10T23:59:57'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Humor
 - Adultos
@@ -17,6 +16,7 @@ tags:
 - Comedia
 - Manga
 toc: false
+id: 918
 autores:
 - Skottie Young
 autores_stats:

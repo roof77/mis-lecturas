@@ -1,5 +1,5 @@
 ---
-title: Baby Cat-Face
+title: '#421 · Baby Cat-Face'
 summary: Después de haber sido secuestrada con un autobús lleno de pasajeros y forzada a contemplar un peculiar baile vanguardista
   sobre insectos, Baby Cat-Face se une…
 date: '2020-01-29T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Ficción
 toc: false
+id: 421
 autores:
 - Barry Gifford
 autores_stats:
@@ -29,7 +30,7 @@ Después de haber sido secuestrada con un autobús lleno de pasajeros y forzada 
 
 - **Autor:** [Barry Gifford](/autores/barry-gifford/)
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 1998-02-02
 - **Géneros:** [Ficción](/tags/ficcion/)
 - **Ficha en Goodreads:** [Baby Cat-Face](https://www.goodreads.com/book/show/39722728-baby-cat-face)

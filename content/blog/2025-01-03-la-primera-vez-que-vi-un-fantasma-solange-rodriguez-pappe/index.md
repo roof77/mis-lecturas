@@ -1,5 +1,5 @@
 ---
-title: La primera vez que vi un fantasma
+title: '#692 · La primera vez que vi un fantasma'
 summary: Los fantasmas que atraviesan este libro han tomado forma de historias. Habitan en un avejentado hotel de carretera
   o en el cuerpo de una gata embarazada, se…
 date: '2025-01-03T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Ficción
 - Fantasía
 toc: false
+id: 692
 autores:
 - Solange Rodríguez Pappe
 autores_stats:
@@ -37,7 +38,7 @@ La escritora ecuatoriana Solange Rodríguez Pappe, hábil para suponer tramas pe
 - **Autor:** [Solange Rodríguez Pappe](/autores/solange-rodriguez-pappe/)
 - **Editorial:** Candaya
 - **Formato:** Paperback, 139 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415934564 / 9788415934561
 - **Publicación original:** 2018-10-15
 - **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/)

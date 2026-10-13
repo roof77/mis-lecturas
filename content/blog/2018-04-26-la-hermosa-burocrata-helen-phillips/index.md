@@ -1,5 +1,5 @@
 ---
-title: La hermosa burócrata
+title: '#306 · La hermosa burócrata'
 summary: Si las perspectivas laborales no hubieran sido tan sombrías durante ese húmedo verano, es probable que Josephine
   no hubiera aceptado el puesto de…
 date: '2018-04-26T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Adultos
 - Novela
 toc: false
+id: 306
 autores:
 - Helen Phillips
 autores_stats:
@@ -43,7 +44,7 @@ La oficina es, a la vez, el infierno y su contrario: un espacio inmejorable para
 - **Autor:** [Helen Phillips](/autores/helen-phillips/)
 - **Editorial:** Siruela
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417308768 / 9788417308766
 - **Publicación original:** 2018-04-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Misterio](/tags/misterio/), [Distopía](/tags/distopia/), [Club de lectura](/tags/club-de-lectura/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Novela](/tags/novela/)

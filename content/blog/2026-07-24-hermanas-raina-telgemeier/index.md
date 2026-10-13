@@ -1,5 +1,5 @@
 ---
-title: Hermanas
+title: '#899 · Hermanas'
 summary: Raina siempre había querido tener una hermana, pero cuando nació Amara las cosas no salieron  como esperaba. A través
   de  ashbacks, Raina relata los diversos…
 date: '2026-07-24T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Jovenes adultos
 - Hermanas
 - Ficción realista
@@ -18,6 +17,7 @@ tags:
 - Familia
 - Humor
 toc: false
+id: 899
 autores:
 - Raina Telgemeier
 autores_stats:
@@ -41,7 +41,7 @@ Raina siempre había querido tener una hermana, pero cuando nació Amara las cos
 - **Serie:** Smile (#2)
 - **Editorial:** Maeva Young
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841636396X / 9788416363964
 - **Publicación original:** 2017-02-21
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Jovenes adultos](/tags/jovenes-adultos/), [Hermanas](/tags/hermanas/), [Ficción realista](/tags/ficcion-realista/), [Niños](/tags/ninos/), [Ficción](/tags/ficcion/), [Familia](/tags/familia/), [Humor](/tags/humor/)

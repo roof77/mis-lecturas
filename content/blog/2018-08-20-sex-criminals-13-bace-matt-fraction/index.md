@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals #13: Bace'
+title: '#338 · Sex Criminals #13: Bace'
 summary: Bwakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-BWOMP
 date: '2018-08-20T23:59:43'
 authors:
@@ -7,11 +7,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Fantasía
 - Ficción
 toc: false
+id: 338
 autores:
 - Matt Fraction
 autores_stats:

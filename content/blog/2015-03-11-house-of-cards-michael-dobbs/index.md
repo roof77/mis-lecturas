@@ -1,5 +1,5 @@
 ---
-title: House of Cards
+title: '#98 · House of Cards'
 summary: "\"¡Qué personaje! ¡Qué creación más brillante!\" Sunday Telegraph\r\n\"House of Cards es la obra de un genio.\"\
   \ Sunday Post\r\n\"Afilado como una cuchilla. Sin…"
 date: '2015-03-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Contemporaneo
 - Literatura británica
 toc: false
+id: 98
 autores:
 - Michael Dobbs
 autores_stats:
@@ -49,7 +50,7 @@ House of Cards se publicó en 1989 y pronto se convirtió en una famosa serie de
 - **Serie:** Francis Urquhart (#1)
 - **Editorial:** Alba Editorial
 - **Formato:** Kindle Edition, 439 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490650586 / 9788490650585
 - **Publicación original:** 2014-11-19
 - **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Política](/tags/politica/), [Misterio](/tags/misterio/), [Thriller político](/tags/thriller-politico/), [Crimen](/tags/crimen/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/), [Literatura británica](/tags/literatura-britanica/)

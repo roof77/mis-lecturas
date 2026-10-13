@@ -1,5 +1,5 @@
 ---
-title: Flores rojas
+title: '#664 · Flores rojas'
 summary: Flores rojas recoge catorce relatos de Yoshiharu Tsuge publicados en la revista GARO entre 1966 y 1968. Son historias
   inspiradas en sus viajes, impregnadas de…
 date: '2024-07-05T23:59:59'
@@ -9,8 +9,8 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 toc: false
+id: 664
 autores:
 - Yoshiharu Tsuge
 autores_stats:
@@ -37,7 +37,7 @@ Flores rojas es una celebración de los encantos y las contradicciones del Japó
 - **Autor:** [Yoshiharu Tsuge](/autores/yoshiharu-tsuge/)
 - **Editorial:** Gallo Nero
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2022-04-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Flores rojas](https://www.goodreads.com/book/show/60766670-flores-rojas)

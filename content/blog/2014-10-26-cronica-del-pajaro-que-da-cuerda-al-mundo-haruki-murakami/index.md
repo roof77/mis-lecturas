@@ -1,5 +1,5 @@
 ---
-title: Crónica del pájaro que da cuerda al mundo
+title: '#78 · Crónica del pájaro que da cuerda al mundo'
 summary: 'Crónica de un pájaro que da cuerda al mundo: El joven Tooru Okada, que acaba de dejar su trabajo en un bufete de
   abogados, recibe un día la llamada anónima de…'
 date: '2014-10-26T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción Literaria
 - Misterio
 toc: false
+id: 78
 autores:
 - Haruki Murakami
 - Junichi Matsuura
@@ -45,7 +46,7 @@ Crónica de un pájaro que da cuerda al mundo: El joven Tooru Okada, que acaba d
 - **Colaboradores:** [Junichi Matsuura](/autores/junichi-matsuura/) (Translator), [Lourdes Porta Fuentes](/autores/lourdes-porta-fuentes/) (Translator)
 - **Editorial:** Tusquets Editores S.A.
 - **Formato:** Paperback, 912 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 848383510X / 9788483835104
 - **Publicación original:** 2001-01-15
 - **Géneros:** [Ficción](/tags/ficcion/), [Realismo mágico](/tags/realismo-magico/), [Japón](/tags/japon/), [Fantasía](/tags/fantasia/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [Misterio](/tags/misterio/)

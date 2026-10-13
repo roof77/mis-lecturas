@@ -1,5 +1,5 @@
 ---
-title: 'Lumberjanes: Space Jamborie'
+title: '#896 · Lumberjanes: Space Jamborie'
 summary: This crazy war between Apollo and Artemis finally reaches its peak and it's up to the Lumberjanes to save their camp
   from this crazy sibling rivalry. All…
 date: '2026-07-12T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Fantasía
@@ -17,6 +16,7 @@ tags:
 - Queer
 - LGTBIQ+
 toc: false
+id: 896
 autores:
 - N.D. Stevenson
 - Grace Ellis

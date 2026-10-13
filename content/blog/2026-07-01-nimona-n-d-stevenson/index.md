@@ -1,5 +1,5 @@
 ---
-title: Nimona
+title: '#879 · Nimona'
 summary: The graphic novel debut from rising star ND Stevenson, based on his beloved and critically acclaimed web comic, which
   Slate awarded its Cartoonist Studio…
 date: '2026-07-01T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Jovenes adultos
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Humor
 - Aventuras
 toc: false
+id: 879
 autores:
 - N.D. Stevenson
 autores_stats:

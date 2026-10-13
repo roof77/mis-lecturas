@@ -1,5 +1,5 @@
 ---
-title: El acontecimiento
+title: '#541 · El acontecimiento'
 summary: En octubre de 1963, Annie Ernaux, la protagonista de esta historia, se encuentra en la ciudad de Ruán estudiando
   filología, cuando descubre que está…
 date: '2022-05-23T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Mujeres
 - Contemporaneo
 toc: false
+id: 541
 autores:
 - Annie Ernaux
 - Berta Corral
@@ -43,7 +44,7 @@ En octubre de 1963, Annie Ernaux, la protagonista de esta historia, se encuentra
 - **Colaboradores:** [Berta Corral](/autores/berta-corral/) (Translator), [Mercedes Corral](/autores/mercedes-corral/) (Translator)
 - **Editorial:** Tusquets Editores S.A.
 - **Formato:** Paperback, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483101645 / 9788483101643
 - **Publicación original:** 2001-03-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Feminismo](/tags/feminismo/), [Francia](/tags/francia/), [Premio Nobel](/tags/premio-nobel/), [Biografía](/tags/biografia/), [Literatura francesa](/tags/literatura-francesa/), [Mujeres](/tags/mujeres/), [Contemporaneo](/tags/contemporaneo/)

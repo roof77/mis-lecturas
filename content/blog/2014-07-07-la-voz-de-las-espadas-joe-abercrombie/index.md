@@ -1,5 +1,5 @@
 ---
-title: La voz de las espadas
+title: '#50 · La voz de las espadas'
 summary: El inquisidor Glokta, convertido en un cínico tullido tras su paso por las cárceles de los enemigos de la Unión,
   es ahora a su vez un eficaz torturador capaz…
 date: '2014-07-07T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ciencia Ficción
 - Mágia
 toc: false
+id: 50
 autores:
 - Joe Abercrombie
 - Borja García Bercero
@@ -49,7 +50,7 @@ Sus historias se entrelazan en una fantasía negra repleta de acción y personaj
 - **Colaboradores:** [Borja García Bercero](/autores/borja-garcia-bercero/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 656 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420682489 / 9788420682488
 - **Publicación original:** 2007-04-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Fantasía épica](/tags/fantasia-epica/), [Alta fantasía](/tags/alta-fantasia/), [Fantasía oscura](/tags/fantasia-oscura/), [Adultos](/tags/adultos/), [Aventuras](/tags/aventuras/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Mágia](/tags/magia/)

@@ -1,5 +1,5 @@
 ---
-title: Los hombres me explican cosas
+title: '#235 · Los hombres me explican cosas'
 summary: En este conjunto de ensayos mordaces y oportunos sobre la persistente desigualdad entre mujeres y hombres y la violencia
   basada en el género, Solnit cita su…
 date: '2017-02-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Justicia social
 toc: false
+id: 235
 autores:
 - Rebecca Solnit
 - Paula Martín Ponz
@@ -44,7 +45,7 @@ El término mansplaining conjuga man («hombre») y explaining («explica»), en
 - **Colaboradores:** [Paula Martín Ponz](/autores/paula-martin-ponz/) (Translator)
 - **Editorial:** Capitán Swing
 - **Formato:** Paperback, 143 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849454814X / 9788494548147
 - **Publicación original:** 2016-09-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Ensayo](/tags/ensayo/), [Política](/tags/politica/), [Mujeres](/tags/mujeres/), [Género](/tags/genero/), [Memorias](/tags/memorias/), [Club de lectura](/tags/club-de-lectura/), [Justicia social](/tags/justicia-social/)

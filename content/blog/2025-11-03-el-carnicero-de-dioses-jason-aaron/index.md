@@ -1,5 +1,5 @@
 ---
-title: El Carnicero de Dioses
+title: '#779 · El Carnicero de Dioses'
 summary: Comienza la más aclamada etapa actual de Thor! A lo largo de los siglos, los dioses han estado desapareciendo, lo
   que condena al caos a sus adoradores. Ahora…
 date: '2025-11-03T23:59:59'
@@ -9,9 +9,9 @@ tags:
 - Lecturas
 - Comics
 - Marvel
-- Comics
 - Superheroes
 toc: false
+id: 779
 autores:
 - Jason Aaron
 - Esad Ribić
@@ -43,7 +43,7 @@ Comienza la más aclamada etapa actual de Thor! A lo largo de los siglos, los di
 - **Colaboradores:** [Esad Ribić](/autores/esad-ribic/) (Illustrator), [Nic Klein](/autores/nic-klein/) (Illustrator), [Jackson Guice](/autores/jackson-guice/) (Illustrator), [Ive Svorcina](/autores/ive-svorcina/) (Colorist), [Dean White](/autores/dean-white/) (Colorist), [Tom Palmer](/autores/tom-palmer/) (Ink), [Gonzalo Quesada](/autores/gonzalo-quesada/) (Translator)
 - **Editorial:** Panini Comics
 - **Formato:** Hardcover, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491673725 / 9788491673729
 - **Publicación original:** 2018-04-01
 - **Géneros:** [Marvel](/tags/marvel/), [Comics](/tags/comics/), [Superheroes](/tags/superheroes/)

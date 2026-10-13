@@ -1,5 +1,5 @@
 ---
-title: Cuernos
+title: '#140 · Cuernos'
 summary: La vida de Ig Perrish es un verdadero infierno desde que su novia Merrin fuera asesinada un año atrás, en un episodio
   que si bien le fue ajeno tendió sobre él…
 date: '2015-09-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Club de lectura
 toc: false
+id: 140
 autores:
 - Joe Hill
 autores_stats:
@@ -42,7 +43,7 @@ Joe Hill, príncipe del terror y autor prodigio de la exitosa novela El traje de
 - **Autor:** [Joe Hill](/autores/joe-hill/)
 - **Editorial:** Suma
 - **Formato:** Paperback, 476 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6071107164 / 9786071107169
 - **Publicación original:** 2010-10-01
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Sobrenatural](/tags/sobrenatural/), [Paranormal](/tags/paranormal/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/)

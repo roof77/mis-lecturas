@@ -1,5 +1,5 @@
 ---
-title: Historias del barrio - Edición integral
+title: '#637 · Historias del barrio - Edición integral'
 summary: Palma, Mallorca, años 80. Cada esquina del barrio chino tiene una historia que contar. Gabi, el aún adolescente protagonista,
   deambula por las calles de su…
 date: '2024-04-17T23:59:58'
@@ -9,11 +9,11 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Biografía
 - Literatura hispana
 - No Ficción
 toc: false
+id: 637
 autores:
 - Gabi Beltrán
 - Bartolomé Seguí
@@ -39,7 +39,7 @@ Palma, Mallorca, años 80. Cada esquina del barrio chino tiene una historia que 
 - **Colaboradores:** [Bartolomé Seguí](/autores/bartolome-segui/) (Illustrator)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 312 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416251843 / 9788416251841
 - **Publicación original:** 2016-10-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Biografía](/tags/biografia/), [Literatura hispana](/tags/literatura-hispana/), [No Ficción](/tags/no-ficcion/)

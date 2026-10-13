@@ -1,5 +1,5 @@
 ---
-title: Patos. Dos años en las arenas petrolíferas
+title: '#766 · Patos. Dos años en las arenas petrolíferas'
 summary: Antes de Kate Beaton, la autora de Hark! A Vagrant, había la Kate Beaton de los Beaton de Cabo Bretón, específicamente
   de Mabou, una comunidad costera muy…
 date: '2025-08-16T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - No Ficción
 - Memorias
 - Canada
@@ -17,6 +16,7 @@ tags:
 - Club de lectura
 - Adultos
 toc: false
+id: 766
 autores:
 - Kate Beaton
 autores_stats:
@@ -41,7 +41,7 @@ La habilidad natural de Beaton para dibujar se muestra con toda su fuerza cuando
 - **Autor:** [Kate Beaton](/autores/kate-beaton/)
 - **Editorial:** Norma Editorial
 - **Formato:** Hardcover, 436 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467960485 / 9788467960488
 - **Publicación original:** 2023-02-17
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Canada](/tags/canada/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/)

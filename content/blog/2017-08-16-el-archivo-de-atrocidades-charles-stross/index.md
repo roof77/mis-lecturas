@@ -1,5 +1,5 @@
 ---
-title: El archivo de atrocidades
+title: '#260 · El archivo de atrocidades'
 summary: Primera entrega de la serie de culto "Los expedientes de la Lavandería", una fascinante combinación de techno-thriller
   de espionaje, comedia y horror…
 date: '2017-08-16T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Thriller
 - Ciencia Ficción
 toc: false
+id: 260
 autores:
 - Charles Stross
 - Blanca Rodríguez
@@ -52,7 +53,7 @@ INCLUYE LA NOVELA CORTA GANADORA DEL PREMIO HUGO "LA JUNGLA DE CEMENTO".
 - **Colaboradores:** [Blanca Rodríguez](/autores/blanca-rodriguez/) (Translator), [Antonio Rivas](/autores/antonio-rivas/) (Translator)
 - **Editorial:** Insólita
 - **Formato:** Paperback, 410 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494702009 / 9788494702006
 - **Publicación original:** 2017-07-10
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía urbana](/tags/fantasia-urbana/), [Humor](/tags/humor/), [Lovecraftiano](/tags/lovecraftiano/), [Thriller](/tags/thriller/), [Ciencia Ficción](/tags/ciencia-ficcion/)

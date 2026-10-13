@@ -1,5 +1,5 @@
 ---
-title: Akira, No. 1
+title: '#665 · Akira, No. 1'
 summary: ¡Vuelve el clásico que desencadenó la mangamanía en Europa y América! Una ocasión ideal para descubrir -o redescubrir-
   el manga que lanzó a Katsuhiro Otomo a…
 date: '2024-07-08T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Ciencia ficción
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Distopía
 - Literatura japanesa
 toc: false
+id: 665
 autores:
 - Katsuhiro Otomo
 autores_stats:
@@ -42,7 +42,7 @@ En la hostil y caótica megalópolis de Neo Tokyo, Tetsuo y sus compañeros debe
 - **Serie:** Akira [アキラ] (#1)
 - **Editorial:** NORMA EDITORIAL, S.A.
 - **Formato:** Paperback, 362 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498143594 / 9788498143591
 - **Publicación original:** 2005-11-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Japón](/tags/japon/), [Distopía](/tags/distopia/), [Literatura japanesa](/tags/literatura-japanesa/)

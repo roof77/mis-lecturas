@@ -1,5 +1,5 @@
 ---
-title: Lluvia
+title: '#640 · Lluvia'
 summary: 1958. Pasan los años entre suntuosas fiestas, uniones insólitas y estremecedoras revelaciones, pero nada traerá paz
   a la familia Caskey. Saben que, tras la…
 date: '2024-04-23T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Gótico sureño
 - Thriller
 toc: false
+id: 640
 autores:
 - Michael McDowell
 - Carles Andreu
@@ -42,7 +43,7 @@ nota: Muy recomendable
 - **Colaboradores:** [Carles Andreu](/autores/carles-andreu/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Mass Market Paperback, 272 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841965499X / 9788419654991
 - **Publicación original:** 2024-04-17
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Gótico sureño](/tags/gotico-sureno/), [Thriller](/tags/thriller/)

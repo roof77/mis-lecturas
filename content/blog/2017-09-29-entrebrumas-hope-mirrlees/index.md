@@ -1,5 +1,5 @@
 ---
-title: Entrebrumas
+title: '#269 · Entrebrumas'
 summary: Lud es una próspera ciudad mercantil situada en la confluencia de dos ríos. Años atrás, los habitantes de Lud, amantes
   del trabajo y el orden, rechazaron la…
 date: '2017-09-29T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Novela
 - Club de lectura
 toc: false
+id: 269
 autores:
 - Hope Mirrlees
 - Emilio Mayorga
@@ -49,7 +50,7 @@ Considerada uno de los antecedentes de la literatura fantástica de género, ant
 - **Colaboradores:** [Emilio Mayorga](/autores/emilio-mayorga/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 267 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445075497 / 9788445075494
 - **Publicación original:** 2005-01-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Cuentos de hadas](/tags/cuentos-de-hadas/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Hadas](/tags/hadas/), [Alta fantasía](/tags/alta-fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/)

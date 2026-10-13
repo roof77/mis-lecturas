@@ -1,5 +1,5 @@
 ---
-title: Sara
+title: '#492 · Sara'
 summary: 1942. La Rusia ocupada por los Nazis. Lucha duro. Dispara a matar. No dejes que te atrapen con vida. Sigue a un equipo
   de francotiradoras rusas mientras…
 date: '2021-09-23T23:59:58'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción histórica
 - Ficción
@@ -16,6 +15,7 @@ tags:
 - Rusia
 - Segunda guerra mundial
 toc: false
+id: 492
 autores:
 - Garth Ennis
 - Steve Epting
@@ -42,7 +42,7 @@ nota: '3'
 - **Colaboradores:** [Steve Epting](/autores/steve-epting/) (Dibujante), [Elizabeth Breitweiser](/autores/elizabeth-breitweiser/) (Colorista), [Eduardo López Lafuente](/autores/eduardo-lopez-lafuente/) (Traductor)
 - **Editorial:** Panini Comics
 - **Formato:** Cartoné, 152 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8413346823 / 9788413346823
 - **Publicación original:** 2020-11-26
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Guerra](/tags/guerra/), [Rusia](/tags/rusia/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/)

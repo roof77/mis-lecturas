@@ -1,5 +1,5 @@
 ---
-title: Frankenstein, o el moderno Prometeo
+title: '#362 · Frankenstein, o el moderno Prometeo'
 summary: La presente edición se completa con un documentado estudio preliminar sobre Mary Shelley y la gestación de Frankenstein
   a cargo de Antonio José…
 date: '2018-10-08T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Club de lectura
 toc: false
+id: 362
 autores:
 - Mary Wollstonecraft Shelley
 autores_stats:
@@ -44,7 +45,7 @@ En la noche del 17 de junio de 1816, después de una velada en compañía de Lor
 - **Autor:** [Mary Wollstonecraft Shelley](/autores/mary-wollstonecraft-shelley/)
 - **Editorial:** Valdemar
 - **Formato:** Paperback, 317 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477027390 / 9788477027393
 - **Publicación original:** 2013-01-10
 - **Géneros:** [Clásico](/tags/clasico/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Gótico](/tags/gotico/), [Fantasía](/tags/fantasia/), [Colegio](/tags/colegio/), [Literatura](/tags/literatura/), [Club de lectura](/tags/club-de-lectura/)

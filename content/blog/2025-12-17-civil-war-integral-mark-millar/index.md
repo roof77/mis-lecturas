@@ -1,5 +1,5 @@
 ---
-title: 'Civil War: Integral'
+title: '#788 · Civil War: Integral'
 summary: Rare book
 date: '2025-12-17T23:59:58'
 authors:
@@ -8,9 +8,9 @@ tags:
 - Lecturas
 - Comics
 - Marvel
-- Comics
 - Superheroes
 toc: false
+id: 788
 autores:
 - Mark Millar
 - Brian Michael Bendis
@@ -37,7 +37,7 @@ Rare book
 - **Colaboradores:** [Brian Michael Bendis](/autores/brian-michael-bendis/) (Author)
 - **Editorial:** Panini Comics España (Marvel Comics)
 - **Formato:** Hardcover, 280 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490944946 / 9788490944943
 - **Publicación original:** 2016-03-01
 - **Géneros:** [Marvel](/tags/marvel/), [Comics](/tags/comics/), [Superheroes](/tags/superheroes/)

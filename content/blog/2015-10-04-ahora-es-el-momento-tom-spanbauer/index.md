@@ -1,5 +1,5 @@
 ---
-title: Ahora es el momento
+title: '#145 · Ahora es el momento'
 summary: En los años 60, un adolescente de Idaho llamado Rigby John Klusener llega a la conclusión que debe abandonar la granja
   de sus padres. Ni su familia…
 date: '2015-10-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Contemporaneo
 toc: false
+id: 145
 autores:
 - Tom Spanbauer
 - Aurora Echevarría
@@ -46,7 +47,7 @@ Ahora es el momento ha sido elegida por la revista Publishers Weekly como una de
 - **Colaboradores:** [Aurora Echevarría](/autores/aurora-echevarria/) (translator)
 - **Editorial:** Mondadori
 - **Formato:** Hardcover, 576 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439720572 / 9788439720577
 - **Publicación original:** 2007-04-28
 - **Géneros:** [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Gay](/tags/gay/), [Coming of age](/tags/coming-of-age/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/)

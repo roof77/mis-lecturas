@@ -1,5 +1,5 @@
 ---
-title: Sabrina
+title: '#488 · Sabrina'
 summary: "WHERE IS SABRINA?\r\n\r\nThe answer is hidden on a videotape, a tape which is en route to several news outlets,\
   \ and about to go viral.\r\n\r\nA landmark graphic novel…"
 date: '2021-09-15T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Misterio
 - Crimen
 - Contemporaneo
 - EEUU
 toc: false
+id: 488
 autores:
 - Nick Drnaso
 autores_stats:

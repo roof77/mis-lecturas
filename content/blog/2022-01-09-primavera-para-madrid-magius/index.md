@@ -1,5 +1,5 @@
 ---
-title: Primavera para Madrid
+title: '#518 · Primavera para Madrid'
 summary: El libro de oro de la corrupción, el chalaneo y el lenocinio. Si Magius en su anterior cómic, «El Método Gemini»,
   desgranaba el funcionamiento de la mafia…
 date: '2022-01-09T23:59:59'
@@ -8,12 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - España
 - Política
 - Literatura hispana
 toc: false
+id: 518
 autores:
 - Magius
 autores_stats:
@@ -42,7 +42,7 @@ Impreso íntegramente sobre papel oro para reflejar el obsceno derroche de nuest
 - **Autor:** [Magius](/autores/magius/)
 - **Editorial:** Autsaider Cómics
 - **Formato:** Hardcover, 272 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412007352 / 9788412007350
 - **Publicación original:** 2020-06-19
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [España](/tags/espana/), [Política](/tags/politica/), [Literatura hispana](/tags/literatura-hispana/)

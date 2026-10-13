@@ -1,5 +1,5 @@
 ---
-title: Locas 1
+title: '#694 · Locas 1'
 summary: Maggie Chascarrillo es una joven chicana cuya historia comienza a primeros de los 80, durante la eclosión del punk
   como revulsivo al rock mustio y anquilosado…
 date: '2025-01-10T23:59:59'
@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción
 - LGTBIQ+
 - Ciencia ficción
 - Queer
 toc: false
+id: 694
 autores:
 - Jaime Hernández
 autores_stats:
@@ -40,7 +40,7 @@ Maggie Chascarrillo es una joven chicana cuya historia comienza a primeros de lo
 - **Serie:** Love and Rockets Library (#1)
 - **Editorial:** Ediciones La Cúpula, S.A.
 - **Formato:** Paperback, 276 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478337121 / 9788478337125
 - **Publicación original:** 2006-07-30
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Ciencia ficción](/tags/ciencia-ficcion/), [Queer](/tags/queer/)

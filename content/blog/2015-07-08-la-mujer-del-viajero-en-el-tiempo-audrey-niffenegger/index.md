@@ -1,5 +1,5 @@
 ---
-title: La mujer del viajero en el tiempo
+title: '#122 · La mujer del viajero en el tiempo'
 summary: Un hombre tiene la capacidad de viajar en el tiempo y revisita su historia de amor... Clare y Henry forman una pareja
   aparentemente normal, se quieren e…
 date: '2015-07-08T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Realismo mágico
 - Chick lit
 toc: false
+id: 122
 autores:
 - Audrey Niffenegger
 - Silvia Alemany
@@ -44,7 +45,7 @@ Un hombre tiene la capacidad de viajar en el tiempo y revisita su historia de am
 - **Colaboradores:** [Silvia Alemany](/autores/silvia-alemany/) (Translator)
 - **Editorial:** DeBolsillo
 - **Formato:** Paperback, 595 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2006-05-30
 - **Géneros:** [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Fantasía](/tags/fantasia/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Adultos](/tags/adultos/), [Realismo mágico](/tags/realismo-magico/), [Chick lit](/tags/chick-lit/)
 - **Personajes:** Henry DeTamble, Clare Abshire, Charisse (The Time Traveler's Wife), Richard DeTamble, Alicia Abshire, Mark Abshire, Philip Abshire, Lucille Abshire, Mrs. Kim, Alba DeTamble

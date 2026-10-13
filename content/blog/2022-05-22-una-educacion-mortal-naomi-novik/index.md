@@ -1,5 +1,5 @@
 ---
-title: Una Educacion Mortal
+title: '#540 · Una Educacion Mortal'
 summary: "Entra en una escuela de magia diferente a cualquiera que hayas conocido antes. \r\nEn ella no hay profesores ni\
   \ vacaciones, las amistades son pura estrategia y…"
 date: '2022-05-22T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Fantasía urbana
 - Romance
 toc: false
+id: 540
 autores:
 - Naomi Novik
 - Patricia Sebastián Hernández
@@ -48,7 +49,7 @@ Ingeniosa, mordaz y divertida, y también con un profundo sentido de la justicia
 - **Colaboradores:** [Patricia Sebastián Hernández](/autores/patricia-sebastian-hernandez/) (Translator)
 - **Editorial:** Umbriel
 - **Formato:** Paperback, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841651741X / 9788416517411
 - **Publicación original:** 2021-02-02
 - **Géneros:** [Fantasía](/tags/fantasia/), [Dark Academia](/tags/dark-academia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Mágia](/tags/magia/), [Terror](/tags/terror/), [Fantasía urbana](/tags/fantasia-urbana/), [Romance](/tags/romance/)

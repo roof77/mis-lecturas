@@ -1,5 +1,5 @@
 ---
-title: El balcón en invierno
+title: '#82 · El balcón en invierno'
 summary: Asomado al balcón, debatiéndose entre la vida que bulle en la calle y la novela que ha empezado a escribir pero que
   no le satisface, el escritor se ve asaltado…
 date: '2014-11-10T23:59:59'
@@ -12,6 +12,7 @@ tags:
 - Literatura hispana
 - España
 toc: false
+id: 82
 autores:
 - Luis Landero
 autores_stats:
@@ -34,7 +35,7 @@ Asomado al balcón, debatiéndose entre la vida que bulle en la calle y la novel
 - **Autor:** [Luis Landero](/autores/luis-landero/)
 - **Editorial:** Tusquets Editores S.A.
 - **Formato:** Paperback, 248 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483839296 / 9788483839294
 - **Publicación original:** 2014-09-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/)

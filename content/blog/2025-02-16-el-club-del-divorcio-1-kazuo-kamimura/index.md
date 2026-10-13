@@ -1,5 +1,5 @@
 ---
-title: El club del divorcio 1
+title: '#710 · El club del divorcio 1'
 summary: El club del divorcio (1974-1975) narra las desventuras de la joven Yûko, quien regenta un bar donde trabajan mujeres
   divorciadas que intentan sobrevivir como…
 date: '2025-02-16T23:59:59'
@@ -9,12 +9,12 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Drama
 - Seinen manga
 - Japón
 toc: false
+id: 710
 autores:
 - Kazuo Kamimura
 autores_stats:
@@ -40,7 +40,7 @@ Kazuo Kamimura (Yokosuka, Japón, 1940-1986) fue conocido como “el pintor ukiy
 - **Serie:** Rikon Club (#1)
 - **Editorial:** ECC
 - **Formato:** Paperback, 504 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417206477 / 9788417206475
 - **Publicación original:** 2017-10-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Drama](/tags/drama/), [Seinen manga](/tags/seinen-manga/), [Japón](/tags/japon/)

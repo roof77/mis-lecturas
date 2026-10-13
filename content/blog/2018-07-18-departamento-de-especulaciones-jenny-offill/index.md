@@ -1,5 +1,5 @@
 ---
-title: Departamento de especulaciones
+title: '#324 · Departamento de especulaciones'
 summary: Cuando se conocieron eran jóvenes y estaban llenos de esperanza. Aunque ambos vivían en Nueva York, solían enviarse
   cartas en las que imaginaban cómo sería su…
 date: '2018-07-18T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción adulta
 - Literatura
 toc: false
+id: 324
 autores:
 - Jenny Offill
 - Eduardo Jordá
@@ -42,7 +43,7 @@ Cuando se conocieron eran jóvenes y estaban llenos de esperanza. Aunque ambos v
 - **Colaboradores:** [Eduardo Jordá](/autores/eduardo-jorda/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 172 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841621364X / 9788416213641
 - **Publicación original:** 2016-02-29
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Romance](/tags/romance/), [Matrimonio](/tags/matrimonio/), [Ficción adulta](/tags/ficcion-adulta/), [Literatura](/tags/literatura/)

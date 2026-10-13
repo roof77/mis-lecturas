@@ -1,5 +1,5 @@
 ---
-title: Castillo de arena
+title: '#737 · Castillo de arena'
 summary: Trece personajes descubren un cadáver en una playa donde la realidad va deformándose y han de enfrentarse a un destino
   que se les escapa como arena entre los…
 date: '2025-04-22T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Terror
 - Ficción
 - Ciencia ficción
@@ -17,6 +16,7 @@ tags:
 - Fantasía
 - Francia
 toc: false
+id: 737
 autores:
 - Frederik Peeters
 - Pierre Oscar Lévy
@@ -43,7 +43,7 @@ El gusto por lo simbólico, los apuntes bufonescos y una de las claves de la tra
 - **Colaboradores:** [Pierre Oscar Lévy](/autores/pierre-oscar-levy/) (Author)
 - **Editorial:** Astiberrri
 - **Formato:** Paperback, 101 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492769734 / 9788492769735
 - **Publicación original:** 2010-01-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Misterio](/tags/misterio/), [Fantasía](/tags/fantasia/), [Francia](/tags/francia/)

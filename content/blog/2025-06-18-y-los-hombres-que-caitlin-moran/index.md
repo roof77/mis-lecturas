@@ -1,5 +1,5 @@
 ---
-title: ¿Y los hombres qué?
+title: '#755 · ¿Y los hombres qué?'
 summary: "Un retrato perspicaz y atrevido de la masculinidad contemporánea.\r\n\r\nCualquier feminista que haya dialogado\
   \ ante el público sobre las frustraciones y los…"
 date: '2025-06-18T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Salud mentál
 - Estudios de género
 toc: false
+id: 755
 autores:
 - Caitlin Moran
 - Gemma Rovira
@@ -48,7 +49,7 @@ Con la misma perspicacia, lucidez y desvergüenza con las que ha venido abordand
 - **Colaboradores:** [Gemma Rovira](/autores/gemma-rovira/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Kindle Edition, 280 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433947397 / 9788433947390
 - **Publicación original:** 2025-05-28
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Humor](/tags/humor/), [Género](/tags/genero/), [Política](/tags/politica/), [Club de lectura](/tags/club-de-lectura/), [Sociología](/tags/sociologia/), [Salud mentál](/tags/salud-mental/), [Estudios de género](/tags/estudios-de-genero/)

@@ -1,5 +1,5 @@
 ---
-title: Amarillo
+title: '#18 · Amarillo'
 summary: El 27 de febrero de 1992 Chusé Izuel se tira por el balcón. Años después, Félix Romeo abre las heridas y los huecos
   de la memoria para tratar de responder a…
 date: '2014-03-11T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 18
 autores:
 - Félix Romeo
 autores_stats:
@@ -31,7 +32,7 @@ El 27 de febrero de 1992 Chusé Izuel se tira por el balcón. Años después, F�
 - **Autor:** [Félix Romeo](/autores/felix-romeo/)
 - **Editorial:** Plot.
 - **Formato:** Paperback, 155 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8486702844 / 9788486702847
 - **Publicación original:** 2008-01-01
 - **Ficha en Goodreads:** [Amarillo](https://www.goodreads.com/book/show/6845058-amarillo)

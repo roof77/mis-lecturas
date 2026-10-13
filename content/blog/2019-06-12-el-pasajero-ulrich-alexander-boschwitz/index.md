@@ -1,5 +1,5 @@
 ---
-title: El pasajero
+title: '#393 · El pasajero'
 summary: Alemania, 1938. El comerciante Otto Silbermann es un miembro respetado de la sociedad. Es, también, judío. Tras la
   Noche de los Cristales Rotos, comprueba que…
 date: '2019-06-12T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Judaismo
 - Guerra
 toc: false
+id: 393
 autores:
 - Ulrich Alexander Boschwitz
 autores_stats:
@@ -41,7 +42,7 @@ Alemania, 1938. El comerciante Otto Silbermann es un miembro respetado de la soc
 - **Autor:** [Ulrich Alexander Boschwitz](/autores/ulrich-alexander-boschwitz/)
 - **Editorial:** Sexto Piso
 - **Formato:** Kindle Edition, 255 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417517278 / 9788417517274
 - **Publicación original:** 2019-04-04
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Alemania](/tags/alemania/), [Literatura alemana](/tags/literatura-alemana/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Holocausto](/tags/holocausto/), [Histórico](/tags/historico/), [Clásico](/tags/clasico/), [Judaismo](/tags/judaismo/), [Guerra](/tags/guerra/)

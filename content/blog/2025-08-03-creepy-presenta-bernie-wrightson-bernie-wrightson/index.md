@@ -1,5 +1,5 @@
 ---
-title: 'Creepy Presenta: Bernie Wrightson'
+title: '#764 · Creepy Presenta: Bernie Wrightson'
 summary: All of horror legend Bernie Wrightson's Creepy and Eerie short stories, color illustrations, and frontispieces are
   finally collected in one deluxe hardcover!…
 date: '2025-08-03T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Terror
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Relatos
 - Antología
 toc: false
+id: 764
 autores:
 - Bernie Wrightson
 - Bill Dubai
@@ -44,7 +44,7 @@ All of horror legend Bernie Wrightson's Creepy and Eerie short stories, color il
 - **Colaboradores:** [Bill Dubai](/autores/bill-dubai/) (writer), [Bruce Jones](/autores/bruce-jones/) (writer), [Budd Lewis](/autores/budd-lewis/) (writer)
 - **Editorial:** Planeta DeAgostini
 - **Formato:** Hardcover, 152 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415821778 / 9788415821779
 - **Publicación original:** 2013-11-01
 - **Géneros:** [Comics](/tags/comics/), [Terror](/tags/terror/), [Novela gráfica](/tags/novela-grafica/), [Arte](/tags/arte/), [Ficción](/tags/ficcion/), [Manga](/tags/manga/), [Relatos](/tags/relatos/), [Antología](/tags/antologia/)

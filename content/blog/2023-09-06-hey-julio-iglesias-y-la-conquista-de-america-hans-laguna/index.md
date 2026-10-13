@@ -1,5 +1,5 @@
 ---
-title: Hey! Julio Iglesias y la conquista de América
+title: '#600 · Hey! Julio Iglesias y la conquista de América'
 summary: A nivel popular, Julio Iglesias es un icono kitsch, un personaje de la prensa rosa, un galán machista, un representante
   de la españolidad más rancia o un…
 date: '2023-09-06T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Música
 toc: false
+id: 600
 autores:
 - Hans Laguna
 autores_stats:
@@ -34,7 +35,7 @@ El eje central de este ensayo, profusamente documentado e ilustrado, es el exito
 - **Autor:** [Hans Laguna](/autores/hans-laguna/)
 - **Editorial:** Contra
 - **Formato:** Paperback, 472 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418282630 / 9788418282638
 - **Publicación original:** 2022-04-06
 - **Géneros:** [Música](/tags/musica/)

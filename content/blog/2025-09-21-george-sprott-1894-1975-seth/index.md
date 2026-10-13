@@ -1,5 +1,5 @@
 ---
-title: George Sprott, 1894-1975
+title: '#773 · George Sprott, 1894-1975'
 summary: George Sprott 1894-1975. Una novela gráfica del dibujante Seth. "Este libro es un clásico, un tesoro." The Washington
   Post.
 date: '2025-09-21T23:59:59'
@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción
 - Canada
 - Manga
 - Arte
 toc: false
+id: 773
 autores:
 - Seth
 autores_stats:
@@ -37,7 +37,7 @@ George Sprott 1894-1975. Una novela gráfica del dibujante Seth. "Este libro es 
 - **Autor:** [Seth](/autores/seth/)
 - **Editorial:** Random House Mondadori, S.A.
 - **Formato:** Paperback, 64 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439722001 / 9788439722007
 - **Publicación original:** 2009-10-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Canada](/tags/canada/), [Manga](/tags/manga/), [Arte](/tags/arte/)

@@ -1,5 +1,5 @@
 ---
-title: Desgracia
+title: '#9 · Desgracia'
 summary: A los cincuenta y dos años, David Lurie tiene poco de lo que enorgullecerse. Con dos divorcios a sus espaldas, apaciguar
   el deseo es su única aspiración; sus…
 date: '2014-01-27T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Premio Nobel
 - Club de lectura
 toc: false
+id: 9
 autores:
 - J.M. Coetzee
 - Miguel Martínez-Lage
@@ -44,7 +45,7 @@ Allá¬, en una sociedad donde los códigos de comportamiento, sean de blancos o
 - **Colaboradores:** [Miguel Martínez-Lage](/autores/miguel-martinez-lage/) (Translator)
 - **Editorial:** Debolsillo
 - **Formato:** Paperback, 272 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8497599446 / 9788497599443
 - **Publicación original:** 2012-06-01
 - **Géneros:** [Ficción](/tags/ficcion/), [África](/tags/africa/), [Sudáfrica](/tags/sudafrica/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Premio Nobel](/tags/premio-nobel/), [Club de lectura](/tags/club-de-lectura/)

@@ -1,5 +1,5 @@
 ---
-title: 'I Hate Fairyland, Vol. 4: Sadly Never After'
+title: '#919 · I Hate Fairyland, Vol. 4: Sadly Never After'
 summary: What started as a normal, everyday, child-sucked-into-a-magical-land-to-fulfill-an-inane-quest has changed Fairyland
   forever. In the continuation of SKOTTIE…
 date: '2026-08-10T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Humor
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Mágia
 - Terror
 toc: false
+id: 919
 autores:
 - Skottie Young
 autores_stats:

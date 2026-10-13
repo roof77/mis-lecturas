@@ -1,5 +1,5 @@
 ---
-title: Sexo de mierda
+title: '#684 · Sexo de mierda'
 summary: ¡Atención, por favor! Los sucesos y personajes retratados en este libro son completamente verdaderos, por lo que
   cualquier parecido con la realidad no es…
 date: '2024-09-22T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 684
 autores:
 - Camille Vannier
 autores_stats:
@@ -32,7 +32,7 @@ nota: Bien
 - **Autor:** [Camille Vannier](/autores/camille-vannier/)
 - **Editorial:** Astiberri
 - **Formato:** Paperback, 112 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841821595X / 9788418215957
 - **Publicación original:** 2022-03-10
 - **Géneros:** [Comics](/tags/comics/)

@@ -1,5 +1,5 @@
 ---
-title: El desapego es una manera de querernos
+title: '#229 · El desapego es una manera de querernos'
 summary: Dispersos o inhallables, estos relatos dan nuevo acceso a la literatura de Selva Almada, conocida por crónicas y
   novelas varias veces traducidas, elogiadas por…
 date: '2017-01-17T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Relatos
 toc: false
+id: 229
 autores:
 - Selva Almada
 autores_stats:
@@ -33,7 +34,7 @@ Las siestas y los arroyos, los cardos y las máquinas, los caminos del litoral a
 - **Autor:** [Selva Almada](/autores/selva-almada/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6073146132 / 9786073146135
 - **Publicación original:** 2016-11-29
 - **Géneros:** [Relatos](/tags/relatos/)

@@ -1,5 +1,5 @@
 ---
-title: 'Doctor Portuondo: Mis días de psicoanálisis con un sabio desquiciado'
+title: '#247 · Doctor Portuondo: Mis días de psicoanálisis con un sabio desquiciado'
 summary: El doctor Portuondo era un cubano exiliado en Barcelona que bebía whisky Johnnie Walker, juraba en nombre de Freud
   y me echaba de la consulta cada dos por…
 date: '2017-05-10T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Humor
 toc: false
+id: 247
 autores:
 - Carlo Padial
 autores_stats:
@@ -38,7 +39,7 @@ Carlo Padial (Barcelona, 1977) es autor de obras tan rompedoras como Dinero Grat
 - **Autor:** [Carlo Padial](/autores/carlo-padial/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 272 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416290725 / 9788416290727
 - **Publicación original:** 2017-02-14
 - **Géneros:** [Humor](/tags/humor/)

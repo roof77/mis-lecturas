@@ -1,5 +1,5 @@
 ---
-title: Estación Once
+title: '#657 · Estación Once'
 summary: 'Un inesperado virus mortal acaba con la humanidad tal y como la conocemos: ya no quedan trenes que unan los lugares,
   ni internet que nos permita conocer el…'
 date: '2024-06-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Apocalipsis
 toc: false
+id: 657
 autores:
 - Emily St. John Mandel
 - María del Puerto Barruetabeña Díez
@@ -42,7 +43,7 @@ Un inesperado virus mortal acaba con la humanidad tal y como la conocemos: ya no
 - **Colaboradores:** [María del Puerto Barruetabeña Díez](/autores/maria-del-puerto-barruetabena-diez/) (Translator)
 - **Editorial:** Kailas Editorial
 - **Formato:** Kindle Edition, 379 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416023913 / 9788416023912
 - **Publicación original:** 2015-11-03
 - **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Club de lectura](/tags/club-de-lectura/), [Postapocalíptico](/tags/postapocaliptico/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Ficción Literaria](/tags/ficcion-literaria/), [Apocalipsis](/tags/apocalipsis/)

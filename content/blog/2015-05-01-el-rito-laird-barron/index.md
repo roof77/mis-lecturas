@@ -1,5 +1,5 @@
 ---
-title: El rito
+title: '#109 · El rito'
 summary: En la periferia de nuestra existencia, acechando desde oscuridades más profundas que el Cosmos y que se extienden
   más allá del círculo de luz de nuestra…
 date: '2015-05-01T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Thriller
 toc: false
+id: 109
 autores:
 - Laird Barron
 - Rubén Martín Giráldez
@@ -44,7 +45,7 @@ Donald Miller, geólogo y académico, ha vivido casi toda su afortunada existenc
 - **Colaboradores:** [Rubén Martín Giráldez](/autores/ruben-martin-giraldez/) (Translator)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477027773 / 9788477027775
 - **Publicación original:** 2014-09-17
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Lovecraftiano](/tags/lovecraftiano/), [Ficción extraña](/tags/ficcion-extrana/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/), [Adultos](/tags/adultos/), [Thriller](/tags/thriller/)

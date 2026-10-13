@@ -1,5 +1,5 @@
 ---
-title: Atlas de las Fobias y las Manías
+title: '#584 · Atlas de las Fobias y las Manías'
 summary: "La brontofobia, o el miedo patológico a las tormentas, se considera un terror infantil, pero son muchos más los\
   \ adultos afectados.\r\nLa erotomanía, u obsesión…"
 date: '2023-03-19T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Referencia
 - Medicina
 toc: false
+id: 584
 autores:
 - Kate Summerscale
 - Haizea Beitia
@@ -46,7 +47,7 @@ A todos, sin excepción, nos obsesiona algo. Mientras la sociedad considera defe
 - **Colaboradores:** [Haizea Beitia](/autores/haizea-beitia/) (Traducción)
 - **Editorial:** Blackie Books
 - **Formato:** Cartoné, 312 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2023-02-08
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Psicología](/tags/psicologia/), [Salud mentál](/tags/salud-mental/), [Ciencia](/tags/ciencia/), [Salud](/tags/salud/), [Referencia](/tags/referencia/), [Medicina](/tags/medicina/)
 - **Ficha en Goodreads:** [Atlas de las Fobias y las Manías](https://www.goodreads.com/book/show/95317939-atlas-de-las-fobias-y-las-man-as)

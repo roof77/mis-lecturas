@@ -1,5 +1,5 @@
 ---
-title: 'Astro City #1: Vida en la Gran Ciudad'
+title: '#797 · Astro City #1: Vida en la Gran Ciudad'
 summary: "LA SERIE MÁS PERSONAL DE KURT BUSIEK, BRENT E. ANDERSON Y ALEX ROSS.\r\n\r\nAstro City es una ciudad de superhéroes\
   \ y villanos, de magos y monstruos, donde la…"
 date: '2026-02-08T23:59:58'
@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Superheroes
 - Ficción
 - Fantasía
 - Ciencia ficción
 toc: false
+id: 797
 autores:
 - Kurt Busiek
 - Brent Anderson
@@ -44,7 +44,7 @@ Astro City es una ciudad de superhéroes y villanos, de magos y monstruos, donde
 - **Colaboradores:** [Brent Anderson](/autores/brent-anderson/) (Author), [Alex Ross](/autores/alex-ross/) (Illustrator)
 - **Editorial:** Norma Editorial (Wildstorm Comics)
 - **Formato:** Hardcover, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498473179 / 9788498473179
 - **Publicación original:** 2009-11-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/)

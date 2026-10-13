@@ -1,5 +1,5 @@
 ---
-title: Los asquerosos
+title: '#371 · Los asquerosos'
 summary: Manuel acuchilla a un policía antidisturbios que quería pegarle. Huye. Se esconde en una aldea abandonada. Sobrevive
   de libros Austral, vegetales de los…
 date: '2019-01-08T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Crimen
 - Comedia
 toc: false
+id: 371
 autores:
 - Santiago Lorenzo
 - Guim Tió
@@ -42,7 +43,7 @@ Manuel acuchilla a un policía antidisturbios que quería pegarle. Huye. Se esco
 - **Colaboradores:** [Guim Tió](/autores/guim-tio/) (Illustrator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 221 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417059997 / 9788417059996
 - **Publicación original:** 2018-10-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Literatura hispana](/tags/literatura-hispana/), [Novela](/tags/novela/), [España](/tags/espana/), [Contemporaneo](/tags/contemporaneo/), [Drama](/tags/drama/), [Crimen](/tags/crimen/), [Comedia](/tags/comedia/)

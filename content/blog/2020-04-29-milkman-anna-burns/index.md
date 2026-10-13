@@ -1,5 +1,5 @@
 ---
-title: Milkman
+title: '#428 · Milkman'
 summary: En esta ciudad anónima, ser interesante es peligroso. La hermana mediana, nuestra protagonista, se empeña en evitar
   que su madre descubra a su posible novio y…
 date: '2020-04-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Histórico
 toc: false
+id: 428
 autores:
 - Anna Burns
 - Maia Figueroa Evans
@@ -44,7 +45,7 @@ En esta ciudad anónima, ser interesante es peligroso. La hermana mediana, nuest
 - **Colaboradores:** [Maia Figueroa Evans](/autores/maia-figueroa-evans/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491814345 / 9788491814344
 - **Publicación original:** 2019-04-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Irlanda](/tags/irlanda/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Histórico](/tags/historico/)

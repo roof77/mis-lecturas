@@ -1,5 +1,5 @@
 ---
-title: Noche de los enamorados
+title: '#110 · Noche de los enamorados'
 summary: «Esto no es un juicio, porque no se puede juzgar a los muertos, y Santiago Dulong murió hace diez años. Ni es la
   defensa imposible de una víctima, porque no se…
 date: '2015-05-02T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 110
 autores:
 - Félix Romeo
 autores_stats:
@@ -33,7 +34,7 @@ En las anteriores palabras, Romeo hace referencia implícita a un asesinato que 
 - **Autor:** [Félix Romeo](/autores/felix-romeo/)
 - **Editorial:** Mondadori
 - **Formato:** Hardcover, 144 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439725752 / 9788439725756
 - **Publicación original:** 2012-01-01
 - **Ficha en Goodreads:** [Noche de los enamorados](https://www.goodreads.com/book/show/13493645-noche-de-los-enamorados)

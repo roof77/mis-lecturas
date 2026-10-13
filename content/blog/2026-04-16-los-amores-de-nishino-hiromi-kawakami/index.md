@@ -1,5 +1,5 @@
 ---
-title: Los amores de Nishino
+title: '#824 · Los amores de Nishino'
 summary: "«¿Qué será el amor? Las personas tienen derecho a enamorarse de otros, no a que los demás las amen.»\r\n\r\nTodas\
   \ han amado a Nishino. Todas han sucumbido, aunque…"
 date: '2026-04-16T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura
 - Adultos
 toc: false
+id: 824
 autores:
 - Hiromi Kawakami
 autores_stats:
@@ -79,7 +80,7 @@ Revista Paula (Chile)
 - **Autor:** [Hiromi Kawakami](/autores/hiromi-kawakami/)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 202 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 842042630X / 9788420426303
 - **Publicación original:** 2017-05-04
 - **Géneros:** [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/), [Relatos](/tags/relatos/), [Ásia](/tags/asia/), [Literatura asiática](/tags/literatura-asiatica/), [Literatura](/tags/literatura/), [Adultos](/tags/adultos/)

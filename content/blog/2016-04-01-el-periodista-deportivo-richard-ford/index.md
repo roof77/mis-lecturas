@@ -1,5 +1,5 @@
 ---
-title: El periodista deportivo
+title: '#185 · El periodista deportivo'
 summary: Frank Bascombe tiene treinta y ocho años y un magnífico porvenir como escritor a sus espaldas. Disfrutó de un breve
   instante de gloria, tras la publicación de…
 date: '2016-04-01T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Deportes
 - Contemporaneo
 toc: false
+id: 185
 autores:
 - Richard Ford
 - Isabel Núñez
@@ -43,7 +44,7 @@ Frank Bascombe tiene treinta y ocho años y un magnífico porvenir como escritor
 - **Colaboradores:** [Isabel Núñez](/autores/isabel-nunez/) (Translator), [José Aguirre](/autores/jose-aguirre/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Mass Market Paperback, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433967517 / 9788433967510
 - **Publicación original:** 2003-05-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Clásico](/tags/clasico/), [Deportes](/tags/deportes/), [Contemporaneo](/tags/contemporaneo/)

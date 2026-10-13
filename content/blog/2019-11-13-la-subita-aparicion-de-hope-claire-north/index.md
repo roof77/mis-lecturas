@@ -1,5 +1,5 @@
 ---
-title: La súbita aparición de Hope
+title: '#412 · La súbita aparición de Hope'
 summary: «Todo el mundo se olvida de mí. Primero de mi cara, después de mi voz, y por último de las consecuencias de mis acciones.
   Así que escucha. Recuérdame.» Mi…
 date: '2019-11-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Realismo mágico
 - Ficción especulativa
 toc: false
+id: 412
 autores:
 - Claire North
 - Jaime Valero
@@ -42,7 +43,7 @@ nota: 3,5
 - **Colaboradores:** [Jaime Valero](/autores/jaime-valero/) (Translator)
 - **Editorial:** Colmena Ediciones
 - **Formato:** Paperback, 614 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2018-02-19
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Contemporaneo](/tags/contemporaneo/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Misterio](/tags/misterio/), [Realismo mágico](/tags/realismo-magico/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Personajes:** Hope Arden

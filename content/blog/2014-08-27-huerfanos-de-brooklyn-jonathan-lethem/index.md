@@ -1,5 +1,5 @@
 ---
-title: Huérfanos de Brooklyn
+title: '#62 · Huérfanos de Brooklyn'
 summary: «Tengo el síndrome de Tourette.» Las palabras salen atropellándose, incontrolables, y las manos no pueden evitar
   tocar impulsiva y compulsivamente todo lo que…
 date: '2014-08-27T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Contemporaneo
 toc: false
+id: 62
 autores:
 - Jonathan Lethem
 autores_stats:
@@ -40,7 +41,7 @@ nota: '4'
 - **Autor:** [Jonathan Lethem](/autores/jonathan-lethem/)
 - **Editorial:** Debolsillo
 - **Formato:** Hardcover, 368 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849793296X / 9788497932967
 - **Publicación original:** 2004-05-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Club de lectura](/tags/club-de-lectura/), [Nueva York](/tags/nueva-york/), [Novela](/tags/novela/), [Thriller](/tags/thriller/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/)

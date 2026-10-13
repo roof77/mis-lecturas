@@ -1,5 +1,5 @@
 ---
-title: Hamnet
+title: '#464 · Hamnet'
 summary: Agnes, una muchacha peculiar que parece no rendir cuentas a nadie y que es capaz de crear misteriosos remedios con
   sencillas combinaciones de plantas, es la…
 date: '2021-05-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura británica
 - Novela
 toc: false
+id: 464
 autores:
 - Maggie O'Farrell
 - Concha Cardeñoso
@@ -43,7 +44,7 @@ Partiendo de la historia familiar de Shakespeare, Maggie O’Farrell transita en
 - **Colaboradores:** [Concha Cardeñoso](/autores/concha-cardenoso/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417977589 / 9788417977580
 - **Publicación original:** 2021-02-22
 - **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/), [Adultos](/tags/adultos/), [Shakespeare](/tags/shakespeare/), [Literatura británica](/tags/literatura-britanica/), [Novela](/tags/novela/)

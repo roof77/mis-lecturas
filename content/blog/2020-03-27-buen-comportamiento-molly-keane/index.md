@@ -1,5 +1,5 @@
 ---
-title: Buen comportamiento
+title: '#424 · Buen comportamiento'
 summary: Bajo su disfraz de opulencia, la hacienda de Temple Alice, residencia que sirve de refugio a la aristocrática familia
   de los St. Charles para mantenerse al…
 date: '2020-03-27T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción Literaria
 - Histórico
 toc: false
+id: 424
 autores:
 - Molly Keane
 autores_stats:
@@ -46,7 +47,7 @@ P. D. James
 - **Autor:** [Molly Keane](/autores/molly-keane/)
 - **Editorial:** Contraseña
 - **Formato:** Paperback, 354 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494090313 / 9788494090318
 - **Publicación original:** 2013-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Irlanda](/tags/irlanda/), [Ficción histórica](/tags/ficcion-historica/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/)

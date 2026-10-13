@@ -1,5 +1,5 @@
 ---
-title: Viaje al sueño americano
+title: '#683 · Viaje al sueño americano'
 summary: Bill Bryson tiene la rara habilidad de sentirse descolocado donde quiera que vaya, incluso (quizá especialmente)
   en su tierra natal. Este rasgo de su carácter…
 date: '2024-09-17T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - EEUU
 - Comedia
 toc: false
+id: 683
 autores:
 - Bill Bryson
 - Manuel Manzano Gómez
@@ -43,7 +44,7 @@ Por supuesto, había cosas que Bryson extrañaba de Gran Bretaña, pero cualquie
 - **Colaboradores:** [Manuel Manzano Gómez](/autores/manuel-manzano-gomez/) (Translator)
 - **Editorial:** RBA Libros
 - **Formato:** Kindle Edition, 363 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8411323757 / 9788411323758
 - **Publicación original:** 2023-04-20
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Viajes](/tags/viajes/), [Humor](/tags/humor/), [Memorias](/tags/memorias/), [Ensayo](/tags/ensayo/), [Biografía](/tags/biografia/), [EEUU](/tags/eeuu/), [Comedia](/tags/comedia/)

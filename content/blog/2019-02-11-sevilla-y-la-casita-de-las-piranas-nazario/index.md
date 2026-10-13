@@ -1,5 +1,5 @@
 ---
-title: Sevilla y la Casita de las Pirañas
+title: '#376 · Sevilla y la Casita de las Pirañas'
 summary: En La vida cotidiana del dibujante under­ground, centrado en sus andanzas en la efervescente Barcelona de la Transición,
   Nazario se reveló como un memorialista…
 date: '2019-02-11T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 376
 autores:
 - Nazario
 autores_stats:

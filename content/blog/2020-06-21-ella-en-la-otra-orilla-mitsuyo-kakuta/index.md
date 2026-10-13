@@ -1,5 +1,5 @@
 ---
-title: Ella en la otra orilla
+title: '#435 · Ella en la otra orilla'
 summary: Sayoko, un ama de casa de treinta y cinco años con una niña de tres, empieza a trabajar para Aoi, una mujer universitaria
   de su misma edad y espíritu libre que…
 date: '2020-06-21T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura
 - Siglo XXI
 toc: false
+id: 435
 autores:
 - Mitsuyo Kakuta
 - Yoko Ogihara
@@ -46,7 +47,7 @@ Una novela rica en sensibilidad y en análisis psicológicos sobre la dificultad
 - **Colaboradores:** [Yoko Ogihara](/autores/yoko-ogihara/) (Translator), [Fernando Cordobés](/autores/fernando-cordobes/) (Translator)
 - **Editorial:** Galaxia Gutenberg
 - **Formato:** Paperback, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8481097365 / 9788481097368
 - **Publicación original:** 2016-10-19
 - **Géneros:** [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Ficción](/tags/ficcion/), [Ásia](/tags/asia/), [Novela](/tags/novela/), [Literatura asiática](/tags/literatura-asiatica/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Siglo XXI](/tags/siglo-xxi/)

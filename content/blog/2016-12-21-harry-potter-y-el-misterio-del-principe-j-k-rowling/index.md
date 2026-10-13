@@ -1,5 +1,5 @@
 ---
-title: Harry Potter y el misterio del príncipe
+title: '#221 · Harry Potter y el misterio del príncipe'
 summary: Con dieciséis años cumplidos, Harry Potter inicia el sexto curso en Hogwarts en medio de terribles acontecimientos
   que asolan Inglaterra. Elegido capitán del…
 date: '2016-12-21T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Aventuras
 - Clásico
 toc: false
+id: 221
 autores:
 - J.K. Rowling
 autores_stats:
@@ -40,7 +41,7 @@ Con dieciséis años cumplidos, Harry Potter inicia el sexto curso en Hogwarts e
 - **Serie:** Harry Potter (#6)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 602 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478889930 / 9788478889938
 - **Publicación original:** 2006-02-28
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)

@@ -1,5 +1,5 @@
 ---
-title: Cómo se hizo La guerra de los zombies
+title: '#197 · Cómo se hizo La guerra de los zombies'
 summary: Josh Levin es un aprendiz de guionista treintañero que se gana la vida dando clases de inglés para extranjeros mientras
   sueña con vender una de sus historias a…
 date: '2016-06-14T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Terror
 toc: false
+id: 197
 autores:
 - Aleksandar Hemon
 - Eduardo Jordá
@@ -43,7 +44,7 @@ Ambientada en unos Estados Unidos todavía traumatizados por los atentados del 1
 - **Colaboradores:** [Eduardo Jordá](/autores/eduardo-jorda/) (Transalator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 336 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416213690 / 9788416213696
 - **Publicación original:** 2016-05-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Contemporaneo](/tags/contemporaneo/), [Zombies](/tags/zombies/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/), [Literatura](/tags/literatura/), [Terror](/tags/terror/)

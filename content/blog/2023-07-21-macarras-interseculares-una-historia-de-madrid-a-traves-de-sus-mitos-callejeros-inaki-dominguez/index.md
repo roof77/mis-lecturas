@@ -1,5 +1,5 @@
 ---
-title: 'Macarras interseculares: Una historia de Madrid a través de sus mitos callejeros'
+title: '#595 · Macarras interseculares: Una historia de Madrid a través de sus mitos callejeros'
 summary: A través de sus páginas, el lector conocer las barras americanas de la «costa fleming», el consumo de kif en las
   corralas de lavapiés y los botellones en…
 date: '2023-07-21T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - No Ficción
 - Historia
 toc: false
+id: 595
 autores:
 - Iñaki Domínguez
 autores_stats:
@@ -33,7 +34,7 @@ A través de sus páginas, el lector conocer las barras americanas de la «costa
 - **Autor:** [Iñaki Domínguez](/autores/inaki-dominguez/)
 - **Editorial:** Melusina
 - **Formato:** Paperback, 457 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841537383X / 9788415373834
 - **Publicación original:** 2020-03-23
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/)

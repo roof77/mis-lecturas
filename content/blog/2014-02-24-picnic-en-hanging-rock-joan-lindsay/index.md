@@ -1,5 +1,5 @@
 ---
-title: Picnic en Hanging Rock
+title: '#15 · Picnic en Hanging Rock'
 summary: Febrero de 1900. Un grupo de alumnas del selecto colegio Appleyard para señoritas se dispone a celebrar un picnic
   el día de San Valentín. Lo que empieza siendo…
 date: '2014-02-24T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Dark Academia
 - Club de lectura
 toc: false
+id: 15
 autores:
 - Joan Lindsay
 - Pilar Adón
@@ -45,7 +46,7 @@ Febrero de 1900. Un grupo de alumnas del selecto colegio Appleyard para señorit
 - **Colaboradores:** [Pilar Adón](/autores/pilar-adon/) (Traducción), [Miguel Cane](/autores/miguel-cane/) (Prólogo)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 307 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415130031 / 9788415130031
 - **Publicación original:** 2010-11-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Ficción histórica](/tags/ficcion-historica/), [Australia](/tags/australia/), [Terror](/tags/terror/), [Gótico](/tags/gotico/), [Histórico](/tags/historico/), [Dark Academia](/tags/dark-academia/), [Club de lectura](/tags/club-de-lectura/)

@@ -1,5 +1,5 @@
 ---
-title: Akira, No. 4
+title: '#668 · Akira, No. 4'
 summary: Tokio se encuentra en un estado post apocalíptico. La respuesta para detener a Akira puede estar en manos de la misteriosa
   Lady Miyako, miembro poderoso de la…
 date: '2024-07-11T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Ciencia ficción
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Literatura japanesa
 - Distopía
 toc: false
+id: 668
 autores:
 - Katsuhiro Otomo
 autores_stats:
@@ -41,7 +41,7 @@ Tokio se encuentra en un estado post apocalíptico. La respuesta para detener a 
 - **Serie:** Akira [アキラ] (#4)
 - **Editorial:** NORMA EDITORIAL, S.A.
 - **Formato:** Paperback, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498144183 / 9788498144185
 - **Publicación original:** 2005-08-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Distopía](/tags/distopia/)

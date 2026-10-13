@@ -1,5 +1,5 @@
 ---
-title: Cosecha roja
+title: '#101 · Cosecha roja'
 summary: Cosecha Roja desarrolla la violenta historia de un detective privado que se propone limpiar de gangsters una pequeña
   ciudad minera. En ella se compendian ya…
 date: '2015-03-30T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Hard boiled
 - Novela
 toc: false
+id: 101
 autores:
 - Dashiell Hammett
 autores_stats:
@@ -41,7 +42,7 @@ Cosecha Roja desarrolla la violenta historia de un detective privado que se prop
 - **Serie:** The Continental Op (#1)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420637602 / 9788420637600
 - **Publicación original:** 2000-10-01
 - **Géneros:** [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Noir](/tags/noir/), [Clásico](/tags/clasico/), [Detectives](/tags/detectives/), [Thriller](/tags/thriller/), [Hard boiled](/tags/hard-boiled/), [Novela](/tags/novela/)

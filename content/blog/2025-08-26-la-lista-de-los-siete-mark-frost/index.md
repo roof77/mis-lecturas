@@ -1,5 +1,5 @@
 ---
-title: La lista de los siete
+title: '#768 · La lista de los siete'
 summary: Navidad de 1884. El joven médico y aspirante a escritor Arthur Conan Doyle es invitado a una sesión de espiritismo
   en una casa del East End londinense. La…
 date: '2025-08-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Histórico
 - Crimen
 toc: false
+id: 768
 autores:
 - Mark Frost
 - Alberto Coscarelli Guaschino
@@ -43,7 +44,7 @@ Navidad de 1884. El joven médico y aspirante a escritor Arthur Conan Doyle es i
 - **Colaboradores:** [Alberto Coscarelli Guaschino](/autores/alberto-coscarelli-guaschino/) (Translator)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 432 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9791387641078
 - **Publicación original:** 2025-06-02
 - **Géneros:** [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Ficción histórica](/tags/ficcion-historica/), [Fantasía](/tags/fantasia/), [Thriller](/tags/thriller/), [Steampunk](/tags/steampunk/), [Histórico](/tags/historico/), [Crimen](/tags/crimen/)

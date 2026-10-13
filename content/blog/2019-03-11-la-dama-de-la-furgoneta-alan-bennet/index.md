@@ -1,5 +1,5 @@
 ---
-title: La dama de la furgoneta
+title: '#380 · La dama de la furgoneta'
 summary: Desde finales de los años 60, los vecinos del barrio de Camden tenían entre sus transeúntes habituales a la peculiar
   Miss Shepherd, una señora de cierta edad…
 date: '2019-03-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura británica
 - Contemporaneo
 toc: false
+id: 380
 autores:
 - Alan Bennet
 - Jaime Zulaika
@@ -47,7 +48,7 @@ Aunque, afirma el escritor, él jamás se engañó pensando que su impulso obede
 - **Colaboradores:** [Jaime Zulaika](/autores/jaime-zulaika/) (translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 93 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433974939 / 9788433974938
 - **Publicación original:** 2009-02-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Relatos](/tags/relatos/), [Humor](/tags/humor/), [Teatro](/tags/teatro/), [Club de lectura](/tags/club-de-lectura/), [Literatura británica](/tags/literatura-britanica/), [Contemporaneo](/tags/contemporaneo/)

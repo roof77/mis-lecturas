@@ -1,5 +1,5 @@
 ---
-title: No cambies nunca
+title: '#585 · No cambies nunca'
 summary: "La faceta más oscura de la ciencia\r\n\r\nSeúl, en un futuro lejano. Tres tramas paralelas, que acabarán entrelazándose:\
   \ una científica lleva a cabo un experimento…"
 date: '2023-03-20T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 585
 autores:
 - David Sánchez
 autores_stats:
@@ -37,7 +37,7 @@ Si David Sánchez exploraba en Tú me has matado el tema de la religión, y su f
 - **Autor:** [David Sánchez](/autores/david-sanchez/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 96 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415163649 / 9788415163640
 - **Publicación original:** 2012-04-01
 - **Géneros:** [Comics](/tags/comics/)

@@ -1,5 +1,5 @@
 ---
-title: El aliado
+title: '#388 · El aliado'
 summary: Al conocer a una importante activista del movimiento feminista, el protagonista de esta novela, un hombre contemporáneo
   que se considera igualitario, se da…
 date: '2019-04-29T23:59:59'
@@ -12,6 +12,7 @@ tags:
 - Feminismo
 - Humor
 toc: false
+id: 388
 autores:
 - Iván Repila
 autores_stats:
@@ -37,7 +38,7 @@ Concebida como una novela con un pie en el realismo y otro en un posible futuro,
 - **Autor:** [Iván Repila](/autores/ivan-repila/)
 - **Editorial:** SEIX BARRAL
 - **Formato:** Hardcover, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788432234637
 - **Publicación original:** 2019-01-17
 - **Géneros:** [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Humor](/tags/humor/)

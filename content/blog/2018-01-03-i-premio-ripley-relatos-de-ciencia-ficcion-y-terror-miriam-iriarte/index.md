@@ -1,5 +1,5 @@
 ---
-title: 'I Premio Ripley: Relatos de ciencia ficción y terror'
+title: '#284 · I Premio Ripley: Relatos de ciencia ficción y terror'
 summary: 'Los viajes hacia futuros inciertos y temores recónditos que proponen los relatos de estas doce autoras inquietan:
   inquietan sus sociedades férreas pero…'
 date: '2018-01-03T23:59:59'
@@ -12,6 +12,7 @@ tags:
 - Terror
 - Relatos
 toc: false
+id: 284
 autores:
 - Miriam Iriarte
 - Alicia Sánchez
@@ -65,7 +66,7 @@ El Premio Ripley de ciencia ficción y terror para escritoras es una iniciativa 
 - **Colaboradores:** [Alicia Sánchez](/autores/alicia-sanchez/) (Author), [Laura Replinger](/autores/laura-replinger/) (Author), [Raquel G. Álvarez-Calderón](/autores/raquel-g-alvarez-calderon/) (Author), [Chús Álvarez](/autores/chus-alvarez/) (Author), [Gisela Baños](/autores/gisela-banos/) (Author), [Mar Vieites](/autores/mar-vieites/) (Author), [Arantxa Comes](/autores/arantxa-comes/) (Author), [Viviana Rodil](/autores/viviana-rodil/) (Author), [Coral Carracedo](/autores/coral-carracedo/) (Author), [Patricia Janikowski](/autores/patricia-janikowski/) (Author), [Caryanna Reuven](/autores/caryanna-reuven/) (Irantzu Tato), [Elia Barceló](/autores/elia-barcelo/) (Foreword), [Eva Vázquez](/autores/eva-vazquez/) (Illustrator)
 - **Editorial:** Triskel Ediciones
 - **Formato:** Paperback, 228 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494714147 / 9788494714146
 - **Publicación original:** 2017-10-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Terror](/tags/terror/), [Relatos](/tags/relatos/)

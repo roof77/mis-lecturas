@@ -1,5 +1,5 @@
 ---
-title: Cuando el viento sopla
+title: '#772 · Cuando el viento sopla'
 summary: Considerada de forma unánime la obra cumbre de Raymond Briggs, Cuando el viento sopla fue publicada en 1982, en plena
   efervescencia del terror ciudadano ante…
 date: '2025-09-15T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Guerra
 - Postapocalíptico
@@ -18,6 +17,7 @@ tags:
 - Niños
 - Ciencia ficción
 toc: false
+id: 772
 autores:
 - Raymond Briggs
 - Rosa Montero
@@ -43,7 +43,7 @@ En ella los Blogg, un matrimonio inglés atemorizado por un posible ataque sovi�
 - **Colaboradores:** [Rosa Montero](/autores/rosa-montero/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 80 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410025108 / 9788410025103
 - **Publicación original:** 2024-02-14
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Guerra](/tags/guerra/), [Postapocalíptico](/tags/postapocaliptico/), [Política](/tags/politica/), [Literatura británica](/tags/literatura-britanica/), [Niños](/tags/ninos/), [Ciencia ficción](/tags/ciencia-ficcion/)

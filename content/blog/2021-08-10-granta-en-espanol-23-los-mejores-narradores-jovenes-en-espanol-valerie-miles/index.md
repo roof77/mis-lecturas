@@ -1,5 +1,5 @@
 ---
-title: 'Granta en español 23: Los mejores narradores jóvenes en español'
+title: '#478 · Granta en español 23: Los mejores narradores jóvenes en español'
 summary: Uno de los grandes acontecimientos del mundo literario, tanto en lengua inglesa como en la española, es la publicación,
   cada diez años, de la lista de GRANTA…
 date: '2021-08-10T23:59:58'
@@ -14,6 +14,7 @@ tags:
 - España
 - Siglo XXI
 toc: false
+id: 478
 autores:
 - Valerie Miles
 - Mónica Ojeda
@@ -92,7 +93,7 @@ Los mejores narradores jóvenes en español 2 recoge textos inéditos de 25 de e
 - **Colaboradores:** [Mónica Ojeda](/autores/monica-ojeda/) (Author), [Andrea Abreu López](/autores/andrea-abreu-lopez/) (Author), [José Adiak Montoya](/autores/jose-adiak-montoya/) (Author), [David Aliaga](/autores/david-aliaga/) (Author), [Carlos Manuel Álvarez](/autores/carlos-manuel-alvarez/) (Author), [José Ardila](/autores/jose-ardila/) (Author), [Gonzalo Baz](/autores/gonzalo-baz/) (Author), [Miluska Benavides](/autores/miluska-benavides/) (Author), [Martín Felipe Castagnet](/autores/martin-felipe-castagnet/) (Author), [Andrea Chapela](/autores/andrea-chapela/) (Author), [Camila Fabbri](/autores/camila-fabbri/) (Author), [Paulina Flores](/autores/paulina-flores/) (Author), [Carlos Fonseca](/autores/carlos-fonseca/) (Author), [Mateo García Elizondo](/autores/mateo-garcia-elizondo/) (Author), [Aura García-Junco](/autores/aura-garcia-junco/) (Author), [Munier Hachemi](/autores/munier-hachemi/) (Author), [Dayneris Machado Vento](/autores/dayneris-machado-vento/) (Author), [Estanislao Medina Huesca](/autores/estanislao-medina-huesca/) (Author), [Cristina Morales](/autores/cristina-morales/) (Author), [Alejandro Morellón](/autores/alejandro-morellon/) (Author), [Michel Nieva](/autores/michel-nieva/) (Author), [Eduris Planché Savon](/autores/eduris-planche-savon/) (Author), [Irene Reyes Noguerol](/autores/irene-reyes-noguerol/) (Author), [Aniela Rodríguez](/autores/aniela-rodriguez/) (Author), [Diego Zúñiga](/autores/diego-zuniga/) (Author)
 - **Editorial:** Candaya
 - **Formato:** Paperback, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418504293 / 9788418504297
 - **Publicación original:** 2021-04-12
 - **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Siglo XXI](/tags/siglo-xxi/)

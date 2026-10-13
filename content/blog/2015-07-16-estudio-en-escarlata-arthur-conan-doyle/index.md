@@ -1,5 +1,5 @@
 ---
-title: Estudio en escarlata
+title: '#128 · Estudio en escarlata'
 summary: La publicación en 1887 de ESTUDIO EN ESCARLATA significó para la historia del relato policiaco no sólo la aparición
   de un escritor que revolucionaría el…
 date: '2015-07-16T23:59:58'
@@ -17,6 +17,7 @@ tags:
 - Ficción histórica
 - Siglo XIX
 toc: false
+id: 128
 autores:
 - Arthur Conan Doyle
 autores_stats:
@@ -37,7 +38,7 @@ La publicación en 1887 de ESTUDIO EN ESCARLATA significó para la historia del 
 - **Autor:** [Arthur Conan Doyle](/autores/arthur-conan-doyle/)
 - **Serie:** Sherlock Holmes (#1)
 - **Formato:** Kindle Edition, 152 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2011-03-04
 - **Géneros:** [Clásico](/tags/clasico/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Detectives](/tags/detectives/), [Thriller](/tags/thriller/), [Ficción histórica](/tags/ficcion-historica/), [Siglo XIX](/tags/siglo-xix/)
 - **Personajes:** Jefferson Hope, Inspector Lestrade, Enoch Drebber, Lucy Ferrier, John Ferrier, Joseph Stangerson, Inspector Tobias Gregson, John Watson, Sherlock Holmes

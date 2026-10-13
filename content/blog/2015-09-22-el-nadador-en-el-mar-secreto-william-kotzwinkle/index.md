@@ -1,5 +1,5 @@
 ---
-title: El nadador en el mar secreto
+title: '#142 · El nadador en el mar secreto'
 summary: William Kotzwinkle es un escritor estadounidense, autor de libros infantiles, novelas de género fantástico y de intriga,
   y también guionista cinematográfico…
 date: '2015-09-22T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura hispana
 - Novela
 toc: false
+id: 142
 autores:
 - William Kotzwinkle
 autores_stats:
@@ -42,7 +43,7 @@ El nadador en el mar secreto es la historia del arduo nacimiento de un niño con
 - **Autor:** [William Kotzwinkle](/autores/william-kotzwinkle/)
 - **Editorial:** Navona
 - **Formato:** Hardcover, 90 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416259003 / 9788416259007
 - **Publicación original:** 2014-11-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Relatos](/tags/relatos/), [Drama](/tags/drama/), [EEUU](/tags/eeuu/), [Literatura](/tags/literatura/), [Colecciones](/tags/colecciones/), [Literatura hispana](/tags/literatura-hispana/), [Novela](/tags/novela/)

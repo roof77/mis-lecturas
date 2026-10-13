@@ -1,5 +1,5 @@
 ---
-title: El misterio de Gramercy Park
+title: '#210 · El misterio de Gramercy Park'
 summary: La acaudalada familia Van Burnam regresa de un viaje al extranjero al mismo tiempo que aparece una mujer muerta en
   el salón de su casa. Un gran aparador ha…
 date: '2016-10-16T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Siglo XIX
 - Detectives
 toc: false
+id: 210
 autores:
 - Anna Katharine Green
 - Rosa Sahuquillo Moreno
@@ -48,7 +49,7 @@ Obra maestra de la «madre de la novela de detectives», Anna Katharine Green, c
 - **Colaboradores:** [Rosa Sahuquillo Moreno](/autores/rosa-sahuquillo-moreno/) (Translator), [Susanna González](/autores/susanna-gonzalez/) (Translator)
 - **Editorial:** dÉpoca editorial
 - **Formato:** Hardcover, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493897299 / 9788493897291
 - **Publicación original:** 2014-10-01
 - **Géneros:** [Misterio](/tags/misterio/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Siglo XIX](/tags/siglo-xix/), [Detectives](/tags/detectives/)

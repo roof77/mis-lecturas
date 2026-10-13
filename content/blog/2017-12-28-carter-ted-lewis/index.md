@@ -1,5 +1,5 @@
 ---
-title: Carter
+title: '#283 · Carter'
 summary: Jack Carter, principal sicario de los mafiosos londinenses Les y Gerald Fletcher, regresa a su ciudad natal en el
   norte de Inglaterra tras ocho años de…
 date: '2017-12-28T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Acción
 - Películas
 toc: false
+id: 283
 autores:
 - Ted Lewis
 - Damià Alou
@@ -45,7 +46,7 @@ Ambientada en una gris y opresiva ciudad siderúrgica del norte de Inglaterra a 
 - **Colaboradores:** [Damià Alou](/autores/damia-alou/) (Traducción)
 - **Editorial:** Sajalin
 - **Formato:** Paperback, 269 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494680900 / 9788494680908
 - **Publicación original:** 2017-05-01
 - **Géneros:** [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Noir](/tags/noir/), [Misterio](/tags/misterio/), [Novela](/tags/novela/), [Clásico](/tags/clasico/), [Acción](/tags/accion/), [Películas](/tags/peliculas/)

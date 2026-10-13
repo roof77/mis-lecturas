@@ -1,5 +1,5 @@
 ---
-title: La metamorfosis
+title: '#87 · La metamorfosis'
 summary: La metamorfosis (Die Verwandlung, en su título original en alemán) es un relato de Franz Kafka, publicado en 1915
   y que narra la historia de Gregorio Samsa, un…
 date: '2015-01-14T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Colegio
 - Literatura alemana
 toc: false
+id: 87
 autores:
 - Franz Kafka
 autores_stats:
@@ -40,7 +41,7 @@ La metamorfosis (Die Verwandlung, en su título original en alemán) es un relat
 - **Autor:** [Franz Kafka](/autores/franz-kafka/)
 - **Editorial:** Agebe
 - **Formato:** Paperback, 125 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9871165072 / 9789871165070
 - **Publicación original:** 2004-09-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Filosofía](/tags/filosofia/), [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [Terror](/tags/terror/), [Colegio](/tags/colegio/), [Literatura alemana](/tags/literatura-alemana/)

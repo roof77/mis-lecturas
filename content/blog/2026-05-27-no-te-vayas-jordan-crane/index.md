@@ -1,5 +1,5 @@
 ---
-title: No te vayas
+title: '#850 · No te vayas'
 summary: Will y Connie han discutido en el viaje. Minucias, cosas de pareja. Al llegar a casa ya se habrán reconciliado. Ahora
   los ánimos están calmados, pero no hay…
 date: '2026-05-27T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Romance
 - Adultos
@@ -17,6 +16,7 @@ tags:
 - Contemporaneo
 - Muerte
 toc: false
+id: 850
 autores:
 - Jordan Crane
 autores_stats:
@@ -40,7 +40,7 @@ Will y Connie han discutido en el viaje. Minucias, cosas de pareja. Al llegar a 
 - **Serie:** Keeping Two (#1-8)
 - **Editorial:** La cúpula
 - **Formato:** Paperback, 324 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418809809 / 9788418809804
 - **Publicación original:** 2023-10-19
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Adultos](/tags/adultos/), [Salud mentál](/tags/salud-mental/), [Contemporaneo](/tags/contemporaneo/), [Muerte](/tags/muerte/)

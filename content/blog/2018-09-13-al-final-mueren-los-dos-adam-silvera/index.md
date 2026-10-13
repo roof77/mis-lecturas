@@ -1,5 +1,5 @@
 ---
-title: Al final mueren los dos
+title: '#359 · Al final mueren los dos'
 summary: "¿Puede un solo día albergar toda una vida? \r\n\r\nEn un presente alternativo, en el que es posible predecir la\
   \ muerte con un plazo de veinticuatro horas, Mateo…"
 date: '2018-09-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ciencia ficción
 - Gay
 toc: false
+id: 359
 autores:
 - Adam Silvera
 - Antonio Padilla Esteban
@@ -49,7 +50,7 @@ La nueva novela de Adam Silvera, un superventas del New York Times que ha cosech
 - **Colaboradores:** [Antonio Padilla Esteban](/autores/antonio-padilla-esteban/) (Translator)
 - **Editorial:** Puck
 - **Formato:** Kindle Edition, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417180559 / 9788417180553
 - **Publicación original:** 2018-05-07
 - **Géneros:** [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Queer](/tags/queer/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Gay](/tags/gay/)

@@ -1,5 +1,5 @@
 ---
-title: El chico de la trompeta
+title: '#671 · El chico de la trompeta'
 summary: «El chico de la trompeta es un libro casi perfecto. El lector percibe, y percibe intensamente, el ambiente que describe
   Baker, la música que crean Rick y sus…
 date: '2024-07-18T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Novela
 toc: false
+id: 671
 autores:
 - Dorothy Baker
 - Ismael Attrache
@@ -47,7 +48,7 @@ El chico de la trompeta, considerada por muchos críticos la primera novela sobr
 - **Colaboradores:** [Ismael Attrache](/autores/ismael-attrache/) (Translator), [Alberto Gamón](/autores/alberto-gamon/) (Illustrator)
 - **Editorial:** Contraseña
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494090321 / 9788494090325
 - **Publicación original:** 2013-09-30
 - **Géneros:** [Ficción](/tags/ficcion/), [Música](/tags/musica/), [Clásico](/tags/clasico/), [Jazz](/tags/jazz/), [Ficción histórica](/tags/ficcion-historica/), [EEUU](/tags/eeuu/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/)

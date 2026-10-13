@@ -1,5 +1,5 @@
 ---
-title: 'Hogwarts: una guía incompleta y poco fiable'
+title: '#225 · Hogwarts: una guía incompleta y poco fiable'
 summary: Sin embargo, el Ministerio de Magia sabía que construir una estación mágica en medio de Londres sería demasiado incluso
   para la famosa persistencia de los…
 date: '2016-12-30T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Niños
 - Brujas
 toc: false
+id: 225
 autores:
 - J.K. Rowling
 autores_stats:
@@ -44,7 +45,7 @@ Con Hogwarts: una guía incompleta y poco fiable viajarás al Colegio Hogwarts d
 - **Serie:** Pottermore Presents (#3)
 - **Editorial:** Pottermore Publishing
 - **Formato:** Kindle Edition, 90 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1781106355 / 9781781106358
 - **Publicación original:** 2016-09-06
 - **Géneros:** [Fantasía](/tags/fantasia/), [Harry Potter](/tags/harry-potter/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Jovenes adultos](/tags/jovenes-adultos/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Brujas](/tags/brujas/)

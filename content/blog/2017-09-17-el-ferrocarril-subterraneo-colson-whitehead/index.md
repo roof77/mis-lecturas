@@ -1,5 +1,5 @@
 ---
-title: El ferrocarril subterráneo
+title: '#266 · El ferrocarril subterráneo'
 summary: "Librarian note: Alternate cover edition of ISBN-13: 9788439733003, ISBN-10/ASIN: 8439733003\r\n\r\nCora es una joven\
   \ esclava de una plantación de algodón en…"
 date: '2017-09-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Adultos
 toc: false
+id: 266
 autores:
 - Colson Whitehead
 - Cruz Rodríguez Juiz
@@ -48,7 +49,7 @@ Whitehead nos brinda una historia universal, onírica y a la vez brutalmente rea
 - **Colaboradores:** [Cruz Rodríguez Juiz](/autores/cruz-rodriguez-juiz/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2017-09-01
 - **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/), [Raza](/tags/raza/), [Afroamericanos](/tags/afroamericanos/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)
 - **Personajes:** Caesar (The Underground Railroad), Cora Randall, Mabel Randall, Arnold Ridgeway, Martin Wells, Ethel Wells, Royal (The Underground Railroad), Homer (The Underground Railroad), Boseman (The Underground Railroad), Ajarry (The Underground Railroad)

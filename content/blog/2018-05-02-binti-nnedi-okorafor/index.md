@@ -1,5 +1,5 @@
 ---
-title: Binti
+title: '#308 · Binti'
 summary: 'Su nombre es Binti, y es la primera de los himba a la que se le ha ofrecido una plaza en Oomza Uni: la mejor institución
   de enseñanza superior de la galaxia…'
 date: '2018-05-02T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Extraterrestres
 toc: false
+id: 308
 autores:
 - Nnedi Okorafor
 - Carla Bataller Estruch
@@ -49,7 +50,7 @@ Este viaje transformará a quien lo emprende de forma irremediable, sin posibili
 - **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (Translator)
 - **Editorial:** Crononauta
 - **Formato:** Paperback, 110 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788494795817
 - **Publicación original:** 2018-02-15
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Jovenes adultos](/tags/jovenes-adultos/), [Relatos](/tags/relatos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/), [Extraterrestres](/tags/extraterrestres/)

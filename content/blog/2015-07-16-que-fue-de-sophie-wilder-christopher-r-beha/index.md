@@ -1,5 +1,5 @@
 ---
-title: Qué fue de Sophie Wilder
+title: '#129 · Qué fue de Sophie Wilder'
 summary: Charlie Blakeman vive en Washington Square, Nueva York, ha publicado una novela que ha pasado sin pena ni gloria
   y, aunque se supone que está escribiendo otra…
 date: '2015-07-16T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Religión
 - EEUU
 toc: false
+id: 129
 autores:
 - Christopher R. Beha
 - Damià Alou
@@ -46,7 +47,7 @@ Publicada recientemente en EE. UU. con gran éxito de crítica, Qué fue de Soph
 - **Colaboradores:** [Damià Alou](/autores/damia-alou/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415625758 / 9788415625759
 - **Publicación original:** 2014-03-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [Misterio](/tags/misterio/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Adultos](/tags/adultos/), [Religión](/tags/religion/), [EEUU](/tags/eeuu/)

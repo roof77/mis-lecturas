@@ -1,5 +1,5 @@
 ---
-title: Trabajos de amor ensangrentados
+title: '#100 · Trabajos de amor ensangrentados'
 summary: Trabajos de amor ensangrentados es un clásico de la Edad Dorada de la novela de detectives inglesa, llena de referencias
   literarias y persecuciones en bólido…
 date: '2015-03-23T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Asesinato
 - Thriller
 toc: false
+id: 100
 autores:
 - Edmund Crispin
 - José C. Vales
@@ -43,7 +44,7 @@ La escuela Castrevenford está inmersa en los preparativos para celebrar el fin 
 - **Colaboradores:** [José C. Vales](/autores/jose-c-vales/) (Translator)
 - **Editorial:** Impedimenta
 - **Formato:** Hardcover, 336 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415578962 / 9788415578963
 - **Publicación original:** 2014-02-01
 - **Géneros:** [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Detectives](/tags/detectives/), [Edad de oro](/tags/edad-de-oro/), [Literatura británica](/tags/literatura-britanica/), [Asesinato](/tags/asesinato/), [Thriller](/tags/thriller/)

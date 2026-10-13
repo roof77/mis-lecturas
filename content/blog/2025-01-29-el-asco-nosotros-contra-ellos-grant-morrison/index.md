@@ -1,5 +1,5 @@
 ---
-title: 'El Asco: Nosotros contra ellos'
+title: '#702 · El Asco: Nosotros contra ellos'
 summary: 'Reseña de lectura de «El Asco: Nosotros contra ellos».'
 date: '2025-01-29T23:59:59'
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 702
 autores:
 - Grant Morrison
 - Chris Weston
@@ -31,7 +31,7 @@ nota: Muy bien
 - **Colaboradores:** [Chris Weston](/autores/chris-weston/) (Dibujo), [Gary Erskine](/autores/gary-erskine/) (Tinta), [Matt Hollingsworth](/autores/matt-hollingsworth/) (Color)
 - **Editorial:** Norma Editorial (Vertigo Comics)
 - **Formato:** Paperback, 74 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484316904 / 9788484316909
 - **Publicación original:** 2004-01-01
 - **Géneros:** [Comics](/tags/comics/)

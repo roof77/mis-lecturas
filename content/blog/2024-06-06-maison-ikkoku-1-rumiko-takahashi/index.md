@@ -1,5 +1,5 @@
 ---
-title: Maison Ikkoku 1
+title: '#652 · Maison Ikkoku 1'
 summary: "Acclaimed author Rumiko Takahashi’s classic romantic comedy about finding your path in life.\r\n\r\nYusaku Godai\
   \ didn’t get accepted into college on the first try…"
 date: '2024-06-06T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Novela gráfica
 - Ficción
@@ -19,6 +18,7 @@ tags:
 - Japón
 - Literatura japanesa
 toc: false
+id: 652
 autores:
 - Rumiko Takahashi
 autores_stats:
@@ -44,7 +44,7 @@ Yusaku Godai didn’t get accepted into college on the first try, so he’s stud
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#1)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 344 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484495191 / 9788484495192
 - **Publicación original:** 2004-01-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Seinen manga](/tags/seinen-manga/), [Humor](/tags/humor/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/)

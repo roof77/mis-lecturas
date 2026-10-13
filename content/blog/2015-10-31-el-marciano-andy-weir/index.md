@@ -1,5 +1,5 @@
 ---
-title: El marciano
+title: '#149 · El marciano'
 summary: "Alternate cover edition of ISBN 9788466655057.\r\nSeis días atrás el astronauta Mark Watney se convirtió en uno\
   \ de los primeros hombres  en caminar por la…"
 date: '2015-10-31T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Fantasía
 - Supervivencia
 toc: false
+id: 149
 autores:
 - Andy Weir
 - Javier Guerrero Gimeno
@@ -47,7 +48,7 @@ Sin embargo, Mark no se da por vencido; armado con su ingenio, sus habilidades y
 - **Colaboradores:** [Javier Guerrero Gimeno](/autores/javier-guerrero-gimeno/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 408 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2014-11-05
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Aventuras](/tags/aventuras/), [Espacio](/tags/espacio/), [Adultos](/tags/adultos/), [Thriller](/tags/thriller/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Supervivencia](/tags/supervivencia/)
 - **Personajes:** Mark Watney, Venkat Kapoor, Melissa Lewis, Rick Martinez, Beth Johanssen, Alex Vogel, Teddy Sanders, Mindy Park, Annie Montrose, Bruce Ng

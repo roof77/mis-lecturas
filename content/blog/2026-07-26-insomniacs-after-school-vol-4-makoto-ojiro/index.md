@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 4
+title: '#904 · Insomniacs After School, vol. 4'
 summary: "Una aplicación de radio con la que emiten programas especiales que solo ellos pueden escuchar...\r\n\r\nGanta e\
   \ Isaki intentarán salvar el club de astronomía, por…"
 date: '2026-07-26T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Jovenes adultos
 - Slice of life
@@ -18,6 +17,7 @@ tags:
 - Seinen manga
 - Contemporaneo
 toc: false
+id: 904
 autores:
 - Makoto Ojiro
 - Óscar Tejero
@@ -45,7 +45,7 @@ Ganta e Isaki intentarán salvar el club de astronomía, por un lado organizando
 - **Colaboradores:** [Óscar Tejero](/autores/oscar-tejero/) (translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418788631 / 9788418788635
 - **Publicación original:** 2021-10-29
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/)

@@ -1,5 +1,5 @@
 ---
-title: Todos nuestros presentes equivocados
+title: '#272 · Todos nuestros presentes equivocados'
 summary: Tom Barren vive en un 2016 utópico de coches voladores, aceras móviles y bases en la luna, en el que los aguacates
   no se estropean y el punk nunca ha…
 date: '2017-10-14T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Distopía
 - Ficción especulativa
 toc: false
+id: 272
 autores:
 - Elan Mastai
 autores_stats:
@@ -44,7 +45,7 @@ Tom, sin embargo, no encuentra su lugar y, afligido por la muerte de su madre y 
 - **Autor:** [Elan Mastai](/autores/elan-mastai/)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 399 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2017-09-07
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Personajes:** Tom Barren, Lionel Goettreider, Victor Barren, Penelope Weschler, Greta Barren, Rebecca Crittendale-Barren

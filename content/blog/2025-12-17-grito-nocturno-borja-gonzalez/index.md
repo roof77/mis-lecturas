@@ -1,5 +1,5 @@
 ---
-title: Grito nocturno
+title: '#789 · Grito nocturno'
 summary: "TRAS THE BLACK HOLES, BORJA GONZÁLEZ SE CONSAGRA CON SU SEGUNDA NOVELA GRÁFICA, AMBIENTADA EN EL MISMO UNIVERSO\
   \ BELLO Y MACABRO.\r\n\r\n«No eres como…"
 date: '2025-12-17T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Jovenes adultos
 - LGTBIQ+
@@ -18,6 +17,7 @@ tags:
 - Paranormal
 - Ficción
 toc: false
+id: 789
 autores:
 - Borja González
 autores_stats:
@@ -47,7 +47,7 @@ UN DELICIOSO CUENTO DE TERROR SOBRE LA IDENTIDAD Y EL OLVIDO
 - **Serie:** Las tres noches (#2)
 - **Editorial:** Reservoir Books
 - **Formato:** Paperback, 168 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418052678 / 9788418052675
 - **Publicación original:** 2022-03-03
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [LGTBIQ+](/tags/lgtbiq/), [Brujas](/tags/brujas/), [Terror](/tags/terror/), [Paranormal](/tags/paranormal/), [Ficción](/tags/ficcion/)

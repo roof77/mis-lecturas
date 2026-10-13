@@ -1,5 +1,5 @@
 ---
-title: Perdón
+title: '#289 · Perdón'
 summary: PREMIO DE LITERATURA DE LA UNIÓN EUROPEA 2015Perdón es una intensa novela sobre el amor, el autoengaño y los secretos
   peligrosos.Dos jóvenes se encuentran y se…
 date: '2018-01-22T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Amor
 - Literatura escandinava
 toc: false
+id: 289
 autores:
 - Ida Hegazi Høyer
 - Cristina Gómez Baggethun
@@ -40,7 +41,7 @@ PREMIO DE LITERATURA DE LA UNIÓN EUROPEA 2015Perdón es una intensa novela sobr
 - **Colaboradores:** [Cristina Gómez Baggethun](/autores/cristina-gomez-baggethun/) (Translator)
 - **Editorial:** Nórdica Libros
 - **Formato:** Kindle Edition, 204 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416830428 / 9788416830428
 - **Publicación original:** 2017-05-22
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Amor](/tags/amor/), [Literatura escandinava](/tags/literatura-escandinava/)

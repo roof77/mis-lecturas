@@ -1,5 +1,5 @@
 ---
-title: La guerra de los pobres
+title: '#459 · La guerra de los pobres'
 summary: 'Año 1524: en el sur de Alemania se produce una revuelta campesina. Este levantamiento pronto gana adeptos en Suiza
   y Alsacia. En medio del caos destaca una…'
 date: '2021-04-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Política
 - Literatura
 toc: false
+id: 459
 autores:
 - Éric Vuillard
 - Javier Albiñana
@@ -44,7 +45,7 @@ El espíritu que animó a aquellos valientes interpela incisivamente la realidad
 - **Colaboradores:** [Javier Albiñana](/autores/javier-albinana/) (Translator)
 - **Editorial:** TusQuets
 - **Formato:** Kindle Edition, 96 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849066868X / 9788490668689
 - **Publicación original:** 2020-09-01
 - **Géneros:** [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [Francia](/tags/francia/), [Histórico](/tags/historico/), [Religión](/tags/religion/), [Literatura francesa](/tags/literatura-francesa/), [Novella](/tags/novella/), [Política](/tags/politica/), [Literatura](/tags/literatura/)

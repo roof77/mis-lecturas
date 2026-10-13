@@ -1,5 +1,5 @@
 ---
-title: Guía del club de lectura para matar vampiros
+title: '#503 · Guía del club de lectura para matar vampiros'
 summary: A Patricia Campbell su existencia nunca le ha parecido tan insignificante. Su marido es un adicto al trabajo, sus
   hijos adolescentes tienen su propia vida, su…
 date: '2021-10-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Misterio
 - Adultos
 toc: false
+id: 503
 autores:
 - Grady Hendrix
 - Paz Pruneda
@@ -48,7 +49,7 @@ Poco a poco, James se irá introduciendo en la vida cotidiana de Patricia tratan
 - **Colaboradores:** [Paz Pruneda](/autores/paz-pruneda/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 471 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445009958 / 9788445009956
 - **Publicación original:** 2021-10-13
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Vampiros](/tags/vampiros/), [Club de lectura](/tags/club-de-lectura/), [Thriller](/tags/thriller/), [Paranormal](/tags/paranormal/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/)

@@ -1,5 +1,5 @@
 ---
-title: 'Lili Marleen: Canción de amor y muerte'
+title: '#52 · Lili Marleen: Canción de amor y muerte'
 summary: When Nazi composer Norbert Schultze put the words of a poem written in the trenches of World War I to music, “Lili
   Marleen,” the musical sensation of the…
 date: '2014-07-11T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 52
 autores:
 - Rosa Sala Rose
 autores_stats:
@@ -35,7 +36,7 @@ Cuando el compositor nazi Norbert Schultze puso música a un poema escrito en la
 - **Autor:** [Rosa Sala Rose](/autores/rosa-sala-rose/)
 - **Editorial:** Global Rhythm Press
 - **Formato:** Hardcover, 216 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8496879283 / 9788496879287
 - **Publicación original:** 2008-09-01
 - **Ficha en Goodreads:** [Lili Marleen: Canción de amor y muerte](https://www.goodreads.com/book/show/13198221-lili-marleen)

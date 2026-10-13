@@ -1,5 +1,5 @@
 ---
-title: El viento en los sauces
+title: '#682 · El viento en los sauces'
 summary: Kenneth Grahame (1859-1932) perdió a su madre cuando sólo tenía cinco años, y su padre, incapaz de hacerse cargo
   de sus cuatro hijos, los envió a vivir con su…
 date: '2024-09-14T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Aventuras
 - Literatura
 toc: false
+id: 682
 autores:
 - Kenneth Grahame
 autores_stats:
@@ -41,7 +42,7 @@ El río donde viven Topo, Ratón, Tejón, Sapo, las nutrias y los demás habitan
 - **Autor:** [Kenneth Grahame](/autores/kenneth-grahame/)
 - **Editorial:** Valdemar
 - **Formato:** Paperback, 313 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477025983 / 9788477025986
 - **Publicación original:** 2008-01-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Niños](/tags/ninos/), [Fantasía](/tags/fantasia/), [Animales](/tags/animales/), [Jovenes adultos](/tags/jovenes-adultos/), [Aventuras](/tags/aventuras/), [Literatura](/tags/literatura/)

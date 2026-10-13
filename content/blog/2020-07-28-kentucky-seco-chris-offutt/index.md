@@ -1,5 +1,5 @@
 ---
-title: Kentucky seco
+title: '#440 · Kentucky seco'
 summary: Kentucky seco es el bourbon que antiguamente se destilaba de forma clandestina en esta región del sur de los Estados
   Unidos y el título de los nueve relatos…
 date: '2020-07-28T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Ficción histórica
 - Ficción Literaria
 toc: false
+id: 440
 autores:
 - Chris Offutt
 - Javier Lucini
@@ -43,7 +44,7 @@ Chris Offutt debutó en 1992 con esta colección de relatos con la que quiso «b
 - **Colaboradores:** [Javier Lucini](/autores/javier-lucini/) (Transaltor)
 - **Editorial:** Sajalín
 - **Formato:** Paperback, 180 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494850121 / 9788494850127
 - **Publicación original:** 2019-03-01
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Gótico sureño](/tags/gotico-sureno/), [EEUU](/tags/eeuu/), [Sureño](/tags/sureno/), [Literatura](/tags/literatura/), [Ficción histórica](/tags/ficcion-historica/), [Ficción Literaria](/tags/ficcion-literaria/)

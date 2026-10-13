@@ -1,5 +1,5 @@
 ---
-title: La cantina de medianoche 4
+title: '#816 · La cantina de medianoche 4'
 summary: 'Esa minúscula taberna situada en una callejuela del barrio de Shinjuku acoge a los noctámbulos de Tokyo: boxeadores,
   prostitutas, actores porno, policias y…'
 date: '2026-03-25T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Japón
 - Novela gráfica
 - Comida
@@ -18,6 +17,7 @@ tags:
 - Cocina
 - Seinen manga
 toc: false
+id: 816
 autores:
 - Yarō Abe
 - Alberto Sakai
@@ -43,7 +43,7 @@ Esa minúscula taberna situada en una callejuela del barrio de Shinjuku acoge a 
 - **Colaboradores:** [Alberto Sakai](/autores/alberto-sakai/) (Translator)
 - **Editorial:** Astiberri Ediciones
 - **Formato:** Paperback, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418215534 / 9788418215537
 - **Publicación original:** 2021-07-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Comida](/tags/comida/), [Relatos](/tags/relatos/), [Slice of life](/tags/slice-of-life/), [Cocina](/tags/cocina/), [Seinen manga](/tags/seinen-manga/)

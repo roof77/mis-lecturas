@@ -1,5 +1,5 @@
 ---
-title: 'Lady Killer #2'
+title: '#857 · Lady Killer #2'
 summary: '**Spellbinding.Powell''s Books** Josie''s life grows more complicated than ever. Between the demands of her family
   life (including her disapproving…'
 date: '2026-06-05T23:59:56'
@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción histórica
 - Ficción
 toc: false
+id: 857
 autores:
 - Joëlle Jones
 - Jamie S. Rich

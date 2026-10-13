@@ -1,5 +1,5 @@
 ---
-title: Odio Integral Vol. 6
+title: '#846 · Odio Integral Vol. 6'
 summary: ¡La vida sigue igual! Lisa siempre estuvo de la olla y, en contra de todo pronóstico (¡ja!), la vida marital parece
   ser un estupendo caldo de cultivo para sus…
 date: '2026-05-25T23:59:56'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 846
 autores:
 - Peter Bagge
 autores_stats:
@@ -35,7 +35,7 @@ Eh, pero que nada cambie también tiene su parte buena: ¡Peter Bagge sigue sien
 - **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 132 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2012-05-01
 - **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio Integral Vol. 6](https://www.goodreads.com/book/show/56895328-odio-integral-vol-6)

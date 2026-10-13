@@ -1,5 +1,5 @@
 ---
-title: Relojes de sangre
+title: '#366 · Relojes de sangre'
 summary: En esta feroz e imaginativa novela el aborto es, una vez más, ilegal en Estados Unidos, la fertilización in vitro
   está prohibida y la Emmienda de Humanidad da…
 date: '2018-11-24T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Ficción Literaria
 toc: false
+id: 366
 autores:
 - Leni Zumas
 - Mariana Hernández Cruz
@@ -44,7 +45,7 @@ Relojes de sangre es a la vez un drama cuyo misterio se desenvuelve con una ener
 - **Colaboradores:** [Mariana Hernández Cruz](/autores/mariana-hernandez-cruz/) (Translator)
 - **Editorial:** Destino
 - **Formato:** Paperback, 412 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8423354245 / 9788423354245
 - **Publicación original:** 2018-09-06
 - **Géneros:** [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Distopía](/tags/distopia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Ficción especulativa](/tags/ficcion-especulativa/), [Adultos](/tags/adultos/), [Ficción Literaria](/tags/ficcion-literaria/)

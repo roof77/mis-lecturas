@@ -1,5 +1,5 @@
 ---
-title: Huracán en Jamaica
+title: '#257 · Huracán en Jamaica'
 summary: En Jamaica, a mediados del siglo XIX, los cinco hijos de la familia inglesa Bas-Thornton y los dos de la familia
   criolla Fernández viven en «una especie de…
 date: '2017-07-23T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura británica
 - Ficción Literaria
 toc: false
+id: 257
 autores:
 - Richard Hughes
 autores_stats:
@@ -41,7 +42,7 @@ En Jamaica, a mediados del siglo XIX, los cinco hijos de la familia inglesa Bas-
 - **Autor:** [Richard Hughes](/autores/richard-hughes/)
 - **Editorial:** Alba Editorial
 - **Formato:** Paperback, 264 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484283437 / 9788484283430
 - **Publicación original:** 2007-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Aventuras](/tags/aventuras/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Literatura](/tags/literatura/), [Piratas](/tags/piratas/), [Literatura británica](/tags/literatura-britanica/), [Ficción Literaria](/tags/ficcion-literaria/)

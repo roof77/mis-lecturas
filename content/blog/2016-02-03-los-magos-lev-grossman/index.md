@@ -1,5 +1,5 @@
 ---
-title: Los magos
+title: '#176 · Los magos'
 summary: Quentin Coldwater es un chico brillante pero desdichado que vive obsesionado con las novelas de fantasía que leyó
   en su infancia y que transcurrían en un país…
 date: '2016-02-03T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Dark Academia
 toc: false
+id: 176
 autores:
 - Lev Grossman
 autores_stats:
@@ -43,7 +44,7 @@ Psicológicamente penetrante y extraordinariamente absorbente. Los magos transit
 - **Serie:** The Magicians (#1)
 - **Editorial:** B de Bolsillo (Ediciones B)
 - **Formato:** Mass Market Paperback, 496 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498724007 / 9788498724004
 - **Publicación original:** 2010-09-08
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Mágia](/tags/magia/), [Fantasía urbana](/tags/fantasia-urbana/), [Jovenes adultos](/tags/jovenes-adultos/), [Adultos](/tags/adultos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Dark Academia](/tags/dark-academia/)

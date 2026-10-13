@@ -1,5 +1,5 @@
 ---
-title: Creedme
+title: '#405 · Creedme'
 summary: "Premio Pulitzer en la categoría de Reportaje Explicativo en 2016\r\n\r\nUna investigación sobre varios casos de\
   \ violación en Estados Unidos que muestra los…"
 date: '2019-09-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Sociología
 - Periodismo
 toc: false
+id: 405
 autores:
 - T. Christian Miller
 - Ken Armstrong
@@ -47,7 +48,7 @@ Una investigación sobre varios casos de violación en Estados Unidos que muestr
 - **Colaboradores:** [Ken Armstrong](/autores/ken-armstrong/) (Author), [Miguel Ros González](/autores/miguel-ros-gonzalez/) (Translator), [Patricia Simón](/autores/patricia-simon/) (Contributor)
 - **Editorial:** Libros del K.O.
 - **Formato:** Kindle Edition, 344 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417678174 / 9788417678173
 - **Publicación original:** 2019-06-06
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Crime real](/tags/crime-real/), [Feminismo](/tags/feminismo/), [Crimen](/tags/crimen/), [Adultos](/tags/adultos/), [Justicia social](/tags/justicia-social/), [Misterio](/tags/misterio/), [Sociología](/tags/sociologia/), [Periodismo](/tags/periodismo/)

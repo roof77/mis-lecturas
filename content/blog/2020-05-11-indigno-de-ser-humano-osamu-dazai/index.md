@@ -1,5 +1,5 @@
 ---
-title: Indigno de ser humano
+title: '#430 · Indigno de ser humano'
 summary: Publicada por primera vez en 1948, Indigno de ser humano es una de las novelas más célebres de la literatura japonesa
   contemporánea. Su polémico y brillante…
 date: '2020-05-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Filosofía
 - Literatura asiática
 toc: false
+id: 430
 autores:
 - Osamu Dazai
 - Montse Watkins
@@ -43,7 +44,7 @@ Indigno de ser humano se ha convertido, con el paso de los años, en una de las
 - **Colaboradores:** [Montse Watkins](/autores/montse-watkins/) (traducción)
 - **Editorial:** Sajalin Editores
 - **Formato:** Paperback, 171 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2021-08-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/), [Japón](/tags/japon/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Filosofía](/tags/filosofia/), [Literatura asiática](/tags/literatura-asiatica/)
 - **Personajes:** 大庭葉蔵 [Ōba Yōzō]

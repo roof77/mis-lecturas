@@ -1,5 +1,5 @@
 ---
-title: Los Tambores del Dios Negro
+title: '#614 · Los Tambores del Dios Negro'
 summary: Trepadora quiere abandonar las calles de Nueva Orleans, donde ha vivido largo tiempo sola, luchando por sobrevivir.
   Desea levantar el vuelo, y, para lograrlo…
 date: '2024-01-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Histórico
 - Adultos
 toc: false
+id: 614
 autores:
 - P. Djèlí Clark
 - Raúl García Campos
@@ -47,7 +48,7 @@ P. Djèlí Clark es un autor multipremiado y una de las más grandes voces de la
 - **Colaboradores:** [Raúl García Campos](/autores/raul-garcia-campos/) (Traducción), [David G. Vaquero](/autores/david-g-vaquero/) (Ilustración)
 - **Editorial:** Obscura Editorial
 - **Formato:** Paperback, 132 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2023-06-15
 - **Géneros:** [Fantasía](/tags/fantasia/), [Steampunk](/tags/steampunk/), [Novella](/tags/novella/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Ucronía](/tags/ucronia/), [Histórico](/tags/historico/), [Adultos](/tags/adultos/)
 - **Lugares:** New Orleans, Louisiana (United States), Louisiana (United States)

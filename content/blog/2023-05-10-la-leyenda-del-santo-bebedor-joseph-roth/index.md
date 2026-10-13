@@ -1,5 +1,5 @@
 ---
-title: La leyenda del Santo Bebedor
+title: '#592 · La leyenda del Santo Bebedor'
 summary: La leyenda del Santo Bebedor, fue publicada por primera vez en 1939, pocos meses después de la muerte de Roth, exiliado
   en París, y puede ser considerada, por…
 date: '2023-05-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novella
 - Alemania
 toc: false
+id: 592
 autores:
 - Joseph Roth
 - Michael Faber Kaiser
@@ -45,7 +46,7 @@ Asimismo, este texto –como señala Carlos Barral en su feliz prologo– es un 
 - **Colaboradores:** [Michael Faber Kaiser](/autores/michael-faber-kaiser/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 96 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433930060 / 9788433930064
 - **Publicación original:** 1981-11-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura alemana](/tags/literatura-alemana/), [Relatos](/tags/relatos/), [Novela](/tags/novela/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/), [Novella](/tags/novella/), [Alemania](/tags/alemania/)

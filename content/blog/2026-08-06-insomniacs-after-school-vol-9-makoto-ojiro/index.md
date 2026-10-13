@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 9
+title: '#909 · Insomniacs After School, vol. 9'
 summary: "“Me está dando sueño...”\r\n\r\n“Duérmete, no me importa.”\r\n\r\nLlega el invierno, el segundo trimestre avanza\
   \ y con él los preparativos para ver las gemínidas. A su…"
 date: '2026-08-06T23:59:54'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Slice of life
 - Jovenes adultos
@@ -18,6 +17,7 @@ tags:
 - Contemporaneo
 - Ficción
 toc: false
+id: 909
 autores:
 - Makoto Ojiro
 - Óscar Tejero
@@ -49,7 +49,7 @@ Ganta e Isaki viajan por Noto tomando fotos... Llega el 23 de diciembre, cumplea
 - **Colaboradores:** [Óscar Tejero](/autores/oscar-tejero/) (translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419536245 / 9788419536242
 - **Publicación original:** 2022-12-05
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Slice of life](/tags/slice-of-life/), [Jovenes adultos](/tags/jovenes-adultos/), [Seinen manga](/tags/seinen-manga/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/)

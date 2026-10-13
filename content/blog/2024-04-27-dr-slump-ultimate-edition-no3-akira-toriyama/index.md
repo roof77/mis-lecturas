@@ -1,5 +1,5 @@
 ---
-title: Dr. Slump Ultimate Edition Nº3
+title: '#642 · Dr. Slump Ultimate Edition Nº3'
 summary: Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de
   Villa Pingüino. Pero eso no es nada…
 date: '2024-04-27T23:59:58'
@@ -9,8 +9,8 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 toc: false
+id: 642
 autores:
 - Akira Toriyama
 autores_stats:
@@ -36,7 +36,7 @@ Dr. Slump es la obra más delirante de Akira Toriyama, el creador de Dragon Ball
 - **Serie:** Dr.スランプ [Dr. Slump] (#3)
 - **Editorial:** Planeta DeAgostini Comics
 - **Formato:** Paperback, 241 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467483105 / 9788467483109
 - **Publicación original:** 2010-03-23
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/)

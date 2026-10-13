@@ -1,5 +1,5 @@
 ---
-title: El despertar del leviatán
+title: '#422 · El despertar del leviatán'
 summary: La humanidad ha colonizado el Sistema Solar, pero las estrellas aún están fuera de nuestro alcance. Jim Holden es
   OE de un transportador de hielo. Cuando él y…
 date: '2020-02-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Terror
 - Adultos
 toc: false
+id: 422
 autores:
 - James S.A. Corey
 - David Tejera Expósito
@@ -53,7 +54,7 @@ Detrás del seudónimo de James S. A. Corey se esconden el autor de ciencia ficc
 - **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 608 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8466660151 / 9788466660150
 - **Publicación original:** 2016-11-09
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Space Opera](/tags/space-opera/), [Fantasía](/tags/fantasia/), [Espacio](/tags/espacio/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Misterio](/tags/misterio/), [Terror](/tags/terror/), [Adultos](/tags/adultos/)

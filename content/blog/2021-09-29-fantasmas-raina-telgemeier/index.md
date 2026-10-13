@@ -1,5 +1,5 @@
 ---
-title: Fantasmas
+title: '#498 · Fantasmas'
 summary: Catrina y su familia se mudan a la costa norte de California porque la hermana de Catrina está enferma. Una vez en
   su nuevo hogar, un vecino les cuenta a las…
 date: '2021-09-29T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Ficción
 - Jovenes adultos
@@ -18,6 +17,7 @@ tags:
 - Paranormal
 - Familia
 toc: false
+id: 498
 autores:
 - Raina Telgemeier
 autores_stats:
@@ -40,7 +40,7 @@ Catrina y su familia se mudan a la costa norte de California porque la hermana d
 - **Autor:** [Raina Telgemeier](/autores/raina-telgemeier/)
 - **Editorial:** Scholastic en Español
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1338133683 / 9781338133684
 - **Publicación original:** 2017-01-31
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Fantasmas](/tags/fantasmas/), [Niños](/tags/ninos/), [Paranormal](/tags/paranormal/), [Familia](/tags/familia/)

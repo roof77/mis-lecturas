@@ -1,5 +1,5 @@
 ---
-title: Fantasmas
+title: '#60 · Fantasmas'
 summary: Cuando Jennifer Paige y su hermana adolescente Lisa regresan a Snowfield, donde la primera ejerce su profesión de
   médico, el pequeño pueblo de montaña aparece…
 date: '2014-08-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Sobrenatural
 - Fantasía
 toc: false
+id: 60
 autores:
 - Dean Koontz
 autores_stats:
@@ -40,7 +41,7 @@ Cuando Jennifer Paige y su hermana adolescente Lisa regresan a Snowfield, donde 
 - **Autor:** [Dean Koontz](/autores/dean-koontz/)
 - **Editorial:** Ediciones Martínez Roca
 - **Formato:** Paperback, 374 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 842701242X / 9788427012424
 - **Publicación original:** 1988-01-01
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Suspense](/tags/suspense/), [Misterio](/tags/misterio/), [Ciencia ficción](/tags/ciencia-ficcion/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/), [Fantasía](/tags/fantasia/)

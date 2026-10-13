@@ -1,5 +1,5 @@
 ---
-title: Condición artificial
+title: '#760 · Condición artificial'
 summary: Tiene un pasado oscuro donde murieron muchos humanos. Y por ese pasado decidió llamarse Matabot. Pero, de la masacre
   que le dio nombre solo conserva un…
 date: '2025-07-05T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Robots
 - Space Opera
 toc: false
+id: 760
 autores:
 - Martha Wells
 - Carla Bataller Estruch
@@ -47,7 +48,7 @@ Sus descubrimientos harán que su forma de pensar cambie para siempre.
 - **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (Translator)
 - **Editorial:** Alethé
 - **Formato:** Hardcover, 158 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491646752 / 9788491646754
 - **Publicación original:** 2019-11-06
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Adultos](/tags/adultos/), [Espacio](/tags/espacio/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Robots](/tags/robots/), [Space Opera](/tags/space-opera/)

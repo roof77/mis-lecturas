@@ -1,5 +1,5 @@
 ---
-title: Madres, avisad a vuestras hijas
+title: '#594 · Madres, avisad a vuestras hijas'
 summary: Los relatos de este libro están poblados de madres e hijas que se aman, se honran y se traicionan. Novias afligidas,
   embarazos prematuros, esposas maltratadas…
 date: '2023-07-13T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción realista
 - Familia
 toc: false
+id: 594
 autores:
 - Bonnie Jo Campbell
 - Tomás Cobos
@@ -43,7 +44,7 @@ Los relatos de este libro están poblados de madres e hijas que se aman, se honr
 - **Colaboradores:** [Tomás Cobos](/autores/tomas-cobos/) (Translator)
 - **Editorial:** Dirty Works Editorial
 - **Formato:** Paperback, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412112849 / 9788412112849
 - **Publicación original:** 2021-05-17
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Ficción adulta](/tags/ficcion-adulta/), [Feminismo](/tags/feminismo/), [Adultos](/tags/adultos/), [Ficción realista](/tags/ficcion-realista/), [Familia](/tags/familia/)

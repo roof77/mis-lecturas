@@ -1,5 +1,5 @@
 ---
-title: El hombre que se enamoró de la luna
+title: '#84 · El hombre que se enamoró de la luna'
 summary: Cobertizo es un huérfano sin origen que sólo puede entender las palabras recién aprendidas de un idioma ajeno y su
   amor por un cowboy de ojos verdes que podría…
 date: '2014-12-27T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Nativo americano
 - Oeste
 toc: false
+id: 84
 autores:
 - Tom Spanbauer
 autores_stats:
@@ -41,7 +42,7 @@ Cobertizo es un huérfano sin origen que sólo puede entender las palabras reci�
 - **Autor:** [Tom Spanbauer](/autores/tom-spanbauer/)
 - **Editorial:** Quinteto
 - **Formato:** Paperback, 453 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8495971410 / 9788495971418
 - **Publicación original:** 2003-04-01
 - **Géneros:** [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Ficción histórica](/tags/ficcion-historica/), [Queer](/tags/queer/), [Gay](/tags/gay/), [Realismo mágico](/tags/realismo-magico/), [Histórico](/tags/historico/), [Club de lectura](/tags/club-de-lectura/), [Nativo americano](/tags/nativo-americano/), [Oeste](/tags/oeste/)

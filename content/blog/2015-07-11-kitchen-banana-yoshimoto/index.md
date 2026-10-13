@@ -1,5 +1,5 @@
 ---
-title: Kitchen
+title: '#125 · Kitchen'
 summary: Cuando se le muere la abuela, la jovencísima Mikage queda sola en una casa inmensa. Pero un día Yuichi llama a la
   puerta de Mikage y le sugiere que vaya a…
 date: '2015-07-11T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Romance
 - Novela
 toc: false
+id: 125
 autores:
 - Banana Yoshimoto
 - Junichi Mattsuura
@@ -48,7 +49,7 @@ Banana Yoshimoto (Tokio 1964) ganó con Kitchen su primera novela , el Newcomer 
 - **Colaboradores:** [Junichi Mattsuura](/autores/junichi-mattsuura/) (Translator), [Lourdes Porta Fuentes](/autores/lourdes-porta-fuentes/) (Translator)
 - **Editorial:** Tusquets
 - **Formato:** Paperback, 201 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6074213135 / 9786074213133
 - **Publicación original:** 2012-03-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Relatos](/tags/relatos/), [Contemporaneo](/tags/contemporaneo/), [Ásia](/tags/asia/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/), [Romance](/tags/romance/), [Novela](/tags/novela/)

@@ -1,5 +1,5 @@
 ---
-title: 'En la mitad de la vida: una guía filosófica'
+title: '#378 · En la mitad de la vida: una guía filosófica'
 summary: "Philosophical wisdom and practical advice for overcoming the problems of middle age\r\n\r\nHow can you reconcile\
   \ yourself with the lives you will never lead, with…"
 date: '2019-02-27T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Salud mentál
 - Ciencia
 toc: false
+id: 378
 autores:
 - Kieran Setiya
 - Ramón González Férriz
@@ -47,7 +48,7 @@ Ranging from Aristotle, Schopenhauer, and John Stuart Mill to Virginia Woolf and
 - **Colaboradores:** [Ramón González Férriz](/autores/ramon-gonzalez-ferriz/) (Traductor)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 216 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417007733 / 9788417007737
 - **Publicación original:** 2019-01-21
 - **Géneros:** [Filosofía](/tags/filosofia/), [No Ficción](/tags/no-ficcion/), [Autoayuda](/tags/autoayuda/), [Psicología](/tags/psicologia/), [Desarrollo personal](/tags/desarrollo-personal/), [Salud](/tags/salud/), [Salud mentál](/tags/salud-mental/), [Ciencia](/tags/ciencia/)

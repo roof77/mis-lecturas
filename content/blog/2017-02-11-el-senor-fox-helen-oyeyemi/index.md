@@ -1,5 +1,5 @@
 ---
-title: El señor Fox
+title: '#234 · El señor Fox'
 summary: Los amores en los cuentos de hadas siempre acaban en boda; al menos en los cuentos que no quieren complicarse demasiado.
   Éste no es el caso de la historia del…
 date: '2017-02-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción histórica
 - Adultos
 toc: false
+id: 234
 autores:
 - Helen Oyeyemi
 - María Belmonte
@@ -42,7 +43,7 @@ Los amores en los cuentos de hadas siempre acaban en boda; al menos en los cuent
 - **Colaboradores:** [María Belmonte](/autores/maria-belmonte/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415689586 / 9788415689584
 - **Publicación original:** 2014-05-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Realismo mágico](/tags/realismo-magico/), [Fantasía](/tags/fantasia/), [Ficción Literaria](/tags/ficcion-literaria/), [Cuentos de hadas](/tags/cuentos-de-hadas/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Ficción histórica](/tags/ficcion-historica/), [Adultos](/tags/adultos/)

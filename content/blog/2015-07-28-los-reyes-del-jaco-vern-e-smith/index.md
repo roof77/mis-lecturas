@@ -1,5 +1,5 @@
 ---
-title: Los reyes del jaco
+title: '#131 · Los reyes del jaco'
 summary: En los suburbios pobres de la ciudad con mayor índice de criminalidad de los Estados Unidos, los traficantes de droga
   se pavonean al volante de Cadillacs de…
 date: '2015-07-28T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - EEUU
 - Noir
 toc: false
+id: 131
 autores:
 - Vern E. Smith
 autores_stats:
@@ -40,7 +41,7 @@ Publicada por primera vez en 1974, Los reyes del jaco es hoy en día una novela 
 - **Autor:** [Vern E. Smith](/autores/vern-e-smith/)
 - **Editorial:** Sajalín Editores
 - **Formato:** Paperback, 267 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494236784 / 9788494236785
 - **Publicación original:** 2015-04-10
 - **Géneros:** [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [EEUU](/tags/eeuu/), [Noir](/tags/noir/)

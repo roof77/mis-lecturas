@@ -1,5 +1,5 @@
 ---
-title: 'Lumberjanes: Pungeon Master'
+title: '#890 · Lumberjanes: Pungeon Master'
 summary: When you’re a scout, nothing is more important than being prepared, but how do you prepare for legions of supernatural
   creatures threatening to beat down your…
 date: '2026-07-12T23:59:53'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Fantasía
@@ -17,6 +16,7 @@ tags:
 - LGTBIQ+
 - Queer
 toc: false
+id: 890
 autores:
 - N.D. Stevenson
 - Grace Ellis

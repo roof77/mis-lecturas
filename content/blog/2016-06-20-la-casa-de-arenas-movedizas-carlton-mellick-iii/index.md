@@ -1,5 +1,5 @@
 ---
-title: La casa de arenas movedizas
+title: '#198 · La casa de arenas movedizas'
 summary: Esta es la historia de dos niños que no conocen a sus padres, aunque viven en la misma casa que ellos. Sueñan con
   el momento en que podrán abrazarlos por…
 date: '2016-06-20T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Fantasía oscura
 - Gótico
 toc: false
+id: 198
 autores:
 - Carlton Mellick III
 - Hugo Camacho
@@ -49,7 +50,7 @@ Mellick ha sido galardonado con el premio Wonderland de bizarro, y en 2013 el di
 - **Colaboradores:** [Hugo Camacho](/autores/hugo-camacho/) (Translator), [Branca Studio](/autores/branca-studio/) (Illustrator)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 254 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788494518102
 - **Publicación original:** 2016-03-11
 - **Géneros:** [Terror](/tags/terror/), [Bizarro](/tags/bizarro/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Ficción extraña](/tags/ficcion-extrana/), [EEUU](/tags/eeuu/), [Fantasía oscura](/tags/fantasia-oscura/), [Gótico](/tags/gotico/)

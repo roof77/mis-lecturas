@@ -1,5 +1,5 @@
 ---
-title: Dama Luna. La amenaza de Farside
+title: '#476 · Dama Luna. La amenaza de Farside'
 summary: "La Luna quiere matarte y tiene mil formas de conseguirlo.\r\n\r\nLa familia de Cariad Corcoran acaba de ampliarse\
   \ al incluir a la nueva pareja de su madre y a su…"
 date: '2021-07-30T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ciencia Ficción
 - Fantasía
 toc: false
+id: 476
 autores:
 - Ian McDonald
 - Bruno Puelles
@@ -52,7 +53,7 @@ Ambientada en el universo de la trilogía Luna, la novela funciona como obra ind
 - **Colaboradores:** [Bruno Puelles](/autores/bruno-puelles/) (Translator)
 - **Editorial:** Ed. Apache Libros
 - **Formato:** Paperback, 186 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2020-09-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Relatos](/tags/relatos/), [Espacio](/tags/espacio/), [Distopía](/tags/distopia/), [Space Opera](/tags/space-opera/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Dama Luna. La amenaza de Farside](https://www.goodreads.com/book/show/54361178-dama-luna-la-amenaza-de-farside)

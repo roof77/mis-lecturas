@@ -1,5 +1,5 @@
 ---
-title: El diario completamente verídico de un indio a tiempo parcial
+title: '#542 · El diario completamente verídico de un indio a tiempo parcial'
 summary: Arnold Spirit Junior, de 14 años, nació y creció en la Reserva India Spokane. Es torpe, miope, hipermétrope, lleva
   las gafas torcidas y tiene una enorme…
 date: '2022-05-25T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Coming of age
 - Colegio
 toc: false
+id: 542
 autores:
 - Sherman Alexie
 - Ellen Forney
@@ -44,7 +45,7 @@ Arnold Spirit Junior, de 14 años, nació y creció en la Reserva India Spokane.
 - **Colaboradores:** [Ellen Forney](/autores/ellen-forney/) (Illustrator), [Clara Ministral](/autores/clara-ministral/) (Translator)
 - **Editorial:** Siruela
 - **Formato:** Hardcover, 264 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498412730 / 9788498412734
 - **Publicación original:** 2009-05-28
 - **Géneros:** [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción realista](/tags/ficcion-realista/), [Humor](/tags/humor/), [Club de lectura](/tags/club-de-lectura/), [Libros prohibidos](/tags/libros-prohibidos/), [Nativo americano](/tags/nativo-americano/), [Coming of age](/tags/coming-of-age/), [Colegio](/tags/colegio/)

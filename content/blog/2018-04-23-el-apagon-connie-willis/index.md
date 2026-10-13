@@ -1,5 +1,5 @@
 ---
-title: El apagón
+title: '#305 · El apagón'
 summary: Universidad de Oxford, 2060. Los viajes en el tiempo son habituales entre los historiadores para investigar el pasado.
   Michael Davies se está preparando para…
 date: '2018-04-23T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Premios Hugo
 - Ciencia Ficción
 toc: false
+id: 305
 autores:
 - Connie Willis
 autores_stats:
@@ -42,7 +43,7 @@ En principio, nada se sale de lo meramente rutinario. Pero al llegar a sus desti
 - **Serie:** All Clear (#1)
 - **Editorial:** Nova
 - **Formato:** Paperback, 624 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8466649794 / 9788466649797
 - **Publicación original:** 2011-11-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Histórico](/tags/historico/), [Fantasía](/tags/fantasia/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Premios Hugo](/tags/premios-hugo/), [Ciencia Ficción](/tags/ciencia-ficcion/)

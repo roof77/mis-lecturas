@@ -1,5 +1,5 @@
 ---
-title: 'Por qué se rompió Estados Unidos: Populismo y polarización en la era Trump'
+title: '#780 · Por qué se rompió Estados Unidos: Populismo y polarización en la era Trump'
 summary: El experto en política estadounidense Roger Senserrich nos explica en este ensayo cómo el germen de los escándalos
   de Trump responde a las raíces históricas de…
 date: '2025-11-10T23:59:58'
@@ -11,6 +11,7 @@ tags:
 - Política
 - No Ficción
 toc: false
+id: 780
 autores:
 - Roger Senserrich
 autores_stats:
@@ -39,7 +40,7 @@ Los partidos políticos y la sociedad americana están cambiando a marchas forza
 - **Autor:** [Roger Senserrich](/autores/roger-senserrich/)
 - **Editorial:** DEBATE
 - **Formato:** Kindle Edition, 307 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419642649 / 9788419642646
 - **Publicación original:** 2024-03-14
 - **Géneros:** [Política](/tags/politica/), [No Ficción](/tags/no-ficcion/)

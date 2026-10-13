@@ -1,5 +1,5 @@
 ---
-title: Para acabar con Eddy Bellegueule
+title: '#171 · Para acabar con Eddy Bellegueule'
 summary: Salí corriendo de repente. Sólo me dio tiempo a oír a mi madre, que decía Pero ¿qué hace ese idiota? No quería estar
   con ellos, me negaba a compartir con ellos…
 date: '2016-01-21T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Coming of age
 toc: false
+id: 171
 autores:
 - Édouard Louis
 - María Teresa Gallego Urrutia
@@ -43,7 +44,7 @@ Salí corriendo de repente. Sólo me dio tiempo a oír a mi madre, que decía Pe
 - **Colaboradores:** [María Teresa Gallego Urrutia](/autores/maria-teresa-gallego-urrutia/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498386489 / 9788498386486
 - **Publicación original:** 2015-02-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Francia](/tags/francia/), [Contemporaneo](/tags/contemporaneo/), [Literatura francesa](/tags/literatura-francesa/), [Gay](/tags/gay/), [Novela](/tags/novela/), [Coming of age](/tags/coming-of-age/)

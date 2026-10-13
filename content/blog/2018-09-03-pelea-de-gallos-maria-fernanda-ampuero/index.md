@@ -1,5 +1,5 @@
 ---
-title: Pelea de gallos
+title: '#357 · Pelea de gallos'
 summary: Pelea de gallos narra desde diferentes voces el hogar, ese espacio que construye –­o destruye– a las personas, aborda
   los vínculos familiares y sus códigos…
 date: '2018-09-03T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Latino américa
 - Siglo XXI
 toc: false
+id: 357
 autores:
 - María Fernanda Ampuero
 autores_stats:
@@ -41,7 +42,7 @@ Pelea de gallos narra desde diferentes voces el hogar, ese espacio que construye
 - **Autor:** [María Fernanda Ampuero](/autores/maria-fernanda-ampuero/)
 - **Editorial:** Páginas de Espuma
 - **Formato:** Kindle Edition, 120 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483936135 / 9788483936139
 - **Publicación original:** 2018-03-07
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Literatura hispana](/tags/literatura-hispana/), [Contemporaneo](/tags/contemporaneo/), [Feminismo](/tags/feminismo/), [Latinos](/tags/latinos/), [Mujeres](/tags/mujeres/), [Latino américa](/tags/latino-america/), [Siglo XXI](/tags/siglo-xxi/)

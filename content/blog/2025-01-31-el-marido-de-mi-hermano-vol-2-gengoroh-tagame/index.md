@@ -1,5 +1,5 @@
 ---
-title: El marido de mi hermano, vol. 2
+title: '#706 · El marido de mi hermano, vol. 2'
 summary: El regreso a Canadá se acerca... ¡Pero a Mike aún le quedan un montón de cosas que hacer en Japón! Un viaje a un
   onsen con la familia Origuchi al completo, una…
 date: '2025-01-31T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - LGTBIQ+
 - Queer
@@ -19,6 +18,7 @@ tags:
 - Adultos
 - Familia
 toc: false
+id: 706
 autores:
 - Gengoroh Tagame
 - Marc Bernabé
@@ -44,7 +44,7 @@ El regreso a Canadá se acerca... ¡Pero a Mike aún le quedan un montón de cos
 - **Colaboradores:** [Marc Bernabé](/autores/marc-bernabe/) (translator)
 - **Editorial:** Panini Cómics
 - **Formato:** Paperback, 360 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8413342252 / 9788413342252
 - **Publicación original:** 2019-12-19
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Adultos](/tags/adultos/), [Familia](/tags/familia/)

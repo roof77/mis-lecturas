@@ -1,5 +1,5 @@
 ---
-title: Diez Razones Para Borrar Tus Redes Sociales de Inmediato
+title: '#606 · Diez Razones Para Borrar Tus Redes Sociales de Inmediato'
 summary: "¿Te cuesta imaginar una vida sin redes sociales? ¿Y si te dieran diez razones que te convencieran de la toxicidad\
   \ de sus efectos?\r\n\r\nEn este libro Jaron…"
 date: '2023-10-24T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Sociología
 - Política
 toc: false
+id: 606
 autores:
 - Jaron Lanier
 autores_stats:
@@ -44,7 +45,7 @@ Si quieres una vida más feliz, un mundo más justo y pacífico, o simplemente l
 - **Autor:** [Jaron Lanier](/autores/jaron-lanier/)
 - **Editorial:** Debate
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8499929176 / 9788499929170
 - **Publicación original:** 2018-12-24
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Tecnología](/tags/tecnologia/), [Psicología](/tags/psicologia/), [Autoayuda](/tags/autoayuda/), [Redes sociales](/tags/redes-sociales/), [Ciencia](/tags/ciencia/), [Filosofía](/tags/filosofia/), [Sociología](/tags/sociologia/), [Política](/tags/politica/)

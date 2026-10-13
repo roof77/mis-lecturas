@@ -1,5 +1,5 @@
 ---
-title: Después del terremoto
+title: '#255 · Después del terremoto'
 summary: La magnitud del terremoto que en 1995 asoló la ciudad japonesa de Kobe, y que se cobró más de cinco mil vidas, inspiró
   a Haruki Murakami seis impactantes…
 date: '2017-07-03T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Fantasía
 toc: false
+id: 255
 autores:
 - Haruki Murakami
 - Lourdes Porta Fuentes
@@ -42,7 +43,7 @@ La magnitud del terremoto que en 1995 asoló la ciudad japonesa de Kobe, y que s
 - **Colaboradores:** [Lourdes Porta Fuentes](/autores/lourdes-porta-fuentes/) (Translator)
 - **Editorial:** Tusquets
 - **Formato:** Paperback, 190 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483834499 / 9788483834497
 - **Publicación original:** 2013-02-05
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Realismo mágico](/tags/realismo-magico/), [Contemporaneo](/tags/contemporaneo/), [Ásia](/tags/asia/), [Literatura](/tags/literatura/), [Fantasía](/tags/fantasia/)

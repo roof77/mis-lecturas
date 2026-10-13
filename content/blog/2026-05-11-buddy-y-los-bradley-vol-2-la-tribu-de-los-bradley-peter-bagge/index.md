@@ -1,5 +1,5 @@
 ---
-title: 'Buddy y los Bradley, vol. 2: La tribu De Los Bradley'
+title: '#835 · Buddy y los Bradley, vol. 2: La tribu De Los Bradley'
 summary: Meet the Bradleys, America's most dysfunctional family. Yes, even more dysfunctional than the Simpsons, though it's
   no surprise that Groening has cited the…
 date: '2026-05-11T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 835
 autores:
 - Peter Bagge
 autores_stats:
@@ -33,7 +33,7 @@ Meet the Bradleys, America's most dysfunctional family. Yes, even more dysfuncti
 - **Serie:** Buddy y los Bradley (#2)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 80 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1594971285 / 9781594971280
 - **Publicación original:** 2005-04-25
 - **Géneros:** [Comics](/tags/comics/)

@@ -1,5 +1,5 @@
 ---
-title: La caja de botones de Gwendy
+title: '#500 · La caja de botones de Gwendy'
 summary: 'Existen tres vías para llegar a Castle View desde la ciudad de Castle Rock: por la carretera 117, por Pleasant Road
   y por las Escaleras de los Suicidios. Cada…'
 date: '2021-10-06T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Paranormal
 - Adultos
 toc: false
+id: 500
 autores:
 - Stephen King
 - Richard Chizmar
@@ -46,7 +47,7 @@ Pero un día, al llegar a lo alto, mientras recupera el aliento con la cara roja
 - **Colaboradores:** [Richard Chizmar](/autores/richard-chizmar/) (Author)
 - **Editorial:** SUMA
 - **Formato:** Kindle Edition, 130 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2018-11-08
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Misterio](/tags/misterio/), [Novella](/tags/novella/), [Thriller](/tags/thriller/), [Relatos](/tags/relatos/), [Paranormal](/tags/paranormal/), [Adultos](/tags/adultos/)
 - **Personajes:** Gwendy Peterson

@@ -1,5 +1,5 @@
 ---
-title: Spider-Gwen, Vol. 4
+title: '#886 · Spider-Gwen, Vol. 4'
 summary: Is Gwen Stacy's alternate Earth ready for...Gwenom?! Matt "Kingpin" Murdock's plans are coming to fruition - and
   if you know how he plans, you know that ain't…
 date: '2026-07-08T23:59:58'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Marvel
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Colecciones
 - Acción
 toc: false
+id: 886
 autores:
 - Jason Latour
 autores_stats:

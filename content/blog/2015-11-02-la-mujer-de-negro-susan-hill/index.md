@@ -1,5 +1,5 @@
 ---
-title: La mujer de negro
+title: '#150 · La mujer de negro'
 summary: Cuando el joven abogado Arthur Kipps recibe el encargo de viajar a un purblo remoto del interior rodeado de marismas
   brumosas para asistir al entierro de una…
 date: '2015-11-02T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Paranormal
 - Histórico
 toc: false
+id: 150
 autores:
 - Susan Hill
 - Margarita Cavándoli
@@ -42,7 +43,7 @@ Cuando el joven abogado Arthur Kipps recibe el encargo de viajar a un purblo rem
 - **Colaboradores:** [Margarita Cavándoli](/autores/margarita-cavandoli/) (Translator)
 - **Editorial:** Edhasa
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8435010589 / 9788435010580
 - **Publicación original:** 2012-02-01
 - **Géneros:** [Terror](/tags/terror/), [Gótico](/tags/gotico/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Misterio](/tags/misterio/), [Ficción histórica](/tags/ficcion-historica/), [Fantasmas](/tags/fantasmas/), [Paranormal](/tags/paranormal/), [Histórico](/tags/historico/)

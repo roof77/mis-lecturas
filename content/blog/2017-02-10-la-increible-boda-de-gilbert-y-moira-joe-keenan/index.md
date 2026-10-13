@@ -1,5 +1,5 @@
 ---
-title: La increíble boda de Gilbert y Moira
+title: '#233 · La increíble boda de Gilbert y Moira'
 summary: Gilbert Selwyn y Moira Finch tienen el placer de invitaros a la que está llamada a convertirse en la boda del año.
   Gilbert es un joven encantador al que el…
 date: '2017-02-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Nueva York
 - Novela
 toc: false
+id: 233
 autores:
 - Joe Keenan
 autores_stats:
@@ -45,7 +46,7 @@ Ambientada en el Nueva York de finales de los ochenta, La increíble boda de Gil
 - **Serie:** Gilbert Selwyn and Friends (#1)
 - **Editorial:** Dos bigotes
 - **Formato:** Paperback, 376 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494517007 / 9788494517006
 - **Publicación original:** 2016-03-21
 - **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Gay](/tags/gay/), [LGTBIQ+](/tags/lgtbiq/), [Comedia](/tags/comedia/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Nueva York](/tags/nueva-york/), [Novela](/tags/novela/)

@@ -1,5 +1,5 @@
 ---
-title: Lincoln en el Bardo
+title: '#566 · Lincoln en el Bardo'
 summary: Febrero de 1862. En medio de la sangrienta guerra civil que divide al país en dos, el hijo de doce años del presidente
   Lincoln está gravemente enfermo. En…
 date: '2022-10-14T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Literatura
 toc: false
+id: 566
 autores:
 - George Saunders
 - Javier Calvo
@@ -43,7 +44,7 @@ A partir de este hecho histórico, Saunders despliega una historia inolvidable s
 - **Colaboradores:** [Javier Calvo](/autores/javier-calvo/) (Translator)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 440 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8432233595 / 9788432233593
 - **Publicación original:** 2018-04-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/), [Realismo mágico](/tags/realismo-magico/), [Novela](/tags/novela/), [Literatura](/tags/literatura/)

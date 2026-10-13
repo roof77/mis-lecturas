@@ -1,5 +1,5 @@
 ---
-title: Irène
+title: '#215 · Irène'
 summary: 'El comandante Camille Verhœven vive la vida perfecta: está casado con la maravillosa Irène, con la que espera su
   primer hijo. Pero su felicidad se resquebraja…'
 date: '2016-11-29T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Suspense
 - Detectives
 toc: false
+id: 215
 autores:
 - Pierre Lemaitre
 - Juan Carlos Durán Romero
@@ -42,7 +43,7 @@ El comandante Camille Verhœven vive la vida perfecta: está casado con la marav
 - **Colaboradores:** [Juan Carlos Durán Romero](/autores/juan-carlos-duran-romero/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420418854 / 9788420418858
 - **Publicación original:** 2015-05-07
 - **Géneros:** [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Noir](/tags/noir/), [Suspense](/tags/suspense/), [Detectives](/tags/detectives/)

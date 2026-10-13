@@ -1,5 +1,5 @@
 ---
-title: La Isla de las Mujeres
+title: '#851 · La Isla de las Mujeres'
 summary: Céleste Bompard es el objeto de deseo de todas las mujeres por su habilidad y destreza como piloto de acrobacias.
   Durante la Gran Guerra será el encargado de…
 date: '2026-05-29T23:59:58'
@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción
 - Adultos
 toc: false
+id: 851
 autores:
 - Zanzim
 autores_stats:
@@ -35,7 +35,7 @@ Céleste Bompard es el objeto de deseo de todas las mujeres por su habilidad y d
 - **Autor:** [Zanzim](/autores/zanzim/)
 - **Editorial:** Dibbuks
 - **Formato:** Hardcover, 80 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415850816 / 9788415850816
 - **Publicación original:** 2015-05-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/)

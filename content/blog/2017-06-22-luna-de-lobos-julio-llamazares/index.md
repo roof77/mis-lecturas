@@ -1,5 +1,5 @@
 ---
-title: Luna de lobos
+title: '#253 · Luna de lobos'
 summary: Tres existencias clandestinas, sumidas en el exilio de la oscuridad y de la naturaleza salvaje, acechan desde el
   silencio del monte lo que un día fueron sus…
 date: '2017-06-22T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Histórico
 - Literatura
 toc: false
+id: 253
 autores:
 - Julio Llamazares
 autores_stats:
@@ -43,7 +44,7 @@ Ramiro, Gildo y Ángel, tres soldados republicanos de León, huyen en plena noch
 - **Autor:** [Julio Llamazares](/autores/julio-llamazares/)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 153 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 843224550X / 9788432245503
 - **Publicación original:** 1985-09-01
 - **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Guerra civil española](/tags/guerra-civil-espanola/), [Guerra](/tags/guerra/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/), [Literatura](/tags/literatura/)

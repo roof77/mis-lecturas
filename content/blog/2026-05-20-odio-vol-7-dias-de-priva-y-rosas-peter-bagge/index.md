@@ -1,5 +1,5 @@
 ---
-title: 'Odio, vol. 7: Dias de priva y rosas'
+title: '#842 · Odio, vol. 7: Dias de priva y rosas'
 summary: Collects an alternative comic from the 1990s that chronicles the misadventures and life experiences of Buddy Bradley,
   oldest son of America's most…
 date: '2026-05-20T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 842
 autores:
 - Peter Bagge
 autores_stats:
@@ -33,7 +33,7 @@ Collects an alternative comic from the 1990s that chronicles the misadventures a
 - **Serie:** Odio: Hate (#7)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 50 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1594971935 / 9781594971938
 - **Publicación original:** 2006-05-25
 - **Géneros:** [Comics](/tags/comics/)

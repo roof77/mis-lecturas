@@ -1,5 +1,5 @@
 ---
-title: El reverso de los demás
+title: '#515 · El reverso de los demás'
 summary: Argel. Adel y Yasmine son hermanos, y aunque de pequeños estaban unidos, han crecido y han cambiado y ya no se hablan.
   Se quieren y se temen en silencio. No…
 date: '2022-01-05T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Argelia
 - Novela
 toc: false
+id: 515
 autores:
 - Kaouther Adimi
 autores_stats:
@@ -33,7 +34,7 @@ Argel. Adel y Yasmine son hermanos, y aunque de pequeños estaban unidos, han cr
 - **Autor:** [Kaouther Adimi](/autores/kaouther-adimi/)
 - **Editorial:** Xordica
 - **Formato:** Paperback, 96 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788416461011
 - **Publicación original:** 2015-10-13
 - **Géneros:** [Argelia](/tags/argelia/), [Novela](/tags/novela/)

@@ -1,5 +1,5 @@
 ---
-title: Morfina
+title: '#823 · Morfina'
 summary: En vida de Mijaíl Bulgákov difícilmente alguien se habría atrevido a considerarlo un «clásico» de la literatura rusa,
   ya que, después de haber gozado de un…
 date: '2026-04-12T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Medicina
 - Novella
 toc: false
+id: 823
 autores:
 - Mikhail Bulgakov
 autores_stats:
@@ -43,7 +44,7 @@ Los relatos reunidos en este volumen pertenecen al ciclo Notas de un médico jov
 - **Autor:** [Mikhail Bulgakov](/autores/mikhail-bulgakov/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Mass Market Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 843396707X / 9788433967077
 - **Publicación original:** 2006-04-18
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Rusia](/tags/rusia/), [Literatura rusa](/tags/literatura-rusa/), [Relatos](/tags/relatos/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Siglo XX](/tags/siglo-xx/), [Medicina](/tags/medicina/), [Novella](/tags/novella/)

@@ -1,5 +1,5 @@
 ---
-title: Felino maníaco homicida
+title: '#721 · Felino maníaco homicida'
 summary: Entrega número 3 de este relanzamiento con nuevo diseño de la serie Calvin y Hobbes, uno de los grandes clásicos
   de Ediciones B y del cómic internacional. Un…
 date: '2025-03-16T23:59:59'
@@ -8,10 +8,10 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Humor
 - Tiras
 toc: false
+id: 721
 autores:
 - Bill Watterson
 autores_stats:
@@ -34,7 +34,7 @@ Entrega número 3 de este relanzamiento con nuevo diseño de la serie Calvin y H
 - **Autor:** [Bill Watterson](/autores/bill-watterson/)
 - **Editorial:** Bruguera (Ediciones B)
 - **Formato:** Hardcover, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8402422349 / 9788402422347
 - **Publicación original:** 2019-02-22
 - **Géneros:** [Comics](/tags/comics/), [Humor](/tags/humor/), [Tiras](/tags/tiras/)

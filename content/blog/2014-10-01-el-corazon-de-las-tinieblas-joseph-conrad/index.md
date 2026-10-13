@@ -1,5 +1,5 @@
 ---
-title: El corazón de las tinieblas
+title: '#72 · El corazón de las tinieblas'
 summary: Escrita en forma de un largo monólogo, "El corazón de las tinieblas" es a la vez una sátira de los abusos de la colonización
   europea en el corazón del África…
 date: '2014-10-01T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Novela
 - Aventuras
 toc: false
+id: 72
 autores:
 - Joseph Conrad
 - Sergio Pitol
@@ -44,7 +45,7 @@ Una travesía frenética en el corazón de un continente hostil y devastado, don
 - **Colaboradores:** [Sergio Pitol](/autores/sergio-pitol/) (Translator), [Mario Vargas Llosa](/autores/mario-vargas-llosa/) (Prologue)
 - **Editorial:** Editorial Sudamericana S.A.
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9875662100 / 9789875662100
 - **Publicación original:** 2006-10-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Literatura](/tags/literatura/), [Ficción histórica](/tags/ficcion-historica/), [África](/tags/africa/), [Colegio](/tags/colegio/), [Novela](/tags/novela/), [Aventuras](/tags/aventuras/)

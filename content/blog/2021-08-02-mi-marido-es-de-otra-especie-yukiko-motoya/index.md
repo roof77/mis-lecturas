@@ -1,5 +1,5 @@
 ---
-title: Mi marido es de otra especie
+title: '#477 · Mi marido es de otra especie'
 summary: 'Tras su boda, San dejó el trabajo. Cierto día descubre con inquietud cierto detalle: su cara y la de su marido se
   parecen cada vez más. El marido, que proclama…'
 date: '2021-08-02T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Fantasía
 - Literatura asiática
 toc: false
+id: 477
 autores:
 - Yukiko Motoya
 - Jordi Fibla
@@ -45,7 +46,7 @@ Además de la novela breve que da título al volumen, galardonada con el premio 
 - **Colaboradores:** [Jordi Fibla](/autores/jordi-fibla/) (Translator), [Keiko Takahashi](/autores/keiko-takahashi/) (Translator)
 - **Editorial:** Alianza editorial
 - **Formato:** Paperback, 143 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491814566 / 9788491814566
 - **Publicación original:** 2019-05-09
 - **Géneros:** [Japón](/tags/japon/), [Ásia](/tags/asia/), [Literatura japanesa](/tags/literatura-japanesa/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Realismo mágico](/tags/realismo-magico/), [Fantasía](/tags/fantasia/), [Literatura asiática](/tags/literatura-asiatica/)

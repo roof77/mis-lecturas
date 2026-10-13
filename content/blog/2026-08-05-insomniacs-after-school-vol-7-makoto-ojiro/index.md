@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 7
+title: '#907 · Insomniacs After School, vol. 7'
 summary: 'Ganta e Isaki han logrado su objetivo: fotografiar las ruinas de Mawaki. Ahora comienza el segundo trimestre y,
   aunque ambos continúan sufriendo las…'
 date: '2026-08-05T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Slice of life
 - Jovenes adultos
@@ -18,6 +17,7 @@ tags:
 - Ficción
 - Novela gráfica
 toc: false
+id: 907
 autores:
 - Makoto Ojiro
 - Óscar Tejero
@@ -43,7 +43,7 @@ Ganta e Isaki han logrado su objetivo: fotografiar las ruinas de Mawaki. Ahora c
 - **Colaboradores:** [Óscar Tejero](/autores/oscar-tejero/) (translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419195529 / 9788419195524
 - **Publicación original:** 2022-06-28
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Slice of life](/tags/slice-of-life/), [Jovenes adultos](/tags/jovenes-adultos/), [Contemporaneo](/tags/contemporaneo/), [Seinen manga](/tags/seinen-manga/), [Ficción](/tags/ficcion/), [Novela gráfica](/tags/novela-grafica/)

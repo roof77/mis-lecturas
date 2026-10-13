@@ -1,5 +1,5 @@
 ---
-title: 'Mindhunter: Cazador de mentes'
+title: '#287 · Mindhunter: Cazador de mentes'
 summary: Es la historia, contada por él mismo, de John Douglas, el hombre que revolucionó las técnicas para estudiar las mentes
   de los criminales en serie. Durante…
 date: '2018-01-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Misterio
 - Adultos
 toc: false
+id: 287
 autores:
 - John E. Douglas
 - Mark Olshaker
@@ -44,7 +45,7 @@ Es la historia, contada por él mismo, de John Douglas, el hombre que revolucion
 - **Colaboradores:** [Mark Olshaker](/autores/mark-olshaker/) (Author)
 - **Editorial:** Crítica
 - **Formato:** Paperback, 432 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417067590 / 9788417067595
 - **Publicación original:** 2018-01-09
 - **Géneros:** [Crime real](/tags/crime-real/), [No Ficción](/tags/no-ficcion/), [Crimen](/tags/crimen/), [Psicología](/tags/psicologia/), [Historia](/tags/historia/), [Biografía](/tags/biografia/), [Memorias](/tags/memorias/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/)

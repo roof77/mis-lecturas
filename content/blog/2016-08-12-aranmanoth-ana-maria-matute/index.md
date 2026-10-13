@@ -1,5 +1,5 @@
 ---
-title: Aranmanoth
+title: '#203 · Aranmanoth'
 summary: Aranmanoth es una novela de iniciación a la vida y al amor, protagonizada por un muchacho medio humano medio mágico,
   hijo del Señor de Lines y de un hada de…
 date: '2016-08-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Literatura portuguesa
 toc: false
+id: 203
 autores:
 - Ana María Matute
 autores_stats:
@@ -41,7 +42,7 @@ Aranmanoth es una novela de iniciación a la vida y al amor, protagonizada por u
 - **Serie:** Trilogía medieval (#3)
 - **Editorial:** Espasa-Calpe SA
 - **Formato:** Hardcover, 191 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8423979741 / 9788423979745
 - **Publicación original:** 2000-01-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Literatura hispana](/tags/literatura-hispana/), [Histórico](/tags/historico/), [Ficción](/tags/ficcion/), [España](/tags/espana/), [Coming of age](/tags/coming-of-age/), [Cuentos de hadas](/tags/cuentos-de-hadas/), [Novela](/tags/novela/), [Literatura portuguesa](/tags/literatura-portuguesa/)

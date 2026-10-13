@@ -1,5 +1,5 @@
 ---
-title: Gente normal
+title: '#408 · Gente normal'
 summary: Después de Conversaciones entre amigos, Sally Rooney vuelve a deslumbrarnos con una historia sobre la fascinación
   mutua entre dos personas que no consiguen…
 date: '2019-10-25T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Novela
 toc: false
+id: 408
 autores:
 - Sally Rooney
 - Inga Pellisa
@@ -42,7 +43,7 @@ Después de Conversaciones entre amigos, Sally Rooney vuelve a deslumbrarnos con
 - **Colaboradores:** [Inga Pellisa](/autores/inga-pellisa/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Kindle Edition, 222 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2019-10-03
 - **Géneros:** [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Irlanda](/tags/irlanda/), [Coming of age](/tags/coming-of-age/), [Adultos](/tags/adultos/), [Novela](/tags/novela/)
 - **Personajes:** Connell Waldron, Marianne Sheridan, Rachel Moran, Lorraine Waldron, Helen Brophy

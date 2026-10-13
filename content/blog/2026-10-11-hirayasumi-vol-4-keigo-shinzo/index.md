@@ -1,5 +1,5 @@
 ---
-title: Hirayasumi, vol. 4
+title: '#940 · Hirayasumi, vol. 4'
 summary: Hiroto Ikuta, de 29 años, vive junto a su prima Natsumi, estudiante de Bellas Artes. ¡¿Soplan vientos de cambio en
   su día a día en la casa unifamiliar que…
 date: '2026-10-11T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Slice of life
 - Japón
 - Seinen manga
@@ -17,6 +16,7 @@ tags:
 - Novela gráfica
 - Contemporaneo
 toc: false
+id: 940
 autores:
 - Keigo Shinzō
 - Marc Bernabé
@@ -48,7 +48,7 @@ Pequeños detalles rutinarios que entroncan con profunda felicidad. ¡Es un cál
 - **Colaboradores:** [Marc Bernabé](/autores/marc-bernabe/) (Translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419914436 / 9788419914439
 - **Publicación original:** 2023-09-28
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Slice of life](/tags/slice-of-life/), [Japón](/tags/japon/), [Seinen manga](/tags/seinen-manga/), [Ficción](/tags/ficcion/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/)

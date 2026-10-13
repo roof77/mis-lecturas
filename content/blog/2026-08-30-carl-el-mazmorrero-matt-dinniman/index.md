@@ -1,5 +1,5 @@
 ---
-title: Carl el mazmorrero
+title: '#929 · Carl el mazmorrero'
 summary: "¡El apocalipsis será televisado!\r\n\r\n¿Sabes qué es peor que romper con tu novia? Tener que cuidar de su gata\
   \ de exhibición premiada. ¿Y qué es aún peor? Una…"
 date: '2026-08-30T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Aventuras
 - Comedia
 toc: false
+id: 929
 autores:
 - Matt Dinniman
 - David Tejera Expósito
@@ -51,7 +52,7 @@ Llega la saga más adictiva y meteórica: de autoeditado a superventas con 1 MIL
 - **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Paperback, 462 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410466139 / 9788410466135
 - **Publicación original:** 2025-07-10
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Litrpg](/tags/litrpg/), [Humor](/tags/humor/), [Distopía](/tags/distopia/), [Club de lectura](/tags/club-de-lectura/), [Aventuras](/tags/aventuras/), [Comedia](/tags/comedia/)

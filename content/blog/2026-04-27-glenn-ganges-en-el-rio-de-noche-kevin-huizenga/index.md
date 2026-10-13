@@ -1,5 +1,5 @@
 ---
-title: Glenn Ganges en el río de noche
+title: '#827 · Glenn Ganges en el río de noche'
 summary: 'Un hombre con problemas de insomnio reflexiona sobre su vida, su matrimonio y el paso del tiempo.
 
 
@@ -10,13 +10,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción
 - Filosofía
 - Manga
 - Estados Unidos
 toc: false
+id: 827
 autores:
 - Kevin Huizenga
 - Esther Cruz Santaella
@@ -57,7 +57,7 @@ La crítica ha «Absolutamente conmovedor y en ocasiones mágico... Aunque el es
 - **Colaboradores:** [Esther Cruz Santaella](/autores/esther-cruz-santaella/) (translator)
 - **Editorial:** SALAMANDRA GRAPHIC
 - **Formato:** Kindle Edition, 216 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418621494 / 9788418621499
 - **Publicación original:** 2022-10-20
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Filosofía](/tags/filosofia/), [Manga](/tags/manga/), [Estados Unidos](/tags/estados-unidos/)

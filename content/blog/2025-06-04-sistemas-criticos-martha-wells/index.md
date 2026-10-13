@@ -1,5 +1,5 @@
 ---
-title: Sistemas críticos
+title: '#753 · Sistemas críticos'
 summary: En un futuro controlado por entidades corporativas donde el viaje espacial es posible, una compañía de seguros debe
   aprobar y abastecer todas las misiones…
 date: '2025-06-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Robots
 toc: false
+id: 753
 autores:
 - Martha Wells
 - Carla Bataller Estruch
@@ -45,7 +46,7 @@ Un equipo de científicos lleva a cabo pruebas en la superficie de un planeta le
 - **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (Translator)
 - **Editorial:** Alethé
 - **Formato:** Paperback, 150 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788491644903
 - **Publicación original:** 2019-02-06
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Espacio](/tags/espacio/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Robots](/tags/robots/)

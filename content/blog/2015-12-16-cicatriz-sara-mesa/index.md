@@ -1,5 +1,5 @@
 ---
-title: Cicatriz
+title: '#159 · Cicatriz'
 summary: Sonia conoce a Knut en un foro literario de internet y, a pesar de los setecientos kilómetros que los separan, establece
   con él una particular relación marcada…
 date: '2015-12-16T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Romance
 - Siglo XXI
 toc: false
+id: 159
 autores:
 - Sara Mesa
 autores_stats:
@@ -42,7 +43,7 @@ En esta inusitada historia, Sara Mesa recupera temas que ya aparecieron en sus p
 - **Autor:** [Sara Mesa](/autores/sara-mesa/)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433997920 / 9788433997920
 - **Publicación original:** 2015-03-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Mujeres](/tags/mujeres/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Oscuro](/tags/oscuro/), [Romance](/tags/romance/), [Siglo XXI](/tags/siglo-xxi/)

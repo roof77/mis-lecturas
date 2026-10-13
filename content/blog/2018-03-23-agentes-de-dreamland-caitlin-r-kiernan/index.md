@@ -1,5 +1,5 @@
 ---
-title: Agentes de Dreamland
+title: '#302 · Agentes de Dreamland'
 summary: En una calurosa mañana un agente especial del gobierno llega a Winslow, Arizona, y se reúne con una mujer para intercambiar
   información sobre un suceso…
 date: '2018-03-23T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción especulativa
 - Misterio
 toc: false
+id: 302
 autores:
 - Caitlín R. Kiernan
 - María Pilar San Román
@@ -49,7 +50,7 @@ Y una mujer que flota fuera del tiempo busca en el futuro y en el pasado respues
 - **Colaboradores:** [María Pilar San Román](/autores/maria-pilar-san-roman/) (Translator)
 - **Editorial:** Alianza
 - **Formato:** Hardcover, 120 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491810730 / 9788491810735
 - **Publicación original:** 2018-03-15
 - **Géneros:** [Terror](/tags/terror/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Lovecraftiano](/tags/lovecraftiano/), [Ficción extraña](/tags/ficcion-extrana/), [Ficción especulativa](/tags/ficcion-especulativa/), [Misterio](/tags/misterio/)

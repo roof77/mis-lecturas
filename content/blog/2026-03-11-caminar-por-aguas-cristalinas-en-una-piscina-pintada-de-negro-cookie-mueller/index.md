@@ -1,5 +1,5 @@
 ---
-title: Caminar por aguas cristalinas en una piscina pintada de negro
+title: '#810 · Caminar por aguas cristalinas en una piscina pintada de negro'
 summary: Reconocida figura de la contracultura estadounidense en la década de 1970, Cookie Mueller vivió durante años relegada
   a la cómoda pero injusta posición…
 date: '2026-03-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Arte
 - Nueva York
 toc: false
+id: 810
 autores:
 - Cookie Mueller
 - Rodrigo Olavarría
@@ -43,7 +44,7 @@ Con los textos incluidos en este volumen, inéditos en castellano, la autora ocu
 - **Colaboradores:** [Rodrigo Olavarría](/autores/rodrigo-olavarria/) (translator)
 - **Editorial:** los tres editores
 - **Formato:** Paperback, 324 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412447964 / 9788412447965
 - **Publicación original:** 2024-03-04
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Relatos](/tags/relatos/), [Ensayo](/tags/ensayo/), [Queer](/tags/queer/), [Biografía](/tags/biografia/), [LGTBIQ+](/tags/lgtbiq/), [Arte](/tags/arte/), [Nueva York](/tags/nueva-york/)

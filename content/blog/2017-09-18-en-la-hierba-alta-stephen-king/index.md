@@ -1,5 +1,5 @@
 ---
-title: En la hierba alta
+title: '#267 · En la hierba alta'
 summary: Dos hermanos que viajan en coche por la Ruta 73 deciden parar a descansar un rato cuando, de repente, oyen unos gritos
   de auxilio de un niño perdido entre la…
 date: '2017-09-18T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Paranormal
 toc: false
+id: 267
 autores:
 - Stephen King
 - Joe Hill
@@ -53,7 +54,7 @@ Una historia terrorífica narrada con la maestría insuperable de Stephen King.
 - **Colaboradores:** [Joe Hill](/autores/joe-hill/) (Author), [Manu Viciano](/autores/manu-viciano/) (Translator)
 - **Editorial:** RHM FLASH
 - **Formato:** Kindle Edition, 56 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788415597742
 - **Publicación original:** 2013-10-17
 - **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Novella](/tags/novella/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Paranormal](/tags/paranormal/)

@@ -1,5 +1,5 @@
 ---
-title: El portal de los dioses ferales
+title: '#934 · El portal de los dioses ferales'
 summary: Después de Carl el Mazmorrero, El juicio de Carl y El libro de cocina del anarquista de la mazmorra llega la cuarta
   entrega de la saga que te hará volar la…
 date: '2026-09-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Comedia
 - Adultos
 toc: false
+id: 934
 autores:
 - Matt Dinniman
 - David Tejera Expósito
@@ -49,7 +50,7 @@ Fallaste una misión menos de cinco minutos después de recibirla. Eso sí que e
 - **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Nova CF
 - **Formato:** Paperback, 592 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410466368 / 9788410466364
 - **Publicación original:** 2026-05-05
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Litrpg](/tags/litrpg/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Distopía](/tags/distopia/), [Aventuras](/tags/aventuras/), [Comedia](/tags/comedia/), [Adultos](/tags/adultos/)

@@ -1,5 +1,5 @@
 ---
-title: Diario de una mariposa nocturna
+title: '#168 · Diario de una mariposa nocturna'
 summary: Lucy y Ernessa se han vuelto inseparables. Ernessa la ha absorvido. La está consumiendo. Lo que vi no era real. Y
   sé que tampoco era un sueño. Ernessa es un…
 date: '2016-01-10T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Misterio
 - LGTBIQ+
 toc: false
+id: 168
 autores:
 - Rachel Klein
 - Elisabete Fernández Arrieta
@@ -45,7 +46,7 @@ Tengo dieciséis años y estudio en un exclusivo internado americano, la Brangwy
 - **Colaboradores:** [Elisabete Fernández Arrieta](/autores/elisabete-fernandez-arrieta/) (Translator)
 - **Editorial:** Planeta
 - **Formato:** Paperback, 336 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8408009273 / 9788408009276
 - **Publicación original:** 2012-10-01
 - **Géneros:** [Terror](/tags/terror/), [Jovenes adultos](/tags/jovenes-adultos/), [Vampiros](/tags/vampiros/), [Gótico](/tags/gotico/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Dark Academia](/tags/dark-academia/), [Paranormal](/tags/paranormal/), [Misterio](/tags/misterio/), [LGTBIQ+](/tags/lgtbiq/)

@@ -1,5 +1,5 @@
 ---
-title: La ceremonia
+title: '#746 · La ceremonia'
 summary: "Historias de amor extraño, amistades sinceras y la naturaleza inquietante de la existencia humana.\r\n\r\nLas tensiones\
   \ de una pareja de novios por sus diferencias…"
 date: '2025-05-18T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura asiática
 - Ásia
 toc: false
+id: 746
 autores:
 - Sayaka Murata
 autores_stats:
@@ -44,7 +45,7 @@ En esta audaz expedición por los límites, Sayaka Murata, una de las mentes má
 - **Autor:** [Sayaka Murata](/autores/sayaka-murata/)
 - **Editorial:** Duomo
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2025-03-03
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/), [Ásia](/tags/asia/)
 - **Lugares:** Japan

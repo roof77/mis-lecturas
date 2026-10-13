@@ -1,5 +1,5 @@
 ---
-title: Akira, No. 5
+title: '#673 · Akira, No. 5'
 summary: Neo-Tokio yace en ruinas. De los escombros ha surgido un imperio poblado por fanáticos que adoran y temen al poderoso
   Akira por igual. El mundo no está tomando…
 date: '2024-07-21T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Ciencia ficción
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Distopía
 - Literatura japanesa
 toc: false
+id: 673
 autores:
 - Katsuhiro Otomo
 - Steve Oliff
@@ -43,7 +43,7 @@ Neo-Tokio yace en ruinas. De los escombros ha surgido un imperio poblado por fan
 - **Colaboradores:** [Steve Oliff](/autores/steve-oliff/) (Color)
 - **Editorial:** Norma Editorial
 - **Formato:** Paperback, 416 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498144191 / 9788498144192
 - **Publicación original:** 2006-11-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Japón](/tags/japon/), [Distopía](/tags/distopia/), [Literatura japanesa](/tags/literatura-japanesa/)

@@ -1,5 +1,5 @@
 ---
-title: Sheila Levine está muerta y vive en Nueva York
+title: '#178 · Sheila Levine está muerta y vive en Nueva York'
 summary: La conoces perfectamente, la conoces tanto que puede que seas tú. Sheila es bastante mona (su madre dice que es guapísima),
   no le falta alguien con quien salir…
 date: '2016-02-21T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - EEUU
 - Contemporaneo
 toc: false
+id: 178
 autores:
 - Gail Parent
 - Zulema Couso
@@ -43,7 +44,7 @@ La conoces perfectamente, la conoces tanto que puede que seas tú. Sheila es bas
 - **Colaboradores:** [Zulema Couso](/autores/zulema-couso/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416213488 / 9788416213481
 - **Publicación original:** 2015-10-26
 - **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Chick lit](/tags/chick-lit/), [Romance](/tags/romance/), [Judaismo](/tags/judaismo/), [Nueva York](/tags/nueva-york/), [Comedia](/tags/comedia/), [Novela](/tags/novela/), [EEUU](/tags/eeuu/), [Contemporaneo](/tags/contemporaneo/)

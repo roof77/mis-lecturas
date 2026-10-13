@@ -1,5 +1,5 @@
 ---
-title: El método Bullet Journal
+title: '#562 · El método Bullet Journal'
 summary: "De la mano de su crreador, el método que ha cambiado la vida de millones de personas en todo el mundo\r\n\r\nComo\
   \ la mayoría de nosotros, Ryder Carroll trató por…"
 date: '2022-09-20T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Psicología
 - Escritura
 toc: false
+id: 562
 autores:
 - Ryder Carroll
 - Gemma Moraleda Díaz
@@ -48,7 +49,7 @@ Un libro revolucionario que te ayudará a poner orden, sacar más partido a tu t
 - **Colaboradores:** [Gemma Moraleda Díaz](/autores/gemma-moraleda-diaz/) (Traductor)
 - **Editorial:** Editorial Planeta
 - **Formato:** Hardcover, 315 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8408194410 / 9788408194415
 - **Publicación original:** 2018-10-23
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Autoayuda](/tags/autoayuda/), [Productividad](/tags/productividad/), [Desarrollo personal](/tags/desarrollo-personal/), [Referencia](/tags/referencia/), [Negocios](/tags/negocios/), [Diario](/tags/diario/), [Psicología](/tags/psicologia/), [Escritura](/tags/escritura/)

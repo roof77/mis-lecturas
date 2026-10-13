@@ -1,5 +1,5 @@
 ---
-title: Retorno a Brideshead
+title: '#135 · Retorno a Brideshead'
 summary: El retorno de Charles Ryder a Brideshead —la elegante mansión de lord Marchmain, convertida ahora en cuartel— devuelve
   a su memoria aquellos tiempos…
 date: '2015-08-18T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción Literaria
 - Siglo XX
 toc: false
+id: 135
 autores:
 - Evelyn Waugh
 autores_stats:
@@ -42,7 +43,7 @@ Retorno a Brideshead, una de las novelas más importantes de la aclamada obra de
 - **Autor:** [Evelyn Waugh](/autores/evelyn-waugh/)
 - **Editorial:** Tusquets
 - **Formato:** Mass Market Paperback, 416 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483835274 / 9788483835272
 - **Publicación original:** 2008-10-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Dark Academia](/tags/dark-academia/), [Literatura británica](/tags/literatura-britanica/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/)

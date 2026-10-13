@@ -1,5 +1,5 @@
 ---
-title: Lena y Karl
+title: '#410 · Lena y Karl'
 summary: Los mejores años de Karl parecen lejos. En su día tocó con una banda de culto de indie-rock, pero hoy ve pasar la
   vida desde sus cuarenta años y desde detrás…
 date: '2019-11-08T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción adulta
 - Adultos
 toc: false
+id: 410
 autores:
 - Mo Daviau
 - Carles Andreu Saburit
@@ -44,7 +45,7 @@ Hasta que un día, Karl envía por error a su amigo al año 980 en lugar de a 19
 - **Colaboradores:** [Carles Andreu Saburit](/autores/carles-andreu-saburit/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417552332 / 9788417552336
 - **Publicación original:** 2019-06-12
 - **Géneros:** [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Ciencia ficción](/tags/ciencia-ficcion/), [Música](/tags/musica/), [Romance](/tags/romance/), [Fantasía](/tags/fantasia/), [Humor](/tags/humor/), [Ficción adulta](/tags/ficcion-adulta/), [Adultos](/tags/adultos/)

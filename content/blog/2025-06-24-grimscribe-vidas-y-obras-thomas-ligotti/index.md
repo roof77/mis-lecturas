@@ -1,5 +1,5 @@
 ---
-title: 'Grimscribe: Vidas y obras'
+title: '#757 · Grimscribe: Vidas y obras'
 summary: Thomas Ligotti, «el secreto mejor guardado de la literatura de horror contemporánea», según el Washington Post, nació
   en Detroit en 1953 y estudió en la…
 date: '2025-06-24T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción especulativa
 - Antología
 toc: false
+id: 757
 autores:
 - Thomas Ligotti
 - Marta Lila Murillo
@@ -45,7 +46,7 @@ En las páginas de Grimscribe laten las obsesiones y paradojas filosóficas y ex
 - **Colaboradores:** [Marta Lila Murillo](/autores/marta-lila-murillo/) (Traducción)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477027978 / 9788477027973
 - **Publicación original:** 2015-01-01
 - **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Ficción extraña](/tags/ficcion-extrana/), [Fantasía](/tags/fantasia/), [Lovecraftiano](/tags/lovecraftiano/), [Gótico](/tags/gotico/), [Colecciones](/tags/colecciones/), [Ficción especulativa](/tags/ficcion-especulativa/), [Antología](/tags/antologia/)

@@ -1,5 +1,5 @@
 ---
-title: 'Astro City #4: El ángel caído'
+title: '#804 · Astro City #4: El ángel caído'
 summary: "¡UN NUEVO CAPÍTULO DEL GRAN CLÁSICO DE SUPERHÉROES! \r\nCarl Donewizc es también conocido como Acero . Acaba de\
   \ salir de la cárcel y ahora quiere estar alejado…"
 date: '2026-02-27T23:59:58'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Superheroes
@@ -17,6 +16,7 @@ tags:
 - Fantasía
 - Ciencia ficción
 toc: false
+id: 804
 autores:
 - Kurt Busiek
 - Brent Anderson
@@ -46,7 +46,7 @@ Carl Donewizc es también conocido como Acero . Acaba de salir de la cárcel y a
 - **Colaboradores:** [Brent Anderson](/autores/brent-anderson/) (Author), [Alex Ross](/autores/alex-ross/) (Author)
 - **Editorial:** Norma Editorial (Wildstorm Comics)
 - **Formato:** Hardcover, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467902418 / 9788467902419
 - **Publicación original:** 2010-08-27
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/)

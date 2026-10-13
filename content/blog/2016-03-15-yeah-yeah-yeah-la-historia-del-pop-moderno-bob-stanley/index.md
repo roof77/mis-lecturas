@@ -1,5 +1,5 @@
 ---
-title: Yeah! Yeah! Yeah! La historia del pop moderno
+title: '#182 · Yeah! Yeah! Yeah! La historia del pop moderno'
 summary: Tan divertido de criticar como de citar, Yeah! explora las raíces de la música pop a través del nacimiento del rock,
   soul, punk, hip hop, indie, house y…
 date: '2016-03-15T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Crítica
 - Siglo XXI
 toc: false
+id: 182
 autores:
 - Bob Stanley
 autores_stats:
@@ -41,7 +42,7 @@ Tan divertido de criticar como de citar, Yeah! explora las raíces de la música
 - **Colaboradores:** [Bob Stanley](/autores/bob-stanley/) (Author)
 - **Editorial:** Turner
 - **Formato:** Paperback, 748 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841614222X / 9788416142224
 - **Publicación original:** 2015-12-01
 - **Géneros:** [Música](/tags/musica/), [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Cultura Pop](/tags/cultura-pop/), [Estudios culturales](/tags/estudios-culturales/), [Biografía](/tags/biografia/), [Sociología](/tags/sociologia/), [Crítica](/tags/critica/), [Siglo XXI](/tags/siglo-xxi/)

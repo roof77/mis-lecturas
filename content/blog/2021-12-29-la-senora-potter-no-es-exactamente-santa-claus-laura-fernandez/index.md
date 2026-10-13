@@ -1,5 +1,5 @@
 ---
-title: La señora Potter no es exactamente Santa Claus
+title: '#512 · La señora Potter no es exactamente Santa Claus'
 summary: La fama de la desapacible Kimberly Clark Weymouth, una pequeña ciudad eternamente aquejada por heladas ventiscas
   y mucha nieve, y donde Louise Feldman ambientó…
 date: '2021-12-29T23:59:59'
@@ -12,6 +12,7 @@ tags:
 - Humor
 - Novela
 toc: false
+id: 512
 autores:
 - Laura Fernández
 autores_stats:
@@ -36,7 +37,7 @@ Bajo la exuberante prosa y la imaginación sin límites de Laura Fernández, se 
 - **Autor:** [Laura Fernández](/autores/laura-fernandez/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 605 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439738072 / 9788439738077
 - **Publicación original:** 2021-11-04
 - **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Novela](/tags/novela/)

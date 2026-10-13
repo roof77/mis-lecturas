@@ -1,5 +1,5 @@
 ---
-title: Maison Ikkoku tomo 6
+title: '#674 · Maison Ikkoku tomo 6'
 summary: "Tomo 6 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-07-22T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Humor
 - Romance
@@ -17,6 +16,7 @@ tags:
 - Slice of life
 - Seinen manga
 toc: false
+id: 674
 autores:
 - Rumiko Takahashi
 autores_stats:
@@ -41,7 +41,7 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#6)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 360 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484495248 / 9788484495246
 - **Publicación original:** 2005-06-30
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Humor](/tags/humor/), [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Seinen manga](/tags/seinen-manga/)

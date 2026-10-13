@@ -1,5 +1,5 @@
 ---
-title: Ring Shout. Nuestro cántico
+title: '#522 · Ring Shout. Nuestro cántico'
 summary: Una fantasía histórica oscura y de lo más sonada con un final apoteósico que da un giro sobrenatural al reino del
   terror del Ku Klux Klan. En 1915, el estreno…
 date: '2022-03-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ciencia ficción
 - Club de lectura
 toc: false
+id: 522
 autores:
 - P. Djèlí Clark
 - Raúl García Campos
@@ -42,7 +43,7 @@ Una fantasía histórica oscura y de lo más sonada con un final apoteósico que
 - **Colaboradores:** [Raúl García Campos](/autores/raul-garcia-campos/) (Translator)
 - **Editorial:** Obscura
 - **Formato:** Paperback, 204 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412324358 / 9788412324358
 - **Publicación original:** 2021-09-23
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Histórico](/tags/historico/), [Adultos](/tags/adultos/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/)

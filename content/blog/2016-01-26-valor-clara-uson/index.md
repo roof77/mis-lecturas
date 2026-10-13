@@ -1,5 +1,5 @@
 ---
-title: Valor
+title: '#173 · Valor'
 summary: Una directora de sucursal de una caja levantina que ha vendido preferentes. Un joven militar, Fermín Galán, que decide
   poner en práctica sus ideales…
 date: '2016-01-26T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 173
 autores:
 - Clara Usón
 autores_stats:
@@ -33,7 +34,7 @@ Sorprende y emociona la habilidad con que Clara Usón te mantiene en vilo hasta 
 - **Autor:** [Clara Usón](/autores/clara-uson/)
 - **Editorial:** Seix Barral 
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8432225185 / 9788432225185
 - **Publicación original:** 2015-10-14
 - **Ficha en Goodreads:** [Valor](https://www.goodreads.com/book/show/25820374-valor)

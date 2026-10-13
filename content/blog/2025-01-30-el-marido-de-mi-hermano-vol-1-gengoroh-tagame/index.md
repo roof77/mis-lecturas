@@ -1,5 +1,5 @@
 ---
-title: El marido de mi hermano, vol. 1
+title: '#705 · El marido de mi hermano, vol. 1'
 summary: Yaichi es un padre divorciado japonés muy tradicional y conservador que vive junto a su hija Kana en un barrio de
   Tokio. A su casa llega Mike Flanagan, un…
 date: '2025-01-30T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - LGTBIQ+
 - Queer
@@ -19,6 +18,7 @@ tags:
 - Adultos
 - Familia
 toc: false
+id: 705
 autores:
 - Gengoroh Tagame
 - Marc Bernabé
@@ -44,7 +44,7 @@ Yaichi es un padre divorciado japonés muy tradicional y conservador que vive ju
 - **Colaboradores:** [Marc Bernabé](/autores/marc-bernabe/) (translator)
 - **Editorial:** Panini Cómics
 - **Formato:** Paperback, 360 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8413342031 / 9788413342030
 - **Publicación original:** 2019-10-24
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Adultos](/tags/adultos/), [Familia](/tags/familia/)

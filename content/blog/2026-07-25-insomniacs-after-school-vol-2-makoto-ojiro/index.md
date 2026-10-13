@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 2
+title: '#902 · Insomniacs After School, vol. 2'
 summary: "Todo el mundo ha tenido una de esas noches en las que, por alguna razón, no puede pegar ojo...\r\n\r\nEscabullirte\
   \ en mitad de la noche para quedar con la chica o…"
 date: '2026-07-25T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Jovenes adultos
 - Novela gráfica
@@ -18,6 +17,7 @@ tags:
 - Contemporaneo
 - Seinen manga
 toc: false
+id: 902
 autores:
 - Makoto Ojiro
 - Óscar Tejero
@@ -47,7 +47,7 @@ En esta historia ambientada en Noto, dos estudiantes de secundaria, Isaki y Gant
 - **Colaboradores:** [Óscar Tejero](/autores/oscar-tejero/) (translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418788178 / 9788418788178
 - **Publicación original:** 2021-06-30
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Slice of life](/tags/slice-of-life/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Seinen manga](/tags/seinen-manga/)

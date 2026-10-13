@@ -1,5 +1,5 @@
 ---
-title: Los asesinos de la cola del gato sin vida
+title: '#758 · Los asesinos de la cola del gato sin vida'
 summary: En la antigua ciudad de Tal Abisi opera una organización de asesinos conocida como la Cola del Gato sin Vida. Sus
   miembros, profesionales hábiles y discretos…
 date: '2025-06-28T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ciencia Ficción
 - Alta fantasía
 toc: false
+id: 758
 autores:
 - P. Djèlí Clark
 - Raúl García Campos
@@ -47,7 +48,7 @@ P. Djèlí Clark, una de las revelaciones de la ficción especulativa de nuestro
 - **Colaboradores:** [Raúl García Campos](/autores/raul-garcia-campos/) (translator), [David G. Vaquero](/autores/david-g-vaquero/) (cover_art)
 - **Editorial:** Obscura Editorial, SL
 - **Formato:** Paperback, 214 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412928423 / 9788412928426
 - **Publicación original:** 2025-05-21
 - **Géneros:** [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/), [Misterio](/tags/misterio/), [Ciencia ficción](/tags/ciencia-ficcion/), [Mágia](/tags/magia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Alta fantasía](/tags/alta-fantasia/)

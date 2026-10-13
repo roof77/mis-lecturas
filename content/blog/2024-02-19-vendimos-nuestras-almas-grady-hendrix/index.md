@@ -1,5 +1,5 @@
 ---
-title: Vendimos nuestras almas
+title: '#622 · Vendimos nuestras almas'
 summary: "Un viaje épico hacia el corazón de un país paranoico dominado por las pastillas y las conspiraciones que parece\
   \ haber perdido su propia alma.\r\n\r\nTodas las…"
 date: '2024-02-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Sobrenatural
 - Contemporaneo
 toc: false
+id: 622
 autores:
 - Grady Hendrix
 autores_stats:
@@ -46,7 +47,7 @@ Kris se lanza a la carretera con la esperanza de reunir a Dürt Würk y enfrenta
 - **Autor:** [Grady Hendrix](/autores/grady-hendrix/)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445014897 / 9788445014899
 - **Publicación original:** 2024-01-17
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Música](/tags/musica/), [Paranormal](/tags/paranormal/), [Adultos](/tags/adultos/), [Thriller](/tags/thriller/), [Sobrenatural](/tags/sobrenatural/), [Contemporaneo](/tags/contemporaneo/)

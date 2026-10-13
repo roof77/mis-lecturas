@@ -1,6 +1,6 @@
 ---
-title: 'Odio 6: Miedo Y Asco En New Jersey / Hate 6: Fead and Loathing in New Jersey: Miedo Y Asco En New Jersey!/fear And
-  Loathing in New Jersey!'
+title: '#841 · Odio 6: Miedo Y Asco En New Jersey / Hate 6: Fead and Loathing in New Jersey: Miedo Y Asco En New Jersey!/fear
+  And Loathing in New Jersey!'
 summary: Collects an alternative comic from the 1990s that chronicles the misadventures and life experiences of Buddy Bradley,
   oldest son of America's most…
 date: '2026-05-20T23:59:58'
@@ -9,8 +9,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 841
 autores:
 - Peter Bagge
 - Hernán Migoya
@@ -37,7 +37,7 @@ Collects an alternative comic from the 1990s that chronicles the misadventures a
 - **Colaboradores:** [Hernán Migoya](/autores/hernan-migoya/) (Author)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 52 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1594971382 / 9781594971389
 - **Publicación original:** 2005-10-30
 - **Géneros:** [Comics](/tags/comics/)

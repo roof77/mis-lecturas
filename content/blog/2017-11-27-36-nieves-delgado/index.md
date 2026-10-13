@@ -1,5 +1,5 @@
 ---
-title: '36'
+title: '#278 · 36'
 summary: El nacimiento de una nueva Inteligencia Artificial en el CIDIA siempre es motivo de alegría. En el caso de la que
   ocupará el cuerpo número 36, la felicidad es…
 date: '2017-11-27T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Literatura hispana
 - Feminismo
 toc: false
+id: 278
 autores:
 - Nieves Delgado
 autores_stats:
@@ -37,7 +38,7 @@ Esta tercera edición incluye un prólogo de Javier Castañeda de la Torre, que 
 - **Autor:** [Nieves Delgado](/autores/nieves-delgado/)
 - **Editorial:** Editorial Cerbero
 - **Formato:** Paperback, 212 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494642251 / 9788494642258
 - **Publicación original:** 2017-03-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Feminismo](/tags/feminismo/)

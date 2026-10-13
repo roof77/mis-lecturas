@@ -1,5 +1,5 @@
 ---
-title: Ampliación del campo de batalla
+title: '#138 · Ampliación del campo de batalla'
 summary: Esta novela catapultada a la categoría de estandarte de una generación está protagonizada por un antihéroe que ha
   dejado de luchar, un ingeniero informático de…
 date: '2015-09-06T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Siglo XX
 - Ficción Literaria
 toc: false
+id: 138
 autores:
 - Michel Houellebecq
 - Encarna Castejón
@@ -42,7 +43,7 @@ Esta novela catapultada a la categoría de estandarte de una generación está p
 - **Colaboradores:** [Encarna Castejón](/autores/encarna-castejon/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Mass Market Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433966901 / 9788433966902
 - **Publicación original:** 2006-04-18
 - **Géneros:** [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Literatura](/tags/literatura/), [Contemporaneo](/tags/contemporaneo/), [Literatura francesa](/tags/literatura-francesa/), [Novela](/tags/novela/), [Filosofía](/tags/filosofia/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/)

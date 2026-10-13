@@ -1,5 +1,5 @@
 ---
-title: Horrorstör
+title: '#505 · Horrorstör'
 summary: Algo extraño está ocurriendo en la megatienda de muebles Orsk de Cleveland, Ohio. Cada mañana, al entrar, los empleado
   se encuentran estanterías Kjërring…
 date: '2021-11-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Fantasía
 - Fantasmas
 toc: false
+id: 505
 autores:
 - Grady Hendrix
 - Jaime Valero
@@ -46,7 +47,7 @@ Para desentrañar el misterio, tres empleados se presentan voluntarios para hace
 - **Colaboradores:** [Jaime Valero](/autores/jaime-valero/) (Translator)
 - **Editorial:** Colmena Ediciones
 - **Formato:** Paperback, 248 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415709757 / 9788415709756
 - **Publicación original:** 2014-10-01
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Paranormal](/tags/paranormal/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Fantasía](/tags/fantasia/), [Fantasmas](/tags/fantasmas/)

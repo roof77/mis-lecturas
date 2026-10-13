@@ -1,5 +1,5 @@
 ---
-title: Brooklyn
+title: '#401 · Brooklyn'
 summary: Ellis Lacey, original de un pequeño pueblo de Irlanda, no duda en aceptar un trabajo en América. Se abre paso en
   Brooklyn, superando la nostalgia y los rigores…
 date: '2019-08-16T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Nueva York
 - Ficción Literaria
 toc: false
+id: 401
 autores:
 - Colm Tóibín
 - Ana Andres Lleo
@@ -43,7 +44,7 @@ Ellis Lacey, original de un pequeño pueblo de Irlanda, no duda en aceptar un tr
 - **Colaboradores:** [Ana Andres Lleo](/autores/ana-andres-lleo/) (Translator)
 - **Editorial:** LUMEN
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8426417701 / 9788426417701
 - **Publicación original:** 2010-09-03
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Irlanda](/tags/irlanda/), [Romance](/tags/romance/), [Histórico](/tags/historico/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Nueva York](/tags/nueva-york/), [Ficción Literaria](/tags/ficcion-literaria/)

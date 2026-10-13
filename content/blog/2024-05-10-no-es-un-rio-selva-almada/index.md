@@ -1,5 +1,5 @@
 ---
-title: No es un río
+title: '#647 · No es un río'
 summary: Enero y el Negro llevan de pesca a Tilo, hijo adolescente de Eusebio, el amigo muerto. Mientras beben y cocinan y
   hablan y bailan, lidian con los fantasmas del…
 date: '2024-05-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Literatura latinoamericana
 toc: false
+id: 647
 autores:
 - Selva Almada
 autores_stats:
@@ -44,7 +45,7 @@ Con No es un río, Selva Almada completa su trilogía de varones, inaugurada con
 - **Autor:** [Selva Almada](/autores/selva-almada/)
 - **Editorial:** Random House
 - **Formato:** Kindle Edition, 104 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 987769123X / 9789877691238
 - **Publicación original:** 2020-09-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Novella](/tags/novella/), [Contemporaneo](/tags/contemporaneo/), [Literatura hispana](/tags/literatura-hispana/), [Latino américa](/tags/latino-america/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Literatura latinoamericana](/tags/literatura-latinoamericana/)

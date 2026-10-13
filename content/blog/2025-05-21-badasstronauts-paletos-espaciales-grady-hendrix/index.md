@@ -1,5 +1,5 @@
 ---
-title: 'Badasstronauts: Paletos espaciales'
+title: '#747 · Badasstronauts: Paletos espaciales'
 summary: "Una sátira brillante sobre la exploración espacial y el fracaso estadounidense.\r\n\r\nMelville, Carolina del Sur,\
   \ se ha quedado sin dinero, sin empleos, sin…"
 date: '2025-05-21T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Comedia
 toc: false
+id: 747
 autores:
 - Grady Hendrix
 autores_stats:
@@ -43,7 +44,7 @@ Borracho de vodka y viviendo en una «granja» donde la única cosecha son coche
 - **Autor:** [Grady Hendrix](/autores/grady-hendrix/)
 - **Editorial:** Minotauro
 - **Formato:** Kindle Edition, 163 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445020641 / 9788445020647
 - **Publicación original:** 2025-04-30
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Terror](/tags/terror/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Espacio](/tags/espacio/), [Adultos](/tags/adultos/), [Comedia](/tags/comedia/)

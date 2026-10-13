@@ -1,5 +1,5 @@
 ---
-title: El cuento de Navidad de Auggie Wren
+title: '#581 · El cuento de Navidad de Auggie Wren'
 summary: Relato, publicado en The New York Times en 1990. El director de cine Wayne Wang le propuso a Auster que escribiera
   el guión de una película. De esta…
 date: '2023-02-26T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Contemporaneo
 - Ficción adulta
 toc: false
+id: 581
 autores:
 - Paul Auster
 - Isol
@@ -42,7 +43,7 @@ Relato, publicado en The New York Times en 1990. El director de cine Wayne Wang 
 - **Colaboradores:** [Isol](/autores/isol/) (Illustrator), [Mariana Vera](/autores/mariana-vera/) (Translator)
 - **Editorial:** Sudamericana
 - **Formato:** Paperback, 32 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9500724502 / 9789500724500
 - **Publicación original:** 2003-01-01
 - **Géneros:** [Relatos](/tags/relatos/), [Navidad](/tags/navidad/), [Ficción](/tags/ficcion/), [EEUU](/tags/eeuu/), [Literatura](/tags/literatura/), [Vacaciones](/tags/vacaciones/), [Contemporaneo](/tags/contemporaneo/), [Ficción adulta](/tags/ficcion-adulta/)

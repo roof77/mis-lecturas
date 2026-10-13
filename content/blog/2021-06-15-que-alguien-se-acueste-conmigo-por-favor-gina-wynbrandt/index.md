@@ -1,5 +1,5 @@
 ---
-title: Que alguien se acueste conmigo, por favor
+title: '#467 · Que alguien se acueste conmigo, por favor'
 summary: Ligues fallidos, cibersexo con final infeliz, obsesiones bizarras con Justin Bieber, hadas madrinas Kardashian, sexo
   con Pokémons y pandillas de gatos malotes…
 date: '2021-06-15T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Humor
 - Sexualidad
 - Memorias
 - No Ficción
 - Mujeres
 toc: false
+id: 467
 autores:
 - Gina Wynbrandt
 autores_stats:
@@ -40,7 +40,7 @@ Tras plantar el campamento base en un territorio surreal y desternillante donde 
 - **Autor:** [Gina Wynbrandt](/autores/gina-wynbrandt/)
 - **Editorial:** Reservoir Books
 - **Formato:** Paperback, 144 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841670936X / 9788416709366
 - **Publicación original:** 2017-01-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Humor](/tags/humor/), [Sexualidad](/tags/sexualidad/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Mujeres](/tags/mujeres/)

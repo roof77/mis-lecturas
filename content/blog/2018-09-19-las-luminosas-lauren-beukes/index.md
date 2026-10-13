@@ -1,5 +1,5 @@
 ---
-title: Las luminosas
+title: '#360 · Las luminosas'
 summary: 'Chicago, 1931. Harper Curtis, un vagabundo violento, se topa con una casa que oculta un sorprendente secreto: es
   la puerta que lo traslada a otros momentos del…'
 date: '2018-09-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Fantasía
 - Club de lectura
 toc: false
+id: 360
 autores:
 - Lauren Beukes
 - Pilar Ramírez Tello
@@ -44,7 +45,7 @@ Chicago, 1992. La vida de Kirby Mazrachi se ha trastocado tras el brutal intento
 - **Colaboradores:** [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Translator)
 - **Editorial:** RBA
 - **Formato:** Paperback, 416 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788490066621
 - **Publicación original:** 2013-09-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Ciencia ficción](/tags/ciencia-ficcion/), [Crimen](/tags/crimen/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/)

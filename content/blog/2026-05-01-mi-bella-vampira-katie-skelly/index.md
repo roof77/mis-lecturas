@@ -1,5 +1,5 @@
 ---
-title: Mi bella vampira
+title: '#829 · Mi bella vampira'
 summary: La preciosa y rubia Clover -a medio camino entre Barbarella y Brigitte Bardot- sueña con la chica que fue una vez
   antes de ser convertida en vampira. Atrapada…
 date: '2026-05-01T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Terror
@@ -17,6 +16,7 @@ tags:
 - Adultos
 - Mujeres
 toc: false
+id: 829
 autores:
 - Katie Skelly
 - Julia Osuna Aguilar
@@ -42,7 +42,7 @@ La preciosa y rubia Clover -a medio camino entre Barbarella y Brigitte Bardot- s
 - **Colaboradores:** [Julia Osuna Aguilar](/autores/julia-osuna-aguilar/) (Translator)
 - **Editorial:** SAPRISTI
 - **Formato:** Kindle Edition, 106 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412417755 / 9788412417753
 - **Publicación original:** 2022-03-17
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Vampiros](/tags/vampiros/), [Ficción](/tags/ficcion/), [Adultos](/tags/adultos/), [Mujeres](/tags/mujeres/)

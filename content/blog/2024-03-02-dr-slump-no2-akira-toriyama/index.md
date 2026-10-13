@@ -1,5 +1,5 @@
 ---
-title: Dr. Slump Nº2
+title: '#625 · Dr. Slump Nº2'
 summary: Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de
   Villa Pingüino. Pero eso no es nada…
 date: '2024-03-02T23:59:59'
@@ -9,9 +9,9 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Humor
 toc: false
+id: 625
 autores:
 - Akira Toriyama
 autores_stats:
@@ -37,7 +37,7 @@ Dr. Slump es la obra más delirante de Akira Toriyama, el creador de Dragon Ball
 - **Serie:** Dr.スランプ [Dr. Slump] (#2)
 - **Editorial:** Planeta DeAgostini
 - **Formato:** Paperback, 250 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467483091 / 9788467483093
 - **Publicación original:** 2009-01-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Humor](/tags/humor/)

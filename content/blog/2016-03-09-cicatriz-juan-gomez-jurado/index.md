@@ -1,5 +1,5 @@
 ---
-title: Cicatriz
+title: '#181 · Cicatriz'
 summary: "Una historia absolutamente adictiva firmada por el autor español de thriller más leído en todo el mundo.\r\n\r\n\
   Simon Sax podría ser un tipo afortunado. Es joven…"
 date: '2016-03-09T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Misterio
 - Novela
 toc: false
+id: 181
 autores:
 - Juan Gómez-Jurado
 autores_stats:
@@ -49,7 +50,7 @@ Simon Sax podría ser un tipo afortunado. Es joven, listo y está punto de conve
 - **Serie:** Universo Reina Roja (#2)
 - **Editorial:** Ediciones B
 - **Formato:** Hardcover, 576 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8466657991 / 9788466657990
 - **Publicación original:** 2015-11-18
 - **Géneros:** [Thriller](/tags/thriller/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Suspense](/tags/suspense/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Novela](/tags/novela/)

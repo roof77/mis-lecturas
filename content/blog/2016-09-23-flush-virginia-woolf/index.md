@@ -1,5 +1,5 @@
 ---
-title: Flush
+title: '#208 · Flush'
 summary: Flush es un cocker spaniel de orejas largas, cola ancha y unos «ojos atónitos color avellana». A los pocos meses
   de su nacimiento es regalado a la famosa…
 date: '2016-09-23T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Histórico
 - Ficción Literaria
 toc: false
+id: 208
 autores:
 - Virginia Woolf
 autores_stats:
@@ -41,7 +42,7 @@ Flush es un cocker spaniel de orejas largas, cola ancha y unos «ojos atónitos 
 - **Autor:** [Virginia Woolf](/autores/virginia-woolf/)
 - **Editorial:** Ediciones Destino
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788423342761
 - **Publicación original:** 2003-05-20
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Animales](/tags/animales/), [Ficción histórica](/tags/ficcion-historica/), [Perros](/tags/perros/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/), [Literatura británica](/tags/literatura-britanica/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/)

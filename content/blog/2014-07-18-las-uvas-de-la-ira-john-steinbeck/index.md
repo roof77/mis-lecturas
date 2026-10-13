@@ -1,5 +1,5 @@
 ---
-title: Las uvas de la ira
+title: '#53 · Las uvas de la ira'
 summary: Distinguida con el Premio Pulitzer en 1940, Las uvas de la ira describe el drama de la emigración de los componentes
   de la familia Joad, que, obligados por el…
 date: '2014-07-18T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura clásica
 - Libros prohibidos
 toc: false
+id: 53
 autores:
 - John Steinbeck
 - María Coy Girón
@@ -45,7 +46,7 @@ John Steinbeck (1902-1968) realizó diversos oficios (peón agrícola, empleado 
 - **Colaboradores:** [María Coy Girón](/autores/maria-coy-giron/) (Translator)
 - **Editorial:** Alianza
 - **Formato:** Paperback, 688 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420667250 / 9788420667256
 - **Publicación original:** 2008-02-27
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Colegio](/tags/colegio/), [Histórico](/tags/historico/), [EEUU](/tags/eeuu/), [Literatura clásica](/tags/literatura-clasica/), [Libros prohibidos](/tags/libros-prohibidos/)

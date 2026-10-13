@@ -1,5 +1,5 @@
 ---
-title: El hombre en el castillo
+title: '#97 · El hombre en el castillo'
 summary: La Segunda Guerra Mundial ha terminado en 1947, siendo los Aliados derrotados por el Eje. Los Estados Unidos han
   sido invadidos y consecuentemente divididos…
 date: '2015-03-05T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Ciencia Ficción
 toc: false
+id: 97
 autores:
 - Philip K. Dick
 - Manuel Figueroa
@@ -48,7 +49,7 @@ La trama gira alrededor de tres cuestiones que se tocan por momentos: el comerci
 - **Colaboradores:** [Manuel Figueroa](/autores/manuel-figueroa/) (translator)
 - **Editorial:** Minotauro 
 - **Formato:** Paperback, 261 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445075616 / 9788445075616
 - **Publicación original:** 2005-02-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Distopía](/tags/distopia/), [Ucronía](/tags/ucronia/), [Ficción histórica](/tags/ficcion-historica/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/), [Ciencia Ficción](/tags/ciencia-ficcion/)

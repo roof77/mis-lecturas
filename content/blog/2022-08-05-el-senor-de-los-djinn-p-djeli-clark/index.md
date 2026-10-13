@@ -1,5 +1,5 @@
 ---
-title: El señor de los djinn
+title: '#557 · El señor de los djinn'
 summary: "El Señor de los Djinn ha recibido el premio Nebula a mejor novela en 2021, el premio Locus como mejor primera novela\
   \ y el premio Alex.\r\n\r\nNadie mejor que Fatma…"
 date: '2022-08-05T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - LGTBIQ+
 - Ciencia ficción
 toc: false
+id: 557
 autores:
 - P. Djèlí Clark
 - Rebeca Cardeñoso
@@ -52,7 +53,7 @@ Este volumen contiene Muerte de un djinn en El Cairo, el primer relato ambientad
 - **Colaboradores:** [Rebeca Cardeñoso](/autores/rebeca-cardenoso/) (Translator), [Sofía Sanz](/autores/sofia-sanz/) (Illustrator)
 - **Editorial:** Duermevela
 - **Formato:** Paperback, 523 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788412572 / 9788412572506
 - **Publicación original:** 2022-07-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Steampunk](/tags/steampunk/), [Misterio](/tags/misterio/), [Queer](/tags/queer/), [Histórico](/tags/historico/), [LGTBIQ+](/tags/lgtbiq/), [Ciencia ficción](/tags/ciencia-ficcion/)

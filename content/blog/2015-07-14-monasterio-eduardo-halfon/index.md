@@ -1,5 +1,5 @@
 ---
-title: Monasterio
+title: '#126 · Monasterio'
 summary: Agotados tras quince horas de vuelo, dos jóvenes guatemaltecos esperan sus maletas en el aeropuerto Ben Gurión de
   Tel Aviv. Viajan a Jerusalén para asistir a…
 date: '2015-07-14T23:59:59'
@@ -14,6 +14,7 @@ tags:
 - Literatura
 - Latino américa
 toc: false
+id: 126
 autores:
 - Eduardo Halfon
 autores_stats:
@@ -36,7 +37,7 @@ Agotados tras quince horas de vuelo, dos jóvenes guatemaltecos esperan sus male
 - **Autor:** [Eduardo Halfon](/autores/eduardo-halfon/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Kindle Edition, 58 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2014-05-19
 - **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [Latino américa](/tags/latino-america/)
 - **Nominaciones:** BTBA Best Translated Book Award (2015)

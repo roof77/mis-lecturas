@@ -1,5 +1,5 @@
 ---
-title: El caso David Zimmerman
+title: '#931 · El caso David Zimmerman'
 summary: David Zimmerman es un fotógrafo treintañero, tímido y asocial, que vive en París. La noche del 31 de diciembre, se
   deja llevar a una gran fiesta por su único…
 date: '2026-09-06T23:59:59'
@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Francia
 - Novela gráfica
 - Siglo XXI
 toc: false
+id: 931
 autores:
 - Lucas Harari
 - Arthur Harari
@@ -43,7 +43,7 @@ Su hermano, Arthur Harari, con quien firma 'El caso David Zimmerman', es el cogu
 - **Colaboradores:** [Arthur Harari](/autores/arthur-harari/) (Author), [Rubén Lardín](/autores/ruben-lardin/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Hardcover, 360 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410332442 / 9788410332447
 - **Publicación original:** 2025-06-05
 - **Géneros:** [Comics](/tags/comics/), [Francia](/tags/francia/), [Novela gráfica](/tags/novela-grafica/), [Siglo XXI](/tags/siglo-xxi/)

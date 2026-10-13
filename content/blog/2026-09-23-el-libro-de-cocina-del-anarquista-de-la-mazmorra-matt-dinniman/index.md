@@ -1,5 +1,5 @@
 ---
-title: El libro de cocina del anarquista de la mazmorra
+title: '#933 · El libro de cocina del anarquista de la mazmorra'
 summary: "¿Con ganas de más?\r\n\r\n¡Perfecto! El tercer volumen de la saga de Carl te volará la cabeza.\r\n\r\nCarl y Donut\
   \ han logrado sobrevivir hasta ahora, pero este nivel…"
 date: '2026-09-23T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Comedia
 - Adultos
 toc: false
+id: 933
 autores:
 - Matt Dinniman
 - David Tejera Expósito
@@ -49,7 +50,7 @@ La Maraña de Hierro: un sistema de metro absurdamente complejo, hecho un nudo d
 - **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Paperback, 544 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410466163 / 9788410466166
 - **Publicación original:** 2026-01-15
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Litrpg](/tags/litrpg/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Distopía](/tags/distopia/), [Aventuras](/tags/aventuras/), [Comedia](/tags/comedia/), [Adultos](/tags/adultos/)

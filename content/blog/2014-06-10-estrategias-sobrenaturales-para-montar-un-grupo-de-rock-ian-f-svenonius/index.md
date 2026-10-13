@@ -1,5 +1,5 @@
 ---
-title: Estrategias Sobrenaturales Para Montar Un Grupo De Rock
+title: '#39 · Estrategias Sobrenaturales Para Montar Un Grupo De Rock'
 summary: "Pero qué tienen que ver...\r\n\r\n¿Los Beatles con los dibujos animados propagandísticos de la URSS?\r\n¿Los Latin\
   \ Kings con los Sex Pistols?\r\n¿La toma del Palacio…"
 date: '2014-06-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Contracultura
 - Ensayo
 toc: false
+id: 39
 autores:
 - Ian F. Svenonius
 autores_stats:
@@ -56,7 +57,7 @@ Solo Ian Svenonius, el reverendo del underground mundial, el timonel de la indep
 - **Autor:** [Ian F. Svenonius](/autores/ian-f-svenonius/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 227 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494224735 / 9788494224737
 - **Publicación original:** 2014-05-07
 - **Géneros:** [Música](/tags/musica/), [No Ficción](/tags/no-ficcion/), [Filosofía](/tags/filosofia/), [Humor](/tags/humor/), [Política](/tags/politica/), [Psicología](/tags/psicologia/), [Siglo XXI](/tags/siglo-xxi/), [Contracultura](/tags/contracultura/), [Ensayo](/tags/ensayo/)

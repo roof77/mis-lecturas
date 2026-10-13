@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 11
+title: '#911 · Insomniacs After School, vol. 11'
 summary: "Su primer invierno como estudiantes de bachillerato avanza tranquilamente. Además, las chicas se reúnen en casa\
   \ de Nono.\r\n\r\nGanta cumple 16 años y pasa de…"
 date: '2026-08-06T23:59:56'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Slice of life
 - Seinen manga
@@ -18,6 +17,7 @@ tags:
 - Novela gráfica
 - Ficción
 toc: false
+id: 911
 autores:
 - Makoto Ojiro
 - Sergi Pérez
@@ -47,7 +47,7 @@ Ganta e Isaki hablan de su futuro. Y llega su segunda primavera.
 - **Colaboradores:** [Sergi Pérez](/autores/sergi-perez/) (Translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419914010 / 9788419914019
 - **Publicación original:** 2023-06-28
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Slice of life](/tags/slice-of-life/), [Seinen manga](/tags/seinen-manga/), [Jovenes adultos](/tags/jovenes-adultos/), [Contemporaneo](/tags/contemporaneo/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/)

@@ -1,5 +1,5 @@
 ---
-title: Un verdor terrible
+title: '#457 · Un verdor terrible'
 summary: "La aventura de la ciencia convertida en literatura. Un libro inclasificable y poderosamente seductor.\r\n\r\nLas\
   \ narraciones incluidas en este libro singular y…"
 date: '2021-04-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Club de lectura
 toc: false
+id: 457
 autores:
 - Benjamín Labatut
 autores_stats:
@@ -46,7 +47,7 @@ La literatura explora la ciencia, la ciencia se convierte en literatura. Benjam�
 - **Autor:** [Benjamín Labatut](/autores/benjamin-labatut/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 213 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2020-04-01
 - **Géneros:** [Ciencia](/tags/ciencia/), [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Filosofía](/tags/filosofia/), [Relatos](/tags/relatos/), [Ensayo](/tags/ensayo/), [Física](/tags/fisica/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/)
 - **Premios ganados:** National Book Award Finalist (2021), Premio Municipal de Literatura de Santiago (2021)

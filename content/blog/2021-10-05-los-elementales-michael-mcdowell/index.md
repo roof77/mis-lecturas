@@ -1,5 +1,5 @@
 ---
-title: Los elementales
+title: '#499 · Los elementales'
 summary: Después de un extraño incidente en el funeral de la matriarca Marian, las familias McCray y Savage esperan un tranquilo
   verano en la costa del golfo de…
 date: '2021-10-05T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Fantasmas
 - Thriller
 toc: false
+id: 499
 autores:
 - Michael McDowell
 - Teresa Arijón
@@ -46,7 +47,7 @@ Admirada como joya del terror, Los Elementales es también considerada una obra 
 - **Colaboradores:** [Teresa Arijón](/autores/teresa-arijon/) (Translator)
 - **Editorial:** Buenos Aires: La Bestia Equilátera
 - **Formato:** Perfect Paperback, 312 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9509749257 / 9789509749252
 - **Publicación original:** 2017-11-01
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Paranormal](/tags/paranormal/), [Gótico sureño](/tags/gotico-sureno/), [Fantasía](/tags/fantasia/), [Sobrenatural](/tags/sobrenatural/), [Fantasmas](/tags/fantasmas/), [Thriller](/tags/thriller/)

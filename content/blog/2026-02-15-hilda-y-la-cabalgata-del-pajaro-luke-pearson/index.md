@@ -1,5 +1,5 @@
 ---
-title: Hilda y la cabalgata del pájaro
+title: '#801 · Hilda y la cabalgata del pájaro'
 summary: Luke Pearson, en la última entrega de Hilda, traslada a la niña a la ciudad de Trölberg, donde los temores de su
   madre por los peligros de la ciudad no le…
 date: '2026-02-15T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Niños
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Juvenil
 - Animales
 toc: false
+id: 801
 autores:
 - Luke Pearson
 autores_stats:
@@ -45,7 +45,7 @@ La verdadera historia de esta misteriosa ave será revelada en la Cabalgata del 
 - **Serie:** Hilda (#3)
 - **Editorial:** Barbara Fiore
 - **Formato:** Hardcover, 44 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415208537 / 9788415208532
 - **Publicación original:** 2014-01-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Niños](/tags/ninos/), [Ficción](/tags/ficcion/), [Aventuras](/tags/aventuras/), [Juvenil](/tags/juvenil/), [Animales](/tags/animales/)

@@ -1,5 +1,5 @@
 ---
-title: El cielo de piedra
+title: '#374 · El cielo de piedra'
 summary: "La autora que ha hecho historia al ganar tres Premios Hugo consecutivos a la mejor novela.\r\n\r\nLa Luna volverá\
   \ pronto. Que su regreso proclame la destrucción…"
 date: '2019-01-30T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Mágia
 - Ficción especulativa
 toc: false
+id: 374
 autores:
 - N.K. Jemisin
 - David Tejera Expósito
@@ -47,7 +48,7 @@ N.  K.  Jemisin  ha  ganado  los  premios  Hugo  2016,  2017 y 2018 a la mejor n
 - **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Paperback, 398 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417347305 / 9788417347307
 - **Publicación original:** 2019-01-10
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/), [Postapocalíptico](/tags/postapocaliptico/), [Mágia](/tags/magia/), [Ficción especulativa](/tags/ficcion-especulativa/)

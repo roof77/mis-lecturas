@@ -1,5 +1,5 @@
 ---
-title: Barrio Lejano Tomo 2
+title: '#724 · Barrio Lejano Tomo 2'
 summary: Hiroshi, un padre de familia de 48 años, se siente transportado al adolescente que fue a los 14 años. En este segundo
   volumen prosigue el redescubrimiento de…
 date: '2025-03-19T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Japón
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Literatura japanesa
 - Seinen manga
 toc: false
+id: 724
 autores:
 - Jirō Taniguchi
 - Frédéric Boilet
@@ -44,7 +44,7 @@ Hiroshi, un padre de familia de 48 años, se siente transportado al adolescente 
 - **Colaboradores:** [Frédéric Boilet](/autores/frederic-boilet/) (Adaptor), [M. Barrera](/autores/m-barrera/) (Translator), [Keiko Suzuki](/autores/keiko-suzuki/) (Translator)
 - **Editorial:** Ponent Mon
 - **Formato:** Paperback, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493309362 / 9788493309367
 - **Publicación original:** 2003-09-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Literatura japanesa](/tags/literatura-japanesa/), [Seinen manga](/tags/seinen-manga/)

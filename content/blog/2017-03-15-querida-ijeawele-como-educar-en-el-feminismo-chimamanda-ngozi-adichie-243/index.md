@@ -1,5 +1,5 @@
 ---
-title: Querida Ijeawele. Cómo educar en el feminismo
+title: '#243 · Querida Ijeawele. Cómo educar en el feminismo'
 summary: El feminismo empieza en la educación. Con su voz cálida y directa,  Chimamanda Ngozi Adichie dirige esta emotiva
   carta a una joven madre que  acaba de dar a…
 date: '2017-03-15T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Nigeria
 - Política
 toc: false
+id: 243
 autores:
 - Chimamanda Ngozi Adichie
 - Cruz Rodríguez Juiz
@@ -42,7 +43,7 @@ El feminismo empieza en la educación. Con su voz cálida y directa,  Chimamanda
 - **Colaboradores:** [Cruz Rodríguez Juiz](/autores/cruz-rodriguez-juiz/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 89 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439732708 / 9788439732709
 - **Publicación original:** 2017-03-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Ensayo](/tags/ensayo/), [Mujeres](/tags/mujeres/), [Paternidad](/tags/paternidad/), [África](/tags/africa/), [Adultos](/tags/adultos/), [Nigeria](/tags/nigeria/), [Política](/tags/politica/)

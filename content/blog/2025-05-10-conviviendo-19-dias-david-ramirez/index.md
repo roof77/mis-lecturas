@@ -1,5 +1,5 @@
 ---
-title: Conviviendo 19 días
+title: '#743 · Conviviendo 19 días'
 summary: "Una historia de amor y humor en tiempos de pandemia.\r\n\r\nDavid Ramírez nos abre una ventana a su vida para narrarnos\
   \ cómo esta da un vuelco cuando su marido…"
 date: '2025-05-10T23:59:59'
@@ -8,10 +8,10 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - No Ficción
 - LGTBIQ+
 toc: false
+id: 743
 autores:
 - David Ramírez
 autores_stats:
@@ -38,7 +38,7 @@ Un cómic repleto de amor, risas y sentimientos a flor de piel que el autor publ
 - **Autor:** [David Ramírez](/autores/david-ramirez/)
 - **Editorial:** Norma Editorial
 - **Formato:** Hardcover, 184 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467943939 / 9788467943931
 - **Publicación original:** 2020-12-11
 - **Géneros:** [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [LGTBIQ+](/tags/lgtbiq/)

@@ -1,5 +1,5 @@
 ---
-title: Corre, Conejo
+title: '#61 · Corre, Conejo'
 summary: Parece ya muy antigua la leyenda del hombre que sale un día de casa a buscar tabaco y decide no volver. Pues bien,
   se remonta tan sólo a 1960, año en que…
 date: '2014-08-22T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Siglo XX
 - Contemporaneo
 toc: false
+id: 61
 autores:
 - John Updike
 - Jordi Fibla
@@ -44,7 +45,7 @@ Parece ya muy antigua la leyenda del hombre que sale un día de casa a buscar ta
 - **Colaboradores:** [Jordi Fibla](/autores/jordi-fibla/) (Translator)
 - **Editorial:** Maxi-Tusquets
 - **Formato:** Mass Market Paperback, 368 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483105039 / 9788483105030
 - **Publicación original:** 1996-10-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [EEUU](/tags/eeuu/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Libros prohibidos](/tags/libros-prohibidos/), [Siglo XX](/tags/siglo-xx/), [Contemporaneo](/tags/contemporaneo/)

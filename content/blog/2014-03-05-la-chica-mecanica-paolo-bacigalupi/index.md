@@ -1,5 +1,5 @@
 ---
-title: La chica mecánica
+title: '#16 · La chica mecánica'
 summary: Anderson Lake es el hombre de confianza de AgriGen en Tailandia, un reino cerrado a los extranjeros para proteger
   sus preciadas reservas ecológicas. Su empleo…
 date: '2014-03-05T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción especulativa
 - Club de lectura
 toc: false
+id: 16
 autores:
 - Paolo Bacigalupi
 - Manuel de los Reyes
@@ -48,7 +49,7 @@ Paolo Bacigalupi nos lleva al siglo XXII, un mundo donde el cambio climático ya
 - **Colaboradores:** [Manuel de los Reyes](/autores/manuel-de-los-reyes/) (Traductor)
 - **Editorial:** Plaza & Janés
 - **Formato:** Hardcover, 538 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8401339405 / 9788401339400
 - **Publicación original:** 2011-06-03
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Steampunk](/tags/steampunk/), [Fantasía](/tags/fantasia/), [Cyberpunk](/tags/cyberpunk/), [Postapocalíptico](/tags/postapocaliptico/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Ficción especulativa](/tags/ficcion-especulativa/), [Club de lectura](/tags/club-de-lectura/)

@@ -1,5 +1,5 @@
 ---
-title: Piranesi
+title: '#510 · Piranesi'
 summary: 'La casa de Piranesi no es un edificio cualquiera: sus habitaciones son monumentales, con paredes llenas de miles
   de estatuas, y sus pasillos, interminables…'
 date: '2021-12-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Adultos
 toc: false
+id: 510
 autores:
 - Susanna Clarke
 - Antonio Padilla Esteban
@@ -42,7 +43,7 @@ La casa de Piranesi no es un edificio cualquiera: sus habitaciones son monumenta
 - **Colaboradores:** [Antonio Padilla Esteban](/autores/antonio-padilla-esteban/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 272 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418363282 / 9788418363283
 - **Publicación original:** 2021-09-16
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Realismo mágico](/tags/realismo-magico/), [Club de lectura](/tags/club-de-lectura/), [Mitología](/tags/mitologia/), [Dark Academia](/tags/dark-academia/), [Ficción Literaria](/tags/ficcion-literaria/), [Adultos](/tags/adultos/)

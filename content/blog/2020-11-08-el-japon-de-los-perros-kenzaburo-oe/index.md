@@ -1,5 +1,5 @@
 ---
-title: El Japón de los perros
+title: '#446 · El Japón de los perros'
 summary: Desde Ryūnosuke Akutagawa, maestro indiscutible del relato breve, al premio nobel Kenzaburo Ōe; desde la irreverencia
   de Yasutaka Tsutsui a las novísimas voces…
 date: '2020-11-08T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Relatos
 toc: false
+id: 446
 autores:
 - Kenzaburō Ōe
 - Yōko Tawada
@@ -53,7 +54,7 @@ Desde Ryūnosuke Akutagawa, maestro indiscutible del relato breve, al premio nob
 - **Colaboradores:** [Yōko Tawada](/autores/yoko-tawada/) (Author), [Yukiko Motoya](/autores/yukiko-motoya/) (Author), [Yasutaka Tsutsui](/autores/yasutaka-tsutsui/) (Author), [Yumiko Kurahashi](/autores/yumiko-kurahashi/) (Author), [Akiko Yosano](/autores/akiko-yosano/) (Author), [Ryūnosuke Akutagawa](/autores/ryunosuke-akutagawa/) (Author), [Masaoka Shiki](/autores/masaoka-shiki/) (Author), [Kizen Sasaki](/autores/kizen-sasaki/) (Author), [Jun Takami](/autores/jun-takami/) (Author), [Roan Uchida](/autores/roan-uchida/) (Author)
 - **Editorial:** Satori
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417419411 / 9788417419417
 - **Publicación original:** 2020-06-08
 - **Géneros:** [Relatos](/tags/relatos/)

@@ -1,5 +1,5 @@
 ---
-title: La sociedad literaria y el pastel de piel de patata de Guernsey
+title: '#303 · La sociedad literaria y el pastel de piel de patata de Guernsey'
 summary: 'Enero de 1946: Londres emerge de las sombras de la segunda guerra mundial. La escritora Juliet Ashton encuentra
   la carta de un desconocido, un nativo de la…'
 date: '2018-04-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Libros sobre libros
 - Adultos
 toc: false
+id: 303
 autores:
 - Mary Ann Shaffer
 - Annie Barrows
@@ -46,7 +47,7 @@ Esta novela ostenta una galería de personajes profundamente peculiares, todos a
 - **Colaboradores:** [Annie Barrows](/autores/annie-barrows/) (Author), [Sandra Campos](/autores/sandra-campos/) (Translator)
 - **Editorial:** RBA Libros
 - **Formato:** Paperback, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849867395X / 9788498673951
 - **Publicación original:** 2009-01-01
 - **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Romance](/tags/romance/), [Histórico](/tags/historico/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Guerra](/tags/guerra/), [Libros sobre libros](/tags/libros-sobre-libros/), [Adultos](/tags/adultos/)

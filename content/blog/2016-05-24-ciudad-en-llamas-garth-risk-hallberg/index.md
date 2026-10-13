@@ -1,5 +1,5 @@
 ---
-title: Ciudad en llamas
+title: '#194 · Ciudad en llamas'
 summary: "Un himno a la ciudad de Nueva York, un homenaje a los años setenta, una novela coral al más puro estilo americano.\r\
   \n\r\nWilliam Hamilton-Sweeney y su hermana…"
 date: '2016-05-24T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Literatura
 toc: false
+id: 194
 autores:
 - Garth Risk Hallberg
 - Cruz Rodríguez Juiz
@@ -46,7 +47,7 @@ Ciudad en llamas, novela debut de Garth Risk Hallberg, ha sido seleccionado como
 - **Colaboradores:** [Cruz Rodríguez Juiz](/autores/cruz-rodriguez-juiz/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 984 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439731167 / 9788439731160
 - **Publicación original:** 2016-03-10
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Nueva York](/tags/nueva-york/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Histórico](/tags/historico/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Literatura](/tags/literatura/)

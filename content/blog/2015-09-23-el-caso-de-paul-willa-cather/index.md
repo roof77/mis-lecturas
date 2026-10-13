@@ -1,5 +1,5 @@
 ---
-title: El caso de Paul
+title: '#143 · El caso de Paul'
 summary: Considered one of the best works of American literature of all time, this book explores the contradictions of many
   young people with an artistic vocation who…
 date: '2015-09-23T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - LGTBIQ+
 - Universidad
 toc: false
+id: 143
 autores:
 - Willa Cather
 - Aurora Echeverria
@@ -46,7 +47,7 @@ Considerada una de las mejores obras de literatura estadounidense, esta novela e
 - **Colaboradores:** [Aurora Echeverria](/autores/aurora-echeverria/) (Translator)
 - **Editorial:** Nordica Libros
 - **Formato:** Paperback, 72 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492683279 / 9788492683277
 - **Publicación original:** 2010-09-01
 - **Géneros:** [Relatos](/tags/relatos/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Colegio](/tags/colegio/), [EEUU](/tags/eeuu/), [Literatura](/tags/literatura/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Universidad](/tags/universidad/)

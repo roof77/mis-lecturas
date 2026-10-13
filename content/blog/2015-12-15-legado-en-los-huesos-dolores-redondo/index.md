@@ -1,5 +1,5 @@
 ---
-title: Legado en los huesos
+title: '#158 · Legado en los huesos'
 summary: "Más emoción, más tensión, más revelaciones en la esperada segunda entrega de la trilogía del Baztán. \r\nEl juicio\
   \ contra el padrastro de la joven Johana Márquez…"
 date: '2015-12-15T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Suspense
 - Fantasía
 toc: false
+id: 158
 autores:
 - Dolores Redondo
 autores_stats:
@@ -41,7 +42,7 @@ El juicio contra el padrastro de la joven Johana Márquez está a punto de comen
 - **Serie:** Trilogía del Baztán (#2)
 - **Editorial:** Destino
 - **Formato:** Paperback, 560 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8423347451 / 9788423347452
 - **Publicación original:** 2013-11-19
 - **Géneros:** [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Suspense](/tags/suspense/), [Fantasía](/tags/fantasia/)

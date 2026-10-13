@@ -1,5 +1,5 @@
 ---
-title: El maestro Juan Martínez que estaba allí
+title: '#751 · El maestro Juan Martínez que estaba allí'
 summary: Después de triunfar en los cabarets de media Europa, el bailarín flamenco Juan Martínez, y su compañera, Sole, fueron
   sorprendidos en Rusia por los…
 date: '2025-05-31T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - España
 - Ficción histórica
 toc: false
+id: 751
 autores:
 - Manuel Chaves Nogales
 - Andrés Trapiello
@@ -37,7 +38,7 @@ Después de triunfar en los cabarets de media Europa, el bailarín flamenco Juan
 - **Colaboradores:** [Andrés Trapiello](/autores/andres-trapiello/) (Contributor)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493501867 / 9788493501860
 - **Publicación original:** 2007-02-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Rusia](/tags/rusia/), [España](/tags/espana/), [Ficción histórica](/tags/ficcion-historica/)

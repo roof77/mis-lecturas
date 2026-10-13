@@ -1,5 +1,5 @@
 ---
-title: Un trabajo muy sucio
+title: '#201 · Un trabajo muy sucio'
 summary: Charlie Asher es dueño de un edificio en San Francisco, tiene una tienda de objetos de segunda mano y está casado
   con una mujer guapa e inteligente que lo…
 date: '2016-08-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Sobrenatural
 - Club de lectura
 toc: false
+id: 201
 autores:
 - Christopher Moore
 - Victoria E. Horrillo Ledesma
@@ -43,7 +44,7 @@ Charlie Asher es dueño de un edificio en San Francisco, tiene una tienda de obj
 - **Colaboradores:** [Victoria E. Horrillo Ledesma](/autores/victoria-e-horrillo-ledesma/) (translator)
 - **Editorial:** LA FACTORÍA DE IDEAS
 - **Formato:** Paperback, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498003512 / 9788498003512
 - **Publicación original:** 2007-01-01
 - **Géneros:** [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Comedia](/tags/comedia/), [Paranormal](/tags/paranormal/), [Fantasía urbana](/tags/fantasia-urbana/), [Terror](/tags/terror/), [Sobrenatural](/tags/sobrenatural/), [Club de lectura](/tags/club-de-lectura/)

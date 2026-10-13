@@ -1,5 +1,5 @@
 ---
-title: 'A sangre y fuego: Héroes, bestias y mártires de España'
+title: '#22 · A sangre y fuego: Héroes, bestias y mártires de España'
 summary: Los relatos que componen este libro están considerados por muchos como lo mejor que se ha escrito en España sobre
   nuestra guerra civil. Redactados entre 1936 y…
 date: '2014-03-23T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Guerra civil española
 - Política
 toc: false
+id: 22
 autores:
 - Manuel Chaves Nogales
 autores_stats:
@@ -41,7 +42,7 @@ Los relatos que componen este libro están considerados por muchos como lo mejor
 - **Autor:** [Manuel Chaves Nogales](/autores/manuel-chaves-nogales/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 316 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841562557X / 9788415625575
 - **Publicación original:** 2013-07-13
 - **Géneros:** [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Guerra](/tags/guerra/), [Histórico](/tags/historico/), [Relatos](/tags/relatos/), [Periodismo](/tags/periodismo/), [Guerra civil española](/tags/guerra-civil-espanola/), [Política](/tags/politica/)

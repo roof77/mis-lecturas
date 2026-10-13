@@ -1,5 +1,5 @@
 ---
-title: Los peligros de fumar en la cama
+title: '#458 · Los peligros de fumar en la cama'
 summary: Una niña desentierra en el jardín unos huesos que resultan no ser de un animal; la bucólica escena veraniega de unas
   chicas que se bañan en un paraje natural…
 date: '2021-04-28T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Colección de relatos
 - Adultos
 toc: false
+id: 458
 autores:
 - Mariana Enriquez
 autores_stats:
@@ -41,7 +42,7 @@ Una niña desentierra en el jardín unos huesos que resultan no ser de un animal
 - **Autor:** [Mariana Enriquez](/autores/mariana-enriquez/)
 - **Editorial:** Emecé Editores
 - **Formato:** Paperback, 221 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9500432129 / 9789500432122
 - **Publicación original:** 2009-11-01
 - **Géneros:** [Relatos](/tags/relatos/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Realismo mágico](/tags/realismo-magico/), [Fantasía](/tags/fantasia/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura hispana](/tags/literatura-hispana/), [Colección de relatos](/tags/coleccion-de-relatos/), [Adultos](/tags/adultos/)

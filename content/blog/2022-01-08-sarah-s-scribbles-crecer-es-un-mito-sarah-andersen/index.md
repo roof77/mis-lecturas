@@ -1,5 +1,5 @@
 ---
-title: 'Sarah''s Scribbles: Crecer es un mito'
+title: '#517 · Sarah''s Scribbles: Crecer es un mito'
 summary: ¿Eres único e irrepetible? ¿Disfrutas socializándote para inflar el currículum? ¿Crecer y madurar son retos fascinantes
   para los que te sientes…
 date: '2022-01-08T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Humor
 - No Ficción
 - Adultos
 - Comedia
 - Contemporaneo
 toc: false
+id: 517
 autores:
 - Sarah Andersen
 - Helena Pons
@@ -47,7 +47,7 @@ Sarah Andersen es una ilustradora de Brooklyn. Este libro NO es autobiográfico.
 - **Colaboradores:** [Helena Pons](/autores/helena-pons/) (Translator)
 - **Editorial:** Bridge
 - **Formato:** Hardcover, 109 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416670064 / 9788416670062
 - **Publicación original:** 2016-10-19
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Humor](/tags/humor/), [No Ficción](/tags/no-ficcion/), [Adultos](/tags/adultos/), [Comedia](/tags/comedia/), [Contemporaneo](/tags/contemporaneo/)

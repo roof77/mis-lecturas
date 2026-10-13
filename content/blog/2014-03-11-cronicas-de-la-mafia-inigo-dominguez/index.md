@@ -1,5 +1,5 @@
 ---
-title: Crónicas de la Mafia
+title: '#17 · Crónicas de la Mafia'
 summary: Íñigo Domínguez comenzó en 2001 su odisea como corresponsal en Italia y abrazó dos costumbres. La primera, escribir
   la palabra ‘mafia’ cada mañana en la…
 date: '2014-03-11T23:59:58'
@@ -11,6 +11,7 @@ tags:
 - Historia
 - No Ficción
 toc: false
+id: 17
 autores:
 - Íñigo Domínguez
 autores_stats:
@@ -35,7 +36,7 @@ Este libro es el resultado natural de ambas pasiones. Por un lado, contiene vein
 - **Autor:** [Íñigo Domínguez](/autores/inigo-dominguez/)
 - **Editorial:** Libros del K.O.
 - **Formato:** Paperback, 431 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416001057 / 9788416001057
 - **Publicación original:** 2014-01-27
 - **Géneros:** [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/)

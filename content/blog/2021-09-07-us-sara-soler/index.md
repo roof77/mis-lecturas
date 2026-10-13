@@ -1,5 +1,5 @@
 ---
-title: Us
+title: '#487 · Us'
 summary: ¿Qué pasa cuando la vida que tenías asumida da un giro de 180 grados? Nada... Y también todo. Us es la historia de
   amor de Sara y Diana, y también la historia…
 date: '2021-09-07T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Queer
 - No Ficción
@@ -18,6 +17,7 @@ tags:
 - Transgenero
 - Lesbianismo
 toc: false
+id: 487
 autores:
 - Sara Soler
 autores_stats:
@@ -44,7 +44,7 @@ Us pretende visibilizar la realidad trans y aportar su visión y su granito de a
 - **Autor:** [Sara Soler](/autores/sara-soler/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 144 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418215186 / 9788418215186
 - **Publicación original:** 2021-05-20
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Romance](/tags/romance/), [Transgenero](/tags/transgenero/), [Lesbianismo](/tags/lesbianismo/)

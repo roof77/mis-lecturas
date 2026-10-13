@@ -1,5 +1,5 @@
 ---
-title: 'La escritura transparente: Cómo contar historias'
+title: '#76 · La escritura transparente: Cómo contar historias'
 summary: "Si la lectura del periódico sigue siendo la oración matinal del agnóstico, ¿por qué hay mañanas en las que uno preferiría\
   \ volverse a la cama? \r\nSi las cartas…"
 date: '2014-10-07T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Periodismo
 - Escritura
 toc: false
+id: 76
 autores:
 - William Lyon
 autores_stats:
@@ -38,7 +39,7 @@ Este libro es un práctico y sencillo manual de escritura. Está pensado para pe
 - **Autor:** [William Lyon](/autores/william-lyon/)
 - **Editorial:** Libros del K.O.
 - **Formato:** Paperback, 125 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2014-09-15
 - **Géneros:** [Periodismo](/tags/periodismo/), [Escritura](/tags/escritura/)
 - **Ficha en Goodreads:** [La escritura transparente: Cómo contar historias](https://www.goodreads.com/book/show/23251313-la-escritura-transparente)

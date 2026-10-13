@@ -1,5 +1,5 @@
 ---
-title: Un encargo fácil
+title: '#323 · Un encargo fácil'
 summary: "Rea Kerr no es buena persona.\r\n\r\nComo líder del grupo de mercenarios espaciales Horizonte Rojo, se dedica a\
   \ disparar a gente de planeta en planeta por dinero…"
 date: '2018-07-15T23:59:59'
@@ -14,6 +14,7 @@ tags:
 - Relatos
 - Literatura hispana
 toc: false
+id: 323
 autores:
 - Rocío Vega
 autores_stats:
@@ -43,7 +44,7 @@ Horizonte Rojo es la nueva saga de Rocío Vega, una space opera que mezcla acci�
 - **Serie:** Horizonte Rojo (#1)
 - **Editorial:** Editorial Café con leche
 - **Formato:** Kindle Edition, 95 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2016-02-29
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Literatura hispana](/tags/literatura-hispana/)
 - **Ficha en Goodreads:** [Un encargo fácil](https://www.goodreads.com/book/show/29367864-un-encargo-f-cil)

@@ -1,5 +1,5 @@
 ---
-title: Cómo vender una casa encantada
+title: '#607 · Cómo vender una casa encantada'
 summary: Cuando Louise se entera de que sus padres han muerto, teme volver a casa. No quiere dejar a su pequeña con su ex
   y volar a Charleston. No quiere enfrentarse al…
 date: '2023-11-03T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - Contemporaneo
 toc: false
+id: 607
 autores:
 - Grady Hendrix
 - Pilar de la Peña Minguell
@@ -41,7 +42,7 @@ Cuando Louise se entera de que sus padres han muerto, teme volver a casa. No qui
 - **Colaboradores:** [Pilar de la Peña Minguell](/autores/pilar-de-la-pena-minguell/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 440 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445015583 / 9788445015582
 - **Publicación original:** 2023-10-18
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Paranormal](/tags/paranormal/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/)

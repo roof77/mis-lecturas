@@ -1,5 +1,5 @@
 ---
-title: Knockemstiff
+title: '#261 · Knockemstiff'
 summary: Bienvenidos a Knockemstiff, Ohio. Una hondonada en mitad de ninguna parte a la que a duras penas se puede otorgar
   la categoría de pueblo. Un lugar del que…
 date: '2017-08-22T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción Literaria
 - EEUU
 toc: false
+id: 261
 autores:
 - Donald Ray Pollock
 - Javier Calvo
@@ -44,7 +45,7 @@ Bienvenidos a Knockemstiff, Ohio. Una hondonada en mitad de ninguna parte a la q
 - **Colaboradores:** [Javier Calvo](/autores/javier-calvo/) (Translator), [Kiko Amat](/autores/kiko-amat/) (Foreword)
 - **Editorial:** Libros del silencio
 - **Formato:** Paperback, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788493853105
 - **Publicación original:** 2011-02-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Gótico sureño](/tags/gotico-sureno/), [Terror](/tags/terror/), [Contemporaneo](/tags/contemporaneo/), [Crimen](/tags/crimen/), [Gótico](/tags/gotico/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/)

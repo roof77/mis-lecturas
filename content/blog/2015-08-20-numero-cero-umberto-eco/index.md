@@ -1,5 +1,5 @@
 ---
-title: Número Cero
+title: '#136 · Número Cero'
 summary: «Los perdedores y los autodidactas siempre saben mucho más que los ganadores. Si quieres ganar, tienes que concentrarte
   en un solo objetivo, y más te vale no…
 date: '2015-08-20T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Contemporaneo
 - Ficción Literaria
 toc: false
+id: 136
 autores:
 - Umberto Eco
 - Helena Lozano Miralles

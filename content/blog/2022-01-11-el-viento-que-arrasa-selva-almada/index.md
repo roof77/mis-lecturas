@@ -1,5 +1,5 @@
 ---
-title: El viento que arrasa
+title: '#519 · El viento que arrasa'
 summary: Un reverendo y su hija de viaje por el Chaco, en un clima de conflictos y tormentas, entreveros y catástrofes latentes,
   diálogos filosos y locura solapada…
 date: '2022-01-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Religión
 - Novela
 toc: false
+id: 519
 autores:
 - Selva Almada
 autores_stats:
@@ -40,7 +41,7 @@ Un reverendo y su hija de viaje por el Chaco, en un clima de conflictos y tormen
 - **Autor:** [Selva Almada](/autores/selva-almada/)
 - **Editorial:** Mardulce
 - **Formato:** Paperback, 168 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 987269656X / 9789872696566
 - **Publicación original:** 2012-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Latino américa](/tags/latino-america/), [Literatura hispana](/tags/literatura-hispana/), [Novella](/tags/novella/), [Literatura](/tags/literatura/), [Religión](/tags/religion/), [Novela](/tags/novela/)

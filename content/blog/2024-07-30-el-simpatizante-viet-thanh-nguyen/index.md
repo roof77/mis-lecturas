@@ -1,5 +1,5 @@
 ---
-title: El simpatizante
+title: '#676 · El simpatizante'
 summary: Abril de 1975, Saigón está sumida en el caos. Desde su mansión, el general del ejército de Vietnam del Sur bebe whisky
   norteamericano mientras los disparos…
 date: '2024-07-30T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura
 - Política
 toc: false
+id: 676
 autores:
 - Viet Thanh Nguyen
 - Javier Calvo Perales
@@ -44,7 +45,7 @@ Abril de 1975, Saigón está sumida en el caos. Desde su mansión, el general de
 - **Colaboradores:** [Javier Calvo Perales](/autores/javier-calvo-perales/) (Translator)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 479 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6070744098 / 9786070744099
 - **Publicación original:** 2018-03-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Guerra](/tags/guerra/), [Ásia](/tags/asia/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Política](/tags/politica/)

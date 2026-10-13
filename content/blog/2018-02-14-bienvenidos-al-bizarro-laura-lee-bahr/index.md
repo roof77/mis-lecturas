@@ -1,5 +1,5 @@
 ---
-title: Bienvenidos al bizarro
+title: '#294 · Bienvenidos al bizarro'
 summary: "¡Anunciado en televisión!*\r\n\r\nConcursantes de un reality de modificación corporal competitiva, enfermedades\
   \ de transmisión sexual extremas y coleccionables…"
 date: '2018-02-14T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Bizarro
 - Humor
 toc: false
+id: 294
 autores:
 - Laura Lee Bahr
 - Garrett Cook
@@ -65,7 +66,7 @@ Ofrecemos, por primera vez en español, una antología de relatos de diferentes 
 - **Colaboradores:** [Garrett Cook](/autores/garrett-cook/) (Author), [Robert Devereaux](/autores/robert-devereaux/) (Author), [Kevin L. Donihe](/autores/kevin-l-donihe/) (Author), [Jeremy Robert Johnson](/autores/jeremy-robert-johnson/) (Author), [Violet LeVoit](/autores/violet-levoit/) (Author), [Carlton Mellick III](/autores/carlton-mellick-iii/) (Author), [Matthew Revert](/autores/matthew-revert/) (Author), [Tamara Romero](/autores/tamara-romero/) (Author), [Grant Wamack](/autores/grant-wamack/) (Author), [D. Harlan Wilson](/autores/d-harlan-wilson/) (Author), [Hugo Camacho](/autores/hugo-camacho/) (Translator), [Branca Studio](/autores/branca-studio/) (Illustrator), [Marta Maldonado](/autores/marta-maldonado/) (Illustrator)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788494518164
 - **Publicación original:** 2017-03-01
 - **Géneros:** [Bizarro](/tags/bizarro/), [Humor](/tags/humor/)

@@ -1,5 +1,5 @@
 ---
-title: Punk Rock Jesus
+title: '#741 · Punk Rock Jesus'
 summary: 'A New York Times Bestseller!
 
 
@@ -10,7 +10,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción
 - Religión
@@ -18,6 +17,7 @@ tags:
 - Música
 - DC
 toc: false
+id: 741
 autores:
 - Sean Gordon Murphy
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: 'Lady Killer #3'
+title: '#858 · Lady Killer #3'
 summary: "The hit of any party!\r\n\r\nThe pressure is on for Josie as the conflict increases between her cozy suburban home\
   \ life and her work as a paid killer! No one said…"
 date: '2026-06-05T23:59:57'
@@ -8,10 +8,10 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción histórica
 toc: false
+id: 858
 autores:
 - Joëlle Jones
 - Jamie S. Rich

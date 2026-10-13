@@ -1,5 +1,5 @@
 ---
-title: Cuentos completos
+title: '#245 · Cuentos completos'
 summary: Empiezas un cuento de Saki y lo acabas. Acabas uno y tienes que empezar otro, y cuando los acabas ya nunca los olvidas.
   Siguen siendo adictivos porque superan…
 date: '2017-04-24T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Antología
 - Moderno
 toc: false
+id: 245
 autores:
 - Saki
 autores_stats:
@@ -41,7 +42,7 @@ Empiezas un cuento de Saki y lo acabas. Acabas uno y tienes que empezar otro, y 
 - **Autor:** [Saki](/autores/saki/)
 - **Editorial:** Ediciones Alpha Decay
 - **Formato:** Paperback, 840 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849342787X / 9788493427870
 - **Publicación original:** 2005-11-01
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Humor](/tags/humor/), [Literatura](/tags/literatura/), [Terror](/tags/terror/), [Sátira](/tags/satira/), [Literatura británica](/tags/literatura-britanica/), [Antología](/tags/antologia/), [Moderno](/tags/moderno/)

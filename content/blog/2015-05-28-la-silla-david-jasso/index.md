@@ -1,5 +1,5 @@
 ---
-title: La silla
+title: '#113 · La silla'
 summary: Daniel Lonces es un escritor de terror de renombre. Tiene su mujer, su hijito, su casa y fama suficiente como para
   que un buen puñado de fans le acosen con…
 date: '2015-05-28T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Terror
 toc: false
+id: 113
 autores:
 - David Jasso
 autores_stats:
@@ -34,7 +35,7 @@ En una de estas, Daniel está escribiendo su futuro éxito y le pide a su mujer 
 - **Autor:** [David Jasso](/autores/david-jasso/)
 - **Editorial:** Equipo Sirius
 - **Formato:** Paperback, 210 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8496554074 / 9788496554078
 - **Publicación original:** 2006-03-30
 - **Géneros:** [Terror](/tags/terror/)

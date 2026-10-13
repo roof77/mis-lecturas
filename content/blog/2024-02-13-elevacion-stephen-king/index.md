@@ -1,5 +1,5 @@
 ---
-title: Elevación
+title: '#621 · Elevación'
 summary: King vuelve a Castle Rock con un mensaje para nuestros tiempos. «La prueba de que un maestro aún puede elevar más
   su leyenda.»USA Today El cuerpo de Scott…
 date: '2024-02-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Thriller
 - Adultos
 toc: false
+id: 621
 autores:
 - Stephen King
 autores_stats:
@@ -40,7 +41,7 @@ King vuelve a Castle Rock con un mensaje para nuestros tiempos. «La prueba de q
 - **Autor:** [Stephen King](/autores/stephen-king/)
 - **Editorial:** Suma
 - **Formato:** Kindle Edition, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491293760 / 9788491293767
 - **Publicación original:** 2019-11-07
 - **Géneros:** [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/), [Misterio](/tags/misterio/), [Novella](/tags/novella/), [Ciencia ficción](/tags/ciencia-ficcion/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/)

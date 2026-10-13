@@ -1,5 +1,5 @@
 ---
-title: Ahora y en la hora de nuestra muerte
+title: '#554 · Ahora y en la hora de nuestra muerte'
 summary: 'En este libro, Susana Moreira Marques se rebela contra una máxima que repetía su abuelo: que solo los ricos parecen
   ostentar el derecho a dejar historia. La…'
 date: '2022-07-13T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Autoras
 - Salud
 toc: false
+id: 554
 autores:
 - Susana Moreira Marques
 - María Alonso Seisdedos
@@ -44,7 +45,7 @@ En este libro, Susana Moreira Marques se rebela contra una máxima que repetía 
 - **Colaboradores:** [María Alonso Seisdedos](/autores/maria-alonso-seisdedos/) (Traducción), [Manuel Marsol](/autores/manuel-marsol/) (Portada)
 - **Editorial:** Libros del K.O.
 - **Formato:** Paperback, 118 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841600188X / 9788416001880
 - **Publicación original:** 2018-01-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Portugal](/tags/portugal/), [Literatura portuguesa](/tags/literatura-portuguesa/), [Muerte](/tags/muerte/), [Memorias](/tags/memorias/), [Aflicción](/tags/afliccion/), [Ensayo](/tags/ensayo/), [Contemporaneo](/tags/contemporaneo/), [Autoras](/tags/autoras/), [Salud](/tags/salud/)

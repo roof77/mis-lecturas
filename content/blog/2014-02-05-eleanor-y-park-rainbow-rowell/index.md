@@ -1,5 +1,5 @@
 ---
-title: Eleanor y Park
+title: '#11 · Eleanor y Park'
 summary: Eleanor es nueva en el instituto; su vida familiar es un desastre; con su intenso pelo rojo, su extraña y poco conjuntada
   forma de vestir no podría llamar más…
 date: '2014-02-05T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Coming of age
 - Adolescencia
 toc: false
+id: 11
 autores:
 - Rainbow Rowell
 autores_stats:
@@ -43,7 +44,7 @@ Todo empieza cuando Park accede a que Eleanor se siente a su lado en el autobús
 - **Autor:** [Rainbow Rowell](/autores/rainbow-rowell/)
 - **Editorial:** Alfaguara Juvenil
 - **Formato:** Kindle Edition, 347 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2013-10-22
 - **Géneros:** [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción realista](/tags/ficcion-realista/), [Club de lectura](/tags/club-de-lectura/), [Coming of age](/tags/coming-of-age/), [Adolescencia](/tags/adolescencia/)
 - **Personajes:** Park Sheridan, Eleanor Douglas

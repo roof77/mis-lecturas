@@ -1,5 +1,5 @@
 ---
-title: Rock Springs
+title: '#445 · Rock Springs'
 summary: Diez narraciones ambientadas en Montana, un lugar semisalvaje, un paisaje frío e inhóspito, el desconocido corazón
   de una América periférica. En este contexto…
 date: '2020-11-03T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Contemporaneo
 - Siglo XX
 toc: false
+id: 445
 autores:
 - Richard Ford
 - Jesús Zulaika Goicoechea
@@ -41,7 +42,7 @@ Diez narraciones ambientadas en Montana, un lugar semisalvaje, un paisaje frío 
 - **Colaboradores:** [Jesús Zulaika Goicoechea](/autores/jesus-zulaika-goicoechea/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Mass Market Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 843396769X / 9788433967695
 - **Publicación original:** 2004-04-28
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/), [Oeste](/tags/oeste/), [Contemporaneo](/tags/contemporaneo/), [Siglo XX](/tags/siglo-xx/)

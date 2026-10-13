@@ -1,5 +1,5 @@
 ---
-title: 'Lumberjanes: Friendship to the Max'
+title: '#895 · Lumberjanes: Friendship to the Max'
 summary: Diane suddenly becomes important as she and Jen ban together with the regular cast of Lumberjanes and Jo learns the
   true meaning of friendship and sacrifice.
 date: '2026-07-12T23:59:58'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Fantasía
@@ -17,6 +16,7 @@ tags:
 - LGTBIQ+
 - Aventuras
 toc: false
+id: 895
 autores:
 - N.D. Stevenson
 - Grace Ellis

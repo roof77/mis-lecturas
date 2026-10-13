@@ -1,5 +1,5 @@
 ---
-title: El vendido
+title: '#582 · El vendido'
 summary: "Una escandalosa tragicomedia que explora el legado de la esclavitud y las desigualdades económicas y raciales de\
   \ la América actual.\r\nDespués de que su padre…"
 date: '2023-03-03T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Afroamericanos
 - Literatura
 toc: false
+id: 582
 autores:
 - Paul Beatty
 - Íñigo García Ureta
@@ -48,7 +49,7 @@ Sobre tan disfuncional y variopinta estampa arranca El vendido, una desternillan
 - **Colaboradores:** [Íñigo García Ureta](/autores/inigo-garcia-ureta/) (Translator)
 - **Editorial:** Malpaso
 - **Formato:** Hardcover, 342 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416665699 / 9788416665693
 - **Publicación original:** 2017-05-22
 - **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Humor](/tags/humor/), [Sátira](/tags/satira/), [Contemporaneo](/tags/contemporaneo/), [Raza](/tags/raza/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Afroamericanos](/tags/afroamericanos/), [Literatura](/tags/literatura/)

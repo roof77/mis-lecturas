@@ -1,5 +1,5 @@
 ---
-title: Nada es verdad
+title: '#752 · Nada es verdad'
 summary: Una novela desternillante y feroz sobre vínculos, pérdidas, desastres familiares y la aventura de crecer. Veronica
   pasa su infancia y adolescencia en un barrio…
 date: '2025-06-02T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Familia
 toc: false
+id: 752
 autores:
 - Veronica Raimo
 autores_stats:
@@ -40,7 +41,7 @@ Una novela desternillante y feroz sobre vínculos, pérdidas, desastres familiar
 - **Autor:** [Veronica Raimo](/autores/veronica-raimo/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 216 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841908963X / 9788419089632
 - **Publicación original:** 2023-09-25
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Italia](/tags/italia/), [Literatura italiana](/tags/literatura-italiana/), [Ficción Literaria](/tags/ficcion-literaria/), [Coming of age](/tags/coming-of-age/), [Humor](/tags/humor/), [Novela](/tags/novela/), [Familia](/tags/familia/)

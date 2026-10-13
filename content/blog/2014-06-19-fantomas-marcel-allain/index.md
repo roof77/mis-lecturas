@@ -1,5 +1,5 @@
 ---
-title: Fantômas
+title: '#42 · Fantômas'
 summary: Recortado sobre los cielos de Paris, un hombre enmascarado y vestido de etiqueta, daga en mano, rumia espantosas
   fechorias de las que ningun ciudadano esta a…
 date: '2014-06-19T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura
 - Thriller
 toc: false
+id: 42
 autores:
 - Marcel Allain
 - Pierre Souvestre
@@ -46,7 +47,7 @@ Recortado sobre los cielos de Paris, un hombre enmascarado y vestido de etiqueta
 - **Colaboradores:** [Pierre Souvestre](/autores/pierre-souvestre/) (Author), [José Furió](/autores/jose-furio/) (Translator)
 - **Editorial:** Mondadori (IT)
 - **Formato:** Paperback, 328 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439701853 / 9788439701859
 - **Publicación original:** 2000-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Francia](/tags/francia/), [Literatura francesa](/tags/literatura-francesa/), [Siglo XX](/tags/siglo-xx/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Thriller](/tags/thriller/)

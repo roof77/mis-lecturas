@@ -1,5 +1,5 @@
 ---
-title: La extraordinaria familia Telemacus
+title: '#365 · La extraordinaria familia Telemacus'
 summary: Teddy Telemacus es un hombre encantador y un encantador de mujeres. Sus poderes se limitan a tener manos rápidas
   para trucos y cartas, pero le sirven para…
 date: '2018-11-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Humor
 - Contemporaneo
 toc: false
+id: 365
 autores:
 - Daryl Gregory
 - Carles Andreu Saburit
@@ -46,7 +47,7 @@ Daryl Gregory entrega una ambiciosa, memorable y divertidísima historia familia
 - **Colaboradores:** [Carles Andreu Saburit](/autores/carles-andreu-saburit/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 552 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417059520 / 9788417059521
 - **Publicación original:** 2018-03-07
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Paranormal](/tags/paranormal/), [Realismo mágico](/tags/realismo-magico/), [Adultos](/tags/adultos/), [Humor](/tags/humor/), [Contemporaneo](/tags/contemporaneo/)

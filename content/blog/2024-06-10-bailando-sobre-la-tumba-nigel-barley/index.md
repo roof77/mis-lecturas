@@ -1,5 +1,5 @@
 ---
-title: Bailando sobre la tumba
+title: '#654 · Bailando sobre la tumba'
 summary: 1st edn. 8vo. Original gilt lettered blue cloth (a few faint spots on fore-edge - otherwise VG), dustwrapper (light
   wear at edges - in protective cover). Pp…
 date: '2024-06-10T23:59:59'
@@ -12,6 +12,7 @@ tags:
 - No Ficción
 - Muerte
 toc: false
+id: 654
 autores:
 - Nigel Barley
 - Federico Corriente
@@ -36,7 +37,7 @@ nota: Muy bien
 - **Colaboradores:** [Federico Corriente](/autores/federico-corriente/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 328 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 843392544X / 9788433925442
 - **Publicación original:** 2012-03-01
 - **Géneros:** [Antropología](/tags/antropologia/), [No Ficción](/tags/no-ficcion/), [Muerte](/tags/muerte/)

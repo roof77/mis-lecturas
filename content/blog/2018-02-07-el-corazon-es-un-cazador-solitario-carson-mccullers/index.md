@@ -1,5 +1,5 @@
 ---
-title: El corazón es un cazador solitario
+title: '#292 · El corazón es un cazador solitario'
 summary: Estamos en una ciudad provinciana del sur de los Estados Unidos en el primer tercio del siglo. Por el Café New York,
   regentado por Biff, van pasando hombres y…
 date: '2018-02-07T23:59:58'
@@ -19,6 +19,7 @@ tags:
 - EEUU
 - Sureño
 toc: false
+id: 292
 autores:
 - Carson McCullers
 - Rosa María Bassols Camarasa
@@ -47,7 +48,7 @@ Leyendo El corazón es un cazador solitario el lector no puede evitar implicarse
 - **Colaboradores:** [Rosa María Bassols Camarasa](/autores/rosa-maria-bassols-camarasa/) (Translator)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8432219576 / 9788432219573
 - **Publicación original:** 2001-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Club de lectura](/tags/club-de-lectura/), [Literatura](/tags/literatura/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Gótico sureño](/tags/gotico-sureno/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/), [Sureño](/tags/sureno/)

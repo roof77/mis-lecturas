@@ -1,5 +1,5 @@
 ---
-title: Calliope. La voz de las llamas
+title: '#774 · Calliope. La voz de las llamas'
 summary: "Una novela gótica sureña, escrita por Michael McDowell, el maestro indiscutible del gótico sureño autor de la saga\
   \ Blackwater.\r\n\r\nUna novela gótica sureña…"
 date: '2025-09-27T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Gótico sureño
 - Ficción histórica
 toc: false
+id: 774
 autores:
 - Tabitha King
 - Michael McDowell
@@ -50,7 +51,7 @@ Allí Calley descubrirá que puede oír voces que no son de este mundo y que est
 - **Colaboradores:** [Michael McDowell](/autores/michael-mcdowell/) (Author), [Miguel Antón](/autores/miguel-anton/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Kindle Edition, 556 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445020943 / 9788445020944
 - **Publicación original:** 2025-09-03
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Fantasmas](/tags/fantasmas/), [Gótico](/tags/gotico/), [Paranormal](/tags/paranormal/), [Gótico sureño](/tags/gotico-sureno/), [Ficción histórica](/tags/ficcion-historica/)

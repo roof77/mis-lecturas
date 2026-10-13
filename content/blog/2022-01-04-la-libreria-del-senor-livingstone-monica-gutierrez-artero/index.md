@@ -1,5 +1,5 @@
 ---
-title: La librería del señor Livingstone
+title: '#514 · La librería del señor Livingstone'
 summary: "Algunos lugares son un refugio en mitad de nuestras aceleradas vidas. Algunas novelas tienen la capacidad de llevarnos\
   \ a esos lugares.\r\n\r\nAgnes Martí es una…"
 date: '2022-01-04T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Novela
 - Adultos
 toc: false
+id: 514
 autores:
 - Mónica Gutiérrez Artero
 autores_stats:
@@ -45,7 +46,7 @@ La joven acepta y poco a poco va descubriendo el encanto de esta pequeña librer
 - **Autor:** [Mónica Gutiérrez Artero](/autores/monica-gutierrez-artero/)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 846666856X / 9788466668569
 - **Publicación original:** 2020-10-15
 - **Géneros:** [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Libros sobre libros](/tags/libros-sobre-libros/), [Comfortable](/tags/comfortable/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)

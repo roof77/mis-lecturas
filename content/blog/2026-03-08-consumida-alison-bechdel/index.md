@@ -1,5 +1,5 @@
 ---
-title: Consumida
+title: '#809 · Consumida'
 summary: Los días de cierta historietista llamada Alison Bechdel transcurren, no tan plácidamente, en la finca rural de Vermont
   donde vive junto a su pareja, Holly, a…
 date: '2026-03-08T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Queer
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Política
 - Feminismo
 toc: false
+id: 809
 autores:
 - Alison Bechdel
 - Rocío de la Maya Retamar
@@ -46,7 +46,7 @@ Sin embargo, su necesidad de obtener ingresos, sus propias contradicciones, y ta
 - **Colaboradores:** [Rocío de la Maya Retamar](/autores/rocio-de-la-maya-retamar/) (Translator)
 - **Editorial:** Reservoir Books
 - **Formato:** Paperback, 272 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419940860 / 9788419940865
 - **Publicación original:** 2025-10-18
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Lesbianismo](/tags/lesbianismo/), [Política](/tags/politica/), [Feminismo](/tags/feminismo/)

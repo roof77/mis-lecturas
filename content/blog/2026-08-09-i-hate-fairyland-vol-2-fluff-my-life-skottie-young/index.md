@@ -1,5 +1,5 @@
 ---
-title: 'I Hate Fairyland, Vol. 2: Fluff My Life'
+title: '#917 · I Hate Fairyland, Vol. 2: Fluff My Life'
 summary: All hail Gertrude, the new Queen of Fairyland. After thirty years of wreaking havoc across this magical world to
   find her way back home, she must now overcome…
 date: '2026-08-09T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Humor
 - Adultos
@@ -17,6 +16,7 @@ tags:
 - Comedia
 - Terror
 toc: false
+id: 917
 autores:
 - Skottie Young
 autores_stats:

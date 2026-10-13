@@ -6,17 +6,17 @@ summary: Estadísticas de lectura por año.
 ## Resumen histórico
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">216955</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">705</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">197544</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">658</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">58742</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">291</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">56842</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">281</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2018-02-07-manor-karl-heinrich-ulrichs/"><img src="/blog/2018-02-07-manor-karl-heinrich-ulrichs/featured.jpg" alt="Manor" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2018-02-07-manor-karl-heinrich-ulrichs/"><img src="/blog/2018-02-07-manor-karl-heinrich-ulrichs/featured.jpg" alt="#293 · Manor" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">9</div>
@@ -24,7 +24,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2021-05-07-el-jilguero-donna-tartt/"><img src="/blog/2021-05-07-el-jilguero-donna-tartt/featured.jpg" alt="El jilguero" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2021-05-07-el-jilguero-donna-tartt/"><img src="/blog/2021-05-07-el-jilguero-donna-tartt/featured.jpg" alt="#460 · El jilguero" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">1152</div>
@@ -37,7 +37,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2018-08-20-sex-criminals-11-manime-matt-fraction/"><img src="/blog/2018-08-20-sex-criminals-11-manime-matt-fraction/featured.jpg" alt="Sex Criminals #11: Manime" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2018-08-20-sex-criminals-11-manime-matt-fraction/"><img src="/blog/2018-08-20-sex-criminals-11-manime-matt-fraction/featured.jpg" alt="#336 · Sex Criminals #11: Manime" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">22</div>
@@ -45,7 +45,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2025-02-10-100-bullets-omnibus-vol-1-brian-azzarello/"><img src="/blog/2025-02-10-100-bullets-omnibus-vol-1-brian-azzarello/featured.jpg" alt="100 Bullets Omnibus Vol. 1" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2025-02-10-100-bullets-omnibus-vol-1-brian-azzarello/"><img src="/blog/2025-02-10-100-bullets-omnibus-vol-1-brian-azzarello/featured.jpg" alt="#707 · 100 Bullets Omnibus Vol. 1" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">1376</div>
@@ -56,19 +56,19 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">308</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">202</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">300</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">202</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (548)</li><li>Fantasía (215)</li><li>Club de lectura (200)</li><li>Novela (200)</li><li>Contemporaneo (179)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (246)</li><li>Ficción (181)</li><li>Fantasía (91)</li><li>Jovenes adultos (62)</li><li>Romance (53)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (509)</li><li>Club de lectura (193)</li><li>Novela (192)</li><li>Fantasía (190)</li><li>Contemporaneo (176)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (236)</li><li>Ficción (172)</li><li>Fantasía (83)</li><li>Jovenes adultos (54)</li><li>Romance (53)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Autores más leídos</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>J.K. Rowling (17)</li><li>Matt Dinniman (12)</li><li>Michael McDowell (9)</li><li>Grady Hendrix (8)</li><li>Dolores Redondo (6)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Matt Fraction (31)</li><li>N.D. Stevenson (17)</li><li>Peter Bagge (16)</li><li>Grace Ellis (16)</li><li>Makoto Ojiro (14)</li></ol></div></div>
+<h3 style="margin-top:0;">Autores más leídos</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>J.K. Rowling (10)</li><li>Michael McDowell (9)</li><li>Grady Hendrix (8)</li><li>Matt Dinniman (6)</li><li>Hiromi Kawakami (5)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Matt Fraction (31)</li><li>Peter Bagge (16)</li><li>Makoto Ojiro (14)</li><li>Yarō Abe (10)</li><li>Rumiko Takahashi (9)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Editoriales más leídas</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Libros del Asteroide (29)</li><li>Blackie Books (26)</li><li>Editorial Anagrama (26)</li><li>Salamandra (21)</li><li>Literatura Random House (18)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Milky Way Ediciones (30)</li><li>Image Comics (27)</li><li>Astiberri (19)</li><li>La Cúpula (12)</li><li>Ediciones Glénat España (12)</li></ol></div></div>
+<h3 style="margin-top:0;">Editoriales más leídas</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Libros del Asteroide (28)</li><li>Blackie Books (26)</li><li>Editorial Anagrama (25)</li><li>Literatura Random House (18)</li><li>Anagrama (17)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Milky Way Ediciones (30)</li><li>Image Comics (27)</li><li>Astiberri (19)</li><li>La Cúpula (12)</li><li>Ediciones Glénat España (12)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -78,11 +78,11 @@ summary: Estadísticas de lectura por año.
 ## 2026
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">12628</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">33</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">9046</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">27</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">21820</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">135</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">21120</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">126</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -92,7 +92,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2026-06-10-bien-tarde-en-el-dia-claire-keegan/"><img src="/blog/2026-06-10-bien-tarde-en-el-dia-claire-keegan/featured.jpg" alt="Bien tarde en el día" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2026-06-10-bien-tarde-en-el-dia-claire-keegan/"><img src="/blog/2026-06-10-bien-tarde-en-el-dia-claire-keegan/featured.jpg" alt="#862 · Bien tarde en el día" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">38</div>
@@ -100,7 +100,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2026-10-11-el-ojo-de-la-novia-frenopatica-carl-el-mazmorrero-6-matt-dinniman/"><img src="/blog/2026-10-11-el-ojo-de-la-novia-frenopatica-carl-el-mazmorrero-6-matt-dinniman/featured.jpg" alt="El ojo de la novia frenopática (Carl el Mazmorrero, #6)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2026-10-11-el-ojo-de-la-novia-frenopatica-matt-dinniman/"><img src="/blog/2026-10-11-el-ojo-de-la-novia-frenopatica-matt-dinniman/featured.jpg" alt="#938 · El ojo de la novia frenopática" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">840</div>
@@ -113,7 +113,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2026-07-12-lumberjanes-pungeon-master-lumberjanes-2-n-d-stevenson/"><img src="/blog/2026-07-12-lumberjanes-pungeon-master-lumberjanes-2-n-d-stevenson/featured.jpg" alt="Lumberjanes: Pungeon Master (Lumberjanes, #2)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2026-07-12-lumberjanes-pungeon-master-n-d-stevenson/"><img src="/blog/2026-07-12-lumberjanes-pungeon-master-n-d-stevenson/featured.jpg" alt="#890 · Lumberjanes: Pungeon Master" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">25</div>
@@ -121,7 +121,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2026-07-05-daredevil-by-ed-brubaker-omnibus-vol-1-ed-brubaker/"><img src="/blog/2026-07-05-daredevil-by-ed-brubaker-omnibus-vol-1-ed-brubaker/featured.jpg" alt="Daredevil by Ed Brubaker Omnibus, Vol. 1" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2026-07-05-daredevil-by-ed-brubaker-omnibus-vol-1-ed-brubaker/"><img src="/blog/2026-07-05-daredevil-by-ed-brubaker-omnibus-vol-1-ed-brubaker/featured.jpg" alt="#881 · Daredevil by Ed Brubaker Omnibus, Vol. 1" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">608</div>
@@ -132,11 +132,11 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">383</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">162</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">335</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">168</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (29)</li><li>Fantasía (15)</li><li>Ciencia ficción (13)</li><li>Distopía (13)</li><li>Adultos (12)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (119)</li><li>Ficción (100)</li><li>Fantasía (44)</li><li>Jovenes adultos (43)</li><li>Slice of life (33)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (23)</li><li>Fantasía (9)</li><li>Ficción Literaria (8)</li><li>Contemporaneo (8)</li><li>Adultos (8)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (110)</li><li>Ficción (91)</li><li>Fantasía (36)</li><li>Jovenes adultos (35)</li><li>Slice of life (33)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -172,7 +172,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2025-07-31-cosas-pequenas-como-esas-claire-keegan/"><img src="/blog/2025-07-31-cosas-pequenas-como-esas-claire-keegan/featured.jpg" alt="Cosas pequeñas como esas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2025-07-31-cosas-pequenas-como-esas-claire-keegan/"><img src="/blog/2025-07-31-cosas-pequenas-como-esas-claire-keegan/featured.jpg" alt="#763 · Cosas pequeñas como esas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">83</div>
@@ -180,7 +180,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2025-09-27-calliope-la-voz-de-las-llamas-tabitha-king/"><img src="/blog/2025-09-27-calliope-la-voz-de-las-llamas-tabitha-king/featured.jpg" alt="Calliope. La voz de las llamas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2025-09-27-calliope-la-voz-de-las-llamas-tabitha-king/"><img src="/blog/2025-09-27-calliope-la-voz-de-las-llamas-tabitha-king/featured.jpg" alt="#774 · Calliope. La voz de las llamas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">556</div>
@@ -193,7 +193,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2025-01-15-hypocrite-como-descodificar-el-atircopih-jean-claude-forest/"><img src="/blog/2025-01-15-hypocrite-como-descodificar-el-atircopih-jean-claude-forest/featured.jpg" alt="Hypocrite: Cómo descodificar el Atircopih" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2025-01-15-hypocrite-como-descodificar-el-atircopih-jean-claude-forest/"><img src="/blog/2025-01-15-hypocrite-como-descodificar-el-atircopih-jean-claude-forest/featured.jpg" alt="#697 · Hypocrite: Cómo descodificar el Atircopih" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">64</div>
@@ -201,7 +201,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2025-02-10-100-bullets-omnibus-vol-1-brian-azzarello/"><img src="/blog/2025-02-10-100-bullets-omnibus-vol-1-brian-azzarello/featured.jpg" alt="100 Bullets Omnibus Vol. 1" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2025-02-10-100-bullets-omnibus-vol-1-brian-azzarello/"><img src="/blog/2025-02-10-100-bullets-omnibus-vol-1-brian-azzarello/featured.jpg" alt="#707 · 100 Bullets Omnibus Vol. 1" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">1376</div>
@@ -252,7 +252,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2024-05-10-no-es-un-rio-selva-almada/"><img src="/blog/2024-05-10-no-es-un-rio-selva-almada/featured.jpg" alt="No es un río" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2024-05-10-no-es-un-rio-selva-almada/"><img src="/blog/2024-05-10-no-es-un-rio-selva-almada/featured.jpg" alt="#647 · No es un río" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">104</div>
@@ -260,7 +260,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2024-11-21-pechos-y-huevos-seix-barral-biblioteca-formentor-spanish-edition-mieko-kawakami/"><img src="/blog/2024-11-21-pechos-y-huevos-seix-barral-biblioteca-formentor-spanish-edition-mieko-kawakami/featured.jpg" alt="Pechos y huevos (Seix Barral Biblioteca Formentor) (Spanish Edition)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2024-11-21-pechos-y-huevos-mieko-kawakami/"><img src="/blog/2024-11-21-pechos-y-huevos-mieko-kawakami/featured.jpg" alt="#689 · Pechos y huevos" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">496</div>
@@ -273,7 +273,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2024-07-12-un-verano-en-las-dunas-seth/"><img src="/blog/2024-07-12-un-verano-en-las-dunas-seth/featured.jpg" alt="Un verano en las dunas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2024-07-12-un-verano-en-las-dunas-seth/"><img src="/blog/2024-07-12-un-verano-en-las-dunas-seth/featured.jpg" alt="#669 · Un verano en las dunas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">88</div>
@@ -281,7 +281,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2024-03-05-providence-alan-moore/"><img src="/blog/2024-03-05-providence-alan-moore/featured.jpg" alt="Providence" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2024-03-05-providence-alan-moore/"><img src="/blog/2024-03-05-providence-alan-moore/featured.jpg" alt="#628 · Providence" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">720</div>
@@ -332,7 +332,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2023-02-26-el-cuento-de-navidad-de-auggie-wren-paul-auster/"><img src="/blog/2023-02-26-el-cuento-de-navidad-de-auggie-wren-paul-auster/featured.jpg" alt="El cuento de Navidad de Auggie Wren" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2023-02-26-el-cuento-de-navidad-de-auggie-wren-paul-auster/"><img src="/blog/2023-02-26-el-cuento-de-navidad-de-auggie-wren-paul-auster/featured.jpg" alt="#581 · El cuento de Navidad de Auggie Wren" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">32</div>
@@ -340,7 +340,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2023-09-17-don-dracula-don-dorakyura-1-3-osamu-tezuka/"><img src="/blog/2023-09-17-don-dracula-don-dorakyura-1-3-osamu-tezuka/featured.jpg" alt="Don Drácula (ドン・ドラキュラ [Don Dorakyura], #1-3)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2023-09-17-don-dracula-osamu-tezuka/"><img src="/blog/2023-09-17-don-dracula-osamu-tezuka/featured.jpg" alt="#603 · Don Drácula" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">888</div>
@@ -353,7 +353,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2023-03-20-no-cambies-nunca-david-sanchez/"><img src="/blog/2023-03-20-no-cambies-nunca-david-sanchez/featured.jpg" alt="No cambies nunca" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2023-03-20-no-cambies-nunca-david-sanchez/"><img src="/blog/2023-03-20-no-cambies-nunca-david-sanchez/featured.jpg" alt="#585 · No cambies nunca" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">96</div>
@@ -361,7 +361,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2023-02-26-baco-1-eddie-campbell/"><img src="/blog/2023-02-26-baco-1-eddie-campbell/featured.jpg" alt="Baco 1" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2023-02-26-baco-1-eddie-campbell/"><img src="/blog/2023-02-26-baco-1-eddie-campbell/featured.jpg" alt="#580 · Baco 1" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">216</div>
@@ -412,7 +412,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2022-05-16-la-encrucijada-de-desert-hole-vicky-gatekeeper/"><img src="/blog/2022-05-16-la-encrucijada-de-desert-hole-vicky-gatekeeper/featured.jpg" alt="La encrucijada de Desert Hole" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2022-05-16-la-encrucijada-de-desert-hole-vicky-gatekeeper/"><img src="/blog/2022-05-16-la-encrucijada-de-desert-hole-vicky-gatekeeper/featured.jpg" alt="#539 · La encrucijada de Desert Hole" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">42</div>
@@ -420,7 +420,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2022-04-18-monty-python-autobiografia-the-pythons/"><img src="/blog/2022-04-18-monty-python-autobiografia-the-pythons/featured.jpg" alt="Monty Python. Autobiografía" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2022-04-18-monty-python-autobiografia-the-pythons/"><img src="/blog/2022-04-18-monty-python-autobiografia-the-pythons/featured.jpg" alt="#531 · Monty Python. Autobiografía" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">608</div>
@@ -433,7 +433,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2022-01-08-sarah-s-scribbles-crecer-es-un-mito-sarah-andersen/"><img src="/blog/2022-01-08-sarah-s-scribbles-crecer-es-un-mito-sarah-andersen/featured.jpg" alt="Sarah's Scribbles: Crecer es un mito" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2022-01-08-sarah-s-scribbles-crecer-es-un-mito-sarah-andersen/"><img src="/blog/2022-01-08-sarah-s-scribbles-crecer-es-un-mito-sarah-andersen/featured.jpg" alt="#517 · Sarah's Scribbles: Crecer es un mito" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">109</div>
@@ -441,7 +441,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2022-07-01-heartstopper-3-un-paso-adelante-heartstopper-3-alice-oseman/"><img src="/blog/2022-07-01-heartstopper-3-un-paso-adelante-heartstopper-3-alice-oseman/featured.jpg" alt="Heartstopper 3. Un paso adelante (Heartstopper, #3)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2022-07-01-heartstopper-3-un-paso-adelante-alice-oseman/"><img src="/blog/2022-07-01-heartstopper-3-un-paso-adelante-alice-oseman/featured.jpg" alt="#551 · Heartstopper 3. Un paso adelante" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">384</div>
@@ -492,7 +492,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2021-08-11-carta-de-una-desconocida-stefan-zweig/"><img src="/blog/2021-08-11-carta-de-una-desconocida-stefan-zweig/featured.jpg" alt="Carta de una desconocida" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2021-08-11-carta-de-una-desconocida-stefan-zweig/"><img src="/blog/2021-08-11-carta-de-una-desconocida-stefan-zweig/featured.jpg" alt="#480 · Carta de una desconocida" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">72</div>
@@ -500,7 +500,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2021-05-07-el-jilguero-donna-tartt/"><img src="/blog/2021-05-07-el-jilguero-donna-tartt/featured.jpg" alt="El jilguero" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2021-05-07-el-jilguero-donna-tartt/"><img src="/blog/2021-05-07-el-jilguero-donna-tartt/featured.jpg" alt="#460 · El jilguero" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">1152</div>
@@ -513,7 +513,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2021-03-07-princesa-ama-a-princesa-lisa-mandel/"><img src="/blog/2021-03-07-princesa-ama-a-princesa-lisa-mandel/featured.jpg" alt="Princesa ama a Princesa" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2021-03-07-princesa-ama-a-princesa-lisa-mandel/"><img src="/blog/2021-03-07-princesa-ama-a-princesa-lisa-mandel/featured.jpg" alt="#453 · Princesa ama a Princesa" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">128</div>
@@ -521,7 +521,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2021-09-29-fantasmas-raina-telgemeier/"><img src="/blog/2021-09-29-fantasmas-raina-telgemeier/featured.jpg" alt="Fantasmas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2021-09-29-fantasmas-raina-telgemeier/"><img src="/blog/2021-09-29-fantasmas-raina-telgemeier/featured.jpg" alt="#498 · Fantasmas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">256</div>
@@ -568,7 +568,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2020-07-11-usted-tiene-ojos-de-mujer-fatal-enrique-jardiel-poncela/"><img src="/blog/2020-07-11-usted-tiene-ojos-de-mujer-fatal-enrique-jardiel-poncela/featured.jpg" alt="Usted tiene ojos de mujer fatal" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2020-07-11-usted-tiene-ojos-de-mujer-fatal-enrique-jardiel-poncela/"><img src="/blog/2020-07-11-usted-tiene-ojos-de-mujer-fatal-enrique-jardiel-poncela/featured.jpg" alt="#437 · Usted tiene ojos de mujer fatal" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">80</div>
@@ -576,7 +576,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2020-06-24-el-cuerpo-humano-guia-para-ocupantes-bill-bryson/"><img src="/blog/2020-06-24-el-cuerpo-humano-guia-para-ocupantes-bill-bryson/featured.jpg" alt="El cuerpo humano: Guía para ocupantes" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2020-06-24-el-cuerpo-humano-guia-para-ocupantes-bill-bryson/"><img src="/blog/2020-06-24-el-cuerpo-humano-guia-para-ocupantes-bill-bryson/featured.jpg" alt="#436 · El cuerpo humano: Guía para ocupantes" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">684</div>
@@ -619,7 +619,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2019-05-13-cuanta-tierra-necesita-un-hombre-leo-tolstoy/"><img src="/blog/2019-05-13-cuanta-tierra-necesita-un-hombre-leo-tolstoy/featured.jpg" alt="¿Cuánta tierra necesita un hombre?" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2019-05-13-cuanta-tierra-necesita-un-hombre-leo-tolstoy/"><img src="/blog/2019-05-13-cuanta-tierra-necesita-un-hombre-leo-tolstoy/featured.jpg" alt="#390 · ¿Cuánta tierra necesita un hombre?" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">66</div>
@@ -627,7 +627,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2019-11-13-la-subita-aparicion-de-hope-claire-north/"><img src="/blog/2019-11-13-la-subita-aparicion-de-hope-claire-north/featured.jpg" alt="La súbita aparición de Hope" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2019-11-13-la-subita-aparicion-de-hope-claire-north/"><img src="/blog/2019-11-13-la-subita-aparicion-de-hope-claire-north/featured.jpg" alt="#412 · La súbita aparición de Hope" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">614</div>
@@ -674,7 +674,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2018-02-07-manor-karl-heinrich-ulrichs/"><img src="/blog/2018-02-07-manor-karl-heinrich-ulrichs/featured.jpg" alt="Manor" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2018-02-07-manor-karl-heinrich-ulrichs/"><img src="/blog/2018-02-07-manor-karl-heinrich-ulrichs/featured.jpg" alt="#293 · Manor" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">9</div>
@@ -682,7 +682,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2018-02-25-tan-poca-vida-hanya-yanagihara/"><img src="/blog/2018-02-25-tan-poca-vida-hanya-yanagihara/featured.jpg" alt="Tan poca vida" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2018-02-25-tan-poca-vida-hanya-yanagihara/"><img src="/blog/2018-02-25-tan-poca-vida-hanya-yanagihara/featured.jpg" alt="#296 · Tan poca vida" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">1008</div>
@@ -695,7 +695,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2018-08-20-sex-criminals-11-manime-matt-fraction/"><img src="/blog/2018-08-20-sex-criminals-11-manime-matt-fraction/featured.jpg" alt="Sex Criminals #11: Manime" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2018-08-20-sex-criminals-11-manime-matt-fraction/"><img src="/blog/2018-08-20-sex-criminals-11-manime-matt-fraction/featured.jpg" alt="#336 · Sex Criminals #11: Manime" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">22</div>
@@ -703,7 +703,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2018-08-19-chew-vol-1-taster-s-choice-john-layman/"><img src="/blog/2018-08-19-chew-vol-1-taster-s-choice-john-layman/featured.jpg" alt="Chew, Vol. 1: Taster's Choice" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2018-08-19-chew-vol-1-taster-s-choice-john-layman/"><img src="/blog/2018-08-19-chew-vol-1-taster-s-choice-john-layman/featured.jpg" alt="#329 · Chew, Vol. 1: Taster's Choice" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">128</div>
@@ -754,7 +754,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2017-03-15-todos-deberiamos-ser-feministas-chimamanda-ngozi-adichie/"><img src="/blog/2017-03-15-todos-deberiamos-ser-feministas-chimamanda-ngozi-adichie/featured.jpg" alt="Todos deberíamos ser feministas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2017-03-15-todos-deberiamos-ser-feministas-chimamanda-ngozi-adichie/"><img src="/blog/2017-03-15-todos-deberiamos-ser-feministas-chimamanda-ngozi-adichie/featured.jpg" alt="#242 · Todos deberíamos ser feministas" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">32</div>
@@ -762,7 +762,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2017-04-24-cuentos-completos-alfanhui-spanish-edition-saki/"><img src="/blog/2017-04-24-cuentos-completos-alfanhui-spanish-edition-saki/featured.jpg" alt="Cuentos completos (Alfanhuí) (Spanish Edition)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2017-04-24-cuentos-completos-saki/"><img src="/blog/2017-04-24-cuentos-completos-saki/featured.jpg" alt="#245 · Cuentos completos" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">840</div>
@@ -775,7 +775,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2017-10-02-el-azul-es-un-color-calido-jul-maroh/"><img src="/blog/2017-10-02-el-azul-es-un-color-calido-jul-maroh/featured.jpg" alt="El azul es un color cálido" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2017-10-02-el-azul-es-un-color-calido-jul-maroh/"><img src="/blog/2017-10-02-el-azul-es-un-color-calido-jul-maroh/featured.jpg" alt="#270 · El azul es un color cálido" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">161</div>
@@ -783,7 +783,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2017-10-03-aquel-verano-mariko-tamaki/"><img src="/blog/2017-10-03-aquel-verano-mariko-tamaki/featured.jpg" alt="Aquel verano" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2017-10-03-aquel-verano-mariko-tamaki/"><img src="/blog/2017-10-03-aquel-verano-mariko-tamaki/featured.jpg" alt="#271 · Aquel verano" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">324</div>
@@ -820,7 +820,7 @@ summary: Estadísticas de lectura por año.
 ## 2016
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">29017</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">74</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">23109</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">61</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -834,7 +834,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2016-12-29-quidditch-a-traves-de-los-tiempos-kennilworthy-whisp/"><img src="/blog/2016-12-29-quidditch-a-traves-de-los-tiempos-kennilworthy-whisp/featured.jpg" alt="Quidditch a través de los tiempos" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2016-12-29-quidditch-a-traves-de-los-tiempos-kennilworthy-whisp/"><img src="/blog/2016-12-29-quidditch-a-traves-de-los-tiempos-kennilworthy-whisp/featured.jpg" alt="#223 · Quidditch a través de los tiempos" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">73</div>
@@ -842,7 +842,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2016-02-17-los-papeles-postumos-del-club-pickwick-charles-dickens/"><img src="/blog/2016-02-17-los-papeles-postumos-del-club-pickwick-charles-dickens/featured.jpg" alt="Los papeles póstumos del club Pickwick" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2016-02-17-los-papeles-postumos-del-club-pickwick-charles-dickens/"><img src="/blog/2016-02-17-los-papeles-postumos-del-club-pickwick-charles-dickens/featured.jpg" alt="#177 · Los papeles póstumos del club Pickwick" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">1007</div>
@@ -855,7 +855,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/"><img src="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/featured.jpg" alt="La vida cotidiana del dibujante underground" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/"><img src="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/featured.jpg" alt="#206 · La vida cotidiana del dibujante underground" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">288</div>
@@ -863,7 +863,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/"><img src="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/featured.jpg" alt="La vida cotidiana del dibujante underground" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/"><img src="/blog/2016-09-15-la-vida-cotidiana-del-dibujante-underground-nazario/featured.jpg" alt="#206 · La vida cotidiana del dibujante underground" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">288</div>
@@ -874,15 +874,15 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">392</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">288</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">379</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">288</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (60)</li><li>Fantasía (29)</li><li>Clásico (29)</li><li>Jovenes adultos (24)</li><li>Niños (20)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>LGTBIQ+ (1)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (49)</li><li>Fantasía (21)</li><li>Clásico (20)</li><li>Novela (18)</li><li>Club de lectura (15)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>LGTBIQ+ (1)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.47</strong></p><p>Nota más frecuente (texto): <strong>Bien</strong></p>
+<h3 style="margin-top:0;">Valoración</h3><p>Media de nota (numérica): <strong>3.48</strong></p><p>Nota más frecuente (texto): <strong>Bien</strong></p>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -900,7 +900,7 @@ summary: Estadísticas de lectura por año.
 ## 2015
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">29266</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">93</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">24122</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">79</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -910,7 +910,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2015-04-11-espejismo-hugh-howey/"><img src="/blog/2015-04-11-espejismo-hugh-howey/featured.jpg" alt="Espejismo" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2015-04-11-espejismo-hugh-howey/"><img src="/blog/2015-04-11-espejismo-hugh-howey/featured.jpg" alt="#105 · Espejismo" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">46</div>
@@ -918,7 +918,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2015-05-20-las-luminarias-eleanor-catton/"><img src="/blog/2015-05-20-las-luminarias-eleanor-catton/featured.jpg" alt="Las luminarias" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2015-05-20-las-luminarias-eleanor-catton/"><img src="/blog/2015-05-20-las-luminarias-eleanor-catton/featured.jpg" alt="#111 · Las luminarias" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">808</div>
@@ -929,11 +929,11 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">315</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">305</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (74)</li><li>Novela (35)</li><li>Contemporaneo (27)</li><li>Misterio (26)</li><li>Clásico (25)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (62)</li><li>Novela (32)</li><li>Contemporaneo (25)</li><li>Literatura (22)</li><li>Clásico (21)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -951,11 +951,11 @@ summary: Estadísticas de lectura por año.
 ## 2014
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">29789</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">95</div></div></div>
+<h3 style="margin-top:0;">Libros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">25012</div></div><div><div style="opacity:0.6;">Número de libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">81</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">2519</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">3</div></div></div>
+<h3 style="margin-top:0;">Cómics/Manga</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Total páginas leídas</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">1319</div></div><div><div style="opacity:0.6;">Número de cómics/manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">2</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
@@ -965,7 +965,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Libros: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2014-07-27-de-ratones-y-hombres-john-steinbeck/"><img src="/blog/2014-07-27-de-ratones-y-hombres-john-steinbeck/featured.jpg" alt="De ratones y hombres" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2014-07-27-de-ratones-y-hombres-john-steinbeck/"><img src="/blog/2014-07-27-de-ratones-y-hombres-john-steinbeck/featured.jpg" alt="#57 · De ratones y hombres" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">110</div>
@@ -973,7 +973,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2014-10-26-cronica-del-pajaro-que-da-cuerda-al-mundo-haruki-murakami/"><img src="/blog/2014-10-26-cronica-del-pajaro-que-da-cuerda-al-mundo-haruki-murakami/featured.jpg" alt="Crónica del pájaro que da cuerda al mundo" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2014-10-26-cronica-del-pajaro-que-da-cuerda-al-mundo-haruki-murakami/"><img src="/blog/2014-10-26-cronica-del-pajaro-que-da-cuerda-al-mundo-haruki-murakami/featured.jpg" alt="#78 · Crónica del pájaro que da cuerda al mundo" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">912</div>
@@ -986,7 +986,7 @@ summary: Estadísticas de lectura por año.
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
 <h3 style="margin-top:0;">Cómics/Manga: más corto y más largo</h3><div style="display:flex;flex-wrap:wrap;gap:2.5rem;align-items:flex-end;margin:1rem 0 1.5rem;">
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2014-10-30-weird-things-customers-say-in-bookshops-jen-campbell/"><img src="/blog/2014-10-30-weird-things-customers-say-in-bookshops-jen-campbell/featured.jpg" alt="Weird Things Customers Say in Bookshops" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2014-10-30-weird-things-customers-say-in-bookshops-jen-campbell/"><img src="/blog/2014-10-30-weird-things-customers-say-in-bookshops-jen-campbell/featured.jpg" alt="#80 · Weird Things Customers Say in Bookshops" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más corto</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">119</div>
@@ -994,7 +994,7 @@ summary: Estadísticas de lectura por año.
   </div>
 </div>
 <div style="display:flex;align-items:center;gap:1rem;">
-  <a href="/blog/2014-10-05-adolf-integral-volumenes-1-y-2-coleccion-trazado-adolf-integral-1-2-osamu-tezuka/"><img src="/blog/2014-10-05-adolf-integral-volumenes-1-y-2-coleccion-trazado-adolf-integral-1-2-osamu-tezuka/featured.jpg" alt="Adolf Integral, volúmenes 1 y 2 (Colección Trazado: Adolf Integral, #1-2)" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
+  <a href="/blog/2014-10-05-adolf-integral-volumenes-1-y-2-osamu-tezuka/"><img src="/blog/2014-10-05-adolf-integral-volumenes-1-y-2-osamu-tezuka/featured.jpg" alt="#74 · Adolf Integral, volúmenes 1 y 2" style="width:100px;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.25);display:block;"></a>
   <div>
     <div style="opacity:0.6;font-size:0.95rem;">Más largo</div>
     <div style="font-size:2.4rem;font-weight:800;line-height:1.1;">1200</div>
@@ -1005,11 +1005,11 @@ summary: Estadísticas de lectura por año.
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">314</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">840</div><div style="font-weight:700;">páginas de media</div></div></div>
+<h3 style="margin-top:0;">Longitud media</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;">Libros</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">309</div><div style="font-weight:700;">páginas de media</div></div><div><div style="opacity:0.6;">Cómics/Manga</div><div style="font-size:2rem;font-weight:800;line-height:1.1;">660</div><div style="font-weight:700;">páginas de media</div></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">
-<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (73)</li><li>Clásico (39)</li><li>Literatura (35)</li><li>Novela (34)</li><li>Club de lectura (29)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (3)</li><li>No Ficción (1)</li><li>Humor (1)</li><li>Libros sobre libros (1)</li><li>Comedia (1)</li></ol></div></div>
+<h3 style="margin-top:0;">Top 5 géneros</h3><div style="display:flex;gap:2.5rem;flex-wrap:wrap;"><div><div style="opacity:0.6;margin-bottom:0.3rem;">Libros</div><ol style="margin:0;padding-left:1.2rem;"><li>Ficción (63)</li><li>Clásico (35)</li><li>Literatura (31)</li><li>Novela (30)</li><li>Club de lectura (26)</li></ol></div><div><div style="opacity:0.6;margin-bottom:0.3rem;">Cómics/Manga</div><ol style="margin:0;padding-left:1.2rem;"><li>Novela gráfica (2)</li><li>No Ficción (1)</li><li>Humor (1)</li><li>Libros sobre libros (1)</li><li>Comedia (1)</li></ol></div></div>
 </div>
 
 <div style="border:1px solid rgba(128,128,128,0.35);border-radius:12px;padding:1.25rem 1.5rem;margin:1rem 0;background:rgba(128,128,128,0.06);">

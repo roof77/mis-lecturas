@@ -1,5 +1,5 @@
 ---
-title: El condominio
+title: '#116 · El condominio'
 summary: CONDOMINIO
 date: '2015-06-13T23:59:59'
 authors:
@@ -9,6 +9,7 @@ tags:
 - Libros
 - Ficción
 toc: false
+id: 116
 autores:
 - Stanley Elkin
 - Montse Meneses Vilar
@@ -33,7 +34,7 @@ CONDOMINIO
 - **Colaboradores:** [Montse Meneses Vilar](/autores/montse-meneses-vilar/) (translator)
 - **Editorial:** La Fuga Ediciones
 - **Formato:** Paperback, 158 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494309633 / 9788494309632
 - **Publicación original:** 2015-05-01
 - **Géneros:** [Ficción](/tags/ficcion/)

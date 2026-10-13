@@ -1,5 +1,5 @@
 ---
-title: La vegetariana
+title: '#315 · La vegetariana'
 summary: '"La vegetariana" relata la historia de una mujer corriente, Yeonghye, que por la simple decisión de no volver a
   comer carne convierte una vida normal en una…'
 date: '2018-06-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Adultos
 toc: false
+id: 315
 autores:
 - Han Kang
 - Sunme Yoon
@@ -43,7 +44,7 @@ nota: '3'
 - **Colaboradores:** [Sunme Yoon](/autores/sunme-yoon/) (Translator), [Gabi Martínez](/autores/gabi-martinez/) (Foreword)
 - **Editorial:** :Rata_
 - **Formato:** Paperback, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416738130 / 9788416738137
 - **Publicación original:** 2017-03-22
 - **Géneros:** [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Ásia](/tags/asia/), [Salud mentál](/tags/salud-mental/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)

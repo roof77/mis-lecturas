@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals #15: The Crew'
+title: '#340 · Sex Criminals #15: The Crew'
 summary: Kegel Face steals Jon's files from his therapist.
 date: '2018-08-20T23:59:45'
 authors:
@@ -7,12 +7,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Fantasía
 - Crimen
 - Humor
 toc: false
+id: 340
 autores:
 - Matt Fraction
 - Chip Zdarsky

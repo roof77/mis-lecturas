@@ -1,5 +1,5 @@
 ---
-title: La invitada
+title: '#718 · La invitada'
 summary: 'Tras el éxito mundial de Las chicas, llega la esperadísima segunda novela de Emma Cline: una joven a la fuga en
   un entorno de lujo y apariencias, un thriller…'
 date: '2025-03-09T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Adultos
 toc: false
+id: 718
 autores:
 - Emma Cline
 - Inga Pellisa
@@ -48,7 +49,7 @@ Emma Cline, que con su éxito mundial Las chicas se reveló como una de las voce
 - **Colaboradores:** [Inga Pellisa](/autores/inga-pellisa/) (translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433927221 / 9788433927224
 - **Publicación original:** 2024-09-12
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Misterio](/tags/misterio/), [Verano](/tags/verano/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)

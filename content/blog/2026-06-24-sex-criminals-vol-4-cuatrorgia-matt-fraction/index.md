@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals, Vol. 4: Cuatrorgia'
+title: '#872 · Sex Criminals, Vol. 4: Cuatrorgia'
 summary: Ahora que Suzie y Jon no están solos en su cruzada contra la Policía del Sexo parece un buen momento para hacer planes
   juntos. Pero comportarse como una pareja…
 date: '2026-06-24T23:59:56'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Fantasía
@@ -17,6 +16,7 @@ tags:
 - Romance
 - Adultos
 toc: false
+id: 872
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -47,7 +47,7 @@ Sex Criminals recibió los premios Eisner y Harvey a la mejor serie de cómic en
 - **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Author)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416880964 / 9788416880966
 - **Publicación original:** 2019-01-31
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Ciencia ficción](/tags/ciencia-ficcion/), [Romance](/tags/romance/), [Adultos](/tags/adultos/)

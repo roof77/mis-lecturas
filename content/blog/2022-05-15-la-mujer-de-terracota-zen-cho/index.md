@@ -1,5 +1,5 @@
 ---
-title: La mujer de terracota
+title: '#538 · La mujer de terracota'
 summary: "Una historia sobre la corrupción, el primer amor y la inteligencia artificial en el más allá chino\r\n\r\nEn la\
   \ décima corte del infierno, los espíritus que son lo…"
 date: '2022-05-15T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ciencia ficción
 - Mitología
 toc: false
+id: 538
 autores:
 - Zen Cho
 - Rebeca Cardeñoso Viña
@@ -50,7 +51,7 @@ La mujer de terracota es un relato de Zen Cho que aúna la sátira y la esperanz
 - **Colaboradores:** [Rebeca Cardeñoso Viña](/autores/rebeca-cardenoso-vina/) (Translator), [Qu Lan](/autores/qu-lan/) (Illustrator)
 - **Editorial:** Duermevela
 - **Formato:** Paperback, 100 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412437500 / 9788412437508
 - **Publicación original:** 2021-10-14
 - **Géneros:** [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Queer](/tags/queer/), [Novella](/tags/novella/), [Lesbianismo](/tags/lesbianismo/), [Adultos](/tags/adultos/), [Ciencia ficción](/tags/ciencia-ficcion/), [Mitología](/tags/mitologia/)

@@ -1,5 +1,5 @@
 ---
-title: Tengo algunas preguntas para usted
+title: '#762 · Tengo algunas preguntas para usted'
 summary: Bodie Kane, autora de un podcast de gran éxito, es invitada a regresar como profesora a Granby School, el internado
   de élite de New Hampshire en que se graduó…
 date: '2025-07-29T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - Dark Academia
 toc: false
+id: 762
 autores:
 - Rebecca Makkai
 - Aurora Echevarría
@@ -43,7 +44,7 @@ Hipnótica y tremendamente actual, la nueva novela de Rebecca Makkai reflexiona 
 - **Colaboradores:** [Aurora Echevarría](/autores/aurora-echevarria/) (translator)
 - **Editorial:** Sexto Piso
 - **Formato:** Paperback, 500 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419261580 / 9788419261588
 - **Publicación original:** 2024-03-04
 - **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Crimen](/tags/crimen/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Dark Academia](/tags/dark-academia/)

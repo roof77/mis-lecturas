@@ -1,5 +1,5 @@
 ---
-title: El aspecto del diablo
+title: '#504 · El aspecto del diablo'
 summary: ¿Cómo atrapas a un asesino cuando estás rodeado de locura?1935. Mientras Europa se prepara para una guerra funesta,
   seis homicidas dementes, conocidos como…
 date: '2021-10-31T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Gótico
 - Crimen
 toc: false
+id: 504
 autores:
 - Craig Russell
 - Enrique Alda
@@ -41,7 +42,7 @@ nota: 3,75
 - **Colaboradores:** [Enrique Alda](/autores/enrique-alda/) (Translator)
 - **Editorial:** ROCA EDITORIAL
 - **Formato:** Kindle Edition, 496 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417771948 / 9788417771942
 - **Publicación original:** 2019-06-06
 - **Géneros:** [Terror](/tags/terror/), [Ficción histórica](/tags/ficcion-historica/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Histórico](/tags/historico/), [Gótico](/tags/gotico/), [Crimen](/tags/crimen/)

@@ -1,5 +1,5 @@
 ---
-title: Ríos de Londres
+title: '#327 · Ríos de Londres'
 summary: El joven agente de la Policía Metropolitana de Londres Peter Grant era un agente novato más hasta que un día, durante
   la investigación de un terrible…
 date: '2018-08-08T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Londres
 - Sobrenatural
 toc: false
+id: 327
 autores:
 - Ben Aaronovitch
 - Cristina Martínez
@@ -43,7 +44,7 @@ El joven agente de la Policía Metropolitana de Londres Peter Grant era un agent
 - **Colaboradores:** [Cristina Martínez](/autores/cristina-martinez/) (Translator)
 - **Editorial:** Oz
 - **Formato:** Paperback, 336 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416224463 / 9788416224463
 - **Publicación original:** 2017-10-11
 - **Géneros:** [Fantasía](/tags/fantasia/), [Fantasía urbana](/tags/fantasia-urbana/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Paranormal](/tags/paranormal/), [Mágia](/tags/magia/), [Londres](/tags/londres/), [Sobrenatural](/tags/sobrenatural/)

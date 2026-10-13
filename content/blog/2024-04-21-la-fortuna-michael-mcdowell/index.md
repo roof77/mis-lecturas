@@ -1,5 +1,5 @@
 ---
-title: La fortuna
+title: '#639 · La fortuna'
 summary: '1946. Come un organismo vivente, la famiglia Caskey si sviluppa e si trasforma. Alcuni affrontano la morte, altri
   accolgono la vita: tra riavvicinamenti…'
 date: '2024-04-21T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Thriller
 - Histórico
 toc: false
+id: 639
 autores:
 - Michael McDowell
 - Elena Cantoni

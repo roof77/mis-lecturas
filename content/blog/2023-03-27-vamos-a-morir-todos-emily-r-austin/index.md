@@ -1,5 +1,5 @@
 ---
-title: Vamos a morir todos
+title: '#587 · Vamos a morir todos'
 summary: Gilda teme a la muerte, lo normal. Solo que también le da miedo seguir viva, y lo que eso supone. Lidiar con una
   familia excesiva. Pagar facturas. Dar un paso…
 date: '2023-03-27T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Club de lectura
 toc: false
+id: 587
 autores:
 - Emily R. Austin
 - Julia Viejo
@@ -42,7 +43,7 @@ Gilda teme a la muerte, lo normal. Solo que también le da miedo seguir viva, y 
 - **Colaboradores:** [Julia Viejo](/autores/julia-viejo/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 280 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419172960 / 9788419172969
 - **Publicación original:** 2023-03-08
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Salud mentál](/tags/salud-mental/), [Lesbianismo](/tags/lesbianismo/), [Ficción Literaria](/tags/ficcion-literaria/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/)

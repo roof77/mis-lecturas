@@ -1,5 +1,5 @@
 ---
-title: 'Los Vengadores: La Saga de Korvac ¡Con los Guardianes de la Galaxia!'
+title: '#776 · Los Vengadores: La Saga de Korvac ¡Con los Guardianes de la Galaxia!'
 summary: "Edición corregida.\r\nKorvac ha llegado desde el siglo XXXI para perseguir a los Guardianes de la Galaxia y a sus\
   \ nuevos aliados: Los Vengadores. El Hombre…"
 date: '2025-10-19T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Marvel
@@ -17,6 +16,7 @@ tags:
 - Clásico
 - Fantasía
 toc: false
+id: 776
 autores:
 - Jim Shooter
 autores_stats:
@@ -43,7 +43,7 @@ Mighty Thor Annual 6, Avengers 167, 168, 170-177 y The Korvac Saga TPB Epilogue 
 - **Serie:** Avengers (1963) (#167-168, 170-177)
 - **Editorial:** Panini Comics España
 - **Formato:** Paperback, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490247625 / 9788490247624
 - **Publicación original:** 2014-06-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Marvel](/tags/marvel/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Clásico](/tags/clasico/), [Fantasía](/tags/fantasia/)

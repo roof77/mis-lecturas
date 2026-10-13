@@ -1,5 +1,5 @@
 ---
-title: Autonomous
+title: '#543 · Autonomous'
 summary: La Tierra, 2144. Jack es una científica antipatentes que se ha convertido en una pirata de drogas; viaja por el mundo
   en un submarino como si fuera una Robin…
 date: '2022-05-31T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Fantasía
 - Robots
 toc: false
+id: 543
 autores:
 - Annalee Newitz
 - Alexander Páez
@@ -47,7 +48,7 @@ Y como telón de fondo hay una pregunta fundamental: ¿Es posible la libertad en
 - **Colaboradores:** [Alexander Páez](/autores/alexander-paez/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788445006290
 - **Publicación original:** 2019-07-02
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Distopía](/tags/distopia/), [Queer](/tags/queer/), [Ficción especulativa](/tags/ficcion-especulativa/), [LGTBIQ+](/tags/lgtbiq/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Robots](/tags/robots/)

@@ -1,5 +1,5 @@
 ---
-title: 'Nunca delante de los criados: Retrato fiel de la vida arriba y abajo'
+title: '#564 · Nunca delante de los criados: Retrato fiel de la vida arriba y abajo'
 summary: Whole armies of butlers, cooks and housemaids were employed in the great households of Victorian and Edwardian England.
   This book is a nostalgic study of this…
 date: '2022-10-04T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Siglo XIX
 - Downton Abbey
 toc: false
+id: 564
 autores:
 - Frank Victor Dawes
 - Ángeles de los Santos
@@ -40,7 +41,7 @@ Whole armies of butlers, cooks and housemaids were employed in the great househo
 - **Colaboradores:** [Ángeles de los Santos](/autores/angeles-de-los-santos/) (Translator)
 - **Editorial:** Periférica
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418838337 / 9788418838330
 - **Publicación original:** 2022-05-09
 - **Géneros:** [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [Histórico](/tags/historico/), [Victoriano](/tags/victoriano/), [Biografía](/tags/biografia/), [Siglo XIX](/tags/siglo-xix/), [Downton Abbey](/tags/downton-abbey/)

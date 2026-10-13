@@ -1,5 +1,5 @@
 ---
-title: Cecil and Jordan in New York
+title: '#861 · Cecil and Jordan in New York'
 summary: Short stories, including the adapted-to-film original Cecil and Jordan in New York Gabrielle Bell splits her cartooning
   time between creating wry sketchbook…
 date: '2026-06-07T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Relatos
 - Nueva York
 - Mujeres
 - Adultos
 toc: false
+id: 861
 autores:
 - Gabrielle Bell
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: Bel Canto
+title: '#761 · Bel Canto'
 summary: En algún lugar de Sudamérica, el vicepresidente de la nación celebra en su residencia una suntuosa fiesta en honor
   al señor Hosokawa, un influyente hombre de…
 date: '2025-07-15T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Ficción adulta
 toc: false
+id: 761
 autores:
 - Ann Patchett
 autores_stats:
@@ -40,7 +41,7 @@ En algún lugar de Sudamérica, el vicepresidente de la nación celebra en su re
 - **Autor:** [Ann Patchett](/autores/ann-patchett/)
 - **Editorial:** DIAGONAL
 - **Formato:** Hardcover, 381 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8497620577 / 9788497620574
 - **Publicación original:** 2003-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Ficción histórica](/tags/ficcion-historica/), [Música](/tags/musica/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Ficción adulta](/tags/ficcion-adulta/)

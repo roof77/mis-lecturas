@@ -1,5 +1,5 @@
 ---
-title: En estado salvaje
+title: '#264 · En estado salvaje'
 summary: 'Son diez, y al despertarse una mañana descubren el horror: alguien las ha drogado y trasladado a un lugar siniestro
   en medio de la nada. Están encerradas en…'
 date: '2017-09-11T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Terror
 - Literatura
 toc: false
+id: 264
 autores:
 - Charlotte Wood
 autores_stats:
@@ -47,7 +48,7 @@ Al hilo de la mejor tradición literaria, con ecos que nos recuerdan las escenas
 - **Autor:** [Charlotte Wood](/autores/charlotte-wood/)
 - **Editorial:** Lumen
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8426404200 / 9788426404206
 - **Publicación original:** 2017-09-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Club de lectura](/tags/club-de-lectura/), [Australia](/tags/australia/), [Feminismo](/tags/feminismo/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Ciencia ficción](/tags/ciencia-ficcion/), [Terror](/tags/terror/), [Literatura](/tags/literatura/)

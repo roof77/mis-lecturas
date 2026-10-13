@@ -1,5 +1,5 @@
 ---
-title: El libro de la señorita Buncle
+title: '#33 · El libro de la señorita Buncle'
 summary: El señor Abbott, editor londinense, recibe un manuscrito firmado por un tal "John Smith" que cuenta la vida de un
   pueblecito inglés inesperadamente trastornado…
 date: '2014-05-06T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Histórico
 - Libros sobre libros
 toc: false
+id: 33
 autores:
 - D.E. Stevenson
 - Concepción Cardeñoso Sáenz de Miera
@@ -45,7 +46,7 @@ Quien lo ha escrito no es "John Smith" sino Barbara Buncle, una "cuarentona flac
 - **Colaboradores:** [Concepción Cardeñoso Sáenz de Miera](/autores/concepcion-cardenoso-saenz-de-miera/) (Translator)
 - **Editorial:** Alba Editorial
 - **Formato:** Paperback, 378 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484287246 / 9788484287247
 - **Publicación original:** 2012-05-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Humor](/tags/humor/), [Romance](/tags/romance/), [Literatura británica](/tags/literatura-britanica/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/), [Libros sobre libros](/tags/libros-sobre-libros/)

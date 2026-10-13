@@ -1,5 +1,5 @@
 ---
-title: Violetas de marzo
+title: '#1 · Violetas de marzo'
 summary: Berlín, 1936. Bernie Gunther creía estar curado de espanto, pero ahora que ha abandonado el cuerpo de policía y se
   ha hecho investigador privado, el recuerdo…
 date: '2014-01-02T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Histórico
 - Detectives
 toc: false
+id: 1
 autores:
 - Philip Kerr
 autores_stats:
@@ -41,7 +42,7 @@ Berlín, 1936. Bernie Gunther creía estar curado de espanto, pero ahora que ha 
 - **Serie:** Bernie Gunther (#1)
 - **Editorial:** RBA
 - **Formato:** Paperback, 383 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498676649 / 9788498676648
 - **Publicación original:** 2007-01-01
 - **Géneros:** [Misterio](/tags/misterio/), [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Thriller](/tags/thriller/), [Alemania](/tags/alemania/), [Noir](/tags/noir/), [Histórico](/tags/historico/), [Detectives](/tags/detectives/)

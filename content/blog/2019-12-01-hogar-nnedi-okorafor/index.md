@@ -1,5 +1,5 @@
 ---
-title: Hogar
+title: '#416 · Hogar'
 summary: '"Binti: Hogar" es la segunda parte de esta emocionante trilogía. Binti y Okwu llevan un año en la Universidad Oomza.
   Un año desde que Binti consiguiera la…'
 date: '2019-12-01T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Extraterrestres
 - Ficción especulativa
 toc: false
+id: 416
 autores:
 - Nnedi Okorafor
 - Carla Bataller Estruch
@@ -51,7 +52,7 @@ En esta segunda entrega, podemos ver cómo Binti debe enfrentarse a familia y am
 - **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (Translator)
 - **Editorial:** Crononauta
 - **Formato:** Paperback, 190 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494795848 / 9788494795848
 - **Publicación original:** 2018-11-08
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Jovenes adultos](/tags/jovenes-adultos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [África](/tags/africa/), [Extraterrestres](/tags/extraterrestres/), [Ficción especulativa](/tags/ficcion-especulativa/)

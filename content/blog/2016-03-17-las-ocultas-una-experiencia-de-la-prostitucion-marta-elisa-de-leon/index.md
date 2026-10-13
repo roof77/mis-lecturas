@@ -1,5 +1,5 @@
 ---
-title: Las ocultas. Una experiencia de la prostitución
+title: '#183 · Las ocultas. Una experiencia de la prostitución'
 summary: Marta Elisa de León fue al infierno y volvió. El infierno era la mentira, la ambigüedad, el consumismo, la poca autoestima,
   la obsesión por la imagen, el…
 date: '2016-03-17T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 183
 autores:
 - Marta Elisa de León
 autores_stats:
@@ -31,7 +32,7 @@ Marta Elisa de León fue al infierno y volvió. El infierno era la mentira, la a
 - **Autor:** [Marta Elisa de León](/autores/marta-elisa-de-leon/)
 - **Editorial:** Turner
 - **Formato:** Kindle Edition, 255 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841542745X / 9788415427452
 - **Publicación original:** 2012-03-12
 - **Ficha en Goodreads:** [Las ocultas. Una experiencia de la prostitución](https://www.goodreads.com/book/show/29434242-las-ocultas-una-experiencia-de-la-prostituci-n)

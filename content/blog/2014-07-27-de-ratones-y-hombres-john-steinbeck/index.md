@@ -1,5 +1,5 @@
 ---
-title: De ratones y hombres
+title: '#57 · De ratones y hombres'
 summary: Es una novela ambientada en California y en la época de la Depresión. En este contexto, la historia de dos trabajadores
   temporeros que sueñan en vano con…
 date: '2014-07-27T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - EEUU
 - Histórico
 toc: false
+id: 57
 autores:
 - John Steinbeck
 - Juan José Coy
@@ -45,7 +46,7 @@ Es una novela ambientada en California y en la época de la Depresión. En este 
 - **Colaboradores:** [Juan José Coy](/autores/juan-jose-coy/) (Author), [Consuelo Montes Granado](/autores/consuelo-montes-granado/) (Author)
 - **Editorial:** Editorial Vicens Vives
 - **Formato:** Paperback, 110 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 843163412X / 9788431634124
 - **Publicación original:** 2014-11-24
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Colegio](/tags/colegio/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Instituto](/tags/instituto/), [EEUU](/tags/eeuu/), [Histórico](/tags/historico/)

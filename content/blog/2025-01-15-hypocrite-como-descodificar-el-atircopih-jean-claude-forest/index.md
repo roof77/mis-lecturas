@@ -1,5 +1,5 @@
 ---
-title: 'Hypocrite: Cómo descodificar el Atircopih'
+title: '#697 · Hypocrite: Cómo descodificar el Atircopih'
 summary: Una de las obras más POP del creador de Barbarella.
 date: '2025-01-15T23:59:59'
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 697
 autores:
 - Jean-Claude Forest
 autores_stats:
@@ -32,7 +32,7 @@ Una de las obras más POP del creador de Barbarella.
 - **Serie:** Hypocrite (#2)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 64 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483571279 / 9788483571279
 - **Publicación original:** 2007-01-01
 - **Géneros:** [Comics](/tags/comics/)

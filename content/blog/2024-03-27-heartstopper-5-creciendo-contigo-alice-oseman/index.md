@@ -1,5 +1,5 @@
 ---
-title: Heartstopper 5. Creciendo contigo
+title: '#631 · Heartstopper 5. Creciendo contigo'
 summary: "Una nueva entrega de la aclamada serie Heartstopper repleta de sentimientos.\r\n\r\nAmor y sentimientos a flor de\
   \ piel en una nueva entrega de…"
 date: '2024-03-27T23:59:59'
@@ -10,7 +10,6 @@ tags:
 - Comics
 - Romance
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Queer
@@ -19,6 +18,7 @@ tags:
 - Gay
 - Salud mentál
 toc: false
+id: 631
 autores:
 - Alice Oseman
 autores_stats:
@@ -46,7 +46,7 @@ Nick y Charlie están muy enamorados. Por fin se han dicho esas dos palabras que
 - **Serie:** Heartstopper (#5)
 - **Editorial:** Crossbooks
 - **Formato:** Paperback, 336 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8408283537 / 9788408283539
 - **Publicación original:** 2024-02-14
 - **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/), [Salud mentál](/tags/salud-mental/)

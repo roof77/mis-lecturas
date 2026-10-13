@@ -1,5 +1,5 @@
 ---
-title: Los millones de Brewster
+title: '#67 · Los millones de Brewster'
 summary: En plena fiesta de su 25º cumpleaños Monty Brewster recibe la noticia de que su abuelo ha fallecido y le ha dejado
   un millón de dólares. Apenas se ha…
 date: '2014-09-14T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - EEUU
 - Nueva York
 toc: false
+id: 67
 autores:
 - George Barr McCutcheon
 - Pablo Sauras
@@ -41,7 +42,7 @@ En plena fiesta de su 25º cumpleaños Monty Brewster recibe la noticia de que s
 - **Colaboradores:** [Pablo Sauras](/autores/pablo-sauras/) (Translator)
 - **Editorial:** Alba Editorial
 - **Formato:** Paperback, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490650179 / 9788490650172
 - **Publicación original:** 2014-03-09
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Literatura](/tags/literatura/), [Ficción histórica](/tags/ficcion-historica/), [EEUU](/tags/eeuu/), [Nueva York](/tags/nueva-york/)

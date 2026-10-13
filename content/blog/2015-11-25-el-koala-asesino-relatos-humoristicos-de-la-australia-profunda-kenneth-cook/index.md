@@ -1,5 +1,5 @@
 ---
-title: 'El koala asesino : relatos humorísticos de la Australia profunda'
+title: '#155 · El koala asesino : relatos humorísticos de la Australia profunda'
 summary: '«No me gustan los koalas. Son unos bichos asquerosos, irascibles y estúpidos sin una pizca de bondad. Sus hábitos
   sociales son vergonzosos: los machos siempre…'
 date: '2015-11-25T23:59:59'
@@ -15,6 +15,7 @@ tags:
 - Viajes
 - Ficción
 toc: false
+id: 155
 autores:
 - Kenneth Cook
 - Guido Sender Montes
@@ -44,7 +45,7 @@ Publicado originalmente en Australia en 1986, "El koala asesino" es el primer vo
 - **Colaboradores:** [Guido Sender Montes](/autores/guido-sender-montes/) (Illustrator), [Federico Corriente Basús](/autores/federico-corriente-basus/) (Translator)
 - **Editorial:** Sajalín
 - **Formato:** Paperback, 212 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493805157 / 9788493805159
 - **Publicación original:** 2011-03-01
 - **Géneros:** [Humor](/tags/humor/), [Australia](/tags/australia/), [Relatos](/tags/relatos/), [Francia](/tags/francia/), [Viajes](/tags/viajes/), [Ficción](/tags/ficcion/)

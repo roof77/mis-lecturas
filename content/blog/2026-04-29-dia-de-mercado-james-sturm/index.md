@@ -1,5 +1,5 @@
 ---
-title: Día de mercado
+title: '#828 · Día de mercado'
 summary: 'La vida de Mendleman, futuro padre, se ve trastornada cuando descubre que no puede seguir trabajando en lo que mejor
   sabe hacer: fabricar alfombras…'
 date: '2026-04-29T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Ficción histórica
 - Judaismo
 - Ficción adulta
 - Adultos
 toc: false
+id: 828
 autores:
 - James Sturm
 autores_stats:
@@ -38,7 +38,7 @@ La vida de Mendleman, futuro padre, se ve trastornada cuando descubre que no pue
 - **Autor:** [James Sturm](/autores/james-sturm/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 96 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492769491 / 9788492769490
 - **Publicación original:** 2010-01-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Judaismo](/tags/judaismo/), [Ficción adulta](/tags/ficcion-adulta/), [Adultos](/tags/adultos/)

@@ -1,5 +1,5 @@
 ---
-title: La oficina
+title: '#196 · La oficina'
 summary: Jens Jansen está harto de su vida y de su trabajo como mando intermedio en una empresa que fabrica cascos de ciclista.
   Pero su hartazgo no se debe a que aspire…
 date: '2016-06-02T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Suecia
 - Literatura sueca
 toc: false
+id: 196
 autores:
 - Lars Berge
 - Martin Lexell

@@ -1,5 +1,5 @@
 ---
-title: Utopía para realistas
+title: '#439 · Utopía para realistas'
 summary: Fruto del espectacular avance de la ciencia en los últimos decenios, la globalización está transformando de forma
   radical el orden social y económico del siglo…
 date: '2020-07-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ciencia
 - Negocios
 toc: false
+id: 439
 autores:
 - Rutger Bregman
 autores_stats:
@@ -45,7 +46,7 @@ This guide to a revolutionary yet achievable utopia offers three core ideas-a un
 - **Autor:** [Rutger Bregman](/autores/rutger-bregman/)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849838799X / 9788498387995
 - **Publicación original:** 2017-03-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Política](/tags/politica/), [Economía](/tags/economia/), [Filosofía](/tags/filosofia/), [Historia](/tags/historia/), [Sociología](/tags/sociologia/), [Sociedad](/tags/sociedad/), [Ciencia](/tags/ciencia/), [Negocios](/tags/negocios/)

@@ -1,5 +1,5 @@
 ---
-title: Marvel Omnibus. Daredevil de Ed Brubaker y Michael Lark 2
+title: '#882 · Marvel Omnibus. Daredevil de Ed Brubaker y Michael Lark 2'
 summary: El formidable equipo creativo formado por Ed Brubaker, el hombre que mató al Capitán América, y Michael Lark (Gotham
   Central) se une para dejar su marca en una…
 date: '2026-07-07T23:59:58'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Marvel
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Colecciones
 - Acción
 toc: false
+id: 882
 autores:
 - Ed Brubaker
 - Michael Lark
@@ -41,7 +41,7 @@ El formidable equipo creativo formado por Ed Brubaker, el hombre que mató al Ca
 - **Colaboradores:** [Michael Lark](/autores/michael-lark/) (Dibujo)
 - **Editorial:** Panini España
 - **Formato:** Hardcover, 496 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410497824 / 9788410497825
 - **Publicación original:** 2026-02-01
 - **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Superheroes](/tags/superheroes/), [Colecciones](/tags/colecciones/), [Acción](/tags/accion/)

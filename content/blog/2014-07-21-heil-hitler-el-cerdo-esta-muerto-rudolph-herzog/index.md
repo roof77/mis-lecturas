@@ -1,5 +1,5 @@
 ---
-title: Heil Hitler, el cerdo está muerto
+title: '#54 · Heil Hitler, el cerdo está muerto'
 summary: Debido a la trágica dimensión de los horrores cometidos por el régimen nazi mucha gente tiene dificultades para adoptar
   una mirada cómica sobre Hitler y el…
 date: '2014-07-21T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Holocausto
 - Historia militar
 toc: false
+id: 54
 autores:
 - Rudolph Herzog
 - Begoña Llovet Barquero
@@ -44,7 +45,7 @@ En los primeros años del régimen muchos alemanes se burlaron de Hitler y otros
 - **Colaboradores:** [Begoña Llovet Barquero](/autores/begona-llovet-barquero/) (Traductora)
 - **Editorial:** Capitan Swing
 - **Formato:** Paperback, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849422137X / 9788494221378
 - **Publicación original:** 2014-06-02
 - **Géneros:** [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [Humor](/tags/humor/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Alemania](/tags/alemania/), [Política](/tags/politica/), [Literatura alemana](/tags/literatura-alemana/), [Holocausto](/tags/holocausto/), [Historia militar](/tags/historia-militar/)

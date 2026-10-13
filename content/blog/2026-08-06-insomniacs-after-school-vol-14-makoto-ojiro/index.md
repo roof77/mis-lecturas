@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 14
+title: '#914 · Insomniacs After School, vol. 14'
 summary: "Isaki ingresa en el hospital para cumplir su promesa: operarse y recuperarse a tiempo de asistir al examen de acceso\
   \ a la universidad.\r\n\r\nGanta, por su lado…"
 date: '2026-08-06T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Slice of life
 - Jovenes adultos
@@ -17,6 +16,7 @@ tags:
 - Novela gráfica
 - Adolescencia
 toc: false
+id: 914
 autores:
 - Makoto Ojiro
 - Sergi Pérez
@@ -46,7 +46,7 @@ Aquí concluye esta gran historia juvenil, que cuenta con una adaptación animad
 - **Colaboradores:** [Sergi Pérez](/autores/sergi-perez/) (Translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841022335X / 9788410223356
 - **Publicación original:** 2024-05-28
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Slice of life](/tags/slice-of-life/), [Jovenes adultos](/tags/jovenes-adultos/), [Seinen manga](/tags/seinen-manga/), [Novela gráfica](/tags/novela-grafica/), [Adolescencia](/tags/adolescencia/)

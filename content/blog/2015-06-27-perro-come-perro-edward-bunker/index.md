@@ -1,5 +1,5 @@
 ---
-title: Perro come perro
+title: '#120 · Perro come perro'
 summary: Troy Cameron, criminal ampliamente respetado en los bajos fondos de Los Ángeles, embarca a dos viejos camaradas del
   reformatorio en un golpe de los que…
 date: '2015-06-27T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Siglo XX
 - Novela
 toc: false
+id: 120
 autores:
 - Edward Bunker
 - Zulema Couso
@@ -50,7 +51,7 @@ Troy Cameron, criminal ampliamente respetado en los bajos fondos de Los Ángeles
 - **Colaboradores:** [Zulema Couso](/autores/zulema-couso/) (Translator)
 - **Editorial:** Sajalín
 - **Formato:** Paperback, 339 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493805114 / 9788493805111
 - **Publicación original:** 2010-01-01
 - **Géneros:** [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Noir](/tags/noir/), [Thriller](/tags/thriller/), [Contemporaneo](/tags/contemporaneo/), [EEUU](/tags/eeuu/), [Misterio](/tags/misterio/), [Siglo XX](/tags/siglo-xx/), [Novela](/tags/novela/)

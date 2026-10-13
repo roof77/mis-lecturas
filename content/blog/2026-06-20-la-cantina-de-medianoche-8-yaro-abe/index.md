@@ -1,5 +1,5 @@
 ---
-title: La cantina de medianoche 8
+title: '#867 · La cantina de medianoche 8'
 summary: Reseña de lectura de «La cantina de medianoche 8».
 date: '2026-06-20T23:59:59'
 authors:
@@ -8,8 +8,8 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 toc: false
+id: 867
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -30,7 +30,7 @@ nota: Muy recomendable
 - **Colaboradores:** [Alberto Sakai Fonseca](/autores/alberto-sakai-fonseca/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410332604 / 9788410332607
 - **Publicación original:** 2025-07-03
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/)

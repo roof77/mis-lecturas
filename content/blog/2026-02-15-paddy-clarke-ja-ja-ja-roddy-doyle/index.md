@@ -1,5 +1,5 @@
 ---
-title: Paddy Clarke, ja, ja, ja
+title: '#799 · Paddy Clarke, ja, ja, ja'
 summary: '"Sometimes when nothing happened it was really getting ready to happen." Irish Paddy rampages through Barrytown
   streets with like-minded hooligans, playing…'
 date: '2026-02-15T23:59:57'
@@ -19,6 +19,7 @@ tags:
 - Literatura
 - Siglo XX
 toc: false
+id: 799
 autores:
 - Roddy Doyle
 autores_stats:
@@ -41,7 +42,7 @@ nota: Muy bien
 - **Autor:** [Roddy Doyle](/autores/roddy-doyle/)
 - **Editorial:** FisicalBook
 - **Formato:** Hardcover
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 842399659X / 9788423996599
 - **Publicación original:** 1998-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Ficción Literaria](/tags/ficcion-literaria/), [Coming of age](/tags/coming-of-age/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Siglo XX](/tags/siglo-xx/)

@@ -1,5 +1,5 @@
 ---
-title: Me desperté con dos inviernos a los lados
+title: '#812 · Me desperté con dos inviernos a los lados'
 summary: La joven Cara Piqueres vive con su familia en una gran ciudad y lleva una existencia aparentemente normal, pero cuando
   llega la noche, y el padre regresa a…
 date: '2026-03-19T23:59:58'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 812
 autores:
 - Elsa Veiga
 autores_stats:
@@ -35,7 +36,7 @@ La autora recrea con meticulosidad una atmósfera doméstica opresiva en la que 
 - **Autor:** [Elsa Veiga](/autores/elsa-veiga/)
 - **Editorial:** Tres Hermanas
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412094352 / 9788412094350
 - **Publicación original:** 2020-02-26
 - **Ficha en Goodreads:** [Me desperté con dos inviernos a los lados](https://www.goodreads.com/book/show/51892507-me-despert-con-dos-inviernos-a-los-lados)

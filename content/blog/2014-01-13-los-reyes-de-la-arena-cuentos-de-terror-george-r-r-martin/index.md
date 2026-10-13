@@ -1,5 +1,5 @@
 ---
-title: 'Los reyes de la arena: Cuentos de terror'
+title: '#4 · Los reyes de la arena: Cuentos de terror'
 summary: Antes de vender millones de ejemplares y cosechar fama mundial por la saga Canción de Hielo y Fuego, George R. R.
   Martin publicó cuentos y novelas de fantasía…
 date: '2014-01-13T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción especulativa
 - Colección de relatos
 toc: false
+id: 4
 autores:
 - George R.R. Martin
 autores_stats:
@@ -47,7 +48,7 @@ Martin es además un maestro para combinar géneros: «Tráfico de piel» es un 
 - **Autor:** [George R.R. Martin](/autores/george-r-r-martin/)
 - **Editorial:** PLAZA JANÉS
 - **Formato:** Kindle Edition, 362 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6073161255 / 9786073161251
 - **Publicación original:** 2018-01-19
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Antología](/tags/antologia/), [Colecciones](/tags/colecciones/), [Ficción especulativa](/tags/ficcion-especulativa/), [Colección de relatos](/tags/coleccion-de-relatos/)

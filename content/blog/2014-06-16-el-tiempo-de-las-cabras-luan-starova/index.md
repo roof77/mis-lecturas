@@ -1,5 +1,5 @@
 ---
-title: El tiempo de las cabras
+title: '#41 · El tiempo de las cabras'
 summary: Based on a seemingly trivial event in recent Balkan history, this fable about the history and spirit of the Balkans
   highlights the dangers of ideologies and…
 date: '2014-06-16T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Ficción
 toc: false
+id: 41
 autores:
 - Luan Starova
 - Ramón Sánchez Lizarralde
@@ -38,7 +39,7 @@ Basada en un episodio aparentemente trivial de la reciente historia balcánica, 
 - **Colaboradores:** [Ramón Sánchez Lizarralde](/autores/ramon-sanchez-lizarralde/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 232 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493659703 / 9788493659707
 - **Publicación original:** 2008-10-01
 - **Géneros:** [Ficción](/tags/ficcion/)

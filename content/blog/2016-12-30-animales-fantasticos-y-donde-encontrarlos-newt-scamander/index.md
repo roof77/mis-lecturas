@@ -1,5 +1,5 @@
 ---
-title: Animales fantásticos y dónde encontrarlos
+title: '#224 · Animales fantásticos y dónde encontrarlos'
 summary: Hay un ejemplar de Animales fantásticos y dónde encontrarlos en casi todos los hogares de magos del país. Ahora,
   sólo por cierto tiempo, también los muggles…
 date: '2016-12-30T23:59:58'
@@ -17,6 +17,7 @@ tags:
 - Relatos
 - Dragones
 toc: false
+id: 224
 autores:
 - Newt Scamander
 - Alicia Dellepiane Rawson
@@ -45,7 +46,7 @@ Lo que se origine de la venta de este libro se destinará a Comic Relief, lo que
 - **Colaboradores:** [Alicia Dellepiane Rawson](/autores/alicia-dellepiane-rawson/) (Translator), [J.K. Rowling](/autores/j-k-rowling/) (Author)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 90 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478887245 / 9788478887248
 - **Publicación original:** 2001-10-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Harry Potter](/tags/harry-potter/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Relatos](/tags/relatos/), [Dragones](/tags/dragones/)

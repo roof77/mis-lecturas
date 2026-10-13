@@ -1,5 +1,5 @@
 ---
-title: Así se pierde la guerra del tiempo
+title: '#501 · Así se pierde la guerra del tiempo'
 summary: Así se pierde la guerra del tiempo de Max Gladstone y Amal El-Mohtar es una épica historia de amor entre dos agentes
   rivales en una guerra que se extiende…
 date: '2021-10-08T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Lesbianismo
 - Club de lectura
 toc: false
+id: 501
 autores:
 - Amal El-Mohtar
 - Max Gladstone
@@ -48,7 +49,7 @@ Roja y Azul, dos agentes de facciones rivales en una guerra que se extiende más
 - **Colaboradores:** [Max Gladstone](/autores/max-gladstone/) (Author), [Christian Rodríguez Carvajal](/autores/christian-rodriguez-carvajal/) (traductor)
 - **Editorial:** Insolita
 - **Formato:** Paperback, 181 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412104358 / 9788412104356
 - **Publicación original:** 2021-10-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Lesbianismo](/tags/lesbianismo/), [Club de lectura](/tags/club-de-lectura/)

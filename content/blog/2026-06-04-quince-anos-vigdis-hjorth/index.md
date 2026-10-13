@@ -1,5 +1,5 @@
 ---
-title: Quince años
+title: '#855 · Quince años'
 summary: "Quince años es una obra maestra sobre la juventud que nos recuerda a Tove Ditlevsen o a Tove Jansson y que está\
   \ llamada a convertirse en un clásico.\r\n\r\nLa…"
 date: '2026-06-04T23:59:59'
@@ -14,6 +14,7 @@ tags:
 - Familia
 - Coming of age
 toc: false
+id: 855
 autores:
 - Vigdis Hjorth
 - Kirsti Baggethun
@@ -45,7 +46,7 @@ La simulación de su madre sorprende a Paula, que ahora está rodeada de mentira
 - **Colaboradores:** [Kirsti Baggethun](/autores/kirsti-baggethun/) (translator), [Asunción Lorenzo](/autores/asuncion-lorenzo/) (translator)
 - **Editorial:** Nórdica Libros
 - **Formato:** Paperback, 184 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9791387563080
 - **Publicación original:** 2025-03-10
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Familia](/tags/familia/), [Coming of age](/tags/coming-of-age/)

@@ -1,5 +1,5 @@
 ---
-title: El coleccionista
+title: '#130 · El coleccionista'
 summary: Frederick es un solitario burócrata municipal que colecciona mariposas. Miranda es una radiante e inteligente estudiante
   de arte. Frederick la secuestra y la…
 date: '2015-07-23T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Contemporaneo
 - Literatura
 toc: false
+id: 130
 autores:
 - John Fowles
 - Susana Ónega
@@ -42,7 +43,7 @@ Frederick es un solitario burócrata municipal que colecciona mariposas. Miranda
 - **Colaboradores:** [Susana Ónega](/autores/susana-onega/) (Translator)
 - **Editorial:** Ediciones Cátedra
 - **Formato:** Paperback, 389 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8437617499 / 9788437617497
 - **Publicación original:** 1999-09-21
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Terror](/tags/terror/), [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/), [Literatura](/tags/literatura/)

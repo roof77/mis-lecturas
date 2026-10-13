@@ -1,5 +1,5 @@
 ---
-title: La mujer de la falda violeta
+title: '#513 · La mujer de la falda violeta'
 summary: "UNA EXTRAORDINARIA NOVELA \r\nSOBRE EL PODER DE LA (IN)DIFERENCIA\r\n\r\nLa mujer de la falda violeta es de una\
   \ edad indeterminada, vive sola, no se relaciona con…"
 date: '2021-12-30T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Misterio
 - Literatura asiática
 toc: false
+id: 513
 autores:
 - Natsuko Imamura
 - Juan Francisco González Sánchez
@@ -52,7 +53,7 @@ EL MÁS IMPORTANTE EN JAPÓN
 - **Colaboradores:** [Juan Francisco González Sánchez](/autores/juan-francisco-gonzalez-sanchez/) (Translator)
 - **Editorial:** Duomo
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417761721 / 9788417761721
 - **Publicación original:** 2020-08-31
 - **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/), [Thriller](/tags/thriller/), [Ficción Literaria](/tags/ficcion-literaria/), [Ásia](/tags/asia/), [Misterio](/tags/misterio/), [Literatura asiática](/tags/literatura-asiatica/)

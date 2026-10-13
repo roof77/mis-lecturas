@@ -1,5 +1,5 @@
 ---
-title: Las chicas
+title: '#205 · Las chicas'
 summary: California. Verano de 1969. Evie, una adolescente insegura y solitaria a punto de adentrarse en el incierto mundo
   de los adultos, se fija en un grupo de chicas…
 date: '2016-09-05T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Thriller
 toc: false
+id: 205
 autores:
 - Emma Cline
 - Inga Pellisa
@@ -46,7 +47,7 @@ Esta novela es obra de una debutante que, dada su juventud, ha dejado boquiabier
 - **Colaboradores:** [Inga Pellisa](/autores/inga-pellisa/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 344 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788433979582
 - **Publicación original:** 2016-08-31
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/), [Coming of age](/tags/coming-of-age/), [Adultos](/tags/adultos/), [Thriller](/tags/thriller/)

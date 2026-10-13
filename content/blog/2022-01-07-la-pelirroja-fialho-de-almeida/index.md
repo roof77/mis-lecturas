@@ -1,5 +1,5 @@
 ---
-title: La pelirroja
+title: '#516 · La pelirroja'
 summary: Fialho de Almeida (1857-1911) pertence àquela família de médicos que se tornam escritores porque vêem na literatura
   uma forma de medicina e na palavra um ácido…
 date: '2022-01-07T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Portugal
 - Romance
 toc: false
+id: 516
 autores:
 - Fialho de Almeida
 - Antonio Sáez Delgado
@@ -37,7 +38,7 @@ Fialho de Almeida (1857-1911) pertence àquela família de médicos que se torna
 - **Colaboradores:** [Antonio Sáez Delgado](/autores/antonio-saez-delgado/) (Translator)
 - **Editorial:** Editorial Periférica
 - **Formato:** Paperback, 153 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2006-04-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Literatura portuguesa](/tags/literatura-portuguesa/), [Portugal](/tags/portugal/), [Romance](/tags/romance/)
 - **Ficha en Goodreads:** [La pelirroja](https://www.goodreads.com/book/show/30162057-la-pelirroja)

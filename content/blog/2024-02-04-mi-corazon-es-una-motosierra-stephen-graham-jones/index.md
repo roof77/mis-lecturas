@@ -1,5 +1,5 @@
 ---
-title: Mi corazón es una motosierra
+title: '#618 · Mi corazón es una motosierra'
 summary: Jade Daniels es una adolescente fanática de los slashers que vive en Proofrock, Idaho, un pueblo situado al lado
   del lago Indian. En la otra orilla del lago se…
 date: '2024-02-04T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Índigenas
 - Contemporaneo
 toc: false
+id: 618
 autores:
 - Stephen Graham Jones
 - Manuel de los Reyes
@@ -42,7 +43,7 @@ Jade Daniels es una adolescente fanática de los slashers que vive en Proofrock,
 - **Colaboradores:** [Manuel de los Reyes](/autores/manuel-de-los-reyes/) (Translator), [Rafael Martín Coronel](/autores/rafael-martin-coronel/) (Illustrator)
 - **Editorial:** La Biblioteca de Carfax
 - **Formato:** Paperback, 464 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788412564 / 9788412564051
 - **Publicación original:** 2023-10-30
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Índigenas](/tags/indigenas/), [Contemporaneo](/tags/contemporaneo/)

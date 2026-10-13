@@ -1,5 +1,5 @@
 ---
-title: La cantina de medianoche 7
+title: '#820 · La cantina de medianoche 7'
 summary: Arriva il settimo volume del manga best seller di Abe Yaro. In questa nuova uscita, le storie sono particolarmente
   divertenti, per i motivi più  nomi di amici…
 date: '2026-03-29T23:59:59'
@@ -9,12 +9,12 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Japón
 - Comida
 - Ficción
 toc: false
+id: 820
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -40,7 +40,7 @@ Arriva il settimo volume del manga best seller di Abe Yaro. In questa nuova usci
 - **Colaboradores:** [Alberto Sakai Fonseca](/autores/alberto-sakai-fonseca/) (translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419670618 / 9788419670618
 - **Publicación original:** 2024-05-20
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Comida](/tags/comida/), [Ficción](/tags/ficcion/)

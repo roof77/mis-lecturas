@@ -1,5 +1,5 @@
 ---
-title: Estoy pensando en dejarlo
+title: '#442 · Estoy pensando en dejarlo'
 summary: "<Tendrás miedo, pero no sabrás por qué... «Estoy pensando en dejarlo». Una vez que llega este pensamiento, se queda.\
   \ Está presente siempre. Siempre.\r\nJake y yo…"
 date: '2020-09-16T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Suspense
 - Club de lectura
 toc: false
+id: 442
 autores:
 - Iain Reid
 - Cristina Martín Sanz
@@ -48,7 +49,7 @@ LA NOVELA EN LA QUE SE BASA LA PELÍCULA DIRIGIDA POR CHARLIE KAUFMAN
 - **Colaboradores:** [Cristina Martín Sanz](/autores/cristina-martin-sanz/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491818111 / 9788491818113
 - **Publicación original:** 2020-09-04
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Contemporaneo](/tags/contemporaneo/), [Suspense](/tags/suspense/), [Club de lectura](/tags/club-de-lectura/)

@@ -1,5 +1,5 @@
 ---
-title: El dique
+title: '#635 · El dique'
 summary: Mientras Perdido se recupera de la inundación, se propone la construcción de un dique que impida una nueva catástrofe.
   Sin embargo con las obras comenzarán las…
 date: '2024-04-09T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Gótico sureño
 - Histórico
 toc: false
+id: 635
 autores:
 - Michael McDowell
 - Carles Andreu
@@ -43,7 +44,7 @@ Mientras Perdido se recupera de la inundación, se propone la construcción de u
 - **Colaboradores:** [Carles Andreu](/autores/carles-andreu/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Mass Market Paperback, 272 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419654914 / 9788419654915
 - **Publicación original:** 2024-02-21
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Ficción histórica](/tags/ficcion-historica/), [Gótico sureño](/tags/gotico-sureno/), [Histórico](/tags/historico/)

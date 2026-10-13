@@ -1,5 +1,5 @@
 ---
-title: Los optimistas
+title: '#507 · Los optimistas'
 summary: Yale Tishman es uno de los muchos amigos de Nico que se han reunido para honrar su memoria en una pequeña fiesta.
   A la misma hora, no muy lejos de allí, se…
 date: '2021-12-01T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Contemporaneo
 - Novela
 toc: false
+id: 507
 autores:
 - Rebecca Makkai
 - Aurora Echevarría
@@ -46,7 +47,7 @@ Entrelazando las historias de Yale y Fiona, Rebecca Makkai nos ofrece una formid
 - **Colaboradores:** [Aurora Echevarría](/autores/aurora-echevarria/) (Translator)
 - **Editorial:** Sexto Piso
 - **Formato:** Paperback, 572 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841834251X / 9788418342516
 - **Publicación original:** 2021-10-11
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/)

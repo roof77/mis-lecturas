@@ -1,5 +1,5 @@
 ---
-title: Supersaurio
+title: '#575 · Supersaurio'
 summary: El debut literario de una autora con una voz única que enhebra humor y melancolía con la precisión de una criatura
   prehistórica que acaba de probar la sangre…
 date: '2023-01-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Mujeres
 toc: false
+id: 575
 autores:
 - Meryem El Mehdati
 autores_stats:
@@ -42,7 +43,7 @@ Se llama Meryem, pero nadie escribe bien su nombre. Tiene veinticinco años y ac
 - **Autor:** [Meryem El Mehdati](/autores/meryem-el-mehdati/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418187773 / 9788418187773
 - **Publicación original:** 2022-03-23
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Humor](/tags/humor/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Ficción Literaria](/tags/ficcion-literaria/), [Coming of age](/tags/coming-of-age/), [Novela](/tags/novela/), [Mujeres](/tags/mujeres/)

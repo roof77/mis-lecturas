@@ -1,5 +1,5 @@
 ---
-title: 'El cuerpo humano: Guía para ocupantes'
+title: '#436 · El cuerpo humano: Guía para ocupantes'
 summary: Del autor de Una breve historia de casi todo (200.000 ejemplares vendidosNos pasamos toda una vida con un solo cuerpo
   y casi no sabemos cómo funciona. Desde…
 date: '2020-06-24T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Humor
 - Club de lectura
 toc: false
+id: 436
 autores:
 - Bill Bryson
 - Francisco J. Ramos Mena
@@ -41,7 +42,7 @@ Del autor de Una breve historia de casi todo (200.000 ejemplares vendidosNos pas
 - **Colaboradores:** [Francisco J. Ramos Mena](/autores/francisco-j-ramos-mena/) (Translator)
 - **Editorial:** RBA Libros
 - **Formato:** Kindle Edition, 684 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849187626X / 9788491876267
 - **Publicación original:** 2020-02-27
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Ciencia](/tags/ciencia/), [Salud](/tags/salud/), [Biología](/tags/biologia/), [Medicina](/tags/medicina/), [Historia](/tags/historia/), [Humor](/tags/humor/), [Club de lectura](/tags/club-de-lectura/)

@@ -1,5 +1,5 @@
 ---
-title: 'Astro City #5: Héroes locales'
+title: '#805 · Astro City #5: Héroes locales'
 summary: LOCAL HEROES kicks off with three stand- alone stories that reintroduce the heroes and villains of Astro City, followed
   by the 2-part tale "Dark Ages." The…
 date: '2026-02-27T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Superheroes
@@ -17,6 +16,7 @@ tags:
 - Relatos
 - Crimen
 toc: false
+id: 805
 autores:
 - Kurt Busiek
 autores_stats:
@@ -40,7 +40,7 @@ LOCAL HEROES kicks off with three stand- alone stories that reintroduce the hero
 - **Serie:** Astro City (#5)
 - **Editorial:** Norma Editorial (Wildstorm Comics)
 - **Formato:** Hardcover, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467903236 / 9788467903232
 - **Publicación original:** 2010-12-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/), [Crimen](/tags/crimen/)

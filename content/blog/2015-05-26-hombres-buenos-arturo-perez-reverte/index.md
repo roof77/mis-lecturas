@@ -1,5 +1,5 @@
 ---
-title: Hombres buenos
+title: '#112 · Hombres buenos'
 summary: "Una novela apasionante que narra la heroica aventura de quienes se atrevieron a cambiar el mundo con libros.\r\n\
   \r\n«En tiempos de oscuridad siempre hubo hombres…"
 date: '2015-05-26T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Romance
 - Aventuras
 toc: false
+id: 112
 autores:
 - Arturo Pérez-Reverte
 autores_stats:
@@ -59,7 +60,7 @@ La crítica ha dicho... «Excelente novela, quizá la que mejor le retrate como 
 - **Autor:** [Arturo Pérez-Reverte](/autores/arturo-perez-reverte/)
 - **Editorial:** Alfaguara
 - **Formato:** Hardcover, 583 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420403245 / 9788420403243
 - **Publicación original:** 2015-03-12
 - **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Histórico](/tags/historico/), [España](/tags/espana/), [Novela](/tags/novela/), [Romance](/tags/romance/), [Aventuras](/tags/aventuras/)

@@ -1,5 +1,5 @@
 ---
-title: Dime una adivinanza
+title: '#450 · Dime una adivinanza'
 summary: Dime una adivinanza está considerado, con justicia, un verdadero clásico de la literatura norteamericana. Un libro
   que explora algunos de los temas…
 date: '2020-12-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Siglo XX
 toc: false
+id: 450
 autores:
 - Tillie Olsen
 - Blanca Gago Domínguez
@@ -44,7 +45,7 @@ Dime una adivinanza está considerado, con justicia, un verdadero clásico de la
 - **Colaboradores:** [Blanca Gago Domínguez](/autores/blanca-gago-dominguez/) (Translator), [Jane Lazarre](/autores/jane-lazarre/) (Foreword), [Laurie Olsen](/autores/laurie-olsen/) (Epílogo)
 - **Editorial:** Las Afueras
 - **Formato:** Paperback, 184 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412145763 / 9788412145762
 - **Publicación original:** 2020-06-01
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Feminismo](/tags/feminismo/), [Mujeres](/tags/mujeres/), [EEUU](/tags/eeuu/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/)

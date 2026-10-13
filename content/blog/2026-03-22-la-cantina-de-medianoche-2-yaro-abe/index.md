@@ -1,5 +1,5 @@
 ---
-title: La cantina de medianoche 2
+title: '#814 · La cantina de medianoche 2'
 summary: C’è un piccolo ristorante, in un vicoletto di Shinjuku, a Tokyo. Apre a mezzanotte e chiude alle sette del mattino.
   Sul menù c’è un solo piatto, ma i clienti…
 date: '2026-03-22T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Japón
 - Comida
@@ -17,6 +16,7 @@ tags:
 - Relatos
 - Seinen manga
 toc: false
+id: 814
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -42,7 +42,7 @@ C’è un piccolo ristorante, in un vicoletto di Shinjuku, a Tokyo. Apre a mezza
 - **Colaboradores:** [Alberto Sakai Fonseca](/autores/alberto-sakai-fonseca/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417575731 / 9788417575731
 - **Publicación original:** 2019-11-28
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Comida](/tags/comida/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Seinen manga](/tags/seinen-manga/)

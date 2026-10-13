@@ -1,5 +1,5 @@
 ---
-title: Los años
+title: '#691 · Los años'
 summary: '"Se desvanecerán todas de golpe como ha sucedido con los millones de imágenes que estaban tras las frentes de los
   abuelos muertos hace medio siglo, de los…'
 date: '2024-12-24T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Feminismo
 - Club de lectura
 toc: false
+id: 691
 autores:
 - Annie Ernaux
 - Lydia Vázquez Jiménez
@@ -44,7 +45,7 @@ A través de fotos y recuerdos dejados por los acontecimientos, las palabras y l
 - **Colaboradores:** [Lydia Vázquez Jiménez](/autores/lydia-vazquez-jimenez/) (Translator)
 - **Editorial:** Cabaret Voltaire
 - **Formato:** Paperback, 322 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494941453 / 9788494941450
 - **Publicación original:** 2019-09-11
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Francia](/tags/francia/), [Biografía](/tags/biografia/), [Historia](/tags/historia/), [Premio Nobel](/tags/premio-nobel/), [Literatura francesa](/tags/literatura-francesa/), [Feminismo](/tags/feminismo/), [Club de lectura](/tags/club-de-lectura/)

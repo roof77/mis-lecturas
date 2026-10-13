@@ -1,5 +1,5 @@
 ---
-title: Harry Potter y el prisionero de Azkaban
+title: '#218 · Harry Potter y el prisionero de Azkaban'
 summary: Por la cicatriz que lleva en la frente, sabemos que Harry Potter no es un niño como los demás, sino el héroe que
   venció a lord Voldemort, el mago más temible y…
 date: '2016-12-07T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Aventuras
 - Clásico
 toc: false
+id: 218
 autores:
 - J.K. Rowling
 autores_stats:
@@ -44,7 +45,7 @@ Igual que en las dos primeras partes de la serie -La piedra filosofal y La cáma
 - **Serie:** Harry Potter (#3)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 359 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478886559 / 9788478886555
 - **Publicación original:** 2001-01-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)

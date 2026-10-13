@@ -1,5 +1,5 @@
 ---
-title: No cerramos en agosto
+title: '#441 · No cerramos en agosto'
 summary: 'Jordi Viassolo consigue un trabajo de becario –temporal y mal pagado– en una agencia de detectives de Barcelona.
   La misión que le encargan es simple: mantener…'
 date: '2020-07-30T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Thriller
 - Ficción
 toc: false
+id: 441
 autores:
 - Eduard Palomares
 autores_stats:
@@ -37,7 +38,7 @@ Eduard Palomares recoge el legado del género negro barcelonés para darle una s
 - **Autor:** [Eduard Palomares](/autores/eduard-palomares/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 250 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417007814 / 9788417007812
 - **Publicación original:** 2019-06-03
 - **Géneros:** [Misterio](/tags/misterio/), [Detectives](/tags/detectives/), [Thriller](/tags/thriller/), [Ficción](/tags/ficcion/)

@@ -1,5 +1,5 @@
 ---
-title: Gente de verdad
+title: '#165 · Gente de verdad'
 summary: En Gente de verdad seis personajes conviven durante dos semanas de verano en una gran casa de campo para concentrarse
   en su trabajo lejos de las presiones del…
 date: '2016-01-07T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Novela
 - EEUU
 toc: false
+id: 165
 autores:
 - Alison Lurie
 autores_stats:
@@ -35,7 +36,7 @@ En Gente de verdad seis personajes conviven durante dos semanas de verano en una
 - **Autor:** [Alison Lurie](/autores/alison-lurie/)
 - **Editorial:** Alba Editorial
 - **Formato:** Paperback, 184 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484287599 / 9788484287599
 - **Publicación original:** 2012-09-12
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [EEUU](/tags/eeuu/)

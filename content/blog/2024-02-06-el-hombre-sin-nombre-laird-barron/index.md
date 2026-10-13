@@ -1,5 +1,5 @@
 ---
-title: El hombre sin nombre
+title: '#619 · El hombre sin nombre'
 summary: Nanashi (nombre que significa anónimo o sin nombre) ha llevado una vida de violencia dentro del sindicato de la Grulla.
   Es un alcohólico rehabilitado a quien…
 date: '2024-02-06T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Misterio
 - Fantasía
 toc: false
+id: 619
 autores:
 - Laird Barron
 - Antonio Rivas
@@ -43,7 +44,7 @@ Nanashi (nombre que significa anónimo o sin nombre) ha llevado una vida de viol
 - **Colaboradores:** [Antonio Rivas](/autores/antonio-rivas/) (Translator), [Santiago Sequeiros](/autores/santiago-sequeiros/) (Illustrator)
 - **Editorial:** La Biblioteca de Carfax
 - **Formato:** Paperback, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412564073 / 9788412564075
 - **Publicación original:** 2024-01-29
 - **Géneros:** [Terror](/tags/terror/), [Crimen](/tags/crimen/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Ficción extraña](/tags/ficcion-extrana/), [Noir](/tags/noir/), [Lovecraftiano](/tags/lovecraftiano/), [Misterio](/tags/misterio/), [Fantasía](/tags/fantasia/)

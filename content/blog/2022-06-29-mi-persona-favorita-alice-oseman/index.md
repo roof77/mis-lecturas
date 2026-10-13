@@ -1,5 +1,5 @@
 ---
-title: Mi persona favorita
+title: '#549 · Mi persona favorita'
 summary: Después de lanzarse a besar a Nick, Charlie cree que todo se ha acabado, pero... ¿es así? Heartstopper responde a
   la manera de sentir de los jóvenes reales…
 date: '2022-06-29T23:59:59'
@@ -10,7 +10,6 @@ tags:
 - Comics
 - Romance
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Queer
@@ -18,6 +17,7 @@ tags:
 - Ficción
 - Gay
 toc: false
+id: 549
 autores:
 - Alice Oseman
 - Victoria Simó
@@ -43,7 +43,7 @@ Después de lanzarse a besar a Nick, Charlie cree que todo se ha acabado, pero..
 - **Colaboradores:** [Victoria Simó](/autores/victoria-simo/) (translator)
 - **Editorial:** Crossbooks
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8408229788 / 9788408229780
 - **Publicación original:** 2020-07-07
 - **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/)

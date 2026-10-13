@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 10
+title: '#910 · Insomniacs After School, vol. 10'
 summary: A medida que se acerca fin de año, Isaki recobra la salud. Ganta y ella pasan su primer invierno juntos. En la víspera
   de Año Nuevo, la profesora Kurashiki…
 date: '2026-08-06T23:59:55'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Slice of life
 - Jovenes adultos
@@ -19,6 +18,7 @@ tags:
 - Ficción
 - Literatura japanesa
 toc: false
+id: 910
 autores:
 - Makoto Ojiro
 - Sergi Pérez
@@ -48,7 +48,7 @@ A orillas del lago Mitarashi, Ganta e Isaki pasan juntos una bonita noche donde 
 - **Colaboradores:** [Sergi Pérez](/autores/sergi-perez/) (Translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419536687 / 9788419536686
 - **Publicación original:** 2023-03-30
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Slice of life](/tags/slice-of-life/), [Jovenes adultos](/tags/jovenes-adultos/), [Seinen manga](/tags/seinen-manga/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/)

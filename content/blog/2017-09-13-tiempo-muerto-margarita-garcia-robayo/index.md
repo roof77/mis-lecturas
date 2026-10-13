@@ -1,5 +1,5 @@
 ---
-title: Tiempo muerto
+title: '#265 · Tiempo muerto'
 summary: 'Tiempo muerto es un retrato de la tragedia personal que experimenta una pareja cuyo matrimonio ha llegado al fin
   del enamoramiento.
 
@@ -21,6 +21,7 @@ tags:
 - Latino américa
 - Mujeres
 toc: false
+id: 265
 autores:
 - Margarita García Robayo
 autores_stats:
@@ -93,7 +94,7 @@ abc, España
 - **Autor:** [Margarita García Robayo](/autores/margarita-garcia-robayo/)
 - **Editorial:** ALFAGUARA
 - **Formato:** Kindle Edition, 149 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 958542830X / 9789585428300
 - **Publicación original:** 2017-08-25
 - **Géneros:** [Ficción](/tags/ficcion/), [Literatura latinoamericana](/tags/literatura-latinoamericana/), [Literatura hispana](/tags/literatura-hispana/), [Club de lectura](/tags/club-de-lectura/), [Matrimonio](/tags/matrimonio/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Latino américa](/tags/latino-america/), [Mujeres](/tags/mujeres/)

@@ -1,5 +1,5 @@
 ---
-title: ¿Eres mi madre?
+title: '#649 · ¿Eres mi madre?'
 summary: La autora del bestseller Fun Home regresa a su exitosa saga familiar. Si has leído la primera novela gráfica de Alison
   Bechdel, Fun Home. Una familia…
 date: '2024-05-21T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Memorias
 - No Ficción
 - Queer
@@ -17,6 +16,7 @@ tags:
 - Biografía
 - Psicología
 toc: false
+id: 649
 autores:
 - Alison Bechdel
 autores_stats:
@@ -39,7 +39,7 @@ La autora del bestseller Fun Home regresa a su exitosa saga familiar. Si has le�
 - **Autor:** [Alison Bechdel](/autores/alison-bechdel/)
 - **Editorial:** Random House Mondadori
 - **Formato:** Paperback, 290 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439726058 / 9788439726050
 - **Publicación original:** 2012-09-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Biografía](/tags/biografia/), [Psicología](/tags/psicologia/)

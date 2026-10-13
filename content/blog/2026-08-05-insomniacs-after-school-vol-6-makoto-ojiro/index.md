@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 6
+title: '#906 · Insomniacs After School, vol. 6'
 summary: "El destino final de su viaje: las ruinas de Mawaki. ¡Pilares de 6.000 años sobre los que se cierne la bóveda celeste!\r\
   \n\r\nAhora que Isaki y Ganta se han quedado…"
 date: '2026-08-05T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Jovenes adultos
 - Slice of life
@@ -19,6 +18,7 @@ tags:
 - Ficción
 - Coming of age
 toc: false
+id: 906
 autores:
 - Makoto Ojiro
 - Óscar Tejero
@@ -46,7 +46,7 @@ Ahora que Isaki y Ganta se han quedado solos, el tiempo parece remansarse en est
 - **Colaboradores:** [Óscar Tejero](/autores/oscar-tejero/) (translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418788976 / 9788418788970
 - **Publicación original:** 2022-02-24
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Novela gráfica](/tags/novela-grafica/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Coming of age](/tags/coming-of-age/)

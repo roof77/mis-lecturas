@@ -1,5 +1,5 @@
 ---
-title: Fahrenheit 451
+title: '#228 · Fahrenheit 451'
 summary: Fahrenheit 451 ofrece la historia de un sombrío y horroroso futuro. Montag, el protagonista, pertenece a una extraña
   brigada de bomberos cuya misión…
 date: '2017-01-14T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Fantasía
 toc: false
+id: 228
 autores:
 - Ray Bradbury
 autores_stats:
@@ -41,7 +42,7 @@ Fahrenheit 451 ofrece la historia de un sombrío y horroroso futuro. Montag, el 
 - **Serie:** Fahrenheit 451
 - **Editorial:** DeBolsillo
 - **Formato:** Mass Market Paperback, 158 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 0307347974 / 9780307347978
 - **Publicación original:** 2004-10-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Colegio](/tags/colegio/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/)

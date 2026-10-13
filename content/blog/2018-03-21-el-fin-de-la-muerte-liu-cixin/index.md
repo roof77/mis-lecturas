@@ -1,5 +1,5 @@
 ---
-title: El fin de la muerte
+title: '#301 · El fin de la muerte'
 summary: Tras El problema de los tres cuerpos y El bosque oscuro, la tensa espera de la humanidad concluye ahora con un último
   episodio, tan extraordinario como los…
 date: '2018-03-21T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Space Opera
 - Ficción especulativa
 toc: false
+id: 301
 autores:
 - Liu Cixin
 - Agustín Alepuz Morales
@@ -49,7 +50,7 @@ Cixin Liu es el escritor de ciencia ficción más relevante de China, capaz de l
 - **Colaboradores:** [Agustín Alepuz Morales](/autores/agustin-alepuz-morales/) (Translator)
 - **Editorial:** NOVA
 - **Formato:** Paperback, 734 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417347011 / 9788417347017
 - **Publicación original:** 2018-03-15
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [China](/tags/china/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Espacio](/tags/espacio/), [Extraterrestres](/tags/extraterrestres/), [Space Opera](/tags/space-opera/), [Ficción especulativa](/tags/ficcion-especulativa/)

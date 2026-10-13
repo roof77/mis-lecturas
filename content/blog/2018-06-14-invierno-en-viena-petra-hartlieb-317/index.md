@@ -1,5 +1,5 @@
 ---
-title: Invierno en Viena
+title: '#317 · Invierno en Viena'
 summary: Viena, primeros años del siglo XX. Marie trabaja como niñera para la respetable familia del doctor Arthur Schnitzler,
   el famoso autor de La señorita Else…
 date: '2018-06-14T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Comfortable
 - Novela
 toc: false
+id: 317
 autores:
 - Petra Hartlieb
 - Richard Gross
@@ -44,7 +45,7 @@ Viena, primeros años del siglo XX. Marie trabaja como niñera para la respetabl
 - **Colaboradores:** [Richard Gross](/autores/richard-gross/) (Translator)
 - **Editorial:** Siruela
 - **Formato:** Paperback, 152 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417151230 / 9788417151232
 - **Publicación original:** 2017-01-01
 - **Géneros:** [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Histórico](/tags/historico/), [Literatura alemana](/tags/literatura-alemana/), [Libros sobre libros](/tags/libros-sobre-libros/), [Adultos](/tags/adultos/), [Autoras](/tags/autoras/), [Comfortable](/tags/comfortable/), [Novela](/tags/novela/)

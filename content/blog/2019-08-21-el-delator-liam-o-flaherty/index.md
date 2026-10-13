@@ -1,5 +1,5 @@
 ---
-title: El delator
+title: '#402 · El delator'
 summary: Ambientada en el convulso Dublín durante los años posteriores a la guerra civil irlandesa, ésta es una historia de
   traiciones y lucha clandestina que retrata…
 date: '2019-08-21T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Guerra
 - Novela
 toc: false
+id: 402
 autores:
 - Liam O'Flaherty
 - Antonio Rivero Taravillo
@@ -42,7 +43,7 @@ Ambientada en el convulso Dublín durante los años posteriores a la guerra civi
 - **Colaboradores:** [Antonio Rivero Taravillo](/autores/antonio-rivero-taravillo/) (Contributor)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 252 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493544884 / 9788493544881
 - **Publicación original:** 2007-11-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Ficción histórica](/tags/ficcion-historica/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Espionaje](/tags/espionaje/), [Guerra](/tags/guerra/), [Novela](/tags/novela/)

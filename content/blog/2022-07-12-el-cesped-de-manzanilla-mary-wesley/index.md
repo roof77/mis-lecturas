@@ -1,5 +1,5 @@
 ---
-title: El césped de manzanilla
+title: '#553 · El césped de manzanilla'
 summary: 'Agosto de 1939. En la casa familiar de Cornualles se juntan como todos los veranos los cinco primos Cuthbertson:
   el mayor, Oliver, acaba de volver, herido, de…'
 date: '2022-07-12T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Novela
 - Club de lectura
 toc: false
+id: 553
 autores:
 - Mary Wesley
 - Catalina Martínez Muñoz

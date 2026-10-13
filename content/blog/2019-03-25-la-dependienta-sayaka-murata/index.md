@@ -1,5 +1,5 @@
 ---
-title: La dependienta
+title: '#384 · La dependienta'
 summary: Keiko Furukura tiene 36 años y está soltera. De hecho, nunca ha tenido pareja. Desde que abandonó a su tradicional
   familia para mudarse a Tokio, trabaja a…
 date: '2019-03-25T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ásia
 - Literatura asiática
 toc: false
+id: 384
 autores:
 - Sayaka Murata
 - Marina Bornas
@@ -42,7 +43,7 @@ Keiko Furukura tiene 36 años y está soltera. De hecho, nunca ha tenido pareja.
 - **Colaboradores:** [Marina Bornas](/autores/marina-bornas/) (Translator)
 - **Editorial:** Duomo ediciones 
 - **Formato:** Kindle Edition, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417761195 / 9788417761196
 - **Publicación original:** 2019-01-28
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Ásia](/tags/asia/), [Literatura asiática](/tags/literatura-asiatica/)

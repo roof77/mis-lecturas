@@ -1,5 +1,5 @@
 ---
-title: La cruzada de los niños
+title: '#163 · La cruzada de los niños'
 summary: En 1212 un adolescente aseguró al rey de Francia que Jesucristo en persona le había encargado organizar una cruzada
   de niños para recobrar Jerusalén. En menos…
 date: '2015-12-31T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Religión
 - Novela
 toc: false
+id: 163
 autores:
 - Marcel Schwob
 - Jean-Gabriel Daragnés

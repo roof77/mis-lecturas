@@ -1,5 +1,5 @@
 ---
-title: El último deseo
+title: '#309 · El último deseo'
 summary: 'Geralt de Rivia, brujo y mutante sobrehumano, se gana la vida como cazador de monstruos en una tierra de magia y
   maravilla: con sus dos espadas al hombro -la…'
 date: '2018-05-07T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Fantasía épica
 - Literatura polaca
 toc: false
+id: 309
 autores:
 - Andrzej Sapkowski
 - José María Faraldo
@@ -43,7 +44,7 @@ Geralt de Rivia, brujo y mutante sobrehumano, se gana la vida como cazador de mo
 - **Colaboradores:** [José María Faraldo](/autores/jose-maria-faraldo/) (Translator)
 - **Editorial:** Bibliópolis
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849328369X / 9788493283698
 - **Publicación original:** 2007-11-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Alta fantasía](/tags/alta-fantasia/), [Mágia](/tags/magia/), [Adultos](/tags/adultos/), [Aventuras](/tags/aventuras/), [Fantasía épica](/tags/fantasia-epica/), [Literatura polaca](/tags/literatura-polaca/)

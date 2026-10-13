@@ -1,5 +1,5 @@
 ---
-title: Los enclaves dorados
+title: '#602 · Los enclaves dorados'
 summary: "Salvar el mundo es una prueba para la que ninguna escuela de magia te puede preparar.\r\n\r\nCasi sin ayuda de nadie\
   \ (aunque respaldada por un grupo de amigos cada…"
 date: '2023-09-14T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Romance
 - Ciencia Ficción
 toc: false
+id: 602
 autores:
 - Naomi Novik
 - Patricia Sebastián Hernández
@@ -46,7 +47,7 @@ Mientras la misión para salvar a su amor verdadero se intensifica, El está a p
 - **Colaboradores:** [Patricia Sebastián Hernández](/autores/patricia-sebastian-hernandez/) (Translator)
 - **Editorial:** Umbriel
 - **Formato:** Paperback, 416 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419030163 / 9788419030160
 - **Publicación original:** 2023-03-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Dark Academia](/tags/dark-academia/), [Mágia](/tags/magia/), [Fantasía urbana](/tags/fantasia-urbana/), [Romance](/tags/romance/), [Ciencia Ficción](/tags/ciencia-ficcion/)

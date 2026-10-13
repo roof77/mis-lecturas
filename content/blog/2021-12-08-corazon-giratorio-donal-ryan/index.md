@@ -1,5 +1,5 @@
 ---
-title: Corazón giratorio
+title: '#508 · Corazón giratorio'
 summary: El estallido de la burbuja inmobiliaria ha dejado secuelas en un pequeño pueblo irlandés, donde la prosperidad de
   los últimos años ha dado paso a…
 date: '2021-12-08T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura
 - Relatos
 toc: false
+id: 508
 autores:
 - Donal Ryan
 autores_stats:
@@ -44,7 +45,7 @@ Donal Ryan debutó en 2012 con esta novela, galardonada con varios premios y nom
 - **Serie:** Rust (#1)
 - **Editorial:** Sajalín
 - **Formato:** Paperback, 177 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849485013X / 9788494850134
 - **Publicación original:** 2019-05-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Ficción adulta](/tags/ficcion-adulta/), [Literatura](/tags/literatura/), [Relatos](/tags/relatos/)

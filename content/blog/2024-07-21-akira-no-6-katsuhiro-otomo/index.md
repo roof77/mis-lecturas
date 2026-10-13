@@ -1,5 +1,5 @@
 ---
-title: Akira, No. 6
+title: '#672 · Akira, No. 6'
 summary: The explosive finale to one of graphic fiction's greatest achievements is here! The mad psychic colossus Tetsuo,
   the world's military, and the remaining…
 date: '2024-07-21T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Ciencia ficción
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Literatura japanesa
 - Distopía
 toc: false
+id: 672
 autores:
 - Katsuhiro Otomo
 - Steve Oliff
@@ -43,7 +43,7 @@ The explosive finale to one of graphic fiction's greatest achievements is here! 
 - **Colaboradores:** [Steve Oliff](/autores/steve-oliff/) (Color)
 - **Editorial:** Norma Editorial
 - **Formato:** Paperback, 440 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498144205 / 9788498144208
 - **Publicación original:** 2007-01-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Distopía](/tags/distopia/)

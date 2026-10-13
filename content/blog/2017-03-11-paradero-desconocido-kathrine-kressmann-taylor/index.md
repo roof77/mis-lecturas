@@ -1,5 +1,5 @@
 ---
-title: Paradero desconocido
+title: '#240 · Paradero desconocido'
 summary: Publicado en 1938 y acogido como una obra maestra, ésta es la historia de dos amigos y socios, un alemán y un judío
   estadounidense, en los años previos a la…
 date: '2017-03-11T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Alemania
 - Colegio
 toc: false
+id: 240
 autores:
 - Kathrine Kressmann Taylor
 autores_stats:
@@ -41,7 +42,7 @@ Publicado en 1938 y acogido como una obra maestra, ésta es la historia de dos a
 - **Autor:** [Kathrine Kressmann Taylor](/autores/kathrine-kressmann-taylor/)
 - **Editorial:** RBA Libros
 - **Formato:** Hardcover, 82 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8479016841 / 9788479016845
 - **Publicación original:** 2000-11-09
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Histórico](/tags/historico/), [Segunda guerra mundial](/tags/segunda-guerra-mundial/), [Guerra](/tags/guerra/), [Holocausto](/tags/holocausto/), [Alemania](/tags/alemania/), [Colegio](/tags/colegio/)

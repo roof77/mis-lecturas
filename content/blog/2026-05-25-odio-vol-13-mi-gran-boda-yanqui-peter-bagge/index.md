@@ -1,5 +1,5 @@
 ---
-title: 'Odio, vol. 13: Mi gran boda yanqui'
+title: '#847 · Odio, vol. 13: Mi gran boda yanqui'
 summary: 'Reseña de lectura de «Odio, vol. 13: Mi gran boda yanqui».'
 date: '2026-05-25T23:59:57'
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 847
 autores:
 - Peter Bagge
 - Hernán Migoya
@@ -30,7 +30,7 @@ nota: Bien
 - **Colaboradores:** [Hernán Migoya](/autores/hernan-migoya/) (Translator)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 52 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478336117 / 9788478336111
 - **Publicación original:** 2005-07-01
 - **Géneros:** [Comics](/tags/comics/)

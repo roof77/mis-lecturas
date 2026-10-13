@@ -1,5 +1,5 @@
 ---
-title: Botchan
+title: '#47 · Botchan'
 summary: Botchan es un indiscutible clásico de la moderna literatura japonesa y, desde hace más de cien años, una de las novelas
   más celebradas por los lectores de…
 date: '2014-06-29T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Humor
 - Siglo XX
 toc: false
+id: 47
 autores:
 - Natsume Sōseki
 - José Pazó Espinosa
@@ -44,7 +45,7 @@ Botchan es un indiscutible clásico de la moderna literatura japonesa y, desde h
 - **Colaboradores:** [José Pazó Espinosa](/autores/jose-pazo-espinosa/) (Translator), [Andrés Ibáñez](/autores/andres-ibanez/) (Introducción)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2008-02-01
 - **Géneros:** [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/), [Clásico](/tags/clasico/), [Ásia](/tags/asia/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Literatura asiática](/tags/literatura-asiatica/), [Humor](/tags/humor/), [Siglo XX](/tags/siglo-xx/)
 - **Lugares:** Japan

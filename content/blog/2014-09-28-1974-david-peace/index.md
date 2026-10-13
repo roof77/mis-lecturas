@@ -1,5 +1,5 @@
 ---
-title: '1974'
+title: '#71 · 1974'
 summary: «La autopsia tras la muerte de la niña de diez años Clare Kemplay ha revelado que fue torturada, violada y estrangulada.
   La policía de West Yorkshire retiene…
 date: '2014-09-28T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura británica
 - Histórico
 toc: false
+id: 71
 autores:
 - David Peace
 autores_stats:
@@ -45,7 +46,7 @@ David Peace, en su serie de cuatro novelas Red Riding (de la que 1974 es la prim
 - **Serie:** Red Riding (#1)
 - **Editorial:** Alba
 - **Formato:** 454 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484285790 / 9788484285793
 - **Publicación original:** 2010-09-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Noir](/tags/noir/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Literatura británica](/tags/literatura-britanica/), [Histórico](/tags/historico/)

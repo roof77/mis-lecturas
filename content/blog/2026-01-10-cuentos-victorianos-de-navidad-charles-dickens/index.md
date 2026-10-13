@@ -1,5 +1,5 @@
 ---
-title: Cuentos victorianos de Navidad
+title: '#792 · Cuentos victorianos de Navidad'
 summary: El extenso periodo victoriano fue, por diversas y variadas circunstancias, quien dio carta de naturaleza al "espíritu
   navideño" y consolidó buena parte de la…
 date: '2026-01-10T23:59:59'
@@ -12,6 +12,7 @@ tags:
 - Relatos
 - Clásico
 toc: false
+id: 792
 autores:
 - Charles Dickens
 - Anthony Trollope
@@ -46,7 +47,7 @@ El extenso periodo victoriano fue, por diversas y variadas circunstancias, quien
 - **Colaboradores:** [Anthony Trollope](/autores/anthony-trollope/) (Author), [Charlotte Riddell](/autores/charlotte-riddell/) (Author), [Arthur Conan Doyle](/autores/arthur-conan-doyle/) (Author), [Juliana Horatia Ewing](/autores/juliana-horatia-ewing/) (Author), [Wilkie Collins](/autores/wilkie-collins/) (Author), [Miguel Ángel Pérez Pérez](/autores/miguel-angel-perez-perez/) (Traductor)
 - **Editorial:** Alianza Editorial
 - **Formato:** Hardcover, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8413625149 / 9788413625140
 - **Publicación original:** 2021-11-04
 - **Géneros:** [Navidad](/tags/navidad/), [Relatos](/tags/relatos/), [Clásico](/tags/clasico/)

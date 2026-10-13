@@ -1,5 +1,5 @@
 ---
-title: El bueno de Oliver
+title: '#404 · El bueno de Oliver'
 summary: "El hombre perfecto. El monstruo perfecto\r\n\r\nOliver Ryan es la personificación del éxito y el carisma. Vive en\
   \ el mejor barrio residencial de Dublín, los libros…"
 date: '2019-09-04T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Irlanda
 - Club de lectura
 toc: false
+id: 404
 autores:
 - Liz Nugent
 autores_stats:
@@ -45,7 +46,7 @@ Todos piensan que conocen a Oliver Ryan. A partir de esa noche descubrirán que 
 - **Autor:** [Liz Nugent](/autores/liz-nugent/)
 - **Editorial:** Suma de Letras
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483657740 / 9788483657744
 - **Publicación original:** 2014-12-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Thriller psicológico](/tags/thriller-psicologico/), [Suspense](/tags/suspense/), [Irlanda](/tags/irlanda/), [Club de lectura](/tags/club-de-lectura/)

@@ -1,5 +1,5 @@
 ---
-title: Su cuerpo y otras fiestas
+title: '#604 · Su cuerpo y otras fiestas'
 summary: Una mujer se niega a permitir que su marido le quite una misteriosa cinta verde que lleva alrededor del cuello; otra
   mujer relata sus encuentros sexuales…
 date: '2023-10-09T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Contemporaneo
 - Adultos
 toc: false
+id: 604
 autores:
 - Carmen Maria Machado
 - Laura Salas Rodríguez
@@ -43,7 +44,7 @@ Una mujer se niega a permitir que su marido le quite una misteriosa cinta verde 
 - **Colaboradores:** [Laura Salas Rodríguez](/autores/laura-salas-rodriguez/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Kindle Edition, 251 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433939858 / 9788433939852
 - **Publicación original:** 2018-10-10
 - **Géneros:** [Relatos](/tags/relatos/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Feminismo](/tags/feminismo/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Realismo mágico](/tags/realismo-magico/), [Contemporaneo](/tags/contemporaneo/), [Adultos](/tags/adultos/)

@@ -1,5 +1,5 @@
 ---
-title: Pereza
+title: '#748 · Pereza'
 summary: Troubled teenager Miguel Serra becomes a walking urban legend after he wills himself into a coma and wakes up one
   year later virtually unchanged - except for…
 date: '2025-05-24T23:59:59'
@@ -9,12 +9,12 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Fantasía
 - Jovenes adultos
 - Adultos
 toc: false
+id: 748
 autores:
 - Gilbert Hernández
 autores_stats:
@@ -37,7 +37,7 @@ Troubled teenager Miguel Serra becomes a walking urban legend after he wills him
 - **Autor:** [Gilbert Hernández](/autores/gilbert-hernandez/)
 - **Editorial:** Planeta DeAgostini Comics
 - **Formato:** Perfect Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467438495 / 9788467438499
 - **Publicación original:** 2007-01-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Adultos](/tags/adultos/)

@@ -1,5 +1,5 @@
 ---
-title: Dog Soldiers
+title: '#392 · Dog Soldiers'
 summary: Con un estilo que algunos han calificado de «realismo alucinatorio», Dog Soldiers nos lleva a Saigón en los últimos
   días de la guerra de Vietnam. Allí…
 date: '2019-05-29T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Thriller
 - Ficción Literaria
 toc: false
+id: 392
 autores:
 - Robert Stone
 - Rodrigo Fresán
@@ -49,7 +50,7 @@ Todo ello con un ritmo brutal y una mirada despiadada que sitúan Dog Soldiers e
 - **Colaboradores:** [Rodrigo Fresán](/autores/rodrigo-fresan/) (Contributor), [Mariano Antolín](/autores/mariano-antolin/) (Translator), [Inga Pellisa](/autores/inga-pellisa/) (Translator)
 - **Editorial:** Libros del Silencio
 - **Formato:** Paperback, 432 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493785652 / 9788493785659
 - **Publicación original:** 2010-10-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Guerra](/tags/guerra/), [Ficción histórica](/tags/ficcion-historica/), [Crimen](/tags/crimen/), [Clásico](/tags/clasico/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Ficción Literaria](/tags/ficcion-literaria/)

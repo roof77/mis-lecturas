@@ -1,5 +1,5 @@
 ---
-title: Las chicas de campo
+title: '#19 · Las chicas de campo'
 summary: Irlanda, años 50. Lejos de la capital, Dublín, y en medio de un verde paisaje, bellísimo pero exigente, la joven
   y aplicada Caithleen ha crecido llena de…
 date: '2014-03-16T23:59:58'
@@ -19,6 +19,7 @@ tags:
 - Mujeres
 - Literatura
 toc: false
+id: 19
 autores:
 - Edna O'Brien
 - Regina López Muñoz
@@ -50,7 +51,7 @@ Estamos, sin duda, ante una extraordinaria novela, iluminada tanto por el humor 
 - **Colaboradores:** [Regina López Muñoz](/autores/regina-lopez-munoz/) (Translator)
 - **Editorial:** Errata Naturae
 - **Formato:** Paperback, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415217587 / 9788415217589
 - **Publicación original:** 2013-10-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Clásico](/tags/clasico/), [Coming of age](/tags/coming-of-age/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción histórica](/tags/ficcion-historica/), [Mujeres](/tags/mujeres/), [Literatura](/tags/literatura/)

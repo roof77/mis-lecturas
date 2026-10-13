@@ -1,5 +1,5 @@
 ---
-title: El tapiz del vampiro
+title: '#209 · El tapiz del vampiro'
 summary: El doctor Weyland es el profesor más respetado de una pequeña universidad de Nueva Inglaterra. Alto, maduro, de pelo
   acerado, sus modales anticuados cautivan a…
 date: '2016-10-01T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Sobrenatural
 - Ficción especulativa
 toc: false
+id: 209
 autores:
 - Suzy McKee Charnas
 - Albert Solé
@@ -51,7 +52,7 @@ Suzy McKee Charnas ha conseguido con El tapiz del vampiro un clásico moderno, t
 - **Colaboradores:** [Albert Solé](/autores/albert-sole/) (Translator)
 - **Editorial:** Madrid: Alamut
 - **Formato:** Paperback, 248 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498890217 / 9788498890211
 - **Publicación original:** 2009-03-01
 - **Géneros:** [Terror](/tags/terror/), [Vampiros](/tags/vampiros/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Paranormal](/tags/paranormal/), [Ciencia ficción](/tags/ciencia-ficcion/), [Gótico](/tags/gotico/), [Fantasía urbana](/tags/fantasia-urbana/), [Sobrenatural](/tags/sobrenatural/), [Ficción especulativa](/tags/ficcion-especulativa/)

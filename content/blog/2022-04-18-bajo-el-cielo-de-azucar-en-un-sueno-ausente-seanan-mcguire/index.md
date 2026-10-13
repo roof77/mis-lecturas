@@ -1,5 +1,5 @@
 ---
-title: Bajo el cielo de azúcar / En un sueño ausente
+title: '#532 · Bajo el cielo de azúcar / En un sueño ausente'
 summary: En  Bajo el cielo de azúcar  volvemos a la Residencia para niños descarriados de Eleanor West cuando Rini aterriza
   en el estanque de la residencia y descubre…
 date: '2022-04-18T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Fantasía
 toc: false
+id: 532
 autores:
 - Seanan McGuire
 - María Pilar San Román
@@ -41,7 +42,7 @@ La serie de Los Niños Descarriados ha recibido los premios Hugo, Nébula, Alex 
 - **Colaboradores:** [María Pilar San Román](/autores/maria-pilar-san-roman/) (Translator), [Rovina Kai](/autores/rovina-kai/) (Illustrator), [Octavi Segarra](/autores/octavi-segarra/) (Illustrator)
 - **Editorial:** Alianza Runas
 - **Formato:** Hardcover, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8413626293 / 9788413626291
 - **Publicación original:** 2022-02-24
 - **Géneros:** [Fantasía](/tags/fantasia/)

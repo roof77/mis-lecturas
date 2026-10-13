@@ -1,5 +1,5 @@
 ---
-title: El cuerpo de Cristo
+title: '#727 · El cuerpo de Cristo'
 summary: Cuando Vera era niña, un demonio rondaba su casa y acosaba a su madre, martilleándole los nervios hasta postrarla
   en la cama durante días. Entre las sesiones…
 date: '2025-03-23T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Literatura hispana
@@ -18,6 +17,7 @@ tags:
 - Religión
 - Memorias
 toc: false
+id: 727
 autores:
 - Bea Lema
 autores_stats:
@@ -40,7 +40,7 @@ Cuando Vera era niña, un demonio rondaba su casa y acosaba a su madre, martille
 - **Autor:** [Bea Lema](/autores/bea-lema/)
 - **Editorial:** Astiberri Ediciones
 - **Formato:** Paperback, 184 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419670146 / 9788419670144
 - **Publicación original:** 2024-11-05
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Literatura hispana](/tags/literatura-hispana/), [No Ficción](/tags/no-ficcion/), [Arte](/tags/arte/), [Salud mentál](/tags/salud-mental/), [España](/tags/espana/), [Religión](/tags/religion/), [Memorias](/tags/memorias/)

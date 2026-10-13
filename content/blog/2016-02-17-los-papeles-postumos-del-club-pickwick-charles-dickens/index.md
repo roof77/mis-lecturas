@@ -1,5 +1,5 @@
 ---
-title: Los papeles póstumos del club Pickwick
+title: '#177 · Los papeles póstumos del club Pickwick'
 summary: Samuel Pickwick, es el fundador y presidente vitalicio del Club Pickwick, una sociedad dedicada a la investigacion
   y clasificación de llamativos fenómenos…
 date: '2016-02-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción histórica
 - Novela
 toc: false
+id: 177
 autores:
 - Charles Dickens
 - José María Valverde
@@ -47,7 +48,7 @@ Los papeles póstumos del Club Pickwick de Charles Dickens, que ofrecemos aquí 
 - **Colaboradores:** [José María Valverde](/autores/jose-maria-valverde/) (translator)
 - **Editorial:** DeBolsillo
 - **Formato:** Hardcover, 1007 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484506959 / 9788484506959
 - **Publicación original:** 2009-03-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Literatura](/tags/literatura/), [Humor](/tags/humor/), [Siglo XIX](/tags/siglo-xix/), [Victoriano](/tags/victoriano/), [Literatura británica](/tags/literatura-britanica/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/)

@@ -1,5 +1,5 @@
 ---
-title: Maestros del horror de Arkham House
+title: '#419 · Maestros del horror de Arkham House'
 summary: '"Maestros del horror de Arkham House" es una antología conmemorativa de los sesenta años de la mítica editorial
   norteamericana especializada en literatura…'
 date: '2020-01-21T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Ficción extraña
 - Lovecraftiano
 toc: false
+id: 419
 autores:
 - Peter Ruber
 - Arthur J. Burks
@@ -81,7 +82,7 @@ nota: '3'
 - **Colaboradores:** [Arthur J. Burks](/autores/arthur-j-burks/) (Author), [August Derleth](/autores/august-derleth/) (Author), [Carl Jacobi](/autores/carl-jacobi/) (Author), [Clark Ashton Smith](/autores/clark-ashton-smith/) (Author), [David H. Keller](/autores/david-h-keller/) (Author), [Donald Wandrei](/autores/donald-wandrei/) (Author), [E. Hoffmann Price](/autores/e-hoffmann-price/) (Author), [Frank Belknap Long](/autores/frank-belknap-long/) (Author), [Greye La Spina](/autores/greye-la-spina/) (Author), [Henry S. Whitehead](/autores/henry-s-whitehead/) (Author), [H. Russell Wakefield](/autores/h-russell-wakefield/) (Author), [H.P. Lovecraft](/autores/h-p-lovecraft/) (Author), [Howard Wandrei](/autores/howard-wandrei/) (Author), [Mark Schorer](/autores/mark-schorer/) (Author), [Mary Elizabeth Counselman](/autores/mary-elizabeth-counselman/) (Author), [Nelson S. Bond](/autores/nelson-s-bond/) (Author), [Ramsey Campbell](/autores/ramsey-campbell/) (Author), [Ray Bradbury](/autores/ray-bradbury/) (Author), [Robert Bloch](/autores/robert-bloch/) (Author), [Robert E. Howard](/autores/robert-e-howard/) (Author), [Seabury Quinn](/autores/seabury-quinn/) (Author)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 608 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477024480 / 9788477024484
 - **Publicación original:** 2003-11-01
 - **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Antología](/tags/antologia/), [Pulp](/tags/pulp/), [Fantasía](/tags/fantasia/), [Ficción extraña](/tags/ficcion-extrana/), [Lovecraftiano](/tags/lovecraftiano/)

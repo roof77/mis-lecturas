@@ -1,5 +1,5 @@
 ---
-title: Yo no sé de otras cosas
+title: '#620 · Yo no sé de otras cosas'
 summary: "No hay lugar más universal que el más pequeño de los pueblos.\r\n\r\nLea tiene 19 años, un ardor en la tripa y una\
   \ vida entera en un pueblo con cuatro calles, una…"
 date: '2024-02-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novella
 - Drama
 toc: false
+id: 620
 autores:
 - Elisa Levi
 autores_stats:
@@ -46,7 +47,7 @@ Yo no sé de otras cosas es la historia de alguien que quiere conocerlo todo, vi
 - **Autor:** [Elisa Levi](/autores/elisa-levi/)
 - **Editorial:** Temas de Hoy
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8499988857 / 9788499988856
 - **Publicación original:** 2021-09-22
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Contemporaneo](/tags/contemporaneo/), [Distopía](/tags/distopia/), [Novella](/tags/novella/), [Drama](/tags/drama/)

@@ -1,5 +1,5 @@
 ---
-title: Hotel Savoy
+title: '#49 · Hotel Savoy'
 summary: Un joven judío vienés, prisionero durante tres años, vuelve a casa una vez liberado, al término de la Primera Guerra
   Mundial. Aún en tierra extranjera, en una…
 date: '2014-07-01T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Alemania
 - Ficción Literaria
 toc: false
+id: 49
 autores:
 - Joseph Roth
 - Feliu Formosa
@@ -42,7 +43,7 @@ Un joven judío vienés, prisionero durante tres años, vuelve a casa una vez li
 - **Colaboradores:** [Feliu Formosa](/autores/feliu-formosa/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8496136493 / 9788496136496
 - **Publicación original:** 2004-06-03
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura alemana](/tags/literatura-alemana/), [Novela](/tags/novela/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/), [Ficción histórica](/tags/ficcion-historica/), [Alemania](/tags/alemania/), [Ficción Literaria](/tags/ficcion-literaria/)

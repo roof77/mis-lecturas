@@ -1,5 +1,5 @@
 ---
-title: Las chicas no lloran
+title: '#529 · Las chicas no lloran'
 summary: Despúes de un asado familiar, a la hora de viscosa de la siesta, una chica y su novio se escapan para ir a un telo.
   Después del sexo se mira  en el techo…
 date: '2022-03-31T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 529
 autores:
 - Olivia Gallo
 autores_stats:
@@ -33,7 +34,7 @@ Como una joven sabia, insobornable y piadosa, aguda y delicada, Olivia Gallo cue
 - **Autor:** [Olivia Gallo](/autores/olivia-gallo/)
 - **Editorial:** ALPHA DECAY
 - **Formato:** Paperback, 112 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412478711 / 9788412478716
 - **Publicación original:** 2022-03-07
 - **Ficha en Goodreads:** [Las chicas no lloran](https://www.goodreads.com/book/show/60581589-las-chicas-no-lloran)

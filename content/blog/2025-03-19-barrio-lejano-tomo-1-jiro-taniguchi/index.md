@@ -1,5 +1,5 @@
 ---
-title: Barrio lejano - Tomo 1
+title: '#723 · Barrio lejano - Tomo 1'
 summary: "Estoy soñando... ¿o qué?\r\n¿Quién no ha soñado con regresar a la infancia? Es lo que le pasa a este hombre maduro\
   \ que, a la vuelta de un viaje de negocios, da…"
 date: '2025-03-19T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Japón
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Literatura japanesa
 - Seinen manga
 toc: false
+id: 723
 autores:
 - Jirō Taniguchi
 autores_stats:
@@ -43,7 +43,7 @@ guionista Natsuo Sekigawa, “Ciudad sin defensa”, “El viento del oeste es b
 - **Serie:** A Distant Neighborhood / 遥かな町へ (#1)
 - **Editorial:** Ponent Mon
 - **Formato:** Paperback, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493309311 / 9788493309312
 - **Publicación original:** 2003-04-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Literatura japanesa](/tags/literatura-japanesa/), [Seinen manga](/tags/seinen-manga/)

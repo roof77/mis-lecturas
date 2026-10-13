@@ -1,5 +1,5 @@
 ---
-title: Un asunto de familia
+title: '#659 · Un asunto de familia'
 summary: La novela de la aclamada película Un asunto de familia (Palma de Oro en Cannes, Premio Donostia en el Festival de
   Cine de San Sebastián, elegida mejor…
 date: '2024-06-28T23:59:58'
@@ -16,6 +16,7 @@ tags:
 - Novela
 - Ásia
 toc: false
+id: 659
 autores:
 - Hirokazu Kore-eda
 autores_stats:
@@ -42,7 +43,7 @@ Así arranca esta preciosa novela de Hirokazu Kore-eda sobre una familia que, co
 - **Autor:** [Hirokazu Kore-eda](/autores/hirokazu-kore-eda/)
 - **Editorial:** Nocturna
 - **Formato:** Paperback, 232 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2019-06-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Drama](/tags/drama/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Ásia](/tags/asia/)
 - **Personajes:** Osamu Shibata, Nobuyo Shibata, Shota Shibata, Yuri

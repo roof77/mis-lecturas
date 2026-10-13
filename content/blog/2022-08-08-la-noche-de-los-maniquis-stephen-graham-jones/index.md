@@ -1,5 +1,5 @@
 ---
-title: La noche de los maniquís
+title: '#558 · La noche de los maniquís'
 summary: Un grupo de amigos deciden gastarle una broma a otra de sus amigas que acaba de empezar a trabajar en unos cines.
   La broma no sale bien y se desata una…
 date: '2022-08-08T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Jovenes adultos
 - Índigenas
 toc: false
+id: 558
 autores:
 - Stephen Graham Jones
 - Manuel de los Reyes
@@ -53,7 +54,7 @@ Night of the Mannequins  (2020)
 - **Colaboradores:** [Manuel de los Reyes](/autores/manuel-de-los-reyes/) (translator), [Tomás Hijo](/autores/tomas-hijo/) (ilustraciones)
 - **Editorial:** La Biblioteca de Carfax
 - **Formato:** Paperback, 156 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412281381 / 9788412281385
 - **Publicación original:** 2022-07-18
 - **Géneros:** [Terror](/tags/terror/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Relatos](/tags/relatos/), [Jovenes adultos](/tags/jovenes-adultos/), [Índigenas](/tags/indigenas/)

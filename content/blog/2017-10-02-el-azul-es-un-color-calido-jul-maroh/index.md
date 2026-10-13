@@ -1,5 +1,5 @@
 ---
-title: El azul es un color cálido
+title: '#270 · El azul es un color cálido'
 summary: Clementine es una adolescente sin problemas. Llega del campo para integrarse en un instituto en el que se siente
   a gusto. Un día se cruza en la calle con una…
 date: '2017-10-02T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Romance
 - Queer
@@ -17,6 +16,7 @@ tags:
 - Jovenes adultos
 - Francia
 toc: false
+id: 270
 autores:
 - Jul Maroh
 - Lorenzo F. Díaz
@@ -43,7 +43,7 @@ Estamos delante de una obra que describe con mucha delicadeza lo cotidiano de un
 - **Colaboradores:** [Lorenzo F. Díaz](/autores/lorenzo-f-diaz/) (Translator)
 - **Editorial:** Dibbuks
 - **Formato:** Hardcover, 161 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492902442 / 9788492902446
 - **Publicación original:** 2011-06-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Francia](/tags/francia/)

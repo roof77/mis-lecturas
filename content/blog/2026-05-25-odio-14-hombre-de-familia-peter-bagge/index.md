@@ -1,5 +1,5 @@
 ---
-title: Odio 14, Hombre de familia
+title: '#848 · Odio 14, Hombre de familia'
 summary: Odio 14, Hombre de familia
 date: '2026-05-25T23:59:58'
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 848
 autores:
 - Peter Bagge
 - Hernán Migoya
@@ -34,7 +34,7 @@ Odio 14, Hombre de familia
 - **Colaboradores:** [Hernán Migoya](/autores/hernan-migoya/) (Translator)
 - **Editorial:** Ediciones La Cúpula, S.L.
 - **Formato:** Paperback, 52 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478337474 / 9788478337477
 - **Publicación original:** 2006-12-01
 - **Géneros:** [Comics](/tags/comics/)

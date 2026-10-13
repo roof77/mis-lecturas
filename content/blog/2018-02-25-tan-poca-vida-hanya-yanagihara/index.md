@@ -1,5 +1,5 @@
 ---
-title: Tan poca vida
+title: '#296 · Tan poca vida'
 summary: Para saber... Qué dicen y qué callan los hombres, De dónde viene y adónde va la culpa, Cuánto importa el sexo, A
   quién podemos llamar amigo, Y finalmente…
 date: '2018-02-25T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Novela
 toc: false
+id: 296
 autores:
 - Hanya Yanagihara
 - Aurora Echevarría
@@ -44,7 +45,7 @@ Para descubrir eso y más, aquí está Tan poca vida, una historia que recorre m
 - **Colaboradores:** [Aurora Echevarría](/autores/aurora-echevarria/) (Translator)
 - **Editorial:** Lumen
 - **Formato:** Paperback, 1008 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6073148127 / 9786073148122
 - **Publicación original:** 2016-09-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Club de lectura](/tags/club-de-lectura/), [Salud mentál](/tags/salud-mental/), [Adultos](/tags/adultos/), [Novela](/tags/novela/)

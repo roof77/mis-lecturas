@@ -1,5 +1,5 @@
 ---
-title: Barbarella
+title: '#696 · Barbarella'
 summary: Viene de otro lugar, de otro tiempo, y salta de un planeta a otro, de unos brazos a otros, huyendo del pasado y entregándose
   al destino. Dueña de su desnudez y…
 date: '2025-01-14T23:59:59'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ciencia ficción
 - Ficción
@@ -16,6 +15,7 @@ tags:
 - Fantasía
 - Romance
 toc: false
+id: 696
 autores:
 - Jean-Claude Forest
 autores_stats:
@@ -39,7 +39,7 @@ Viene de otro lugar, de otro tiempo, y salta de un planeta a otro, de unos brazo
 - **Serie:** Barbarella (#1)
 - **Editorial:** Plan B Publicaciones, S.L.
 - **Formato:** Hardcover, 184 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419740004 / 9788419740007
 - **Publicación original:** 2023-03-30
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Fantasía](/tags/fantasia/), [Romance](/tags/romance/)

@@ -1,5 +1,5 @@
 ---
-title: Homem-Aranha - O Fim da Conspiração I / O Meu Primeiro Amor I
+title: '#887 · Homem-Aranha - O Fim da Conspiração I / O Meu Primeiro Amor I'
 summary: NEM TUDO É O QUE PARECE! Afinal quem se escondia atrás da máscara do deus Anúbis não era Miles Warren, mas sim Ben
   Reilly, o próprio clone do Peter Parker que…
 date: '2026-07-08T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Marvel
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Colecciones
 - Acción
 toc: false
+id: 887
 autores:
 - Dan Slott
 - Giuseppe Camuncoli

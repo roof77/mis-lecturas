@@ -1,5 +1,5 @@
 ---
-title: Hijos de hombres
+title: '#164 · Hijos de hombres'
 summary: La capacidad reproductiva de la humanidad ha desaparecido súbitamente. Theo Faron vive en la Inglaterra post-Omega,
   un periodo deprimente en el que ya no hay…
 date: '2016-01-04T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción especulativa
 - Ciencia Ficción
 toc: false
+id: 164
 autores:
 - P.D. James
 autores_stats:
@@ -41,7 +42,7 @@ La capacidad reproductiva de la humanidad ha desaparecido súbitamente. Theo Far
 - **Autor:** [P.D. James](/autores/p-d-james/)
 - **Editorial:** ZETA BOLSILLO
 - **Formato:** Mass Market Paperback, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849658190X / 9788496581906
 - **Publicación original:** 2006-10-18
 - **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Postapocalíptico](/tags/postapocaliptico/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/), [Ficción especulativa](/tags/ficcion-especulativa/), [Ciencia Ficción](/tags/ciencia-ficcion/)

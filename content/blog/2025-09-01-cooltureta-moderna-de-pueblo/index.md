@@ -1,5 +1,5 @@
 ---
-title: Cooltureta
+title: '#769 · Cooltureta'
 summary: Algunos modernos, además de llevar pantalones de pitillo y no saltarse  ni un festival de música, asisten a ciclos
   de cine iraní y leen poesía  contemporánea…
 date: '2025-09-01T23:59:59'
@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Humor
 - Literatura hispana
 - Manga
 - Contemporaneo
 toc: false
+id: 769
 autores:
 - Moderna de Pueblo
 - Carlos Carrero
@@ -40,7 +40,7 @@ Algunos modernos, además de llevar pantalones de pitillo y no saltarse  ni un f
 - **Colaboradores:** [Carlos Carrero](/autores/carlos-carrero/) (Author)
 - **Editorial:** Lumen
 - **Formato:** Paperback, 127 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8426400248 / 9788426400246
 - **Publicación original:** 2014-05-15
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Humor](/tags/humor/), [Literatura hispana](/tags/literatura-hispana/), [Manga](/tags/manga/), [Contemporaneo](/tags/contemporaneo/)

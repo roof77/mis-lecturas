@@ -1,5 +1,5 @@
 ---
-title: El funcionario desnudo
+title: '#565 · El funcionario desnudo'
 summary: Quentin Crisp, fallecido en 1999 a la edad de 91 años, ha sido uno de los más finos humoristas británicos de los
   últimos tiempos. Su prosa limpia, inteligente…
 date: '2022-10-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Autobiografía
 - Humor
 toc: false
+id: 565
 autores:
 - Quentin Crisp
 autores_stats:
@@ -42,7 +43,7 @@ El funcionario desnudo, primer volumen de sus memorias, es una crónica autobiog
 - **Autor:** [Quentin Crisp](/autores/quentin-crisp/)
 - **Editorial:** Valdemar
 - **Formato:** Paperback, 268 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477023611 / 9788477023616
 - **Publicación original:** 2001-09-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [LGTBIQ+](/tags/lgtbiq/), [Memorias](/tags/memorias/), [Queer](/tags/queer/), [Clásico](/tags/clasico/), [Gay](/tags/gay/), [Autobiografía](/tags/autobiografia/), [Humor](/tags/humor/)

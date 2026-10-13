@@ -1,5 +1,5 @@
 ---
-title: Agujero
+title: '#481 · Agujero'
 summary: Al marido de Asa le han ofrecido un nuevo trabajo en una zona remota de Japón, próxima al hogar en que nació. Durante
   un verano excepcionalmente cálido, la…
 date: '2021-08-15T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ásia
 - Literatura asiática
 toc: false
+id: 481
 autores:
 - Hiroko Oyamada
 - Tana Oshima
@@ -43,7 +44,7 @@ Al marido de Asa le han ofrecido un nuevo trabajo en una zona remota de Japón, 
 - **Colaboradores:** [Tana Oshima](/autores/tana-oshima/) (Translator)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418668059 / 9788418668050
 - **Publicación original:** 2021-05-03
 - **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Realismo mágico](/tags/realismo-magico/), [Literatura japanesa](/tags/literatura-japanesa/), [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Contemporaneo](/tags/contemporaneo/), [Ásia](/tags/asia/), [Literatura asiática](/tags/literatura-asiatica/)

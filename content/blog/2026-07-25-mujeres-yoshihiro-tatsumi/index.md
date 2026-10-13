@@ -1,5 +1,5 @@
 ---
-title: Mujeres
+title: '#900 · Mujeres'
 summary: Mika vive de los hombres. Utiliza el dinero que obtiene de cada uno de sus amantes para cubrir una necesidad concreta.
   Pero la recesión está haciendo estragos…
 date: '2026-07-25T23:59:56'
@@ -8,10 +8,10 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Manga
 - Novela gráfica
 toc: false
+id: 900
 autores:
 - Yoshihiro Tatsumi
 autores_stats:
@@ -37,7 +37,7 @@ Cada mujer es un mundo, y los retratos que el maestro Tatsumi hace de cada una d
 - **Autor:** [Yoshihiro Tatsumi](/autores/yoshihiro-tatsumi/)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 161 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478337024 / 9788478337026
 - **Publicación original:** 2006-04-25
 - **Géneros:** [Comics](/tags/comics/), [Manga](/tags/manga/), [Novela gráfica](/tags/novela-grafica/)

@@ -1,5 +1,5 @@
 ---
-title: La cantina de medianoche 6
+title: '#819 · La cantina de medianoche 6'
 summary: '"Mon restaurant est ouvert de minuit à sept heures du matin environ. On le surnomme la cantine de minuit" mais pour
   certains c''est plutôt "la cantine de…'
 date: '2026-03-28T23:59:59'
@@ -9,12 +9,12 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Japón
 - Comida
 - Seinen manga
 toc: false
+id: 819
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -40,7 +40,7 @@ nota: Muy recomendable
 - **Colaboradores:** [Alberto Sakai Fonseca](/autores/alberto-sakai-fonseca/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418909897 / 9788418909894
 - **Publicación original:** 2023-06-15
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Comida](/tags/comida/), [Seinen manga](/tags/seinen-manga/)

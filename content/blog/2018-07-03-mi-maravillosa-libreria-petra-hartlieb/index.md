@@ -1,5 +1,5 @@
 ---
-title: Mi maravillosa librería
+title: '#321 · Mi maravillosa librería'
 summary: Petra Hartlieb tiene ahora una gran familia, un perro y una librería. Diez años atrás, estando de vacaciones en Viena,
   su ciudad de origen, supo de una bonita…
 date: '2018-07-03T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - Humor
 toc: false
+id: 321
 autores:
 - Petra Hartlieb
 - Manolo Laguillo
@@ -42,7 +43,7 @@ Petra Hartlieb tiene ahora una gran familia, un perro y una librería. Diez año
 - **Colaboradores:** [Manolo Laguillo](/autores/manolo-laguillo/) (Translator)
 - **Editorial:** Periférica
 - **Formato:** Paperback, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416291217 / 9788416291212
 - **Publicación original:** 2015-10-21
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Libros sobre libros](/tags/libros-sobre-libros/), [Biografía](/tags/biografia/), [Literatura alemana](/tags/literatura-alemana/), [Contemporaneo](/tags/contemporaneo/), [Memorias](/tags/memorias/), [Club de lectura](/tags/club-de-lectura/), [Humor](/tags/humor/)

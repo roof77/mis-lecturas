@@ -1,5 +1,5 @@
 ---
-title: La chica del grupo
+title: '#280 · La chica del grupo'
 summary: Kim Gordon dio a luz a principios de los 80, junto al que sería su marido Thurston Moore y el guitarrista Lee Ranaldo,
   a uno de los grupos más innovadores…
 date: '2017-12-16T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Arte
 - Mujeres
 toc: false
+id: 280
 autores:
 - Kim Gordon
 autores_stats:
@@ -45,7 +46,7 @@ La chica del grupo explora de manera inteligente y crítica el punto de vista de
 - **Autor:** [Kim Gordon](/autores/kim-gordon/)
 - **Editorial:** Editorial Contra
 - **Formato:** Paperback, 344 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494216783 / 9788494216787
 - **Publicación original:** 2015-02-25
 - **Géneros:** [Música](/tags/musica/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Autobiografía](/tags/autobiografia/), [Feminismo](/tags/feminismo/), [Arte](/tags/arte/), [Mujeres](/tags/mujeres/)

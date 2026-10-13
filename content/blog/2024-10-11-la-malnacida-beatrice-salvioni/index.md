@@ -1,5 +1,5 @@
 ---
-title: La malnacida
+title: '#686 · La malnacida'
 summary: El poderoso debut de Beatrice Salvioni, ganadora del Premio Calvino 2021, vendido en 28 idiomas antes de su publicación
   Monza, Italia, 1936 . Francesca, de…
 date: '2024-10-11T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Drama
 - Ficción Literaria
 toc: false
+id: 686
 autores:
 - Beatrice Salvioni
 - Ana Ciurans Ferrándiz
@@ -49,7 +50,7 @@ Duygu Muas, editora de Penguin Verlag (Alemania)
 - **Colaboradores:** [Ana Ciurans Ferrándiz](/autores/ana-ciurans-ferrandiz/) (Translator)
 - **Editorial:** Lumen
 - **Formato:** Kindle Edition, 242 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8426418139 / 9788426418135
 - **Publicación original:** 2023-03-23
 - **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Literatura italiana](/tags/literatura-italiana/), [Italia](/tags/italia/), [Histórico](/tags/historico/), [Coming of age](/tags/coming-of-age/), [Drama](/tags/drama/), [Ficción Literaria](/tags/ficcion-literaria/)

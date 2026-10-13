@@ -1,5 +1,5 @@
 ---
-title: La mala costumbre
+title: '#615 · La mala costumbre'
 summary: Narrada desde una singular y desgarradora voz en primera persona, La mala costumbre recorre la adolescencia de una
   niña atrapada en un cuerpo que no sabe…
 date: '2024-01-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Transgenero
 - Drama
 toc: false
+id: 615
 autores:
 - Alana S. Portero
 autores_stats:
@@ -42,7 +43,7 @@ La mala costumbre es una novela cruda y feroz, pero también poética y conmoved
 - **Autor:** [Alana S. Portero](/autores/alana-s-portero/)
 - **Editorial:** Seix Barral
 - **Formato:** Kindle Edition, 252 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8432242187 / 9788432242182
 - **Publicación original:** 2023-05-03
 - **Géneros:** [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Literatura hispana](/tags/literatura-hispana/), [Contemporaneo](/tags/contemporaneo/), [España](/tags/espana/), [Feminismo](/tags/feminismo/), [Transgenero](/tags/transgenero/), [Drama](/tags/drama/)

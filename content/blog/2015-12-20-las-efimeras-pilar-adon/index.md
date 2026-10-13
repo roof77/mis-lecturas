@@ -1,5 +1,5 @@
 ---
-title: Las efímeras
+title: '#161 · Las efímeras'
 summary: Dora y Violeta Oliver, dos hermanas que mantienen una ambigua relación, viven aisladas en una casa situada a las
   afueras de una comunidad. Sus miembros se han…
 date: '2015-12-20T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Literatura hispana
 - España
 toc: false
+id: 161
 autores:
 - Pilar Adón
 autores_stats:
@@ -39,7 +40,7 @@ Las efímeras es una novela sobre la dominación, la dependencia y el deseo de a
 - **Autor:** [Pilar Adón](/autores/pilar-adon/)
 - **Editorial:** Galaxia Gutenberg
 - **Formato:** Hardcover, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788416495283
 - **Publicación original:** 2015-11-04
 - **Géneros:** [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/)

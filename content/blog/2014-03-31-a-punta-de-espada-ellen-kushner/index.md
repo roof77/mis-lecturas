@@ -1,5 +1,5 @@
 ---
-title: A punta de espada
+title: '#24 · A punta de espada'
 summary: '"Comienza con una única gota de sangre sobre un campo de nieve recién caída: es un comienzo maravilloso, y a partir
   de ahí el libro no hace sino…'
 date: '2014-03-31T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Ciencia Ficción
 - Adultos
 toc: false
+id: 24
 autores:
 - Ellen Kushner
 - Manuel de los Reyes
@@ -61,7 +62,7 @@ Guy Gavriel Kay
 - **Colaboradores:** [Manuel de los Reyes](/autores/manuel-de-los-reyes/) (Translator)
 - **Editorial:** Bibliópolis
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8496173380 / 9788496173385
 - **Publicación original:** 2005-01-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Romance](/tags/romance/), [Gay](/tags/gay/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/)

@@ -1,5 +1,5 @@
 ---
-title: El ojo de la novia frenopática
+title: '#938 · El ojo de la novia frenopática'
 summary: "Un panteón de dioses. Un antiguo rencor y la IA. ¡El octavo piso es el caos!\r\n\r\nLos mazmorreros reciben una\
   \ nueva tarea: encontrar y capturar seis monstruos…"
 date: '2026-10-11T23:59:56'
@@ -18,6 +18,7 @@ tags:
 - Comedia
 - Mágia
 toc: false
+id: 938
 autores:
 - Matt Dinniman
 - David Tejera Expósito
@@ -53,7 +54,7 @@ Bienvenidos, mazmorreros. Bienvenidos al octavo piso de la mazmorra.
 - **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Paperback, 840 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410466473 / 9788410466470
 - **Publicación original:** 2026-10-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Litrpg](/tags/litrpg/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Distopía](/tags/distopia/), [Aventuras](/tags/aventuras/), [Comedia](/tags/comedia/), [Mágia](/tags/magia/)

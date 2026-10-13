@@ -1,5 +1,5 @@
 ---
-title: La guerra interminable
+title: '#148 · La guerra interminable'
 summary: Iniciada en 1997, la guerra con los taurinos dura desde hace siglos. Como pasan de un mundo a otro a velocidades
   superiores a la de la luz, las tropas de la…
 date: '2015-10-28T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Viaje en el tiempo
 - Espacio
 toc: false
+id: 148
 autores:
 - Joe Haldeman
 - Edith Zilli
@@ -45,7 +46,7 @@ La Guerra interminable es la novela más conocida de Haldeman, con más de un mi
 - **Colaboradores:** [Edith Zilli](/autores/edith-zilli/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 293 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8466624120 / 9788466624121
 - **Publicación original:** 2005-03-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Guerra](/tags/guerra/), [Clásico](/tags/clasico/), [Space Opera](/tags/space-opera/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Ficción militar](/tags/ficcion-militar/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Espacio](/tags/espacio/)

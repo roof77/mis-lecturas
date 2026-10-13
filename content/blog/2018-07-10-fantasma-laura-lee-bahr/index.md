@@ -1,5 +1,5 @@
 ---
-title: Fantasma
+title: '#322 · Fantasma'
 summary: '"Fantasma" se abre con la aparición del cadáver de Sarah, fallecida en extrañas circunstancias. Esta misteriosa
   mujer te habla directamente porque tú (sí, tú…'
 date: '2018-07-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - EEUU
 - Mujeres
 toc: false
+id: 322
 autores:
 - Laura Lee Bahr
 - Hugo Camacho
@@ -54,7 +55,7 @@ Traducción de Hugo Camacho.
 - **Colaboradores:** [Hugo Camacho](/autores/hugo-camacho/) (Translator), [Tamara Romero](/autores/tamara-romero/) (Foreword), [Branca Studio](/autores/branca-studio/) (Illustrator)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 300 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788494318160
 - **Publicación original:** 2015-06-09
 - **Géneros:** [Terror](/tags/terror/), [Bizarro](/tags/bizarro/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Paranormal](/tags/paranormal/), [EEUU](/tags/eeuu/), [Mujeres](/tags/mujeres/)

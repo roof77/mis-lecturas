@@ -1,5 +1,5 @@
 ---
-title: 'Servicio completo: La secreta vida sexual de las estrellas de Hollywood'
+title: '#444 · Servicio completo: La secreta vida sexual de las estrellas de Hollywood'
 summary: La saludable imagen de América difundida por Hollywood en los años 40, 50 y 60 del pasado siglo es una de las más
   persistentes en la cultura popular -madres…
 date: '2020-10-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Autobiografía
 - Queer
 toc: false
+id: 444
 autores:
 - Scotty Bowers
 - Jaime Zulaika
@@ -43,7 +44,7 @@ La saludable imagen de América difundida por Hollywood en los años 40, 50 y 60
 - **Colaboradores:** [Jaime Zulaika](/autores/jaime-zulaika/) (Translator), [Román Gubern](/autores/roman-gubern/) (Contributor)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 328 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433926012 / 9788433926012
 - **Publicación original:** 2013-10-23
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Memorias](/tags/memorias/), [Historia](/tags/historia/), [LGTBIQ+](/tags/lgtbiq/), [Películas](/tags/peliculas/), [Gay](/tags/gay/), [Autobiografía](/tags/autobiografia/), [Queer](/tags/queer/)

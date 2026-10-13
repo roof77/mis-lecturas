@@ -1,5 +1,5 @@
 ---
-title: Cuando yo tenía cinco años, me maté
+title: '#66 · Cuando yo tenía cinco años, me maté'
 summary: Burt sólo tiene ocho años, pero su pequeño corazón ya ha conocido grandes sentimientos. Demasiado grandes. Demasiado
   fuertes. Ahora vive recluido en un Centro…
 date: '2014-09-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Drama
 toc: false
+id: 66
 autores:
 - Howard Buten
 autores_stats:
@@ -40,7 +41,7 @@ Burt sólo tiene ocho años, pero su pequeño corazón ya ha conocido grandes se
 - **Autor:** [Howard Buten](/autores/howard-buten/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494167642 / 9788494167645
 - **Publicación original:** 2013-10-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Salud mentál](/tags/salud-mental/), [Enfermedad mentál](/tags/enfermedad-mental/), [Psicología](/tags/psicologia/), [Contemporaneo](/tags/contemporaneo/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Club de lectura](/tags/club-de-lectura/), [Drama](/tags/drama/)

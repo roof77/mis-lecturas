@@ -1,5 +1,5 @@
 ---
-title: 'El Asco: El mundo de Ander Klimakks'
+title: '#703 · El Asco: El mundo de Ander Klimakks'
 summary: Segundo tomo de tres.
 date: '2025-01-30T23:59:57'
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 703
 autores:
 - Grant Morrison
 - Chris Weston
@@ -35,7 +35,7 @@ Segundo tomo de tres.
 - **Colaboradores:** [Chris Weston](/autores/chris-weston/) (Dibujo), [Gary Erskine](/autores/gary-erskine/) (Tinta), [Matt Hollingsworth](/autores/matt-hollingsworth/) (Color)
 - **Editorial:** Norma Editorial (Vertigo Comics)
 - **Formato:** Paperback, 121 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 848431779X / 9788484317791
 - **Publicación original:** 2004-01-01
 - **Géneros:** [Comics](/tags/comics/)

@@ -1,5 +1,5 @@
 ---
-title: Pedro Páramo
+title: '#273 · Pedro Páramo'
 summary: La obra de Juan Rulfo es sin duda la creación literaria mexicana que ha recibido mayor reconocimiento dentro y fuera
   de su país. La novela Pedro Páramo tuvo…
 date: '2017-10-20T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura latinoamericana
 - Siglo XX
 toc: false
+id: 273
 autores:
 - Juan Rulfo
 - Fundación Juan Rulfo
@@ -43,7 +44,7 @@ La obra de Juan Rulfo es sin duda la creación literaria mexicana que ha recibid
 - **Colaboradores:** [Fundación Juan Rulfo](/autores/fundacion-juan-rulfo/) (Editor)
 - **Editorial:** Editorial RM - Fundación Juan Rulfo
 - **Formato:** Paperback, 136 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2017-06-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Realismo mágico](/tags/realismo-magico/), [Literatura hispana](/tags/literatura-hispana/), [Latino américa](/tags/latino-america/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Fantasía](/tags/fantasia/), [Literatura latinoamericana](/tags/literatura-latinoamericana/), [Siglo XX](/tags/siglo-xx/)
 - **Personajes:** Juan Preciado

@@ -1,5 +1,5 @@
 ---
-title: Valores familiares
+title: '#433 · Valores familiares'
 summary: «Si no estás en el Inner Circle, te estás perdiendo nuevas voces de la literatura que desafían el statu quo. Es refrescante
   no leer lo mismo de siempre, además…
 date: '2020-05-26T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Bizarro
 toc: false
+id: 433
 autores:
 - Alfredo Álamo
 - Sergi Álvarez
@@ -59,7 +60,7 @@ Con relatos de Alfredo Álamo, Sergi Álvarez, Nick Antosca, Hugo Camacho, Takes
 - **Colaboradores:** [Sergi Álvarez](/autores/sergi-alvarez/) (Author), [Nick Antosca](/autores/nick-antosca/) (Author), [Hugo Camacho](/autores/hugo-camacho/) (Author, translator, editor), [Takeshi García-Ashirogi](/autores/takeshi-garcia-ashirogi/) (Author), [Rubén Guallar](/autores/ruben-guallar/) (Author), [Francisco Jota-Pérez](/autores/francisco-jota-perez/) (Author), [Alejandro Marcos Ortega](/autores/alejandro-marcos-ortega/) (Author), [Carlton Mellick III](/autores/carlton-mellick-iii/) (Author), [Sergi G. Oset](/autores/sergi-g-oset/) (Author)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 204 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494756583 / 9788494756580
 - **Publicación original:** 2019-01-23
 - **Géneros:** [Bizarro](/tags/bizarro/)

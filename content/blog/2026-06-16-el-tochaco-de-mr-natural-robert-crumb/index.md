@@ -1,5 +1,5 @@
 ---
-title: El tochaco de Mr. Natural
+title: '#864 · El tochaco de Mr. Natural'
 summary: Cómo ganar amigos e influir en las personas. Descubre tus zonas erróneas. Viaje al optimismo. El arte de no amargarse
   la vida. Reinventarse y emprender. El…
 date: '2026-06-16T23:59:59'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Humor
 - Arte
@@ -16,6 +15,7 @@ tags:
 - Ficción
 - Manga
 toc: false
+id: 864
 autores:
 - Robert Crumb
 autores_stats:
@@ -41,7 +41,7 @@ Estas páginas contienen filosofía auténtica, trascendencia de la buena y reve
 - **Serie:** Mr. Natural
 - **Editorial:** Ediciones La Cúpula
 - **Formato:** Paperback, 260 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416400164 / 9788416400164
 - **Publicación original:** 2015-11-27
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Humor](/tags/humor/), [Arte](/tags/arte/), [Filosofía](/tags/filosofia/), [Ficción](/tags/ficcion/), [Manga](/tags/manga/)

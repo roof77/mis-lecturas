@@ -1,5 +1,5 @@
 ---
-title: 'Capitán América: La muerte de Cráneo Rojo'
+title: '#786 · Capitán América: La muerte de Cráneo Rojo'
 summary: "Contiene Captain America 290-301 y Annual 8\r\n\r\n¡El último tomo de la recopilación completa del Capitán América\
   \ de J. M. DeMatteis y Mike Zeck es el más…"
 date: '2025-11-30T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 786
 autores:
 - J.M. DeMatteis
 autores_stats:
@@ -37,7 +37,7 @@ Autores: J. M. DeMatteis, Bill Mantlo, Mike Carlin, Ron Frenz, Herb Trimpe, Paul
 - **Serie:** Captain America (1968) (#290-301, Annul #8)
 - **Editorial:** Panini Comics España
 - **Formato:** Paperback, 336 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490248451 / 9788490248454
 - **Publicación original:** 2014-08-01
 - **Géneros:** [Comics](/tags/comics/)

@@ -1,5 +1,5 @@
 ---
-title: Disforia
+title: '#127 · Disforia'
 summary: La sociedad arrastra una crisis económica y de valores que parece irreversible. Esther y Tomás, un matrimonio joven
   con serios problemas laborales, deciden…
 date: '2015-07-15T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Terror
 toc: false
+id: 127
 autores:
 - David Jasso
 autores_stats:
@@ -34,7 +35,7 @@ La sociedad arrastra una crisis económica y de valores que parece irreversible.
 - **Autor:** [David Jasso](/autores/david-jasso/)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 416 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477028001 / 9788477028000
 - **Publicación original:** 2015-05-06
 - **Géneros:** [Terror](/tags/terror/)

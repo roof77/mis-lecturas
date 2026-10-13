@@ -1,5 +1,5 @@
 ---
-title: Señoras que se empotraron hace mucho
+title: '#423 · Señoras que se empotraron hace mucho'
 summary: "¿Dónde están las lesbianas en la historia?\r\n\r\nMujeres que se rebelaron contra el matrimonio y rompieron las\
   \ reglas de etiqueta. Rebeldes, genias, decadentes…"
 date: '2020-02-20T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura hispana
 - Romance
 toc: false
+id: 423
 autores:
 - Cristina Domenech
 autores_stats:
@@ -46,7 +47,7 @@ Este libro, que contempla desde el siglo XVII hasta el siglo XX, explora la hist
 - **Serie:** Señoras que se empotraron
 - **Editorial:** Plan B 
 - **Formato:** Paperback, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841700193X / 9788417001933
 - **Publicación original:** 2019-10-17
 - **Géneros:** [LGTBIQ+](/tags/lgtbiq/), [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Queer](/tags/queer/), [Historia](/tags/historia/), [Lesbianismo](/tags/lesbianismo/), [Histórico](/tags/historico/), [Biografía](/tags/biografia/), [Literatura hispana](/tags/literatura-hispana/), [Romance](/tags/romance/)

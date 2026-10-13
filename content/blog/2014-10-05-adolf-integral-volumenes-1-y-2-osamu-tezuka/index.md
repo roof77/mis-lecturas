@@ -1,5 +1,5 @@
 ---
-title: Adolf Integral, volúmenes 1 y 2
+title: '#74 · Adolf Integral, volúmenes 1 y 2'
 summary: 'Adolf es la historia de tres personas llamadas Adolf: un niño judío que viven en Japón, un niño de medio japones/medio-
   alemán, y el líder de la Alemania nazi…'
 date: '2014-10-05T23:59:59'
@@ -9,9 +9,9 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 toc: false
+id: 74
 autores:
 - Osamu Tezuka
 - Jesús Pece
@@ -37,7 +37,7 @@ Adolf es la historia de tres personas llamadas Adolf: un niño judío que viven 
 - **Colaboradores:** [Jesús Pece](/autores/jesus-pece/) (Translator)
 - **Editorial:** Planeta DeAgostini
 - **Formato:** Hardcover, 1200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467496703 / 9788467496703
 - **Publicación original:** 2010-01-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/)

@@ -1,5 +1,5 @@
 ---
-title: Providence
+title: '#628 · Providence'
 summary: Il capolavoro lovecraftiano di Alan Moore e Jacen Burrows raccolto in un prestigioso volume in grande formato e con
   finiture di pregio! È il 1919 e l’ambizioso…
 date: '2024-03-05T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 628
 autores:
 - Alan Moore
 - Jacen Burrows
@@ -35,7 +35,7 @@ Il capolavoro lovecraftiano di Alan Moore e Jacen Burrows raccolto in un prestig
 - **Colaboradores:** [Jacen Burrows](/autores/jacen-burrows/) (Author)
 - **Editorial:** Panini España
 - **Formato:** Hardcover, 720 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841101634X / 9788411016346
 - **Publicación original:** 2022-09-29
 - **Géneros:** [Comics](/tags/comics/)

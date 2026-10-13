@@ -1,5 +1,5 @@
 ---
-title: Philemon Integral 02
+title: '#714 · Philemon Integral 02'
 summary: Prosiguen las andanzas de Philémon, quien, con la complicidad de su tío Félicien, de su burro Anatole y del propio
   Barthélémy, continúa descubriendo mundos…
 date: '2025-02-21T23:59:59'
@@ -9,8 +9,8 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 toc: false
+id: 714
 autores:
 - Fred
 autores_stats:
@@ -36,7 +36,7 @@ Artífice de un imaginario evocador de las grandes obras de Lewis Carroll, Jonat
 - **Serie:** Philémon (#6-10)
 - **Editorial:** ECC Ediciones
 - **Formato:** Hardcover, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416901082 / 9788416901081
 - **Publicación original:** 2016-09-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/)

@@ -1,5 +1,5 @@
 ---
-title: Hombres sin mujeres
+title: '#106 · Hombres sin mujeres'
 summary: 'Haruki Murakami ofrece a los lectores siete relatos en torno al aislamiento y la soledad que preceden o siguen a
   la relación amorosa: hombres que han perdido a…'
 date: '2015-04-15T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Literatura asiática
 toc: false
+id: 106
 autores:
 - Haruki Murakami
 - Gabriel Álvarez Martínez
@@ -42,7 +43,7 @@ Haruki Murakami ofrece a los lectores siete relatos en torno al aislamiento y la
 - **Colaboradores:** [Gabriel Álvarez Martínez](/autores/gabriel-alvarez-martinez/) (Traductor)
 - **Editorial:** Tusquets Editores
 - **Formato:** Paperback, 267 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6074216681 / 9786074216684
 - **Publicación original:** 2015-03-03
 - **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/), [Realismo mágico](/tags/realismo-magico/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/)

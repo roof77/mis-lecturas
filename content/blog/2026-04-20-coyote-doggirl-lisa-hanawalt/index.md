@@ -1,5 +1,5 @@
 ---
-title: Coyote Doggirl
+title: '#826 · Coyote Doggirl'
 summary: Coyote es una soñadora y una reina del drama, descarada y valerosa, fiel pero ferozmente independiente. Toca su propio
   tambor y cose sus propios tops. Es una…
 date: '2026-04-20T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Oeste
 - Humor
@@ -18,6 +17,7 @@ tags:
 - Adultos
 - Feminismo
 toc: false
+id: 826
 autores:
 - Lisa Hanawalt
 autores_stats:
@@ -42,7 +42,7 @@ Coyote Doggirl, primera obra publicada en castellano de la autora, es a la vez, 
 - **Autor:** [Lisa Hanawalt](/autores/lisa-hanawalt/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 152 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417575367 / 9788417575366
 - **Publicación original:** 2019-01-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Oeste](/tags/oeste/), [Humor](/tags/humor/), [Fantasía](/tags/fantasia/), [Animales](/tags/animales/), [Adultos](/tags/adultos/), [Feminismo](/tags/feminismo/)

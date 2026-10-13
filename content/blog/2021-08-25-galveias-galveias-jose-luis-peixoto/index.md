@@ -1,5 +1,5 @@
 ---
-title: Galveias / Galveias
+title: '#483 · Galveias / Galveias'
 summary: "Una preciosa novela sobre el espíritu y la vida de la gente que habita en la pequeña localidad portuguesa de Galveias,\
   \ al norte de Alentejo.\r\n\r\nUna noche de…"
 date: '2021-08-25T23:59:59'
@@ -15,6 +15,7 @@ tags:
 - Novela
 - Contemporaneo
 toc: false
+id: 483
 autores:
 - José Luís Peixoto
 autores_stats:
@@ -43,7 +44,7 @@ ENGLISH DESCRIPTIONOn a regular January evening, the universe jolts the small to
 - **Autor:** [José Luís Peixoto](/autores/jose-luis-peixoto/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 215 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439732015 / 9788439732013
 - **Publicación original:** 2016-10-31
 - **Géneros:** [Portugal](/tags/portugal/), [Romance](/tags/romance/), [Literatura portuguesa](/tags/literatura-portuguesa/), [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Contemporaneo](/tags/contemporaneo/)

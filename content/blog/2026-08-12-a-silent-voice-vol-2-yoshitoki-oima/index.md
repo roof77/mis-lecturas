@@ -1,5 +1,5 @@
 ---
-title: A Silent Voice, vol. 2
+title: '#922 · A Silent Voice, vol. 2'
 summary: Cinco años más tarde, justo antes de quitarse la vida, Shôya Ishida decide buscar a Shôko Nishimiya, su antigua compañera
   de clase. Cuando tiene lugar el…
 date: '2026-08-12T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Jovenes adultos
 - Romance
 - Novela gráfica
@@ -19,6 +18,7 @@ tags:
 - Drama
 - Ficción realista
 toc: false
+id: 922
 autores:
 - Yoshitoki Oima
 autores_stats:
@@ -42,7 +42,7 @@ Cinco años más tarde, justo antes de quitarse la vida, Shôya Ishida decide bu
 - **Serie:** 聲の形 [Koe no Katachi] (#2)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849435406X / 9788494354069
 - **Publicación original:** 2015-04-24
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Drama](/tags/drama/), [Ficción realista](/tags/ficcion-realista/)

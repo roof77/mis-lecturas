@@ -1,5 +1,5 @@
 ---
-title: El diablo a todas horas
+title: '#211 · El diablo a todas horas'
 summary: Cuando Willard Russell, veterano de la segunda guerra mundial, descubre que el cáncer empuja a su mujer hacia una
   muerte inevitable, concluye que solo Jesús…
 date: '2016-10-26T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Misterio
 - Gótico
 toc: false
+id: 211
 autores:
 - Donald Ray Pollock
 - Javier Calvo
@@ -41,7 +42,7 @@ Cuando Willard Russell, veterano de la segunda guerra mundial, descubre que el c
 - **Colaboradores:** [Javier Calvo](/autores/javier-calvo/) (Translator)
 - **Editorial:** Libros del Silencio
 - **Formato:** Paperback, 376 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494015656 / 9788494015656
 - **Publicación original:** 2012-11-01
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Ficción histórica](/tags/ficcion-historica/), [Crimen](/tags/crimen/), [Gótico sureño](/tags/gotico-sureno/), [Misterio](/tags/misterio/), [Gótico](/tags/gotico/)

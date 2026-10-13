@@ -1,5 +1,5 @@
 ---
-title: Suburbia. El libro ilustrado del erotismo, lo prohibido y la molicie en España
+title: '#597 · Suburbia. El libro ilustrado del erotismo, lo prohibido y la molicie en España'
 summary: Un espectacular recorrido ilustrado por nuestros mundos más oscuros y «depravados», desde la sicalipsis de fin de
   siglo hasta la brutalidad de la transición…
 date: '2023-08-07T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 597
 autores:
 - Servando Rocha
 autores_stats:
@@ -31,7 +32,7 @@ Un espectacular recorrido ilustrado por nuestros mundos más oscuros y «deprava
 - **Autor:** [Servando Rocha](/autores/servando-rocha/)
 - **Editorial:** La Felguera Editores
 - **Formato:** Paperback, 432 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412693612 / 9788412693614
 - **Publicación original:** 2023-05-25
 - **Ficha en Goodreads:** [Suburbia. El libro ilustrado del erotismo, lo prohibido y la molicie en España](https://www.goodreads.com/book/show/148791985-suburbia-el-libro-ilustrado-del-erotismo-lo-prohibido-y-la-molicie-en)

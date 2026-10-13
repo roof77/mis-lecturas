@@ -1,5 +1,5 @@
 ---
-title: Armada
+title: '#231 · Armada'
 summary: Zack Lightman se ha pasado la vida soñando. Soñando con que el mundo real se pareciera un poco más al sinfín de libros,
   películas y videojuegos de ciencia…
 date: '2017-01-31T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Espacio
 toc: false
+id: 231
 autores:
 - Ernest Cline
 - David Tejera Expósito
@@ -47,7 +48,7 @@ Al fin Zack se va convertir en un héroe. Pero a pesar del terror y la emoción 
 - **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 428 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8466658939 / 9788466658935
 - **Publicación original:** 2016-03-30
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Aventuras](/tags/aventuras/), [Extraterrestres](/tags/extraterrestres/), [Adultos](/tags/adultos/), [Espacio](/tags/espacio/)

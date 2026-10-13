@@ -1,5 +1,5 @@
 ---
-title: El problema de los tres cuerpos
+title: '#230 · El problema de los tres cuerpos'
 summary: '"El problema de los tres cuerpos" es la primera novela no escrita originariamente en inglés galardonada con el premio
   Hugo, el Nobel del género de la ciencia…'
 date: '2017-01-24T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Adultos
 toc: false
+id: 230
 autores:
 - Liu Cixin
 - Javier Altayó
@@ -47,7 +48,7 @@ El público y la crítica de los cinco continentes se rinden ante esta obra maes
 - **Colaboradores:** [Javier Altayó](/autores/javier-altayo/) (Translator)
 - **Editorial:** NOVA
 - **Formato:** ebook, 416 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490695288 / 9788490695289
 - **Publicación original:** 2016-09-06
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [China](/tags/china/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Extraterrestres](/tags/extraterrestres/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)

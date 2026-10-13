@@ -1,5 +1,5 @@
 ---
-title: La sangre de la virgen
+title: '#626 · La sangre de la virgen'
 summary: California. 1971. Un joven ambicioso trata de abrirse camino en la industria del cine de terror y bajo presupuesto.
   Dividido entre el desorden de su vida…
 date: '2024-03-04T23:59:59'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción
 - Ficción histórica
@@ -16,6 +15,7 @@ tags:
 - Judaismo
 - Terror
 toc: false
+id: 626
 autores:
 - Sammy Harkham
 - Alberto García Marcos
@@ -40,7 +40,7 @@ California. 1971. Un joven ambicioso trata de abrirse camino en la industria del
 - **Colaboradores:** [Alberto García Marcos](/autores/alberto-garcia-marcos/) (Translator)
 - **Editorial:** Fulgencio Pimentel S.L.
 - **Formato:** Hardcover, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419737070 / 9788419737076
 - **Publicación original:** 2023-04-10
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Películas](/tags/peliculas/), [Judaismo](/tags/judaismo/), [Terror](/tags/terror/)

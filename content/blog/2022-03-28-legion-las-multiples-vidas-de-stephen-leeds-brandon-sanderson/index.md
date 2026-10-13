@@ -1,5 +1,5 @@
 ---
-title: 'Legión: Las múltiples vidas de Stephen Leeds'
+title: '#528 · Legión: Las múltiples vidas de Stephen Leeds'
 summary: Stephen leeds está perfectamente sano, son sus alucinaciones las que están locas. Puede aprender cualquier habilidad
   en cuestión de horas, pero, para ello, su…
 date: '2022-03-28T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Thriller
 - Novella
 toc: false
+id: 528
 autores:
 - Brandon Sanderson
 - Manu Viciano
@@ -50,7 +51,7 @@ Incluye Legion (ya publicado por Fantascy en 2014), Legión: A flor de piel, nun
 - **Colaboradores:** [Manu Viciano](/autores/manu-viciano/) (Translator), [Rafael Marín Trechera](/autores/rafael-marin-trechera/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 349 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417347321 / 9788417347321
 - **Publicación original:** 2019-11-14
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Relatos](/tags/relatos/), [Fantasía urbana](/tags/fantasia-urbana/), [Thriller](/tags/thriller/), [Novella](/tags/novella/)

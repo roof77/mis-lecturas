@@ -1,5 +1,5 @@
 ---
-title: Mundo maravilloso
+title: '#199 · Mundo maravilloso'
 summary: El año es 1978. El lugar es Camber Sands, Inglaterra. Lorenzo Giraut es un hombre que no se acerca a las ventanas.
   Que sabe muy bien que no debe acercarse a…
 date: '2016-07-07T23:59:59'
@@ -14,6 +14,7 @@ tags:
 - Misterio
 - Novela
 toc: false
+id: 199
 autores:
 - Javier Calvo
 autores_stats:
@@ -40,7 +41,7 @@ La historia de Camber Sands. Una historia de tres hermanos -el Club No Nos Gusta
 - **Autor:** [Javier Calvo](/autores/javier-calvo/)
 - **Editorial:** Random House
 - **Formato:** Paperback, 550 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439713525 / 9788439713524
 - **Publicación original:** 2007-02-16
 - **Géneros:** [Ficción](/tags/ficcion/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Misterio](/tags/misterio/), [Novela](/tags/novela/)

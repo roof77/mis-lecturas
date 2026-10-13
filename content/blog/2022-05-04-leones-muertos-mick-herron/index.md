@@ -1,5 +1,5 @@
 ---
-title: Leones muertos
+title: '#534 · Leones muertos'
 summary: Los agentes de la Casa de la Ciénaga, donde los mandos del servicio de inteligencia británico envían a los espías
   caídos en desgracia, reciben el encargo de…
 date: '2022-05-04T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Literatura británica
 - Suspense
 toc: false
+id: 534
 autores:
 - Mick Herron
 autores_stats:
@@ -42,7 +43,7 @@ Y aunque todos los indicios apuntan a un fulminante ataque al corazón, Jackson 
 - **Serie:** Slough House (#2)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418107235 / 9788418107238
 - **Publicación original:** 2020-09-03
 - **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Espionaje](/tags/espionaje/), [Crimen](/tags/crimen/), [Espías](/tags/espias/), [Literatura británica](/tags/literatura-britanica/), [Suspense](/tags/suspense/)

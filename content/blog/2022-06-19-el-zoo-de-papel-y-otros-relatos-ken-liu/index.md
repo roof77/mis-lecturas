@@ -1,5 +1,5 @@
 ---
-title: El zoo de papel y otros relatos
+title: '#546 · El zoo de papel y otros relatos'
 summary: Quince relatos y novelas cortas de uno de los mejores escritores de ficción breve de la ciencia-ficción. "El zoo
   de papel" es la primera obra que ha obtenido…
 date: '2022-06-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Ciencia Ficción
 toc: false
+id: 546
 autores:
 - Ken Liu
 - María Pilar San Román
@@ -42,7 +43,7 @@ Quince relatos y novelas cortas de uno de los mejores escritores de ficción bre
 - **Colaboradores:** [María Pilar San Román](/autores/maria-pilar-san-roman/) (Translator)
 - **Editorial:** Alianza 
 - **Formato:** Hardcover, 544 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491046879 / 9788491046875
 - **Publicación original:** 2017-04-06
 - **Géneros:** [Relatos](/tags/relatos/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Realismo mágico](/tags/realismo-magico/), [Ficción histórica](/tags/ficcion-historica/), [Antología](/tags/antologia/), [Club de lectura](/tags/club-de-lectura/), [Ciencia Ficción](/tags/ciencia-ficcion/)

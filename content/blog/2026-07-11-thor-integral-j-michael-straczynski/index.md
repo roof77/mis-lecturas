@@ -1,5 +1,5 @@
 ---
-title: Thor Integral
+title: '#888 · Thor Integral'
 summary: "Thor v3, 1-12, 600-603 y Giant-Size Thor Finale USA.\r\nEl Hijo de Odín vuelve a la vida para protagonizar una fabulosa\
   \ etapa con un equipo de absoluto lujo…"
 date: '2026-07-11T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Marvel
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Colecciones
 - Acción
 toc: false
+id: 888
 autores:
 - J. Michael Straczynski
 - Olivier Coipel
@@ -43,7 +43,7 @@ El Hijo de Odín vuelve a la vida para protagonizar una fabulosa etapa con un eq
 - **Colaboradores:** [Olivier Coipel](/autores/olivier-coipel/) (dibujo)
 - **Editorial:** Panini Comics España
 - **Formato:** Hardcover, 488 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491671285 / 9788491671282
 - **Publicación original:** 2017-01-01
 - **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Superheroes](/tags/superheroes/), [Colecciones](/tags/colecciones/), [Acción](/tags/accion/)

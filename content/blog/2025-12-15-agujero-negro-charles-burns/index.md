@@ -1,5 +1,5 @@
 ---
-title: Agujero negro
+title: '#787 · Agujero negro'
 summary: "Y tú que creías que tu adolescencia había sido escalofriante...\r\nSuburbios de Seattle, mediados de los 70: aprendimos\
   \ sobre la marcha que una plaga se cernía…"
 date: '2025-12-15T23:59:59'
@@ -9,12 +9,12 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Terror
 - Ficción
 - Ciencia ficción
 - Fantasía
 toc: false
+id: 787
 autores:
 - Charles Burns
 autores_stats:
@@ -45,7 +45,7 @@ Tardamos cierto tiempo en tomar conciencia de ello, pero finalmente descubrimos 
 - **Serie:** Black Hole (#1-12)
 - **Editorial:** La Cúpula
 - **Formato:** Hardcover, 369 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478337105 / 9788478337101
 - **Publicación original:** 2006-06-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/)

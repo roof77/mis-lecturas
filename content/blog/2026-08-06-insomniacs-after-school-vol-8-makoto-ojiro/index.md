@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 8
+title: '#908 · Insomniacs After School, vol. 8'
 summary: Después de la carrera de clubes, Isaki empieza a emitir por radio y se decide a hablar de su enfermedad. Los dos
   miembros del club de astronomía harán un…
 date: '2026-08-06T23:59:53'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Jovenes adultos
 - Slice of life
@@ -18,6 +17,7 @@ tags:
 - Contemporaneo
 - Literatura japanesa
 toc: false
+id: 908
 autores:
 - Makoto Ojiro
 - Óscar Tejero
@@ -43,7 +43,7 @@ Después de la carrera de clubes, Isaki empieza a emitir por radio y se decide a
 - **Colaboradores:** [Óscar Tejero](/autores/oscar-tejero/) (translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419195804 / 9788419195807
 - **Publicación original:** 2022-08-25
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Seinen manga](/tags/seinen-manga/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/), [Literatura japanesa](/tags/literatura-japanesa/)

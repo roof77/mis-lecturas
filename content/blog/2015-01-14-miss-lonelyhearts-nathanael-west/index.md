@@ -1,5 +1,5 @@
 ---
-title: Miss Lonelyhearts
+title: '#88 · Miss Lonelyhearts'
 summary: Nathanael West (1904-1940) fue el último representante de la emblemática “Generación Perdida” norteamericana de la
   que formaron parte autores como Scott…
 date: '2015-01-14T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Noir
 toc: false
+id: 88
 autores:
 - Nathanael West
 autores_stats:
@@ -40,7 +41,7 @@ Nathanael West (1904-1940) fue el último representante de la emblemática “Ge
 - **Autor:** [Nathanael West](/autores/nathanael-west/)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 153 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 1969-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Siglo XX](/tags/siglo-xx/), [Novella](/tags/novella/), [Ficción Literaria](/tags/ficcion-literaria/), [Noir](/tags/noir/)
 - **Ficha en Goodreads:** [Miss Lonelyhearts](https://www.goodreads.com/book/show/18686686-miss-lonelyhearts)

@@ -1,5 +1,5 @@
 ---
-title: El jilguero
+title: '#460 · El jilguero'
 summary: Al acercarnos a El jilguero, vamos enfocando una habitación de hotel en Amsterdam. Theo Decker lleva más de una semana
   encerrado entre esas cuatro paredes…
 date: '2021-05-07T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Coming of age
 toc: false
+id: 460
 autores:
 - Donna Tartt
 autores_stats:
@@ -41,7 +42,7 @@ Al acercarnos a El jilguero, vamos enfocando una habitación de hotel en Amsterd
 - **Autor:** [Donna Tartt](/autores/donna-tartt/)
 - **Editorial:** Lumen
 - **Formato:** Hardcover, 1152 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8426422438 / 9788426422439
 - **Publicación original:** 2014-03-13
 - **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Dark Academia](/tags/dark-academia/), [Misterio](/tags/misterio/), [Arte](/tags/arte/), [Novela](/tags/novela/), [Coming of age](/tags/coming-of-age/)

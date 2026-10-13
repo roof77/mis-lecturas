@@ -1,5 +1,5 @@
 ---
-title: Mandíbula
+title: '#415 · Mandíbula'
 summary: Una adolescente fanática del horror y de las "creepypastas" (historias de terror que circulan por internet) despierta
   maniatada en una cabaña en medio del…
 date: '2019-11-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Misterio
 - Adultos
 toc: false
+id: 415
 autores:
 - Mónica Ojeda
 autores_stats:
@@ -42,7 +43,7 @@ Una adolescente fanática del horror y de las "creepypastas" (historias de terro
 - **Autor:** [Mónica Ojeda](/autores/monica-ojeda/)
 - **Editorial:** Candaya
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415934491 / 9788415934493
 - **Publicación original:** 2018-03-12
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Contemporaneo](/tags/contemporaneo/), [Dark Academia](/tags/dark-academia/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/)

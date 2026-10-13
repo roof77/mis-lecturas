@@ -1,5 +1,5 @@
 ---
-title: Soy una tonta por quererte
+title: '#548 · Soy una tonta por quererte'
 summary: En plena decada de los años 90 una mujer se gana la vida como novia de alquiler de hombres gays. En un fumadero de
   Harlem una travesti latina conoce…
 date: '2022-06-29T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Latinos
 - Literatura latinoamericana
 toc: false
+id: 548
 autores:
 - Camila Sosa Villada
 autores_stats:
@@ -40,7 +41,7 @@ En plena decada de los años 90 una mujer se gana la vida como novia de alquiler
 - **Autor:** [Camila Sosa Villada](/autores/camila-sosa-villada/)
 - **Editorial:** Tusquets
 - **Formato:** Paperback, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8411070891 / 9788411070898
 - **Publicación original:** 2022-03-09
 - **Géneros:** [Relatos](/tags/relatos/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Romance](/tags/romance/), [Literatura hispana](/tags/literatura-hispana/), [Realismo mágico](/tags/realismo-magico/), [Latinos](/tags/latinos/), [Literatura latinoamericana](/tags/literatura-latinoamericana/)

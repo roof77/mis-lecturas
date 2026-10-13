@@ -1,5 +1,5 @@
 ---
-title: El hombre ilustrado
+title: '#576 · El hombre ilustrado'
 summary: En esta colección de historias entrelazadas, el narrador anónimo conoce a El Hombre Ilustrado, un curioso personaje
   con el cuerpo completamente cubierto de…
 date: '2023-01-22T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Antología
 - Literatura
 toc: false
+id: 576
 autores:
 - Ray Bradbury
 - Francisco Abelenda
@@ -43,7 +44,7 @@ En esta colección de historias entrelazadas, el narrador anónimo conoce a El H
 - **Colaboradores:** [Francisco Abelenda](/autores/francisco-abelenda/) (Author)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 283 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445073990 / 9788445073995
 - **Publicación original:** 2002-09-17
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Antología](/tags/antologia/), [Literatura](/tags/literatura/)

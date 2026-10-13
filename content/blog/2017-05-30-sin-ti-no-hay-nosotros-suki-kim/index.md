@@ -1,5 +1,5 @@
 ---
-title: Sin ti no hay nosotros
+title: '#249 · Sin ti no hay nosotros'
 summary: Estos versos hacen referencia a Kim Jong-­il, Gran General de Corea del Norte, cuyo «ánimo solícito» condujo la nación
   hasta su muerte el 17 de diciembre de…
 date: '2017-05-30T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - Viajes
 toc: false
+id: 249
 autores:
 - Suki Kim
 - Pablo Álvarez Ellacuría
@@ -42,7 +43,7 @@ Pocos meses antes, Suki Kim, ciudadana estadounidense nacida en Corea del Sur, l
 - **Colaboradores:** [Pablo Álvarez Ellacuría](/autores/pablo-alvarez-ellacuria/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Paperback, 324 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2015-01-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Historia](/tags/historia/), [Política](/tags/politica/), [Ásia](/tags/asia/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Viajes](/tags/viajes/)
 - **Ficha en Goodreads:** [Sin ti no hay nosotros](https://www.goodreads.com/book/show/25001116-sin-ti-no-hay-nosotros)

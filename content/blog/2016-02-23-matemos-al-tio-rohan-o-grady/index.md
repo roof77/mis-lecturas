@@ -1,5 +1,5 @@
 ---
-title: Matemos al tío
+title: '#179 · Matemos al tío'
 summary: Barnaby Gaunt tiene diez años y acaba de quedarse huérfano. Solo y desamparado en la vida, ha de vivir con su tío,
   por lo que viaja a una preciosa isla remota…
 date: '2016-02-23T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Gótico
 - Literatura
 toc: false
+id: 179
 autores:
 - Rohan O'Grady
 - Raquel Vicedo
@@ -45,7 +46,7 @@ Una lectura deliciosamente perversa. Oscura y mortalmente ingeniosa Matemos al t
 - **Colaboradores:** [Raquel Vicedo](/autores/raquel-vicedo/) (Translator)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415979118 / 9788415979111
 - **Publicación original:** 2014-10-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Humor](/tags/humor/), [Canada](/tags/canada/), [Terror](/tags/terror/), [Club de lectura](/tags/club-de-lectura/), [Clásico](/tags/clasico/), [Crimen](/tags/crimen/), [Gótico](/tags/gotico/), [Literatura](/tags/literatura/)

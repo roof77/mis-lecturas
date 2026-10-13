@@ -1,5 +1,5 @@
 ---
-title: 'Como una moto: La vida galopante de John Belushi'
+title: '#152 · Como una moto: La vida galopante de John Belushi'
 summary: In order to relate the portentous life of comedian John Belushi and the strident fanfare that surrounded his ascent
   and tragedy, Bob Woodward had to navigate a…
 date: '2015-11-10T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Cultura Pop
 - Películas
 toc: false
+id: 152
 autores:
 - Bob Woodward
 autores_stats:
@@ -39,7 +40,7 @@ In order to relate the portentous life of comedian John Belushi and the strident
 - **Autor:** [Bob Woodward](/autores/bob-woodward/)
 - **Editorial:** Global Rhythm Press
 - **Formato:** Paperback, 528 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8496879410 / 9788496879416
 - **Publicación original:** 2009-05-01
 - **Géneros:** [Biografía](/tags/biografia/), [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Música](/tags/musica/), [Comedia](/tags/comedia/), [Historia](/tags/historia/), [Cultura Pop](/tags/cultura-pop/), [Películas](/tags/peliculas/)

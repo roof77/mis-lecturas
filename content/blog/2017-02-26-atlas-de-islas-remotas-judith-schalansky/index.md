@@ -1,5 +1,5 @@
 ---
-title: Atlas de islas remotas
+title: '#238 · Atlas de islas remotas'
 summary: Visualmente deslumbrante y con un diseño único, este libro recopila cincuenta islas alejadas en todos los sentidos
   de tierra firme, de la gente, los…
 date: '2017-02-26T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Naturaleza
 - Literatura alemana
 toc: false
+id: 238
 autores:
 - Judith Schalansky
 autores_stats:
@@ -43,7 +44,7 @@ Con sus impresionantes mapas a todo color y su aire de misteriosa aventura, Atla
 - **Autor:** [Judith Schalansky](/autores/judith-schalansky/)
 - **Editorial:** Nórdica Libros
 - **Formato:** Hardcover, 150 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494169076 / 9788494169076
 - **Publicación original:** 2013-01-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Viajes](/tags/viajes/), [Historia](/tags/historia/), [Geografía](/tags/geografia/), [Mapas](/tags/mapas/), [Arte](/tags/arte/), [Poesía](/tags/poesia/), [Cartografía](/tags/cartografia/), [Naturaleza](/tags/naturaleza/), [Literatura alemana](/tags/literatura-alemana/)

@@ -1,5 +1,5 @@
 ---
-title: La gente del Abismo
+title: '#431 · La gente del Abismo'
 summary: En 1902, Jack London llegó a Londres con la intención de escribir un reportaje sobre el East End, la zona este de
   la ciudad, donde pasó varios meses disfrazado…
 date: '2020-05-17T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura
 - EEUU
 toc: false
+id: 431
 autores:
 - Jack London
 - Javier Calvo
@@ -48,7 +49,7 @@ Un texto lúcido y estremecedor. Una crítica social extraordinaria y una encend
 - **Colaboradores:** [Javier Calvo](/autores/javier-calvo/) (translator), [Iain Sinclair](/autores/iain-sinclair/) (Contributor)
 - **Editorial:** Gatopardo
 - **Formato:** Paperback, 280 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494426397 / 9788494426391
 - **Publicación original:** 2016-06-13
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Clásico](/tags/clasico/), [Sociología](/tags/sociologia/), [Política](/tags/politica/), [Londres](/tags/londres/), [Periodismo](/tags/periodismo/), [Viajes](/tags/viajes/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/)

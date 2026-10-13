@@ -1,5 +1,5 @@
 ---
-title: 'I Hate Fairyland, Vol. 1: Madly Ever After'
+title: '#916 · I Hate Fairyland, Vol. 1: Madly Ever After'
 summary: From superstar writer and artist Skottie Young (Rocket Raccoon, Wizard of OZ, Fortunately, The Milk), comes the first
   volume of an all-new series of adventure…
 date: '2026-08-08T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Humor
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Adultos
 - Comedia
 toc: false
+id: 916
 autores:
 - Skottie Young
 autores_stats:

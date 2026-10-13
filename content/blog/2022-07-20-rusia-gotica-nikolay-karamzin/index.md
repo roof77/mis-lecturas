@@ -1,5 +1,5 @@
 ---
-title: Rusia gótica
+title: '#556 · Rusia gótica'
 summary: Adoradores del diablo, hombres lobo, locura y magia. A principios del siglo diecinueve, muchos escritores rusos comenzaron
   a interesarse por los cuentos…
 date: '2022-07-20T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Literatura rusa
 - Relatos
 toc: false
+id: 556
 autores:
 - Nikolay Karamzin
 - Antony Pogorelsky
@@ -46,7 +47,7 @@ Rusia gótica ofrece algunos ejemplos de la tradición del relato gótico ruso, 
 - **Colaboradores:** [Antony Pogorelsky](/autores/antony-pogorelsky/) (Author), [Mikhail Lermontov](/autores/mikhail-lermontov/) (Author), [Yevgeny Baratynsky](/autores/yevgeny-baratynsky/) (Author), [Orest Somov](/autores/orest-somov/) (Author), [Mikhail Zagoskin](/autores/mikhail-zagoskin/) (Author)
 - **Editorial:** Nevsky Prospects
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493746614 / 9788493746612
 - **Publicación original:** 2009-11-01
 - **Géneros:** [Literatura rusa](/tags/literatura-rusa/), [Relatos](/tags/relatos/)

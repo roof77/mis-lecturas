@@ -1,5 +1,5 @@
 ---
-title: El intérprete del dolor
+title: '#34 · El intérprete del dolor'
 summary: Los nueve relatos que componen este libro revelan la maestría de Lahiri para trazar una compleja cartografía emocional,
   la de una serie de personajes que en su…
 date: '2014-05-13T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ásia
 - Colegio
 toc: false
+id: 34
 autores:
 - Jhumpa Lahiri
 - Gemma Rovira Ortega
@@ -45,7 +46,7 @@ Así pues, en estas páginas soberbias, Jhumpa Lahiri plasma un complejo tapiz d
 - **Colaboradores:** [Gemma Rovira Ortega](/autores/gemma-rovira-ortega/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 228 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849838723X / 9788498387230
 - **Publicación original:** 2016-09-08
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [India](/tags/india/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Literatura india](/tags/literatura-india/), [Ásia](/tags/asia/), [Colegio](/tags/colegio/)

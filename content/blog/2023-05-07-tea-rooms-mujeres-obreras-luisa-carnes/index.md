@@ -1,5 +1,5 @@
 ---
-title: 'Tea Rooms: Mujeres obreras'
+title: '#591 · Tea Rooms: Mujeres obreras'
 summary: Corren los años treinta en Madrid y las trabajadoras de un distinguido salón de té cercano a la Puerta del Sol ajustan
   sus uniformes para comenzar una nueva…
 date: '2023-05-07T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Novela
 - Autoras
 toc: false
+id: 591
 autores:
 - Luisa Carnés
 autores_stats:
@@ -43,7 +44,7 @@ Autora sinsombrero de la Generación del 27, Luisa Carnés escribió esta porten
 - **Autor:** [Luisa Carnés](/autores/luisa-carnes/)
 - **Editorial:** Hoja de Lata
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416537119 / 9788416537112
 - **Publicación original:** 2016-01-01
 - **Géneros:** [Feminismo](/tags/feminismo/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura hispana](/tags/literatura-hispana/), [Ficción histórica](/tags/ficcion-historica/), [España](/tags/espana/), [Mujeres](/tags/mujeres/), [Sociedad](/tags/sociedad/), [Novela](/tags/novela/), [Autoras](/tags/autoras/)

@@ -1,5 +1,5 @@
 ---
-title: Frankenstein en Bagdad
+title: '#482 · Frankenstein en Bagdad'
 summary: Después de la segunda guerra de Irak, en el Bagdad todavía ocupado por las tropas estadounidenses, un trapero decide
   recolectar algunos de los restos humanos…
 date: '2021-08-18T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ciencia ficción
 - Guerra
 toc: false
+id: 482
 autores:
 - Ahmed Saadawi
 - Anna Gil Bardají
@@ -45,7 +46,7 @@ Ahmed Saadawi dibuja una iluminadora sátira del conflicto iraquí y de la esper
 - **Colaboradores:** [Anna Gil Bardají](/autores/anna-gil-bardaji/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 328 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417007938 / 9788417007935
 - **Publicación original:** 2019-09-09
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Realismo mágico](/tags/realismo-magico/), [Medio oriente](/tags/medio-oriente/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Ciencia ficción](/tags/ciencia-ficcion/), [Guerra](/tags/guerra/)

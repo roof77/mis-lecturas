@@ -1,5 +1,5 @@
 ---
-title: 'Odio Vol. 3: Los Idolos del Grunge!'
+title: '#838 · Odio Vol. 3: Los Idolos del Grunge!'
 summary: The bestselling alternative comic of the 1990's, Odio (Hate) chronicles the misadventures, life experiences and repugnant
   habits of Buddy Bradley, oldest son…
 date: '2026-05-12T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 838
 autores:
 - Peter Bagge
 - Hernán Migoya
@@ -36,7 +36,7 @@ The bestselling alternative comic of the 1990's, Odio (Hate) chronicles the misa
 - **Colaboradores:** [Hernán Migoya](/autores/hernan-migoya/) (Author)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 68 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1594971307 / 9781594971303
 - **Publicación original:** 2005-08-30
 - **Géneros:** [Comics](/tags/comics/)

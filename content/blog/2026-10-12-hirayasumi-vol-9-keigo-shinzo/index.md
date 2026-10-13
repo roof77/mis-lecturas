@@ -1,5 +1,5 @@
 ---
-title: Hirayasumi, vol. 9
+title: '#945 · Hirayasumi, vol. 9'
 summary: Hiroto es un hombre de unos treinta años y Natsumi, estudiante de Bellas Artes, es su prima. ¡La vida en la casa
   unifamiliar atraviesa una época de cambios sin…
 date: '2026-10-12T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Slice of life
 - Seinen manga
 - Novela gráfica
@@ -18,6 +17,7 @@ tags:
 - Literatura japanesa
 - Adultos
 toc: false
+id: 945
 autores:
 - Keigo Shinzō
 autores_stats:
@@ -45,7 +45,7 @@ Donde hay encuentros también hay despedidas: algunas relaciones se alejan y otr
 - **Serie:** ひらやすみ [Hirayasumi] (#9)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9791387831936
 - **Publicación original:** 2025-11-27
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Slice of life](/tags/slice-of-life/), [Seinen manga](/tags/seinen-manga/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Literatura japanesa](/tags/literatura-japanesa/), [Adultos](/tags/adultos/)

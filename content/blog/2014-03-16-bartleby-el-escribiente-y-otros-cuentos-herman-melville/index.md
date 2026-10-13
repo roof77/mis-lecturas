@@ -1,5 +1,5 @@
 ---
-title: Bartleby, el escribiente y otros cuentos
+title: '#20 · Bartleby, el escribiente y otros cuentos'
 summary: Academics hail it as the beginning of modernism, but to readers around the world even those daunted by Moby-Dick
   Bartleby the Scrivener is simply one of the…
 date: '2014-03-16T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Colegio
 - Novella
 toc: false
+id: 20
 autores:
 - Herman Melville
 autores_stats:
@@ -40,7 +41,7 @@ The tale is one of the final works of fiction published by Melville before, slip
 - **Autor:** [Herman Melville](/autores/herman-melville/)
 - **Editorial:** Valdemar
 - **Formato:** Paperback
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477022844 / 9788477022848
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Siglo XIX](/tags/siglo-xix/), [Colegio](/tags/colegio/), [Novella](/tags/novella/)
 - **Personajes:** Bartleby, Ginger Nut, Turkey, Nippers

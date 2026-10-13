@@ -1,5 +1,5 @@
 ---
-title: 'Astro City #6: La Edad Oscura Libro 1: Hermanos y otros extraños'
+title: '#806 · Astro City #6: La Edad Oscura Libro 1: Hermanos y otros extraños'
 summary: "EL PRIMER TOMO DE LA NUEVA E INÉDITA SAGA DE ASTRO CITY: LA EDAD OSCURA \r\nAstro City, la década de los 70. Nixon\
   \ es el actual y polémico presidente; el…"
 date: '2026-02-28T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Superheroes
@@ -17,6 +16,7 @@ tags:
 - Crimen
 - DC
 toc: false
+id: 806
 autores:
 - Kurt Busiek
 autores_stats:
@@ -41,7 +41,7 @@ Astro City, la década de los 70. Nixon es el actual y polémico presidente; el 
 - **Serie:** Astro City (#6)
 - **Editorial:** Norma Editorial (Wildstorm Comics)
 - **Formato:** Hardcover, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467904879 / 9788467904871
 - **Publicación original:** 2012-04-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Crimen](/tags/crimen/), [DC](/tags/dc/)

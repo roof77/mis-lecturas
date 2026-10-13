@@ -1,5 +1,5 @@
 ---
-title: Maison Ikkoku tomo 2
+title: '#653 · Maison Ikkoku tomo 2'
 summary: "Tomo 2 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-06-09T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Novela gráfica
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Humor
 - Seinen manga
 toc: false
+id: 653
 autores:
 - Rumiko Takahashi
 autores_stats:
@@ -41,7 +41,7 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#2)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 356 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484495205 / 9788484495208
 - **Publicación original:** 2004-07-31
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Humor](/tags/humor/), [Seinen manga](/tags/seinen-manga/)

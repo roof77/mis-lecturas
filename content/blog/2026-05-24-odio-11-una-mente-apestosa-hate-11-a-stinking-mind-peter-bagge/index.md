@@ -1,5 +1,5 @@
 ---
-title: Odio 11 Una mente apestosa/ Hate 11 A stinking mind
+title: '#845 · Odio 11 Una mente apestosa/ Hate 11 A stinking mind'
 summary: Reseña de lectura de «Odio 11 Una mente apestosa/ Hate 11 A stinking mind».
 date: '2026-05-24T23:59:59'
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 845
 autores:
 - Peter Bagge
 autores_stats:
@@ -28,7 +28,7 @@ nota: Bien
 - **Serie:** Odio: Hate (#11)
 - **Editorial:** Ediciones La Cúpula
 - **Formato:** Paperback, 52 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478335617 / 9788478335619
 - **Publicación original:** 2004-01-01
 - **Géneros:** [Comics](/tags/comics/)

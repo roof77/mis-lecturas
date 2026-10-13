@@ -1,5 +1,5 @@
 ---
-title: Consumido
+title: '#853 · Consumido'
 summary: 'Meet the original antihero Joe Matt: a master of a domain that includes more than twenty-three self-edited eight-hour-long
   videotapes of bootlegged…'
 date: '2026-05-31T23:59:58'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Memorias
 - No Ficción
@@ -16,6 +15,7 @@ tags:
 - Biografía
 - Siglo XXI
 toc: false
+id: 853
 autores:
 - Joe Matt
 autores_stats:
@@ -39,7 +39,7 @@ Meet the original antihero Joe Matt: a master of a domain that includes more tha
 - **Serie:** Peepshow (#11-14)
 - **Editorial:** Fulgencio Pimentel
 - **Formato:** Paperback, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788493608132
 - **Publicación original:** 2011-03-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Autobiografía](/tags/autobiografia/), [Biografía](/tags/biografia/), [Siglo XXI](/tags/siglo-xxi/)

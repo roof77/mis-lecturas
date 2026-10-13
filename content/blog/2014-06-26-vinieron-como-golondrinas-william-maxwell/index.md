@@ -1,5 +1,5 @@
 ---
-title: Vinieron como golondrinas
+title: '#46 · Vinieron como golondrinas'
 summary: Para el niño de ocho años Bunny Morison su madre es una presencia angelical sin la cual nada parece tener vida; para
   su hermano mayor, Robert, su madre es…
 date: '2014-06-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Siglo XX
 - Literatura
 toc: false
+id: 46
 autores:
 - William Maxwell
 - Edmundo Paz Soldán
@@ -47,7 +48,7 @@ Con esta novela, en la que el autor se enfrenta por primera vez con el recuerdo 
 - **Colaboradores:** [Edmundo Paz Soldán](/autores/edmundo-paz-soldan/) (Prologue), [Gabriela Bustelo](/autores/gabriela-bustelo/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 210 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493501824 / 9788493501822
 - **Publicación original:** 2006-09-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [EEUU](/tags/eeuu/), [Familia](/tags/familia/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/)

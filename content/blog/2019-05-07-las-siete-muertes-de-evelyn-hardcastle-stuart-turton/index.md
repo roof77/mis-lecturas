@@ -1,5 +1,5 @@
 ---
-title: Las siete muertes de Evelyn Hardcastle
+title: '#389 · Las siete muertes de Evelyn Hardcastle'
 summary: "Una extraordinaria mezcla de Agatha Christie, Atrapado en el tiempo, Origen y Black Mirror.\r\nLo que comienza como\
   \ una celebración termina en tragedia. Los…"
 date: '2019-05-07T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Ficción histórica
 - Adultos
 toc: false
+id: 389
 autores:
 - Stuart Turton
 - Lorenzo F. Díaz
@@ -44,7 +45,7 @@ La única forma de romper este bucle es identificar al asesino. Pero cada vez qu
 - **Colaboradores:** [Lorenzo F. Díaz](/autores/lorenzo-f-diaz/) (Translator)
 - **Editorial:** Ático de los Libros
 - **Formato:** Paperback, 496 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416222819 / 9788416222810
 - **Publicación original:** 2018-10-03
 - **Géneros:** [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/), [Crimen](/tags/crimen/), [Ficción histórica](/tags/ficcion-historica/), [Adultos](/tags/adultos/)

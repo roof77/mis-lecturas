@@ -1,5 +1,5 @@
 ---
-title: A Silent Voice, vol. 7
+title: '#927 · A Silent Voice, vol. 7'
 summary: "“Hasta luego, Nishimiya.”\r\n\r\nSumido en la desesperación, Shôya decide mirar al frente y esforzarse por subsanar\
   \ todo el daño que ha causado; a partir de ahora…"
 date: '2026-08-15T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Jovenes adultos
 - Novela gráfica
@@ -19,6 +18,7 @@ tags:
 - Drama
 - Shonen
 toc: false
+id: 927
 autores:
 - Yoshitoki Oima
 autores_stats:
@@ -44,7 +44,7 @@ Sumido en la desesperación, Shôya decide mirar al frente y esforzarse por subs
 - **Serie:** 聲の形 [Koe no Katachi] (#7)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494511033 / 9788494511035
 - **Publicación original:** 2016-02-26
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Drama](/tags/drama/), [Shonen](/tags/shonen/)

@@ -1,5 +1,5 @@
 ---
-title: Un puñado de polvo
+title: '#44 · Un puñado de polvo'
 summary: "Un crítico ha señalado con razón que «Evelyn Waugh (1903-1966) es el más importante novelista cómico inglés desde\
   \ Charles Dickens».\r\nEl clima habitual de sus…"
 date: '2014-06-24T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción Literaria
 - Sátira
 toc: false
+id: 44
 autores:
 - Evelyn Waugh
 autores_stats:
@@ -42,7 +43,7 @@ El clima habitual de sus relatos es la alta sociedad británica de los años vei
 - **Autor:** [Evelyn Waugh](/autores/evelyn-waugh/)
 - **Editorial:** RBA
 - **Formato:** Paperback, 262 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498675278 / 9788498675276
 - **Publicación original:** 2009-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Literatura británica](/tags/literatura-britanica/), [Siglo XX](/tags/siglo-xx/), [Humor](/tags/humor/), [Ficción histórica](/tags/ficcion-historica/), [Ficción Literaria](/tags/ficcion-literaria/), [Sátira](/tags/satira/)

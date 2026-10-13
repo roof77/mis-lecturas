@@ -1,5 +1,5 @@
 ---
-title: Tiempo extraño
+title: '#425 · Tiempo extraño'
 summary: En Tiempo extraño, «uno de los mejores escritores norteamericanos de terror» (Time), que va «más allá de los convencionalismos
   del género hasta un nuevo…
 date: '2020-04-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Antología
 - Adultos
 toc: false
+id: 425
 autores:
 - Joe Hill
 - Pilar Ramírez Tello
@@ -44,7 +45,7 @@ En Tiempo extraño, «uno de los mejores escritores norteamericanos de terror» 
 - **Colaboradores:** [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Translator)
 - **Editorial:** Nocturna Ediciones
 - **Formato:** Paperback, 576 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416858705 / 9788416858705
 - **Publicación original:** 2018-09-17
 - **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Thriller](/tags/thriller/), [Novella](/tags/novella/), [Antología](/tags/antologia/), [Adultos](/tags/adultos/)

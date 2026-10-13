@@ -1,5 +1,5 @@
 ---
-title: El gourmet solitario
+title: '#675 · El gourmet solitario'
 summary: Un hombre solitario, con un trabajo que le permite una gran movilidad, recorre las calles de Tokio y otras localidades
   japonesas para visitar a sus clientes…
 date: '2024-07-23T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Japón
 - Novela gráfica
 - Comida
@@ -18,6 +17,7 @@ tags:
 - Literatura japanesa
 - Seinen manga
 toc: false
+id: 675
 autores:
 - Jirō Taniguchi
 - Masayuki Kusumi
@@ -47,7 +47,7 @@ A través de la mirada curiosa de este viajero gastronómico, los autores, Jiro 
 - **Colaboradores:** [Masayuki Kusumi](/autores/masayuki-kusumi/) (Author), [Alberto Sakai](/autores/alberto-sakai/) (Translator)
 - **Editorial:** Astiberri Ediciones
 - **Formato:** Paperback, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492769688 / 9788492769681
 - **Publicación original:** 2010-12-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Comida](/tags/comida/), [Ficción](/tags/ficcion/), [Ásia](/tags/asia/), [Literatura japanesa](/tags/literatura-japanesa/), [Seinen manga](/tags/seinen-manga/)

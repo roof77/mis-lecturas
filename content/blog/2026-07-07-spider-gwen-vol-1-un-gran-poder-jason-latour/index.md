@@ -1,5 +1,5 @@
 ---
-title: 'Spider-Gwen, Vol. 1: Un Gran Poder'
+title: '#883 · Spider-Gwen, Vol. 1: Un Gran Poder'
 summary: 'Gwen Stacy ha vuelto a las telarañas y tiene un nuevo misterio que resolver: El Lagarto ha vuelto. ¿Cómo es posible,
   si murió en sus brazos? Quizás algún…'
 date: '2026-07-07T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Marvel
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Colecciones
 - Acción
 toc: false
+id: 883
 autores:
 - Jason Latour
 autores_stats:
@@ -42,7 +42,7 @@ Contiene Spider-Gwen #1-6 y Gwenpool Special 1 USA
 - **Serie:** Colección 100%: Spider-Gwen
 - **Editorial:** Panini Comics España (Marvel Comics)
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490946361 / 9788490946367
 - **Publicación original:** 2016-07-14
 - **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Superheroes](/tags/superheroes/), [Colecciones](/tags/colecciones/), [Acción](/tags/accion/)

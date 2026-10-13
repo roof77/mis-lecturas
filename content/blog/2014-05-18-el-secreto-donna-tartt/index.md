@@ -1,5 +1,5 @@
 ---
-title: El secreto
+title: '#35 · El secreto'
 summary: Cinco estudiantes universitarios, fascinados por un profesor carismático y esnob, ahondan en los misterios de la
   cultura griega antigua. Sin embargo, cegados…
 date: '2014-05-18T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Adultos
 toc: false
+id: 35
 autores:
 - Donna Tartt
 - Gemma Rovira Ortega
@@ -42,7 +43,7 @@ Cinco estudiantes universitarios, fascinados por un profesor carismático y esno
 - **Colaboradores:** [Gemma Rovira Ortega](/autores/gemma-rovira-ortega/) (Translator)
 - **Editorial:** Debolsillo
 - **Formato:** Paperback, 574 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8401327946 / 9788401327940
 - **Publicación original:** 2000-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Dark Academia](/tags/dark-academia/), [Misterio](/tags/misterio/), [Clásico](/tags/clasico/), [Thriller](/tags/thriller/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/)

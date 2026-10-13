@@ -1,5 +1,5 @@
 ---
-title: La amiga estupenda
+title: '#363 · La amiga estupenda'
 summary: Con La amiga estupenda, Elena Ferrante inaugura una tetralogia deslumbrante que tiene como telón de fondo la ciudad
   de Nápoles a mediados del siglo pasado y…
 date: '2018-10-20T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Histórico
 - Novela
 toc: false
+id: 363
 autores:
 - Elena Ferrante
 - Celia Filipetto Isicato
@@ -49,7 +50,7 @@ Por primera vez Ferrante aborda una narración muy amplia, poniendo en escena un
 - **Colaboradores:** [Celia Filipetto Isicato](/autores/celia-filipetto-isicato/) (Translator)
 - **Editorial:** LUMEN 
 - **Formato:** Paperback, 392 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 842642144X / 9788426421449
 - **Publicación original:** 2020-12-31
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Italia](/tags/italia/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura italiana](/tags/literatura-italiana/), [Contemporaneo](/tags/contemporaneo/), [Histórico](/tags/historico/), [Novela](/tags/novela/)

@@ -1,5 +1,5 @@
 ---
-title: Batallas de amor
+title: '#411 · Batallas de amor'
 summary: 'Grace Paley (Nueva York, 1922 - Vermont, 2007) vivió entre dos culturas: la de sus padres, inmigrantes judíos rusos,
   y la de la gente de la calle, que le…'
 date: '2019-11-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Mujeres
 - Judaismo
 toc: false
+id: 411
 autores:
 - Grace Paley
 autores_stats:
@@ -40,7 +41,7 @@ Grace Paley (Nueva York, 1922 - Vermont, 2007) vivió entre dos culturas: la de 
 - **Autor:** [Grace Paley](/autores/grace-paley/)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433930036 / 9788433930033
 - **Publicación original:** 2016-04-18
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Clásico](/tags/clasico/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/), [Mujeres](/tags/mujeres/), [Judaismo](/tags/judaismo/)

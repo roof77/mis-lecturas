@@ -1,5 +1,5 @@
 ---
-title: 84, Charing Cross Road
+title: '#383 · 84, Charing Cross Road'
 summary: Un día, en octubre de 1949, Helene Hanff, una joven escritora desconocida, envía una carta desde Nueva York a Marks
   & Co., la librería situada en el 84 de…
 date: '2019-03-21T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Literatura británica
 - Historia
 toc: false
+id: 383
 autores:
 - Helene Hanff
 - Francisco Javier Calzada
@@ -41,7 +42,7 @@ Un día, en octubre de 1949, Helene Hanff, una joven escritora desconocida, env�
 - **Colaboradores:** [Francisco Javier Calzada](/autores/francisco-javier-calzada/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 126 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 843396982X / 9788433969828
 - **Publicación original:** 2002-01-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Libros sobre libros](/tags/libros-sobre-libros/), [Memorias](/tags/memorias/), [Clásico](/tags/clasico/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Literatura británica](/tags/literatura-britanica/), [Historia](/tags/historia/)

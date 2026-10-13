@@ -1,5 +1,5 @@
 ---
-title: Canciones que cantan los muertos
+title: '#262 · Canciones que cantan los muertos'
 summary: George R. Martin, ganador de un premio Nébula y tres Hugo por sus obras de ciencia ficción, nos presenta en esta
   antología una selección de sus mejores relatos…
 date: '2017-08-30T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Ficción
 - Colección de relatos
 toc: false
+id: 262
 autores:
 - George R.R. Martin
 autores_stats:
@@ -38,7 +39,7 @@ George R. Martin, ganador de un premio Nébula y tres Hugo por sus obras de cien
 - **Autor:** [George R.R. Martin](/autores/george-r-r-martin/)
 - **Editorial:** Martínez Roca
 - **Formato:** Paperback, 196 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8427010087 / 9788427010086
 - **Publicación original:** 1986-01-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Ciencia ficción](/tags/ciencia-ficcion/), [Relatos](/tags/relatos/), [Colecciones](/tags/colecciones/), [Ficción](/tags/ficcion/), [Colección de relatos](/tags/coleccion-de-relatos/)

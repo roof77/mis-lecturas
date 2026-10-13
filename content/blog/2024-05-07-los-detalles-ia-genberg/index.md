@@ -1,5 +1,5 @@
 ---
-title: Los detalles
+title: '#645 · Los detalles'
 summary: 'Como si recorriera las páginas de un libro, una mujer postrada en cama con fiebre evoca a cuatro personas de su
   pasado: una expareja que saltó a la fama, una…'
 date: '2024-05-07T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Novela
 toc: false
+id: 645
 autores:
 - Ia Genberg
 - Gemma Pecharromán
@@ -44,7 +45,7 @@ Ganadora del Premio August, el galardón literario más importante de Suecia, y 
 - **Colaboradores:** [Gemma Pecharromán](/autores/gemma-pecharroman/) (Translator)
 - **Editorial:** Gatopardo Ediciones
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2023-02-20
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Queer](/tags/queer/), [Suecia](/tags/suecia/), [LGTBIQ+](/tags/lgtbiq/), [Literatura sueca](/tags/literatura-sueca/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/)
 - **Lugares:** Sweden

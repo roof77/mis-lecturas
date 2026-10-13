@@ -1,5 +1,5 @@
 ---
-title: Todos deberíamos ser feministas
+title: '#242 · Todos deberíamos ser feministas'
 summary: Adaptado de su magnífica TEDx Talk del 2013, en tan solo 72 páginas Adichie nos ofrece una visión única sobre uno
   de los temas más controvertidos de nuestro…
 date: '2017-03-15T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Nigeria
 - Género
 toc: false
+id: 242
 autores:
 - Chimamanda Ngozi Adichie
 - Javier Calvo Perales
@@ -42,7 +43,7 @@ Adaptado de su magnífica TEDx Talk del 2013, en tan solo 72 páginas Adichie no
 - **Colaboradores:** [Javier Calvo Perales](/autores/javier-calvo-perales/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Kindle Edition, 32 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439731043 / 9788439731047
 - **Publicación original:** 2015-09-03
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Ensayo](/tags/ensayo/), [Política](/tags/politica/), [Mujeres](/tags/mujeres/), [África](/tags/africa/), [Justicia social](/tags/justicia-social/), [Nigeria](/tags/nigeria/), [Género](/tags/genero/)

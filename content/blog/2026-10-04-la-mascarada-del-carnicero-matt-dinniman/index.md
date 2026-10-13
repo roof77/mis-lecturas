@@ -1,5 +1,5 @@
 ---
-title: La mascarada del carnicero
+title: '#935 · La mascarada del carnicero'
 summary: Una selva frondosa llena de peligros. Dinosaurios salvajes y sedientos de sangre. Una princesa caída en desgracia
   que busca venganza. Una misteriosa…
 date: '2026-10-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Comedia
 - Adultos
 toc: false
+id: 935
 autores:
 - Matt Dinniman
 - David Tejera Expósito
@@ -53,7 +54,7 @@ Bienvenidos, mazmorreros. Bienvenidos al sexto piso de la mazmorra.
 - **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Nova CF
 - **Formato:** Paperback, 760 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410466384 / 9788410466388
 - **Publicación original:** 2026-07-09
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Litrpg](/tags/litrpg/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Distopía](/tags/distopia/), [Aventuras](/tags/aventuras/), [Comedia](/tags/comedia/), [Adultos](/tags/adultos/)

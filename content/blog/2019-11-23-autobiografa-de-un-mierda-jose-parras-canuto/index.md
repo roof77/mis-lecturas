@@ -1,5 +1,5 @@
 ---
-title: Autobiograf�a de un mierda
+title: '#414 · Autobiograf�a de un mierda'
 summary: Todas las experiencias que llevaron al protagonista, un amante de la cultura underground, a convertirse en un ser
   antisocial que tiene un escueto mensaje para…
 date: '2019-11-23T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 414
 autores:
 - Jose Parras Canuto
 autores_stats:
@@ -31,7 +32,7 @@ Todas las experiencias que llevaron al protagonista, un amante de la cultura und
 - **Autor:** [Jose Parras Canuto](/autores/jose-parras-canuto/)
 - **Editorial:** Independently Published
 - **Formato:** Paperback, 282 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1074342860 / 9781074342869
 - **Publicación original:** 2019-07-20
 - **Ficha en Goodreads:** [Autobiograf�a de un mierda](https://www.goodreads.com/book/show/52529097-autobiograf-a-de-un-mierda)

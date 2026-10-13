@@ -1,5 +1,5 @@
 ---
-title: 100 Bullets Omnibus Vol. 1
+title: '#707 · 100 Bullets Omnibus Vol. 1'
 summary: f you were approached with a convincing story of someone who betrayed you and then offered a gun and one hundred
   untraceable bullets, would you seek vengeance?…
 date: '2025-02-10T23:59:59'
@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - DC
 - Misterio
 - Thriller
 - Crimen
 toc: false
+id: 707
 autores:
 - Brian Azzarello
 - Eduardo Risso

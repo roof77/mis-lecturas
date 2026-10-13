@@ -1,5 +1,5 @@
 ---
-title: Dioses menores
+title: '#314 · Dioses menores'
 summary: Una fábula fantástica sobre el planeta plano y circular que navega por el espacio sobre el lomo de cuatro elefantes
   y una tortuga gigante. Una desternillante…
 date: '2018-06-08T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ciencia ficción
 - Novela
 toc: false
+id: 314
 autores:
 - Terry Pratchett
 - Albert Solé Company
@@ -45,7 +46,7 @@ Brutha es un muchacho sencillo y analfabeto que se enfrenta a terribles problema
 - **Colaboradores:** [Albert Solé Company](/autores/albert-sole-company/) (Translator)
 - **Editorial:** DeBolsillo
 - **Formato:** Mass Market Paperback, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8497592247 / 9788497592246
 - **Publicación original:** 2003-01-17
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Religión](/tags/religion/), [Sátira](/tags/satira/), [Ciencia ficción](/tags/ciencia-ficcion/), [Novela](/tags/novela/)

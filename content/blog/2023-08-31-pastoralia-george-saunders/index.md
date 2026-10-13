@@ -1,5 +1,5 @@
 ---
-title: Pastoralia
+title: '#599 · Pastoralia'
 summary: ¿Por qué nos fascina George Saunders? Por su maestría, ritmo y sentido del humor. Pero lo que diferencia al escritor
   texano, profesor de la Universidad de…
 date: '2023-08-31T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Sátira
 - Club de lectura
 toc: false
+id: 599
 autores:
 - George Saunders
 - Ben Clark
@@ -42,7 +43,7 @@ nota: '3'
 - **Colaboradores:** [Ben Clark](/autores/ben-clark/) (Translator)
 - **Editorial:** Alfabia
 - **Formato:** Paperback, 248 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494255215 / 9788494255212
 - **Publicación original:** 2014-06-01
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Sátira](/tags/satira/), [Club de lectura](/tags/club-de-lectura/)

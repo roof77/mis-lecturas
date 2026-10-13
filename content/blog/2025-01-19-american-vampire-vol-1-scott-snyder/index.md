@@ -1,5 +1,5 @@
 ---
-title: American Vampire, Vol. 1
+title: '#699 · American Vampire, Vol. 1'
 summary: From writers Scott Snyder and Stephen King, American Vampire introduces a new strain of vampire – a more vicious
   species – and traces the creatures' bloodline…
 date: '2025-01-19T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Terror
 - Vampiros
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Ficción histórica
 - Paranormal
 toc: false
+id: 699
 autores:
 - Scott Snyder
 - Stephen King

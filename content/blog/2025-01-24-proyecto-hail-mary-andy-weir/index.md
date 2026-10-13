@@ -1,5 +1,5 @@
 ---
-title: Proyecto Hail Mary
+title: '#700 · Proyecto Hail Mary'
 summary: "La nueva novela del autor de El marciano, que se convertirá en una película protagonizada y producida por Ryan Gosling.\r\
   \n\r\nUN ÚNICO ASTRONAUTA.\r\n\r\nUNA MISIÓN…"
 date: '2025-01-24T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Aventuras
 - Ciencia Ficción
 toc: false
+id: 700
 autores:
 - Andy Weir
 - Javier Guerrero Gimeno
@@ -62,7 +63,7 @@ Proyecto Hail Mary, una aventura interestelar irresistible como solo Andy Weir p
 - **Colaboradores:** [Javier Guerrero Gimeno](/autores/javier-guerrero-gimeno/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Paperback, 543 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418037016 / 9788418037016
 - **Publicación original:** 2021-05-13
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/), [Espacio](/tags/espacio/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Aventuras](/tags/aventuras/), [Ciencia Ficción](/tags/ciencia-ficcion/)

@@ -1,5 +1,5 @@
 ---
-title: La cantina de medianoche 1
+title: '#813 · La cantina de medianoche 1'
 summary: Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el barrio de Shinjuku, todo el mundo los
   conoce. Abierta desde las doce de la noche…
 date: '2026-03-19T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Japón
 - Novela gráfica
 - Comida
@@ -17,6 +16,7 @@ tags:
 - Francia
 - Ásia
 toc: false
+id: 813
 autores:
 - Yarō Abe
 autores_stats:
@@ -40,7 +40,7 @@ Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el ba
 - **Serie:** 深夜食堂 [Shinya Shokudou] (#1-2)
 - **Editorial:** Astiberri
 - **Formato:** Paperback, 300 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417575243 / 9788417575243
 - **Publicación original:** 2019-05-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Comida](/tags/comida/), [Slice of life](/tags/slice-of-life/), [Francia](/tags/francia/), [Ásia](/tags/asia/)

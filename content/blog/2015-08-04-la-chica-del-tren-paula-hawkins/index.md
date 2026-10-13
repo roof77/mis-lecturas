@@ -1,5 +1,5 @@
 ---
-title: La chica del tren
+title: '#133 · La chica del tren'
 summary: "¿Estabas en el tren de las 8.04? ¿Viste algo sospechoso?\r\nRachel, sí\r\n\r\nRachel toma siempre el tren de las\
   \ 8.04 h. Cada mañana lo mismo: el mismo paisaje, las…"
 date: '2015-08-04T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Contemporaneo
 - Adultos
 toc: false
+id: 133
 autores:
 - Paula Hawkins
 - Aleix Montoto
@@ -51,7 +52,7 @@ Tú no la conoces. Ella a ti, sí.
 - **Colaboradores:** [Aleix Montoto](/autores/aleix-montoto/) (Translator)
 - **Editorial:** Planeta Internacional
 - **Formato:** Hardcover, 496 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8408141473 / 9788408141471
 - **Publicación original:** 2015-06-02
 - **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Crimen](/tags/crimen/), [Suspense](/tags/suspense/), [Contemporaneo](/tags/contemporaneo/), [Adultos](/tags/adultos/)

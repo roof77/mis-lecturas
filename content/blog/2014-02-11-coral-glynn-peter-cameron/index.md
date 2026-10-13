@@ -1,5 +1,5 @@
 ---
-title: Coral Glynn
+title: '#12 · Coral Glynn'
 summary: En 1950, una joven llamada Coral Glynn acepta un trabajo en una casa de campo inglesa. Deberá cuidar a una anciana
   enferma, la señora Hart, con la que vive…
 date: '2014-02-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción adulta
 - EEUU
 toc: false
+id: 12
 autores:
 - Peter Cameron
 autores_stats:
@@ -43,7 +44,7 @@ En esta desolada historia de amor Cameron nos habla de la evolución de los sent
 - **Autor:** [Peter Cameron](/autores/peter-cameron/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 269 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415625529 / 9788415625520
 - **Publicación original:** 2013-08-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [LGTBIQ+](/tags/lgtbiq/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura británica](/tags/literatura-britanica/), [Novela](/tags/novela/), [Gay](/tags/gay/), [Ficción adulta](/tags/ficcion-adulta/), [EEUU](/tags/eeuu/)

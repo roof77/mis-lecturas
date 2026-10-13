@@ -1,5 +1,5 @@
 ---
-title: Todas las almas
+title: '#27 · Todas las almas'
 summary: '"Todas las almas" coincide con un nombre bien conocido en Oxford, el All Souls College, miembro del grupo de colegios
   que integran la famosa universidad. Con…'
 date: '2014-04-22T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Clásico
 - Universidad
 toc: false
+id: 27
 autores:
 - Javier Marías
 autores_stats:
@@ -41,7 +42,7 @@ nota: Muy bien
 - **Autor:** [Javier Marías](/autores/javier-marias/)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 280 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2010-07-15
 - **Géneros:** [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Contemporaneo](/tags/contemporaneo/), [Clásicos modernos](/tags/clasicos-modernos/), [Clásico](/tags/clasico/), [Universidad](/tags/universidad/)
 - **Personajes:** Clare Bayes

@@ -1,5 +1,5 @@
 ---
-title: Inteligencia emocional. Por qué es más importante que el cociente intelectual
+title: '#85 · Inteligencia emocional. Por qué es más importante que el cociente intelectual'
 summary: Đôi khi chúng ta đã đồng nhất trí tuệ với chỉ số IQ. Đó là cách hiểu phiến diện bởi chúng ta chỉ chú trọng tới trí
   tuệ lí trí mà quên mất rằng các xúc cảm cũng…
 date: '2015-01-10T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Liderazgo
 - Educación
 toc: false
+id: 85
 autores:
 - Daniel Goleman
 autores_stats:
@@ -39,7 +40,7 @@ nota: '3'
 - **Autor:** [Daniel Goleman](/autores/daniel-goleman/)
 - **Editorial:** Ediciones B
 - **Formato:** Hardcover, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2007-10-01
 - **Géneros:** [Psicología](/tags/psicologia/), [No Ficción](/tags/no-ficcion/), [Autoayuda](/tags/autoayuda/), [Negocios](/tags/negocios/), [Desarrollo personal](/tags/desarrollo-personal/), [Ciencia](/tags/ciencia/), [Liderazgo](/tags/liderazgo/), [Educación](/tags/educacion/)
 - **Personajes:** Matilda Crabtree, Joyce Andrews

@@ -1,5 +1,5 @@
 ---
-title: Trilobites
+title: '#56 · Trilobites'
 summary: "Presentación de John Casey\r\nTraducción de Albert Fuentes\r\n\r\nBreece D’J Pancake se suicidó en Charlottesville\
   \ en 1979 a la edad de veintiséis años. Cuatro años…"
 date: '2014-07-26T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Gótico sureño
 - Clásico
 toc: false
+id: 56
 autores:
 - Breece D'J Pancake
 - Albert Fuentes
@@ -45,7 +46,7 @@ Breece D’J Pancake se suicidó en Charlottesville en 1979 a la edad de veintis
 - **Colaboradores:** [Albert Fuentes](/autores/albert-fuentes/) (Translator), [John Casey](/autores/john-casey/) (Contributor)
 - **Editorial:** Alpha Decay
 - **Formato:** Hardcover, 232 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492837373 / 9788492837373
 - **Publicación original:** 2012-03-05
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [EEUU](/tags/eeuu/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/), [Sureño](/tags/sureno/), [Gótico sureño](/tags/gotico-sureno/), [Clásico](/tags/clasico/)

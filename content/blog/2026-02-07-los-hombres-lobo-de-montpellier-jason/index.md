@@ -1,5 +1,5 @@
 ---
-title: Los hombres lobo de Montpellier
+title: '#796 · Los hombres lobo de Montpellier'
 summary: Sven, un artista escandinavo semibohemio que ha ido a parar a la ciudad francesa de Montpellier, se disfraza de hombre
   lobo para asustar a las víctimas de sus…
 date: '2026-02-07T23:59:59'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción
 - Fantasía
@@ -16,6 +15,7 @@ tags:
 - Francia
 - Hombres lobo
 toc: false
+id: 796
 autores:
 - Jason
 autores_stats:
@@ -38,7 +38,7 @@ Sven, un artista escandinavo semibohemio que ha ido a parar a la ciudad francesa
 - **Autor:** [Jason](/autores/jason/)
 - **Editorial:** Astiberri
 - **Formato:** Paperback, 48 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415163185 / 9788415163183
 - **Publicación original:** 2011-01-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Humor](/tags/humor/), [Francia](/tags/francia/), [Hombres lobo](/tags/hombres-lobo/)

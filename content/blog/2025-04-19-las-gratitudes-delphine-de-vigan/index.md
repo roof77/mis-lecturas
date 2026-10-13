@@ -1,5 +1,5 @@
 ---
-title: Las gratitudes
+title: '#736 · Las gratitudes'
 summary: '«Hoy ha muerto una anciana a la que yo quería. A menudo pensaba: "Le debo tanto." O: "Sin ella, probablemente ya
   no estaría aquí." Pensaba: "Es tan importante…'
 date: '2025-04-19T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - Mujeres
 toc: false
+id: 736
 autores:
 - Delphine de Vigan
 - Pablo Martín Sánchez
@@ -47,7 +48,7 @@ Escrita con un estilo contenido, casi austero, esta narración a dos voces nos h
 - **Colaboradores:** [Pablo Martín Sánchez](/autores/pablo-martin-sanchez/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433980831 / 9788433980830
 - **Publicación original:** 2021-02-10
 - **Géneros:** [Ficción](/tags/ficcion/), [Drama](/tags/drama/), [Francia](/tags/francia/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Literatura francesa](/tags/literatura-francesa/), [Ficción Literaria](/tags/ficcion-literaria/), [Mujeres](/tags/mujeres/)

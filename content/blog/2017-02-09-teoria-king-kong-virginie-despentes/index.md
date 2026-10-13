@@ -1,5 +1,5 @@
 ---
-title: Teoría King Kong
+title: '#232 · Teoría King Kong'
 summary: La diva destroy punk de las letras francesas, escritora de novelas en las que las protagonistas ocupan posiciones
   tradicionalmente reservadas a los hombres…
 date: '2017-02-09T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Género
 - Literatura francesa
 toc: false
+id: 232
 autores:
 - Virginie Despentes
 - Paul B. Preciado
@@ -49,7 +50,7 @@ La diva destroy punk de las letras francesas, escritora de novelas en las que la
 - **Colaboradores:** [Paul B. Preciado](/autores/paul-b-preciado/) (Translator)
 - **Editorial:** Melusina
 - **Formato:** Paperback, 126 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8496614271 / 9788496614765
 - **Publicación original:** 2009-01-01
 - **Géneros:** [Feminismo](/tags/feminismo/), [No Ficción](/tags/no-ficcion/), [Ensayo](/tags/ensayo/), [Francia](/tags/francia/), [Mujeres](/tags/mujeres/), [Política](/tags/politica/), [Filosofía](/tags/filosofia/), [Queer](/tags/queer/), [Género](/tags/genero/), [Literatura francesa](/tags/literatura-francesa/)

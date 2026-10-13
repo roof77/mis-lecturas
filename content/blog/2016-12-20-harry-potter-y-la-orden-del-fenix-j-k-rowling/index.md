@@ -1,5 +1,5 @@
 ---
-title: Harry Potter y la Orden del Fénix
+title: '#220 · Harry Potter y la Orden del Fénix'
 summary: Las tediosas vacaciones en casa de sus tíos todavía no han acabado y Harry Potter se encuentra más inquieto que nunca.
   Apenas ha tenido noticias de Ron y…
 date: '2016-12-20T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Aventuras
 - Clásico
 toc: false
+id: 220
 autores:
 - J.K. Rowling
 - Gemma Rovira Ortega
@@ -42,7 +43,7 @@ Las tediosas vacaciones en casa de sus tíos todavía no han acabado y Harry Pot
 - **Colaboradores:** [Gemma Rovira Ortega](/autores/gemma-rovira-ortega/) (Translator)
 - **Editorial:** Ediciones Salamandra
 - **Formato:** Hardcover, 896 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478888845 / 9788478888849
 - **Publicación original:** 2004-02-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)

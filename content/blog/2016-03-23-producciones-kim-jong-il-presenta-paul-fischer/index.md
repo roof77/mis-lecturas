@@ -1,5 +1,5 @@
 ---
-title: Producciones Kim Jong-Il presenta...
+title: '#184 · Producciones Kim Jong-Il presenta...'
 summary: Antes de convertirse en el dictador más famoso del planeta, Kim Jong-Il dirigía el Ministerio de Propaganda de Corea
   del Norte. Desde allí, informado como…
 date: '2016-03-23T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Películas
 - Histórico
 toc: false
+id: 184
 autores:
 - Paul Fischer
 - Ferran Esteve
@@ -46,7 +47,7 @@ Juntos iban a producir una de las películas más denostadas y celebradas de la 
 - **Colaboradores:** [Ferran Esteve](/autores/ferran-esteve/) (Translator)
 - **Editorial:** Turner
 - **Formato:** Paperback, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416354367 / 9788416354368
 - **Publicación original:** 2015-01-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Biografía](/tags/biografia/), [Ásia](/tags/asia/), [Política](/tags/politica/), [Crime real](/tags/crime-real/), [Club de lectura](/tags/club-de-lectura/), [Películas](/tags/peliculas/), [Histórico](/tags/historico/)

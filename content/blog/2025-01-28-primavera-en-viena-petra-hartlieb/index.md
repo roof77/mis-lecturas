@@ -1,5 +1,5 @@
 ---
-title: Primavera en Viena
+title: '#701 · Primavera en Viena'
 summary: Viena, 1912. Después de una infancia llena de privaciones, Marie parece haber encontrado por fin su lugar en el mundo
   como niñera en casa del famoso dramaturgo…
 date: '2025-01-28T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Literatura alemana
 - Histórico
 toc: false
+id: 701
 autores:
 - Petra Hartlieb
 - María Esperanza Romero
@@ -40,7 +41,7 @@ Pero no todo en la vibrante capital austriaca se reduce a las tribulaciones de M
 - **Colaboradores:** [María Esperanza Romero](/autores/maria-esperanza-romero/) (Translator)
 - **Editorial:** Siruela
 - **Formato:** Paperback, 184 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417624988 / 9788417624989
 - **Publicación original:** 2019-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Literatura alemana](/tags/literatura-alemana/), [Histórico](/tags/historico/)

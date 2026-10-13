@@ -1,5 +1,5 @@
 ---
-title: Los Modlin
+title: '#86 · Los Modlin'
 summary: 'El libro crowdfunding del año: 609 mecenas, 21.170 € conseguidos y un total de 760 libros adquiridos antes de la
   impresión. Una vez impreso, vendió en pocos…'
 date: '2015-01-14T23:59:57'
@@ -11,6 +11,7 @@ tags:
 - Literatura hispana
 - No Ficción
 toc: false
+id: 86
 autores:
 - Paco Gómez
 autores_stats:
@@ -44,7 +45,7 @@ Conforma un relato que se lee mientras se ve o se ve mientras se lee. Texto e im
 - **Autor:** [Paco Gómez](/autores/paco-gomez/)
 - **Editorial:** Fracaso Books
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8461665945 / 9788461665945
 - **Publicación original:** 2013-11-01
 - **Géneros:** [Literatura hispana](/tags/literatura-hispana/), [No Ficción](/tags/no-ficcion/)

@@ -1,5 +1,5 @@
 ---
-title: A Silent Voice, vol. 6
+title: '#926 · A Silent Voice, vol. 6'
 summary: "\"Desde que me reencontré con Nishimiya, mi vida ha cambiado por completo.\"\r\n\r\nPasado y presente vuelven a\
   \ verse las caras. Shôya sufre el rechazo de sus…"
 date: '2026-08-15T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Jovenes adultos
 - Novela gráfica
@@ -19,6 +18,7 @@ tags:
 - Drama
 - Shonen
 toc: false
+id: 926
 autores:
 - Yoshitoki Oima
 autores_stats:
@@ -44,7 +44,7 @@ Pasado y presente vuelven a verse las caras. Shôya sufre el rechazo de sus comp
 - **Serie:** 聲の形 [Koe no Katachi] (#6)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849449001X / 9788494490019
 - **Publicación original:** 2015-12-31
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Drama](/tags/drama/), [Shonen](/tags/shonen/)

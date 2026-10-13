@@ -1,5 +1,5 @@
 ---
-title: Maison Ikkoku tomo 4
+title: '#656 · Maison Ikkoku tomo 4'
 summary: "Tomo 4 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-06-16T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Ficción
 - Humor
@@ -17,6 +16,7 @@ tags:
 - Seinen manga
 - Slice of life
 toc: false
+id: 656
 autores:
 - Rumiko Takahashi
 autores_stats:
@@ -41,7 +41,7 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#4)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 340 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484495221 / 9788484495222
 - **Publicación original:** 2005-02-28
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Romance](/tags/romance/), [Seinen manga](/tags/seinen-manga/), [Slice of life](/tags/slice-of-life/)

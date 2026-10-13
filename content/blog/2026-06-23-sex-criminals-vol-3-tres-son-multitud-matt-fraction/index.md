@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals, Vol. 3: Tres son multitud'
+title: '#871 · Sex Criminals, Vol. 3: Tres son multitud'
 summary: Suzie y Jon han robado los archivos de la Policía del Sexo y, junto con Ana, la profesora que también tiene el poder
   de entrar en otra dimensión cuando llega…
 date: '2026-06-23T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Fantasía
@@ -17,6 +16,7 @@ tags:
 - Ciencia ficción
 - Adultos
 toc: false
+id: 871
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -43,7 +43,7 @@ Suzie y Jon han robado los archivos de la Policía del Sexo y, junto con Ana, la
 - **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Author)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 120 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416880581 / 9788416880584
 - **Publicación original:** 2018-07-03
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Ciencia ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/)

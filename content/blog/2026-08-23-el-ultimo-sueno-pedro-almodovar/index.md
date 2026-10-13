@@ -1,5 +1,5 @@
 ---
-title: El último sueño
+title: '#928 · El último sueño'
 summary: "El libro más personal de Pedro Almodóvar: un autorretrato articulado en doce relatos que revelan su pasión secreta\
   \ por la escritura.\r\n\r\n«Este libro es lo más…"
 date: '2026-08-23T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Memorias
 - Biografía
 toc: false
+id: 928
 autores:
 - Pedro Almodóvar
 autores_stats:
@@ -43,7 +44,7 @@ El libro más personal de Pedro Almodóvar: un autorretrato articulado en doce r
 - **Autor:** [Pedro Almodóvar](/autores/pedro-almodovar/)
 - **Editorial:** Reservoir Books
 - **Formato:** Kindle Edition, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8466375279 / 9788419437389
 - **Publicación original:** 2023-04-13
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Queer](/tags/queer/), [Películas](/tags/peliculas/), [LGTBIQ+](/tags/lgtbiq/), [España](/tags/espana/), [Gay](/tags/gay/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/)

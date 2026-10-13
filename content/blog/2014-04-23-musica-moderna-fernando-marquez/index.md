@@ -1,5 +1,5 @@
 ---
-title: Música moderna
+title: '#28 · Música moderna'
 summary: Testimonio impagable, y de primera mano, de la efervescencia artística y musical madrileña de principios de los 80,
   "Música moderna", y su autor, el mítico "el…
 date: '2014-04-23T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 28
 autores:
 - Fernando Márquez
 autores_stats:
@@ -32,7 +33,7 @@ Retrato vivo, emotivo y directo (la obra fue escrita casi en el mismo momento en
 - **Autor:** [Fernando Márquez](/autores/fernando-marquez/)
 - **Editorial:** Literaturas Com Libros
 - **Formato:** Kindle Edition, 111 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415414390 / 9788415414391
 - **Publicación original:** 2012-07-15
 - **Ficha en Goodreads:** [Música moderna](https://www.goodreads.com/book/show/21654488-m-sica-moderna)

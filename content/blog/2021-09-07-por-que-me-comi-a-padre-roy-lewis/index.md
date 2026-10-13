@@ -1,5 +1,5 @@
 ---
-title: Por qué me comí a padre
+title: '#486 · Por qué me comí a padre'
 summary: Ambientada en una región del centro de África hacia finales del Pleistoceno, Por qué me comí a mi padre es la crónica
   trepidante y en algunos momentos jocosa…
 date: '2021-09-07T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Literatura británica
 - Histórico
 toc: false
+id: 486
 autores:
 - Roy Lewis
 autores_stats:
@@ -46,7 +47,7 @@ Diferentes títulos con los que se ha editado este libro en castellano:
 - **Autor:** [Roy Lewis](/autores/roy-lewis/)
 - **Editorial:** Gigamesh Digital
 - **Formato:** Kindle Edition, 169 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417507574 / 9788417507572
 - **Publicación original:** 2020-04-15
 - **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Ficción histórica](/tags/ficcion-historica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Clásico](/tags/clasico/), [Colegio](/tags/colegio/), [Novela](/tags/novela/), [Literatura británica](/tags/literatura-britanica/), [Histórico](/tags/historico/)

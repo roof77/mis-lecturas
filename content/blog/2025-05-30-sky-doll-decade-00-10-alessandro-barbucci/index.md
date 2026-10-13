@@ -1,5 +1,5 @@
 ---
-title: 'Sky Doll: Decade 00>10'
+title: '#750 · Sky Doll: Decade 00>10'
 summary: "UNA MAGNÍFICA EDICIÓN PARA UN CÓMIC QUE HA MARCADO ÉPOCA.\r\n\r\nÚnica, vibrante, controvertida, SkyDoll nació en\
   \ el año 2000. La innovadora serie creada por…"
 date: '2025-05-30T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Fantasía
@@ -18,6 +17,7 @@ tags:
 - Ficción
 - Space Opera
 toc: false
+id: 750
 autores:
 - Alessandro Barbucci
 - Barbara Canepa
@@ -52,7 +52,7 @@ Incluye una historia inédita y galería de homenajes de artistas internacionale
 - **Colaboradores:** [Barbara Canepa](/autores/barbara-canepa/) (Author)
 - **Editorial:** Norma Editorial
 - **Formato:** Hardcover, 232 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467909889 / 9788467909883
 - **Publicación original:** 2012-11-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Misterio](/tags/misterio/), [Religión](/tags/religion/), [Ficción](/tags/ficcion/), [Space Opera](/tags/space-opera/)

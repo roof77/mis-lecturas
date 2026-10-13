@@ -1,5 +1,5 @@
 ---
-title: Cada corazón, un umbral
+title: '#320 · Cada corazón, un umbral'
 summary: Deslizándose entre las sombras bajo la cama, o a través de un armario, o por madrigueras de conejos... los niños
   siempre han sabido acceder a mundos mágicos…
 date: '2018-07-01T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Fantasía urbana
 - Realismo mágico
 toc: false
+id: 320
 autores:
 - Seanan McGuire
 - María Pilar San Román
@@ -43,7 +44,7 @@ Deslizándose entre las sombras bajo la cama, o a través de un armario, o por m
 - **Colaboradores:** [María Pilar San Román](/autores/maria-pilar-san-roman/) (Translator)
 - **Editorial:** Alianza
 - **Formato:** Hardcover, 183 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788491812005
 - **Publicación original:** 2018-06-28
 - **Géneros:** [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [LGTBIQ+](/tags/lgtbiq/), [Novella](/tags/novella/), [Queer](/tags/queer/), [Fantasía urbana](/tags/fantasia-urbana/), [Realismo mágico](/tags/realismo-magico/)

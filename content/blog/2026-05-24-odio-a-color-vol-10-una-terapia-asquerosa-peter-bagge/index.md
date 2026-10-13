@@ -1,5 +1,5 @@
 ---
-title: 'Odio a color, vol. 10: Una terapia asquerosa'
+title: '#844 · Odio a color, vol. 10: Una terapia asquerosa'
 summary: ¡Bienvenidos al sórdido mundo de los psicoterapeutas! ¡Que corra el prozac!
 date: '2026-05-24T23:59:58'
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 844
 autores:
 - Peter Bagge
 autores_stats:
@@ -32,7 +32,7 @@ nota: Recomendable
 - **Serie:** Odio: Hate (#10)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 68 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478335463 / 9788478335466
 - **Publicación original:** 2003-11-01
 - **Géneros:** [Comics](/tags/comics/)

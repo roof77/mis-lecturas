@@ -1,5 +1,5 @@
 ---
-title: Henry y Cato
+title: '#36 · Henry y Cato'
 summary: Cuando Henry Marshalson y Cato Forbes se encuentran en Inglaterra después de varios años sin verse, su existencia
   no se halla en un momento precisamente fácil…
 date: '2014-05-31T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - LGTBIQ+
 - Literatura irlandesa
 toc: false
+id: 36
 autores:
 - Iris Murdoch
 - Luis Lasse
@@ -43,7 +44,7 @@ Cuando Henry Marshalson y Cato Forbes se encuentran en Inglaterra después de va
 - **Colaboradores:** [Luis Lasse](/autores/luis-lasse/) (Translator)
 - **Editorial:** Editorial Impedimenta SL
 - **Formato:** Kindle Edition, 415 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415578784 / 9788415578789
 - **Publicación original:** 2013-03-07
 - **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Clásico](/tags/clasico/), [Literatura británica](/tags/literatura-britanica/), [Siglo XX](/tags/siglo-xx/), [Autoras](/tags/autoras/), [LGTBIQ+](/tags/lgtbiq/), [Literatura irlandesa](/tags/literatura-irlandesa/)

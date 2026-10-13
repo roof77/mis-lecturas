@@ -1,5 +1,5 @@
 ---
-title: El juicio final de Carl
+title: '#930 · El juicio final de Carl'
 summary: 'Empieza la nueva temporada del concurso más visto de la galaxia: Planeta mazmorrero. En el tercer piso, Carl y la
   Princesa Dónut deberán esforzarse más que…'
 date: '2026-09-03T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Comedia
 - Adultos
 toc: false
+id: 930
 autores:
 - Matt Dinniman
 - David Tejera Expósito
@@ -45,7 +46,7 @@ Un circo de muertos vivientes deambula por las ruinas de la Ciudad Epígea, una 
 - **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Paperback, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410466082 / 9788410466081
 - **Publicación original:** 2025-10-16
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Litrpg](/tags/litrpg/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Distopía](/tags/distopia/), [Aventuras](/tags/aventuras/), [Comedia](/tags/comedia/), [Adultos](/tags/adultos/)

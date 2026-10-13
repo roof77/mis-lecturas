@@ -1,5 +1,5 @@
 ---
-title: El volumen del tiempo I
+title: '#725 · El volumen del tiempo I'
 summary: "Una deslumbrante exploración sobre la memoria, el amor, la soledad, la monotonía y la libertad de decisión.\r\n\r\
   \nTara Selter y su marido Thomas viven en…"
 date: '2025-03-22T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Viaje en el tiempo
 toc: false
+id: 725
 autores:
 - Solvej Balle
 - Victoria Alonso
@@ -49,7 +50,7 @@ Utilizando los mimbres de la ciencia ficción, la autora nos propone una deslumb
 - **Colaboradores:** [Victoria Alonso](/autores/victoria-alonso/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 184 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433927469 / 9788433927460
 - **Publicación original:** 2024-11-06
 - **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Realismo mágico](/tags/realismo-magico/), [Dinamarca](/tags/dinamarca/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/)

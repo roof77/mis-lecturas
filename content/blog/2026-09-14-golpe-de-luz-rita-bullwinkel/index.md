@@ -1,5 +1,5 @@
 ---
-title: Golpe de luz
+title: '#932 · Golpe de luz'
 summary: "An electrifying debut novel from an “unusually gifted writer” (Lorrie Moore) about the radical intimacy of physical\
   \ competition\r\n\r\nAn unexpected tragedy at a…"
 date: '2026-09-14T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - EEUU
 toc: false
+id: 932
 autores:
 - Rita Bullwinkel
 - Ce Santiago
@@ -46,7 +47,7 @@ Frenetic, surprising, and strikingly original, Headshot is a portrait of the des
 - **Colaboradores:** [Ce Santiago](/autores/ce-santiago/) (Translator)
 - **Editorial:** Narrativa
 - **Formato:** Paperback, 196 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410249693 / 9788410249691
 - **Publicación original:** 2025-09-15
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Deportes](/tags/deportes/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Jovenes adultos](/tags/jovenes-adultos/), [Adultos](/tags/adultos/), [EEUU](/tags/eeuu/)

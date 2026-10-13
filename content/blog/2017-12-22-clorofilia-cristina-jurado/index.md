@@ -1,5 +1,5 @@
 ---
-title: CloroFilia
+title: '#282 · CloroFilia'
 summary: ¿Quién es Kirmen? ¿Por qué el joven no se parece a sus padres, ni a su amigos, ni a ninguno de los habitantes del
   Claustro? En el exterior de las cúpulas que…
 date: '2017-12-22T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Terror
 - Medio Ambiente
 toc: false
+id: 282
 autores:
 - Cristina Jurado
 autores_stats:
@@ -35,7 +36,7 @@ nota: Bien
 - **Autor:** [Cristina Jurado](/autores/cristina-jurado/)
 - **Editorial:** Editorial Cerbero
 - **Formato:** Paperback, 142 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494642235 / 9788494642234
 - **Publicación original:** 2017-03-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Terror](/tags/terror/), [Medio Ambiente](/tags/medio-ambiente/)

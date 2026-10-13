@@ -1,5 +1,5 @@
 ---
-title: El lustre de la perla
+title: '#598 · El lustre de la perla'
 summary: La joven Nancy Astley vendía ostras en una pequeña ciudad portuaria en la costa de Kent hasta que un día llegó una
   compañía de variedades donde cantaba un…
 date: '2023-08-24T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Gay
 - Victoriano
 toc: false
+id: 598
 autores:
 - Sarah Waters
 - Jaime Zulaika
@@ -43,7 +44,7 @@ La joven Nancy Astley vendía ostras en una pequeña ciudad portuaria en la cost
 - **Colaboradores:** [Jaime Zulaika](/autores/jaime-zulaika/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 504 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433970216 / 9788433970213
 - **Publicación original:** 2004-01-01
 - **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Romance](/tags/romance/), [Histórico](/tags/historico/), [Lesbianismo](/tags/lesbianismo/), [Adultos](/tags/adultos/), [Gay](/tags/gay/), [Victoriano](/tags/victoriano/)

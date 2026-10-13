@@ -1,5 +1,5 @@
 ---
-title: Saint Cole
+title: '#832 · Saint Cole'
 summary: La vida, en efecto, son cuatro días. Cuatro días en la vida de un joven que trata de eludir su realidad a través
   del alcohol que a Noah Van Sciver le bastan y…
 date: '2026-05-02T23:59:59'
@@ -8,12 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción
 - EEUU
 - Slice of life
 toc: false
+id: 832
 autores:
 - Noah Van Sciver
 autores_stats:
@@ -40,7 +40,7 @@ Noah Van Sciver (New Jersey, 1984) empezó a llamar la atención de los lectores
 - **Autor:** [Noah Van Sciver](/autores/noah-van-sciver/)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 124 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416400970 / 9788416400973
 - **Publicación original:** 2018-03-22
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [EEUU](/tags/eeuu/), [Slice of life](/tags/slice-of-life/)

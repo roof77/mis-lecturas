@@ -1,5 +1,5 @@
 ---
-title: Gótico
+title: '#560 · Gótico'
 summary: "Una novela terroríficamente brillante.\r\nTras recibir una extraña carta de su prima recién casada, Noemí Taboada\
   \ se dirige a High Place, una casa en el campo en…"
 date: '2022-09-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Histórico
 toc: false
+id: 560
 autores:
 - Silvia Moreno-Garcia
 - Alexander Páez
@@ -49,7 +50,7 @@ Premio Locus a Mejor Novela de Terror 2021.
 - **Colaboradores:** [Alexander Páez](/autores/alexander-paez/) (traductor)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 349 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445009818 / 9788445009819
 - **Publicación original:** 2021-06-23
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Gótico](/tags/gotico/), [Misterio](/tags/misterio/), [Fantasía](/tags/fantasia/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/)

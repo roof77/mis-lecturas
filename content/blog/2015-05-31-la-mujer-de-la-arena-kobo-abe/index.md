@@ -1,5 +1,5 @@
 ---
-title: La mujer de la arena
+title: '#114 · La mujer de la arena'
 summary: La mujer de la arena se centra en la historia de un entomólogo, Jumpei, que, buscando un nuevo espécimen de insecto,
   queda varado en una aldea perdida en las…
 date: '2015-05-31T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción Literaria
 - Siglo XX
 toc: false
+id: 114
 autores:
 - Kōbō Abe
 - Kazuya Sakai
@@ -43,7 +44,7 @@ La mujer de la arena se centra en la historia de un entomólogo, Jumpei, que, bu
 - **Colaboradores:** [Kazuya Sakai](/autores/kazuya-sakai/) (Translator)
 - **Editorial:** Siruela
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478441964 / 9788478441969
 - **Publicación original:** 1994-03-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Clásico](/tags/clasico/), [Realismo mágico](/tags/realismo-magico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Ásia](/tags/asia/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/)

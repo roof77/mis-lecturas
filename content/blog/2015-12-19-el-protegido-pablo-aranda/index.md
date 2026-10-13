@@ -1,5 +1,5 @@
 ---
-title: El protegido
+title: '#160 · El protegido'
 summary: Esta es una novela policiaca, de las buenas, de las que no puedes dejar de leer porque te atrapan desde el principio;
   pero también es una gran novela sobre la…
 date: '2015-12-19T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 160
 autores:
 - Pablo Aranda
 autores_stats:
@@ -31,7 +32,7 @@ Esta es una novela policiaca, de las buenas, de las que no puedes dejar de leer 
 - **Autor:** [Pablo Aranda](/autores/pablo-aranda/)
 - **Editorial:** Malpaso Ediciones, SL
 - **Formato:** Hardcover, 226 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415996861 / 9788415996866
 - **Publicación original:** 2015-04-15
 - **Ficha en Goodreads:** [El protegido](https://www.goodreads.com/book/show/25394047-el-protegido)

@@ -1,5 +1,5 @@
 ---
-title: Distancia de rescate
+title: '#525 · Distancia de rescate'
 summary: El campo ha cambiado frente a nuestros ojos sin que nadie se diera cuenta. Y quizá no se trate solo de sequías y
   herbicidas, quizá se trate del hilo vital y…
 date: '2022-03-15T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura hispana
 - Club de lectura
 toc: false
+id: 525
 autores:
 - Samanta Schweblin
 autores_stats:
@@ -44,7 +45,7 @@ Samanta Schweblin ha escrito un relato extraordinario e hipnótico, urgente y pe
 - **Autor:** [Samanta Schweblin](/autores/samanta-schweblin/)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788439729488
 - **Publicación original:** 2015-02-01
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/), [Novella](/tags/novella/), [Contemporaneo](/tags/contemporaneo/), [Misterio](/tags/misterio/), [Literatura hispana](/tags/literatura-hispana/), [Club de lectura](/tags/club-de-lectura/)

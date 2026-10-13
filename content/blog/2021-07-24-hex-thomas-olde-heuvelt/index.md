@@ -1,5 +1,5 @@
 ---
-title: Hex
+title: '#473 · Hex'
 summary: 'Bienvenido a Black Spring, una población pintoresca con un macabro secreto: una mujer recorre las calles con la
   boca y los ojos cosidos, entra en los hogares y…'
 date: '2021-07-24T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Misterio
 - Adultos
 toc: false
+id: 473
 autores:
 - Thomas Olde Heuvelt
 - Ana Isabel Sánchez Díez
@@ -49,7 +50,7 @@ Nadie se imagina la siniestra pesadilla que entonces los aguarda.
 - **Colaboradores:** [Ana Isabel Sánchez Díez](/autores/ana-isabel-sanchez-diez/) (Translator)
 - **Editorial:** Nocturna
 - **Formato:** Paperback, 512 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417834524 / 9788417834524
 - **Publicación original:** 2020-01-20
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Thriller](/tags/thriller/), [Brujas](/tags/brujas/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/)

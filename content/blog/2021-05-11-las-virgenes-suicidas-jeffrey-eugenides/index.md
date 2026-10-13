@@ -1,5 +1,5 @@
 ---
-title: Las vírgenes suicidas
+title: '#461 · Las vírgenes suicidas'
 summary: "En menos de un año y medio, las cinco hermanas Lisbon, adolescentes de entre trece y diecisiete años, se suicidaron.\r\
   \n\r\nLos jovencitos del barrio habían estado…"
 date: '2021-05-11T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Novela
 - Adultos
 toc: false
+id: 461
 autores:
 - Jeffrey Eugenides
 - Roser Berdagué
@@ -45,7 +46,7 @@ Los jovencitos del barrio habían estado siempre fascinados por esas inalcanzabl
 - **Colaboradores:** [Roser Berdagué](/autores/roser-berdague/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Mass Market Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433966820 / 9788433966827
 - **Publicación original:** 2022-07-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Jovenes adultos](/tags/jovenes-adultos/), [Coming of age](/tags/coming-of-age/), [Salud mentál](/tags/salud-mental/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)

@@ -1,5 +1,5 @@
 ---
-title: Una niña está perdida en el siglo XX
+title: '#497 · Una niña está perdida en el siglo XX'
 summary: En la Europa del siglo xx un hombre enigmático que huye de su pasado y una niña perdida que busca a su padre se encuentran por
   azar. Hanna está…
 date: '2021-09-29T23:59:58'
@@ -17,6 +17,7 @@ tags:
 - Contemporaneo
 - Novela
 toc: false
+id: 497
 autores:
 - Gonçalo M. Tavares
 - Rosa Martinez Alfaro
@@ -41,7 +42,7 @@ En la Europa del siglo xx un hombre enigmático que huye de su pasado y una ni�
 - **Colaboradores:** [Rosa Martinez Alfaro](/autores/rosa-martinez-alfaro/) (Translator)
 - **Editorial:** Seix Barral
 - **Formato:** Paperback, 233 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8432228915 / 9788432228919
 - **Publicación original:** 2016-03-08
 - **Géneros:** [Portugal](/tags/portugal/), [Ficción](/tags/ficcion/), [Literatura portuguesa](/tags/literatura-portuguesa/), [Romance](/tags/romance/), [Literatura](/tags/literatura/), [Guerra](/tags/guerra/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/)

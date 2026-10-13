@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals, Volumen Cinco: Con el cinco te la hinco'
+title: '#873 · Sex Criminals, Volumen Cinco: Con el cinco te la hinco'
 summary: Suzie and Jon have that special something—when they have sex, they freeze time and do crimes. Well—they HAD that
   special something. In the aftermath of what…
 date: '2026-06-24T23:59:57'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Ciencia ficción
 - Comedia
 toc: false
+id: 873
 autores:
 - Matt Fraction
 autores_stats:
@@ -40,7 +40,7 @@ Suzie and Jon have that special something—when they have sex, they freeze time
 - **Serie:** Sex Criminals
 - **Editorial:** Astiberr
 - **Formato:** Hardcover, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2020-07-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Humor](/tags/humor/), [Romance](/tags/romance/), [Ciencia ficción](/tags/ciencia-ficcion/), [Comedia](/tags/comedia/)
 - **Ficha en Goodreads:** [Sex Criminals, Volumen Cinco: Con el cinco te la hinco](https://www.goodreads.com/book/show/54496841-sex-criminals-volumen-cinco)

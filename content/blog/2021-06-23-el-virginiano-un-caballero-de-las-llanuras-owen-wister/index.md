@@ -1,5 +1,5 @@
 ---
-title: 'El Virginiano: Un caballero de las llanuras'
+title: '#468 · El Virginiano: Un caballero de las llanuras'
 summary: Historiadores y críticos coinciden en considerar El Virginiano (1902), de Owen Wister, como la gran novela americana
   iniciadora del western, como la obra…
 date: '2021-06-23T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Histórico
 - Literatura
 toc: false
+id: 468
 autores:
 - Owen Wister
 autores_stats:
@@ -47,7 +48,7 @@ El Virginiano refiere diferentes historias de vaqueros y de su vida en el rancho
 - **Autor:** [Owen Wister](/autores/owen-wister/)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 512 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477028753 / 9788477028758
 - **Publicación original:** 2018-02-01
 - **Géneros:** [Oeste](/tags/oeste/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Aventuras](/tags/aventuras/), [Romance](/tags/romance/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Histórico](/tags/historico/), [Literatura](/tags/literatura/)

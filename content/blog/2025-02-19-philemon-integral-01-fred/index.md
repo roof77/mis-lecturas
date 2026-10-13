@@ -1,5 +1,5 @@
 ---
-title: Philémon Integral 01
+title: '#712 · Philémon Integral 01'
 summary: 'Entre 1965 y 2013, el historietista galo Fred narró las andanzas de Philémon: joven que descubre mundos fantásticos
   habitados por seres imposibles en compañía…'
 date: '2025-02-19T23:59:58'
@@ -8,10 +8,10 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Fantasía
 toc: false
+id: 712
 autores:
 - Fred
 autores_stats:
@@ -37,7 +37,7 @@ Artífice de un imaginario evocador de las grandes obras de Lewis Carroll, Jonat
 - **Serie:** Philémon (#1-5)
 - **Editorial:** ECC Ediciones
 - **Formato:** Hardcover, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416746222 / 9788416746224
 - **Publicación original:** 2016-06-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/)

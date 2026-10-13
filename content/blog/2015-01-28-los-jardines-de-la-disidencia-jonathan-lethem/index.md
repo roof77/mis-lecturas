@@ -1,5 +1,5 @@
 ---
-title: Los jardines de la disidencia
+title: '#92 · Los jardines de la disidencia'
 summary: En esta novela, Lethem cuenta un periplo que atraviesa tres generaciones neoyorquinas, ninguna de ellas nada modélicas
   debido a sus convicciones, pues en éstas…
 date: '2015-01-28T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - EEUU
 - Judaismo
 toc: false
+id: 92
 autores:
 - Jonathan Lethem
 - Cruz Rodríguez Juiz
@@ -47,7 +48,7 @@ A través de sus vidas vemos cómo un movimiento revolucionario sucede al anteri
 - **Colaboradores:** [Cruz Rodríguez Juiz](/autores/cruz-rodriguez-juiz/) (translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 413 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439728700 / 9788439728702
 - **Publicación original:** 2014-05-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción histórica](/tags/ficcion-historica/), [Nueva York](/tags/nueva-york/), [Literatura](/tags/literatura/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [EEUU](/tags/eeuu/), [Judaismo](/tags/judaismo/)

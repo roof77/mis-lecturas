@@ -1,5 +1,5 @@
 ---
-title: Carta de una desconocida
+title: '#480 · Carta de una desconocida'
 summary: «Sólo quiero hablar contigo, decírtelo todo por primera vez. Tendrías que conocer toda mi vida, que siempre fue la
   tuya aunque nunca lo supiste. Pero sólo tú…
 date: '2021-08-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Drama
 - Novella
 toc: false
+id: 480
 autores:
 - Stefan Zweig
 - Berta Conill Purgimon
@@ -42,7 +43,7 @@ nota: Muy recomendable
 - **Colaboradores:** [Berta Conill Purgimon](/autores/berta-conill-purgimon/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 72 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8495359472 / 9788495359476
 - **Publicación original:** 2002-01-18
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Relatos](/tags/relatos/), [Literatura alemana](/tags/literatura-alemana/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Drama](/tags/drama/), [Novella](/tags/novella/)

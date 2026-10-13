@@ -1,5 +1,5 @@
 ---
-title: Drugstore cowboy
+title: '#452 · Drugstore cowboy'
 summary: A sus treinta y cinco años, Bob Hughes lidera una banda de yonquis que ocupa su tiempo robando farmacias y pinchándose
   el botín de sus fechorías. Carismático y…
 date: '2021-03-03T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Literatura
 - Ficción Literaria
 toc: false
+id: 452
 autores:
 - James Fogle
 - Juan Carlos Postigo
@@ -42,7 +43,7 @@ Escrita en la cárcel y convertida en película de culto por Gus Van Sant, Drugs
 - **Colaboradores:** [Juan Carlos Postigo](/autores/juan-carlos-postigo/) (Translator)
 - **Editorial:** Sajalín Editores
 - **Formato:** Paperback, 220 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494680994 / 9788494680991
 - **Publicación original:** 2018-07-04
 - **Géneros:** [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Adicción](/tags/adiccion/), [Drogas](/tags/drogas/), [Contemporaneo](/tags/contemporaneo/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/)

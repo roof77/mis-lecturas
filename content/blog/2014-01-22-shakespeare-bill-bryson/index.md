@@ -1,5 +1,5 @@
 ---
-title: Shakespeare
+title: '#6 · Shakespeare'
 summary: '"Bill Bryson, célebre en todo el mundo por su Una breve historia de casi todo, aborda ahora un enigma mayúsculo:
   la personalidad de William Shakespeare. De…'
 date: '2014-01-22T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Literatura británica
 toc: false
+id: 6
 autores:
 - Bill Bryson
 - Andres Ehrenhaus
@@ -42,7 +43,7 @@ nota: 3,75
 - **Colaboradores:** [Andres Ehrenhaus](/autores/andres-ehrenhaus/) (Translator)
 - **Editorial:** RBA Libros
 - **Formato:** Kindle Edition, 187 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2013-04-30
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Historia](/tags/historia/), [Shakespeare](/tags/shakespeare/), [Histórico](/tags/historico/), [Memorias](/tags/memorias/), [Humor](/tags/humor/), [Literatura](/tags/literatura/), [Literatura británica](/tags/literatura-britanica/)
 - **Personajes:** William Shakespeare

@@ -1,5 +1,5 @@
 ---
-title: Maison Ikkoku 3
+title: '#655 · Maison Ikkoku 3'
 summary: "Tomo 3 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-06-12T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Romance
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Humor
 - Seinen manga
 toc: false
+id: 655
 autores:
 - Rumiko Takahashi
 autores_stats:
@@ -41,7 +41,7 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#3)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 340 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484495213 / 9788484495215
 - **Publicación original:** 2004-09-30
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Humor](/tags/humor/), [Seinen manga](/tags/seinen-manga/)

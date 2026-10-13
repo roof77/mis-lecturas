@@ -1,5 +1,5 @@
 ---
-title: Heartstopper, Tomo 1
+title: '#527 · Heartstopper, Tomo 1'
 summary: "Un chico conoce a otro.\r\nLos chicos se vuelven amigos.\r\nY luego se enamoran.\r\n\r\nCharlie y Nick van al mismo\
   \ colegio, aunque nunca se habían cruzado hasta el…"
 date: '2022-03-24T23:59:59'
@@ -10,7 +10,6 @@ tags:
 - Comics
 - Romance
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Queer
@@ -18,6 +17,7 @@ tags:
 - Ficción
 - Gay
 toc: false
+id: 527
 autores:
 - Alice Oseman
 autores_stats:
@@ -46,7 +46,7 @@ Pero el amor obra de formas inesperadas, y Nick está más interesado en Charlie
 - **Serie:** Heartstopper (#1)
 - **Editorial:** VRYA
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6078712063 / 9786078712069
 - **Publicación original:** 2020-02-01
 - **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/)

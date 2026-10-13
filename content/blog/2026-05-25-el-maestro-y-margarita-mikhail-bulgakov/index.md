@@ -1,5 +1,5 @@
 ---
-title: El maestro y Margarita
+title: '#849 · El maestro y Margarita'
 summary: Una tarde de primavera, el Diablo sale de las sombras hacia Moscú arrastrando el fuego y el caos con él. La sátira
   fantástica, divertida y devastadora de la…
 date: '2026-05-25T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Club de lectura
 - Ficción histórica
 toc: false
+id: 849
 autores:
 - Mikhail Bulgakov
 - Marta Rebón
@@ -43,7 +44,7 @@ Una tarde de primavera, el Diablo sale de las sombras hacia Moscú arrastrando e
 - **Colaboradores:** [Marta Rebón](/autores/marta-rebon/) (Translator)
 - **Editorial:** Navona
 - **Formato:** Paperback, 560 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419311057 / 9788419311054
 - **Publicación original:** 2022-05-16
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Rusia](/tags/rusia/), [Literatura rusa](/tags/literatura-rusa/), [Realismo mágico](/tags/realismo-magico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Ficción histórica](/tags/ficcion-historica/)

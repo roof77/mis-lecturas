@@ -1,5 +1,5 @@
 ---
-title: I.L.
+title: '#693 · I.L.'
 summary: '"I. L", detrás de estas curiosas iniciales quizás se esconda una diosa, un delirio o un simple maniquí... ¿Quién
   puede saberlo? I. L es una mujer camaleónica…'
 date: '2025-01-05T23:59:59'
@@ -9,11 +9,11 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Fantasía
 - Ficción
 toc: false
+id: 693
 autores:
 - Osamu Tezuka
 autores_stats:
@@ -36,7 +36,7 @@ nota: Muy recomendable
 - **Autor:** [Osamu Tezuka](/autores/osamu-tezuka/)
 - **Editorial:** Planeta Cómic
 - **Formato:** Hardcover, 336 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8413416531 / 9788413416533
 - **Publicación original:** 2021-06-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/)

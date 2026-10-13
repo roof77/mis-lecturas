@@ -1,5 +1,5 @@
 ---
-title: Manor
+title: '#293 · Manor'
 summary: Manor, un joven marinero, rescata al pequeño Har de morir ahogado. A partir de ese momento, Manor y Har se enamoran
   y comienzan una relación de estrecha…
 date: '2018-02-07T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Queer
 - Literatura alemana
 toc: false
+id: 293
 autores:
 - Karl Heinrich Ulrichs
 autores_stats:
@@ -37,7 +38,7 @@ Manor, un joven marinero, rescata al pequeño Har de morir ahogado. A partir de 
 
 - **Autor:** [Karl Heinrich Ulrichs](/autores/karl-heinrich-ulrichs/)
 - **Formato:** ebook, 9 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 1884-01-01
 - **Géneros:** [LGTBIQ+](/tags/lgtbiq/), [Vampiros](/tags/vampiros/), [Romance](/tags/romance/), [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Gótico](/tags/gotico/), [Terror](/tags/terror/), [Queer](/tags/queer/), [Literatura alemana](/tags/literatura-alemana/)
 - **Personajes:** Manor

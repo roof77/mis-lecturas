@@ -1,5 +1,5 @@
 ---
-title: La maldición del tranvía 015
+title: '#475 · La maldición del tranvía 015'
 summary: "Año: 1912\r\nCiudad: El Cairo \r\n\r\nLa maldición de un tranvía aéreo parece un caso simple para el agente Hamed,\
   \ pero con un presupuesto casi inexistente y un…"
 date: '2021-07-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Fantasía urbana
 - Ucronía
 toc: false
+id: 475
 autores:
 - P. Djèlí Clark
 - Rebeca Cardeñoso
@@ -51,7 +52,7 @@ Esta edición cuenta con un posfacio a cargo de Cristina Jurado y varios detalle
 - **Colaboradores:** [Rebeca Cardeñoso](/autores/rebeca-cardenoso/) (Translator)
 - **Editorial:** Duermevela Ediciones
 - **Formato:** Paperback, 165 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412319664 / 9788412319668
 - **Publicación original:** 2021-06-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Steampunk](/tags/steampunk/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Misterio](/tags/misterio/), [Fantasía urbana](/tags/fantasia-urbana/), [Ucronía](/tags/ucronia/)

@@ -1,5 +1,5 @@
 ---
-title: Americanah
+title: '#187 · Americanah'
 summary: "Una original historia sobre la inmigración en Estados Unidos desde el punto de vista de una estudiante de literatura\
   \ nigeriana.\r\n\r\n\r\nLagos, mediados de los…"
 date: '2016-04-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Raza
 - Romance
 toc: false
+id: 187
 autores:
 - Chimamanda Ngozi Adichie
 - Carlos Milla
@@ -49,7 +50,7 @@ Americanah, que recoge el término burlón con que los nigerianos se refieren a 
 - **Colaboradores:** [Carlos Milla](/autores/carlos-milla/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 605 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439728123 / 9788439728122
 - **Publicación original:** 2014-03-13
 - **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [África](/tags/africa/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Feminismo](/tags/feminismo/), [Nigeria](/tags/nigeria/), [Raza](/tags/raza/), [Romance](/tags/romance/)

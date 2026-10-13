@@ -1,5 +1,5 @@
 ---
-title: El río tiene raíces
+title: '#795 · El río tiene raíces'
 summary: "Dime, ¿hay algo que la muerte no pueda vencer?\r\nDos hermanas cantando hasta el amanecer.\r\n\r\nEn el pequeño\
   \ pueblo de Thistleford, en los confines de Arcadia, el…"
 date: '2026-02-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Hadas
 - Mágia
 toc: false
+id: 795
 autores:
 - Amal El-Mohtar
 - Pilar Ramírez Tello
@@ -51,7 +52,7 @@ Amal El-Mohtar nos deslumbra con un trágico cuento de hadas en el que las palab
 - **Colaboradores:** [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Translator)
 - **Editorial:** Obscura Editorial, SL
 - **Formato:** Paperback, 112 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412990633 / 9788412990638
 - **Publicación original:** 2025-07-02
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Novella](/tags/novella/), [Romance](/tags/romance/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Adultos](/tags/adultos/), [Hadas](/tags/hadas/), [Mágia](/tags/magia/)

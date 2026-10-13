@@ -1,5 +1,5 @@
 ---
-title: '100% Marvel HC. El Castigador: Círculo de Sangre'
+title: '#728 · 100% Marvel HC. El Castigador: Círculo de Sangre'
 summary: ¡La mítica historia que lanzó al estrellato a Frank Castle, en un volumen en tapa dura que incluye también su secuela
   y decenas de extras! El Castigador ha…
 date: '2025-03-25T23:59:59'
@@ -9,8 +9,8 @@ tags:
 - Lecturas
 - Comics
 - Marvel
-- Comics
 toc: false
+id: 728
 autores:
 - Mike Zeck
 - Steven Grant
@@ -36,7 +36,7 @@ nota: Recomendable
 - **Colaboradores:** [Steven Grant](/autores/steven-grant/) (Author)
 - **Editorial:** Panini Comics
 - **Formato:** Hardcover, 312 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491672818 / 9788491672814
 - **Publicación original:** 2018-01-10
 - **Géneros:** [Marvel](/tags/marvel/), [Comics](/tags/comics/)

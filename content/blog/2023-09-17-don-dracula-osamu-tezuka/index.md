@@ -1,5 +1,5 @@
 ---
-title: Don Drácula
+title: '#603 · Don Drácula'
 summary: Una versión totalmente alocada de este personaje universal, en la cual Don Drácula vive en Japón junto a su hijita
   Chócola y su sirviente Igor. El profesor…
 date: '2023-09-17T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 603
 autores:
 - Osamu Tezuka
 autores_stats:
@@ -32,7 +33,7 @@ Una versión totalmente alocada de este personaje universal, en la cual Don Drá
 - **Serie:** ドン・ドラキュラ [Don Dracula] (#1-3)
 - **Editorial:** Planeta Cómic
 - **Formato:** Kindle Edition, 888 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8411403602 / 9788411407052
 - **Publicación original:** 2023-01-25
 - **Ficha en Goodreads:** [Don Drácula](https://www.goodreads.com/book/show/63038735-don-dr-cula)

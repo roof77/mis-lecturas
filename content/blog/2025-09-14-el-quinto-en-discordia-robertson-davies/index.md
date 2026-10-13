@@ -1,5 +1,5 @@
 ---
-title: El quinto en discordia
+title: '#771 · El quinto en discordia'
 summary: Alrededor de la misteriosa muerte del magnate canadiense Boy Staunton se teje la trama de esta novela. La narración
   corre a cargo de Dunstan Ramsay, amigo…
 date: '2025-09-14T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Colegio
 - Club de lectura
 toc: false
+id: 771
 autores:
 - Robertson Davies
 - Valentí Puig
@@ -46,7 +47,7 @@ El quinto en discordia es una muestra de la maestría de Davies para la novela: 
 - **Colaboradores:** [Valentí Puig](/autores/valenti-puig/) (Contributor), [Natalia Cervera](/autores/natalia-cervera/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 360 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493431567 / 9788493431563
 - **Publicación original:** 2006-02-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Canada](/tags/canada/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Literatura canadiense](/tags/literatura-canadiense/), [Colegio](/tags/colegio/), [Club de lectura](/tags/club-de-lectura/)

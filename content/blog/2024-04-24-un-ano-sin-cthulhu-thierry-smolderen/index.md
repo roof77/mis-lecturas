@@ -1,5 +1,5 @@
 ---
-title: Un año sin Cthulhu
+title: '#641 · Un año sin Cthulhu'
 summary: "UN SORPRENDENTE RELATO POP SOBRE JUEGOS DE ROL, ASESINATOS Y LOVECRAFT\r\n\r\nTodos recuerdan la tragedia de Auln-sur-D’Arcq.\
   \ A mediados de los años 80, un grupo…"
 date: '2024-04-24T23:59:59'
@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Fantasía
 - Terror
 toc: false
+id: 641
 autores:
 - Thierry Smolderen
 - Alexandre Clérisse
@@ -39,7 +39,7 @@ Todos recuerdan la tragedia de Auln-sur-D’Arcq. A mediados de los años 80, un
 - **Colaboradores:** [Alexandre Clérisse](/autores/alexandre-clerisse/) (Dibujo)
 - **Editorial:** Norma Editorial 
 - **Formato:** Hardcover, 174 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467951141 / 9788467951141
 - **Publicación original:** 2022-03-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Terror](/tags/terror/)

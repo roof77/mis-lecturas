@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 1
+title: '#901 · Insomniacs After School, vol. 1'
 summary: Ganta, un chico de secundaria, descubre que su compañera Isaki, al igual que él, sufre insomnio. Con ella comienza
   una singular relación al compartir breves…
 date: '2026-07-25T23:59:57'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Novela gráfica
 - Jovenes adultos
@@ -18,6 +17,7 @@ tags:
 - Seinen manga
 - Ficción
 toc: false
+id: 901
 autores:
 - Makoto Ojiro
 - Óscar Tejero
@@ -47,7 +47,7 @@ Uno de cada cinco japoneses sufre perturbaciones del sueño y, entre los adolesc
 - **Colaboradores:** [Óscar Tejero](/autores/oscar-tejero/) (translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418788003 / 9788418788000
 - **Publicación original:** 2021-04-29
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Jovenes adultos](/tags/jovenes-adultos/), [Slice of life](/tags/slice-of-life/), [Contemporaneo](/tags/contemporaneo/), [Seinen manga](/tags/seinen-manga/), [Ficción](/tags/ficcion/)

@@ -1,5 +1,5 @@
 ---
-title: La vida difícil
+title: '#524 · La vida difícil'
 summary: Seguida con gran devoción, sobre todo en Polonia y Alemania, pero también en Francia e Italia, la obra de Slawomir
   Mrozek, formada básicamente por narraciones…
 date: '2022-03-13T23:59:59'
@@ -12,6 +12,7 @@ tags:
 - Humor
 - Relatos
 toc: false
+id: 524
 autores:
 - Sławomir Mrożek
 - Francesc Miravitlles
@@ -37,7 +38,7 @@ Seguida con gran devoción, sobre todo en Polonia y Alemania, pero también en F
 - **Colaboradores:** [Francesc Miravitlles](/autores/francesc-miravitlles/) (Translator), [Bożena Zaboklicka](/autores/bozena-zaboklicka/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8495359863 / 9788495359865
 - **Publicación original:** 2002-07-31
 - **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Relatos](/tags/relatos/)

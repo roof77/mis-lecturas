@@ -1,5 +1,5 @@
 ---
-title: '¿Cuánto bebes?: El alcohol y tu salud'
+title: '#545 · ¿Cuánto bebes?: El alcohol y tu salud'
 summary: Este libro pretende contribuir a que tomes decisiones bien fundamentadas e inteligentes en torno a la bebida. ¿Bebes
   para reducir tu ansiedad? ¿Como válvula…
 date: '2022-06-09T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Autoayuda
 - Comida
 toc: false
+id: 545
 autores:
 - David J. Nutt
 - Ex Estudi
@@ -47,7 +48,7 @@ Al final, tal vez optes por unirte a ese creciente número de personas que decid
 - **Colaboradores:** [Ex Estudi](/autores/ex-estudi/) (Illustrator), [Nemo Edición y Comunicación](/autores/nemo-edicion-y-comunicacion/) (Translator)
 - **Editorial:** Yonki Books
 - **Formato:** Kindle Edition, 360 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412476751 / 9788412476750
 - **Publicación original:** 2022-03-09
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Salud](/tags/salud/), [Ciencia](/tags/ciencia/), [Psicología](/tags/psicologia/), [Alcohol](/tags/alcohol/), [Medicina](/tags/medicina/), [Drogas](/tags/drogas/), [Autoayuda](/tags/autoayuda/), [Comida](/tags/comida/)

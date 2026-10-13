@@ -1,5 +1,5 @@
 ---
-title: Un lugar equivocado
+title: '#754 · Un lugar equivocado'
 summary: Una reunión de viejos compañeros de instituto sirve de excusa y telón de fondo para desarrollar una comedia coral
   en la que los personajes hablan de lo divino…
 date: '2025-06-08T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Arte
 - Contemporaneo
 - Siglo XXI
 - Adultos
 toc: false
+id: 754
 autores:
 - Brecht Evens
 autores_stats:
@@ -38,7 +38,7 @@ Una reunión de viejos compañeros de instituto sirve de excusa y telón de fond
 - **Autor:** [Brecht Evens](/autores/brecht-evens/)
 - **Editorial:** Sins Entido 
 - **Formato:** Paperback, 180 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2011-03-11
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Arte](/tags/arte/), [Contemporaneo](/tags/contemporaneo/), [Siglo XXI](/tags/siglo-xxi/), [Adultos](/tags/adultos/)
 - **Ficha en Goodreads:** [Un lugar equivocado](https://www.goodreads.com/book/show/41416510-un-lugar-equivocado)

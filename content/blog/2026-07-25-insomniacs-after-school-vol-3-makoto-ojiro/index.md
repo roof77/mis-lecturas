@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, Vol. 3
+title: '#903 · Insomniacs After School, Vol. 3'
 summary: "Al menos ya no están solos, se tienen el uno al otro para superar esas noches de soledad y ansiedad...\r\n\r\nEn\
   \ el campamento, tras disfrutar de una noche mágica…"
 date: '2026-07-25T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Slice of life
 - Jovenes adultos
@@ -18,6 +17,7 @@ tags:
 - Seinen manga
 - Contemporaneo
 toc: false
+id: 903
 autores:
 - Makoto Ojiro
 - Óscar Tejero
@@ -45,7 +45,7 @@ En el campamento, tras disfrutar de una noche mágica en la playa, Nakami e Isak
 - **Colaboradores:** [Óscar Tejero](/autores/oscar-tejero/) (translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418788453 / 9788418788451
 - **Publicación original:** 2021-08-31
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Slice of life](/tags/slice-of-life/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Seinen manga](/tags/seinen-manga/), [Contemporaneo](/tags/contemporaneo/)

@@ -1,5 +1,5 @@
 ---
-title: Hierba
+title: '#715 · Hierba'
 summary: 'Hierba es la historia real de una superviviente: Lee Ok-Sun, una joven coreana que durante la Guerra del Pacífico
   fue explotada como «mujer de consuelo», el…'
 date: '2025-03-01T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - No Ficción
 - Historia
 - Memorias
@@ -19,6 +18,7 @@ tags:
 - Ásia
 - Manga
 toc: false
+id: 715
 autores:
 - Keum Suk Gendry-Kim
 - Joo Hasun
@@ -45,7 +45,7 @@ Partiendo de las entrevistas que mantuvo con Lee Ok-Sun en una residencia de anc
 - **Colaboradores:** [Joo Hasun](/autores/joo-hasun/) (Translator)
 - **Editorial:** RESERVOIR BOOKS
 - **Formato:** Kindle Edition, 483 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418897449 / 9788418897443
 - **Publicación original:** 2022-02-24
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Historia](/tags/historia/), [Memorias](/tags/memorias/), [Guerra](/tags/guerra/), [Biografía](/tags/biografia/), [Histórico](/tags/historico/), [Ásia](/tags/asia/), [Manga](/tags/manga/)

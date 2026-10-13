@@ -1,5 +1,5 @@
 ---
-title: Las dos amigas y el envenenamiento
+title: '#45 · Las dos amigas y el envenenamiento'
 summary: Inspirada en un proceso que saltó a las páginas de los periódicos en los años 20 del siglo pasado, Las dos amigas
   y el envenenamiento (publicada por primera…
 date: '2014-06-25T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Queer
 - Ficción histórica
 toc: false
+id: 45
 autores:
 - Alfred Döblin
 - Joan Fontcuberta i Gel
@@ -43,7 +44,7 @@ Inspirada en un proceso que saltó a las páginas de los periódicos en los año
 - **Colaboradores:** [Joan Fontcuberta i Gel](/autores/joan-fontcuberta-i-gel/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 120 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849683414X / 9788496834149
 - **Publicación original:** 2007-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Literatura alemana](/tags/literatura-alemana/), [Clásico](/tags/clasico/), [Psicología](/tags/psicologia/), [LGTBIQ+](/tags/lgtbiq/), [Romance](/tags/romance/), [Adultos](/tags/adultos/), [Queer](/tags/queer/), [Ficción histórica](/tags/ficcion-historica/)

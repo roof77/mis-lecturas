@@ -1,5 +1,5 @@
 ---
-title: Maldita casa encantada
+title: '#634 · Maldita casa encantada'
 summary: Bienvenido a la maldita casa encantada, donde sabes cuándo entras pero no cuándo sales ¿Te atreves a enfrentarte
   a muertos vivientes, vampiros, fantasmas y…
 date: '2024-04-06T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 634
 autores:
 - Artur Laperla
 autores_stats:
@@ -36,7 +36,7 @@ Angélica debe encontrar a su mascota en el interior de una escalofriante mansi�
 - **Autor:** [Artur Laperla](/autores/artur-laperla/)
 - **Editorial:** Sapristi
 - **Formato:** Paperback, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494785281 / 9788494785283
 - **Publicación original:** 2019-05-30
 - **Géneros:** [Comics](/tags/comics/)

@@ -1,5 +1,5 @@
 ---
-title: Como un galgo
+title: '#447 · Como un galgo'
 summary: "Scarlett, Mary, Tansey, Emer. Madres e hijas, abuelas y nietas.\r\nCuatro generaciones, cuatro mujeres de una familia\
   \ irlandesa emprenden un viaje inolvidable al…"
 date: '2020-11-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Muerte
 - Paranormal
 toc: false
+id: 447
 autores:
 - Roddy Doyle
 autores_stats:
@@ -42,7 +43,7 @@ Una novela divertida y entrañable que no te dejará indiferente.
 - **Autor:** [Roddy Doyle](/autores/roddy-doyle/)
 - **Editorial:** Bambú
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483432110 / 9788483432112
 - **Publicación original:** 2013-11-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Fantasmas](/tags/fantasmas/), [Irlanda](/tags/irlanda/), [Niños](/tags/ninos/), [Familia](/tags/familia/), [Muerte](/tags/muerte/), [Paranormal](/tags/paranormal/)

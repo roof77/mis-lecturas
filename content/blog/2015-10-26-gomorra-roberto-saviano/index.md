@@ -1,5 +1,5 @@
 ---
-title: Gomorra
+title: '#147 · Gomorra'
 summary: Roberto Saviano nació en 1979 en Nápoles, donde vivía y trabajaba hasta que en septiembre de 2006 el éxito del libro,
   que cita nombres y lugares, lo ha…
 date: '2015-10-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Periodismo
 - Contemporaneo
 toc: false
+id: 147
 autores:
 - Roberto Saviano
 autores_stats:
@@ -41,7 +42,7 @@ El autor describe minuciosamente métodos y operaciones, revela la manera en que
 - **Autor:** [Roberto Saviano](/autores/roberto-saviano/)
 - **Editorial:** Editorial Sudamericana
 - **Formato:** Paperback, 325 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9875665606 / 9789875665606
 - **Publicación original:** 2010-01-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Crimen](/tags/crimen/), [Italia](/tags/italia/), [Crime real](/tags/crime-real/), [Historia](/tags/historia/), [Literatura italiana](/tags/literatura-italiana/), [Política](/tags/politica/), [Periodismo](/tags/periodismo/), [Contemporaneo](/tags/contemporaneo/)

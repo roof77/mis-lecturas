@@ -1,5 +1,5 @@
 ---
-title: Trilogía sucia de La Habana
+title: '#77 · Trilogía sucia de La Habana'
 summary: Éste es el testimonio de un habanero descreído. Un hombre que regresa extenuado de un largo camino que finalmente
   no lo condujo a sitio alguno. Pero no es…
 date: '2014-10-12T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura latinoamericana
 - Romance
 toc: false
+id: 77
 autores:
 - Pedro Juan Gutiérrez
 autores_stats:
@@ -44,7 +45,7 @@ Escrita con un ritmo implacable, a medio camino entre la exuberancia tropical y 
 - **Serie:** Centro Havana
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 359 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433976893 / 9788433976895
 - **Publicación original:** 2016-02-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [Latino américa](/tags/latino-america/), [Literatura hispana](/tags/literatura-hispana/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Siglo XX](/tags/siglo-xx/), [Literatura latinoamericana](/tags/literatura-latinoamericana/), [Romance](/tags/romance/)

@@ -1,5 +1,5 @@
 ---
-title: Derribos Arias. Licencia para aberrar
+title: '#170 · Derribos Arias. Licencia para aberrar'
 summary: Desde Donostia, poseídos por una voluntad iconoclasta inédita en un panorama musical, el español, que despertaba
   a la modernidad con los titubeos del inexperto…
 date: '2016-01-20T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 170
 autores:
 - Carlos Rego
 autores_stats:
@@ -33,7 +34,7 @@ Desde sus inicios como La Banda sin Futuro hasta la disolución del grupo y la d
 - **Autor:** [Carlos Rego](/autores/carlos-rego/)
 - **Editorial:** 66rpm
 - **Formato:** Paperback, 141 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849436216X / 9788494362163
 - **Publicación original:** 2015-11-01
 - **Ficha en Goodreads:** [Derribos Arias. Licencia para aberrar](https://www.goodreads.com/book/show/28618687-derribos-arias-licencia-para-aberrar)

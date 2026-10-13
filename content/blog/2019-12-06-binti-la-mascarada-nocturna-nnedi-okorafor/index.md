@@ -1,5 +1,5 @@
 ---
-title: Binti. La Mascarada Nocturna
+title: '#417 · Binti. La Mascarada Nocturna'
 summary: Binti, que había vuelto a su planeta pensando que el conflicto entre medusas y khoush había concluido, verá cómo
   las llamas de una vieja rivalidad se avivan de…
 date: '2019-12-06T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Extraterrestres
 - Adultos
 toc: false
+id: 417
 autores:
 - Nnedi Okorafor
 - Carla Bataller Estruch
@@ -45,7 +46,7 @@ Lejos de su hogar cuando comienza la batalla, Binti viajará a contrarreloj entr
 - **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (Translator)
 - **Editorial:** Crononauta
 - **Formato:** Paperback, 266 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412059913 / 9788412059915
 - **Publicación original:** 2019-10-10
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Novella](/tags/novella/), [Jovenes adultos](/tags/jovenes-adultos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [África](/tags/africa/), [Extraterrestres](/tags/extraterrestres/), [Adultos](/tags/adultos/)

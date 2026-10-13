@@ -1,5 +1,5 @@
 ---
-title: Cómo ser mujer
+title: '#23 · Cómo ser mujer'
 summary: 'No hubo nunca mejor época que ésta para ser mujer: tenemos el voto y la píldora, y desde 1727 ya no nos envían a
   la hoguera por brujas. Pero, ¿cómo ser mujer?…'
 date: '2014-03-26T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Mujeres
 - Ensayo
 toc: false
+id: 23
 autores:
 - Caitlin Moran
 - Marta Salís
@@ -43,7 +44,7 @@ Así, alternando provocativas observaciones sobre la vida de las mujeres con his
 - **Colaboradores:** [Marta Salís](/autores/marta-salis/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 354 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433978705 / 9788433978707
 - **Publicación original:** 2013-06-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Memorias](/tags/memorias/), [Humor](/tags/humor/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Mujeres](/tags/mujeres/), [Ensayo](/tags/ensayo/)

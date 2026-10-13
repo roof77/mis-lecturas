@@ -1,5 +1,5 @@
 ---
-title: La última noche
+title: '#490 · La última noche'
 summary: Cada otoño, Deja y Josiah trabajan juntos en la Feria de la Calabaza más alucinante del mundo. Se despiden en Halloween
   y se reúnen el 1 de septiembre del año…
 date: '2021-09-16T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Jovenes adultos
 - Romance
 - Contemporaneo
@@ -18,6 +17,7 @@ tags:
 - Halloween
 - Queer
 toc: false
+id: 490
 autores:
 - Rainbow Rowell
 - Faith Erin Hicks
@@ -42,7 +42,7 @@ Cada otoño, Deja y Josiah trabajan juntos en la Feria de la Calabaza más aluci
 - **Colaboradores:** [Faith Erin Hicks](/autores/faith-erin-hicks/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420453382 / 9788420453385
 - **Publicación original:** 2019-11-21
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Halloween](/tags/halloween/), [Queer](/tags/queer/)

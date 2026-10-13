@@ -1,5 +1,5 @@
 ---
-title: '¡No solo somos padres!: Un antimanual para ser padres y no perder la cabeza'
+title: '#406 · ¡No solo somos padres!: Un antimanual para ser padres y no perder la cabeza'
 summary: '«Tener hijos es algo natural y no un máster en gilipollez humana.»
 
 
@@ -11,6 +11,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 406
 autores:
 - Los Prieto Flores
 autores_stats:
@@ -39,7 +40,7 @@ Buenos días, buenas tardes y buenas noches, somos Los Prieto Flores y hemos cri
 - **Autor:** [Los Prieto Flores](/autores/los-prieto-flores/)
 - **Editorial:** EDICIONES B
 - **Formato:** Kindle Edition, 151 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417001999 / 9788417001995
 - **Publicación original:** 2019-05-16
 - **Ficha en Goodreads:** [¡No solo somos padres!: Un antimanual para ser padres y no perder la cabeza](https://www.goodreads.com/book/show/46114664-no-solo-somos-padres)

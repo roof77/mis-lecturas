@@ -1,5 +1,5 @@
 ---
-title: Aunque ya supiera el final
+title: '#687 · Aunque ya supiera el final'
 summary: Ganadora del premio Nebula y finalista de los premios Locus, Hugo, Ignyte y World Fantasy. En el Chicago de los años
   40 tienen cabida los pactos demoníacos…
 date: '2024-10-17T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Histórico
 - Ficción
 toc: false
+id: 687
 autores:
 - C.L. Polk
 - Carla Bataller Estruch
@@ -43,7 +44,7 @@ Ganadora del premio Nebula y finalista de los premios Locus, Hugo, Ignyte y Worl
 - **Colaboradores:** [Carla Bataller Estruch](/autores/carla-bataller-estruch/) (translator)
 - **Editorial:** Duermevela Ediciones
 - **Formato:** Kindle Edition, 165 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412890639 / 9788412890631
 - **Publicación original:** 2024-09-18
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción histórica](/tags/ficcion-historica/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Misterio](/tags/misterio/), [Romance](/tags/romance/), [Lesbianismo](/tags/lesbianismo/), [Novella](/tags/novella/), [Histórico](/tags/historico/), [Ficción](/tags/ficcion/)

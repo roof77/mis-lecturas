@@ -1,5 +1,5 @@
 ---
-title: El motel del voyeur
+title: '#429 · El motel del voyeur'
 summary: "El esperado y controvertido libro del «maestro del periodismo»: una historia increíble y real que abre un debate\
   \ ético.\r\n\r\nPoco antes de la publicación de La…"
 date: '2020-05-01T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Club de lectura
 - Ensayo
 toc: false
+id: 429
 autores:
 - Gay Talese
 autores_stats:
@@ -47,7 +48,7 @@ Hoy, treinta y seis años más tarde, Foos está listo para hacerla pública y T
 - **Autor:** [Gay Talese](/autores/gay-talese/)
 - **Editorial:** Alfaguara
 - **Formato:** Kindle Edition, 229 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420426644 / 9788420426648
 - **Publicación original:** 2017-01-12
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Crime real](/tags/crime-real/), [Periodismo](/tags/periodismo/), [Biografía](/tags/biografia/), [Crimen](/tags/crimen/), [Psicología](/tags/psicologia/), [Sexualidad](/tags/sexualidad/), [Historia](/tags/historia/), [Club de lectura](/tags/club-de-lectura/), [Ensayo](/tags/ensayo/)

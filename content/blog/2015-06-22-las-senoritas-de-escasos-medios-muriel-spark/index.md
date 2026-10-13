@@ -1,5 +1,5 @@
 ---
-title: Las señoritas de escasos medios
+title: '#118 · Las señoritas de escasos medios'
 summary: Ambientada en las ruinas de Londres durante la difícil primavera y el verano indigente de 1945, recién acabada la
   Segunda Guerra Mundial, Las señoritas de…
 date: '2015-06-22T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novella
 - Literatura
 toc: false
+id: 118
 autores:
 - Muriel Spark
 - Gabriela Bustelo
@@ -42,7 +43,7 @@ Ambientada en las ruinas de Londres durante la difícil primavera y el verano in
 - **Colaboradores:** [Gabriela Bustelo](/autores/gabriela-bustelo/) (Translation)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 182 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415130058 / 9788415130055
 - **Publicación original:** 2011-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Literatura británica](/tags/literatura-britanica/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Novella](/tags/novella/), [Literatura](/tags/literatura/)

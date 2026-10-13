@@ -1,5 +1,5 @@
 ---
-title: Harry Potter y la cámara secreta
+title: '#217 · Harry Potter y la cámara secreta'
 summary: Tras derrotar una vez más a lord Voldemort, su siniestro enemigo en Harry Potter y la piedra filosofal, Harry espera
   impacientemente en casa de sus…
 date: '2016-12-02T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Aventuras
 - Clásico
 toc: false
+id: 217
 autores:
 - J.K. Rowling
 - Adolfo Muñoz García
@@ -43,7 +44,7 @@ Tras derrotar una vez más a lord Voldemort, su siniestro enemigo en Harry Potte
 - **Colaboradores:** [Adolfo Muñoz García](/autores/adolfo-munoz-garcia/) (Translator), [Nieves Martín Azofra](/autores/nieves-martin-azofra/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 286 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 1999-10-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)
 - **Personajes:** Ron Weasley, Petunia Dursley, Vernon Dursley, Dudley Dursley, Severus Snape, Rubeus Hagrid, Lord Voldemort, Minerva McGonagall, Neville Longbottom, Fred Weasley

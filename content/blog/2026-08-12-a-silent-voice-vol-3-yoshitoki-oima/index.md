@@ -1,5 +1,5 @@
 ---
-title: A Silent Voice, vol. 3
+title: '#923 · A Silent Voice, vol. 3'
 summary: "\"¿Acaso tengo miedo de acercarme a Nishimiya?\"\r\n\r\nShôya decide seguir viviendo para devolverle a Shôko la\
   \ felicidad que le arrebató. Por ella, volverá a…"
 date: '2026-08-12T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Jovenes adultos
 - Novela gráfica
@@ -19,6 +18,7 @@ tags:
 - Drama
 - Shonen
 toc: false
+id: 923
 autores:
 - Yoshitoki Oima
 autores_stats:
@@ -44,7 +44,7 @@ Shôya decide seguir viviendo para devolverle a Shôko la felicidad que le arreb
 - **Serie:** 聲の形 [Koe no Katachi] (#3)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494406469 / 9788494406461
 - **Publicación original:** 2015-06-26
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Drama](/tags/drama/), [Shonen](/tags/shonen/)

@@ -1,5 +1,5 @@
 ---
-title: El árbol del ahorcado y otros relatos de la Frontera
+title: '#14 · El árbol del ahorcado y otros relatos de la Frontera'
 summary: Tras la buena acogida de Indian Country, primer volumen de relatos de Dorothy M. Johnson y número uno de la colección
   Frontera, el catálogo de la colección se…
 date: '2014-02-20T23:59:59'
@@ -15,6 +15,7 @@ tags:
 - Ficción histórica
 - Novela
 toc: false
+id: 14
 autores:
 - Dorothy M. Johnson
 autores_stats:
@@ -38,7 +39,7 @@ Los relatos que componen el presente volumen fueron publicados por vez primera e
 - **Autor:** [Dorothy M. Johnson](/autores/dorothy-m-johnson/)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477027544 / 9788477027546
 - **Publicación original:** 2013-01-01
 - **Géneros:** [Oeste](/tags/oeste/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Clásico](/tags/clasico/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/)

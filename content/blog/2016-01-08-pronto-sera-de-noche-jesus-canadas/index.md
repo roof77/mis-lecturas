@@ -1,5 +1,5 @@
 ---
-title: Pronto será de noche
+title: '#166 · Pronto será de noche'
 summary: '"Pronto será de noche, pero no habrá diferencia. El cielo seguirá teniendo ese color incómodo. El fuego que baila
   en las ventanas sacará a la ciudad de su…'
 date: '2016-01-08T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Terror
 - Literatura hispana
 toc: false
+id: 166
 autores:
 - Jesús Cañadas
 autores_stats:
@@ -41,7 +42,7 @@ Así que vamos, vuélvete a tu coche. Acurrúcate en el asiento. Cierra por dent
 - **Autor:** [Jesús Cañadas](/autores/jesus-canadas/)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 847702801X / 9788477028017
 - **Publicación original:** 2015-05-27
 - **Géneros:** [Terror](/tags/terror/), [Literatura hispana](/tags/literatura-hispana/)

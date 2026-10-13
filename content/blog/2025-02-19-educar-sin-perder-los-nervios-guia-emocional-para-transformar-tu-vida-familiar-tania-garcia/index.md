@@ -1,5 +1,5 @@
 ---
-title: 'Educar sin perder los nervios: Guía emocional para transformar tu vida familiar'
+title: '#711 · Educar sin perder los nervios: Guía emocional para transformar tu vida familiar'
 summary: 'La guía emocional para transformar tu vida familiar con respeto y empatía.
 
 
@@ -12,6 +12,7 @@ tags:
 - Libros
 - Paternidad
 toc: false
+id: 711
 autores:
 - Tania García
 autores_stats:
@@ -38,7 +39,7 @@ La guía emocional para transformar tu vida familiar con respeto y empatía.
 - **Autor:** [Tania García](/autores/tania-garcia/)
 - **Editorial:** VERGARA
 - **Formato:** Kindle Edition, 391 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416076995 / 9788416076994
 - **Publicación original:** 2019-01-17
 - **Géneros:** [Paternidad](/tags/paternidad/)

@@ -1,5 +1,5 @@
 ---
-title: Calle de la Estación, 120
+title: '#51 · Calle de la Estación, 120'
 summary: The first Nestor Burma mystery. Translated from the French. Cover photo by Robert Doisneau.
 date: '2014-07-09T23:59:59'
 authors:
@@ -17,6 +17,7 @@ tags:
 - Literatura francesa
 - Detectives
 toc: false
+id: 51
 autores:
 - Léo Malet
 - Luisa Feliu
@@ -41,7 +42,7 @@ The first Nestor Burma mystery. Translated from the French. Cover photo by Rober
 - **Colaboradores:** [Luisa Feliu](/autores/luisa-feliu/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 248 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492663146 / 9788492663149
 - **Publicación original:** 2009-02-01
 - **Géneros:** [Noir](/tags/noir/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Thriller](/tags/thriller/), [Internacional](/tags/internacional/), [Literatura francesa](/tags/literatura-francesa/), [Detectives](/tags/detectives/)

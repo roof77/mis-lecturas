@@ -1,5 +1,5 @@
 ---
-title: Viajes con Charley en busca de Estados Unidos
+title: '#63 · Viajes con Charley en busca de Estados Unidos'
 summary: «Mi plan era claro, conciso y razonable, creo yo. He viajado por diversas partes del mundo durante muchos años. En
   Estados Unidos vivo en Nueva York, o me voy…
 date: '2014-08-29T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Literatura
 - EEUU
 toc: false
+id: 63
 autores:
 - John Steinbeck
 - José Manuel Álvarez Flórez
@@ -43,7 +44,7 @@ En 1960, Steinbeck, acompañado por su perro Charley, recorrió más de 16.000 k
 - **Colaboradores:** [José Manuel Álvarez Flórez](/autores/jose-manuel-alvarez-florez/) (Translator)
 - **Editorial:** Nórdica
 - **Formato:** Paperback, 292 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416112290 / 9788416112296
 - **Publicación original:** 2014-06-10
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Viajes](/tags/viajes/), [Clásico](/tags/clasico/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/)

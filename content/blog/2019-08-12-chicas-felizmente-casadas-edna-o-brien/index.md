@@ -1,5 +1,5 @@
 ---
-title: Chicas felizmente casadas
+title: '#400 · Chicas felizmente casadas'
 summary: A mitad de los años cincuenta del siglo pasado, Kate y Baba, dos amigas tan distintas como complementarias, vivieron
   su infancia en los bellos paisajes rurales…
 date: '2019-08-12T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Siglo XX
 - Clásicos modernos
 toc: false
+id: 400
 autores:
 - Edna O'Brien
 - Regina López Muñoz
@@ -44,7 +45,7 @@ A mitad de los años cincuenta del siglo pasado, Kate y Baba, dos amigas tan dis
 - **Colaboradores:** [Regina López Muñoz](/autores/regina-lopez-munoz/) (Translator)
 - **Editorial:** Errata Naturae
 - **Formato:** Paperback, 272 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415217854 / 9788415217855
 - **Publicación original:** 2015-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Clásico](/tags/clasico/), [Novela](/tags/novela/), [Mujeres](/tags/mujeres/), [Ficción Literaria](/tags/ficcion-literaria/), [Amistad](/tags/amistad/), [Siglo XX](/tags/siglo-xx/), [Clásicos modernos](/tags/clasicos-modernos/)

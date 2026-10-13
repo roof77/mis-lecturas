@@ -1,5 +1,5 @@
 ---
-title: A Silent Voice, vol. 1
+title: '#920 · A Silent Voice, vol. 1'
 summary: "\"Shôko Nishimiya... Odiaba tanto a esa chica.\"\r\n\r\nLa diversión y la aventura son el lema de Shôya Ishida,\
   \ un chico capaz de cualquier cosa con tal de vencer el…"
 date: '2026-08-10T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Jovenes adultos
 - Romance
@@ -18,6 +17,7 @@ tags:
 - Slice of life
 - Drama
 toc: false
+id: 920
 autores:
 - Yoshitoki Oima
 autores_stats:
@@ -43,7 +43,7 @@ La diversión y la aventura son el lema de Shôya Ishida, un chico capaz de cual
 - **Serie:** 聲の形 [Koe no Katachi] (#1)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494354019 / 9788494354014
 - **Publicación original:** 2015-02-27
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Drama](/tags/drama/)

@@ -1,5 +1,5 @@
 ---
-title: Con el traje de los domingos
+title: '#275 · Con el traje de los domingos'
 summary: George Verrey-Smith es un hombre de cuarenta y dos años, casado desde hace diecisiete con una mujer llamada Joy.
   Todos los domingos sube a su estudio, se…
 date: '2017-11-07T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Literatura británica
 toc: false
+id: 275
 autores:
 - Bernice Rubens
 - Íñigo Fernández Fernández-Lomana
@@ -36,7 +37,7 @@ la policía lo buscará como sospechoso de un asesinato.
 - **Colaboradores:** [Íñigo Fernández Fernández-Lomana](/autores/inigo-fernandez-fernandez-lomana/) (Translator)
 - **Editorial:** Alba
 - **Formato:** Paperback, 312 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490653453 / 9788490653456
 - **Publicación original:** 2017-10-01
 - **Géneros:** [Literatura británica](/tags/literatura-britanica/)

@@ -1,5 +1,5 @@
 ---
-title: 'Odio Vol. 2: La pesadilla del sueno Americano!'
+title: '#837 · Odio Vol. 2: La pesadilla del sueno Americano!'
 summary: 'ODIO (HATE): 1991 HARVEY WINNER Best Cartoonist, Best New Series The bestselling alternative comic of the 1990’s,
   Odio (Hate) chronicles the misadventures…'
 date: '2026-05-12T23:59:58'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 837
 autores:
 - Peter Bagge
 autores_stats:
@@ -32,7 +32,7 @@ ODIO (HATE): 1991 HARVEY WINNER Best Cartoonist, Best New Series The bestselling
 - **Serie:** Odio: Hate (#2)
 - **Editorial:** UNKNO
 - **Formato:** Paperback
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1594971293 / 9781594971297
 - **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Odio Vol. 2: La pesadilla del sueno Americano!](https://www.goodreads.com/book/show/1098703.Odio_Vol_2)

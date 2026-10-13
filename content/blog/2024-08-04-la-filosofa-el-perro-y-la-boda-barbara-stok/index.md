@@ -1,5 +1,5 @@
 ---
-title: La filósofa, el perro y la boda
+title: '#677 · La filósofa, el perro y la boda'
 summary: Una novela gráfica que nos descubre a la brillanteHiparquía, figura imprescindible de la Antigüedad clásica. Una
   celebración del poder y la vigencia de la…
 date: '2024-08-04T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Filosofía
 - Historia
 - No Ficción
@@ -17,6 +16,7 @@ tags:
 - Feminismo
 - Histórico
 toc: false
+id: 677
 autores:
 - Barbara Stok
 autores_stats:
@@ -47,7 +47,7 @@ La crítica ha «Un libro extremadamente logrado e interesante, que inspira la l
 - **Autor:** [Barbara Stok](/autores/barbara-stok/)
 - **Editorial:** SALAMANDRA GRAPHIC
 - **Formato:** Kindle Edition, 299 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418621508 / 9788418621505
 - **Publicación original:** 2023-02-16
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Filosofía](/tags/filosofia/), [Historia](/tags/historia/), [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Feminismo](/tags/feminismo/), [Histórico](/tags/historico/)

@@ -1,5 +1,5 @@
 ---
-title: Desde el jergón
+title: '#880 · Desde el jergón'
 summary: Reseña de lectura de «Desde el jergón».
 date: '2026-07-02T23:59:59'
 authors:
@@ -8,6 +8,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 880
 autores:
 - Josele Santiago
 - Miqui Otero Díaz
@@ -29,7 +30,7 @@ nota: Muy recomendable
 - **Colaboradores:** [Miqui Otero Díaz](/autores/miqui-otero-diaz/) (Contributor), [Carles Murillo Vila](/autores/carles-murillo-vila/) (Cover Art)
 - **Editorial:** CONTRA
 - **Formato:** Paperback, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2026-02-25
 - **Ficha en Goodreads:** [Desde el jergón](https://www.goodreads.com/book/show/247055606-desde-el-jerg-n)
 

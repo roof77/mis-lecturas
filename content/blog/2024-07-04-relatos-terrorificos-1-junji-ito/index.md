@@ -1,5 +1,5 @@
 ---
-title: Relatos terroríficos 1
+title: '#663 · Relatos terroríficos 1'
 summary: Con este tomo iniciamos la colección Relatos terroríficos, destinada a conformar toda una biblioteca integrada por
   las historias que han hecho a Junji Ito…
 date: '2024-07-04T23:59:59'
@@ -9,9 +9,9 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Terror
 toc: false
+id: 663
 autores:
 - Junji Ito
 autores_stats:
@@ -37,7 +37,7 @@ Sobradamente conocido gracias a obras como Uzumaki, Black Paradox o Gyo, Junji I
 - **Serie:** Relatos terroríficos (#1)
 - **Editorial:** ECC
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841674629X / 9788416746293
 - **Publicación original:** 2016-08-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Terror](/tags/terror/)

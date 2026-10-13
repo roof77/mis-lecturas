@@ -1,5 +1,5 @@
 ---
-title: Por qué no soy feminista. Un manifiesto feminista
+title: '#285 · Por qué no soy feminista. Un manifiesto feminista'
 summary: Jessa Crispin cree que, en algún momento de su trayectoria, el movimiento de liberación de la mujer sacrificó sus
   principales objetivos a cambio de lograr…
 date: '2018-01-09T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Contemporaneo
 - Sociología
 toc: false
+id: 285
 autores:
 - Jessa Crispin
 autores_stats:
@@ -42,7 +43,7 @@ Vivimos en un mundo corrupto diseñado por el patriarcado para subyugar, control
 - **Autor:** [Jessa Crispin](/autores/jessa-crispin/)
 - **Editorial:** Lince Ediciones
 - **Formato:** Paperback, 124 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415070977 / 9788415070979
 - **Publicación original:** 2017-10-01
 - **Géneros:** [Feminismo](/tags/feminismo/), [No Ficción](/tags/no-ficcion/), [Política](/tags/politica/), [Ensayo](/tags/ensayo/), [Filosofía](/tags/filosofia/), [Mujeres](/tags/mujeres/), [Género](/tags/genero/), [Contemporaneo](/tags/contemporaneo/), [Sociología](/tags/sociologia/)

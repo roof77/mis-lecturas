@@ -1,5 +1,5 @@
 ---
-title: Lolito
+title: '#31 · Lolito'
 summary: "She's online.\r\n'I booked a hotel,' I say. 'Near Marble Arch.'\r\n'That sounds great, hon. I can't wait to see\
   \ you.'\r\n'Yeah. Me too.'\r\n'I'm vaguely…"
 date: '2014-04-29T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura británica
 - Novela
 toc: false
+id: 31
 autores:
 - Ben Brooks
 autores_stats:

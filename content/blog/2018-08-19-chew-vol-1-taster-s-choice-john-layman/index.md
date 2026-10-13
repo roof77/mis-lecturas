@@ -1,5 +1,5 @@
 ---
-title: 'Chew, Vol. 1: Taster''s Choice'
+title: '#329 · Chew, Vol. 1: Taster''s Choice'
 summary: Tony Chu is a detective with a secret. A weird secret. Tony Chu is Cibopathic, which means he gets psychic impressions
   from whatever he eats. It also means…
 date: '2018-08-19T23:59:54'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Misterio
 - Fantasía
@@ -17,6 +16,7 @@ tags:
 - Terror
 - Humor
 toc: false
+id: 329
 autores:
 - John Layman
 - Rob Guillory

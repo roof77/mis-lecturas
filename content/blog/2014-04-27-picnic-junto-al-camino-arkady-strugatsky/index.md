@@ -1,5 +1,5 @@
 ---
-title: Pícnic junto al camino
+title: '#29 · Pícnic junto al camino'
 summary: La fugaz visita de naves extraterrestres ha dejado misteriosos desperdicios fruto del insólito pícnic junto al camino
   de unos seres absolutamente…
 date: '2014-04-27T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Club de lectura
 toc: false
+id: 29
 autores:
 - Arkady Strugatsky
 - Boris Strugatsky
@@ -48,7 +49,7 @@ Los hermanos Strugatski -Arkadi, el mayor, filólogo especializado en lenguas or
 - **Colaboradores:** [Boris Strugatsky](/autores/boris-strugatsky/) (Author), [Miquel Barceló](/autores/miquel-barcelo/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Paperback, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788466605151
 - **Publicación original:** 2001-07-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Rusia](/tags/rusia/), [Clásico](/tags/clasico/), [Distopía](/tags/distopia/), [Literatura rusa](/tags/literatura-rusa/), [Fantasía](/tags/fantasia/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/)

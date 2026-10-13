@@ -1,5 +1,5 @@
 ---
-title: Paciencia
+title: '#227 · Paciencia'
 summary: Paciencia significa el regreso del autor más influyente de las últimas décadas, tras más de cinco años de silencio.
   El multipremiado autor de Ghost World y…
 date: '2017-01-06T23:59:59'
@@ -9,12 +9,12 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Ciencia ficción
 - Viaje en el tiempo
 - Romance
 toc: false
+id: 227
 autores:
 - Daniel Clowes
 autores_stats:
@@ -41,7 +41,7 @@ Pero Paciencia es también una obra significativamente distinta de sus anteriore
 - **Autor:** [Daniel Clowes](/autores/daniel-clowes/)
 - **Editorial:** Fulgencio Pimentel
 - **Formato:** Hardcover, 180 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416167303 / 9788416167302
 - **Publicación original:** 2016-02-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Romance](/tags/romance/)

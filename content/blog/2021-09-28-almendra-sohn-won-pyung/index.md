@@ -1,5 +1,5 @@
 ---
-title: Almendra
+title: '#496 · Almendra'
 summary: "Almendra es una historia sobre crecer, descubrirse a uno mismo y aceptar que la ayuda no siempre viene por donde\
   \ la esperamos. \r\n\r\nYunjae tiene dieciséis años…"
 date: '2021-09-28T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ásia
 - Club de lectura
 toc: false
+id: 496
 autores:
 - Sohn Won-Pyung
 - Sunme Yoon
@@ -50,7 +51,7 @@ Una novela breve y lacerante en la que solo la empatía puede llevar a la espera
 - **Colaboradores:** [Sunme Yoon](/autores/sunme-yoon/) (Translator)
 - **Editorial:** Temas de hoy
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8499987915 / 9788499987910
 - **Publicación original:** 2020-03-03
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción Literaria](/tags/ficcion-literaria/), [Salud mentál](/tags/salud-mental/), [Literatura asiática](/tags/literatura-asiatica/), [Coming of age](/tags/coming-of-age/), [Ásia](/tags/asia/), [Club de lectura](/tags/club-de-lectura/)

@@ -1,5 +1,5 @@
 ---
-title: Elantris
+title: '#134 · Elantris'
 summary: Brandon Sanderson debutó en 2006 ante los lectores en castellano con Elantris, una novela de fantasía épica que marcó
   un auténtico hito. Cuando se cumple el…
 date: '2015-08-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ciencia Ficción
 - Ciencia ficción
 toc: false
+id: 134
 autores:
 - Brandon Sanderson
 - Rafael Marín Trechera
@@ -47,7 +48,7 @@ Bienvenidos a la ciudad de Elantris, la poderosa y bella capital de Arelon llama
 - **Colaboradores:** [Rafael Marín Trechera](/autores/rafael-marin-trechera/) (Translator)
 - **Editorial:** Nova
 - **Formato:** Hardcover, 794 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 846665884X / 9788466658843
 - **Publicación original:** 2016-04-13
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Alta fantasía](/tags/alta-fantasia/), [Fantasía épica](/tags/fantasia-epica/), [Adultos](/tags/adultos/), [Mágia](/tags/magia/), [Romance](/tags/romance/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/)

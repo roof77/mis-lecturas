@@ -1,5 +1,5 @@
 ---
-title: Las doncellas de óxido
+title: '#511 · Las doncellas de óxido'
 summary: Verano de 1980 en Cleveland, Ohio. Phoebe Shaw, y su prima y mejor amiga, Jacqueline, acaban de graduarse en la escuela
   de secundaria en medio de un futuro del…
 date: '2021-12-22T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Histórico
 - Paranormal
 toc: false
+id: 511
 autores:
 - Gwendolyn Kiste
 - Antonio Torrubia
@@ -57,7 +58,7 @@ Elegido uno de los mejores libros del año por The Horror Fiction Review, Glenn 
 - **Colaboradores:** [Antonio Torrubia](/autores/antonio-torrubia/) (Prólogo), [Silvia Broome](/autores/silvia-broome/) (Postfacio), [Juan Alberto Hernández](/autores/juan-alberto-hernandez/) (Illustrator), [José Ángel de Dios](/autores/jose-angel-de-dios/) (Translator)
 - **Editorial:** Dilatando Mentes
 - **Formato:** Paperback, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412102355 / 9788412102352
 - **Publicación original:** 2020-04-01
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Gótico](/tags/gotico/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Histórico](/tags/historico/), [Paranormal](/tags/paranormal/)

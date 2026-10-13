@@ -1,5 +1,5 @@
 ---
-title: A Silent Voice, vol. 4
+title: '#924 · A Silent Voice, vol. 4'
 summary: "\"Quiérete a ti misma\"\r\n\r\nShôko Nishimiya es una chica sorda que después de varios años se reencuentra con\
   \ Shôya, un antiguo compañero de clase. Su círculo de…"
 date: '2026-08-14T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Jovenes adultos
 - Novela gráfica
@@ -19,6 +18,7 @@ tags:
 - Drama
 - Shonen
 toc: false
+id: 924
 autores:
 - Yoshitoki Oima
 autores_stats:
@@ -44,7 +44,7 @@ Shôko Nishimiya es una chica sorda que después de varios años se reencuentra 
 - **Serie:** 聲の形 [Koe no Katachi] (#4)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494429639 / 9788494429637
 - **Publicación original:** 2015-08-25
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Jovenes adultos](/tags/jovenes-adultos/), [Novela gráfica](/tags/novela-grafica/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Slice of life](/tags/slice-of-life/), [Drama](/tags/drama/), [Shonen](/tags/shonen/)

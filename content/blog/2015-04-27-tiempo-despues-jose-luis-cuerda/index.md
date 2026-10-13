@@ -1,5 +1,5 @@
 ---
-title: Tiempo después
+title: '#108 · Tiempo después'
 summary: Como ya se sabe a estas alturas, el mundo entero se ha visto reducido a un solo edificio y unas afueras. Tal cual.
   Y se ha llegado al año 9177 tan a trancas y…
 date: '2015-04-27T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 108
 autores:
 - José Luis Cuerda
 autores_stats:
@@ -36,7 +37,7 @@ Los demás personajes, por decenas, tejen una urdimbre, o población humana, en 
 - **Autor:** [José Luis Cuerda](/autores/jose-luis-cuerda/)
 - **Editorial:** Pepitas de Calabaza
 - **Formato:** Paperback, 141 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2015-04-01
 - **Ficha en Goodreads:** [Tiempo después](https://www.goodreads.com/book/show/25438440-tiempo-despu-s)
 

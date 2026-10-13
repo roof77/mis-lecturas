@@ -1,5 +1,5 @@
 ---
-title: La mucama de Omicunlé
+title: '#172 · La mucama de Omicunlé'
 summary: Esta apabullante novela, que supone la consagración de Rita Indiana como narradora, tiene tantas capas de lectura
   y tantos giros fascinantes que rehuye toda…
 date: '2016-01-24T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Novella
 - Ciencia Ficción
 toc: false
+id: 172
 autores:
 - Rita Indiana
 autores_stats:
@@ -44,7 +45,7 @@ Ya lo decíamos al principio: apabullante.
 - **Autor:** [Rita Indiana](/autores/rita-indiana/)
 - **Editorial:** Periférica
 - **Formato:** Paperback, 181 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2015-04-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Fantasía](/tags/fantasia/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Distopía](/tags/distopia/), [Cambio climático](/tags/cambio-climatico/), [Novella](/tags/novella/), [Ciencia Ficción](/tags/ciencia-ficcion/)
 - **Nominaciones:** BTBA Best Translated Book Award (2020)

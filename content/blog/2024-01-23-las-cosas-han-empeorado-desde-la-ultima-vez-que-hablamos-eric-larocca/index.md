@@ -1,5 +1,5 @@
 ---
-title: Las cosas han empeorado desde la última vez que hablamos
+title: '#617 · Las cosas han empeorado desde la última vez que hablamos'
 summary: "¿Qué has hecho hoy para merecer tus ojos?\r\n\r\nUn torbellino de oscuridad se agita en los entresijos de un macabro\
   \ cortejo entre dos jóvenes solitarias en un…"
 date: '2024-01-23T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Lesbianismo
 - Contemporaneo
 toc: false
+id: 617
 autores:
 - Eric LaRocca
 - José Ángel de Dios
@@ -56,7 +57,7 @@ Tres oscuras y perturbadoras historias de terror de una nueva y sorprendente voz
 - **Colaboradores:** [José Ángel de Dios](/autores/jose-angel-de-dios/) (translator), [Raúl Ruiz](/autores/raul-ruiz/) (illustrator), [Maria Teresa Aranda Morata](/autores/maria-teresa-aranda-morata/) (editor)
 - **Editorial:** Dilatando Mentes
 - **Formato:** Board book, 268 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2022-10-25
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Novella](/tags/novella/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Relatos](/tags/relatos/), [Lesbianismo](/tags/lesbianismo/), [Contemporaneo](/tags/contemporaneo/)
 - **Nominaciones:** Bram Stoker Award (2021)

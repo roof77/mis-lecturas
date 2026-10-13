@@ -1,5 +1,5 @@
 ---
-title: Trampa 22
+title: '#37 · Trampa 22'
 summary: La acción se desarrolla durante los últimos meses de la Segunda Guerra Mundial y se centra en una escuadrilla de
   bombarderos estadounidense. El coronel…
 date: '2014-06-03T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Club de lectura
 - Histórico
 toc: false
+id: 37
 autores:
 - Joseph Heller
 - Flora Casas
@@ -46,7 +47,7 @@ Con una lógica siniestra, Yossarian, un piloto subordinado de Cathcart que inte
 - **Colaboradores:** [Flora Casas](/autores/flora-casas/) (Translator)
 - **Editorial:** RBA Bolsillo
 - **Formato:** Paperback, 656 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478718591 / 9788478718597
 - **Publicación original:** 2007-01-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Guerra](/tags/guerra/), [Humor](/tags/humor/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Sátira](/tags/satira/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/)

@@ -1,5 +1,5 @@
 ---
-title: Niña, mujer, otras
+title: '#572 · Niña, mujer, otras'
 summary: Un estilo literario rompedor a caballo entre la poesía y la prosa que la autora define como "literatura fusión".
   Un texto escrito al margen de las convenciones…
 date: '2022-12-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Relatos
 - Raza
 toc: false
+id: 572
 autores:
 - Bernardine Evaristo
 - Julia Osuna Aguilar
@@ -46,7 +47,7 @@ De Newcastle a Cornualles, desde principio del siglo veinte hasta las adolescent
 - **Colaboradores:** [Julia Osuna Aguilar](/autores/julia-osuna-aguilar/) (Translator)
 - **Editorial:** Alianza Editorial
 - **Formato:** Paperback, 496 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491818138 / 9788491818137
 - **Publicación original:** 2020-03-26
 - **Géneros:** [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [LGTBIQ+](/tags/lgtbiq/), [Ficción Literaria](/tags/ficcion-literaria/), [Queer](/tags/queer/), [Relatos](/tags/relatos/), [Raza](/tags/raza/)

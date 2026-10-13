@@ -1,5 +1,5 @@
 ---
-title: Los gatos son raros y más observaciones
+title: '#878 · Los gatos son raros y más observaciones'
 summary: Los dibujos de Jeffrey Brown capturan a la perfección la comicidad y el carácter estrafalario de los gatos en todo
   su encantador apogeo. Tras el éxito de Gato…
 date: '2026-06-29T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Humor
 - Gatos
 - Animales
 - No Ficción
 - Comedia
 toc: false
+id: 878
 autores:
 - Jeffrey Brown
 autores_stats:
@@ -39,7 +39,7 @@ Los dibujos de Jeffrey Brown capturan a la perfección la comicidad y el caráct
 - **Serie:** Cat Books
 - **Editorial:** Ediciones La Cúpula
 - **Formato:** Hardcover, 116 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478339213 / 9788478339211
 - **Publicación original:** 2010-11-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Humor](/tags/humor/), [Gatos](/tags/gatos/), [Animales](/tags/animales/), [No Ficción](/tags/no-ficcion/), [Comedia](/tags/comedia/)

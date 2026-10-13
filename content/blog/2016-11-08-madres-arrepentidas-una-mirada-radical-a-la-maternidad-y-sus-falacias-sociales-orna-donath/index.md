@@ -1,5 +1,5 @@
 ---
-title: 'Madres arrepentidas: Una mirada radical a la maternidad y sus falacias sociales'
+title: '#212 · Madres arrepentidas: Una mirada radical a la maternidad y sus falacias sociales'
 summary: "Aman a sus hijos, pero se arrepienten de ser madres.\r\n\r\n#madresarrepentidas es un tratado de pensamiento radical\
   \ que no dejará indiferente a…"
 date: '2016-11-08T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Autoayuda
 - Género
 toc: false
+id: 212
 autores:
 - Orna Donath
 autores_stats:
@@ -45,7 +46,7 @@ En este ensayo controvertido, tan minucioso como iluminador, la socióloga Orna 
 - **Autor:** [Orna Donath](/autores/orna-donath/)
 - **Editorial:** Reservoir Books
 - **Formato:** Kindle Edition, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416709122 / 9788416709120
 - **Publicación original:** 2016-09-08
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Paternidad](/tags/paternidad/), [Sociología](/tags/sociologia/), [Psicología](/tags/psicologia/), [Mujeres](/tags/mujeres/), [Autoayuda](/tags/autoayuda/), [Género](/tags/genero/)

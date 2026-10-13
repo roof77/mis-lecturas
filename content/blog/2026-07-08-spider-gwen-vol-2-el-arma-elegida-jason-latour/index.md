@@ -1,5 +1,5 @@
 ---
-title: 'Spider-Gwen, Vol. 2: El Arma Elegida'
+title: '#884 · Spider-Gwen, Vol. 2: El Arma Elegida'
 summary: Después de los hechos de “Spiderwomen”, la vida de Gwen está del revés, con el Capitán Frank Castle enfrentado con
   ella. ¿Tiene alguna oportunidad contra las…
 date: '2026-07-08T23:59:56'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Marvel
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Colecciones
 - Acción
 toc: false
+id: 884
 autores:
 - Jason Latour
 autores_stats:
@@ -42,7 +42,7 @@ Contiene Spider-Gwen v2, 9-15 y Annual 1 USA
 - **Serie:** Colección 100%: Spider-Gwen
 - **Editorial:** Panini Comics España
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490949972 / 9788490949979
 - **Publicación original:** 2017-06-07
 - **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Superheroes](/tags/superheroes/), [Colecciones](/tags/colecciones/), [Acción](/tags/accion/)

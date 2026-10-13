@@ -1,5 +1,5 @@
 ---
-title: Historia popular del levantamiento vampiro
+title: '#443 · Historia popular del levantamiento vampiro'
 summary: 'Todo comienza con un misterio: el cuerpo de una mujer hallado en Arizona abandona la morgue y, según los testigos,
   lo hace por su propio pie. Pronto llegan más…'
 date: '2020-10-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Distopía
 toc: false
+id: 443
 autores:
 - Raymond A. Villareal
 - Pilar Ramírez Tello
@@ -46,7 +47,7 @@ A la manera de Guerra Mundial Z, esta es la escalofriante crónica, narrada a tr
 - **Colaboradores:** [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Traducción)
 - **Editorial:** Nocturna Ediciones
 - **Formato:** Paperback, 512 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417834346 / 9788417834340
 - **Publicación original:** 2019-09-30
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Vampiros](/tags/vampiros/), [Fantasía](/tags/fantasia/), [Paranormal](/tags/paranormal/), [Ciencia ficción](/tags/ciencia-ficcion/), [Sobrenatural](/tags/sobrenatural/), [Adultos](/tags/adultos/), [Distopía](/tags/distopia/)

@@ -1,5 +1,5 @@
 ---
-title: Agatha Raisin y la quiche letal
+title: '#469 · Agatha Raisin y la quiche letal'
 summary: 'Prepárate para degustar una novela con ingredientes de primera: un cadáver al estilo Agatha Christie, una protagonista
   exquisita y una pizca de sentido del…'
 date: '2021-06-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Humor
 - Adultos
 toc: false
+id: 469
 autores:
 - M.C. Beaton
 - Vicente Campos
@@ -59,7 +60,7 @@ The Globe And Mail
 - **Colaboradores:** [Vicente Campos](/autores/vicente-campos/) (Translator)
 - **Editorial:** Circulo de Lectores
 - **Formato:** Hardcover, 274 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467259817 / 9788467259810
 - **Publicación original:** 2014-01-01
 - **Géneros:** [Misterio](/tags/misterio/), [Cozy mystery](/tags/cozy-mystery/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Comfortable](/tags/comfortable/), [Thriller](/tags/thriller/), [Literatura británica](/tags/literatura-britanica/), [Humor](/tags/humor/), [Adultos](/tags/adultos/)

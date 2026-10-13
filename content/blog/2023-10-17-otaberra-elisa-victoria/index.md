@@ -1,5 +1,5 @@
 ---
-title: Otaberra
+title: '#605 · Otaberra'
 summary: Algo pasó en 1989. Renata vuelve a ese año una y otra vez. El presente para ella no existe. El tiempo quedó detenido
   en Otaberra.
 date: '2023-10-17T23:59:59'
@@ -14,6 +14,7 @@ tags:
 - Literatura hispana
 - Novela
 toc: false
+id: 605
 autores:
 - Elisa Victoria
 autores_stats:
@@ -36,7 +37,7 @@ Algo pasó en 1989. Renata vuelve a ese año una y otra vez. El presente para el
 - **Autor:** [Elisa Victoria](/autores/elisa-victoria/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419654450 / 9788419654458
 - **Publicación original:** 2023-08-30
 - **Géneros:** [Ficción](/tags/ficcion/), [Drama](/tags/drama/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Novela](/tags/novela/)

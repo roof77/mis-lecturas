@@ -1,5 +1,5 @@
 ---
-title: Harry Potter y las reliquias de la muerte
+title: '#222 · Harry Potter y las reliquias de la muerte'
 summary: La fecha crucial se acerca. Cuando cumpla diecisiete años, Harry perderá el encantamiento protector que lo mantiene
   a salvo. El anunciado enfrentamiento a…
 date: '2016-12-27T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Aventuras
 - Clásico
 toc: false
+id: 222
 autores:
 - J.K. Rowling
 - Gemma Rovira Ortega
@@ -43,7 +44,7 @@ La fecha crucial se acerca. Cuando cumpla diecisiete años, Harry perderá el en
 - **Colaboradores:** [Gemma Rovira Ortega](/autores/gemma-rovira-ortega/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 638 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498381452 / 9788498381450
 - **Publicación original:** 2008-02-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)

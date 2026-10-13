@@ -1,5 +1,5 @@
 ---
-title: Las efímeras. Tomo 1
+title: '#726 · Las efímeras. Tomo 1'
 summary: Reseña de lectura de «Las efímeras. Tomo 1».
 date: '2025-03-22T23:59:59'
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 726
 autores:
 - Jeff Lemire
 - Santiago García
@@ -29,7 +29,7 @@ nota: Muy bien
 - **Colaboradores:** [Santiago García](/autores/santiago-garcia/) (translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841967074X / 9788419670748
 - **Publicación original:** 2024-04-11
 - **Géneros:** [Comics](/tags/comics/)

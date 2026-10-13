@@ -1,5 +1,5 @@
 ---
-title: La Isla De Los Perros
+title: '#375 · La Isla De Los Perros'
 summary: 'A cool, dark, sexy nightdrive of a novel. . . . A new J.G. Ballard."--Toby Litt
 
 
@@ -12,6 +12,7 @@ tags:
 - Libros
 - Ficción
 toc: false
+id: 375
 autores:
 - Daniel Davies
 autores_stats:
@@ -36,7 +37,7 @@ Jeremy Shepherd has relinquished his London life and moved back home. By day, he
 - **Autor:** [Daniel Davies](/autores/daniel-davies/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433975188 / 9788433975188
 - **Publicación original:** 2009-10-28
 - **Géneros:** [Ficción](/tags/ficcion/)

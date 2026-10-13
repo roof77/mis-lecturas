@@ -1,5 +1,5 @@
 ---
-title: La muñequita de papá
+title: '#852 · La muñequita de papá'
 summary: "Edición española.\r\nUna estremecedora historia de incesto magistralmente narrada por una de sus víctimas."
 date: '2026-05-29T23:59:59'
 authors:
@@ -8,7 +8,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Feminismo
 - Memorias
 - No Ficción
@@ -16,6 +15,7 @@ tags:
 - Autobiografía
 - Arte
 toc: false
+id: 852
 autores:
 - Debbie Drechsler
 autores_stats:
@@ -39,7 +39,7 @@ Una estremecedora historia de incesto magistralmente narrada por una de sus víc
 - **Autor:** [Debbie Drechsler](/autores/debbie-drechsler/)
 - **Editorial:** La Cúpula
 - **Formato:** Mass Market Paperback, 96 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478335943 / 9788478335947
 - **Publicación original:** 2004-11-25
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Feminismo](/tags/feminismo/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Mujeres](/tags/mujeres/), [Autobiografía](/tags/autobiografia/), [Arte](/tags/arte/)

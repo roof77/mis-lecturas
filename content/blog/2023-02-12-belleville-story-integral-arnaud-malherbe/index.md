@@ -1,5 +1,5 @@
 ---
-title: Belleville Story. Integral
+title: '#578 · Belleville Story. Integral'
 summary: "UN THRILLER DE ACCIÓN QUE RETRATA LA PARTE MÁS OSCURA DEL BARRIO DE BELLEVILLE \r\n\r\nBelleville Story es un thriller\
   \ de acción ambientado en las populares calles…"
 date: '2023-02-12T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 578
 autores:
 - Arnaud Malherbe
 autores_stats:
@@ -36,7 +36,7 @@ Arnaud Malherbe y Vincent Perriot retratan la parte más oscura y siniestra de u
 - **Autor:** [Arnaud Malherbe](/autores/arnaud-malherbe/)
 - **Editorial:** Norma Editorial
 - **Formato:** Hardcover, 168 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467914696 / 9788467914696
 - **Publicación original:** 2014-04-01
 - **Géneros:** [Comics](/tags/comics/)

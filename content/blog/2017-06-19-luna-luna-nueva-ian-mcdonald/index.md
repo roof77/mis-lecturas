@@ -1,5 +1,5 @@
 ---
-title: 'Luna: Luna nueva'
+title: '#252 · Luna: Luna nueva'
 summary: "LA LUNA QUIERE MATARTE. Y TIENE MIL FORMAS DE CONSEGUIRLO.\r\n\r\nLa gélida acritud del vacío. La letal lluvia radiactiva.\
   \ El polvo que la recubre, tan viejo como…"
 date: '2017-06-19T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Ciencia Ficción
 - Adultos
 toc: false
+id: 252
 autores:
 - Ian McDonald
 - José Heisenberg
@@ -60,7 +61,7 @@ Ian McDonald nació en Manchester en 1960, hijo de madre irlandesa y padre escoc
 - **Colaboradores:** [José Heisenberg](/autores/jose-heisenberg/) (Translator)
 - **Editorial:** Ediciones B/Nova
 - **Formato:** Paperback, 432 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8466659331 / 9788466659338
 - **Publicación original:** 2016-06-22
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Espacio](/tags/espacio/), [Space Opera](/tags/space-opera/), [Fantasía](/tags/fantasia/), [Ficción especulativa](/tags/ficcion-especulativa/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/)

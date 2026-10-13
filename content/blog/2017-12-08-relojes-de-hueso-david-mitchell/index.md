@@ -1,5 +1,5 @@
 ---
-title: Relojes de hueso
+title: '#279 · Relojes de hueso'
 summary: Después de una pelea con su madre, Holly huye de su hogar. Mientras se adentra en la campiña inglesa, una extraña
   se cruza en su camino y le solicita «asilo»…
 date: '2017-12-08T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Misterio
 - Distopía
 toc: false
+id: 279
 autores:
 - David Mitchell
 - Laura Salas Rodríguez
@@ -46,7 +47,7 @@ A ritmo de thriller, este prestidigitador de las letras británicas nos traslada
 - **Colaboradores:** [Laura Salas Rodríguez](/autores/laura-salas-rodriguez/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Kindle Edition, 720 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439731795 / 9788439731795
 - **Publicación original:** 2016-04-07
 - **Géneros:** [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Misterio](/tags/misterio/), [Distopía](/tags/distopia/)

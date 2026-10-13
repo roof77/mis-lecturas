@@ -1,5 +1,5 @@
 ---
-title: Tiempo de canicas
+title: '#744 · Tiempo de canicas'
 summary: Huey, su hermano Junior y el pequeño Chavo son el trío protagonista de estas páginas en las que un grupo de niños
   se preguntan si un día les gustará ser…
 date: '2025-05-17T23:59:58'
@@ -9,12 +9,12 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Jovenes adultos
 - Familia
 - Niños
 toc: false
+id: 744
 autores:
 - Gilbert Hernández
 autores_stats:
@@ -39,7 +39,7 @@ Con la maestría y la sensibilidad que se le conoce, Beto Hernandez no se limita
 - **Autor:** [Gilbert Hernández](/autores/gilbert-hernandez/)
 - **Editorial:** Ediciones La Cúpula
 - **Formato:** Hardcover, 148 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415724578 / 9788415724575
 - **Publicación original:** 2014-02-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Familia](/tags/familia/), [Niños](/tags/ninos/)

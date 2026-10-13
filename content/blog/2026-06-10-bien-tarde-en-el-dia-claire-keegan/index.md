@@ -1,5 +1,5 @@
 ---
-title: Bien tarde en el día
+title: '#862 · Bien tarde en el día'
 summary: Un cajón exclusivo en el armario. La copia de una llave. Un te amo dicho a tiempo. Un mensaje agradeciendo una cena.
   Gestos de amor y muestras de interés que…
 date: '2026-06-10T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Feminismo
 - Adultos
 toc: false
+id: 862
 autores:
 - Claire Keegan
 autores_stats:
@@ -40,7 +41,7 @@ Un cajón exclusivo en el armario. La copia de una llave. Un te amo dicho a tiem
 - **Autor:** [Claire Keegan](/autores/claire-keegan/)
 - **Editorial:** Eterna Cadencia
 - **Formato:** Kindle Edition, 38 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9877123282 / 9789877123289
 - **Publicación original:** 2024-04-01
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Novella](/tags/novella/), [Feminismo](/tags/feminismo/), [Adultos](/tags/adultos/)

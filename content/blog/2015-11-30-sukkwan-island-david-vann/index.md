@@ -1,5 +1,5 @@
 ---
-title: Sukkwan Island
+title: '#156 · Sukkwan Island'
 summary: Una isla salvaje en el sur de Alaska, a la que solamente puede accederse en barco o hidroavión, repleta de frondosos
   bosques húmedos y montañas escarpadas…
 date: '2015-11-30T23:59:59'
@@ -15,6 +15,7 @@ tags:
 - Novela
 - Siglo XXI
 toc: false
+id: 156
 autores:
 - David Vann
 - Daniel Gascón
@@ -39,7 +40,7 @@ Una isla salvaje en el sur de Alaska, a la que solamente puede accederse en barc
 - **Colaboradores:** [Daniel Gascón](/autores/daniel-gascon/) (Translator)
 - **Editorial:** Ediciones Alfabia
 - **Formato:** Paperback, 210 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493794325 / 9788493794323
 - **Publicación original:** 2010-10-25
 - **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [EEUU](/tags/eeuu/), [Contemporaneo](/tags/contemporaneo/), [Novela](/tags/novela/), [Siglo XXI](/tags/siglo-xxi/)

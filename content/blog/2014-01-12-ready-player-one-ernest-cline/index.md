@@ -1,5 +1,5 @@
 ---
-title: Ready Player One
+title: '#3 · Ready Player One'
 summary: "Librarian's note: An alternate cover edition can be found here\r\n\r\nIN THE YEAR 2044, reality is an ugly place.\
   \ The only time teenage Wade Watts really feels…"
 date: '2014-01-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ciencia Ficción
 - Cyberpunk
 toc: false
+id: 3
 autores:
 - Ernest Cline
 autores_stats:

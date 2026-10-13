@@ -1,5 +1,5 @@
 ---
-title: Meddling Kids
+title: '#502 · Meddling Kids'
 summary: .Un original viaje nostálgico con guiños a Lovecraft, Los Cinco o Scooby Doo, Meddling Kids es un divertido homenaje
   al terror, la amistad y las aventuras de…
 date: '2021-10-15T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Thriller
 - LGTBIQ+
 toc: false
+id: 502
 autores:
 - Edgar Cantero
 - Christian Rodriguez
@@ -54,7 +55,7 @@ El autor, Edgar Cantero, es un escritor y dibujante nacido en Barcelona en 1981.
 - **Colaboradores:** [Christian Rodriguez](/autores/christian-rodriguez/) (Translator), [Fran Mariscal Mancilla](/autores/fran-mariscal-mancilla/) (Illustrator), [Sara Segovia Esteban](/autores/sara-segovia-esteban/) (Corrector)
 - **Editorial:** Insólita
 - **Formato:** Paperback, 407 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412104366 / 9788412104363
 - **Publicación original:** 2021-01-18
 - **Géneros:** [Terror](/tags/terror/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Paranormal](/tags/paranormal/), [Humor](/tags/humor/), [Adultos](/tags/adultos/), [Thriller](/tags/thriller/), [LGTBIQ+](/tags/lgtbiq/)

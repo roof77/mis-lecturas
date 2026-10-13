@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals, Vol. 1: Un truco sucio'
+title: '#869 · Sex Criminals, Vol. 1: Un truco sucio'
 summary: 'Suzie y Jon tienen una habilidad particular: cuando tienen un orgasmo, el tiempo se suspende y el mundo a su alrededor
   se paraliza. De adolescentes, usaban ese…'
 date: '2026-06-23T23:59:57'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Ficción
 - Romance
@@ -17,6 +16,7 @@ tags:
 - Adultos
 - Ciencia ficción
 toc: false
+id: 869
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -44,7 +44,7 @@ Fraction y Zdarsky se valen de ese original planteamiento argumental para crear 
 - **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 136 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416880204 / 9788416880201
 - **Publicación original:** 2017-01-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Adultos](/tags/adultos/), [Ciencia ficción](/tags/ciencia-ficcion/)

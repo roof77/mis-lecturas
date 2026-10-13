@@ -1,5 +1,5 @@
 ---
-title: Zombi
+title: '#381 · Zombi'
 summary: Conozcan a Quentin P., un dolor de cabeza para su padre profesor y su amante madre. Un desafío para su diplomadísimo
   psiquiatra. Un dulce y tierno jovencito…
 date: '2019-03-12T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción Literaria
 - Zombies
 toc: false
+id: 381
 autores:
 - Joyce Carol Oates
 - Carmen Camps
@@ -47,7 +48,7 @@ Con esta novela escrita en forma de diario íntimo, Joyce Carol Oates nos mete e
 - **Colaboradores:** [Carmen Camps](/autores/carmen-camps/) (Translator)
 - **Editorial:** Debolsillo
 - **Formato:** Paperback, 216 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8497594959 / 9788497594950
 - **Publicación original:** 2003-04-02
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Contemporaneo](/tags/contemporaneo/), [Oscuro](/tags/oscuro/), [Adultos](/tags/adultos/), [Ficción Literaria](/tags/ficcion-literaria/), [Zombies](/tags/zombies/)

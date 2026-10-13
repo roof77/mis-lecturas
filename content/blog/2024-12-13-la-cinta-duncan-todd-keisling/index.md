@@ -1,5 +1,5 @@
 ---
-title: La cinta Duncan
+title: '#690 · La cinta Duncan'
 summary: Robby y sus amigos solo quieren descargarse algo de porno un viernes por la noche. Pero a principios de los 90 las
   descargas no son del todo fiables, y…
 date: '2024-12-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Oscuro
 - Fantasmas
 toc: false
+id: 690
 autores:
 - Todd Keisling
 - Shaila Correa
@@ -42,7 +43,7 @@ Robby y sus amigos solo quieren descargarse algo de porno un viernes por la noch
 - **Colaboradores:** [Shaila Correa](/autores/shaila-correa/) (Translator)
 - **Editorial:** La biblioteca de Carfax
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412822129 / 9788412822120
 - **Publicación original:** 2024-09-09
 - **Géneros:** [Terror](/tags/terror/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Paranormal](/tags/paranormal/), [Relatos](/tags/relatos/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Oscuro](/tags/oscuro/), [Fantasmas](/tags/fantasmas/)

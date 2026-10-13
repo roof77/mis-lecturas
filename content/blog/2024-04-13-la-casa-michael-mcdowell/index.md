@@ -1,5 +1,5 @@
 ---
-title: La casa
+title: '#636 · La casa'
 summary: "Perdido, 1928. \r\nEl clan Caskey se desmorona con la cruenta guerra personal entre Mary-Love y Elinor. En los recovecos\
   \ del caserón donde viven Elinor y Oscar…"
 date: '2024-04-13T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Thriller
 - Gótico sureño
 toc: false
+id: 636
 autores:
 - Michael McDowell
 - Carles Andreu
@@ -43,7 +44,7 @@ El clan Caskey se desmorona con la cruenta guerra personal entre Mary-Love y Eli
 - **Colaboradores:** [Carles Andreu](/autores/carles-andreu/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Mass Market Paperback, 272 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419654930 / 9788419654939
 - **Publicación original:** 2024-03-06
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Gótico sureño](/tags/gotico-sureno/)

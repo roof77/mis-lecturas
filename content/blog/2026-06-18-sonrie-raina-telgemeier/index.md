@@ -1,5 +1,5 @@
 ---
-title: ¡Sonríe!
+title: '#866 · ¡Sonríe!'
 summary: Raina solo quiere ser normal. Pero una noche, tras una reunión de los scouts, se tropieza y se rompe los paletos.
   Los meses siguientes serán una tortura para…
 date: '2026-06-18T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Jovenes adultos
 - Ficción realista
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Coming of age
 - Humor
 toc: false
+id: 866
 autores:
 - Raina Telgemeier
 - Jofre Homedes Beutnagel
@@ -43,7 +43,7 @@ Raina solo quiere ser normal. Pero una noche, tras una reunión de los scouts, s
 - **Colaboradores:** [Jofre Homedes Beutnagel](/autores/jofre-homedes-beutnagel/) (Translator)
 - **Editorial:** Maeva Ediciones
 - **Formato:** Hardcover, 216 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416363641 / 9788416363643
 - **Publicación original:** 2016-03-10
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción realista](/tags/ficcion-realista/), [Ficción](/tags/ficcion/), [Niños](/tags/ninos/), [Contemporaneo](/tags/contemporaneo/), [Coming of age](/tags/coming-of-age/), [Humor](/tags/humor/)

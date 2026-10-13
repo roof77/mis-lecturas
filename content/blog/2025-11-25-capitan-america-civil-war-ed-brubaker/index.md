@@ -1,5 +1,5 @@
 ---
-title: Capitán América. Civil war
+title: '#784 · Capitán América. Civil war'
 summary: 'Contiene Captain America 65TH Anniversary Special, v5, 15-24, Winter Soldier: Winter Kills, Captain America 601
   y Iron Man / Captain America: Casualties Of War…'
 date: '2025-11-25T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Marvel
@@ -17,6 +16,7 @@ tags:
 - Civil war
 - Ciencia ficción
 toc: false
+id: 784
 autores:
 - Ed Brubaker
 - Steve Epting
@@ -45,7 +45,7 @@ El volumen que complementa a Marvel Integral. Civil War. Descubre el camino segu
 - **Colaboradores:** [Steve Epting](/autores/steve-epting/) (Dibujo), [Mark Perkins](/autores/mark-perkins/) (Dibujo)
 - **Editorial:** Panini Cómics
 - **Formato:** Hardcover, 408 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490945152 / 9788490945155
 - **Publicación original:** 2016-03-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Marvel](/tags/marvel/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Civil war](/tags/civil-war/), [Ciencia ficción](/tags/ciencia-ficcion/)

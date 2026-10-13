@@ -1,5 +1,5 @@
 ---
-title: La joven ahogada
+title: '#117 · La joven ahogada'
 summary: India Morgan Phelps –Imp para los amigos– es esquizofrénica. Ya no puede confiar en su propia mente, porque está
   convencida de que sus recuerdos, de alguna…
 date: '2015-06-20T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Realismo mágico
 - Enfermedad mentál
 toc: false
+id: 117
 autores:
 - Caitlín R. Kiernan
 - Marta Lila Murillo
@@ -45,7 +46,7 @@ Enfrentándose a sus propias percepciones, Imp debe descubrir la verdad sobre su
 - **Colaboradores:** [Marta Lila Murillo](/autores/marta-lila-murillo/) (Translator)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 392 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8477027668 / 9788477027669
 - **Publicación original:** 2014-04-02
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Paranormal](/tags/paranormal/), [Fantasía urbana](/tags/fantasia-urbana/), [Salud mentál](/tags/salud-mental/), [Realismo mágico](/tags/realismo-magico/), [Enfermedad mentál](/tags/enfermedad-mental/)

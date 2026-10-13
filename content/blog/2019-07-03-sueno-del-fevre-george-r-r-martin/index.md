@@ -1,5 +1,5 @@
 ---
-title: Sueño del Fevre
+title: '#396 · Sueño del Fevre'
 summary: 'En 1857, la cuenca del Misisipi bulle de actividad: los vapores señorean sus aguas en feroz competencia. Cuando
   Joshua York le ofrece sacar a flote su naviera…'
 date: '2019-07-03T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Sobrenatural
 - Fantasía urbana
 toc: false
+id: 396
 autores:
 - George R.R. Martin
 - Cristina Macía
@@ -44,7 +45,7 @@ Para su segunda novela en solitario, Martin eligió el Misisipi de Mark Twain co
 - **Colaboradores:** [Cristina Macía](/autores/cristina-macia/) (Translator)
 - **Editorial:** Gigamesh
 - **Formato:** Paperback, 354 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8496208753 / 9788496208759
 - **Publicación original:** 2009-12-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Terror](/tags/terror/), [Vampiros](/tags/vampiros/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Histórico](/tags/historico/), [Paranormal](/tags/paranormal/), [Sobrenatural](/tags/sobrenatural/), [Fantasía urbana](/tags/fantasia-urbana/)

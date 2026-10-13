@@ -1,5 +1,5 @@
 ---
-title: 'Odio Vol. 4: Buddy enamorado / Hate Vol. 4: Buddy in Love'
+title: '#839 · Odio Vol. 4: Buddy enamorado / Hate Vol. 4: Buddy in Love'
 summary: Collects an alternative comic from the 1990s that chronicles the misadventures and life experiences of Buddy Bradley,
   oldest son of America's most…
 date: '2026-05-17T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 839
 autores:
 - Peter Bagge
 - Hernán Migoya
@@ -35,7 +35,7 @@ Collects an alternative comic from the 1990s that chronicles the misadventures a
 - **Colaboradores:** [Hernán Migoya](/autores/hernan-migoya/) (Translator)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 68 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1594971315 / 9781594971310
 - **Publicación original:** 2005-09-25
 - **Géneros:** [Comics](/tags/comics/)

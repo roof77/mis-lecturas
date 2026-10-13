@@ -1,5 +1,5 @@
 ---
-title: Haarmann
+title: '#738 · Haarmann'
 summary: El temor hace ya varios meses que recorre las callejuelas del casco antiguo de Hannover y la gente sigue desapareciendo
   sin dejar rastro. Los temores más…
 date: '2025-04-24T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Crimen
@@ -17,6 +16,7 @@ tags:
 - Thriller
 - Histórico
 toc: false
+id: 738
 autores:
 - Peer Meter
 - Isabel Kreitz
@@ -42,7 +42,7 @@ El temor hace ya varios meses que recorre las callejuelas del casco antiguo de H
 - **Colaboradores:** [Isabel Kreitz](/autores/isabel-kreitz/) (Author)
 - **Editorial:** Ediciones La Cúpula, S.L.
 - **Formato:** Paperback, 180 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415724888 / 9788415724889
 - **Publicación original:** 2014-12-10
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Crimen](/tags/crimen/), [Literatura alemana](/tags/literatura-alemana/), [Terror](/tags/terror/), [Colecciones](/tags/colecciones/), [Thriller](/tags/thriller/), [Histórico](/tags/historico/)

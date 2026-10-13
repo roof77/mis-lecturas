@@ -1,5 +1,5 @@
 ---
-title: Grupo de apoyo para final girls
+title: '#563 · Grupo de apoyo para final girls'
 summary: "La terrorífica novela de una de las voces más consolidadas del género, Grady Hendrix. \r\n\r\nEn las películas de\
   \ miedo, las Final Girls son las que han quedado…"
 date: '2022-09-20T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Contemporaneo
 - Suspense
 toc: false
+id: 563
 autores:
 - Grady Hendrix
 - Víctor Manuel García de Isusi
@@ -49,7 +50,7 @@ La cuestión con las Final Girls es que da igual lo bajas que sean las probabili
 - **Colaboradores:** [Víctor Manuel García de Isusi](/autores/victor-manuel-garcia-de-isusi/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445013122 / 9788445013120
 - **Publicación original:** 2022-08-31
 - **Géneros:** [Terror](/tags/terror/), [Thriller](/tags/thriller/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Suspense](/tags/suspense/)

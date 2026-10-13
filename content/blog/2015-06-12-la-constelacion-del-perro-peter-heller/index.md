@@ -1,5 +1,5 @@
 ---
-title: La constelación del perro
+title: '#115 · La constelación del perro'
 summary: Tras la pandemia que casi aniquila a toda la humanidad, Hig sobrevive en un hangar, con su perro y una vieja avioneta
   Cessna. Todos sus seres queridos han…
 date: '2015-06-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción Literaria
 - Aventuras
 toc: false
+id: 115
 autores:
 - Peter Heller
 - Marc Jiménez Buzzi
@@ -43,7 +44,7 @@ Tras la pandemia que casi aniquila a toda la humanidad, Hig sobrevive en un hang
 - **Colaboradores:** [Marc Jiménez Buzzi](/autores/marc-jimenez-buzzi/) (translator), [Blanca Rodríguez](/autores/blanca-rodriguez/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 311 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2014-11-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Postapocalíptico](/tags/postapocaliptico/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Club de lectura](/tags/club-de-lectura/), [Apocalipsis](/tags/apocalipsis/), [Supervivencia](/tags/supervivencia/), [Ficción Literaria](/tags/ficcion-literaria/), [Aventuras](/tags/aventuras/)
 - **Lugares:** Colorado (United States)

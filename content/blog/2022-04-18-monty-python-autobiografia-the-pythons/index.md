@@ -1,5 +1,5 @@
 ---
-title: Monty Python. Autobiografía
+title: '#531 · Monty Python. Autobiografía'
 summary: 'Es esta, y no otra, proclámese con toda la pompa, la autobiografía autorizada por sus autores –y desautorizada por
   sus protagonistas y delatores–: la oficial…'
 date: '2022-04-18T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Memorias
 - TV
 toc: false
+id: 531
 autores:
 - The Pythons
 autores_stats:
@@ -46,7 +47,7 @@ He aquí, en sus propias palabras, y con furtivos extractos de sus diarios, la h
 - **Autor:** [The Pythons](/autores/the-pythons/)
 - **Editorial:** Libros del Kultrum
 - **Formato:** Paperback, 608 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2021-12-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Autobiografía](/tags/autobiografia/), [Historia](/tags/historia/), [Películas](/tags/peliculas/), [Memorias](/tags/memorias/), [TV](/tags/tv/)
 - **Personajes:** Terry Jones, John Cleese, Graham Chapman, Michael Palin, Terry Gilliam, Eric Idle

@@ -1,5 +1,5 @@
 ---
-title: Polvazo
+title: '#730 · Polvazo'
 summary: "Un delirio tan despiadado como tierno.\r\n\r\nJimmie llega un día más a su lugar de  un call center de una agencia\
   \ de viajes londinense donde van a parar, como a…"
 date: '2025-03-30T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novella
 - Novela
 toc: false
+id: 730
 autores:
 - Katharina Volckmer
 - Inga Pellisa
@@ -52,7 +53,7 @@ Con una prosa elegante, una mirada tierna y un escandaloso humor negro, Polvazo
 - **Colaboradores:** [Inga Pellisa](/autores/inga-pellisa/) (translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 168 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433929615 / 9788433929617
 - **Publicación original:** 2025-02-05
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [LGTBIQ+](/tags/lgtbiq/), [Alemania](/tags/alemania/), [Club de lectura](/tags/club-de-lectura/), [Humor](/tags/humor/), [Gay](/tags/gay/), [Novella](/tags/novella/), [Novela](/tags/novela/)

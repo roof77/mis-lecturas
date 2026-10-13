@@ -1,5 +1,5 @@
 ---
-title: Asterios Polyp
+title: '#811 · Asterios Polyp'
 summary: ¿Quién es Asterios Polyp? Arquitecto, profesor, escritor, marido... aunque todo eso pertenece al pasado. Ahora, el
   día en que cumple medio siglo, se ha…
 date: '2026-03-15T23:59:59'
@@ -9,12 +9,12 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ficción
 - Filosofía
 - Arte
 - Arquitectura
 toc: false
+id: 811
 autores:
 - David Mazzucchelli
 - Esther Cruz Santaella
@@ -39,7 +39,7 @@ nota: Recomendable
 - **Colaboradores:** [Esther Cruz Santaella](/autores/esther-cruz-santaella/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 344 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416131112 / 9788416131112
 - **Publicación original:** 2014-01-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ficción](/tags/ficcion/), [Filosofía](/tags/filosofia/), [Arte](/tags/arte/), [Arquitectura](/tags/arquitectura/)

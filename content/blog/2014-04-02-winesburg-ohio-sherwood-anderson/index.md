@@ -1,5 +1,5 @@
 ---
-title: Winesburg, Ohio
+title: '#25 · Winesburg, Ohio'
 summary: El joven George Willard, reportero del periódico local, observa la vida de los habitantes de su pequeño pueblo, Winesburg,
   en Ohio. La mirada del narrador…
 date: '2014-04-02T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Ficción histórica
 toc: false
+id: 25
 autores:
 - Sherwood Anderson
 - Miguel Temprano García
@@ -42,7 +43,7 @@ El joven George Willard, reportero del periódico local, observa la vida de los 
 - **Colaboradores:** [Miguel Temprano García](/autores/miguel-temprano-garcia/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849264916X / 9788492649167
 - **Publicación original:** 2000-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Literatura](/tags/literatura/), [EEUU](/tags/eeuu/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XX](/tags/siglo-xx/), [Novela](/tags/novela/), [Ficción histórica](/tags/ficcion-historica/)

@@ -1,5 +1,5 @@
 ---
-title: 'Lumberjanes: Up All Night'
+title: '#889 · Lumberjanes: Up All Night'
 summary: Jo, April, Mal, Molly and Ripley are five best pals determined to have an awesome summer together...and they’re not
   gonna let any insane quest or an array of…
 date: '2026-07-12T23:59:52'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Jovenes adultos
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Humor
 - LGTBIQ+
 toc: false
+id: 889
 autores:
 - N.D. Stevenson
 - Grace Ellis

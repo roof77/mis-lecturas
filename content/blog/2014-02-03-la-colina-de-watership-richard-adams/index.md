@@ -1,5 +1,5 @@
 ---
-title: La colina de Watership
+title: '#10 · La colina de Watership'
 summary: Quinto, un joven y apacible conejo, sufre unas visiones aterradoras sobre el futuro de la conejera donde reside.
   Convertido en líder de sus cinco inseparables…
 date: '2014-02-03T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Novela
 toc: false
+id: 10
 autores:
 - Richard Adams
 - Pilar Giralt Gorina
@@ -44,7 +45,7 @@ Quinto, un joven y apacible conejo, sufre unas visiones aterradoras sobre el fut
 - **Colaboradores:** [Pilar Giralt Gorina](/autores/pilar-giralt-gorina/) (Translator), [Encarna Quijada Vargas](/autores/encarna-quijada-vargas/) (Translator)
 - **Editorial:** Editorial Seix Barral
 - **Formato:** Paperback, 451 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8432228540 / 9788432228544
 - **Publicación original:** 2009-11-11
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Animales](/tags/animales/), [Aventuras](/tags/aventuras/), [Niños](/tags/ninos/), [Literatura](/tags/literatura/), [Novela](/tags/novela/)

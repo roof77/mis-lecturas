@@ -1,5 +1,5 @@
 ---
-title: Un amor cualquiera
+title: '#449 · Un amor cualquiera'
 summary: Hace ahora justo veinte años, los Kinsella eran, en apariencia, una familia idílica y feliz. De un día para otro,
   el marido de Rachel vendió sin avisarle la…
 date: '2020-12-21T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Ficción
 - Familia
 toc: false
+id: 449
 autores:
 - Jane Smiley
 - Francisco González López
@@ -37,7 +38,7 @@ En Un amor cualquiera, Jane Smiley retoma el universo de las relaciones familiar
 - **Colaboradores:** [Francisco González López](/autores/francisco-gonzalez-lopez/) (Translator)
 - **Editorial:** Sexto Piso
 - **Formato:** Paperback, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417517707 / 9788417517700
 - **Publicación original:** 2020-06-15
 - **Géneros:** [Ficción](/tags/ficcion/), [Familia](/tags/familia/)

@@ -1,5 +1,5 @@
 ---
-title: En ese infinito, nuestro final
+title: '#685 · En ese infinito, nuestro final'
 summary: 'En este volumen se recogen quince nuevas pesadillas seductoras, escalofriantes y repletas de terror existencial:
   «Así están las cosas», «Bombilla», «El Motel…'
 date: '2024-10-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Oscuro
 - Sobrenatural
 toc: false
+id: 685
 autores:
 - Gemma Files
 - Pilar Ramírez Tello
@@ -44,7 +45,7 @@ Esta obra ganó el premio Bram Stoker a mejor antología de 2021.
 - **Colaboradores:** [Pilar Ramírez Tello](/autores/pilar-ramirez-tello/) (Translator)
 - **Editorial:** La biblioteca de Carfax
 - **Formato:** Paperback, 416 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412822102 / 9788412822106
 - **Publicación original:** 2024-01-01
 - **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Ficción extraña](/tags/ficcion-extrana/), [Antología](/tags/antologia/), [Colecciones](/tags/colecciones/), [Fantasía](/tags/fantasia/), [Oscuro](/tags/oscuro/), [Sobrenatural](/tags/sobrenatural/)

@@ -1,5 +1,5 @@
 ---
-title: Acércate
+title: '#610 · Acércate'
 summary: 'Amanda es una arquitecta de éxito felizmente casada, quien, un día, empieza a experimentar extraños fenómenos: una
   propuesta dirigida a su jefe es sustituida…'
 date: '2023-11-17T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Fantasía
 toc: false
+id: 610
 autores:
 - Sara Gran
 autores_stats:
@@ -41,7 +42,7 @@ No sabe si está poseída por un demonio o perdiendo la cabeza. En un rincón de
 - **Autor:** [Sara Gran](/autores/sara-gran/)
 - **Editorial:** La Biblioteca de Carfax
 - **Formato:** Paperback, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412564022 / 9788412564020
 - **Publicación original:** 2023-05-03
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Paranormal](/tags/paranormal/), [Misterio](/tags/misterio/), [Novella](/tags/novella/), [Adultos](/tags/adultos/), [Fantasía](/tags/fantasia/)

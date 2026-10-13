@@ -1,5 +1,5 @@
 ---
-title: Ofrenda a la tormenta
+title: '#162 · Ofrenda a la tormenta'
 summary: "El esperadísimo final de la Trilogía del Baztán, un éxito que ya ha cautivado a más de 200.000 lectores. Nunca lo\
   \ habrías imaginado.\r\n\r\nUna mujer denuncia que…"
 date: '2015-12-30T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Suspense
 - Fantasía
 toc: false
+id: 162
 autores:
 - Dolores Redondo
 autores_stats:
@@ -45,7 +46,7 @@ Trepidante y estremecedora, la trama se acelera hacia una resolución sorprenden
 - **Serie:** Trilogía del Baztán (#3)
 - **Editorial:** Destino
 - **Formato:** Paperback, 544 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8423348687 / 9788423348688
 - **Publicación original:** 2014-11-25
 - **Géneros:** [Thriller](/tags/thriller/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Suspense](/tags/suspense/), [Fantasía](/tags/fantasia/)

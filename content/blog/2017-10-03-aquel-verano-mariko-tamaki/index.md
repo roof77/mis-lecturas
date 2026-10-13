@@ -1,5 +1,5 @@
 ---
-title: Aquel verano
+title: '#271 · Aquel verano'
 summary: Rose y sus padres han veraneado en Awago Beach desde que ella era una niña. Es su escapada anual, su refugio. Su
   amiga Windy también está allí siempre, la…
 date: '2017-10-03T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Jovenes adultos
 - Ficción
 - Contemporaneo
@@ -18,6 +17,7 @@ tags:
 - Libros prohibidos
 - Adolescencia
 toc: false
+id: 271
 autores:
 - Mariko Tamaki
 - Jillian Tamaki
@@ -46,7 +46,7 @@ En Aquel verano, las primas Mariko y Jillian Tamaki, autoras de la galardonada S
 - **Colaboradores:** [Jillian Tamaki](/autores/jillian-tamaki/) (Author)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 324 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415724721 / 9788415724728
 - **Publicación original:** 2014-07-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción realista](/tags/ficcion-realista/), [Coming of age](/tags/coming-of-age/), [Libros prohibidos](/tags/libros-prohibidos/), [Adolescencia](/tags/adolescencia/)

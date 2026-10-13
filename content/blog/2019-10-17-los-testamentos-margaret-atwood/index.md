@@ -1,5 +1,5 @@
 ---
-title: Los testamentos
+title: '#407 · Los testamentos'
 summary: Cuando las puertas de la furgoneta se cerraron de golpe tras Offred al final de El cuento de la criada, los lectores
   no tenían forma de saber cuál iba a ser su…
 date: '2019-10-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción especulativa
 - Adultos
 toc: false
+id: 407
 autores:
 - Margaret Atwood
 - Eugenia Vázquez Nacarino
@@ -47,7 +48,7 @@ Margaret Atwood recupera la historia quince años después de que Offred se aden
 - **Colaboradores:** [Eugenia Vázquez Nacarino](/autores/eugenia-vazquez-nacarino/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 506 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498389496 / 9788498389494
 - **Publicación original:** 2019-09-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Feminismo](/tags/feminismo/), [Clásico](/tags/clasico/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción especulativa](/tags/ficcion-especulativa/), [Adultos](/tags/adultos/)

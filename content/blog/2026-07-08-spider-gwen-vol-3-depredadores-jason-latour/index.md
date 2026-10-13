@@ -1,5 +1,5 @@
 ---
-title: 'Spider-Gwen, Vol. 3: Depredadores'
+title: '#885 · Spider-Gwen, Vol. 3: Depredadores'
 summary: Con “Depredadores”. Matt Murdock, señor del crimen de Nueva York y líder de La Mano, envía a Gwen a una misión que
   supondrá el debut de un terrible villano…
 date: '2026-07-08T23:59:57'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Marvel
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Colecciones
 - Acción
 toc: false
+id: 885
 autores:
 - Jason Latour
 - Robbi Rodriguez
@@ -44,7 +44,7 @@ Contiene Spider-Gwen v2, 19-24 USA
 - **Colaboradores:** [Robbi Rodriguez](/autores/robbi-rodriguez/) (Illustrator)
 - **Editorial:** Panini Comics España
 - **Formato:** Paperback, 144 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491674144 / 9788491674146
 - **Publicación original:** 2018-05-24
 - **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Crimen](/tags/crimen/), [Superheroes](/tags/superheroes/), [Colecciones](/tags/colecciones/), [Acción](/tags/accion/)

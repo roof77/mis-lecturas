@@ -1,5 +1,5 @@
 ---
-title: Luz brillante
+title: '#319 · Luz brillante'
 summary: Shoko y Mutsuki llevan casados diez días cuando empiezan a contarnos su historia. Una pareja —él es médico, y ella,
   traductora del italiano— que lleva…
 date: '2018-06-21T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura asiática
 - Novela
 toc: false
+id: 319
 autores:
 - Kaori Ekuni
 - Juan Francisco González Sánchez
@@ -47,7 +48,7 @@ Kaori Ekuni, en esta mítica novela en Japón, tierna, apasionada y positiva, ga
 - **Colaboradores:** [Juan Francisco González Sánchez](/autores/juan-francisco-gonzalez-sanchez/) (Traductor)
 - **Editorial:** Funambulista
 - **Formato:** Paperback, 232 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494712985 / 9788494712982
 - **Publicación original:** 2017-11-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [LGTBIQ+](/tags/lgtbiq/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ásia](/tags/asia/), [Literatura asiática](/tags/literatura-asiatica/), [Novela](/tags/novela/)

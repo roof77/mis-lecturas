@@ -1,5 +1,5 @@
 ---
-title: Cada cosa a su tiempo
+title: '#719 · Cada cosa a su tiempo'
 summary: Zounds! Spaceman Spiff, Stupendous Man, the ferocious tiger Hobbes, and the rest of Calvin's riotous imagination
   are all included in The Days Are Just…
 date: '2025-03-10T23:59:59'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Humor
 - Ficción
 - Novela gráfica
@@ -16,6 +15,7 @@ tags:
 - Niños
 - Comedia
 toc: false
+id: 719
 autores:
 - Bill Watterson
 autores_stats:
@@ -41,7 +41,7 @@ Calvin, the self-proclaimed "Boy of Destiny," continues to save the universe wit
 - **Serie:** The Complete Calvin and Hobbes (#5)
 - **Editorial:** Ediciones B
 - **Formato:** Hardcover, 180 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8440606419 / 9788440606419
 - **Publicación original:** 2007-04-01
 - **Géneros:** [Comics](/tags/comics/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Novela gráfica](/tags/novela-grafica/), [Tiras](/tags/tiras/), [Niños](/tags/ninos/), [Comedia](/tags/comedia/)

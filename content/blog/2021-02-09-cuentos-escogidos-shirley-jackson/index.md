@@ -1,5 +1,5 @@
 ---
-title: Cuentos escogidos
+title: '#451 · Cuentos escogidos'
 summary: Una mujer pasa el día de su boda buscando frenéticamente a su futuro marido, otra hace un extraño viaje nocturno
   en autobús, un librero satisface la, en…
 date: '2021-02-09T23:59:59'
@@ -14,6 +14,7 @@ tags:
 - Clásico
 - Thriller
 toc: false
+id: 451
 autores:
 - Shirley Jackson
 - Paula Kuffer
@@ -38,7 +39,7 @@ Una mujer pasa el día de su boda buscando frenéticamente a su futuro marido, o
 - **Colaboradores:** [Paula Kuffer](/autores/paula-kuffer/) (translator)
 - **Editorial:** Editorial Minúscula
 - **Formato:** Paperback, 163 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494353977 / 9788494353970
 - **Publicación original:** 2015-12-01
 - **Géneros:** [Relatos](/tags/relatos/), [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Thriller](/tags/thriller/)

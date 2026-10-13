@@ -1,5 +1,5 @@
 ---
-title: Lady Macbeth de Mtsensk
+title: '#286 · Lady Macbeth de Mtsensk'
 summary: Una de las mejores novelas rusas de todos los tiempos. La historia de un amor apasionado y desmedido ilustrada magníficamente
   por Ignasi Blanch. Admirado por…
 date: '2018-01-15T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Novella
 - Crimen
 toc: false
+id: 286
 autores:
 - Nikolai Leskov
 - Ignasi Blanch Gisbert
@@ -44,7 +45,7 @@ Una de las mejores novelas rusas de todos los tiempos. La historia de un amor ap
 - **Colaboradores:** [Ignasi Blanch Gisbert](/autores/ignasi-blanch-gisbert/) (Illustrator), [Marta Sánchez-Nieves](/autores/marta-sanchez-nieves/) (Translator)
 - **Editorial:** Nórdica Libros
 - **Formato:** Paperback, 136 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416440182 / 9788416440184
 - **Publicación original:** 2015-09-07
 - **Géneros:** [Clásico](/tags/clasico/), [Rusia](/tags/rusia/), [Ficción](/tags/ficcion/), [Literatura rusa](/tags/literatura-rusa/), [Relatos](/tags/relatos/), [Siglo XIX](/tags/siglo-xix/), [Literatura](/tags/literatura/), [Romance](/tags/romance/), [Novella](/tags/novella/), [Crimen](/tags/crimen/)

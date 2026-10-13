@@ -1,5 +1,5 @@
 ---
-title: Los premios Hugo 1955-1961
+title: '#55 · Los premios Hugo 1955-1961'
 summary: "Nine award-winning stories for the years 1955 to 1961, each with an introduction by Isaac Asimov. — \r\n\r\nContents:\
   \ \r\n\r\n— 1955: 13th Convention, Cleveland — 1-…"
 date: '2014-07-26T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Colecciones
 - Ficción especulativa
 toc: false
+id: 55
 autores:
 - Isaac Asimov
 autores_stats:
@@ -53,7 +54,7 @@ Contents:
 - **Serie:** The Hugo Winners (#1)
 - **Editorial:** Círculo de Lectores
 - **Formato:** Paperback, 331 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8422623943 / 9788422623946
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Relatos](/tags/relatos/), [Antología](/tags/antologia/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Premios Hugo](/tags/premios-hugo/), [Colecciones](/tags/colecciones/), [Ficción especulativa](/tags/ficcion-especulativa/)
 - **Ficha en Goodreads:** [Los premios Hugo 1955-1961](https://www.goodreads.com/book/show/22746804-los-premios-hugo-1955-1961)

@@ -1,5 +1,5 @@
 ---
-title: Akira, No. 2
+title: '#666 · Akira, No. 2'
 summary: Segundo tomo de la nueva y flamante edición a todo color del clásico de Katsuhiro Otomo. A KIRA es una obra maestra
   que no puede faltar en la biblioteca de…
 date: '2024-07-10T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Ciencia ficción
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Distopía
 - Literatura japanesa
 toc: false
+id: 666
 autores:
 - Katsuhiro Otomo
 autores_stats:
@@ -42,7 +42,7 @@ En un caótico Neo-Tokio recién emergido de las cenizas de la III Guerra Mundia
 - **Serie:** Akira [アキラ] (#2)
 - **Editorial:** Norma Editorial
 - **Formato:** Paperback, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498144167 / 9788498144161
 - **Publicación original:** 2006-02-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Cyberpunk](/tags/cyberpunk/), [Japón](/tags/japon/), [Distopía](/tags/distopia/), [Literatura japanesa](/tags/literatura-japanesa/)

@@ -1,5 +1,5 @@
 ---
-title: 'Buddy y los Bradley: Aquellos odiosos años'
+title: '#834 · Buddy y los Bradley: Aquellos odiosos años'
 summary: Buddy y los Bradley nos ofrece las primeras aventuras del pringado de Buddy Bradley, el protagonista de Odio, cuando
   todavía es un adolescente que acude al…
 date: '2026-05-10T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 834
 autores:
 - Peter Bagge
 autores_stats:
@@ -33,7 +33,7 @@ Buddy y los Bradley nos ofrece las primeras aventuras del pringado de Buddy Brad
 - **Serie:** Buddy y los Bradley (#1)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 84 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478333517 / 9788478333516
 - **Publicación original:** 2003-01-01
 - **Géneros:** [Comics](/tags/comics/)

@@ -1,5 +1,5 @@
 ---
-title: El portal de los obeliscos
+title: '#291 · El portal de los obeliscos'
 summary: '"El portal de los obeliscos" es la segunda parte de "La Tierra Fragmentada", serie que mezcla fantasía épica y ciencia
   ficción, y que ha hecho merecedora a su…'
 date: '2018-01-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Mágia
 - Ficción especulativa
 toc: false
+id: 291
 autores:
 - N.K. Jemisin
 - David Tejera Expósito
@@ -45,7 +46,7 @@ Toda era tiene que llegar a su fin. Ha dado comienzo una estación de desenlaces
 - **Colaboradores:** [David Tejera Expósito](/autores/david-tejera-exposito/) (Translator)
 - **Editorial:** NOVA
 - **Formato:** Paperback, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788466662673
 - **Publicación original:** 2018-01-25
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/), [Postapocalíptico](/tags/postapocaliptico/), [Mágia](/tags/magia/), [Ficción especulativa](/tags/ficcion-especulativa/)

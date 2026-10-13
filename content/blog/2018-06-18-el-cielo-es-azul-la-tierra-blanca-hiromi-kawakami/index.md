@@ -1,5 +1,5 @@
 ---
-title: El cielo es azul, la tierra blanca
+title: '#318 · El cielo es azul, la tierra blanca'
 summary: Tsukiko tiene 38 años y lleva una vida solitaria. Considera que no está dotada para el amor. Hasta que un día encuentra
   en una taberna a su viejo maestro de…
 date: '2018-06-18T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Novela
 - Adultos
 toc: false
+id: 318
 autores:
 - Hiromi Kawakami
 - Marina Bornas Montaña
@@ -43,7 +44,7 @@ Tsukiko tiene 38 años y lleva una vida solitaria. Considera que no está dotada
 - **Colaboradores:** [Marina Bornas Montaña](/autores/marina-bornas-montana/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 214 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492649143 / 9788492649143
 - **Publicación original:** 2009-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [Ásia](/tags/asia/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/), [Novela](/tags/novela/), [Adultos](/tags/adultos/)

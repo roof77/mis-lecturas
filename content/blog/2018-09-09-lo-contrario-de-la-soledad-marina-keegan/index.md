@@ -1,5 +1,5 @@
 ---
-title: Lo contrario de la soledad
+title: '#358 · Lo contrario de la soledad'
 summary: La celebridad de Marina Keegan iba en aumento cuando, en mayo de 2012, se graduó magna cum laude en Yale. Una obra
   de teatro suya iba a estrenarse en el…
 date: '2018-09-09T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Biografía
 - Adultos
 toc: false
+id: 358
 autores:
 - Marina Keegan
 - Regina López Muñoz
@@ -51,7 +52,7 @@ A pesar de que sólo contaba veintidós años cuando murió, Marina dejó un val
 - **Colaboradores:** [Regina López Muñoz](/autores/regina-lopez-munoz/) (Translator:)
 - **Editorial:** Alpha Decay
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492837861 / 9788492837861
 - **Publicación original:** 2015-03-31
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Relatos](/tags/relatos/), [Ensayo](/tags/ensayo/), [Memorias](/tags/memorias/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [Biografía](/tags/biografia/), [Adultos](/tags/adultos/)

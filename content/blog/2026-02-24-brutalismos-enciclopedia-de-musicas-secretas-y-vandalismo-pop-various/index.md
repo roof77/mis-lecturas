@@ -1,5 +1,5 @@
 ---
-title: 'BRUTALISMOS: ENCICLOPEDIA DE MÚSICAS SECRETAS Y VANDALISMO POP'
+title: '#802 · BRUTALISMOS: ENCICLOPEDIA DE MÚSICAS SECRETAS Y VANDALISMO POP'
 summary: 'Reseña de lectura de «BRUTALISMOS: ENCICLOPEDIA DE MÚSICAS SECRETAS Y VANDALISMO POP».'
 date: '2026-02-24T23:59:59'
 authors:
@@ -8,6 +8,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 802
 autores:
 - Various
 autores_stats:
@@ -26,7 +27,7 @@ nota: Recomendable
 - **Autor:** [Various](/autores/various/)
 - **Editorial:** La Felguera Editores
 - **Formato:** Paperback, 376 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9791399162400
 - **Publicación original:** 2026-02-09
 - **Ficha en Goodreads:** [BRUTALISMOS: ENCICLOPEDIA DE MÚSICAS SECRETAS Y VANDALISMO POP](https://www.goodreads.com/book/show/247095885-brutalismos)

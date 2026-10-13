@@ -1,5 +1,5 @@
 ---
-title: Ask the Passengers
+title: '#102 · Ask the Passengers'
 summary: Astrid Jones desperately wants to confide in someone, but her mother's pushiness and her father's lack of interest
   tell her they're the last people she can…
 date: '2015-03-30T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Realismo mágico
 - Adolescencia
 toc: false
+id: 102
 autores:
 - A.S. King
 autores_stats:

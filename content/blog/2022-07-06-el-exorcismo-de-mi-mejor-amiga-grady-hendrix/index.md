@@ -1,5 +1,5 @@
 ---
-title: El exorcismo de mi mejor amiga
+title: '#552 · El exorcismo de mi mejor amiga'
 summary: Dos jóvenes estudiantes de Secundaria, llamadas Abby y Gretchen, se tienen la una a la otra como mejores amigas desde
   los tiempos de la infancia. Pero en una…
 date: '2022-07-06T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Adultos
 toc: false
+id: 552
 autores:
 - Grady Hendrix
 - Joan Josep Mussarra Roca
@@ -46,7 +47,7 @@ Un espeluznante cruce entre Eternamente amigas y El exorcista, combina las angus
 - **Colaboradores:** [Joan Josep Mussarra Roca](/autores/joan-josep-mussarra-roca/) (Translator)
 - **Editorial:** Minotauro
 - **Formato:** Paperback, 351 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8445012487 / 9788445012482
 - **Publicación original:** 2022-06-29
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Paranormal](/tags/paranormal/), [Thriller](/tags/thriller/), [Fantasía](/tags/fantasia/), [Sobrenatural](/tags/sobrenatural/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/)

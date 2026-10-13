@@ -1,5 +1,5 @@
 ---
-title: Atrevidas
+title: '#646 · Atrevidas'
 summary: Frauen machen, was sie wollen! Ob Rapperin oder Apachenkriegerin, Schöpferin der Mumins oder Königin der Banditen
   – “Unerschrocken” enthält 30 humorvolle und…
 date: '2024-05-07T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - No Ficción
 - Feminismo
 - Historia
@@ -18,6 +17,7 @@ tags:
 - LGTBIQ+
 - Mujeres
 toc: false
+id: 646
 autores:
 - Pénélope Bagieu
 autores_stats:
@@ -41,7 +41,7 @@ Frauen machen, was sie wollen! Ob Rapperin oder Apachenkriegerin, Schöpferin de
 - **Serie:** Les Culottées (#1-2)
 - **Editorial:** NORMA EDITORIAL, S.A.
 - **Formato:** Hardcover, 312 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467958782 / 9788467958782
 - **Publicación original:** 2022-12-08
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Feminismo](/tags/feminismo/), [Historia](/tags/historia/), [Biografía](/tags/biografia/), [Histórico](/tags/historico/), [LGTBIQ+](/tags/lgtbiq/), [Mujeres](/tags/mujeres/)

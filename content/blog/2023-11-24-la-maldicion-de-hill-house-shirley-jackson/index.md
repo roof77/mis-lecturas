@@ -1,5 +1,5 @@
 ---
-title: La maldición de Hill House
+title: '#611 · La maldición de Hill House'
 summary: La maldición de Hill House (The Haunting of Hill House, 1959), considerada una de las principales novelas de horror
   del siglo XX, narra el inquietante…
 date: '2023-11-24T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Thriller
 - Fantasmas
 toc: false
+id: 611
 autores:
 - Shirley Jackson
 - Óscar Palmer Yáñez
@@ -42,7 +43,7 @@ La maldición de Hill House (The Haunting of Hill House, 1959), considerada una 
 - **Colaboradores:** [Óscar Palmer Yáñez](/autores/oscar-palmer-yanez/) (Translator)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2008-01-01
 - **Géneros:** [Terror](/tags/terror/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Misterio](/tags/misterio/), [Paranormal](/tags/paranormal/), [Club de lectura](/tags/club-de-lectura/), [Thriller](/tags/thriller/), [Fantasmas](/tags/fantasmas/)
 - **Personajes:** Dr. John Montague, Eleanor Vance, Theodora (The Haunting of Hill House), Luke Sanderson, Mrs. Montague, Arthur Parker (The Haunting of Hill House), Mrs. Dudley

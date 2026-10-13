@@ -1,5 +1,5 @@
 ---
-title: Maison Ikkoku tomo 8
+title: '#660 · Maison Ikkoku tomo 8'
 summary: Maison Ikkoku unterscheidet sich etwas von Rumiko Takahashis verrücktchaotischen Standartwerken wie Ranma 1/2 oder
   Inu Yasha. Der uns vertraute Takahashi-Witz…
 date: '2024-06-28T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Humor
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Slice of life
 - Literatura japanesa
 toc: false
+id: 660
 autores:
 - Rumiko Takahashi
 autores_stats:
@@ -41,7 +41,7 @@ Maison Ikkoku unterscheidet sich etwas von Rumiko Takahashis verrücktchaotische
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#8)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 340 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484495264 / 9788484495260
 - **Publicación original:** 2005-09-30
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Novela gráfica](/tags/novela-grafica/), [Seinen manga](/tags/seinen-manga/), [Slice of life](/tags/slice-of-life/), [Literatura japanesa](/tags/literatura-japanesa/)

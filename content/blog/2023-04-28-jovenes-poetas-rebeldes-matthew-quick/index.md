@@ -1,5 +1,5 @@
 ---
-title: Jóvenes poetas rebeldes
+title: '#590 · Jóvenes poetas rebeldes'
 summary: Nanette O´Hare es una sencilla adolescente que lleva mucho tiempo interpretando los papeles de hija obediente, estudiante
   modelo y brillante atleta. Este año…
 date: '2023-04-28T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Salud mentál
 - Adolescencia
 toc: false
+id: 590
 autores:
 - Matthew Quick
 - Julio Hermoso
@@ -41,7 +42,7 @@ Nanette O´Hare es una sencilla adolescente que lleva mucho tiempo interpretando
 - **Colaboradores:** [Julio Hermoso](/autores/julio-hermoso/) (Translator)
 - **Editorial:** Alfaguara Juvenil
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 842048444X / 9788420484440
 - **Publicación original:** 2016-10-02
 - **Géneros:** [Jovenes adultos](/tags/jovenes-adultos/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Ficción realista](/tags/ficcion-realista/), [Coming of age](/tags/coming-of-age/), [Salud mentál](/tags/salud-mental/), [Adolescencia](/tags/adolescencia/)

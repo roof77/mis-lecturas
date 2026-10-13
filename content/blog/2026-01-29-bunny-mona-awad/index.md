@@ -1,5 +1,5 @@
 ---
-title: Bunny
+title: '#794 · Bunny'
 summary: «Solo éramos unas jovencitas inocentes que intentaban hacer algo bonito en mitad de la noche. Estuvimos a punto de
   morir. Nos faltó muy poco, ¿a que…
 date: '2026-01-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Ficción Literaria
 toc: false
+id: 794
 autores:
 - Mona Awad
 - Jaime Valero Martínez
@@ -55,7 +56,7 @@ Bunny, la nueva y fascinante novela de una de las cronistas más intrépidas de 
 - **Colaboradores:** [Jaime Valero Martínez](/autores/jaime-valero-martinez/) (Translator)
 - **Editorial:** Stefano Books
 - **Formato:** Paperback, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9791387595241
 - **Publicación original:** 2025-10-21
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Dark Academia](/tags/dark-academia/), [Contemporaneo](/tags/contemporaneo/), [Thriller](/tags/thriller/), [Fantasía](/tags/fantasia/), [Realismo mágico](/tags/realismo-magico/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/)

@@ -1,5 +1,5 @@
 ---
-title: Las malas
+title: '#448 · Las malas'
 summary: "En un ambiente urbano hostil, Camila Sosa narra desde dentro la vida de una comunidad de travestis en Córdoba, Argentina.\r\
   \n\r\nCuando llegó a Córdoba capital…"
 date: '2020-12-01T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Realismo mágico
 - Ficción Literaria
 toc: false
+id: 448
 autores:
 - Camila Sosa Villada
 autores_stats:
@@ -42,7 +43,7 @@ Cuando llegó a Córdoba capital para estudiar en la universidad, Camila Sosa Vi
 - **Autor:** [Camila Sosa Villada](/autores/camila-sosa-villada/)
 - **Editorial:** Tusquets
 - **Formato:** Paperback, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9876704818 / 9789876704816
 - **Publicación original:** 2019-03-01
 - **Géneros:** [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Contemporaneo](/tags/contemporaneo/), [Feminismo](/tags/feminismo/), [Transgenero](/tags/transgenero/), [Literatura hispana](/tags/literatura-hispana/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/)

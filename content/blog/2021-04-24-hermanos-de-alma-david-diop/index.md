@@ -1,5 +1,5 @@
 ---
-title: Hermanos de alma
+title: '#456 · Hermanos de alma'
 summary: Alfa Ndiaye es senegalés y ha acabado combatiendo con el ejército francés en las trincheras de la Primera Guerra
   Mundial. En el mismo regimiento también lucha…
 date: '2021-04-24T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Terror
 - Primera guerra mundial
 toc: false
+id: 456
 autores:
 - David Diop
 - Rubén Martín Giráldez
@@ -43,7 +44,7 @@ Alfa Ndiaye es senegalés y ha acabado combatiendo con el ejército francés en 
 - **Colaboradores:** [Rubén Martín Giráldez](/autores/ruben-martin-giraldez/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 156 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433980521 / 9788433980526
 - **Publicación original:** 2019-11-13
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [África](/tags/africa/), [Guerra](/tags/guerra/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/), [Senegal](/tags/senegal/), [Francia](/tags/francia/), [Terror](/tags/terror/), [Primera guerra mundial](/tags/primera-guerra-mundial/)

@@ -1,5 +1,5 @@
 ---
-title: Jane Eyre
+title: '#466 · Jane Eyre'
 summary: De Jane Eyre (1847), ciertamente una de las novelas más famosas de estos dos últimos siglos, solemos conservar la
   imagen ultrarromántica de una azarosa…
 date: '2021-06-14T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Colegio
 - Literatura clásica
 toc: false
+id: 466
 autores:
 - Charlotte Brontë
 - Carmen Martín Gaite
@@ -44,7 +45,7 @@ Carmen Martín Gaite ha rescatado el vigor, la riqueza y la naturalidad expresiv
 - **Colaboradores:** [Carmen Martín Gaite](/autores/carmen-martin-gaite/) (Translator)
 - **Editorial:** Alba Editorial
 - **Formato:** Paperback, 694 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490651930 / 9788490651933
 - **Publicación original:** 2016-04-06
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Histórico](/tags/historico/), [Colegio](/tags/colegio/), [Literatura clásica](/tags/literatura-clasica/)

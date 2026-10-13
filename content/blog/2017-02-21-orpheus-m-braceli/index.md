@@ -1,5 +1,5 @@
 ---
-title: Orpheus
+title: '#237 · Orpheus'
 summary: Cuando destinaron a su padre a Minos, un asteroide en una galaxia moribunda, Orfeo no sospechaba de las auténticas
   intenciones de SAITO, la todopoderosa…
 date: '2017-02-21T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 237
 autores:
 - M. Braceli
 autores_stats:
@@ -33,7 +34,7 @@ When his father was appointed to work on Minos, an asteroid in a dying galaxy, O
 - **Autor:** [M. Braceli](/autores/m-braceli/)
 - **Editorial:** Kelonia
 - **Formato:** Paperback, 172 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2012-12-12
 - **Premios ganados:** Domingo Santos Award (2012)
 - **Ficha en Goodreads:** [Orpheus](https://www.goodreads.com/book/show/18370122-orpheus)

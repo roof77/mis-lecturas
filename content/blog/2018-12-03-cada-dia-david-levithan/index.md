@@ -1,5 +1,5 @@
 ---
-title: Cada día
+title: '#368 · Cada día'
 summary: Cada mañana, A despierta en el cuerpo y la vida de una persona diferente. Nunca hay aviso previo de dónde ocurrirá
   o quién será el elegido. Pero A ya se ha…
 date: '2018-12-03T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Paranormal
 - Adolescencia
 toc: false
+id: 368
 autores:
 - David Levithan
 autores_stats:
@@ -41,7 +42,7 @@ Cada mañana, A despierta en el cuerpo y la vida de una persona diferente. Nunca
 - **Serie:** Every Day (#1)
 - **Editorial:** Molino
 - **Formato:** Paperback, 302 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8427203225 / 9788427203228
 - **Publicación original:** 2012-10-25
 - **Géneros:** [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [LGTBIQ+](/tags/lgtbiq/), [Realismo mágico](/tags/realismo-magico/), [Paranormal](/tags/paranormal/), [Adolescencia](/tags/adolescencia/)

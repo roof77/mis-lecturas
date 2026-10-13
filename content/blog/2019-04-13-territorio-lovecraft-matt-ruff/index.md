@@ -1,5 +1,5 @@
 ---
-title: Territorio Lovecraft
+title: '#386 · Territorio Lovecraft'
 summary: Chicago, 1954. Siguiendo la pista de su padre desaparecido de forma misteriosa, el joven de 22 años Atticus Turner
   se embarca en un road trip hasta la mágica y…
 date: '2019-04-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Sobrenatural
 toc: false
+id: 386
 autores:
 - Matt Ruff
 - Javier Calvo Perales
@@ -45,7 +46,7 @@ En la mansión, Atticus descubre a su padre encerrado, prisionero de una socieda
 - **Colaboradores:** [Javier Calvo Perales](/autores/javier-calvo-perales/) (Translator)
 - **Editorial:** Destino
 - **Formato:** Kindle Edition, 448 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8423355306 / 9788423355303
 - **Publicación original:** 2019-03-12
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Histórico](/tags/historico/), [Lovecraftiano](/tags/lovecraftiano/), [Club de lectura](/tags/club-de-lectura/), [Sobrenatural](/tags/sobrenatural/)

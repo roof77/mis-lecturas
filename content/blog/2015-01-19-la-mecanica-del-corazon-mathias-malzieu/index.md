@@ -1,5 +1,5 @@
 ---
-title: La mecánica del corazón
+title: '#90 · La mecánica del corazón'
 summary: Imagina la noche más fría de la historia. La nieve cae sobre la ciudad de Edimburgo. En lo alto de una colina nace
   el pequeño Jack, pero su corazón está…
 date: '2015-01-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción histórica
 - Literatura francesa
 toc: false
+id: 90
 autores:
 - Mathias Malzieu
 - Vicenç Tuset
@@ -51,7 +52,7 @@ Deseemos suerte a Jack, y recuerda que, como en este cuento para ñinos grandes,
 - **Colaboradores:** [Vicenç Tuset](/autores/vicenc-tuset/) (Traducción), [Benjamin Lacombe](/autores/benjamin-lacombe/) (Ilustrador)
 - **Editorial:** Mondadori
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439721951 / 9788439721956
 - **Publicación original:** 2009-09-30
 - **Géneros:** [Fantasía](/tags/fantasia/), [Romance](/tags/romance/), [Ficción](/tags/ficcion/), [Steampunk](/tags/steampunk/), [Jovenes adultos](/tags/jovenes-adultos/), [Francia](/tags/francia/), [Realismo mágico](/tags/realismo-magico/), [Ficción histórica](/tags/ficcion-historica/), [Literatura francesa](/tags/literatura-francesa/)

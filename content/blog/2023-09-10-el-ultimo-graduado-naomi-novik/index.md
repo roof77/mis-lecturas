@@ -1,5 +1,5 @@
 ---
-title: El último graduado
+title: '#601 · El último graduado'
 summary: El conocimiento otorga protección. Ese es el lema oficial de la Escolomancia. Supongo que podríamos decir que es
   cierto., el problema es que aquí resulta muy…
 date: '2023-09-10T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Fantasía urbana
 - Terror
 toc: false
+id: 601
 autores:
 - Naomi Novik
 - Patricia Sebastián Hernández
@@ -42,7 +43,7 @@ El conocimiento otorga protección. Ese es el lema oficial de la Escolomancia. S
 - **Colaboradores:** [Patricia Sebastián Hernández](/autores/patricia-sebastian-hernandez/) (Translator)
 - **Editorial:** Umbriel
 - **Formato:** Paperback, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416517673 / 9788416517671
 - **Publicación original:** 2022-02-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Jovenes adultos](/tags/jovenes-adultos/), [Ficción](/tags/ficcion/), [Dark Academia](/tags/dark-academia/), [Mágia](/tags/magia/), [Romance](/tags/romance/), [Fantasía urbana](/tags/fantasia-urbana/), [Terror](/tags/terror/)

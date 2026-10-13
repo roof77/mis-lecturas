@@ -1,5 +1,5 @@
 ---
-title: 'Guerra mundial Z: Una historia oral de la guerra zombie'
+title: '#213 · Guerra mundial Z: Una historia oral de la guerra zombie'
 summary: Max Brooks ha dedicado varios años a recorrer el mundo en busca de todos los testimonios que ahora reúne aquí sobre
   la guerra mundial zombi. Por insólito que…
 date: '2016-11-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Apocalipsis
 - Guerra
 toc: false
+id: 213
 autores:
 - Max Brooks
 autores_stats:
@@ -46,7 +47,7 @@ Un relato insólito y realista, lleno de interrogantes sobre cómo se comportó 
 - **Serie:** World War Z
 - **Editorial:** Almuzara
 - **Formato:** Paperback, 464 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8496968812 / 9788496968813
 - **Publicación original:** 2008-05-30
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Zombies](/tags/zombies/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Postapocalíptico](/tags/postapocaliptico/), [Distopía](/tags/distopia/), [Apocalipsis](/tags/apocalipsis/), [Guerra](/tags/guerra/)

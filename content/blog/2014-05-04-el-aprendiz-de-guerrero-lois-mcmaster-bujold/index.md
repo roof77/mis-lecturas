@@ -1,5 +1,5 @@
 ---
-title: El aprendiz de guerrero
+title: '#32 · El aprendiz de guerrero'
 summary: El aprendiz de guerrero es una de las aventuras de Miles Vorkosigan, un genio de la estrategia dotado de gran inteligencia
   pero encerrado en un cuerpo…
 date: '2014-05-04T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ficción militar
 - Ficción especulativa
 toc: false
+id: 32
 autores:
 - Lois McMaster Bujold
 autores_stats:
@@ -43,7 +44,7 @@ Lois McMaster Bujold obtuvo el premio Nebula 1988 por En caída libre y también
 - **Serie:** Vorkosigan Saga (Publication Order) (#2)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 432 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8466617833 / 9788466617833
 - **Publicación original:** 2004-09-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Space Opera](/tags/space-opera/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Aventuras](/tags/aventuras/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Espacio](/tags/espacio/), [Ficción militar](/tags/ficcion-militar/), [Ficción especulativa](/tags/ficcion-especulativa/)

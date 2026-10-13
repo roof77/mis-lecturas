@@ -1,5 +1,5 @@
 ---
-title: 'The Crow: Edición definitiva'
+title: '#731 · The Crow: Edición definitiva'
 summary: Días antes de su boda, Eric Draven y su novia Shelly son asesinados violentamente por una pandilla. Un años más tarde,
   un misterioso cuervo guía a Eric en su…
 date: '2025-04-06T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Terror
@@ -17,6 +16,7 @@ tags:
 - Fantasía urbana
 - Crimen
 toc: false
+id: 731
 autores:
 - James O'Barr
 - Ramón de España
@@ -43,7 +43,7 @@ Nacida del dolor experimentado por su creador, J. O'Barr, ante la pérdida de un
 - **Colaboradores:** [Ramón de España](/autores/ramon-de-espana/) (traducción)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Hardcover, 248 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8499471358 / 9788499471358
 - **Publicación original:** 2012-01-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Fantasía urbana](/tags/fantasia-urbana/), [Crimen](/tags/crimen/)

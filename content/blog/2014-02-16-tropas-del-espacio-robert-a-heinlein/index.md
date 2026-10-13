@@ -1,5 +1,5 @@
 ---
-title: Tropas del espacio
+title: '#13 · Tropas del espacio'
 summary: Starship Troopers narra la formación de un soldado espacial y su aceptación final del darwinismo social en un proceso
   que implica la justificación del…
 date: '2014-02-16T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Space Opera
 - Espacio
 toc: false
+id: 13
 autores:
 - Robert A. Heinlein
 autores_stats:
@@ -40,7 +41,7 @@ Starship Troopers narra la formación de un soldado espacial y su aceptación fi
 - **Autor:** [Robert A. Heinlein](/autores/robert-a-heinlein/)
 - **Editorial:** Martinez Roca
 - **Formato:** Paperback, 242 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8427007345 / 9788427007345
 - **Publicación original:** 1982-01-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Ficción militar](/tags/ficcion-militar/), [Guerra](/tags/guerra/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Space Opera](/tags/space-opera/), [Espacio](/tags/espacio/)

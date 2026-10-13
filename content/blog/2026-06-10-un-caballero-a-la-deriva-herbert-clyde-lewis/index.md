@@ -1,5 +1,5 @@
 ---
-title: Un caballero a la deriva
+title: '#863 · Un caballero a la deriva'
 summary: 'Henry Preston Standish es un caballero en toda regla: goza de una exquisita educación y de una acomodada posición
   social, vive holgadamente en Nueva York y es…'
 date: '2026-06-10T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Club de lectura
 - Muerte
 toc: false
+id: 863
 autores:
 - Herbert Clyde Lewis
 - Ángeles de los Santos
@@ -45,7 +46,7 @@ Un caballero a la deriva es una novella visionaria, una pieza magistral por su s
 - **Colaboradores:** [Ángeles de los Santos](/autores/angeles-de-los-santos/) (Translator)
 - **Editorial:** Editorial Periférica
 - **Formato:** Kindle Edition, 116 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418838671 / 9788418838675
 - **Publicación original:** 2023-04-03
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Novella](/tags/novella/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Club de lectura](/tags/club-de-lectura/), [Muerte](/tags/muerte/)

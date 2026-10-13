@@ -1,5 +1,5 @@
 ---
-title: Carol
+title: '#307 · Carol'
 summary: Claire Morgan, una autora desconocida y que eligió permanecer en el más absoluto anonimato, publicó en 1952 una novela,
   El precio de la sal, notablemente audaz…
 date: '2018-05-01T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Histórico
 toc: false
+id: 307
 autores:
 - Claire Morgan
 - Patricia Highsmith
@@ -47,7 +48,7 @@ Carol es una novela de amor entre mujeres –de ahí la decisión de Patricia Hi
 - **Colaboradores:** [Patricia Highsmith](/autores/patricia-highsmith/) (Author), [Isabel Núñez](/autores/isabel-nunez/) (Translator), [José Aguirre](/autores/jose-aguirre/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 328 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433911465 / 9788433911469
 - **Publicación original:** 2016-04-28
 - **Géneros:** [Ficción](/tags/ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Clásico](/tags/clasico/), [Lesbianismo](/tags/lesbianismo/), [Ficción histórica](/tags/ficcion-historica/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/)

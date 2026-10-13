@@ -1,5 +1,5 @@
 ---
-title: Lo estás deseando
+title: '#485 · Lo estás deseando'
 summary: "Un libro deslumbrante con doce cuentos sobre los roles de género y los misterios del deseo. Un debut arrollador.\r\
   \n\r\nEn diciembre de 2017 Kristen Roupenian…"
 date: '2021-09-03T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Club de lectura
 toc: false
+id: 485
 autores:
 - Kristen Roupenian
 autores_stats:
@@ -48,7 +49,7 @@ Un libro cautivador sobre los roles de género, los misterios del deseo y el des
 - **Autor:** [Kristen Roupenian](/autores/kristen-roupenian/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Kindle Edition, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433940341 / 9788433940346
 - **Publicación original:** 2019-05-22
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Contemporaneo](/tags/contemporaneo/), [Feminismo](/tags/feminismo/), [Ficción Literaria](/tags/ficcion-literaria/), [Colección de relatos](/tags/coleccion-de-relatos/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/)

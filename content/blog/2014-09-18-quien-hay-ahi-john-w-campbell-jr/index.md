@@ -1,5 +1,5 @@
 ---
-title: ¿Quién hay ahí?
+title: '#69 · ¿Quién hay ahí?'
 summary: Esta novela corta, seguramente la más conocida y trascendente de su producción, escrita por Campbell con el pseudónimo
   de Don A. Stuart, aparece por primera…
 date: '2014-09-18T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Thriller
 - Fantasía
 toc: false
+id: 69
 autores:
 - John W. Campbell Jr.
 autores_stats:
@@ -38,7 +39,7 @@ Esta novela corta, seguramente la más conocida y trascendente de su producción
 - **Autor:** [John W. Campbell Jr.](/autores/john-w-campbell-jr/)
 - **Editorial:** Editor digital: Titivillus
 - **Formato:** EPUB, 145 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Géneros:** [Terror](/tags/terror/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Novella](/tags/novella/), [Extraterrestres](/tags/extraterrestres/), [Thriller](/tags/thriller/), [Fantasía](/tags/fantasia/)
 - **Premios ganados:** Retro Hugo Award (2014)
 - **Ficha en Goodreads:** [¿Quién hay ahí?](https://www.goodreads.com/book/show/41216167-qui-n-hay-ah)

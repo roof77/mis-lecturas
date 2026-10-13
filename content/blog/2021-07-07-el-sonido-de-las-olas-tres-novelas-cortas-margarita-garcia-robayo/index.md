@@ -1,5 +1,5 @@
 ---
-title: 'El sonido de las olas: Tres novelas cortas'
+title: '#470 · El sonido de las olas: Tres novelas cortas'
 summary: 'Margarita García Robayo mira el mundo con despiadada atención pero también con suma naturalidad: nunca está completamente
   afuera de lo que observa o de lo que…'
 date: '2021-07-07T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Ficción
 - Novela
 toc: false
+id: 470
 autores:
 - Margarita García Robayo
 autores_stats:
@@ -39,7 +40,7 @@ Alejandro Zambra
 - **Autor:** [Margarita García Robayo](/autores/margarita-garcia-robayo/)
 - **Editorial:** ALFAGUARA
 - **Formato:** Paperback, 284 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9585496984 / 9789585496989
 - **Publicación original:** 2020-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Novela](/tags/novela/)

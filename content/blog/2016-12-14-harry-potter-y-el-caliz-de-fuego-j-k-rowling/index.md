@@ -1,5 +1,5 @@
 ---
-title: Harry Potter y el cáliz de fuego
+title: '#219 · Harry Potter y el cáliz de fuego'
 summary: Tras otro abominable verano con los Dursley, Harry se dispone a iniciar el cuarto curso en Hogwarts, la famosa escuela
   de magia y hechicería. A sus catorce…
 date: '2016-12-14T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Aventuras
 - Clásico
 toc: false
+id: 219
 autores:
 - J.K. Rowling
 autores_stats:
@@ -40,7 +41,7 @@ Tras otro abominable verano con los Dursley, Harry se dispone a iniciar el cuart
 - **Serie:** Harry Potter (#4)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 672 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478886451 / 9788478886456
 - **Publicación original:** 2001-03-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Harry Potter](/tags/harry-potter/), [Mágia](/tags/magia/), [Niños](/tags/ninos/), [Aventuras](/tags/aventuras/), [Clásico](/tags/clasico/)

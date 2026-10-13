@@ -1,5 +1,5 @@
 ---
-title: La vida cotidiana del dibujante underground
+title: '#206 · La vida cotidiana del dibujante underground'
 summary: Nazario Luque Vera, de nombre artístico Nazario, llegó a Barcelona procedente de Sevilla en 1972 con un trabajo de
   maestro bajo el brazo y el firme propósito…
 date: '2016-09-15T23:59:59'
@@ -9,8 +9,8 @@ tags:
 - Lecturas
 - Comics
 - LGTBIQ+
-- Comics
 toc: false
+id: 206
 autores:
 - Nazario
 autores_stats:
@@ -37,7 +37,7 @@ Un testimonio valiosísimo de un momento irrepetible y de una Barcelona creativa
 - **Autor:** [Nazario](/autores/nazario/)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 288 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433926128 / 9788433926128
 - **Publicación original:** 2016-06-01
 - **Géneros:** [LGTBIQ+](/tags/lgtbiq/), [Comics](/tags/comics/)

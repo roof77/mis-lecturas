@@ -1,5 +1,5 @@
 ---
-title: Lady Snowblood, vol. 2
+title: '#733 · Lady Snowblood, vol. 2'
 summary: La sed de venganza de Osayo, una mujer que lo perdió todo a manos de cuatro indeseables, la lleva a quedarse embarazada
   en la prisión en la que debe acabar sus…
 date: '2025-04-12T23:59:59'
@@ -9,11 +9,11 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Novela gráfica
 - Seinen manga
 - Drama
 toc: false
+id: 733
 autores:
 - Kazuo Koike
 - Kazuo Kamimura
@@ -39,7 +39,7 @@ La sed de venganza de Osayo, una mujer que lo perdió todo a manos de cuatro ind
 - **Colaboradores:** [Kazuo Kamimura](/autores/kazuo-kamimura/) (illustrator)
 - **Editorial:** Planeta Cómic
 - **Formato:** Hardcover, 520 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8411123820 / 9788411123822
 - **Publicación original:** 2023-06-14
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Seinen manga](/tags/seinen-manga/), [Drama](/tags/drama/)

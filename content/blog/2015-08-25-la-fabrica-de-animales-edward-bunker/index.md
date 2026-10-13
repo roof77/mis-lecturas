@@ -1,5 +1,5 @@
 ---
-title: La fábrica de animales
+title: '#137 · La fábrica de animales'
 summary: Ron Decker, joven de buena familia, acaba con sus huesos en la temible prisión de San Quintín tras su primera detención
   por «vender droga como si tuviese…
 date: '2015-08-25T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Contemporaneo
 - Siglo XX
 toc: false
+id: 137
 autores:
 - Edward Bunker
 autores_stats:
@@ -41,7 +42,7 @@ Ron Decker, joven de buena familia, acaba con sus huesos en la temible prisión 
 - **Autor:** [Edward Bunker](/autores/edward-bunker/)
 - **Editorial:** Sajalín Editores
 - **Formato:** Paperback, 315 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493805173 / 9788493805173
 - **Publicación original:** 2011-01-01
 - **Géneros:** [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [Noir](/tags/noir/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Canon](/tags/canon/), [Contemporaneo](/tags/contemporaneo/), [Siglo XX](/tags/siglo-xx/)

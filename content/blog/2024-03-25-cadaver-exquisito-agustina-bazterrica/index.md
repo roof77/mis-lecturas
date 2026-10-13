@@ -1,5 +1,5 @@
 ---
-title: Cadáver exquisito
+title: '#630 · Cadáver exquisito'
 summary: "Una despiadada distopía en la que Agustina Bazterrica inspira, con el poder explosivo de la ficción, debates de\
   \ suma actualidad.\r\n\r\nLa súbita aparición de un…"
 date: '2024-03-25T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Oscuro
 toc: false
+id: 630
 autores:
 - Agustina Bazterrica
 autores_stats:
@@ -49,7 +50,7 @@ Con más de 200,000 lectores en todo el mundo, traducido a 23 idiomas y derechos
 - **Autor:** [Agustina Bazterrica](/autores/agustina-bazterrica/)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 249 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9870737943 / 9789870737940
 - **Publicación original:** 2017-11-29
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Thriller](/tags/thriller/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Oscuro](/tags/oscuro/)

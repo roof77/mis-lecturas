@@ -1,5 +1,5 @@
 ---
-title: ¡Guardias! ¡Guardias!
+title: '#765 · ¡Guardias! ¡Guardias!'
 summary: La ciudad de Ankh-Morpork está gobernada por un Patricio, Lord Vetinari, que ha legalizado los asesinatos, los robos,
   la mendicidad y la prostitución para…
 date: '2025-08-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Alta fantasía
 - Sátira
 toc: false
+id: 765
 autores:
 - Terry Pratchett
 - Cristina Macía Orio
@@ -44,7 +45,7 @@ Por otra parte, en las montañas, el rey de una mina de enanos decide enviar a s
 - **Colaboradores:** [Cristina Macía Orio](/autores/cristina-macia-orio/) (Translator)
 - **Editorial:** DeBolsillo
 - **Formato:** Mass Market Paperback, 395 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8497931866 / 9788497931861
 - **Publicación original:** 2004-01-07
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Dragones](/tags/dragones/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Mágia](/tags/magia/), [Alta fantasía](/tags/alta-fantasia/), [Sátira](/tags/satira/)

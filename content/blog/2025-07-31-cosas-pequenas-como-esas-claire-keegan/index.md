@@ -1,5 +1,5 @@
 ---
-title: Cosas pequeñas como esas
+title: '#763 · Cosas pequeñas como esas'
 summary: Invierno de 1985 en un pequeño pueblo irlandés. Bill Furlong es un hombre amable y un trabajador infatigable, vende
   carbón y madera. Su única preocupación es…
 date: '2025-07-31T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura irlandesa
 - Histórico
 toc: false
+id: 763
 autores:
 - Claire Keegan
 - Jorge Fondebrider
@@ -44,7 +45,7 @@ Claire Keegan, una de las voces más potentes de la literatura irlandesa contemp
 - **Colaboradores:** [Jorge Fondebrider](/autores/jorge-fondebrider/) (Translator)
 - **Editorial:** Eterna Cadencia
 - **Formato:** Kindle Edition, 83 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9877122413 / 9789877122411
 - **Publicación original:** 2021-09-24
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Irlanda](/tags/irlanda/), [Club de lectura](/tags/club-de-lectura/), [Navidad](/tags/navidad/), [Ficción Literaria](/tags/ficcion-literaria/), [Novella](/tags/novella/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Histórico](/tags/historico/)

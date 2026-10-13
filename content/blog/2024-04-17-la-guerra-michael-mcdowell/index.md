@@ -1,5 +1,5 @@
 ---
-title: La guerra
+title: '#638 · La guerra'
 summary: 'Comienza una nueva era para el clan Caskey: la persistencia y el trabajo duro de Elinor en Perdido por fin parecen
   dar sus frutos. Su control arraiga en los…'
 date: '2024-04-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Thriller
 - Histórico
 toc: false
+id: 638
 autores:
 - Michael McDowell
 - Albert Vitó
@@ -43,7 +44,7 @@ Comienza una nueva era para el clan Caskey: la persistencia y el trabajo duro de
 - **Colaboradores:** [Albert Vitó](/autores/albert-vito/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Mass Market Paperback, 263 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419654957 / 9788419654953
 - **Publicación original:** 2024-03-20
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Gótico sureño](/tags/gotico-sureno/), [Thriller](/tags/thriller/), [Histórico](/tags/historico/)

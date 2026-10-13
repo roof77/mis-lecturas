@@ -1,5 +1,5 @@
 ---
-title: La cantina de medianoche 5
+title: '#818 · La cantina de medianoche 5'
 summary: Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el barrio de Shinjuku, todo el mundo los
   conoce. Abierta desde las doce de la noche…
 date: '2026-03-26T23:59:59'
@@ -9,12 +9,12 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Japón
 - Comida
 - Novela gráfica
 - Ficción
 toc: false
+id: 818
 autores:
 - Yarō Abe
 - Alberto Sakai Fonseca
@@ -40,7 +40,7 @@ Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el ba
 - **Colaboradores:** [Alberto Sakai Fonseca](/autores/alberto-sakai-fonseca/) (Translator)
 - **Editorial:** ASTIBERRI EDICIONES
 - **Formato:** Paperback, 296 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8418909277 / 9788418909276
 - **Publicación original:** 2022-06-23
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Japón](/tags/japon/), [Comida](/tags/comida/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/)

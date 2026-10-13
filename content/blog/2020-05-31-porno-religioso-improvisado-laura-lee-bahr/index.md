@@ -1,5 +1,5 @@
 ---
-title: Porno religioso improvisado
+title: '#434 · Porno religioso improvisado'
 summary: Cuando Dominique Colt asesinó de manera brutal a su prometido y a su amante gay en el transcurso de un juego sexual,
   no tenía ni idea de las calamidades por…
 date: '2020-05-31T23:59:59'
@@ -15,6 +15,7 @@ tags:
 - Vampiros
 - Novela
 toc: false
+id: 434
 autores:
 - Laura Lee Bahr
 - Hugo Camacho
@@ -51,7 +52,7 @@ Laura Fernández, autora de Connerland
 - **Colaboradores:** [Hugo Camacho](/autores/hugo-camacho/) (Traductor)
 - **Editorial:** Orciny Press
 - **Formato:** Paperback, 194 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494756559 / 9788494756559
 - **Publicación original:** 2018-07-09
 - **Géneros:** [Bizarro](/tags/bizarro/), [Terror](/tags/terror/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Vampiros](/tags/vampiros/), [Novela](/tags/novela/)

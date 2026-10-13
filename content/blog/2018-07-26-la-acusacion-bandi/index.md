@@ -1,5 +1,5 @@
 ---
-title: La acusación
+title: '#325 · La acusación'
 summary: En el año 2013 un anónimo escritor norcoreano consiguió sacar fuera del país un manuscrito que contenía parte de
   su obra literaria. Un año después se…
 date: '2018-07-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Histórico
 - Adultos
 toc: false
+id: 325
 autores:
 - Bandi
 - Hèctor Bofill
@@ -45,7 +46,7 @@ Ambientados en la década de 1990, en los últimos años del liderazgo de Kim Il
 - **Colaboradores:** [Hèctor Bofill](/autores/hector-bofill/) (Translator), [Hye Young Yu](/autores/hye-young-yu/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 242 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417007075 / 9788417007072
 - **Publicación original:** 2017-05-29
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Ásia](/tags/asia/), [Ficción histórica](/tags/ficcion-historica/), [Política](/tags/politica/), [Contemporaneo](/tags/contemporaneo/), [Literatura asiática](/tags/literatura-asiatica/), [Histórico](/tags/historico/), [Adultos](/tags/adultos/)

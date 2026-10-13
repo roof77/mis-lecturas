@@ -1,5 +1,5 @@
 ---
-title: Daredevil by Ed Brubaker Omnibus, Vol. 1
+title: '#881 · Daredevil by Ed Brubaker Omnibus, Vol. 1'
 summary: Nominated for three Eisner Awards - "Best Continuing Series," "Best Writer," and "Best Penciler-Inker Team " Longtime
   Daredevil fans will not be disappointed…
 date: '2026-07-05T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Marvel
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Colecciones
 - Acción
 toc: false
+id: 881
 autores:
 - Ed Brubaker
 - Michael Lark

@@ -1,5 +1,5 @@
 ---
-title: Alguien que te quiera con todas tus heridas
+title: '#472 · Alguien que te quiera con todas tus heridas'
 summary: A través de sus personajes rotos, el autor se ríe de lo que se asume como el triunfo, de la vanidad, del esfuerzo
   inútil de ser reconocido por los otros. Pero…
 date: '2021-07-14T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Antología
 toc: false
+id: 472
 autores:
 - Raphael Bob-Waksberg
 autores_stats:
@@ -40,7 +41,7 @@ A través de sus personajes rotos, el autor se ríe de lo que se asume como el t
 - **Autor:** [Raphael Bob-Waksberg](/autores/raphael-bob-waksberg/)
 - **Editorial:** Círculo de Tiza
 - **Formato:** Paperback, 300 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412226755 / 9788412226751
 - **Publicación original:** 2021-05-05
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Antología](/tags/antologia/)

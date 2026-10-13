@@ -1,5 +1,5 @@
 ---
-title: El tiempo es un canalla
+title: '#95 · El tiempo es un canalla'
 summary: En plena crisis de madurez, Bennie Salazar, que en los setenta formó parte de una banda punk y ahora es un alto ejecutivo
   de la decadente industria…
 date: '2015-02-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Ficción adulta
 toc: false
+id: 95
 autores:
 - Jennifer Egan
 autores_stats:
@@ -41,7 +42,7 @@ En plena crisis de madurez, Bennie Salazar, que en los setenta formó parte de u
 - **Serie:** Goon Squad (#1)
 - **Editorial:** Minúscula
 - **Formato:** Paperback, 408 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8495587831 / 9788495587831
 - **Publicación original:** 2011-11-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Música](/tags/musica/), [Relatos](/tags/relatos/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Ficción adulta](/tags/ficcion-adulta/)

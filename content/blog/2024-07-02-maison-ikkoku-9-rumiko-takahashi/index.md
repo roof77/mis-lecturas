@@ -1,5 +1,5 @@
 ---
-title: Maison Ikkoku 9
+title: '#661 · Maison Ikkoku 9'
 summary: "Tomo 9 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-07-02T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Humor
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Slice of life
 - Literatura japanesa
 toc: false
+id: 661
 autores:
 - Rumiko Takahashi
 autores_stats:
@@ -42,7 +42,7 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#9)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 348 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484495272 / 9788484495277
 - **Publicación original:** 2005-06-30
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Novela gráfica](/tags/novela-grafica/), [Seinen manga](/tags/seinen-manga/), [Slice of life](/tags/slice-of-life/), [Literatura japanesa](/tags/literatura-japanesa/)

@@ -1,5 +1,5 @@
 ---
-title: La plaza del diamante
+title: '#808 · La plaza del diamante'
 summary: La plaza del Diamante ha sido reconocida como una de las mejores novelas catalanas de posguerra. “La novelista –
   dice Joan Fuester- ha sabido encontrar el tono…
 date: '2026-03-06T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Siglo XX
 - Literatura
 toc: false
+id: 808
 autores:
 - Mercè Rodoreda
 autores_stats:
@@ -41,7 +42,7 @@ La plaza del Diamante ha sido reconocida como una de las mejores novelas catalan
 - **Autor:** [Mercè Rodoreda](/autores/merce-rodoreda/)
 - **Editorial:** Edhasa
 - **Formato:** Paperback, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 843501536X / 9788435015363
 - **Publicación original:** 1982-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [España](/tags/espana/), [Ficción histórica](/tags/ficcion-historica/), [Literatura hispana](/tags/literatura-hispana/), [Guerra](/tags/guerra/), [Histórico](/tags/historico/), [Novela](/tags/novela/), [Siglo XX](/tags/siglo-xx/), [Literatura](/tags/literatura/)

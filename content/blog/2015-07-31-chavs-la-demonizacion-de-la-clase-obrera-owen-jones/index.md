@@ -1,5 +1,5 @@
 ---
-title: 'Chavs: La demonización de la clase obrera'
+title: '#132 · Chavs: La demonización de la clase obrera'
 summary: En la Gran Bretaña actual, la clase trabajadora se ha convertido en objeto de miedo y escarnio. Desde la Vicky Pollard
   de Little Britain a la demonización de…
 date: '2015-07-31T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura británica
 - Actualidad
 toc: false
+id: 132
 autores:
 - Owen Jones
 - Íñigo Jaúregui Eguía
@@ -44,7 +45,7 @@ En este aclamado estudio, Owen Jones analiza cómo la clase trabajadora ha pasad
 - **Colaboradores:** [Íñigo Jaúregui Eguía](/autores/inigo-jauregui-eguia/) (Translator)
 - **Editorial:** Capitán Swing
 - **Formato:** Paperback, 360 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494027972 / 9788494027970
 - **Publicación original:** 2012-10-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Política](/tags/politica/), [Sociología](/tags/sociologia/), [Historia](/tags/historia/), [Sociedad](/tags/sociedad/), [Economía](/tags/economia/), [Clase social](/tags/clase-social/), [Literatura británica](/tags/literatura-britanica/), [Actualidad](/tags/actualidad/)

@@ -1,5 +1,5 @@
 ---
-title: Juliet, desnuda
+title: '#426 · Juliet, desnuda'
 summary: Annie y Duncan están cerca de la cuarentena, y son una pareja de hecho desde hace quince años. Viven en una pequeña
   ciudad de la costa de Inglaterra. Ambos son…
 date: '2020-04-10T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura británica
 - Ficción adulta
 toc: false
+id: 426
 autores:
 - Nick Hornby
 - Jesús Zulaika
@@ -42,7 +43,7 @@ Annie y Duncan están cerca de la cuarentena, y son una pareja de hecho desde ha
 - **Colaboradores:** [Jesús Zulaika](/autores/jesus-zulaika/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2013-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Música](/tags/musica/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Club de lectura](/tags/club-de-lectura/), [Novela](/tags/novela/), [Literatura británica](/tags/literatura-britanica/), [Ficción adulta](/tags/ficcion-adulta/)
 - **Personajes:** Tucker Crowe, Duncan Thomson, Annie Platt

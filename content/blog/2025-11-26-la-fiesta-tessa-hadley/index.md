@@ -1,5 +1,5 @@
 ---
-title: La fiesta
+title: '#785 · La fiesta'
 summary: Reseña de lectura de «La fiesta».
 date: '2025-11-26T23:59:59'
 authors:
@@ -8,6 +8,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 785
 autores:
 - Tessa Hadley
 - Magdalena Teresa Palmer Molera
@@ -28,7 +29,7 @@ nota: Muy recomendable
 - **Colaboradores:** [Magdalena Teresa Palmer Molera](/autores/magdalena-teresa-palmer-molera/) (Translator)
 - **Editorial:** Narrativa
 - **Formato:** Paperback, 108 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410249642 / 9788410249646
 - **Publicación original:** 2025-09-29
 - **Ficha en Goodreads:** [La fiesta](https://www.goodreads.com/book/show/240706980-la-fiesta)

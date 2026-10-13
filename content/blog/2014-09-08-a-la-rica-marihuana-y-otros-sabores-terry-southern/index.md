@@ -1,5 +1,5 @@
 ---
-title: A La Rica Marihuana Y Otros Sabores
+title: '#65 · A La Rica Marihuana Y Otros Sabores'
 summary: Esta recopilación de escritos, artículos y entrevistas en torno a la droga, la música, la política exterior norteamericana,
   la CIA, el periodismo, la moral…
 date: '2014-09-08T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Sátira
 - Ficción americana
 toc: false
+id: 65
 autores:
 - Terry Southern
 autores_stats:

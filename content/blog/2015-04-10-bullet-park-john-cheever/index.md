@@ -1,5 +1,5 @@
 ---
-title: Bullet Park
+title: '#104 · Bullet Park'
 summary: Bienvenidos a Bullet Park, un universo en donde hasta sus habitantes más intachables pueden sentirse aterrorizados
   por el simple acto de mirarse al espejo. En…
 date: '2015-04-10T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Siglo XX
 - Club de lectura
 toc: false
+id: 104
 autores:
 - John Cheever
 autores_stats:
@@ -39,7 +40,7 @@ Bienvenidos a Bullet Park, un universo en donde hasta sus habitantes más intach
 - **Autor:** [John Cheever](/autores/john-cheever/)
 - **Editorial:** Emece Editores
 - **Formato:** Paperback, 243 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9500427451 / 9789500427456
 - **Publicación original:** 2006-02-28
 - **Géneros:** [Ficción](/tags/ficcion/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Clásico](/tags/clasico/), [Siglo XX](/tags/siglo-xx/), [Club de lectura](/tags/club-de-lectura/)

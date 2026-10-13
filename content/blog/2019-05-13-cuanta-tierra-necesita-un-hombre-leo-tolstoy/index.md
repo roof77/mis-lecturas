@@ -1,5 +1,5 @@
 ---
-title: ¿Cuánta tierra necesita un hombre?
+title: '#390 · ¿Cuánta tierra necesita un hombre?'
 summary: Escrito en 1886, ¿Cuánta tierra necesita un hombre? es una modernísima parábola sobre la ambición del ser humano.
   Pajom es un campesino al que ninguna…
 date: '2019-05-13T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Novela
 - Ficción histórica
 toc: false
+id: 390
 autores:
 - Leo Tolstoy
 - Víctor Gallego
@@ -47,7 +48,7 @@ La prosa de Tolstói —decía Nabokov— late al ritmo de nuestro corazón. Ele
 - **Colaboradores:** [Víctor Gallego](/autores/victor-gallego/) (translator), [Elena Odriozola](/autores/elena-odriozola/) (Ilustraciones), [Lev Tolstói](/autores/lev-tolstoi/) (Author)
 - **Editorial:** Nordica Libros
 - **Formato:** Paperback, 66 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849268335X / 9788492683352
 - **Publicación original:** 2011-11-01
 - **Géneros:** [Clásico](/tags/clasico/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Literatura rusa](/tags/literatura-rusa/), [Rusia](/tags/rusia/), [Filosofía](/tags/filosofia/), [Literatura](/tags/literatura/), [Siglo XIX](/tags/siglo-xix/), [Novela](/tags/novela/), [Ficción histórica](/tags/ficcion-historica/)

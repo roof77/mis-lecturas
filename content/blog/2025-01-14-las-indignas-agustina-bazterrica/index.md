@@ -1,5 +1,5 @@
 ---
-title: Las indignas
+title: '#695 · Las indignas'
 summary: El mundo atravesó guerras por el agua y catástrofes ambientales. Los días pasan de gélidos a sofocantes en cuestión
   de horas; el aire está saturado de olores…
 date: '2025-01-14T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Lesbianismo
 - Ficción Literaria
 toc: false
+id: 695
 autores:
 - Agustina Bazterrica
 autores_stats:
@@ -42,7 +43,7 @@ Narrado a través de las anotaciones dispersas del diario en el que la protagoni
 - **Autor:** [Agustina Bazterrica](/autores/agustina-bazterrica/)
 - **Editorial:** Penguin Random House
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9878266966 / 9789878266961
 - **Publicación original:** 2023-09-01
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ciencia ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/), [Lesbianismo](/tags/lesbianismo/), [Ficción Literaria](/tags/ficcion-literaria/)

@@ -1,5 +1,5 @@
 ---
-title: El vivo
+title: '#377 · El vivo'
 summary: El mundo tal y como lo conocemos ha llegado a su fin. Después de la Gran Reducción, la población de la Tierra se
   mantiene fija en tres billones de habitantes…
 date: '2019-02-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Terror
 - Ficción especulativa
 toc: false
+id: 377
 autores:
 - Anna Starobinets
 - Raquel Marqués García
@@ -46,7 +47,7 @@ Ya no hay individuos, cada ser humano no es más que un elemento en una concienc
 - **Colaboradores:** [Raquel Marqués García](/autores/raquel-marques-garcia/) (Translator), [Julián Díez](/autores/julian-diez/) (Foreword), [Zuri Negrín](/autores/zuri-negrin/) (Illustrator)
 - **Editorial:** Nevsky Prospects
 - **Formato:** Paperback, 382 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493935867 / 9788493935863
 - **Publicación original:** 2012-11-19
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Distopía](/tags/distopia/), [Rusia](/tags/rusia/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Literatura rusa](/tags/literatura-rusa/), [Cyberpunk](/tags/cyberpunk/), [Terror](/tags/terror/), [Ficción especulativa](/tags/ficcion-especulativa/)

@@ -1,5 +1,5 @@
 ---
-title: El Gran Cuando
+title: '#742 · El Gran Cuando'
 summary: El esperado retorno de Alan Moore a la novela, una oda a Londres y un tour de force lleno de magia e historia que
   será adaptado a la televisión«Una delicia»…
 date: '2025-05-10T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Histórico
 - Ficción especulativa
 toc: false
+id: 742
 autores:
 - Alan Moore
 - Juan Trejo
@@ -43,7 +44,7 @@ El esperado retorno de Alan Moore a la novela, una oda a Londres y un tour de fo
 - **Colaboradores:** [Juan Trejo](/autores/juan-trejo/) (Translator)
 - **Editorial:** Nocturna
 - **Formato:** Kindle Edition, 387 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9791387690014
 - **Publicación original:** 2025-02-27
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía urbana](/tags/fantasia-urbana/), [Londres](/tags/londres/), [Libros sobre libros](/tags/libros-sobre-libros/), [Histórico](/tags/historico/), [Ficción especulativa](/tags/ficcion-especulativa/)

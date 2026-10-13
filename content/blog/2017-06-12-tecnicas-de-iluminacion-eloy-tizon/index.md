@@ -1,5 +1,5 @@
 ---
-title: Técnicas de iluminación
+title: '#251 · Técnicas de iluminación'
 summary: ¿Qué ocurrió realmente en la fiesta celebrada anoche? ¿Hubo alguna víctima? ¿Qué contiene la caja que nuestro jefe
   nos entrega en secreto, pidiéndonos que no…
 date: '2017-06-12T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Relatos
 toc: false
+id: 251
 autores:
 - Eloy Tizón
 autores_stats:
@@ -34,7 +35,7 @@ En todos estos relatos hay un reverso de sombra, un vértice de silencio, algo q
 - **Autor:** [Eloy Tizón](/autores/eloy-tizon/)
 - **Editorial:** Páginas de Espuma
 - **Formato:** Paperback, 168 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8483931524 / 9788483931523
 - **Publicación original:** 2013-10-02
 - **Géneros:** [Relatos](/tags/relatos/)

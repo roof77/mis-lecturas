@@ -1,5 +1,5 @@
 ---
-title: Laura Dean me ha vuelto a dejar
+title: '#821 · Laura Dean me ha vuelto a dejar'
 summary: 'Laura Dean es la chica más popular del instituto: es encantadora, divertida y realmente preciosa, pero tiene papeletas
   para ser la peor novia del mundo. ¡Y si…'
 date: '2026-04-02T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Romance
@@ -18,6 +17,7 @@ tags:
 - Ficción
 - Lesbianismo
 toc: false
+id: 821
 autores:
 - Mariko Tamaki
 - Rosemary Valero-O'Connell
@@ -47,7 +47,7 @@ Mariko Tamaki y Rosemary Valero O’Conell fraguan una historia de amor efervesc
 - **Colaboradores:** [Rosemary Valero-O'Connell](/autores/rosemary-valero-o-connell/) (Ilustrator), [Natalia Mosquera](/autores/natalia-mosquera/) (Translator)
 - **Editorial:** Ediciones La Cúpula
 - **Formato:** Paperback, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417442456 / 9788417442453
 - **Publicación original:** 2020-03-19
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Lesbianismo](/tags/lesbianismo/)

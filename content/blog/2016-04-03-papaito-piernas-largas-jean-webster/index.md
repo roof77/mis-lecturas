@@ -1,5 +1,5 @@
 ---
-title: Papaíto piernas largas
+title: '#186 · Papaíto piernas largas'
 summary: Judy Abbott es una muchacha alegre, cordial y trabajadora que no conoce el mundo más allá de los muros del orfanato
   donde se ha criado... hasta que su vida da…
 date: '2016-04-03T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Histórico
 - Coming of age
 toc: false
+id: 186
 autores:
 - Jean Webster
 autores_stats:
@@ -41,7 +42,7 @@ Judy Abbott es una muchacha alegre, cordial y trabajadora que no conoce el mundo
 - **Serie:** Daddy-Long-Legs (#1)
 - **Editorial:** Biblok
 - **Formato:** Paperback, 222 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493790141 / 9788493790141
 - **Publicación original:** 2010-01-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Romance](/tags/romance/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Niños](/tags/ninos/), [Histórico](/tags/historico/), [Coming of age](/tags/coming-of-age/)

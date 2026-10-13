@@ -1,5 +1,5 @@
 ---
-title: La maravillosa vida breve de Óscar Wao
+title: '#175 · La maravillosa vida breve de Óscar Wao'
 summary: En la noche, cuando estaba echado en la cama pensando en la chica de la que estaba enamorado, una fresita cuya familia
   era de Cancún, tuve la visión de un…
 date: '2016-01-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Coming of age
 toc: false
+id: 175
 autores:
 - Junot Díaz
 autores_stats:
@@ -40,7 +41,7 @@ En la noche, cuando estaba echado en la cama pensando en la chica de la que esta
 - **Autor:** [Junot Díaz](/autores/junot-diaz/)
 - **Editorial:** Random House Mondadori
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9879397991 / 9789879397992
 - **Publicación original:** 2008-09-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Realismo mágico](/tags/realismo-magico/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Coming of age](/tags/coming-of-age/)

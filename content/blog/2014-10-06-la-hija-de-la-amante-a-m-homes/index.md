@@ -1,5 +1,5 @@
 ---
-title: La hija de la amante
+title: '#75 · La hija de la amante'
 summary: La adopción de A. M. Homes fue apalabrada antes de que naciera. Su madre biológica era una mujer soltera que mantenía
   una relación con un hombre mucho mayor…
 date: '2014-10-06T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Familia
 - Adultos
 toc: false
+id: 75
 autores:
 - A.M. Homes
 - Jaime Zulaika
@@ -43,7 +44,7 @@ La adopción de A. M. Homes fue apalabrada antes de que naciera. Su madre bioló
 - **Colaboradores:** [Jaime Zulaika](/autores/jaime-zulaika/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 220 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433974912 / 9788433974914
 - **Publicación original:** 2008-10-31
 - **Géneros:** [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Adopción](/tags/adopcion/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/), [Autobiografía](/tags/autobiografia/), [Familia](/tags/familia/), [Adultos](/tags/adultos/)

@@ -1,5 +1,5 @@
 ---
-title: Pechos y huevos
+title: '#689 · Pechos y huevos'
 summary: En un sofocante día de verano, Makiko viaja a Tokio a visitar a su hermana Natsu. Incapaz de aceptar los cambios
   de su cuerpo después de dar a luz, Makiko está…
 date: '2024-11-21T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ásia
 - Club de lectura
 toc: false
+id: 689
 autores:
 - Mieko Kawakami
 autores_stats:
@@ -42,7 +43,7 @@ Reunidas en un barrio de clase trabajadora en Tokio, pasarán juntas unos días 
 - **Autor:** [Mieko Kawakami](/autores/mieko-kawakami/)
 - **Editorial:** Planeta Publishing
 - **Formato:** Paperback, 496 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6070783360 / 9786070783364
 - **Publicación original:** 2022-04-12
 - **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Contemporaneo](/tags/contemporaneo/), [Feminismo](/tags/feminismo/), [Literatura japanesa](/tags/literatura-japanesa/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/), [Ásia](/tags/asia/), [Club de lectura](/tags/club-de-lectura/)

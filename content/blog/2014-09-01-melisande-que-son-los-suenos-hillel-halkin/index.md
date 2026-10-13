@@ -1,5 +1,5 @@
 ---
-title: ¡Melisande! ¿Qué son los sueños?
+title: '#64 · ¡Melisande! ¿Qué son los sueños?'
 summary: 'A finales de los años cincuenta, en Nueva York, dos chicos: Hoo y Ricky, y una chica, Mellie, se conocen mientras
   trabajan en la redacción de la revista…'
 date: '2014-09-01T23:59:59'
@@ -14,6 +14,7 @@ tags:
 - EEUU
 - Drama
 toc: false
+id: 64
 autores:
 - Hillel Halkin
 autores_stats:
@@ -40,7 +41,7 @@ En ¡Melisande! ¿Qué son los sueños? la sabia mirada de un hombre maduro sobr
 - **Autor:** [Hillel Halkin](/autores/hillel-halkin/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 264 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415625731 / 9788415625735
 - **Publicación original:** 2016-08-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Contemporaneo](/tags/contemporaneo/), [EEUU](/tags/eeuu/), [Drama](/tags/drama/)

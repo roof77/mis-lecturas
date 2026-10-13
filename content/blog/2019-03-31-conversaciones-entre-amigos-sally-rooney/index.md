@@ -1,5 +1,5 @@
 ---
-title: Conversaciones entre amigos
+title: '#385 · Conversaciones entre amigos'
 summary: "This is a previously-published edition of ISBN 9788439734468.\r\n\r\nTras recitar sus poemas en una velada literaria\
   \ en Dublín, Frances y Bobbi conocen a Melissa…"
 date: '2019-03-31T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Irlanda
 - Novela
 toc: false
+id: 385
 autores:
 - Sally Rooney
 - Ana García Casadesús
@@ -50,7 +51,7 @@ Mientras sus personajes descubren el poder que tienen sobre los otros, Rooney ar
 - **Colaboradores:** [Ana García Casadesús](/autores/ana-garcia-casadesus/) (Translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 336 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2018-06-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Romance](/tags/romance/), [Ficción Literaria](/tags/ficcion-literaria/), [LGTBIQ+](/tags/lgtbiq/), [Club de lectura](/tags/club-de-lectura/), [Queer](/tags/queer/), [Irlanda](/tags/irlanda/), [Novela](/tags/novela/)
 - **Personajes:** Frances, Bobbi Connolly, Nick Conway

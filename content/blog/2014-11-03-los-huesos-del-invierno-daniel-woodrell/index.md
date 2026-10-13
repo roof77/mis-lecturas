@@ -1,5 +1,5 @@
 ---
-title: Los huesos del invierno
+title: '#81 · Los huesos del invierno'
 summary: '«Todos los días hay que estar preparado para morir... Solo así puedes salvarte»: quien pronuncia estas palabras,
   drogado hasta arriba, es un tipo sin una oreja…'
 date: '2014-11-03T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Ficción Literaria
 - Ficción adulta
 toc: false
+id: 81
 autores:
 - Daniel Woodrell
 autores_stats:
@@ -41,7 +42,7 @@ Daniel Woodrell acuñó la expresión country noir para referirse a sus novelas,
 - **Autor:** [Daniel Woodrell](/autores/daniel-woodrell/)
 - **Editorial:** Alba
 - **Formato:** Paperback, 216 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 848428803X / 9788484288039
 - **Publicación original:** 2012-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Contemporaneo](/tags/contemporaneo/), [Crimen](/tags/crimen/), [Club de lectura](/tags/club-de-lectura/), [Thriller](/tags/thriller/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción adulta](/tags/ficcion-adulta/)

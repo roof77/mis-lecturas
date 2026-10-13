@@ -1,5 +1,5 @@
 ---
-title: El padre
+title: '#38 · El padre'
 summary: "La trilogía sobre la vida del aristócrata Patrick Melrose en un solo volumen. \r\n\r\nEl autor nos trae la crónica\
   \ de la vida de Patrick Melrose, retratada a lo…"
 date: '2014-06-09T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Drogas
 - Drama
 toc: false
+id: 38
 autores:
 - Edward St. Aubyn
 - Cruz Rodríguez Juiz
@@ -45,7 +46,7 @@ El autor nos trae la crónica de la vida de Patrick Melrose, retratada a lo larg
 - **Colaboradores:** [Cruz Rodríguez Juiz](/autores/cruz-rodriguez-juiz/) (Translator)
 - **Editorial:** Mondadori
 - **Formato:** Paperback, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439727240 / 9788439727248
 - **Publicación original:** 2013-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura británica](/tags/literatura-britanica/), [Novela](/tags/novela/), [Humor](/tags/humor/), [Clásicos modernos](/tags/clasicos-modernos/), [Drogas](/tags/drogas/), [Drama](/tags/drama/)

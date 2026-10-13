@@ -1,5 +1,5 @@
 ---
-title: Fun Home. Una familia tragicómica
+title: '#650 · Fun Home. Una familia tragicómica'
 summary: 'En 2006 Houghton Mifflin publicó sus memorias gráficas, Fun Home: Una tragicomedia familiar, el exitoso relato de
   maduración que se ha calificado como "proeza…'
 date: '2024-05-23T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Memorias
 - No Ficción
 - LGTBIQ+
@@ -17,6 +16,7 @@ tags:
 - Biografía
 - Club de lectura
 toc: false
+id: 650
 autores:
 - Alison Bechdel
 autores_stats:
@@ -40,7 +40,7 @@ El padre de Alison, la protagonista (y autora del libro), es profesor de inglés
 - **Autor:** [Alison Bechdel](/autores/alison-bechdel/)
 - **Editorial:** Reservoir Books / Mondadori
 - **Formato:** Hardcover, 238 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2008-03-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/)
 - **Lugares:** Pennsylvania (United States)

@@ -1,5 +1,5 @@
 ---
-title: 'Lumberjanes: Robyn Hood'
+title: '#892 · Lumberjanes: Robyn Hood'
 summary: After a lot of convincing, the girls are able to agree to get Jen to take them on a hike. Making their way up to
   the tower and hoping to finally get some…
 date: '2026-07-12T23:59:55'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Fantasía
@@ -17,6 +16,7 @@ tags:
 - LGTBIQ+
 - Queer
 toc: false
+id: 892
 autores:
 - N.D. Stevenson
 - Grace Ellis

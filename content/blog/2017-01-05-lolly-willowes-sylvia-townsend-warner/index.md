@@ -1,5 +1,5 @@
 ---
-title: Lolly Willowes
+title: '#226 · Lolly Willowes'
 summary: Lolly Willowes, de veintiocho años, está aún soltera cuando tras la muerte de su adorado padre pasa a depender de
   sus hermanos. Tras ocuparse de todo durante…
 date: '2017-01-05T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura británica
 - Siglo XX
 toc: false
+id: 226
 autores:
 - Sylvia Townsend Warner
 - Celia Montolío
@@ -45,7 +46,7 @@ Publicada en 1926 con un éxito inmediato, Lolly Willowes es la primera y más m
 - **Colaboradores:** [Celia Montolío](/autores/celia-montolio/) (translator)
 - **Editorial:** Siruela
 - **Formato:** Paperback, 212 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416638780 / 9788416638789
 - **Publicación original:** 2016-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Fantasía](/tags/fantasia/), [Feminismo](/tags/feminismo/), [Brujas](/tags/brujas/), [Ficción histórica](/tags/ficcion-historica/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura británica](/tags/literatura-britanica/), [Siglo XX](/tags/siglo-xx/)

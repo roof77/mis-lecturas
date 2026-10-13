@@ -1,5 +1,5 @@
 ---
-title: Insomniacs After School, vol. 13
+title: '#913 · Insomniacs After School, vol. 13'
 summary: "Ya en su tercer año de bachillerato, poco antes de sus exámenes de acceso, Ganta y compañía viajan a Osaka para\
   \ visitar universidades.\r\n\r\nMientras se divierten…"
 date: '2026-08-06T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Romance
 - Slice of life
 - Jovenes adultos
@@ -18,6 +17,7 @@ tags:
 - Adolescencia
 - Literatura japanesa
 toc: false
+id: 913
 autores:
 - Makoto Ojiro
 - Sergi Pérez
@@ -45,7 +45,7 @@ Mientras se divierten y asustan en la gran ciudad, ¡Haida no puede esconder má
 - **Colaboradores:** [Sergi Pérez](/autores/sergi-perez/) (Translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410223074 / 9788410223073
 - **Publicación original:** 2024-03-25
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Romance](/tags/romance/), [Slice of life](/tags/slice-of-life/), [Jovenes adultos](/tags/jovenes-adultos/), [Seinen manga](/tags/seinen-manga/), [Novela gráfica](/tags/novela-grafica/), [Adolescencia](/tags/adolescencia/), [Literatura japanesa](/tags/literatura-japanesa/)

@@ -1,5 +1,5 @@
 ---
-title: 'LA ÚNICA CHICA: De redactora en Rolling Stone a guionista en Los Soprano'
+title: '#716 · LA ÚNICA CHICA: De redactora en Rolling Stone a guionista en Los Soprano'
 summary: 'Reseña de lectura de «LA ÚNICA CHICA: De redactora en Rolling Stone a guionista en Los Soprano».'
 date: '2025-03-03T23:59:59'
 authors:
@@ -8,6 +8,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 716
 autores:
 - Robin Green
 autores_stats:
@@ -26,7 +27,7 @@ nota: Muy bien
 - **Autor:** [Robin Green](/autores/robin-green/)
 - **Editorial:** Liburuak
 - **Formato:** Hardcover, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419234095 / 9788419234094
 - **Publicación original:** 2023-02-14
 - **Ficha en Goodreads:** [LA ÚNICA CHICA: De redactora en Rolling Stone a guionista en Los Soprano](https://www.goodreads.com/book/show/205147538-la-nica-chica)

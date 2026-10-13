@@ -1,5 +1,5 @@
 ---
-title: Brillo
+title: '#571 · Brillo'
 summary: «Un hombre mayor es una maravilla porque lleva treinta y ocho años pagando las facturas del gas, ha tenido salmonelosis
   y ha visto los informes sobre el cambio…
 date: '2022-11-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Ficción adulta
 toc: false
+id: 571
 autores:
 - Raven Leilani
 - Laura Ibáñez
@@ -50,7 +51,7 @@ Ganador de los premios NBCC John Leonard Prize, Kirkus, Premio Primera Novela de
 - **Colaboradores:** [Laura Ibáñez](/autores/laura-ibanez/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841873387X / 9788418733871
 - **Publicación original:** 2022-02-16
 - **Géneros:** [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Romance](/tags/romance/), [Adultos](/tags/adultos/), [Club de lectura](/tags/club-de-lectura/), [Raza](/tags/raza/), [Novela](/tags/novela/), [Ficción adulta](/tags/ficcion-adulta/)

@@ -1,5 +1,5 @@
 ---
-title: Sam Zabel y la pluma mágica
+title: '#833 · Sam Zabel y la pluma mágica'
 summary: El autor Sam Zabel no ha dibujado un cómic en años. Atrapado en una pesadilla de desesperación y bloqueo creativo,
   Sam pasa los días escribiendo historias de…
 date: '2026-05-03T23:59:59'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Fantasía
 - Ficción
@@ -16,6 +15,7 @@ tags:
 - Aventuras
 - Ciencia ficción
 toc: false
+id: 833
 autores:
 - Dylan Horrocks
 - Óscar Palmer Yáñez
@@ -41,7 +41,7 @@ El autor Dylan Horrocks regresa con esta largamente esperada novela gráfica, la
 - **Colaboradores:** [Óscar Palmer Yáñez](/autores/oscar-palmer-yanez/) (Traductor)
 - **Editorial:** Astiberri
 - **Formato:** Paperback, 228 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415685785 / 9788415685784
 - **Publicación original:** 2014-12-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Arte](/tags/arte/), [Aventuras](/tags/aventuras/), [Ciencia ficción](/tags/ciencia-ficcion/)

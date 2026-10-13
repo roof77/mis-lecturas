@@ -1,5 +1,5 @@
 ---
-title: La librería ambulante
+title: '#8 · La librería ambulante'
 summary: 'Prepárese para entrar en un mundo único y lleno de encanto, donde el tiempo se ha detenido: estamos en la segunda
   década del siglo XX, en unos Estados Unidos…'
 date: '2014-01-25T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Romance
 - EEUU
 toc: false
+id: 8
 autores:
 - Christopher Morley
 - Juan Cárdenas
@@ -47,7 +48,7 @@ Desde que este clásico de la literatura norteamericana se publicara en 1917 han
 - **Colaboradores:** [Juan Cárdenas](/autores/juan-cardenas/) (Translator)
 - **Editorial:** Editorial Periférica
 - **Formato:** Paperback, 182 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492865504 / 9788492865505
 - **Publicación original:** 2012-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Libros sobre libros](/tags/libros-sobre-libros/), [Clásico](/tags/clasico/), [Humor](/tags/humor/), [Ficción histórica](/tags/ficcion-historica/), [Novella](/tags/novella/), [Aventuras](/tags/aventuras/), [Romance](/tags/romance/), [EEUU](/tags/eeuu/)

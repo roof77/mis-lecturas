@@ -1,5 +1,5 @@
 ---
-title: 'Odio 5: Lan Gran Evasion / Hate 5: the Great Escape: La Gran Evasion/the Great Escape'
+title: '#840 · Odio 5: Lan Gran Evasion / Hate 5: the Great Escape: La Gran Evasion/the Great Escape'
 summary: Collects an alternative comic from the 1990s that chronicles the misadventures and life experiences of Buddy Bradley,
   oldest son of America's most…
 date: '2026-05-20T23:59:57'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 840
 autores:
 - Peter Bagge
 - Hernán Migoya
@@ -36,7 +36,7 @@ Collects an alternative comic from the 1990s that chronicles the misadventures a
 - **Colaboradores:** [Hernán Migoya](/autores/hernan-migoya/) (Author)
 - **Editorial:** UNKNO
 - **Formato:** Paperback, 84 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 1594971374 / 9781594971372
 - **Publicación original:** 2005-10-25
 - **Géneros:** [Comics](/tags/comics/)

@@ -1,5 +1,5 @@
 ---
-title: Quidditch a través de los tiempos
+title: '#223 · Quidditch a través de los tiempos'
 summary: Si alguna vez te has preguntado de dónde proviene la snitch dorada, cómo adquieren vida las bludgers o por qué los
   Wigtown Wanderers llevan un cuchillo de…
 date: '2016-12-29T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Relatos
 - Ciencia Ficción
 toc: false
+id: 223
 autores:
 - Kennilworthy Whisp
 - J.K. Rowling
@@ -46,7 +47,7 @@ Los beneficios de la venta de este libro se destinarán a Comic Relief, que util
 - **Colaboradores:** [J.K. Rowling](/autores/j-k-rowling/) (Author), [Alicia Dellepiane](/autores/alicia-dellepiane/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 73 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498382696 / 9788498382693
 - **Publicación original:** 2010-06-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Harry Potter](/tags/harry-potter/), [Ficción](/tags/ficcion/), [Jovenes adultos](/tags/jovenes-adultos/), [Niños](/tags/ninos/), [Mágia](/tags/magia/), [Relatos](/tags/relatos/), [Ciencia Ficción](/tags/ciencia-ficcion/)

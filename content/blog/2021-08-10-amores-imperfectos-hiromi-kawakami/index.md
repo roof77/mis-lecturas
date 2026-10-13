@@ -1,5 +1,5 @@
 ---
-title: Amores imperfectos
+title: '#479 · Amores imperfectos'
 summary: Una mujer enamorada de su íntima amiga, a quien teme confesar sus sentimientos; un adolescente prendado de su vecina,
   mayor que él; mujeres que transitan por…
 date: '2021-08-10T23:59:59'
@@ -15,6 +15,7 @@ tags:
 - Literatura asiática
 - Ásia
 toc: false
+id: 479
 autores:
 - Hiromi Kawakami
 - Marina Bornas Montaña
@@ -39,7 +40,7 @@ Una mujer enamorada de su íntima amiga, a quien teme confesar sus sentimientos;
 - **Colaboradores:** [Marina Bornas Montaña](/autores/marina-bornas-montana/) (Translator)
 - **Editorial:** Acantilado
 - **Formato:** Paperback, 144 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416748225 / 9788416748228
 - **Publicación original:** 2016-11-01
 - **Géneros:** [Relatos](/tags/relatos/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Ficción](/tags/ficcion/), [Literatura asiática](/tags/literatura-asiatica/), [Ásia](/tags/asia/)

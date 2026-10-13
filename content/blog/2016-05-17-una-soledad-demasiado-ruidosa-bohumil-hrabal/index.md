@@ -1,5 +1,5 @@
 ---
-title: Una soledad demasiado ruidosa
+title: '#193 · Una soledad demasiado ruidosa'
 summary: Desde hace treinta y cinco años, Hanta trabaja en una trituradora de papel prensando libros y reproducciones de cuadros.
   En cada una de las balas de papel que…
 date: '2016-05-17T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción Literaria
 - Filosofía
 toc: false
+id: 193
 autores:
 - Bohumil Hrabal
 - Monika Zgustová
@@ -45,7 +46,7 @@ En Una soledad demasiado ruidosa se entrecruzan reflexiones sobre el sentido de 
 - **Colaboradores:** [Monika Zgustová](/autores/monika-zgustova/) (translator)
 - **Editorial:** Destino
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8423318540 / 9788423318544
 - **Publicación original:** 1995-05-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Literatura checa](/tags/literatura-checa/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Libros sobre libros](/tags/libros-sobre-libros/), [Novella](/tags/novella/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Filosofía](/tags/filosofia/)

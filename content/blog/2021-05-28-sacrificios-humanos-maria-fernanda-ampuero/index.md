@@ -1,5 +1,5 @@
 ---
-title: Sacrificios humanos
+title: '#465 · Sacrificios humanos'
 summary: María Fernanda Ampuero se ha convertido en una de las voces indispensables de la literatura latinoamericana. Su libro
   Pelea de gallos (2018) ha sido en estos…
 date: '2021-05-28T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Adultos
 - Literatura hispana
 toc: false
+id: 465
 autores:
 - María Fernanda Ampuero
 autores_stats:
@@ -39,7 +40,7 @@ María Fernanda Ampuero se ha convertido en una de las voces indispensables de l
 - **Autor:** [María Fernanda Ampuero](/autores/maria-fernanda-ampuero/)
 - **Editorial:** Páginas de Espuma
 - **Formato:** Paperback, 144 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 848393289X / 9788483932896
 - **Publicación original:** 2021-02-01
 - **Géneros:** [Terror](/tags/terror/), [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Thriller](/tags/thriller/), [Gótico](/tags/gotico/), [Adultos](/tags/adultos/), [Literatura hispana](/tags/literatura-hispana/)

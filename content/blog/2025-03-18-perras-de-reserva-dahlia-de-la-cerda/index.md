@@ -1,5 +1,5 @@
 ---
-title: Perras de reserva
+title: '#722 · Perras de reserva'
 summary: «Me encomendé al Diablo porque Dios en esto no hace el paro», nos dice una de las narradoras de los trece cuentos
   que conforman Perras de reserva, el genial…
 date: '2025-03-18T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura hispana
 - Latino américa
 toc: false
+id: 722
 autores:
 - Dahlia de la Cerda
 - Rebeca Martínez
@@ -44,7 +45,7 @@ Y es que las protagonistas de Perras de reserva comparten las dificultades y pel
 - **Colaboradores:** [Rebeca Martínez](/autores/rebeca-martinez/) (Formación)
 - **Editorial:** Sexto Piso
 - **Formato:** Paperback, 144 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6078619659 / 9786078619658
 - **Publicación original:** 2022-01-01
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Terror](/tags/terror/), [Club de lectura](/tags/club-de-lectura/), [Literatura hispana](/tags/literatura-hispana/), [Latino américa](/tags/latino-america/)

@@ -1,5 +1,5 @@
 ---
-title: Baco 1
+title: '#580 · Baco 1'
 summary: Baco, dios del vino y de la juerga, hijo ilegítimo de Zeus, sigue vivo. Arrastrando sus más de cuatro mil años, recorre
   los bares de la ciudad en busca de Joe…
 date: '2023-02-26T23:59:58'
@@ -8,9 +8,9 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 toc: false
+id: 580
 autores:
 - Eddie Campbell
 autores_stats:
@@ -35,7 +35,7 @@ En este primer volumen de la serie de Baco, publicada originalmente entre 1986 y
 - **Serie:** Bacchus (#1-2)
 - **Editorial:** Astiberri 
 - **Formato:** Paperback, 216 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415685114 / 9788415685111
 - **Publicación original:** 2013-04-05
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/)

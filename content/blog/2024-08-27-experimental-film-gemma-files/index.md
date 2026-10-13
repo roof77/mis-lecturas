@@ -1,5 +1,5 @@
 ---
-title: Experimental film
+title: '#680 · Experimental film'
 summary: Lois Cairns, una exprofesora de cine, desempleada y al borde de la depresión, descubre la existencia y las películas
   perdidas de quien se cree que es la…
 date: '2024-08-27T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción extraña
 - Películas
 toc: false
+id: 680
 autores:
 - Gemma Files
 - Elisa Rivera
@@ -43,7 +44,7 @@ Lois Cairns, una exprofesora de cine, desempleada y al borde de la depresión, d
 - **Colaboradores:** [Elisa Rivera](/autores/elisa-rivera/) (Translator)
 - **Editorial:** La biblioteca de Carfax
 - **Formato:** Paperback, 354 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494668226 / 9788494668227
 - **Publicación original:** 2017-06-01
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Paranormal](/tags/paranormal/), [Misterio](/tags/misterio/), [Fantasmas](/tags/fantasmas/), [Sobrenatural](/tags/sobrenatural/), [Canada](/tags/canada/), [Ficción extraña](/tags/ficcion-extrana/), [Películas](/tags/peliculas/)

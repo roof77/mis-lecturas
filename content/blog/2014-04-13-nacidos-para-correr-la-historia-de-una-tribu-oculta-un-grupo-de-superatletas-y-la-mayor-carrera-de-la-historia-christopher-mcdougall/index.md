@@ -1,5 +1,5 @@
 ---
-title: 'Nacidos para correr: La historia de una tribu oculta, un grupo de superatletas y la mayor carrera de la historia'
+title: '#26 · Nacidos para correr: La historia de una tribu oculta, un grupo de superatletas y la mayor carrera de la historia'
 summary: En busca de una respuesta, Christopher MacDougall se encuentra con la tribu de los mejores corredores de larga distancia
   del mundo. Aislados por el terreno más…
 date: '2014-04-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Biografía
 - Club de lectura
 toc: false
+id: 26
 autores:
 - Christopher McDougall
 autores_stats:
@@ -40,7 +41,7 @@ En busca de una respuesta, Christopher MacDougall se encuentra con la tribu de l
 - **Autor:** [Christopher McDougall](/autores/christopher-mcdougall/)
 - **Editorial:** DEBATE
 - **Formato:** Kindle Edition, 370 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8499920470
 - **Publicación original:** 2011-04-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Deportes](/tags/deportes/), [Salud](/tags/salud/), [Fitness](/tags/fitness/), [Ciencia](/tags/ciencia/), [Aventuras](/tags/aventuras/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Club de lectura](/tags/club-de-lectura/)

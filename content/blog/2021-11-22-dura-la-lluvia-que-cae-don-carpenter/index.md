@@ -1,5 +1,5 @@
 ---
-title: Dura la lluvia que cae
+title: '#506 · Dura la lluvia que cae'
 summary: Dura la lluvia que cae es una novela de crimen, castigo y la búsqueda de una redención siempre postergada en la estela
   de Dostoyevski. Épica en su alcance, la…
 date: '2021-11-22T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - EEUU
 - Siglo XX
 toc: false
+id: 506
 autores:
 - Don Carpenter
 autores_stats:
@@ -41,7 +42,7 @@ Dura la lluvia que cae es una novela de crimen, castigo y la búsqueda de una re
 - **Autor:** [Don Carpenter](/autores/don-carpenter/)
 - **Editorial:** Duomo Ediciones
 - **Formato:** Hardcover, 348 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415355165 / 9788415355168
 - **Publicación original:** 2012-03-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Crimen](/tags/crimen/), [Noir](/tags/noir/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Misterio](/tags/misterio/), [EEUU](/tags/eeuu/), [Siglo XX](/tags/siglo-xx/)

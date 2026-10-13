@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals #9: Ana'
+title: '#354 · Sex Criminals #9: Ana'
 summary: Suze and Jon meet Ana. Or rather, meet Ana AGAIN. Or should we say, meet...Ms. Jazmine St. Cocaine AGAIN. Did we
   just put those words in that order in…
 date: '2018-08-20T23:59:59'
@@ -8,12 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Fantasía
 - Sexualidad
 - Humor
 toc: false
+id: 354
 autores:
 - Matt Fraction
 - Chip Zdarsky

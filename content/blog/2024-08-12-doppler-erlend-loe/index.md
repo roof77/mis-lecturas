@@ -1,5 +1,5 @@
 ---
-title: Doppler
+title: '#678 · Doppler'
 summary: Después de la muerte de su padre y tras caerse de la bicicleta, Doppler decide abandonar su hogar en Oslo, su trabajo,
   a sus hijos y a su esposa embarazada, y…
 date: '2024-08-12T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Literatura
 - Adultos
 toc: false
+id: 678
 autores:
 - Erlend Loe
 - Øyvind Fossam
@@ -45,7 +46,7 @@ Esta satírica novela, que fue todo un éxito en Noruega, nos hace reflexionar s
 - **Colaboradores:** [Øyvind Fossam](/autores/yvind-fossam/) (Translator), [Cristina Gómez-Baggethun](/autores/cristina-gomez-baggethun/) (Translator)
 - **Editorial:** Nórdica Libros
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417651152 / 9788417651152
 - **Publicación original:** 2019-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Humor](/tags/humor/), [Contemporaneo](/tags/contemporaneo/), [Literatura escandinava](/tags/literatura-escandinava/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [Literatura](/tags/literatura/), [Adultos](/tags/adultos/)

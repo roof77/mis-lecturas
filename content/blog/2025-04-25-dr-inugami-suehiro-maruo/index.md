@@ -1,5 +1,5 @@
 ---
-title: Dr. Inugami
+title: '#739 · Dr. Inugami'
 summary: Una terrorífica y deliciosa historia del maestro Maruo. Una densa trama de satanismo y sacrificios humanos y animales,
   con ingredientes tan espectaculares como…
 date: '2025-04-25T23:59:59'
@@ -9,10 +9,10 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Terror
 - Novela gráfica
 toc: false
+id: 739
 autores:
 - Suehiro Maruo
 autores_stats:
@@ -35,7 +35,7 @@ Una terrorífica y deliciosa historia del maestro Maruo. Una densa trama de sata
 - **Autor:** [Suehiro Maruo](/autores/suehiro-maruo/)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8484498050 / 9788484498056
 - **Publicación original:** 2005-10-30
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Terror](/tags/terror/), [Novela gráfica](/tags/novela-grafica/)

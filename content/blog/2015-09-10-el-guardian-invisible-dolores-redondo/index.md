@@ -1,5 +1,5 @@
 ---
-title: El guardián invisible
+title: '#139 · El guardián invisible'
 summary: «Ainhoa Elizasu fue la segunda víctima del basajaun, aunque entonces la prensa todavía no lo llamaba así. Fue un
   poco más tarde cuando trascendió que alrededor…
 date: '2015-09-10T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Suspense
 - Fantasía
 toc: false
+id: 139
 autores:
 - Dolores Redondo
 autores_stats:
@@ -40,7 +41,7 @@ nota: '3'
 - **Serie:** Trilogía del Baztán (#1)
 - **Editorial:** Destino
 - **Formato:** Kindle Edition, 440 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8423346048 / 9788423346042
 - **Publicación original:** 2013-01-15
 - **Géneros:** [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Crimen](/tags/crimen/), [Ficción](/tags/ficcion/), [España](/tags/espana/), [Literatura hispana](/tags/literatura-hispana/), [Suspense](/tags/suspense/), [Fantasía](/tags/fantasia/)

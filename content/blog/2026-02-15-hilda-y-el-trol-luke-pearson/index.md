@@ -1,5 +1,5 @@
 ---
-title: Hilda y el trol
+title: '#800 · Hilda y el trol'
 summary: Espíritus del mar, gigantes, extraños hombres de madera y trols. Las excursiones de Hilda nunca se limitan al reino
   de lo ordinario. Ésta en particular depara…
 date: '2026-02-15T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Fantasía
 - Niños
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Libro de fotos
 - Juvenil
 toc: false
+id: 800
 autores:
 - Luke Pearson
 autores_stats:
@@ -44,7 +44,7 @@ Un emocionante cuento para niños y adultos.
 - **Serie:** Hilda (#1)
 - **Editorial:** Barbara Fiore
 - **Formato:** Hardcover, 44 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415208421 / 9788415208426
 - **Publicación original:** 2013-10-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Fantasía](/tags/fantasia/), [Niños](/tags/ninos/), [Ficción](/tags/ficcion/), [Aventuras](/tags/aventuras/), [Libro de fotos](/tags/libro-de-fotos/), [Juvenil](/tags/juvenil/)

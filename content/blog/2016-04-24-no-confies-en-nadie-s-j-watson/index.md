@@ -1,5 +1,5 @@
 ---
-title: No confíes en nadie
+title: '#189 · No confíes en nadie'
 summary: "La habitación me resulta extraña. Desconocida. No sé dónde estoy ni cómo he llegado hasta aquí. No sé cómo voy a\
   \ volver a casa...\r\n\r\nChristine sufre las…"
 date: '2016-04-24T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Thriller psicológico
 - Adultos
 toc: false
+id: 189
 autores:
 - S.J. Watson
 - Matuca Fernández de Villavicencio
@@ -46,7 +47,7 @@ Este es el angustioso mapa de los intentos de Christine por lograr que todo lo q
 - **Colaboradores:** [Matuca Fernández de Villavicencio](/autores/matuca-fernandez-de-villavicencio/) (Translator)
 - **Editorial:** Grijalbo
 - **Formato:** Paperback, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 0307883027 / 9780307883025
 - **Publicación original:** 2011-11-01
 - **Géneros:** [Thriller](/tags/thriller/), [Ficción](/tags/ficcion/), [Misterio](/tags/misterio/), [Club de lectura](/tags/club-de-lectura/), [Suspense](/tags/suspense/), [Crimen](/tags/crimen/), [Contemporaneo](/tags/contemporaneo/), [Thriller psicológico](/tags/thriller-psicologico/), [Adultos](/tags/adultos/)

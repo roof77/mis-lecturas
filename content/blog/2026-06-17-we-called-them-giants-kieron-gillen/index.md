@@ -1,5 +1,5 @@
 ---
-title: We Called Them Giants
+title: '#865 · We Called Them Giants'
 summary: "We Called Them Giants is a story of communication across a chasm at the end of the world.\r\n\r\nLori wakes to find\
   \ the streets empty. Everyone has gone. Or at…"
 date: '2026-06-17T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ciencia ficción
 - Fantasía
 - Jovenes adultos
@@ -17,6 +16,7 @@ tags:
 - Distopía
 - Postapocalíptico
 toc: false
+id: 865
 autores:
 - Kieron Gillen
 - Stephanie Hans

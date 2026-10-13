@@ -1,5 +1,5 @@
 ---
-title: Hirayasumi, vol. 5
+title: '#941 · Hirayasumi, vol. 5'
 summary: Hiroto Ikuta, de 29 años, vive junto a su prima Natsumi, estudiante de Bellas Artes. ¡¿Reina un ambiente extraño
   en su día a día en la casa unifamiliar en la…
 date: '2026-10-11T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Slice of life
 - Seinen manga
 - Japón
@@ -18,6 +17,7 @@ tags:
 - Contemporaneo
 - Amistad
 toc: false
+id: 941
 autores:
 - Keigo Shinzō
 - Marc Bernabé
@@ -43,7 +43,7 @@ Hiroto Ikuta, de 29 años, vive junto a su prima Natsumi, estudiante de Bellas A
 - **Colaboradores:** [Marc Bernabé](/autores/marc-bernabe/) (Translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419914657 / 9788419914651
 - **Publicación original:** 2023-11-20
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Slice of life](/tags/slice-of-life/), [Seinen manga](/tags/seinen-manga/), [Japón](/tags/japon/), [Novela gráfica](/tags/novela-grafica/), [Ficción](/tags/ficcion/), [Contemporaneo](/tags/contemporaneo/), [Amistad](/tags/amistad/)

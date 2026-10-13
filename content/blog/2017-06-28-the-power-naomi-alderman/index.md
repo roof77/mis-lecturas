@@ -1,5 +1,5 @@
 ---
-title: The Power
+title: '#254 · The Power'
 summary: Una niña en la América profunda escapa de un padre maltratador. Un chico en Nigeria filma a una mujer que está siendo
   atacada en un supermercado. La hija de un…
 date: '2017-06-28T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Contemporaneo
 toc: false
+id: 254
 autores:
 - Naomi Alderman
 - Ana Guelbenzu
@@ -42,7 +43,7 @@ Una niña en la América profunda escapa de un padre maltratador. Un chico en Ni
 - **Colaboradores:** [Ana Guelbenzu](/autores/ana-guelbenzu/) (Translator)
 - **Editorial:** Roca Editorial
 - **Formato:** Hardcover, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788416700677
 - **Publicación original:** 2017-06-22
 - **Géneros:** [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Feminismo](/tags/feminismo/), [Distopía](/tags/distopia/), [Fantasía](/tags/fantasia/), [Ficción especulativa](/tags/ficcion-especulativa/), [Adultos](/tags/adultos/), [Contemporaneo](/tags/contemporaneo/)

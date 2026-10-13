@@ -1,5 +1,5 @@
 ---
-title: Montecristo
+title: '#180 · Montecristo'
 summary: Jonas es un suizo de poco más de cuarenta años que trabaja como videorreportero para una televisión local de Zúrich.
   Está convencido de que su trabajo es solo…
 date: '2016-02-25T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Clásico
 - Novela
 toc: false
+id: 180
 autores:
 - Martin Suter
 autores_stats:
@@ -39,7 +40,7 @@ Jonas es un suizo de poco más de cuarenta años que trabaja como videorreporter
 - **Autor:** [Martin Suter](/autores/martin-suter/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Kindle Edition, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2015-09-14
 - **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Literatura alemana](/tags/literatura-alemana/), [Crimen](/tags/crimen/), [Contemporaneo](/tags/contemporaneo/), [Misterio](/tags/misterio/), [Clásico](/tags/clasico/), [Novela](/tags/novela/)
 - **Ficha en Goodreads:** [Montecristo](https://www.goodreads.com/book/show/26807496-montecristo)

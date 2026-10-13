@@ -1,5 +1,5 @@
 ---
-title: Anna Karénina
+title: '#169 · Anna Karénina'
 summary: 'La sola mención del nombre de Anna Karénina sugiere inmediatamente dos grandes temas de la novela decimonónica:
   pasión y adulterio. Anna Karénina, que Tolstói…'
 date: '2016-01-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Histórico
 toc: false
+id: 169
 autores:
 - Leo Tolstoy
 - Víctor Gallego Ballestero
@@ -42,7 +43,7 @@ La sola mención del nombre de Anna Karénina sugiere inmediatamente dos grandes
 - **Colaboradores:** [Víctor Gallego Ballestero](/autores/victor-gallego-ballestero/) (Translator)
 - **Editorial:** Alba Editorial
 - **Formato:** Hardcover, 1002 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 84284925 / 9788484284925
 - **Publicación original:** 2010-01-01
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Rusia](/tags/rusia/), [Ficción histórica](/tags/ficcion-historica/), [Literatura rusa](/tags/literatura-rusa/), [Literatura](/tags/literatura/), [Novela](/tags/novela/), [Histórico](/tags/historico/)

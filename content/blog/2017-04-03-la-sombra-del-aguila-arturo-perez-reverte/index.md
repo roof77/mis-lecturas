@@ -1,5 +1,5 @@
 ---
-title: La sombra del águila
+title: '#244 · La sombra del águila'
 summary: During the Russian campaign of 1812, a battalion of former Spanish prisoners recruited to fight for Napoleon's army
   defects to side with the Russians. The…
 date: '2017-04-03T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - España
 - Novela
 toc: false
+id: 244
 autores:
 - Arturo Pérez-Reverte
 autores_stats:
@@ -40,7 +41,7 @@ During the Russian campaign of 1812, a battalion of former Spanish prisoners rec
 - **Autor:** [Arturo Pérez-Reverte](/autores/arturo-perez-reverte/)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420481327 / 9788420481326
 - **Publicación original:** 1992-07-01
 - **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Humor](/tags/humor/), [Histórico](/tags/historico/), [Literatura hispana](/tags/literatura-hispana/), [Ficción](/tags/ficcion/), [Guerra](/tags/guerra/), [Aventuras](/tags/aventuras/), [España](/tags/espana/), [Novela](/tags/novela/)

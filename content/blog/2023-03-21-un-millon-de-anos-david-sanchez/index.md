@@ -1,5 +1,5 @@
 ---
-title: Un millón de años
+title: '#586 · Un millón de años'
 summary: Cielo, tierra y rocas. Un teléfono suena en el desierto. Brotan de la arena escarabajos azules, cíclopes, caníbales,
   animales practicando la cartomancia. Y…
 date: '2023-03-21T23:59:59'
@@ -8,9 +8,9 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Fantasía
 toc: false
+id: 586
 autores:
 - David Sánchez
 autores_stats:
@@ -46,7 +46,7 @@ Paco Alcázar
 - **Autor:** [David Sánchez](/autores/david-sanchez/)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 120 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2017-03-17
 - **Géneros:** [Comics](/tags/comics/), [Fantasía](/tags/fantasia/)
 - **Ficha en Goodreads:** [Un millón de años](https://www.goodreads.com/book/show/34644421-un-mill-n-de-a-os)

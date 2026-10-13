@@ -1,5 +1,5 @@
 ---
-title: Y ahora, lo importante
+title: '#297 · Y ahora, lo importante'
 summary: Bienvenidos a los diarios de Beatriz, una madrileña que ha cumplido 14 años en 1992. Beatriz es buena estudiante,
   sin que eso le impida salir los fines de…
 date: '2018-03-06T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 297
 autores:
 - Beatriz Navas Valdés
 autores_stats:
@@ -33,7 +34,7 @@ Bienvenidos a los diarios de Beatriz, una madrileña que ha cumplido 14 años en
 - **Autor:** [Beatriz Navas Valdés](/autores/beatriz-navas-valdes/)
 - **Editorial:** Caballo de Troya
 - **Formato:** Paperback, 272 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415451903 / 9788415451907
 - **Publicación original:** 2018-02-01
 - **Ficha en Goodreads:** [Y ahora, lo importante](https://www.goodreads.com/book/show/38348401-y-ahora-lo-importante)

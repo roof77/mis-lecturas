@@ -1,5 +1,5 @@
 ---
-title: Hábitos atómicos
+title: '#530 · Hábitos atómicos'
 summary: 'HÁBITOS ATÓMICOS parte de una simple pero poderosa pregunta: ¿Cómo podemos vivir mejor? Sabemos que unos buenos
   hábitos nos permiten mejorar significativamente…'
 date: '2022-04-06T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Liderazgo
 - Salud
 toc: false
+id: 530
 autores:
 - James Clear
 autores_stats:
@@ -39,7 +40,7 @@ HÁBITOS ATÓMICOS parte de una simple pero poderosa pregunta: ¿Cómo podemos v
 - **Autor:** [James Clear](/autores/james-clear/)
 - **Editorial:** Paidos México
 - **Formato:** Kindle Edition, 339 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 6077476722 / 9786077476726
 - **Publicación original:** 2019-04-12
 - **Géneros:** [Autoayuda](/tags/autoayuda/), [No Ficción](/tags/no-ficcion/), [Psicología](/tags/psicologia/), [Desarrollo personal](/tags/desarrollo-personal/), [Productividad](/tags/productividad/), [Negocios](/tags/negocios/), [Liderazgo](/tags/liderazgo/), [Salud](/tags/salud/)

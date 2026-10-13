@@ -1,5 +1,5 @@
 ---
-title: Los pecados gloriosos
+title: '#403 · Los pecados gloriosos'
 summary: Los pecados gloriosos es un recorrido por los caminos del remordimiento y la vergüenza, así como por el legado de
   las actitudes irlandesas del siglo pasado en…
 date: '2019-08-31T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Misterio
 - Ficción adulta
 toc: false
+id: 403
 autores:
 - Lisa McInerney
 autores_stats:
@@ -45,7 +46,7 @@ Al tratar de expiar el homicidio y multitud de otros supuestos pecados, Maureen 
 - **Serie:** Ryan Cusack (#1)
 - **Editorial:** Alianza de Novelas
 - **Formato:** Paperback, 432 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491044760 / 9788491044765
 - **Publicación original:** 2016-11-24
 - **Géneros:** [Ficción](/tags/ficcion/), [Irlanda](/tags/irlanda/), [Literatura irlandesa](/tags/literatura-irlandesa/), [Contemporaneo](/tags/contemporaneo/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Crimen](/tags/crimen/), [Misterio](/tags/misterio/), [Ficción adulta](/tags/ficcion-adulta/)

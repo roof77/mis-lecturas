@@ -1,5 +1,5 @@
 ---
-title: La isla del tesoro
+title: '#195 · La isla del tesoro'
 summary: Jim Hawkins regenta, junto a sus padres, la posada Almirante Benbow. Su vida discurre tranquila entre la barra y
   las mesas hasta que, un día, un viejo marinero…
 date: '2016-05-30T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Fantasía
 - Literatura
 toc: false
+id: 195
 autores:
 - Robert Louis Stevenson
 - Jordi Beltrán Ferrer
@@ -44,7 +45,7 @@ Esta edición, que recupera la buena labor traductora de Jordi Beltrán, se abre
 - **Colaboradores:** [Jordi Beltrán Ferrer](/autores/jordi-beltran-ferrer/) (Translator)
 - **Editorial:** Penguin Clásicos
 - **Formato:** Mass Market Paperback, 360 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491050884 / 9788491050889
 - **Publicación original:** 2015-11-17
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Aventuras](/tags/aventuras/), [Ficción histórica](/tags/ficcion-historica/), [Jovenes adultos](/tags/jovenes-adultos/), [Niños](/tags/ninos/), [Piratas](/tags/piratas/), [Fantasía](/tags/fantasia/), [Literatura](/tags/literatura/)

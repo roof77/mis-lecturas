@@ -1,5 +1,5 @@
 ---
-title: Un verano en las dunas
+title: '#669 · Un verano en las dunas'
 summary: Entre 1991 y 1993, poco antes de alcanzar la fama a nivel mundial, Seth publicó las dos historias contenidas en Un
   verano en las dunas, que permanecían…
 date: '2024-07-12T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 669
 autores:
 - Seth
 autores_stats:
@@ -32,7 +32,7 @@ Entre 1991 y 1993, poco antes de alcanzar la fama a nivel mundial, Seth publicó
 - **Autor:** [Seth](/autores/seth/)
 - **Editorial:** Fulgencio Pimentel
 - **Formato:** Paperback, 88 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2016-05-01
 - **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [Un verano en las dunas](https://www.goodreads.com/book/show/30830358-un-verano-en-las-dunas)

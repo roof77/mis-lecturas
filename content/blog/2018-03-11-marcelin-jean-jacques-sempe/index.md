@@ -1,5 +1,5 @@
 ---
-title: Marcelín
+title: '#298 · Marcelín'
 summary: 'Marcelín es un niño como cualquier otro, pero padece una curiosa molestia: se sonroja sin ningún motivo. Y no sabe
   por qué. Un buen día conoce a Renato, que…'
 date: '2018-03-11T23:59:59'
@@ -11,11 +11,11 @@ tags:
 - Francia
 - Niños
 - Ficción
-- Comics
 - Novela gráfica
 - Idiomas
 - Literatura francesa
 toc: false
+id: 298
 autores:
 - Jean-Jacques Sempé
 autores_stats:
@@ -38,7 +38,7 @@ Marcelín es un niño como cualquier otro, pero padece una curiosa molestia: se 
 - **Autor:** [Jean-Jacques Sempé](/autores/jean-jacques-sempe/)
 - **Editorial:** BLACKIE BOOKS
 - **Formato:** Hardcover, 127 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416290741 / 9788416290741
 - **Publicación original:** 2016-03-01
 - **Géneros:** [Francia](/tags/francia/), [Niños](/tags/ninos/), [Ficción](/tags/ficcion/), [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Idiomas](/tags/idiomas/), [Literatura francesa](/tags/literatura-francesa/)

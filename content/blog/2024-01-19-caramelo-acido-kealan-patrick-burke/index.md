@@ -1,5 +1,5 @@
 ---
-title: Caramelo ácido
+title: '#616 · Caramelo ácido'
 summary: "\"Cuatro meses después de su primer encuentro con el niño en Walmart, a Phil Pendleton se le cayó el último diente\"\
   .\r\n\r\nA primera vista, cualquiera diría que…"
 date: '2024-01-19T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Paranormal
 - Fantasía
 toc: false
+id: 616
 autores:
 - Kealan Patrick Burke
 autores_stats:
@@ -43,7 +44,7 @@ Lo que nadie sabe es que Phil es un prisionero, y que hasta hace unas semanas y 
 - **Autor:** [Kealan Patrick Burke](/autores/kealan-patrick-burke/)
 - **Editorial:** Dilatando Mentes Editorial 
 - **Formato:** Paperback, 146 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412621794 / 9788412621792
 - **Publicación original:** 2023-05-01
 - **Géneros:** [Terror](/tags/terror/), [Novella](/tags/novella/), [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Paranormal](/tags/paranormal/), [Fantasía](/tags/fantasia/)

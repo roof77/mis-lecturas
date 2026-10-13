@@ -1,5 +1,5 @@
 ---
-title: Un policía en la luna
+title: '#740 · Un policía en la luna'
 summary: La colonia lunar ha conocido tiempos mejores, como uno de esos pueblos en los que ha dejado de pasar la carretera
   principal y su población se reduce día tras…
 date: '2025-04-26T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Ciencia ficción
 - Ficción
 - Espacio
 - Adultos
 - Humor
 toc: false
+id: 740
 autores:
 - Tom Gauld
 autores_stats:
@@ -40,7 +40,7 @@ Con el reconocible estilo de su autor, sobrio pero de gran expresividad, Un poli
 - **Autor:** [Tom Gauld](/autores/tom-gauld/)
 - **Editorial:** Salamandra
 - **Formato:** Hardcover, 96 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416131287 / 9788416131280
 - **Publicación original:** 2017-02-01
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Espacio](/tags/espacio/), [Adultos](/tags/adultos/), [Humor](/tags/humor/)

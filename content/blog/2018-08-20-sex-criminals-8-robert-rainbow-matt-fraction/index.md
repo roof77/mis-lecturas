@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals #8: Robert Rainbow'
+title: '#353 · Sex Criminals #8: Robert Rainbow'
 summary: Jon and Suzie have had to deal with a whole lot in their time together but nothing can prepare them for...Robert
   Rainbow. Actually he's a pretty cool guy. And…
 date: '2018-08-20T23:59:58'
@@ -8,12 +8,12 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Fantasía
 - Humor
 - Comedia
 toc: false
+id: 353
 autores:
 - Matt Fraction
 - Chip Zdarsky

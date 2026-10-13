@@ -1,5 +1,5 @@
 ---
-title: Yo, mentiroso
+title: '#735 · Yo, mentiroso'
 summary: Las cabezas de tres dirigentes políticos aparecen encapsuladas en sendos orbes de vidrio. Todo apunta a una venganza
   política, ya que los cadáveres pertenecen…
 date: '2025-04-15T23:59:59'
@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Thriller
 - España
 toc: false
+id: 735
 autores:
 - Antonio Altarriba
 - Keko
@@ -43,7 +43,7 @@ Antonio Altarriba (El arte de volar, El ala rota) y el dibujante Keko (El perdó
 - **Colaboradores:** [Keko](/autores/keko/) (Author)
 - **Editorial:** Norma Editorial
 - **Formato:** Hardcover, 164 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788467943863
 - **Publicación original:** 2020-12-11
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Thriller](/tags/thriller/), [España](/tags/espana/)

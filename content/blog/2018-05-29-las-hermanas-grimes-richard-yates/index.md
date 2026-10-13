@@ -1,5 +1,5 @@
 ---
-title: Las hermanas Grimes
+title: '#313 · Las hermanas Grimes'
 summary: '"Ninguna de las hermanas Grimes estaba destinada a ser feliz, y al echar una mirada retrospectiva siempre da la
   impresión de que los problemas comenzaron con…'
 date: '2018-05-29T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Siglo XX
 - Club de lectura
 toc: false
+id: 313
 autores:
 - Richard Yates
 autores_stats:
@@ -39,7 +40,7 @@ nota: '4'
 - **Autor:** [Richard Yates](/autores/richard-yates/)
 - **Editorial:** ALFAGUARA
 - **Formato:** Paperback, 232 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420421537 / 9788420421537
 - **Publicación original:** 2008-12-23
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura](/tags/literatura/), [Siglo XX](/tags/siglo-xx/), [Club de lectura](/tags/club-de-lectura/)

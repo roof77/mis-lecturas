@@ -1,5 +1,5 @@
 ---
-title: Diario de un vacío
+title: '#577 · Diario de un vacío'
 summary: "¿Mentimos para sentirnos menos solos?\r\n\r\nShibata tiene un trabajo estable en una compañía manufacturera de papel\
   \ y cartón. Sin duda, es mejor que su puesto…"
 date: '2023-02-09T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ásia
 - Club de lectura
 toc: false
+id: 577
 autores:
 - Emi Yagi
 autores_stats:
@@ -46,7 +47,7 @@ Diario de un vacío se llevó el premio de los libreros a mejor debut en Japón.
 - **Autor:** [Emi Yagi](/autores/emi-yagi/)
 - **Editorial:** Temas de Hoy
 - **Formato:** Paperback, 173 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8499989047 / 9788499989044
 - **Publicación original:** 2022-02-09
 - **Géneros:** [Ficción](/tags/ficcion/), [Japón](/tags/japon/), [Contemporaneo](/tags/contemporaneo/), [Literatura japanesa](/tags/literatura-japanesa/), [Feminismo](/tags/feminismo/), [Ficción Literaria](/tags/ficcion-literaria/), [Literatura asiática](/tags/literatura-asiatica/), [Ásia](/tags/asia/), [Club de lectura](/tags/club-de-lectura/)

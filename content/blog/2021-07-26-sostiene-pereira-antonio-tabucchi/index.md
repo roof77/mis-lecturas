@@ -1,5 +1,5 @@
 ---
-title: Sostiene Pereira
+title: '#474 · Sostiene Pereira'
 summary: "ISBN 9788433966322 moved to this edition.\r\n\r\nLisboa, 1938. \r\nEn una Europa recorrida por el fantasma de los\
   \ totalitarismos, Pereira, un periodista dedicado…"
 date: '2021-07-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Histórico
 toc: false
+id: 474
 autores:
 - Antonio Tabucchi
 - Carlos Gumpert
@@ -46,7 +47,7 @@ En una Europa recorrida por el fantasma de los totalitarismos, Pereira, un perio
 - **Colaboradores:** [Carlos Gumpert](/autores/carlos-gumpert/) (Translator), [Xavier González Rovira](/autores/xavier-gonzalez-rovira/) (Translator)
 - **Editorial:** Anagrama
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 1999-08-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Literatura italiana](/tags/literatura-italiana/), [Ficción histórica](/tags/ficcion-historica/), [Portugal](/tags/portugal/), [Clásico](/tags/clasico/), [Italia](/tags/italia/), [Novela](/tags/novela/), [Literatura](/tags/literatura/), [Histórico](/tags/historico/)
 - **Personajes:** Pereira, Francesco Monteiro Rossi, Marta (Pereira Maintains)

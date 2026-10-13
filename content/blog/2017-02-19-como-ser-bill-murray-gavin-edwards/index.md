@@ -1,5 +1,5 @@
 ---
-title: Cómo ser Bill Murray
+title: '#236 · Cómo ser Bill Murray'
 summary: 'Esperas en un semáforo mientras comes unas patatas fritas cuando alguien mete la mano en tu bolsa. Lo miras y piensas:
   “es él, es igual que él, qué emoción si…'
 date: '2017-02-19T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Cultura Pop
 - Adultos
 toc: false
+id: 236
 autores:
 - Gavin Edwards
 - Ismael Attrache
@@ -48,7 +49,7 @@ Todo apunta a que Bill Murray tiene una misión: quiere que seamos mejores perso
 - **Colaboradores:** [Ismael Attrache](/autores/ismael-attrache/) (Translator), [Jonathan Millán](/autores/jonathan-millan/) (Illustrator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416290717 / 9788416290710
 - **Publicación original:** 2016-11-30
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Humor](/tags/humor/), [Comedia](/tags/comedia/), [Memorias](/tags/memorias/), [Filosofía](/tags/filosofia/), [Cultura Pop](/tags/cultura-pop/), [Adultos](/tags/adultos/)

@@ -1,5 +1,5 @@
 ---
-title: Había una fiesta
+title: '#394 · Había una fiesta'
 summary: Todo empieza y todo termina con esta  la que protagonizan cuatro jóvenes a las que los demás miran como si viajaran
   «solas» aunque ellas sepan que no pueden…
 date: '2019-06-22T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 394
 autores:
 - Marina L. Riudoms
 autores_stats:
@@ -33,7 +34,7 @@ Con una prosa sencilla y directa que unas veces recuerda a las autoras de la Alt
 - **Autor:** [Marina L. Riudoms](/autores/marina-l-riudoms/)
 - **Editorial:** Caballo De Troya
 - **Formato:** Kindle Edition, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8417417141 / 9788417417147
 - **Publicación original:** 2019-05-09
 - **Ficha en Goodreads:** [Había una fiesta](https://www.goodreads.com/book/show/44663371-hab-a-una-fiesta)

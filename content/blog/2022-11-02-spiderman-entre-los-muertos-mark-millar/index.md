@@ -1,5 +1,5 @@
 ---
-title: 'Spiderman: Entre los muertos'
+title: '#569 · Spiderman: Entre los muertos'
 summary: 'Peter Parker''s worst nightmare has finally come true: one of Spider-Man''s enemies has learned his secret identity
   and is using that knowledge to strike at…'
 date: '2022-11-02T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Marvel
 - Spiderman
@@ -17,6 +16,7 @@ tags:
 - Ciencia ficción
 - Jovenes adultos
 toc: false
+id: 569
 autores:
 - Mark Millar
 - Terry Dodson
@@ -48,7 +48,7 @@ Collects Marvel Knights Spider-Man #1-12
 - **Colaboradores:** [Terry Dodson](/autores/terry-dodson/) (Illustrator)
 - **Editorial:** Panini España, S.A.
 - **Formato:** Hardcover, 312 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491670076 / 9788491670070
 - **Publicación original:** 2017-06-21
 - **Géneros:** [Comics](/tags/comics/), [Marvel](/tags/marvel/), [Spiderman](/tags/spiderman/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Jovenes adultos](/tags/jovenes-adultos/)

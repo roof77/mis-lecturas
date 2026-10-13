@@ -1,5 +1,5 @@
 ---
-title: La señorita Stark
+title: '#770 · La señorita Stark'
 summary: Rare book
 date: '2025-09-09T23:59:59'
 authors:
@@ -8,6 +8,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 770
 autores:
 - Thomas / Santana López Hürlimann
 autores_stats:
@@ -30,7 +31,7 @@ Rare book
 - **Autor:** [Thomas / Santana López Hürlimann](/autores/thomas-santana-lopez-hurlimann/)
 - **Editorial:** Tropismos
 - **Formato:** Paperback
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493406813 / 9788493406813
 - **Publicación original:** 2004-01-01
 - **Ficha en Goodreads:** [La señorita Stark](https://www.goodreads.com/book/show/107636876-la-se-orita-stark)

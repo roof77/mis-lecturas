@@ -1,5 +1,5 @@
 ---
-title: El antropólogo inocente
+title: '#59 · El antropólogo inocente'
 summary: 'El antropólogo inocente es un texto ciertamente insólito del que se dijo: «Probablemente el libro más divertido
   que se ha publicado este año. Nigel Barley hace…'
 date: '2014-08-05T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Biografía
 - Ciencias sociales
 toc: false
+id: 59
 autores:
 - Nigel Barley
 - María José Rodellar
@@ -47,7 +48,7 @@ Después de esta experiencia, el autor se incorporó al Museo Británico, cuyo d
 - **Colaboradores:** [María José Rodellar](/autores/maria-jose-rodellar/) (Translator), [Alberto Cardín](/autores/alberto-cardin/) (Contributor)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433925180 / 9788433925183
 - **Publicación original:** 1994-02-28
 - **Géneros:** [Antropología](/tags/antropologia/), [No Ficción](/tags/no-ficcion/), [África](/tags/africa/), [Viajes](/tags/viajes/), [Humor](/tags/humor/), [Ciencia](/tags/ciencia/), [Sociología](/tags/sociologia/), [Memorias](/tags/memorias/), [Biografía](/tags/biografia/), [Ciencias sociales](/tags/ciencias-sociales/)

@@ -1,5 +1,5 @@
 ---
-title: La encrucijada de Desert Hole
+title: '#539 · La encrucijada de Desert Hole'
 summary: Reseña de lectura de «La encrucijada de Desert Hole».
 date: '2022-05-16T23:59:59'
 authors:
@@ -8,6 +8,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 539
 autores:
 - Vicky Gatekeeper
 autores_stats:
@@ -26,7 +27,7 @@ nota: '3'
 - **Autor:** [Vicky Gatekeeper](/autores/vicky-gatekeeper/)
 - **Editorial:** Proyecto Estefanía
 - **Formato:** Paperback, 42 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2021-03-01
 - **Ficha en Goodreads:** [La encrucijada de Desert Hole](https://www.goodreads.com/book/show/58444559-la-encrucijada-de-desert-hole)
 

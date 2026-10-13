@@ -1,5 +1,5 @@
 ---
-title: Yo que nunca supe de los hombres
+title: '#720 · Yo que nunca supe de los hombres'
 summary: En un futuro cercano, en un planeta irreconocible, cuarenta mujeres son mantenidas en una jaula custodiada por silenciosos
   hombres uniformados. La más joven de…
 date: '2025-03-13T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Fantasía
 - Adultos
 toc: false
+id: 720
 autores:
 - Jacqueline Harpman
 autores_stats:
@@ -42,7 +43,7 @@ Jacqueline Harpman (1929-2012) fue una novelista y psicoanalista belga de origen
 - **Autor:** [Jacqueline Harpman](/autores/jacqueline-harpman/)
 - **Editorial:** ALIANZA EDITORIAL
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8413620767 / 9788413620763
 - **Publicación original:** 2021-02-04
 - **Géneros:** [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Clásico](/tags/clasico/), [Feminismo](/tags/feminismo/), [Ficción Literaria](/tags/ficcion-literaria/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/)

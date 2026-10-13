@@ -1,5 +1,5 @@
 ---
-title: Los mejores días
+title: '#536 · Los mejores días'
 summary: De una sensibilidad poética poco común, los cuentos de Magalí Etchebarne ponen en escena a niñas, adolescentes, mujeres
   jóvenes o de mediana edad, ancianas…
 date: '2022-05-08T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Relatos
 - Ficción
 toc: false
+id: 536
 autores:
 - Magalí Etchebarne
 autores_stats:
@@ -35,7 +36,7 @@ Desde su publicación en Argentina, Los mejores días ha pasado de ser un secret
 - **Autor:** [Magalí Etchebarne](/autores/magali-etchebarne/)
 - **Editorial:** Las Afueras
 - **Formato:** Paperback, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494983709 / 9788494983702
 - **Publicación original:** 2019-03-01
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/)

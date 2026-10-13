@@ -1,5 +1,5 @@
 ---
-title: Mi nombre era Eileen
+title: '#793 · Mi nombre era Eileen'
 summary: La Navidad ofrece muy poco a Eileen Dunlop, una chica modesta y perturbada atrapada entre su papel de cuidadora de
   un padre alcohólico y su empleo…
 date: '2026-01-21T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Terror
 - Club de lectura
 toc: false
+id: 793
 autores:
 - Ottessa Moshfegh
 - Damià Alou
@@ -43,7 +44,7 @@ Cuando la brillante, guapa y alegre Rebecca Saint John hace su aparición como n
 - **Colaboradores:** [Damià Alou](/autores/damia-alou/) (Translator)
 - **Editorial:** Alfaguara
 - **Formato:** Paperback, 280 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8420423947 / 9788420423944
 - **Publicación original:** 2017-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción histórica](/tags/ficcion-historica/), [Contemporaneo](/tags/contemporaneo/), [Terror](/tags/terror/), [Club de lectura](/tags/club-de-lectura/)

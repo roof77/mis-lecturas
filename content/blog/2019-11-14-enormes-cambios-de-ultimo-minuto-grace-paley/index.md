@@ -1,5 +1,5 @@
 ---
-title: Enormes cambios de último minuto
+title: '#413 · Enormes cambios de último minuto'
 summary: In this collection of short stories, originally published in 1974, Grace Paley "makes the novel as a form seem virtually
   redundant" (Angela Carter, London…
 date: '2019-11-14T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Nueva York
 - Autoras
 toc: false
+id: 413
 autores:
 - Grace Paley
 - José Manuel Álvarez Flórez
@@ -44,7 +45,7 @@ In this collection of short stories, originally published in 1974, Grace Paley "
 - **Colaboradores:** [José Manuel Álvarez Flórez](/autores/jose-manuel-alvarez-florez/) (Translator), [Ángela Pérez](/autores/angela-perez/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433930249 / 9788433930248
 - **Publicación original:** 1983-01-01
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura](/tags/literatura/), [Mujeres](/tags/mujeres/), [EEUU](/tags/eeuu/), [Siglo XX](/tags/siglo-xx/), [Ficción Literaria](/tags/ficcion-literaria/), [Nueva York](/tags/nueva-york/), [Autoras](/tags/autoras/)

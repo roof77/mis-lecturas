@@ -1,5 +1,5 @@
 ---
-title: El mundo de la tarántula
+title: '#188 · El mundo de la tarántula'
 summary: "Los niños mienten mal, pero se emocionan bien.\r\n\r\nPor eso lo que cuenta Pablo es una verdad emocionante.\r\n\
   \r\nLa verdad de cuando hacía teatro en las…"
 date: '2016-04-19T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 188
 autores:
 - Pablo Carbonell
 autores_stats:
@@ -49,7 +50,7 @@ Unas memorias brillantes, emotivísimas, desde su infancia en Cádiz hasta las m
 - **Autor:** [Pablo Carbonell](/autores/pablo-carbonell/)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416290512 / 9788416290512
 - **Publicación original:** 2016-01-01
 - **Ficha en Goodreads:** [El mundo de la tarántula](https://www.goodreads.com/book/show/29914494-el-mundo-de-la-tar-ntula)

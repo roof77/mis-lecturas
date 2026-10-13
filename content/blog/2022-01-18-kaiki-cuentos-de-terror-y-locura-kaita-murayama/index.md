@@ -1,5 +1,5 @@
 ---
-title: 'Kaiki: Cuentos de terror y locura'
+title: '#520 · Kaiki: Cuentos de terror y locura'
 summary: Hasta la introducción de los ideogramas chinos en el siglo VI, el japonés era una lengua oral que no tenía escritura.
   Se trata, seguramente, del país con la…
 date: '2022-01-18T23:59:59'
@@ -16,6 +16,7 @@ tags:
 - Ficción
 - Literatura asiática
 toc: false
+id: 520
 autores:
 - Kaita Murayama
 - Kidō Okamoto
@@ -70,7 +71,7 @@ Prepárese para disfrutar de doce inquietantes relatos que le pondrán los pelos
 - **Colaboradores:** [Kidō Okamoto](/autores/kido-okamoto/) (Author), [Kyōka Izumi](/autores/kyoka-izumi/) (Author), [Kōtarō Tanaka](/autores/kotaro-tanaka/) (Author), [Ryūnosuke Akutagawa](/autores/ryunosuke-akutagawa/) (Author), [Ōgai Mori](/autores/ogai-mori/) (Author), [Jun'ichirō Tanizaki](/autores/jun-ichiro-tanizaki/) (Author), [Atsushi Nakajima](/autores/atsushi-nakajima/) (Author), [Edogawa Rampo](/autores/edogawa-rampo/) (Author), [Jūran Hisao](/autores/juran-hisao/) (Author), [Rohan Kōda](/autores/rohan-koda/) (Author), [Kyūsaku Yumeno](/autores/kyusaku-yumeno/) (Author), [Jun'ichi Shibaguchi](/autores/jun-ichi-shibaguchi/) (Preface), [Isami Romero Hoshino](/autores/isami-romero-hoshino/) (Translator), [Juan Antonio Yáñez](/autores/juan-antonio-yanez/) (Translator)
 - **Editorial:** Quaterni
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8494616048 / 9788494616044
 - **Publicación original:** 2017-03-17
 - **Géneros:** [Terror](/tags/terror/), [Japón](/tags/japon/), [Literatura japanesa](/tags/literatura-japanesa/), [Relatos](/tags/relatos/), [Ásia](/tags/asia/), [Ficción](/tags/ficcion/), [Literatura asiática](/tags/literatura-asiatica/)

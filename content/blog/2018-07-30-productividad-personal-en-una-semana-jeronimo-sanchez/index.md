@@ -1,5 +1,5 @@
 ---
-title: Productividad personal en una semana
+title: '#326 · Productividad personal en una semana'
 summary: Para alcanzar nuestras metas profesionales y personales debemos desear realmente mejorar nuestra forma de trabajar,
   aumentar el grado de control sobre lo que…
 date: '2018-07-30T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 326
 autores:
 - Jerónimo Sánchez
 autores_stats:
@@ -31,7 +32,7 @@ Para alcanzar nuestras metas profesionales y personales debemos desear realment
 - **Autor:** [Jerónimo Sánchez](/autores/jeronimo-sanchez/)
 - **Editorial:** Gestión 2000
 - **Formato:** Kindle Edition, 67 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 849875254X / 9788498752540
 - **Publicación original:** 2012-11-08
 - **Ficha en Goodreads:** [Productividad personal en una semana](https://www.goodreads.com/book/show/20579027-productividad-personal-en-una-semana)

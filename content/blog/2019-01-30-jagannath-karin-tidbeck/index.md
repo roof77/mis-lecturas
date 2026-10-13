@@ -1,5 +1,5 @@
 ---
-title: Jagannath
+title: '#373 · Jagannath'
 summary: Una muchacha sube una montaña la noche del solsticio de verano y no es vista nunca más. Un joven espera el regreso
   de su madre, perdida en el bosque. Un…
 date: '2019-01-30T23:59:58'
@@ -19,6 +19,7 @@ tags:
 - Suecia
 - Colección de relatos
 toc: false
+id: 373
 autores:
 - Karin Tidbeck
 - Carmen Montes Cano
@@ -48,7 +49,7 @@ El universo literario de Karin Tidbeck revela una de las voces más originales s
 - **Colaboradores:** [Carmen Montes Cano](/autores/carmen-montes-cano/) (Translator), [Marian Womack](/autores/marian-womack/) (Translator), [Elizabeth Hand](/autores/elizabeth-hand/) (Foreword), [Eva Ramón](/autores/eva-ramon/) (Illustrator)
 - **Editorial:** Ediciones Nevsky
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788493937980
 - **Publicación original:** 2014-03-10
 - **Géneros:** [Relatos](/tags/relatos/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Terror](/tags/terror/), [Realismo mágico](/tags/realismo-magico/), [Ficción extraña](/tags/ficcion-extrana/), [Ficción especulativa](/tags/ficcion-especulativa/), [Suecia](/tags/suecia/), [Colección de relatos](/tags/coleccion-de-relatos/)

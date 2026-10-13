@@ -1,5 +1,5 @@
 ---
-title: Piso compartido
+title: '#817 · Piso compartido'
 summary: Piso compartido es una novela de interior. Un relato costumbrista donde magia, memoria y cotidianidad se unen. La
   autora entreteje la vida de cinco señoras…
 date: '2026-03-25T23:59:59'
@@ -12,6 +12,7 @@ tags:
 - Literatura hispana
 - Feminismo
 toc: false
+id: 817
 autores:
 - Ana Flecha Marco
 autores_stats:
@@ -34,7 +35,7 @@ Piso compartido es una novela de interior. Un relato costumbrista donde magia, m
 - **Autor:** [Ana Flecha Marco](/autores/ana-flecha-marco/)
 - **Editorial:** Mrs. Danvers
 - **Formato:** Hardcover, 112 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412260414 / 9788412260410
 - **Publicación original:** 2021-04-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Feminismo](/tags/feminismo/)

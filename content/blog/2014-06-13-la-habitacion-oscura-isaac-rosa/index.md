@@ -1,5 +1,5 @@
 ---
-title: La habitación oscura
+title: '#40 · La habitación oscura'
 summary: 'Un grupo de jóvenes decide construir una «habitación oscura»: un lugar cerrado donde nunca entra la luz. Al principio
   la utilizan para experimentar nuevas…'
 date: '2014-06-13T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - España
 toc: false
+id: 40
 autores:
 - Isaac Rosa
 autores_stats:
@@ -36,7 +37,7 @@ La habitación oscura es una exploración de las posibilidades literarias de la 
 - **Autor:** [Isaac Rosa](/autores/isaac-rosa/)
 - **Editorial:** Seix Barral
 - **Formato:** Hardcover, 256 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788432215728
 - **Publicación original:** 2013-09-12
 - **Géneros:** [España](/tags/espana/)

@@ -1,5 +1,5 @@
 ---
-title: El amigo
+title: '#555 · El amigo'
 summary: La protagonista y narradora de esta novela es una escritora neoyorquina que pierde de forma inesperada a su gran
   amigo y mentor, y de forma no menos inesperada…
 date: '2022-07-18T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Perros
 - Literatura
 toc: false
+id: 555
 autores:
 - Sigrid Nunez
 - Mercedes Cebrián
@@ -44,7 +45,7 @@ El libro –galardonado con el National Book Award, instantáneo y sorpresivo é
 - **Colaboradores:** [Mercedes Cebrián](/autores/mercedes-cebrian/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433980386 / 9788433980380
 - **Publicación original:** 2019-08-31
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Animales](/tags/animales/), [Club de lectura](/tags/club-de-lectura/), [Aflicción](/tags/afliccion/), [Novela](/tags/novela/), [Perros](/tags/perros/), [Literatura](/tags/literatura/)

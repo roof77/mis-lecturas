@@ -1,5 +1,5 @@
 ---
-title: 'Open: memorias'
+title: '#79 · Open: memorias'
 summary: Siendo un bebé, le pusieron una raqueta de juguete en la mano. Desde entonces, Agassi no ha hecho otra cosa que golpear
   pelotas de tenis. Su padre, obsesionado…
 date: '2014-10-30T23:59:58'
@@ -17,6 +17,7 @@ tags:
 - Adultos
 - EEUU
 toc: false
+id: 79
 autores:
 - Andre Agassi
 - Juanjo Estrella González
@@ -43,7 +44,7 @@ Siendo un bebé, le pusieron una raqueta de juguete en la mano. Desde entonces, 
 - **Colaboradores:** [Juanjo Estrella González](/autores/juanjo-estrella-gonzalez/) (Translator)
 - **Editorial:** Duomo Ediciones
 - **Formato:** Paperback, 480 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415945485 / 9788415945482
 - **Publicación original:** 2014-09-01
 - **Géneros:** [Biografía](/tags/biografia/), [No Ficción](/tags/no-ficcion/), [Deportes](/tags/deportes/), [Memorias](/tags/memorias/), [Autobiografía](/tags/autobiografia/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [EEUU](/tags/eeuu/)

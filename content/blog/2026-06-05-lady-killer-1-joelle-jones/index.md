@@ -1,5 +1,5 @@
 ---
-title: 'Lady Killer #1'
+title: '#856 · Lady Killer #1'
 summary: Josie Schuller is a picture-perfect homemaker, wife, and mother--but she's also a ruthless, efficient killer for
   hire! A brand-new original comedy series that…
 date: '2026-06-05T23:59:55'
@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Ficción histórica
 - Ficción
 toc: false
+id: 856
 autores:
 - Joëlle Jones
 - Jamie S. Rich

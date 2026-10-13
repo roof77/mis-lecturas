@@ -1,5 +1,5 @@
 ---
-title: En las antípodas
+title: '#99 · En las antípodas'
 summary: Australia es el sexto país más grande del mundo y la islamás extensa. Isla, país, continente. Seco, árido, yermo
   y climáticamente agresivo. Un país donde el…
 date: '2015-03-19T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Biografía
 toc: false
+id: 99
 autores:
 - Bill Bryson
 - Esther Roig Giménez
@@ -42,7 +43,7 @@ Australia es el sexto país más grande del mundo y la islamás extensa. Isla, p
 - **Colaboradores:** [Esther Roig Giménez](/autores/esther-roig-gimenez/) (Translator)
 - **Editorial:** RBA
 - **Formato:** Paperback, 414 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478717374 / 9788478717378
 - **Publicación original:** 2006-01-01
 - **Géneros:** [Viajes](/tags/viajes/), [No Ficción](/tags/no-ficcion/), [Humor](/tags/humor/), [Australia](/tags/australia/), [Memorias](/tags/memorias/), [Historia](/tags/historia/), [Aventuras](/tags/aventuras/), [Club de lectura](/tags/club-de-lectura/), [Biografía](/tags/biografia/)

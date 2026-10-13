@@ -1,5 +1,5 @@
 ---
-title: Todas las criaturas grandes y pequeñas. Aventuras y desventuras de un veterinario en la campiña inglesa
+title: '#612 · Todas las criaturas grandes y pequeñas. Aventuras y desventuras de un veterinario en la campiña inglesa'
 summary: "Las divertidas experiencias de un aprendiz de veterinario en la Inglaterra rural de los años treinta.\r\nDesde su\
   \ publicación, estas memorias han sido el libro…"
 date: '2023-12-06T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Autobiografía
 - Club de lectura
 toc: false
+id: 612
 autores:
 - James Herriot
 autores_stats:
@@ -47,7 +48,7 @@ Ni tampoco que deberá ganarse uno a uno a todos los granjeros de la comarca.
 - **Serie:** All Creatures Great and Small (#1-2)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 304 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419654388 / 9788419654380
 - **Publicación original:** 2023-11-02
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Animales](/tags/animales/), [Clásico](/tags/clasico/), [Biografía](/tags/biografia/), [Humor](/tags/humor/), [Autobiografía](/tags/autobiografia/), [Club de lectura](/tags/club-de-lectura/)

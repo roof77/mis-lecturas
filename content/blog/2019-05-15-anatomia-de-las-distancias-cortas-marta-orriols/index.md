@@ -1,5 +1,5 @@
 ---
-title: Anatomía de las distancias cortas
+title: '#391 · Anatomía de las distancias cortas'
 summary: "Una espléndida colección de cuentos que convierte la vida cotidiana en pura literatura.\r\n\r\n«No parecía que hubiera\
   \ desacuerdo entre ellos, pero algo raro debía…"
 date: '2019-05-15T23:59:59'
@@ -12,6 +12,7 @@ tags:
 - Relatos
 - Contemporaneo
 toc: false
+id: 391
 autores:
 - Marta Orriols
 autores_stats:
@@ -39,7 +40,7 @@ Hay lugar para lo improbable en el día a día de estos espléndidos personajes 
 - **Autor:** [Marta Orriols](/autores/marta-orriols/)
 - **Editorial:** Penguin Random House Grupo Editorial, S. A. U.
 - **Formato:** Kindle Edition, 132 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8426404227 / 9788426404220
 - **Publicación original:** 2017-04-06
 - **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Contemporaneo](/tags/contemporaneo/)

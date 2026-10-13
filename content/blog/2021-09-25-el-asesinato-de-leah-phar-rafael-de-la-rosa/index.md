@@ -1,5 +1,5 @@
 ---
-title: El asesinato de Leah Phar
+title: '#494 · El asesinato de Leah Phar'
 summary: Todos nos hemos preguntado cómo será nuestra muerte. Cuándo ocurrirá, dónde. Y nuestra imaginación ha divagado entre
   mil posibilidades, desde las más pacíficas…
 date: '2021-09-25T23:59:59'
@@ -10,6 +10,7 @@ tags:
 - Libros
 - Terror
 toc: false
+id: 494
 autores:
 - Rafael de la Rosa
 - Juan Alberto Hernández
@@ -38,7 +39,7 @@ Advertencias de contenido: pederastia, violación, maltrato psicológico, serofo
 - **Colaboradores:** [Juan Alberto Hernández](/autores/juan-alberto-hernandez/) (Illustrator)
 - **Editorial:** Editorial Cerbero
 - **Formato:** 246 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412373634 / 9788412373639
 - **Publicación original:** 2021-06-25
 - **Géneros:** [Terror](/tags/terror/)

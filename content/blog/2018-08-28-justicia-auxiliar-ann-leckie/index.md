@@ -1,5 +1,5 @@
 ---
-title: Justicia auxiliar
+title: '#356 · Justicia auxiliar'
 summary: En un planeta helado y remoto, una soldado llamada Breq se está acercando al cumplimiento de su misión. En el pasado,
   Breq era Justicia de Toren, una crucero…
 date: '2018-08-28T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Ficción especulativa
 toc: false
+id: 356
 autores:
 - Ann Leckie
 - Victoria Morera García
@@ -43,7 +44,7 @@ En un planeta helado y remoto, una soldado llamada Breq se está acercando al cu
 - **Colaboradores:** [Victoria Morera García](/autores/victoria-morera-garcia/) (Translator)
 - **Editorial:** Ediciones B
 - **Formato:** Paperback, 416 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 846665688X / 9788466656887
 - **Publicación original:** 2015-05-27
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Space Opera](/tags/space-opera/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/), [Espacio](/tags/espacio/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Ficción especulativa](/tags/ficcion-especulativa/)

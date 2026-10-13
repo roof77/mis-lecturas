@@ -1,5 +1,5 @@
 ---
-title: 'Espíritu festivo: Cuentos de fantasmas'
+title: '#2 · Espíritu festivo: Cuentos de fantasmas'
 summary: «A pesar de la afición que he tenido toda la vida a los cuentos de fantasmas jamás se me ocurrió escribir ninguno
   hasta que fui a Massey College, facultad y…
 date: '2014-01-08T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Siglo XX
 - Halloween
 toc: false
+id: 2
 autores:
 - Robertson Davies
 autores_stats:
@@ -43,7 +44,7 @@ Los fantasmas de Dickens, la reina Victoria o Ibsen son algunos de los espíritu
 - **Autor:** [Robertson Davies](/autores/robertson-davies/)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 312 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8415625626 / 9788415625629
 - **Publicación original:** 2013-09-23
 - **Géneros:** [Relatos](/tags/relatos/), [Ficción](/tags/ficcion/), [Terror](/tags/terror/), [Canada](/tags/canada/), [Humor](/tags/humor/), [Fantasmas](/tags/fantasmas/), [Fantasía](/tags/fantasia/), [Literatura canadiense](/tags/literatura-canadiense/), [Siglo XX](/tags/siglo-xx/), [Halloween](/tags/halloween/)

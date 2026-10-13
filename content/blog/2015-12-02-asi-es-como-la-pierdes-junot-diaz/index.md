@@ -1,5 +1,5 @@
 ---
-title: Así es como la pierdes
+title: '#157 · Así es como la pierdes'
 summary: Así es como la pierdes, de Junot Díaz, que ha escrito otras obras como La maravillosa vida breve de Oscar Wao (Premio
   Pulitzer 2008 y Premio National Book…
 date: '2015-12-02T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Literatura
 - Novela
 toc: false
+id: 157
 autores:
 - Junot Díaz
 autores_stats:
@@ -47,7 +48,7 @@ Así es como la pierdes, de Junot Díaz, que ha escrito otras obras como La mara
 - **Autor:** [Junot Díaz](/autores/junot-diaz/)
 - **Editorial:** Mondadori
 - **Formato:** ebook, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8439726791 / 9788439726791
 - **Publicación original:** 2013-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Relatos](/tags/relatos/), [Contemporaneo](/tags/contemporaneo/), [Club de lectura](/tags/club-de-lectura/), [Romance](/tags/romance/), [Ficción Literaria](/tags/ficcion-literaria/), [Ficción adulta](/tags/ficcion-adulta/), [Adultos](/tags/adultos/), [Literatura](/tags/literatura/), [Novela](/tags/novela/)

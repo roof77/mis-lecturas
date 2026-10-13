@@ -1,5 +1,5 @@
 ---
-title: La máquina del tiempo
+title: '#5 · La máquina del tiempo'
 summary: "—Hace mucho tiempo tuve la idea de una máquina…\r\n—¡Para viajar en el tiempo! —exclamó el jovencito.\r\n—Y podría\
   \ viajar absolutamente en cualquier dirección en…"
 date: '2014-01-20T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Aventuras
 - Ciencia Ficción
 toc: false
+id: 5
 autores:
 - H.G. Wells
 autores_stats:
@@ -44,7 +45,7 @@ La máquina del tiempo fue la primera obra de éxito de G. H. Wells y pionera en
 - **Autor:** [H.G. Wells](/autores/h-g-wells/)
 - **Editorial:** Austral
 - **Formato:** Paperback, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 607076109X / 9786070761096
 - **Publicación original:** 2019-06-18
 - **Géneros:** [Clásico](/tags/clasico/), [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Viaje en el tiempo](/tags/viaje-en-el-tiempo/), [Fantasía](/tags/fantasia/), [Distopía](/tags/distopia/), [Literatura](/tags/literatura/), [Aventuras](/tags/aventuras/), [Ciencia Ficción](/tags/ciencia-ficcion/)

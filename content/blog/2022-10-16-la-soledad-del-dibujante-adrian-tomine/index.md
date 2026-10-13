@@ -1,5 +1,5 @@
 ---
-title: La soledad del dibujante
+title: '#567 · La soledad del dibujante'
 summary: Tras un repentino e insignificante chequeo médico, Tomine empieza a reflexionar sobre su propia vida y a preguntarse
   si todo lo que ha vivido ha valido…
 date: '2022-10-16T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Memorias
 - No Ficción
 - Biografía
 - Humor
 - Arte
 toc: false
+id: 567
 autores:
 - Adrian Tomine
 autores_stats:
@@ -43,7 +43,7 @@ En esta ocasión el impecable estilo de Tomine se eleva a sus líneas más puras
 - **Autor:** [Adrian Tomine](/autores/adrian-tomine/)
 - **Editorial:** Sapristi
 - **Formato:** ebook, 166 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2020-09-17
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Memorias](/tags/memorias/), [No Ficción](/tags/no-ficcion/), [Biografía](/tags/biografia/), [Humor](/tags/humor/), [Arte](/tags/arte/)
 - **Ficha en Goodreads:** [La soledad del dibujante](https://www.goodreads.com/book/show/55453071-la-soledad-del-dibujante)

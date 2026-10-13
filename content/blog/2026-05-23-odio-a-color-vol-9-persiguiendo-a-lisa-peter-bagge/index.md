@@ -1,5 +1,5 @@
 ---
-title: 'Odio a color, vol. 9: Persiguiendo a Lisa'
+title: '#843 · Odio a color, vol. 9: Persiguiendo a Lisa'
 summary: ¡Crisis, alarma, alerta roja! ¡La familia Bradley está tocada y hundida, y la relación de Buddy y Lisa va camino
   de correr la misma suerte!
 date: '2026-05-23T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 843
 autores:
 - Peter Bagge
 autores_stats:
@@ -33,7 +33,7 @@ nota: Muy bien
 - **Serie:** Odio: Hate (#9)
 - **Editorial:** La Cúpula
 - **Formato:** Paperback, 52 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8478335218 / 9788478335213
 - **Publicación original:** 2003-04-24
 - **Géneros:** [Comics](/tags/comics/)

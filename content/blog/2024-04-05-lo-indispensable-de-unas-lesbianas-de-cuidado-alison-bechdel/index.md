@@ -1,5 +1,5 @@
 ---
-title: Lo indispensable de Unas lesbianas de cuidado
+title: '#633 · Lo indispensable de Unas lesbianas de cuidado'
 summary: '"La narración de la autora se muestra ágil, vivaz y corrosivamente ácida ante el lector y sus trazos se perfilan
   hasta definir un perfecto mosaico que te…'
 date: '2024-04-05T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - Queer
 - LGTBIQ+
 - Ficción
@@ -18,6 +17,7 @@ tags:
 - Humor
 - Gay
 toc: false
+id: 633
 autores:
 - Alison Bechdel
 autores_stats:
@@ -41,7 +41,7 @@ nota: Imprescindible
 - **Serie:** Dykes to Watch Out For
 - **Editorial:** RESERVOIR BOOKS
 - **Formato:** Kindle Edition, 404 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416195110 / 9788416195114
 - **Publicación original:** 2014-12-04
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Ficción](/tags/ficcion/), [Feminismo](/tags/feminismo/), [Lesbianismo](/tags/lesbianismo/), [Humor](/tags/humor/), [Gay](/tags/gay/)

@@ -1,5 +1,5 @@
 ---
-title: Discothèque
+title: '#43 · Discothèque'
 summary: Discothèque es una comedia negra y coral. La parodia de géneros, el culebrón, los fantasmas de Shakespeare y los
   conflictos familiares de la tragedia clásica…
 date: '2014-06-23T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 43
 autores:
 - Félix Romeo
 autores_stats:
@@ -31,7 +32,7 @@ Discothèque es una comedia negra y coral. La parodia de géneros, el culebrón
 - **Autor:** [Félix Romeo](/autores/felix-romeo/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 224 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433924753 / 9788433924759
 - **Publicación original:** 2001-02-01
 - **Ficha en Goodreads:** [Discothèque](https://www.goodreads.com/book/show/6845059-discoth-que)

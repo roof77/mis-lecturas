@@ -1,5 +1,5 @@
 ---
-title: Solaris
+title: '#96 · Solaris'
 summary: Impedimenta se complace en presentar, por primera vez en traducción directa del polaco, Solaris, la mítica novela
   que consagró a Stanisław Lem como autor de…
 date: '2015-02-17T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Polonia
 toc: false
+id: 96
 autores:
 - Stanisław Lem
 - Joanna Orzechowska
@@ -43,7 +44,7 @@ Impedimenta se complace en presentar, por primera vez en traducción directa del
 - **Colaboradores:** [Joanna Orzechowska](/autores/joanna-orzechowska/) (Translator), [Jesús Palacios](/autores/jesus-palacios/) (Prologue)
 - **Editorial:** Impedimenta
 - **Formato:** Paperback, 292 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2011-04-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Literatura polaca](/tags/literatura-polaca/), [Filosofía](/tags/filosofia/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Novela](/tags/novela/), [Polonia](/tags/polonia/)
 - **Personajes:** Kris Kelvin, Sartorius, Gibarian, Snaut (Snow), Harey (Rheya)

@@ -1,5 +1,5 @@
 ---
-title: California Rocket Fuel
+title: '#709 · California Rocket Fuel'
 summary: California Rocket Fuel es la historia de una consulta al psicólogo/psiquiatra. El relato ilustrado del trastorno
   bipolar del protagonista, con sus altibajos…
 date: '2025-02-13T23:59:59'
@@ -8,8 +8,8 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 toc: false
+id: 709
 autores:
 - Lorenzo Montatore
 autores_stats:
@@ -32,7 +32,7 @@ California Rocket Fuel es la historia de una consulta al psicólogo/psiquiatra. 
 - **Autor:** [Lorenzo Montatore](/autores/lorenzo-montatore/)
 - **Editorial:** Mortal y Rosa
 - **Formato:** Paperback, 134 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2019-01-01
 - **Géneros:** [Comics](/tags/comics/)
 - **Ficha en Goodreads:** [California Rocket Fuel](https://www.goodreads.com/book/show/52592471-california-rocket-fuel)

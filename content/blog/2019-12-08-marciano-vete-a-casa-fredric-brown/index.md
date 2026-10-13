@@ -1,5 +1,5 @@
 ---
-title: Marciano, vete a casa
+title: '#418 · Marciano, vete a casa'
 summary: Un escritor se refugia en una cabaña mientras escribe su próximo relato. Al instante un extraterrestre proveniente
   de Marte aparece de la nada. Pronto, cientos…
 date: '2019-12-08T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Clásico
 - Ciencia Ficción
 toc: false
+id: 418
 autores:
 - Fredric Brown
 autores_stats:
@@ -42,7 +43,7 @@ No vienen como conquistadores, sencillamente, su interés es molestar. Pueden ve
 - **Autor:** [Fredric Brown](/autores/fredric-brown/)
 - **Editorial:** Hyspamerica, Madrid.
 - **Formato:** Paperback, 158 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8427007035 / 9788427007031
 - **Publicación original:** 1985-01-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Comedia](/tags/comedia/), [Extraterrestres](/tags/extraterrestres/), [Ficción especulativa](/tags/ficcion-especulativa/), [Novela](/tags/novela/), [Clásico](/tags/clasico/), [Ciencia Ficción](/tags/ciencia-ficcion/)

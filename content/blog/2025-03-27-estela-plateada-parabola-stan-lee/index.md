@@ -1,5 +1,5 @@
 ---
-title: 'Estela Plateada: Parábola'
+title: '#729 · Estela Plateada: Parábola'
 summary: "Contiene Silver Surfer Parable 1 y 2 USA.\r\nLa mítica obra maestra de belleza inabarcable que reunió a los mayores\
   \ genios del cómic estadounidense y europeo, al…"
 date: '2025-03-27T23:59:59'
@@ -8,7 +8,6 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Marvel
 - Superheroes
@@ -16,6 +15,7 @@ tags:
 - Ciencia ficción
 - Fantasía
 toc: false
+id: 729
 autores:
 - Stan Lee
 - Mœbius
@@ -46,7 +46,7 @@ Dibujo: Moebius
 - **Colaboradores:** [Mœbius](/autores/mbius/) (Illustrator), [Uriel López](/autores/uriel-lopez/) (traducción)
 - **Editorial:** Panini Comics España (Marvel Comics)
 - **Formato:** Hardcover, 80 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498857627 / 9788498857627
 - **Publicación original:** 2011-09-16
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Marvel](/tags/marvel/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Ciencia ficción](/tags/ciencia-ficcion/), [Fantasía](/tags/fantasia/)

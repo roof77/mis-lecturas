@@ -1,5 +1,5 @@
 ---
-title: Canción de Rachel
+title: '#121 · Canción de Rachel'
 summary: Canción de Rachel cuenta la azarosa existencia de una vedette durante los rutilantes años veinte cubanos. La voz
   de Rachel, su protagonista —actriz, bailarina…
 date: '2015-06-29T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 121
 autores:
 - Miguel Barnet
 - Italo Calvino
@@ -33,7 +34,7 @@ Canción de Rachel cuenta la azarosa existencia de una vedette durante los rutil
 - **Colaboradores:** [Italo Calvino](/autores/italo-calvino/) (Introduction)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 148 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492663510 / 9788492663514
 - **Publicación original:** 2012-10-01
 - **Personajes:** Rachel Honeybourne (Beauty)

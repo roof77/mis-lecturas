@@ -1,5 +1,5 @@
 ---
-title: Maison Ikkoku tomo 5
+title: '#658 · Maison Ikkoku tomo 5'
 summary: "Tomo 5 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-06-21T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Humor
 - Ficción
 - Romance
@@ -18,6 +17,7 @@ tags:
 - Slice of life
 - Literatura japanesa
 toc: false
+id: 658
 autores:
 - Rumiko Takahashi
 autores_stats:
@@ -42,7 +42,7 @@ Una de las mejores obras de una de las principales autoras de manga de todos los
 - **Serie:** めぞん一刻 ワイド版/文庫版 [Maison Ikkoku Wideban/Bunkoban] (#5)
 - **Editorial:** Ediciones Glénat España
 - **Formato:** Paperback, 344 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 848449523X / 9788484495239
 - **Publicación original:** 2005-01-01
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Humor](/tags/humor/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Seinen manga](/tags/seinen-manga/), [Slice of life](/tags/slice-of-life/), [Literatura japanesa](/tags/literatura-japanesa/)

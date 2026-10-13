@@ -1,5 +1,5 @@
 ---
-title: La casa al final de Needless Street
+title: '#491 · La casa al final de Needless Street'
 summary: "Todos los monstruos tienen una historia.\r\n\r\nLa casa al final de Needless Street es la historia de una niña que\
   \ desapareció once años atrás en una excursión a…"
 date: '2021-09-21T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Crimen
 - Gótico
 toc: false
+id: 491
 autores:
 - Catriona Ward
 - Cristina Macía
@@ -48,7 +49,7 @@ Esta es la historia de un asesino en serie. Una niña robada. Venganza. Muerte. 
 - **Colaboradores:** [Cristina Macía](/autores/cristina-macia/) (Translator), [Octavi Segarra](/autores/octavi-segarra/) (Illustrator)
 - **Editorial:** Alianza Runas
 - **Formato:** Paperback, 320 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788413624501
 - **Publicación original:** 2021-09-09
 - **Géneros:** [Terror](/tags/terror/), [Thriller](/tags/thriller/), [Misterio](/tags/misterio/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Adultos](/tags/adultos/), [Crimen](/tags/crimen/), [Gótico](/tags/gotico/)

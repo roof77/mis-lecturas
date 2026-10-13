@@ -1,5 +1,5 @@
 ---
-title: Nada que esperar
+title: '#153 · Nada que esperar'
 summary: La Gran Depresión se llevó los empleos, hogares y esperanzas de cientos de miles de hombres y mujeres en la Norteamérica
   de los años treinta. En poco tiempo el…
 date: '2015-11-19T23:59:59'
@@ -14,6 +14,7 @@ tags:
 - EEUU
 - Novela
 toc: false
+id: 153
 autores:
 - Tom Kromer
 autores_stats:
@@ -37,7 +38,7 @@ Publicada en 1935 e inédita hasta ahora en castellano, Nada que esperar es la �
 - **Autor:** [Tom Kromer](/autores/tom-kromer/)
 - **Editorial:** Sajalín Editores
 - **Formato:** Paperback, 214 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2015-05-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Noir](/tags/noir/), [EEUU](/tags/eeuu/), [Novela](/tags/novela/)
 - **Lugares:** The United States of America

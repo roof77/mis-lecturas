@@ -1,5 +1,5 @@
 ---
-title: El bosque oscuro
+title: '#274 · El bosque oscuro'
 summary: En El bosque oscuro, la humanidad se recupera del impacto producido por la inminencia de una invasión alienígena
   en el plazo de cuatro siglos. Los…
 date: '2017-11-03T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Novela
 - Ficción especulativa
 toc: false
+id: 274
 autores:
 - Liu Cixin
 - Javier Altayó
@@ -44,7 +45,7 @@ En El bosque oscuro, la humanidad se recupera del impacto producido por la inmin
 - **Colaboradores:** [Javier Altayó](/autores/javier-altayo/) (Translator), [Jianguo Feng](/autores/jianguo-feng/) (Translator)
 - **Editorial:** NOVA
 - **Formato:** Paperback, 576 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8466660925 / 9788466660921
 - **Publicación original:** 2017-09-01
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [China](/tags/china/), [Fantasía](/tags/fantasia/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Extraterrestres](/tags/extraterrestres/), [Espacio](/tags/espacio/), [Novela](/tags/novela/), [Ficción especulativa](/tags/ficcion-especulativa/)

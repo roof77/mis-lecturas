@@ -1,5 +1,5 @@
 ---
-title: 'Sex Criminals, Vol. 2: Dos mundos, una policía'
+title: '#870 · Sex Criminals, Vol. 2: Dos mundos, una policía'
 summary: 'Suzie y Jon tienen un don: cuando alcanzan el orgasmo, el tiempo se congela y entran en otra dimensión donde nadie
   puede alcanzarlos. O eso creían, cuando…'
 date: '2026-06-23T23:59:58'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Fantasía
@@ -17,6 +16,7 @@ tags:
 - Humor
 - Ciencia ficción
 toc: false
+id: 870
 autores:
 - Matt Fraction
 - Chip Zdarsky
@@ -45,7 +45,7 @@ En el segundo volumen de Sex Criminals, los elementos de thriller cobran un peso
 - **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator), [Santiago García](/autores/santiago-garcia/) (Translator)
 - **Editorial:** Astiberri
 - **Formato:** Hardcover, 128 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416880468 / 9788416880461
 - **Publicación original:** 2018-01-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Adultos](/tags/adultos/), [Humor](/tags/humor/), [Ciencia ficción](/tags/ciencia-ficcion/)

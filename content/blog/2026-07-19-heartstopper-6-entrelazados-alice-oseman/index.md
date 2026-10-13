@@ -1,5 +1,5 @@
 ---
-title: Heartstopper 6. Entrelazados
+title: '#897 · Heartstopper 6. Entrelazados'
 summary: Boy meets boy. Boys become friends. Boys fall in love. The final installment in the bestselling LGBTQ+ graphic novel
   series about life, love, and everything…
 date: '2026-07-19T23:59:59'
@@ -10,7 +10,6 @@ tags:
 - Comics
 - Romance
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Jovenes adultos
 - Queer
@@ -19,6 +18,7 @@ tags:
 - Gay
 - Salud mentál
 toc: false
+id: 897
 autores:
 - Alice Oseman
 - Victoria Simó Perales
@@ -50,7 +50,7 @@ Contains discussions around mental health and eating disorders, and sexual refer
 - **Colaboradores:** [Victoria Simó Perales](/autores/victoria-simo-perales/) (Translator)
 - **Editorial:** Crossbooks
 - **Formato:** Paperback, 448 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8408323075 / 9788408323075
 - **Publicación original:** 2026-07-15
 - **Géneros:** [Romance](/tags/romance/), [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Jovenes adultos](/tags/jovenes-adultos/), [Queer](/tags/queer/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/), [Gay](/tags/gay/), [Salud mentál](/tags/salud-mental/)

@@ -1,5 +1,5 @@
 ---
-title: Las luminarias
+title: '#111 · Las luminarias'
 summary: '«Una novela magnífica: imponente en cuanto a su complejidad estructural, adictiva por su historia y mágica por su
   forma de recrear un mundo de codicia y…'
 date: '2015-05-20T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura
 - Novela
 toc: false
+id: 111
 autores:
 - Eleanor Catton
 autores_stats:
@@ -42,7 +43,7 @@ Ese hecho podría pasar desapercibido en mitad de la fiebre del oro que recorre 
 - **Autor:** [Eleanor Catton](/autores/eleanor-catton/)
 - **Editorial:** Siruela 
 - **Formato:** Paperback, 808 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416208328 / 9788416208326
 - **Publicación original:** 2014-11-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Histórico](/tags/historico/), [Ficción Literaria](/tags/ficcion-literaria/), [Club de lectura](/tags/club-de-lectura/), [Contemporaneo](/tags/contemporaneo/), [Literatura](/tags/literatura/), [Novela](/tags/novela/)

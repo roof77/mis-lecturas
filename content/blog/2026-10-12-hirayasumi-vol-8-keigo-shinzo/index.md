@@ -1,5 +1,5 @@
 ---
-title: Hirayasumi, vol. 8
+title: '#944 · Hirayasumi, vol. 8'
 summary: ¡Sigue la ardiente canícula en la vida de Hiroto y Natsumi en la casa unifamiliar! Natsumi, decidida a disfrutar
   al máximo del verano, se va de escapada a…
 date: '2026-10-12T23:59:58'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Slice of life
 - Seinen manga
 - Japón
@@ -18,6 +17,7 @@ tags:
 - Literatura japanesa
 - Contemporaneo
 toc: false
+id: 944
 autores:
 - Keigo Shinzō
 autores_stats:
@@ -41,7 +41,7 @@ nota: Muy recomendable
 - **Serie:** ひらやすみ [Hirayasumi] (#8)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9791387831158
 - **Publicación original:** 2025-05-28
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Slice of life](/tags/slice-of-life/), [Seinen manga](/tags/seinen-manga/), [Japón](/tags/japon/), [Ficción](/tags/ficcion/), [Novela gráfica](/tags/novela-grafica/), [Literatura japanesa](/tags/literatura-japanesa/), [Contemporaneo](/tags/contemporaneo/)

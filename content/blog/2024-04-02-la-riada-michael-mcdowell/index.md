@@ -1,5 +1,5 @@
 ---
-title: La riada
+title: '#632 · La riada'
 summary: "Descubre el primer volumen de la saga Blackwater.\r\n\r\nUna saga matriarcal. Mujeres poderosas que luchan por el\
   \ dominio durante generaciones. Una atmósfera única…"
 date: '2024-04-02T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Gótico sureño
 - Histórico
 toc: false
+id: 632
 autores:
 - Michael McDowell
 - Carles Andreu
@@ -51,7 +52,7 @@ Las gélidas y oscuras aguas del río Blackwater inundan Perdido, un pequeño pu
 - **Colaboradores:** [Carles Andreu](/autores/carles-andreu/) (translator)
 - **Editorial:** Blackie Books
 - **Formato:** Mass Market Paperback, 250 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419654892 / 9788419654892
 - **Publicación original:** 2024-02-07
 - **Géneros:** [Terror](/tags/terror/), [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Gótico](/tags/gotico/), [Ficción histórica](/tags/ficcion-historica/), [Misterio](/tags/misterio/), [Thriller](/tags/thriller/), [Gótico sureño](/tags/gotico-sureno/), [Histórico](/tags/historico/)

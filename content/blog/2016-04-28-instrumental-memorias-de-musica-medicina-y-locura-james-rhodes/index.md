@@ -1,5 +1,5 @@
 ---
-title: 'Instrumental: Memorias de música, medicina y locura'
+title: '#190 · Instrumental: Memorias de música, medicina y locura'
 summary: "«AHORA SÉ QUE LA MÚSICA CURA.»\r\n \r\nJames Rhodes es uno de los más eminentes concertistas de piano de la actualidad\
   \ y un gran renovador de la música clásica. Ha…"
 date: '2016-04-28T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Literatura británica
 - Enfermedad mentál
 toc: false
+id: 190
 autores:
 - James Rhodes
 - Ismael Attrache
@@ -50,7 +51,7 @@ James Rhodes es uno de los más eminentes concertistas de piano de la actualidad
 - **Colaboradores:** [Ismael Attrache](/autores/ismael-attrache/) (Translator)
 - **Editorial:** Blackie Books
 - **Formato:** Hardcover, 280 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416290431 / 9788416290437
 - **Publicación original:** 2015-11-09
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Música](/tags/musica/), [Biografía](/tags/biografia/), [Memorias](/tags/memorias/), [Salud mentál](/tags/salud-mental/), [Psicología](/tags/psicologia/), [Autobiografía](/tags/autobiografia/), [Literatura británica](/tags/literatura-britanica/), [Enfermedad mentál](/tags/enfermedad-mental/)

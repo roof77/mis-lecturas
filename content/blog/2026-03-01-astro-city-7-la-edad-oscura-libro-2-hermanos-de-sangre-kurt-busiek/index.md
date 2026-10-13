@@ -1,5 +1,5 @@
 ---
-title: 'Astro City #7: La Edad Oscura Libro 2: Hermanos de sangre'
+title: '#807 · Astro City #7: La Edad Oscura Libro 2: Hermanos de sangre'
 summary: Today Astro City is a shining metropolis on a hill where super-heroes patrol the skies. However, things were not
   always as bright as they are today. In the…
 date: '2026-03-01T23:59:59'
@@ -7,7 +7,6 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Comics
 - Comics
 - Novela gráfica
 - Superheroes
@@ -17,6 +16,7 @@ tags:
 - Crimen
 - Acción
 toc: false
+id: 807
 autores:
 - Kurt Busiek
 autores_stats:
@@ -40,7 +40,7 @@ Today Astro City is a shining metropolis on a hill where super-heroes patrol the
 - **Serie:** Astro City (#7)
 - **Editorial:** NORMA EDITORIAL, S.A.
 - **Formato:** Hardcover, 240 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8467905484 / 9788467905489
 - **Publicación original:** 2011-05-01
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Superheroes](/tags/superheroes/), [Ficción](/tags/ficcion/), [Fantasía](/tags/fantasia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Crimen](/tags/crimen/), [Acción](/tags/accion/)

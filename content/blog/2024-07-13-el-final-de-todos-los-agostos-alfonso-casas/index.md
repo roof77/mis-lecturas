@@ -1,5 +1,5 @@
 ---
-title: El final de todos los agostos
+title: '#670 · El final de todos los agostos'
 summary: A menudo el pasado deja cabos sueltos, asuntos por resolver, interrogantes que persiguen nuestro futuro. Esto es
   lo que le ocurre al protagonista de este…
 date: '2024-07-13T23:59:59'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - LGTBIQ+
 - Queer
 - Ficción
@@ -17,6 +16,7 @@ tags:
 - Contemporaneo
 - Manga
 toc: false
+id: 670
 autores:
 - Alfonso Casas
 autores_stats:
@@ -39,7 +39,7 @@ A menudo el pasado deja cabos sueltos, asuntos por resolver, interrogantes que p
 - **Autor:** [Alfonso Casas](/autores/alfonso-casas/)
 - **Editorial:** Lunwerg Editores
 - **Formato:** Hardcover, 152 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 841689034X / 9788416890347
 - **Publicación original:** 2017-09-26
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [LGTBIQ+](/tags/lgtbiq/), [Queer](/tags/queer/), [Ficción](/tags/ficcion/), [España](/tags/espana/), [Contemporaneo](/tags/contemporaneo/), [Manga](/tags/manga/)

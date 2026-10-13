@@ -1,5 +1,5 @@
 ---
-title: Espejismo
+title: '#105 · Espejismo'
 summary: Los últimos seres humanos viven en el silo, una prisión subterránea que ellos mismos han construido. Desde allí pueden
   ver el exterior, una imagen pixelada del…
 date: '2015-04-11T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Apocalipsis
 toc: false
+id: 105
 autores:
 - Hugh Howey
 autores_stats:
@@ -46,7 +47,7 @@ Espejismo fue publicado originalmente como cinco historias cortas; el éxito con
 - **Serie:** Silo (#1A)
 - **Editorial:** Minotauro
 - **Formato:** Kindle Edition, 46 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788445001585
 - **Publicación original:** 2013-07-30
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Distopía](/tags/distopia/), [Postapocalíptico](/tags/postapocaliptico/), [Fantasía](/tags/fantasia/), [Relatos](/tags/relatos/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Club de lectura](/tags/club-de-lectura/), [Apocalipsis](/tags/apocalipsis/)

@@ -1,5 +1,5 @@
 ---
-title: Adiós, hasta mañana
+title: '#48 · Adiós, hasta mañana'
 summary: William Maxwell sitúa su novela más famosa en un pequeño pueblo del estado de Illinois, en el que dos familias comparten
   muchas cosas, tantas que los celos…
 date: '2014-06-30T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Novella
 - Coming of age
 toc: false
+id: 48
 autores:
 - William Maxwell
 - Gabriela Bustelo
@@ -43,7 +44,7 @@ William Maxwell sitúa su novela más famosa en un pequeño pueblo del estado de
 - **Colaboradores:** [Gabriela Bustelo](/autores/gabriela-bustelo/) (Translation)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 172 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8493591483 / 9788493591489
 - **Publicación original:** 2008-01-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Clásico](/tags/clasico/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Club de lectura](/tags/club-de-lectura/), [EEUU](/tags/eeuu/), [Literatura](/tags/literatura/), [Novella](/tags/novella/), [Coming of age](/tags/coming-of-age/)

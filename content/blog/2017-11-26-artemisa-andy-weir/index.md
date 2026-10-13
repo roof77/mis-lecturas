@@ -1,5 +1,5 @@
 ---
-title: Artemisa
+title: '#277 · Artemisa'
 summary: "Jazz Bashara es una criminal… O al menos lo parece. \r\n\r\nLa vida en Artemisa, la primera y única ciudad de la\
   \ Luna, es difícil si no eres un turista adinerado o…"
 date: '2017-11-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Aventuras
 toc: false
+id: 277
 autores:
 - Andy Weir
 autores_stats:
@@ -42,7 +43,7 @@ La vida en Artemisa, la primera y única ciudad de la Luna, es difícil si no er
 - **Autor:** [Andy Weir](/autores/andy-weir/)
 - **Editorial:** Nova
 - **Formato:** Kindle Edition, 324 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490698953 / 9788490698952
 - **Publicación original:** 2017-11-22
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Espacio](/tags/espacio/), [Fantasía](/tags/fantasia/), [Club de lectura](/tags/club-de-lectura/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Thriller](/tags/thriller/), [Adultos](/tags/adultos/), [Aventuras](/tags/aventuras/)

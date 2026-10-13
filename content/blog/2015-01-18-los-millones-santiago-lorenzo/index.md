@@ -1,5 +1,5 @@
 ---
-title: Los millones
+title: '#89 · Los millones'
 summary: Marzo de 1986. A uno del GRAPO le tocan doscientos millones de pesetas en la Lotería Primitiva. No puede cobrar el
   premio por que no tiene DNI.
 date: '2015-01-18T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Humor
 - Ficción
 toc: false
+id: 89
 autores:
 - Santiago Lorenzo
 autores_stats:
@@ -33,7 +34,7 @@ Marzo de 1986. A uno del GRAPO le tocan doscientos millones de pesetas en la Lot
 - **Autor:** [Santiago Lorenzo](/autores/santiago-lorenzo/)
 - **Editorial:** Mondo Brutto
 - **Formato:** Paperback, 205 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8461388992 / 9788461388998
 - **Publicación original:** 2010-01-01
 - **Géneros:** [Humor](/tags/humor/), [Ficción](/tags/ficcion/)

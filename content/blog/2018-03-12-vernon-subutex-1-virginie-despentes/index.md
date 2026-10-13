@@ -1,5 +1,5 @@
 ---
-title: Vernon Subutex 1
+title: '#299 · Vernon Subutex 1'
 summary: Alex Bleach, ángel caído del rock francés, ha muerto de una sobredosis en la bañera de un hotel. Toda una desgracia
   para sus fans, pero sobre todo para Vernon…
 date: '2018-03-12T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Siglo XXI
 - París
 toc: false
+id: 299
 autores:
 - Virginie Despentes
 - Noemí Sobregués Arias
@@ -43,7 +44,7 @@ Alex Bleach, ángel caído del rock francés, ha muerto de una sobredosis en la 
 - **Colaboradores:** [Noemí Sobregués Arias](/autores/noemi-sobregues-arias/) (translator)
 - **Editorial:** Literatura Random House
 - **Formato:** Paperback, 352 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788439731436
 - **Publicación original:** 2016-05-05
 - **Géneros:** [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Contemporaneo](/tags/contemporaneo/), [Literatura francesa](/tags/literatura-francesa/), [Novela](/tags/novela/), [Música](/tags/musica/), [Ficción Literaria](/tags/ficcion-literaria/), [Siglo XXI](/tags/siglo-xxi/), [París](/tags/paris/)

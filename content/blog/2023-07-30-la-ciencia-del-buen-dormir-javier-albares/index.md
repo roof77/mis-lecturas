@@ -1,5 +1,5 @@
 ---
-title: La ciencia del buen dormir
+title: '#596 · La ciencia del buen dormir'
 summary: Dormir bien es vivir mejor, con más energía, felicidad, creatividad y empatía. El sueño es uno de los pilares de
   nuestra salud y, sin embargo, es el más…
 date: '2023-07-30T23:59:59'
@@ -11,6 +11,7 @@ tags:
 - Salud
 - No Ficción
 toc: false
+id: 596
 autores:
 - Javier Albares
 autores_stats:
@@ -33,7 +34,7 @@ Dormir bien es vivir mejor, con más energía, felicidad, creatividad y empatía
 - **Autor:** [Javier Albares](/autores/javier-albares/)
 - **Editorial:** Ediciones Península
 - **Formato:** Paperback, 336 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8411001555 / 9788411001557
 - **Publicación original:** 2023-04-26
 - **Géneros:** [Salud](/tags/salud/), [No Ficción](/tags/no-ficcion/)

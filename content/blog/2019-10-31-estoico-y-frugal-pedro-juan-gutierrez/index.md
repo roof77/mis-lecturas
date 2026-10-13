@@ -1,5 +1,5 @@
 ---
-title: Estoico y frugal
+title: '#409 · Estoico y frugal'
 summary: "Las andanzas vitales y sexuales de un escritor cubano por Madrid y por media Europa.\r\n\r\n«Hacía muchos años que\
   \ mi vida se había convertido en un juego de…"
 date: '2019-10-31T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 409
 autores:
 - Pedro Juan Gutiérrez
 autores_stats:
@@ -37,7 +38,7 @@ En la línea de su narrativa vital, visceral y sexual, Pedro Juan Gutiérrez nos
 - **Autor:** [Pedro Juan Gutiérrez](/autores/pedro-juan-gutierrez/)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Paperback, 176 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433998811 / 9788433998811
 - **Publicación original:** 2019-08-31
 - **Ficha en Goodreads:** [Estoico y frugal](https://www.goodreads.com/book/show/45479302-estoico-y-frugal)

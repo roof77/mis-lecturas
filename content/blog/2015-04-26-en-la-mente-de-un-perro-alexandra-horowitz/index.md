@@ -1,5 +1,5 @@
 ---
-title: En la mente de un perro
+title: '#107 · En la mente de un perro'
 summary: ¿Qué piensan los perros? ¿Cómo se relacionan con el mundo que los rodea? ¿Cómo interaccionan con los humanos? ¿Qué
   les dicen sus sentidos? La autora de este…
 date: '2015-04-26T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Biología
 - Adultos
 toc: false
+id: 107
 autores:
 - Alexandra Horowitz
 autores_stats:
@@ -39,7 +40,7 @@ nota: '4'
 - **Autor:** [Alexandra Horowitz](/autores/alexandra-horowitz/)
 - **Editorial:** RBA Libros
 - **Formato:** Kindle Edition, 415 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498679664
 - **Publicación original:** 2013-10-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Perros](/tags/perros/), [Animales](/tags/animales/), [Ciencia](/tags/ciencia/), [Psicología](/tags/psicologia/), [Naturaleza](/tags/naturaleza/), [Biología](/tags/biologia/), [Adultos](/tags/adultos/)

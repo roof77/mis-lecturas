@@ -1,5 +1,5 @@
 ---
-title: La puerta de las siete llaves
+title: '#258 · La puerta de las siete llaves'
 summary: Dick Martin se apresta a marcharse de Scotland Yard para disfrutar de una pequeña herencia.La investigación del robo
   de un libro le lleva, después de una…
 date: '2017-07-26T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Siglo XX
 - Literatura británica
 toc: false
+id: 258
 autores:
 - Edgar Wallace
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: Cuatro hermanas
+title: '#898 · Cuatro hermanas'
 summary: A principios de los años cincuenta, Matthew Soames, maestro en un colegio rural, y su mujer, Callie, disfrutan del
   final del verano en su granja de las afueras…
 date: '2026-07-23T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Ficción adulta
 - Novela
 toc: false
+id: 898
 autores:
 - Jetta Carleton
 - María Teresa Gispert
@@ -45,7 +46,7 @@ Cuatro hermanas, la primera y única novela de Jetta Carleton, fue publicada por
 - **Colaboradores:** [María Teresa Gispert](/autores/maria-teresa-gispert/) (Translator)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Paperback, 412 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8492663049 / 9788492663040
 - **Publicación original:** 2009-10-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Clásico](/tags/clasico/), [Club de lectura](/tags/club-de-lectura/), [Familia](/tags/familia/), [Ficción Literaria](/tags/ficcion-literaria/), [Histórico](/tags/historico/), [Saga familiar](/tags/saga-familiar/), [Ficción adulta](/tags/ficcion-adulta/), [Novela](/tags/novela/)

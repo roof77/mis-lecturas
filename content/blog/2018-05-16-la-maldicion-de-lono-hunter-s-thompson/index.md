@@ -1,5 +1,5 @@
 ---
-title: La maldición de Lono
+title: '#311 · La maldición de Lono'
 summary: En 1980, Hunter S. Thompson recibe una propuesta de una revista desconocida, llamada Running, para cubrir la maratón
   de Honolulú, con un buen sueldo y con…
 date: '2018-05-16T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Negocios
 - Clásico
 toc: false
+id: 311
 autores:
 - Hunter S. Thompson
 autores_stats:
@@ -39,7 +40,7 @@ En 1980, Hunter S. Thompson recibe una propuesta de una revista desconocida, lla
 - **Autor:** [Hunter S. Thompson](/autores/hunter-s-thompson/)
 - **Editorial:** Sexto Piso 
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416358990 / 9788416358991
 - **Publicación original:** 2016-04-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Viajes](/tags/viajes/), [Periodismo](/tags/periodismo/), [Humor](/tags/humor/), [Arte](/tags/arte/), [Novela](/tags/novela/), [Negocios](/tags/negocios/), [Clásico](/tags/clasico/)

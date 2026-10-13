@@ -1,5 +1,5 @@
 ---
-title: 'Filmish: Un viaje gráfico por el cine'
+title: '#778 · Filmish: Un viaje gráfico por el cine'
 summary: Este libro es un viaje apasionante por la historia del cine en siete  capítulos temáticos. Un original ensayo gráfico
   que sirve para iluminar  las ideas que se…
 date: '2025-10-30T23:59:59'
@@ -9,13 +9,13 @@ tags:
 - Lecturas
 - Comics
 - Novela gráfica
-- Comics
 - No Ficción
 - Películas
 - Historia
 - Arte
 - Adultos
 toc: false
+id: 778
 autores:
 - Edward Ross
 - Carlos Mayor Ortega
@@ -40,7 +40,7 @@ Este libro es un viaje apasionante por la historia del cine en siete  capítulos
 - **Colaboradores:** [Carlos Mayor Ortega](/autores/carlos-mayor-ortega/) (Traducción)
 - **Editorial:** RESERVOIR BOOKS
 - **Formato:** Paperback, 200 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416709459 / 9788416709458
 - **Publicación original:** 2017-02-02
 - **Géneros:** [Novela gráfica](/tags/novela-grafica/), [Comics](/tags/comics/), [No Ficción](/tags/no-ficcion/), [Películas](/tags/peliculas/), [Historia](/tags/historia/), [Arte](/tags/arte/), [Adultos](/tags/adultos/)

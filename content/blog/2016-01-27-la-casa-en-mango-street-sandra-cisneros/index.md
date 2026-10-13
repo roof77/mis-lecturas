@@ -1,5 +1,5 @@
 ---
-title: La casa en Mango Street
+title: '#174 · La casa en Mango Street'
 summary: DISPONIBLE POR PRIMERA VEZ EN EBOOKElogiado por la crítica, admirado por lectores de todas las edades, en escuelas
   y universidades de todo el país y traducido…
 date: '2016-01-27T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Poesía
 - Club de lectura
 toc: false
+id: 174
 autores:
 - Sandra Cisneros
 autores_stats:
@@ -40,7 +41,7 @@ DISPONIBLE POR PRIMERA VEZ EN EBOOKElogiado por la crítica, admirado por lector
 - **Autor:** [Sandra Cisneros](/autores/sandra-cisneros/)
 - **Editorial:** VINTAGE ESPAÑOL
 - **Formato:** Kindle Edition, 146 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2013-04-28
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Jovenes adultos](/tags/jovenes-adultos/), [Colegio](/tags/colegio/), [Relatos](/tags/relatos/), [Coming of age](/tags/coming-of-age/), [Contemporaneo](/tags/contemporaneo/), [Poesía](/tags/poesia/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Esperanza, Nenny

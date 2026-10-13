@@ -1,5 +1,5 @@
 ---
-title: Me llamo Lucy Barton
+title: '#207 · Me llamo Lucy Barton'
 summary: En una habitación de hospital en pleno centro de Manhattan, delante del iluminado edificio Chrysler, cuyo perfil
   se recorta al otro lado de la ventana, dos…
 date: '2016-09-18T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - EEUU
 toc: false
+id: 207
 autores:
 - Elizabeth Strout
 - Flora Casas
@@ -43,7 +44,7 @@ En una habitación de hospital en pleno centro de Manhattan, delante del ilumina
 - **Colaboradores:** [Flora Casas](/autores/flora-casas/) (Translator)
 - **Editorial:** Duomo
 - **Formato:** Paperback, 208 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416261911 / 9788416261918
 - **Publicación original:** 2016-08-31
 - **Géneros:** [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Ficción Literaria](/tags/ficcion-literaria/), [Contemporaneo](/tags/contemporaneo/), [Familia](/tags/familia/), [Ficción adulta](/tags/ficcion-adulta/), [Novela](/tags/novela/), [Adultos](/tags/adultos/), [EEUU](/tags/eeuu/)

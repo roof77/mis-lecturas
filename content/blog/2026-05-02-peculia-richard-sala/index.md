@@ -1,5 +1,5 @@
 ---
-title: Peculia
+title: '#830 · Peculia'
 summary: Peculia, the fifth book by Eisner Award-nominated Richard Sala, collects the stories - strange adventures of an even
   stranger girl - from the acclaimed comic…
 date: '2026-05-02T23:59:57'
@@ -8,11 +8,11 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Terror
 - Ficción
 toc: false
+id: 830
 autores:
 - Richard Sala
 autores_stats:

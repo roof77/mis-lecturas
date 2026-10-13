@@ -1,5 +1,5 @@
 ---
-title: La doncella de hielo
+title: '#304 · La doncella de hielo'
 summary: 'Con gran originalidad y maestría narrativa, se combinan en esta obra dos géneros clásicos: el de suspense y el de
   relatos de vampiros. Y aunque el autor…'
 date: '2018-04-12T23:59:59'
@@ -13,6 +13,7 @@ tags:
 - Literatura alemana
 - Terror
 toc: false
+id: 304
 autores:
 - Marc Behm
 autores_stats:
@@ -35,7 +36,7 @@ Con gran originalidad y maestría narrativa, se combinan en esta obra dos géner
 - **Autor:** [Marc Behm](/autores/marc-behm/)
 - **Editorial:** Círculo de Lectores
 - **Formato:** Hardcover, 223 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 1988-01-01
 - **Géneros:** [Fantasía](/tags/fantasia/), [Ficción](/tags/ficcion/), [Literatura alemana](/tags/literatura-alemana/), [Terror](/tags/terror/)
 - **Ficha en Goodreads:** [La doncella de hielo](https://www.goodreads.com/book/show/1331010.La_doncella_de_hielo)

@@ -1,5 +1,5 @@
 ---
-title: Hirayasumi, vol. 6
+title: '#942 · Hirayasumi, vol. 6'
 summary: "¡¡La vida de Hiroto y Natsumi en la casa unifamiliar da un vuelco!! Hiroto se recupera después de su desmayo por\
   \ exceso de trabajo.\r\n\r\nPor su parte, Hideki se…"
 date: '2026-10-12T23:59:56'
@@ -9,7 +9,6 @@ tags:
 - Lecturas
 - Comics
 - Manga
-- Comics
 - Slice of life
 - Seinen manga
 - Novela gráfica
@@ -17,6 +16,7 @@ tags:
 - Contemporaneo
 - Ficción
 toc: false
+id: 942
 autores:
 - Keigo Shinzō
 - Marc Bernabé
@@ -48,7 +48,7 @@ Llega el resplandeciente inicio de verano viviendo en una casa familiar en la qu
 - **Colaboradores:** [Marc Bernabé](/autores/marc-bernabe/) (Translator)
 - **Editorial:** Milky Way Ediciones
 - **Formato:** Paperback, 160 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8410223201 / 9788410223202
 - **Publicación original:** 2024-04-28
 - **Géneros:** [Manga](/tags/manga/), [Comics](/tags/comics/), [Slice of life](/tags/slice-of-life/), [Seinen manga](/tags/seinen-manga/), [Novela gráfica](/tags/novela-grafica/), [Japón](/tags/japon/), [Contemporaneo](/tags/contemporaneo/), [Ficción](/tags/ficcion/)

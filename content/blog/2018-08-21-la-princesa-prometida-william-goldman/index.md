@@ -1,5 +1,5 @@
 ---
-title: La princesa prometida
+title: '#355 · La princesa prometida'
 summary: La bella Buttercup jura amor eterno a Westley, que parte en busca de furtuna y es asesinado por unos piratas. La
   doncella, obligada, se promete al príncipe…
 date: '2018-08-21T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Comedia
 - Ciencia Ficción
 toc: false
+id: 355
 autores:
 - William Goldman
 - Celia Filipetto Isicato
@@ -45,7 +46,7 @@ El mejor esgrimista, el hombre más inteligente y el más fuerte del mundo son c
 - **Colaboradores:** [Celia Filipetto Isicato](/autores/celia-filipetto-isicato/) (Translator)
 - **Editorial:** Booket
 - **Formato:** Paperback, 480 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 842703105X / 9788427031050
 - **Publicación original:** 2005-06-30
 - **Géneros:** [Fantasía](/tags/fantasia/), [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Romance](/tags/romance/), [Humor](/tags/humor/), [Aventuras](/tags/aventuras/), [Jovenes adultos](/tags/jovenes-adultos/), [Club de lectura](/tags/club-de-lectura/), [Comedia](/tags/comedia/), [Ciencia Ficción](/tags/ciencia-ficcion/)

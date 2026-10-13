@@ -1,5 +1,5 @@
 ---
-title: A la caza del amor
+title: '#58 · A la caza del amor'
 summary: En A la caza del amor, su novela de mayor éxito, Nancy Mitford utiliza elementos reales de su extravagante y famosa
   familia para construir el relato.La acción…
 date: '2014-07-29T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Histórico
 - Club de lectura
 toc: false
+id: 58
 autores:
 - Nancy Mitford
 autores_stats:
@@ -41,7 +42,7 @@ En A la caza del amor, su novela de mayor éxito, Nancy Mitford utiliza elemento
 - **Serie:** Radlett and Montdore (#1)
 - **Editorial:** Libros del Asteroide
 - **Formato:** Kindle Edition, 228 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **Publicación original:** 2012-02-20
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Romance](/tags/romance/), [Ficción histórica](/tags/ficcion-historica/), [Literatura británica](/tags/literatura-britanica/), [Humor](/tags/humor/), [Siglo XX](/tags/siglo-xx/), [Histórico](/tags/historico/), [Club de lectura](/tags/club-de-lectura/)
 - **Personajes:** Linda Radlett, Matthew Radlett, Fanny Wincham, Aunt Emily, David Warbeck, Lord Merlin, Sadie Radlett, Jassy, Matt, Robin and Vicki Radlett, Louisa Radlett, The Bolter

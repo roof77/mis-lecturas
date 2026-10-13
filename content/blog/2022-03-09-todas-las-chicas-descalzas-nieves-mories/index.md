@@ -1,5 +1,5 @@
 ---
-title: Todas las chicas descalzas
+title: '#523 · Todas las chicas descalzas'
 summary: "No importa cómo las llames; sus nombres son todos los nombres.\r\nNo importa el tinte de su mirada, de su piel,\
   \ de su pelo; sus colores abarcan todos los…"
 date: '2022-03-09T23:59:59'
@@ -9,6 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
+id: 523
 autores:
 - Nieves Mories
 autores_stats:
@@ -37,7 +38,7 @@ Todas están descalzas.
 - **Autor:** [Nieves Mories](/autores/nieves-mories/)
 - **Editorial:** Dilatando Mentes
 - **Formato:** Hardcover, 184 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412417437 / 9788412417432
 - **Publicación original:** 2021-10-28
 - **Ficha en Goodreads:** [Todas las chicas descalzas](https://www.goodreads.com/book/show/59519410-todas-las-chicas-descalzas)

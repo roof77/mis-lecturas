@@ -1,5 +1,5 @@
 ---
-title: H de Halcón
+title: '#200 · H de Halcón'
 summary: A raíz de la inesperada muerte de su padre, Helen Macdonald decide comprar y adiestrar un azor, el ave de presa más
   peligrosa y letal. Así empieza un viaje de…
 date: '2016-07-29T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Pájaros
 - Aflicción
 toc: false
+id: 200
 autores:
 - Helen Macdonald
 - Joan Eloi Roca
@@ -45,7 +46,7 @@ A raíz de la inesperada muerte de su padre, Helen Macdonald decide comprar y ad
 - **Colaboradores:** [Joan Eloi Roca](/autores/joan-eloi-roca/) (Translator)
 - **Editorial:** Ático de los Libros
 - **Formato:** Paperback, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8416222096 / 9788416222094
 - **Publicación original:** 2015-10-07
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Memorias](/tags/memorias/), [Naturaleza](/tags/naturaleza/), [Biografía](/tags/biografia/), [Animales](/tags/animales/), [Club de lectura](/tags/club-de-lectura/), [Pájaros](/tags/pajaros/), [Aflicción](/tags/afliccion/)

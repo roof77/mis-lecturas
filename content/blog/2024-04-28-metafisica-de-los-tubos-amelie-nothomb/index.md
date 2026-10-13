@@ -1,5 +1,5 @@
 ---
-title: Metafísica de los tubos
+title: '#644 · Metafísica de los tubos'
 summary: Esta novela narra los primeros años de la vida de una niña obsesionada por el agua que, disconforme con su entorno,
   adopta la inerte forma de tubo como…
 date: '2024-04-28T23:59:59'
@@ -17,6 +17,7 @@ tags:
 - Bélgica
 - Literatura
 toc: false
+id: 644
 autores:
 - Amélie Nothomb
 - Sergi Pàmies
@@ -41,7 +42,7 @@ Esta novela narra los primeros años de la vida de una niña obsesionada por el 
 - **Colaboradores:** [Sergi Pàmies](/autores/sergi-pamies/) (Translator)
 - **Editorial:** Editorial Anagrama
 - **Formato:** Hardcover, 144 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8433969536 / 9788433969538
 - **Publicación original:** 2001-12-01
 - **Géneros:** [Ficción](/tags/ficcion/), [Francia](/tags/francia/), [Contemporaneo](/tags/contemporaneo/), [Japón](/tags/japon/), [Novela](/tags/novela/), [Literatura francesa](/tags/literatura-francesa/), [Bélgica](/tags/belgica/), [Literatura](/tags/literatura/)

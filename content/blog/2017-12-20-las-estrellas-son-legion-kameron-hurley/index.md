@@ -1,5 +1,5 @@
 ---
-title: Las estrellas son legión
+title: '#281 · Las estrellas son legión'
 summary: En los confines del universo, la Legión, un sistema de naves-mundo que se van pudriendo poco a poco, se desplaza
   por los intersticios de las estrellas. Parece…
 date: '2017-12-20T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Ciencia Ficción
 - Adultos
 toc: false
+id: 281
 autores:
 - Kameron Hurley
 - Alexander Páez
@@ -48,7 +49,7 @@ Una "space opera" sobre un amor trágico, la venganza y la guerra.
 - **Colaboradores:** [Alexander Páez](/autores/alexander-paez/) (Translator)
 - **Editorial:** Alianza
 - **Formato:** Paperback, 350 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8491048413 / 9788491048411
 - **Publicación original:** 2017-11-23
 - **Géneros:** [Ciencia ficción](/tags/ciencia-ficcion/), [Ficción](/tags/ficcion/), [Space Opera](/tags/space-opera/), [Queer](/tags/queer/), [LGTBIQ+](/tags/lgtbiq/), [Fantasía](/tags/fantasia/), [Espacio](/tags/espacio/), [Ciencia Ficción](/tags/ciencia-ficcion/), [Adultos](/tags/adultos/)

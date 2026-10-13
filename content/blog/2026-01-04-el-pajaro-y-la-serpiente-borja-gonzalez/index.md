@@ -1,5 +1,5 @@
 ---
-title: El pájaro y la serpiente
+title: '#791 · El pájaro y la serpiente'
 summary: "LA HISTORIA DE TERESA LLEGA A SU FIN\r\nCon el aclamado ciclo Las Tres Noches,\r\nBorja González cierra su primer\
   \ monumento gráfico. «Es tu cuento. Y terminará…"
 date: '2026-01-04T23:59:59'
@@ -8,13 +8,13 @@ authors:
 tags:
 - Lecturas
 - Comics
-- Comics
 - Novela gráfica
 - Fantasía
 - Literatura hispana
 - España
 - Ficción
 toc: false
+id: 791
 autores:
 - Borja González
 autores_stats:
@@ -55,7 +55,7 @@ Fran J. Ortiz, Abandonad toda esperanza
 - **Serie:** Las tres noches (#3)
 - **Editorial:** RESERVOIR BOOKS
 - **Formato:** Paperback, 192 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8419437158 / 9788419437150
 - **Publicación original:** 2023-09-21
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/), [Literatura hispana](/tags/literatura-hispana/), [España](/tags/espana/), [Ficción](/tags/ficcion/)

@@ -1,5 +1,5 @@
 ---
-title: El Trampero
+title: '#141 · El Trampero'
 summary: El Trampero fue llevado al cine en Las aventuras de Jeremiah Johnson (1972), de Sydney Pollack, protagonizada por
   Robert Redford y con guión de John…
 date: '2015-09-20T23:59:59'
@@ -19,6 +19,7 @@ tags:
 - Nativos americanos
 - Novela
 toc: false
+id: 141
 autores:
 - Vardis Fisher
 autores_stats:
@@ -46,7 +47,7 @@ El Trampero (Mountain Man, 1965) narra la vida y aventuras de Samson J. Minard, 
 - **Autor:** [Vardis Fisher](/autores/vardis-fisher/)
 - **Editorial:** Valdemar
 - **Formato:** Hardcover, 400 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 9788477027287
 - **Publicación original:** 2012-01-01
 - **Géneros:** [Oeste](/tags/oeste/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Aventuras](/tags/aventuras/), [Histórico](/tags/historico/), [Supervivencia](/tags/supervivencia/), [Naturaleza](/tags/naturaleza/), [EEUU](/tags/eeuu/), [Nativos americanos](/tags/nativos-americanos/), [Novela](/tags/novela/)

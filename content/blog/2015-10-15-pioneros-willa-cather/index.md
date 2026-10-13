@@ -1,5 +1,5 @@
 ---
-title: Pioneros
+title: '#146 · Pioneros'
 summary: Situada en una pequeña localidad de Nebraska a finales del siglo XIX, Pioneros (1913) relata una historia de inmigración
   y supervivencia cuya figura central es…
 date: '2015-10-15T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Oeste
 - Novela
 toc: false
+id: 146
 autores:
 - Willa Cather
 autores_stats:
@@ -41,7 +42,7 @@ Situada en una pequeña localidad de Nebraska a finales del siglo XIX, Pioneros 
 - **Serie:** Great Plains Trilogy (#1)
 - **Editorial:** Alba Editorial
 - **Formato:** Kindle Edition, 203 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8490650934 / 9788490650936
 - **Publicación original:** 2015-01-14
 - **Géneros:** [Clásico](/tags/clasico/), [Ficción](/tags/ficcion/), [Ficción histórica](/tags/ficcion-historica/), [Literatura](/tags/literatura/), [Club de lectura](/tags/club-de-lectura/), [EEUU](/tags/eeuu/), [Histórico](/tags/historico/), [Oeste](/tags/oeste/), [Novela](/tags/novela/)

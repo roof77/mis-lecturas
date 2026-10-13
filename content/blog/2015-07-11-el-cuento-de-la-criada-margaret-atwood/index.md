@@ -1,5 +1,5 @@
 ---
-title: El cuento de la criada
+title: '#124 · El cuento de la criada'
 summary: '"El cuento de la criada", una de las novelas más célebres y prestigiosas de Margaret Atwood, constituye una mirada
   futurista a una sociedad totalitaria. Una…'
 date: '2015-07-11T23:59:58'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Literatura
 toc: false
+id: 124
 autores:
 - Margaret Atwood
 - Elsa Mateo Blanco
@@ -47,7 +48,7 @@ En el estado de Gilead, donde tras una hecatombe nuclear la población ha visto 
 - **Colaboradores:** [Elsa Mateo Blanco](/autores/elsa-mateo-blanco/) (Translator)
 - **Editorial:** BRUGUERA (SELLO)
 - **Formato:** Paperback, 480 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8402420966 / 9788402420961
 - **Publicación original:** 2008-10-15
 - **Géneros:** [Ficción](/tags/ficcion/), [Clásico](/tags/clasico/), [Distopía](/tags/distopia/), [Ciencia ficción](/tags/ciencia-ficcion/), [Feminismo](/tags/feminismo/), [Club de lectura](/tags/club-de-lectura/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Literatura](/tags/literatura/)

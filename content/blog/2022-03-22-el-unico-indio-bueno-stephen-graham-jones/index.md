@@ -1,5 +1,5 @@
 ---
-title: El único indio bueno
+title: '#526 · El único indio bueno'
 summary: Ricky, Gabe, Lewis and Cassidy son cuatro amigos de la infancia, cuatro indios americanos que, en su madurez, viven
   atrapados entre una sociedad que los…
 date: '2022-03-22T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Club de lectura
 - Paranormal
 toc: false
+id: 526
 autores:
 - Stephen Graham Jones
 - Rafael Martín Coronel
@@ -48,7 +49,7 @@ Stephen Graham Jones recrea en esta historia de atmósfera gótica la venganza d
 - **Colaboradores:** [Rafael Martín Coronel](/autores/rafael-martin-coronel/) (Illustrator), [Manuel de los Reyes](/autores/manuel-de-los-reyes/) (Translator)
 - **Editorial:** La biblioteca de Carfax
 - **Formato:** Paperback, 384 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8412281349 / 9788412281347
 - **Publicación original:** 2021-11-15
 - **Géneros:** [Terror](/tags/terror/), [Ficción](/tags/ficcion/), [Thriller](/tags/thriller/), [Índigenas](/tags/indigenas/), [Fantasía](/tags/fantasia/), [Adultos](/tags/adultos/), [Misterio](/tags/misterio/), [Club de lectura](/tags/club-de-lectura/), [Paranormal](/tags/paranormal/)

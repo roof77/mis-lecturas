@@ -1,5 +1,5 @@
 ---
-title: Un caballero en Moscú
+title: '#570 · Un caballero en Moscú'
 summary: Condenado a muerte por los bolcheviques en 1922, el conde Aleksandr Ilich Rostov elude su trágico final por un inusitado
   giro del destino. Gracias a un poema…
 date: '2022-11-22T23:59:59'
@@ -18,6 +18,7 @@ tags:
 - Adultos
 - Ficción adulta
 toc: false
+id: 570
 autores:
 - Amor Towles
 - Gemma Rovira Ortega
@@ -46,7 +47,7 @@ Además de mantenerse durante casi cincuenta semanas en las principales listas d
 - **Colaboradores:** [Gemma Rovira Ortega](/autores/gemma-rovira-ortega/) (Translator)
 - **Editorial:** Salamandra
 - **Formato:** Paperback, 509 páginas
-- **Idioma:** Spanish; Castilian
+- **Idioma:** Spanish
 - **ISBN:** 8498388988 / 9788498388985
 - **Publicación original:** 2018-10-01
 - **Géneros:** [Ficción histórica](/tags/ficcion-historica/), [Ficción](/tags/ficcion/), [Club de lectura](/tags/club-de-lectura/), [Histórico](/tags/historico/), [Rusia](/tags/rusia/), [Ficción Literaria](/tags/ficcion-literaria/), [Novela](/tags/novela/), [Adultos](/tags/adultos/), [Ficción adulta](/tags/ficcion-adulta/)
