@@ -7,7 +7,10 @@ authors:
 - roof77
 tags:
 - Lecturas
-- Libros
+- Comics
+- Comics
+- Humor
+- Tiras
 toc: false
 autores:
 - Bill Watterson
@@ -34,6 +37,7 @@ Entrega número 3 de este relanzamiento con nuevo diseño de la serie Calvin y H
 - **Idioma:** Spanish; Castilian
 - **ISBN:** 8402422349 / 9788402422347
 - **Publicación original:** 2019-02-22
+- **Géneros:** [Comics](/tags/comics/), [Humor](/tags/humor/), [Tiras](/tags/tiras/)
 - **Ficha en Goodreads:** [Felino maníaco homicida (Súper Calvin y Hobbes 3)](https://www.goodreads.com/book/show/50032631-felino-man-aco-homicida)
 
 ## Mi lectura
