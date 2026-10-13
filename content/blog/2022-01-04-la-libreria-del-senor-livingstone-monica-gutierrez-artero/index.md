@@ -1,7 +1,10 @@
 ---
 title: '#514 · La librería del señor Livingstone'
-summary: "Algunos lugares son un refugio en mitad de nuestras aceleradas vidas. Algunas novelas tienen la capacidad de llevarnos\
-  \ a esos lugares.\r\n\r\nAgnes Martí es una…"
+summary: 'Algunos lugares son un refugio en mitad de nuestras aceleradas vidas. Algunas novelas tienen la capacidad de llevarnos
+  a esos lugares.
+
+
+  Agnes Martí es una…'
 date: '2022-01-04T23:59:59'
 authors:
 - roof77
@@ -54,6 +57,6 @@ La joven acepta y poco a poco va descubriendo el encanto de esta pequeña librer
 
 ## Mi lectura
 
-- **Inicio:** 2022/12/30
+- **Inicio:** 2022/01/03
 - **Fin:** 2022/01/04
 - **Calificación:** Bien

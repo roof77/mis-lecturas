@@ -1,6 +1,7 @@
 ---
 title: '#702 · El Asco: Nosotros contra ellos'
-summary: 'Reseña de lectura de «El Asco: Nosotros contra ellos».'
+summary: En un futuro de sexo, drogas y violencia, un loco sheriff se ha propuesto lelvar a cabo un maquiavélico plan relacionado
+  con el sexo en sus más tremendas y…
 date: '2025-01-29T23:59:59'
 authors:
 - roof77
@@ -24,6 +25,10 @@ sexo_autor: V
 paginas: 74
 nota: Muy bien
 ---
+
+## Sinopsis
+
+En un futuro de sexo, drogas y violencia, un loco sheriff se ha propuesto lelvar a cabo un maquiavélico plan relacionado con el sexo en sus más tremendas y pervertidas variantes, hasta el punto de convertirlo en una amenaza mortífera.Incluye entrevista a Grant Morrison. Formato prestigio.
 
 ## Ficha del libro
 

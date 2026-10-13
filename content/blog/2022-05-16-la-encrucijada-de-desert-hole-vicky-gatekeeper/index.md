@@ -1,6 +1,7 @@
 ---
 title: '#539 · La encrucijada de Desert Hole'
-summary: Reseña de lectura de «La encrucijada de Desert Hole».
+summary: El Proyecto Estefanía recupera el imaginario de los relatos de ‘western’ que se vendían en los kioskos y lo devuelve
+  a las llanuras de la actualidad con una…
 date: '2022-05-16T23:59:59'
 authors:
 - roof77
@@ -21,6 +22,10 @@ sexo_autor: H
 paginas: 42
 nota: '3'
 ---
+
+## Sinopsis
+
+El Proyecto Estefanía recupera el imaginario de los relatos de ‘western’ que se vendían en los kioskos y lo devuelve a las llanuras de la actualidad con una perspectiva contemporánea y humorística.
 
 ## Ficha del libro
 

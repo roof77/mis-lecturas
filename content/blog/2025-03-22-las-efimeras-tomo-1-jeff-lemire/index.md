@@ -1,6 +1,7 @@
 ---
 title: '#726 · Las efímeras. Tomo 1'
-summary: Reseña de lectura de «Las efímeras. Tomo 1».
+summary: Franny Fox y Bicho se han escapado. La policía les está buscando, pero no son los únicos que les quieren dar caza
+  antes de que las efímeras desaparezcan de…
 date: '2025-03-22T23:59:59'
 authors:
 - roof77
@@ -22,6 +23,10 @@ sexo_autor: V
 paginas: 176
 nota: Muy bien
 ---
+
+## Sinopsis
+
+Franny Fox y Bicho se han escapado. La policía les está buscando, pero no son los únicos que les quieren dar caza antes de que las efímeras desaparezcan de Belle River. Mientras tanto, una madre busca en el pasado una respuesta al feroz crimen cometido contra su hijo. Pero en el camino solo encontrará fantasmas, símbolos celtas inconexos y una luna azul. La plaga de insectos parece ser la culpable de los males que han acechado a los vecinos del pequeño pueblo durante décadas, y es el momento de ponerle fin a tan amargo castigo.
 
 ## Ficha del libro
 

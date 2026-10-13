@@ -19,6 +19,7 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/1098703.Odio_Vol_2)'
 sexo_autor: V
+paginas: 68
 nota: Recomendable
 ---
 
@@ -31,7 +32,7 @@ ODIO (HATE): 1991 HARVEY WINNER Best Cartoonist, Best New Series The bestselling
 - **Autor:** [Peter Bagge](/autores/peter-bagge/)
 - **Serie:** Odio: Hate (#2)
 - **Editorial:** UNKNO
-- **Formato:** Paperback
+- **Formato:** Paperback, 68 páginas
 - **Idioma:** Spanish
 - **ISBN:** 1594971293 / 9781594971297
 - **Géneros:** [Comics](/tags/comics/)

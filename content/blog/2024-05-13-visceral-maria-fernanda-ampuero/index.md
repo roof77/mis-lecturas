@@ -23,6 +23,7 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/204112798-visceral)'
 sexo_autor: H
+paginas: 176
 nota: Bien
 ---
 
@@ -34,7 +35,7 @@ Un cadáver contagiado de virus covid yace amortajado sobre un sofá doméstico 
 
 - **Autor:** [María Fernanda Ampuero](/autores/maria-fernanda-ampuero/)
 - **Editorial:** Páginas de Espuma
-- **Formato:** Unknown Binding
+- **Formato:** Unknown Binding, 176 páginas
 - **Publicación original:** 2024-01-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Terror](/tags/terror/), [Mujeres](/tags/mujeres/)
 - **Ficha en Goodreads:** [Visceral](https://www.goodreads.com/book/show/204112798-visceral)

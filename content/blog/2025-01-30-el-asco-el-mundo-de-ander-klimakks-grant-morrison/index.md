@@ -1,6 +1,7 @@
 ---
 title: '#703 · El Asco: El mundo de Ander Klimakks'
-summary: Segundo tomo de tres.
+summary: En un futuro de sexo, drogas y violencia, un loco sheriff se ha propuesto lelvar a cabo un maquiavélico plan relacionado
+  con el sexo en sus más tremendas y…
 date: '2025-01-30T23:59:57'
 authors:
 - roof77
@@ -27,7 +28,7 @@ nota: Muy bien
 
 ## Sinopsis
 
-Segundo tomo de tres.
+En un futuro de sexo, drogas y violencia, un loco sheriff se ha propuesto lelvar a cabo un maquiavélico plan relacionado con el sexo en sus más tremendas y pervertidas variantes, hasta el punto de convertirlo en una amenaza mortífera.Incluye entrevista a Grant Morrison. Formato prestigio.
 
 ## Ficha del libro
 

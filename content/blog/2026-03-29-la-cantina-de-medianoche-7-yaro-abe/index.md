@@ -1,7 +1,7 @@
 ---
 title: '#820 · La cantina de medianoche 7'
-summary: Arriva il settimo volume del manga best seller di Abe Yaro. In questa nuova uscita, le storie sono particolarmente
-  divertenti, per i motivi più  nomi di amici…
+summary: “El local abre desde las doce de la noche hasta las siete de la madrugada. Lo conocen como ‘la cantina de medianoche’.
+  En la carta solo hay caldo de cerdo…
 date: '2026-03-29T23:59:59'
 authors:
 - roof77
@@ -31,7 +31,13 @@ nota: Muy recomendable
 
 ## Sinopsis
 
-Arriva il settimo volume del manga best seller di Abe Yaro. In questa nuova uscita, le storie sono particolarmente divertenti, per i motivi più  nomi di amici che generano confusione tra loro, clienti che mangiano solo cose del colore dei vestiti che hanno addosso… la varia umanità della taverna aperta solo da mezzanotte alle sette non delude, e intesse trame stratificate, solo apparentemente concluse nel giro di poche pagine. La capacità di Abe-sensei di far sentire ogni lettore come un cliente abituale di quel piccolo ristorante è senza pari, ed è alla base del successo di questo manga eclettico e profondamente intelligente. Da questo manga è stata tratta la serie originale Netflix Midnight Diner – Tokyo Stories. L’edizione BAO raccoglie due volumi originali alla volta, con primo sedicesimo a colori, pagina d’apertura in pergamena serigrafata in bianco e sovraccoperta in carta naturale, per rispettare al massimo il bellissimo design dell’edizione originale.
+“El local abre desde las doce de la noche hasta las siete de la madrugada. Lo conocen como ‘la cantina de medianoche’. En la carta solo hay caldo de cerdo, pero la gente pide lo que quiera y, si se puede hacer, lo preparo con mucho gusto”.
+
+Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el barrio de Shinjuku, todo el mundo los conoce. Abierta desde las doce de la noche hasta las siete de la madrugada, acoge a los noctámbulos de Tokio: boxeadores, prostitutas, actores porno, policías y yakuzas acaban allí para tomar caldo, ramen o sopa de miso, según lo que haya en la cocina. Cada plato da lugar a un encuentro, una historia.
+
+'La cantina de medianoche' es un éxito en Japón, donde se han producido dos películas basadas en el manga, que también tiene serie televisiva en Netflix con el título 'Midnight Diner: Tokyo Stories'.
+
+Yaro Abe también es el autor de 'Torpe de nacimiento' (Astiberri, 2024), donde cuenta su infancia y cómo llegó a ser autor de manga.
 
 ## Ficha del libro
 

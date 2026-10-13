@@ -1,7 +1,7 @@
 ---
 title: '#819 · La cantina de medianoche 6'
-summary: '"Mon restaurant est ouvert de minuit à sept heures du matin environ. On le surnomme la cantine de minuit" mais pour
-  certains c''est plutôt "la cantine de…'
+summary: “El local abre desde las doce de la noche hasta las siete de la madrugada. Lo conocen como ‘la cantina de medianoche’.
+  En la carta solo hay caldo de cerdo…
 date: '2026-03-28T23:59:59'
 authors:
 - roof77
@@ -31,7 +31,13 @@ nota: Muy recomendable
 
 ## Sinopsis
 
-"Mon restaurant est ouvert de minuit à sept heures du matin environ. On le surnomme la cantine de minuit" mais pour certains c'est plutôt "la cantine de l'aube" ". Dans cette petite gargote située au fond d'une ruelle du quartier de Shinjuku, les clients se croisent, les histoires se dévoilent. La carte ne propose que du tonjiru, soupe miso au porc, ainsi que du saké, mais selon vos envies, on vous préparera à la demande tout ce qu'on est en mesure de vous servir.
+“El local abre desde las doce de la noche hasta las siete de la madrugada. Lo conocen como ‘la cantina de medianoche’. En la carta solo hay caldo de cerdo, pero la gente pide lo que quiera y, si se puede hacer, lo preparo con mucho gusto”.
+
+Esa minúscula taberna no tiene nombre, su dueño tampoco. Sin embargo, en el barrio de Shinjuku, todo el mundo los conoce. Abierta desde las doce de la noche hasta las siete de la madrugada, acoge a los noctámbulos de Tokio: boxeadores, prostitutas, actores porno, policías y yakuzas acaban allí para tomar caldo, ramen o sopa de miso, según lo que haya en la cocina. Cada plato da lugar a un encuentro, una historia.
+
+'La cantina de medianoche' es un éxito en Japón, donde se han producido dos películas basadas en el manga, que también tiene serie televisiva en Netflix con el título 'Midnight Diner: Tokyo Stories'.
+
+Yaro Abe también es el autor de 'Torpe de nacimiento' (Astiberri, 2024), donde cuenta su infancia y cómo llegó a ser autor de manga.
 
 ## Ficha del libro
 
