@@ -1,5 +1,5 @@
 ---
-title: '#660 · Maison Ikkoku tomo 8'
+title: '#657 · Maison Ikkoku tomo 8'
 summary: Maison Ikkoku unterscheidet sich etwas von Rumiko Takahashis verrücktchaotischen Standartwerken wie Ranma 1/2 oder
   Inu Yasha. Der uns vertraute Takahashi-Witz…
 date: '2024-06-28T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Slice of life
 - Literatura japanesa
 toc: false
-id: 660
+id: 657
 autores:
 - Rumiko Takahashi
 autores_stats:

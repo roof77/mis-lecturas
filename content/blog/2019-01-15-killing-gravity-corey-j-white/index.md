@@ -1,5 +1,5 @@
 ---
-title: '#372 · Killing Gravity'
+title: '#370 · Killing Gravity'
 summary: Mariam Xi can kill you with her mind. She escaped the MEPHISTO lab where she was raised as a psychic supersoldier,
   which left her with terrifying capabilities…
 date: '2019-01-15T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Queer
 - Ciencia Ficción
 toc: false
-id: 372
+id: 370
 autores:
 - Corey J. White
 autores_stats:

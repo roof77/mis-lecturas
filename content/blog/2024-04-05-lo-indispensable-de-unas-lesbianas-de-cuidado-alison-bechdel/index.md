@@ -1,5 +1,5 @@
 ---
-title: '#633 · Lo indispensable de Unas lesbianas de cuidado'
+title: '#630 · Lo indispensable de Unas lesbianas de cuidado'
 summary: '"La narración de la autora se muestra ágil, vivaz y corrosivamente ácida ante el lector y sus trazos se perfilan
   hasta definir un perfecto mosaico que te…'
 date: '2024-04-05T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Humor
 - Gay
 toc: false
-id: 633
+id: 630
 autores:
 - Alison Bechdel
 autores_stats:

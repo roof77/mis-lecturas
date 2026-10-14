@@ -1,5 +1,5 @@
 ---
-title: '#343 · Sex Criminals #18: Totems'
+title: '#341 · Sex Criminals #18: Totems'
 summary: 'There''s a line between fan and fetishist, right? Probably. Also: the long-awaited return of JAZMINE ST. COCAINE!!!
   [COLLECTOR''S ITEM]'
 date: '2018-08-20T23:59:48'
@@ -13,7 +13,7 @@ tags:
 - Ciencia ficción
 - Fantasía
 toc: false
-id: 343
+id: 341
 autores:
 - Matt Fraction
 - Chip Zdarsky

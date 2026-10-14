@@ -1,5 +1,5 @@
 ---
-title: '#405 · Creedme'
+title: '#403 · Creedme'
 summary: "Premio Pulitzer en la categoría de Reportaje Explicativo en 2016\r\n\r\nUna investigación sobre varios casos de\
   \ violación en Estados Unidos que muestra los…"
 date: '2019-09-19T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Sociología
 - Periodismo
 toc: false
-id: 405
+id: 403
 autores:
 - T. Christian Miller
 - Ken Armstrong

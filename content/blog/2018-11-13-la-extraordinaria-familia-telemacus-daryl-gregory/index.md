@@ -1,5 +1,5 @@
 ---
-title: '#365 · La extraordinaria familia Telemacus'
+title: '#363 · La extraordinaria familia Telemacus'
 summary: Teddy Telemacus es un hombre encantador y un encantador de mujeres. Sus poderes se limitan a tener manos rápidas
   para trucos y cartas, pero le sirven para…
 date: '2018-11-13T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Humor
 - Contemporaneo
 toc: false
-id: 365
+id: 363
 autores:
 - Daryl Gregory
 - Carles Andreu Saburit

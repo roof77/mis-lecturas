@@ -1,5 +1,5 @@
 ---
-title: '#421 · Baby Cat-Face'
+title: '#419 · Baby Cat-Face'
 summary: Después de haber sido secuestrada con un autobús lleno de pasajeros y forzada a contemplar un peculiar baile vanguardista
   sobre insectos, Baby Cat-Face se une…
 date: '2020-01-29T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - Ficción
 toc: false
-id: 421
+id: 419
 autores:
 - Barry Gifford
 autores_stats:

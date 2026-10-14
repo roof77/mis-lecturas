@@ -1,5 +1,5 @@
 ---
-title: '#261 · Knockemstiff'
+title: '#260 · Knockemstiff'
 summary: Bienvenidos a Knockemstiff, Ohio. Una hondonada en mitad de ninguna parte a la que a duras penas se puede otorgar
   la categoría de pueblo. Un lugar del que…
 date: '2017-08-22T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Ficción Literaria
 - EEUU
 toc: false
-id: 261
+id: 260
 autores:
 - Donald Ray Pollock
 - Javier Calvo

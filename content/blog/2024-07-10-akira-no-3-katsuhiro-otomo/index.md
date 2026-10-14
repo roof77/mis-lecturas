@@ -1,5 +1,5 @@
 ---
-title: '#667 · Akira, No. 3'
+title: '#664 · Akira, No. 3'
 summary: En un caótico Neo-Tokio recién emergido de las cenizas de la III Guerra Mundial, Kaneda, Tetsuo y compañía se ven
   envueltos en el misterio de Akira, un extraño…
 date: '2024-07-10T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Distopía
 - Literatura japanesa
 toc: false
-id: 667
+id: 664
 autores:
 - Katsuhiro Otomo
 - Steve Oliff

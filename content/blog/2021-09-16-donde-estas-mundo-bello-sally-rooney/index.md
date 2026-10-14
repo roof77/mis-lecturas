@@ -1,5 +1,5 @@
 ---
-title: '#489 · Dónde estás, mundo bello'
+title: '#487 · Dónde estás, mundo bello'
 summary: Dos amigas se acercan a la treintena en ciudades distintas y con trayectorias vitales alejadas. Alice, novelista,
   conoce a Felix, que trabaja en un almacén, y…
 date: '2021-09-16T23:59:58'
@@ -18,7 +18,7 @@ tags:
 - Literatura irlandesa
 - Novela
 toc: false
-id: 489
+id: 487
 autores:
 - Sally Rooney
 - Inga Pellisa

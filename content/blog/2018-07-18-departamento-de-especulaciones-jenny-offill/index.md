@@ -1,5 +1,5 @@
 ---
-title: '#324 · Departamento de especulaciones'
+title: '#322 · Departamento de especulaciones'
 summary: Cuando se conocieron eran jóvenes y estaban llenos de esperanza. Aunque ambos vivían en Nueva York, solían enviarse
   cartas en las que imaginaban cómo sería su…
 date: '2018-07-18T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción adulta
 - Literatura
 toc: false
-id: 324
+id: 322
 autores:
 - Jenny Offill
 - Eduardo Jordá

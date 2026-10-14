@@ -1,5 +1,5 @@
 ---
-title: '#364 · Ahí abajo, entre raíces y huesos'
+title: '#362 · Ahí abajo, entre raíces y huesos'
 summary: Las gemelas Jack y Jill tenían diecisiete años cuando las conocimos en "Cada corazón, un umbral". Esta es la historia
   de lo que ocurrió primero. De cómo las…
 date: '2018-11-06T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Vampiros
 - Fantasía urbana
 toc: false
-id: 364
+id: 362
 autores:
 - Seanan McGuire
 - María Pilar San Román

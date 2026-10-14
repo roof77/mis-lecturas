@@ -1,5 +1,5 @@
 ---
-title: '#674 · Maison Ikkoku tomo 6'
+title: '#671 · Maison Ikkoku tomo 6'
 summary: "Tomo 6 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-07-22T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Slice of life
 - Seinen manga
 toc: false
-id: 674
+id: 671
 autores:
 - Rumiko Takahashi
 autores_stats:

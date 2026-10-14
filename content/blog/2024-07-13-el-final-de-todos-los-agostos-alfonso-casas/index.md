@@ -1,5 +1,5 @@
 ---
-title: '#670 · El final de todos los agostos'
+title: '#667 · El final de todos los agostos'
 summary: A menudo el pasado deja cabos sueltos, asuntos por resolver, interrogantes que persiguen nuestro futuro. Esto es
   lo que le ocurre al protagonista de este…
 date: '2024-07-13T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Contemporaneo
 - Manga
 toc: false
-id: 670
+id: 667
 autores:
 - Alfonso Casas
 autores_stats:

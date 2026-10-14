@@ -1,5 +1,5 @@
 ---
-title: '#535 · Bollo'
+title: '#533 · Bollo'
 summary: Bollo es la historia de Nat, de María o de Ratja en diálogo con Elena Fortún, Emily Dickinson, Virginie Despentes
   o Rita Indiana. Nat, bollera golden y…
 date: '2022-05-05T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - LGTBIQ+
 toc: false
-id: 535
+id: 533
 autores:
 - Melani Penna Tosso
 autores_stats:

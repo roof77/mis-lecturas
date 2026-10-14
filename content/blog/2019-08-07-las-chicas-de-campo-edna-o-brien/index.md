@@ -1,5 +1,5 @@
 ---
-title: '#398 · Las chicas de campo'
+title: '#396 · Las chicas de campo'
 summary: Irlanda, años 50. Lejos de la capital, Dublín, y en medio de un verde paisaje, bellísimo pero exigente, la joven
   y aplicada Caithleen ha crecido llena de…
 date: '2019-08-07T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Mujeres
 - Literatura
 toc: false
-id: 398
+id: 396
 autores:
 - Edna O'Brien
 - Regina López Muñoz

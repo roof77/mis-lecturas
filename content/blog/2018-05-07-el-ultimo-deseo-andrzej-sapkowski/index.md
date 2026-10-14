@@ -1,5 +1,5 @@
 ---
-title: '#309 · El último deseo'
+title: '#308 · El último deseo'
 summary: 'Geralt de Rivia, brujo y mutante sobrehumano, se gana la vida como cazador de monstruos en una tierra de magia y
   maravilla: con sus dos espadas al hombro -la…'
 date: '2018-05-07T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Fantasía épica
 - Literatura polaca
 toc: false
-id: 309
+id: 308
 autores:
 - Andrzej Sapkowski
 - José María Faraldo

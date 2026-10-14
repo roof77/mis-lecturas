@@ -1,5 +1,5 @@
 ---
-title: '#254 · The Power'
+title: '#253 · The Power'
 summary: Una niña en la América profunda escapa de un padre maltratador. Un chico en Nigeria filma a una mujer que está siendo
   atacada en un supermercado. La hija de un…
 date: '2017-06-28T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Contemporaneo
 toc: false
-id: 254
+id: 253
 autores:
 - Naomi Alderman
 - Ana Guelbenzu

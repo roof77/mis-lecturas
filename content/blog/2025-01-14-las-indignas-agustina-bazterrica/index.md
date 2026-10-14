@@ -1,5 +1,5 @@
 ---
-title: '#695 · Las indignas'
+title: '#693 · Las indignas'
 summary: El mundo atravesó guerras por el agua y catástrofes ambientales. Los días pasan de gélidos a sofocantes en cuestión
   de horas; el aire está saturado de olores…
 date: '2025-01-14T23:59:58'
@@ -18,7 +18,7 @@ tags:
 - Lesbianismo
 - Ficción Literaria
 toc: false
-id: 695
+id: 693
 autores:
 - Agustina Bazterrica
 autores_stats:

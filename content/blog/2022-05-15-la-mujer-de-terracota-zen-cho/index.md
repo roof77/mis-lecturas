@@ -1,5 +1,5 @@
 ---
-title: '#538 · La mujer de terracota'
+title: '#536 · La mujer de terracota'
 summary: "Una historia sobre la corrupción, el primer amor y la inteligencia artificial en el más allá chino\r\n\r\nEn la\
   \ décima corte del infierno, los espíritus que son lo…"
 date: '2022-05-15T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Ciencia ficción
 - Mitología
 toc: false
-id: 538
+id: 536
 autores:
 - Zen Cho
 - Rebeca Cardeñoso Viña

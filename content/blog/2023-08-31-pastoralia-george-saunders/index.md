@@ -1,5 +1,5 @@
 ---
-title: '#599 · Pastoralia'
+title: '#596 · Pastoralia'
 summary: ¿Por qué nos fascina George Saunders? Por su maestría, ritmo y sentido del humor. Pero lo que diferencia al escritor
   texano, profesor de la Universidad de…
 date: '2023-08-31T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Sátira
 - Club de lectura
 toc: false
-id: 599
+id: 596
 autores:
 - George Saunders
 - Ben Clark

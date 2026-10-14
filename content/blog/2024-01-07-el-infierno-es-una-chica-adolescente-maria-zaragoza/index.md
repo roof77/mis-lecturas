@@ -1,5 +1,5 @@
 ---
-title: '#613 · El infierno es una chica adolescente'
+title: '#610 · El infierno es una chica adolescente'
 summary: Un libro de relatos para adultos sin adultos. Niñas que deciden ser malas un verano y pierden su amistad y su inocencia,
   adolescentes que se quedan embarazadas…
 date: '2024-01-07T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - Terror
 toc: false
-id: 613
+id: 610
 autores:
 - María Zaragoza
 autores_stats:

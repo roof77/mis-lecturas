@@ -1,5 +1,5 @@
 ---
-title: '#322 · Fantasma'
+title: '#320 · Fantasma'
 summary: '"Fantasma" se abre con la aparición del cadáver de Sarah, fallecida en extrañas circunstancias. Esta misteriosa
   mujer te habla directamente porque tú (sí, tú…'
 date: '2018-07-10T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - EEUU
 - Mujeres
 toc: false
-id: 322
+id: 320
 autores:
 - Laura Lee Bahr
 - Hugo Camacho

@@ -1,5 +1,5 @@
 ---
-title: '#400 · Chicas felizmente casadas'
+title: '#398 · Chicas felizmente casadas'
 summary: A mitad de los años cincuenta del siglo pasado, Kate y Baba, dos amigas tan distintas como complementarias, vivieron
   su infancia en los bellos paisajes rurales…
 date: '2019-08-12T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Siglo XX
 - Clásicos modernos
 toc: false
-id: 400
+id: 398
 autores:
 - Edna O'Brien
 - Regina López Muñoz

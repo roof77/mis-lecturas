@@ -1,5 +1,5 @@
 ---
-title: '#481 · Agujero'
+title: '#479 · Agujero'
 summary: Al marido de Asa le han ofrecido un nuevo trabajo en una zona remota de Japón, próxima al hogar en que nació. Durante
   un verano excepcionalmente cálido, la…
 date: '2021-08-15T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Ásia
 - Literatura asiática
 toc: false
-id: 481
+id: 479
 autores:
 - Hiroko Oyamada
 - Tana Oshima

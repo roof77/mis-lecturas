@@ -1,5 +1,5 @@
 ---
-title: '#524 · La vida difícil'
+title: '#522 · La vida difícil'
 summary: Seguida con gran devoción, sobre todo en Polonia y Alemania, pero también en Francia e Italia, la obra de Slawomir
   Mrozek, formada básicamente por narraciones…
 date: '2022-03-13T23:59:59'
@@ -12,7 +12,7 @@ tags:
 - Humor
 - Relatos
 toc: false
-id: 524
+id: 522
 autores:
 - Sławomir Mrożek
 - Francesc Miravitlles

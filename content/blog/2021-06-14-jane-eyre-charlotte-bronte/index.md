@@ -1,5 +1,5 @@
 ---
-title: '#466 · Jane Eyre'
+title: '#464 · Jane Eyre'
 summary: De Jane Eyre (1847), ciertamente una de las novelas más famosas de estos dos últimos siglos, solemos conservar la
   imagen ultrarromántica de una azarosa…
 date: '2021-06-14T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Colegio
 - Literatura clásica
 toc: false
-id: 466
+id: 464
 autores:
 - Charlotte Brontë
 - Carmen Martín Gaite

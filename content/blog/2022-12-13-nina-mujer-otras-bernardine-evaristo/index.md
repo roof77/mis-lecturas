@@ -1,5 +1,5 @@
 ---
-title: '#572 · Niña, mujer, otras'
+title: '#569 · Niña, mujer, otras'
 summary: Un estilo literario rompedor a caballo entre la poesía y la prosa que la autora define como "literatura fusión".
   Un texto escrito al margen de las convenciones…
 date: '2022-12-13T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Relatos
 - Raza
 toc: false
-id: 572
+id: 569
 autores:
 - Bernardine Evaristo
 - Julia Osuna Aguilar

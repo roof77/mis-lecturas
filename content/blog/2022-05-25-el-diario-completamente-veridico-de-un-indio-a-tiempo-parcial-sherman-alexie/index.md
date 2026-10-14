@@ -1,5 +1,5 @@
 ---
-title: '#542 · El diario completamente verídico de un indio a tiempo parcial'
+title: '#540 · El diario completamente verídico de un indio a tiempo parcial'
 summary: Arnold Spirit Junior, de 14 años, nació y creció en la Reserva India Spokane. Es torpe, miope, hipermétrope, lleva
   las gafas torcidas y tiene una enorme…
 date: '2022-05-25T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Coming of age
 - Colegio
 toc: false
-id: 542
+id: 540
 autores:
 - Sherman Alexie
 - Ellen Forney

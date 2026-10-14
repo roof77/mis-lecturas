@@ -1,5 +1,5 @@
 ---
-title: '#539 · La encrucijada de Desert Hole'
+title: '#537 · La encrucijada de Desert Hole'
 summary: El Proyecto Estefanía recupera el imaginario de los relatos de ‘western’ que se vendían en los kioskos y lo devuelve
   a las llanuras de la actualidad con una…
 date: '2022-05-16T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 539
+id: 537
 autores:
 - Vicky Gatekeeper
 autores_stats:

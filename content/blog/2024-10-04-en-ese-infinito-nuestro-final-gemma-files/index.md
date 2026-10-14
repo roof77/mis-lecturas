@@ -1,5 +1,5 @@
 ---
-title: '#685 · En ese infinito, nuestro final'
+title: '#683 · En ese infinito, nuestro final'
 summary: 'En este volumen se recogen quince nuevas pesadillas seductoras, escalofriantes y repletas de terror existencial:
   «Así están las cosas», «Bombilla», «El Motel…'
 date: '2024-10-04T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Oscuro
 - Sobrenatural
 toc: false
-id: 685
+id: 683
 autores:
 - Gemma Files
 - Pilar Ramírez Tello

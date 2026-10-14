@@ -1,5 +1,5 @@
 ---
-title: '#640 · Lluvia'
+title: '#637 · Lluvia'
 summary: 1958. Pasan los años entre suntuosas fiestas, uniones insólitas y estremecedoras revelaciones, pero nada traerá paz
   a la familia Caskey. Saben que, tras la…
 date: '2024-04-23T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Gótico sureño
 - Thriller
 toc: false
-id: 640
+id: 637
 autores:
 - Michael McDowell
 - Carles Andreu

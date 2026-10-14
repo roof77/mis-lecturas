@@ -1,5 +1,5 @@
 ---
-title: '#775 · Brujería para chicas descarriadas'
+title: '#774 · Brujería para chicas descarriadas'
 summary: "Brujería para chicas descarriadas no es solo un libro de brujas: es un grito contra el olvido.\r\n\r\nFlorida, 1971.\
   \ Fern es una adolescente que, al quedar…"
 date: '2025-10-15T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Paranormal
 - Adultos
 toc: false
-id: 775
+id: 774
 autores:
 - Grady Hendrix
 - Simón Saitó

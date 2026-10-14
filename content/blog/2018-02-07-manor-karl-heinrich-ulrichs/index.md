@@ -1,5 +1,5 @@
 ---
-title: '#293 · Manor'
+title: '#292 · Manor'
 summary: Manor, un joven marinero, rescata al pequeño Har de morir ahogado. A partir de ese momento, Manor y Har se enamoran
   y comienzan una relación de estrecha…
 date: '2018-02-07T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Queer
 - Literatura alemana
 toc: false
-id: 293
+id: 292
 autores:
 - Karl Heinrich Ulrichs
 autores_stats:

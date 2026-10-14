@@ -1,5 +1,5 @@
 ---
-title: '#577 · Diario de un vacío'
+title: '#574 · Diario de un vacío'
 summary: "¿Mentimos para sentirnos menos solos?\r\n\r\nShibata tiene un trabajo estable en una compañía manufacturera de papel\
   \ y cartón. Sin duda, es mejor que su puesto…"
 date: '2023-02-09T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ásia
 - Club de lectura
 toc: false
-id: 577
+id: 574
 autores:
 - Emi Yagi
 autores_stats:

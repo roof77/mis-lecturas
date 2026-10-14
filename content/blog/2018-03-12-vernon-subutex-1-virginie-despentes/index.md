@@ -1,5 +1,5 @@
 ---
-title: '#299 · Vernon Subutex 1'
+title: '#298 · Vernon Subutex 1'
 summary: Alex Bleach, ángel caído del rock francés, ha muerto de una sobredosis en la bañera de un hotel. Toda una desgracia
   para sus fans, pero sobre todo para Vernon…
 date: '2018-03-12T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Siglo XXI
 - París
 toc: false
-id: 299
+id: 298
 autores:
 - Virginie Despentes
 - Noemí Sobregués Arias

@@ -1,5 +1,5 @@
 ---
-title: '#361 · Las primeras quince vidas de Harry August'
+title: '#359 · Las primeras quince vidas de Harry August'
 summary: "Harry August está en su lecho de muerte. Otra vez.\r\n\r\nCada vez que Harry muere, vuelve a nacer justo en el mismo\
   \ lugar y la misma fecha, como un niño con todo…"
 date: '2018-09-27T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Histórico
 - Thriller
 toc: false
-id: 361
+id: 359
 autores:
 - Claire North
 - Jaime Valero

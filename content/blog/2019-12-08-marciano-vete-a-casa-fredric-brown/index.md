@@ -1,5 +1,5 @@
 ---
-title: '#418 · Marciano, vete a casa'
+title: '#416 · Marciano, vete a casa'
 summary: Un escritor se refugia en una cabaña mientras escribe su próximo relato. Al instante un extraterrestre proveniente
   de Marte aparece de la nada. Pronto, cientos…
 date: '2019-12-08T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Clásico
 - Ciencia Ficción
 toc: false
-id: 418
+id: 416
 autores:
 - Fredric Brown
 autores_stats:

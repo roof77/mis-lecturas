@@ -1,5 +1,5 @@
 ---
-title: '#449 · Un amor cualquiera'
+title: '#447 · Un amor cualquiera'
 summary: Hace ahora justo veinte años, los Kinsella eran, en apariencia, una familia idílica y feliz. De un día para otro,
   el marido de Rachel vendió sin avisarle la…
 date: '2020-12-21T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - Ficción
 - Familia
 toc: false
-id: 449
+id: 447
 autores:
 - Jane Smiley
 - Francisco González López

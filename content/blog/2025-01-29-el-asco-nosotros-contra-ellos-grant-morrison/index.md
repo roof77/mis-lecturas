@@ -1,5 +1,5 @@
 ---
-title: '#702 · El Asco: Nosotros contra ellos'
+title: '#701 · El Asco: Nosotros contra ellos'
 summary: En un futuro de sexo, drogas y violencia, un loco sheriff se ha propuesto lelvar a cabo un maquiavélico plan relacionado
   con el sexo en sus más tremendas y…
 date: '2025-01-29T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 702
+id: 701
 autores:
 - Grant Morrison
 - Chris Weston

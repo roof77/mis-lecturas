@@ -1,5 +1,5 @@
 ---
-title: '#602 · Los enclaves dorados'
+title: '#599 · Los enclaves dorados'
 summary: "Salvar el mundo es una prueba para la que ninguna escuela de magia te puede preparar.\r\n\r\nCasi sin ayuda de nadie\
   \ (aunque respaldada por un grupo de amigos cada…"
 date: '2023-09-14T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Romance
 - Ciencia Ficción
 toc: false
-id: 602
+id: 599
 autores:
 - Naomi Novik
 - Patricia Sebastián Hernández

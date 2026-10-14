@@ -1,5 +1,5 @@
 ---
-title: '#620 · Yo no sé de otras cosas'
+title: '#617 · Yo no sé de otras cosas'
 summary: "No hay lugar más universal que el más pequeño de los pueblos.\r\n\r\nLea tiene 19 años, un ardor en la tripa y una\
   \ vida entera en un pueblo con cuatro calles, una…"
 date: '2024-02-11T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Novella
 - Drama
 toc: false
-id: 620
+id: 617
 autores:
 - Elisa Levi
 autores_stats:

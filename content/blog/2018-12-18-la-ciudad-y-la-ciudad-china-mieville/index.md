@@ -1,5 +1,5 @@
 ---
-title: '#370 · La ciudad y la ciudad'
+title: '#368 · La ciudad y la ciudad'
 summary: Una mujer es hallada muerta en la ciudad de Beszel, en algún lugar de los confines de Europa. Para llevar a cabo
   la investigación, el inspector Borlú tiene que…
 date: '2018-12-18T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Club de lectura
 - Ciencia Ficción
 toc: false
-id: 370
+id: 368
 autores:
 - China Miéville
 autores_stats:

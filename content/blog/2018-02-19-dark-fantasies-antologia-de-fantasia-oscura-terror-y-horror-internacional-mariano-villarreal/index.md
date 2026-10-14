@@ -1,5 +1,5 @@
 ---
-title: '#295 · Dark Fantasies. Antología de fantasía oscura, terror y horror internacional'
+title: '#294 · Dark Fantasies. Antología de fantasía oscura, terror y horror internacional'
 summary: Coordinada por Mariano Villarreal, la colección Nova Fantástica se ha caracterizado desde su inicio por su empeño
   en ofrecer los mejores relatos de género…
 date: '2018-02-19T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - Fantasía
 - Relatos
 toc: false
-id: 295
+id: 294
 autores:
 - Mariano Villarreal
 - Alyssa Wong

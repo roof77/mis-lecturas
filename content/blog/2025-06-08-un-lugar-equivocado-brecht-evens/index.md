@@ -1,5 +1,5 @@
 ---
-title: '#754 · Un lugar equivocado'
+title: '#753 · Un lugar equivocado'
 summary: Una reunión de viejos compañeros de instituto sirve de excusa y telón de fondo para desarrollar una comedia coral
   en la que los personajes hablan de lo divino…
 date: '2025-06-08T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Siglo XXI
 - Adultos
 toc: false
-id: 754
+id: 753
 autores:
 - Brecht Evens
 autores_stats:

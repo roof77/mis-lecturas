@@ -1,5 +1,5 @@
 ---
-title: '#549 · Mi persona favorita'
+title: '#547 · Mi persona favorita'
 summary: Después de lanzarse a besar a Nick, Charlie cree que todo se ha acabado, pero... ¿es así? Heartstopper responde a
   la manera de sentir de los jóvenes reales…
 date: '2022-06-29T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Ficción
 - Gay
 toc: false
-id: 549
+id: 547
 autores:
 - Alice Oseman
 - Victoria Simó

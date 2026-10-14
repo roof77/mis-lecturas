@@ -1,5 +1,5 @@
 ---
-title: '#510 · Piranesi'
+title: '#508 · Piranesi'
 summary: 'La casa de Piranesi no es un edificio cualquiera: sus habitaciones son monumentales, con paredes llenas de miles
   de estatuas, y sus pasillos, interminables…'
 date: '2021-12-17T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción Literaria
 - Adultos
 toc: false
-id: 510
+id: 508
 autores:
 - Susanna Clarke
 - Antonio Padilla Esteban

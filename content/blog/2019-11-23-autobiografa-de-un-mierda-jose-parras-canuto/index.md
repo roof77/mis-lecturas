@@ -1,5 +1,5 @@
 ---
-title: '#414 · Autobiograf�a de un mierda'
+title: '#412 · Autobiograf�a de un mierda'
 summary: Todas las experiencias que llevaron al protagonista, un amante de la cultura underground, a convertirse en un ser
   antisocial que tiene un escueto mensaje para…
 date: '2019-11-23T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 414
+id: 412
 autores:
 - Jose Parras Canuto
 autores_stats:

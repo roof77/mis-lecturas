@@ -1,5 +1,5 @@
 ---
-title: '#456 · Hermanos de alma'
+title: '#454 · Hermanos de alma'
 summary: Alfa Ndiaye es senegalés y ha acabado combatiendo con el ejército francés en las trincheras de la Primera Guerra
   Mundial. En el mismo regimiento también lucha…
 date: '2021-04-24T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Terror
 - Primera guerra mundial
 toc: false
-id: 456
+id: 454
 autores:
 - David Diop
 - Rubén Martín Giráldez

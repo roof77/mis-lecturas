@@ -1,5 +1,5 @@
 ---
-title: '#498 · Fantasmas'
+title: '#496 · Fantasmas'
 summary: Catrina y su familia se mudan a la costa norte de California porque la hermana de Catrina está enferma. Una vez en
   su nuevo hogar, un vecino les cuenta a las…
 date: '2021-09-29T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Paranormal
 - Familia
 toc: false
-id: 498
+id: 496
 autores:
 - Raina Telgemeier
 autores_stats:

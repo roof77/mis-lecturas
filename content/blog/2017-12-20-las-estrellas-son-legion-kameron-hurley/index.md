@@ -1,5 +1,5 @@
 ---
-title: '#281 · Las estrellas son legión'
+title: '#280 · Las estrellas son legión'
 summary: En los confines del universo, la Legión, un sistema de naves-mundo que se van pudriendo poco a poco, se desplaza
   por los intersticios de las estrellas. Parece…
 date: '2017-12-20T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ciencia Ficción
 - Adultos
 toc: false
-id: 281
+id: 280
 autores:
 - Kameron Hurley
 - Alexander Páez

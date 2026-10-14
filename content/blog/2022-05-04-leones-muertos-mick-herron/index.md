@@ -1,5 +1,5 @@
 ---
-title: '#534 · Leones muertos'
+title: '#532 · Leones muertos'
 summary: Los agentes de la Casa de la Ciénaga, donde los mandos del servicio de inteligencia británico envían a los espías
   caídos en desgracia, reciben el encargo de…
 date: '2022-05-04T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Literatura británica
 - Suspense
 toc: false
-id: 534
+id: 532
 autores:
 - Mick Herron
 autores_stats:

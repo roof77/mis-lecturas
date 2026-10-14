@@ -1,5 +1,5 @@
 ---
-title: '#341 · Sex Criminals #16: Goals'
+title: '#339 · Sex Criminals #16: Goals'
 summary: SEX CRIMINALS is BACK. Full sex! Deep crime! Big floppy 16th issue!
 date: '2018-08-20T23:59:46'
 authors:
@@ -11,7 +11,7 @@ tags:
 - Ciencia ficción
 - Fantasía
 toc: false
-id: 341
+id: 339
 autores:
 - Matt Fraction
 - Chip Zdarsky

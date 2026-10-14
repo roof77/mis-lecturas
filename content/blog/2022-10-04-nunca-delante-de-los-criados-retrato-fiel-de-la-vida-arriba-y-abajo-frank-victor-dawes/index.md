@@ -1,7 +1,7 @@
 ---
-title: '#564 · Nunca delante de los criados: Retrato fiel de la vida arriba y abajo'
-summary: Whole armies of butlers, cooks and housemaids were employed in the great households of Victorian and Edwardian England.
-  This book is a nostalgic study of this…
+title: '#562 · Nunca delante de los criados: Retrato fiel de la vida arriba y abajo'
+summary: 'Las series Downton Abbey o la mítica Arriba y abajo nos han transmitido una visión idealizada de la vida del personal
+  doméstico: nada más lejos de la realidad…'
 date: '2022-10-04T23:59:59'
 authors:
 - roof77
@@ -16,7 +16,7 @@ tags:
 - Siglo XIX
 - Downton Abbey
 toc: false
-id: 564
+id: 562
 autores:
 - Frank Victor Dawes
 - Ángeles de los Santos
@@ -33,7 +33,7 @@ nota: 3,75
 
 ## Sinopsis
 
-Whole armies of butlers, cooks and housemaids were employed in the great households of Victorian and Edwardian England. This book is a nostalgic study of this vanished world, recreated through interviews, memoirs and letters. The author discusses different households including the estate of the Duke of Portland, who employed more than 30 kitchen staff at Welbeck Abbey and another 32 indoor servants. At the other end of the scale, no respectable villa in the suburbs was without its maid or maids. Domestic service thrived because economic necessity forced larger poor families to put their children into service as one of the few means of feeding and clothing them.
+Las series Downton Abbey o la mítica Arriba y abajo nos han transmitido una visión idealizada de la vida del personal doméstico: nada más lejos de la realidad. Frank Victor Dawes, hijo de una criada, quiso investigar ese mundo, y para ello publicó en 1972 un anuncio en la prensa en el que solicitaba los testimonios de aquellas personas que hubieran trabajado en el servicio. La respuesta fue tan abrumadora que dio lugar al fascinante recorrido que propone aquí, un retrato del trabajo doméstico a lo largo de cien años a partir de las voces de sus protagonistas.Esta obra nos obliga a reflexionar sobre la precariedad laboral, la conciliación o el abuso sexual a las mujeres, y a repensar qué consideración social se les otorga a quienes se ocupan de los cuidados de nuestros seres queridos.
 
 ## Ficha del libro
 

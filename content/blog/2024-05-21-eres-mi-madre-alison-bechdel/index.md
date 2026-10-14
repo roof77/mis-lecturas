@@ -1,5 +1,5 @@
 ---
-title: '#649 · ¿Eres mi madre?'
+title: '#646 · ¿Eres mi madre?'
 summary: La autora del bestseller Fun Home regresa a su exitosa saga familiar. Si has leído la primera novela gráfica de Alison
   Bechdel, Fun Home. Una familia…
 date: '2024-05-21T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Biografía
 - Psicología
 toc: false
-id: 649
+id: 646
 autores:
 - Alison Bechdel
 autores_stats:

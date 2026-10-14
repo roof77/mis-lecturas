@@ -1,5 +1,5 @@
 ---
-title: '#593 · El tapiz amarillo'
+title: '#590 · El tapiz amarillo'
 summary: Charlotte Anna Perkins , fue una intelectual norteamericana multidisciplinar, muy activa en defensa de los derechos
   civiles de las mujeres entre finales de…
 date: '2023-06-12T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Colegio
 - Literatura
 toc: false
-id: 593
+id: 590
 autores:
 - Charlotte Perkins Gilman
 autores_stats:

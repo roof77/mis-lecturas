@@ -1,5 +1,5 @@
 ---
-title: '#567 · La soledad del dibujante'
+title: '#565 · La soledad del dibujante'
 summary: Tras un repentino e insignificante chequeo médico, Tomine empieza a reflexionar sobre su propia vida y a preguntarse
   si todo lo que ha vivido ha valido…
 date: '2022-10-16T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Humor
 - Arte
 toc: false
-id: 567
+id: 565
 autores:
 - Adrian Tomine
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#389 · Las siete muertes de Evelyn Hardcastle'
+title: '#387 · Las siete muertes de Evelyn Hardcastle'
 summary: "Una extraordinaria mezcla de Agatha Christie, Atrapado en el tiempo, Origen y Black Mirror.\r\nLo que comienza como\
   \ una celebración termina en tragedia. Los…"
 date: '2019-05-07T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Ficción histórica
 - Adultos
 toc: false
-id: 389
+id: 387
 autores:
 - Stuart Turton
 - Lorenzo F. Díaz

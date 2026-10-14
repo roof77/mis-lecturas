@@ -1,5 +1,5 @@
 ---
-title: '#525 · Distancia de rescate'
+title: '#523 · Distancia de rescate'
 summary: El campo ha cambiado frente a nuestros ojos sin que nadie se diera cuenta. Y quizá no se trate solo de sequías y
   herbicidas, quizá se trate del hilo vital y…
 date: '2022-03-15T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura hispana
 - Club de lectura
 toc: false
-id: 525
+id: 523
 autores:
 - Samanta Schweblin
 autores_stats:

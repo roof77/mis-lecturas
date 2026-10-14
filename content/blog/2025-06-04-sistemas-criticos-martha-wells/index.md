@@ -1,5 +1,5 @@
 ---
-title: '#753 · Sistemas críticos'
+title: '#752 · Sistemas críticos'
 summary: En un futuro controlado por entidades corporativas donde el viaje espacial es posible, una compañía de seguros debe
   aprobar y abastecer todas las misiones…
 date: '2025-06-04T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Club de lectura
 - Robots
 toc: false
-id: 753
+id: 752
 autores:
 - Martha Wells
 - Carla Bataller Estruch

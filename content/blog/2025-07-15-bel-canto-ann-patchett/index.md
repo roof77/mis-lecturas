@@ -1,5 +1,5 @@
 ---
-title: '#761 · Bel Canto'
+title: '#760 · Bel Canto'
 summary: En algún lugar de Sudamérica, el vicepresidente de la nación celebra en su residencia una suntuosa fiesta en honor
   al señor Hosokawa, un influyente hombre de…
 date: '2025-07-15T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura
 - Ficción adulta
 toc: false
-id: 761
+id: 760
 autores:
 - Ann Patchett
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#358 · Lo contrario de la soledad'
+title: '#356 · Lo contrario de la soledad'
 summary: La celebridad de Marina Keegan iba en aumento cuando, en mayo de 2012, se graduó magna cum laude en Yale. Una obra
   de teatro suya iba a estrenarse en el…
 date: '2018-09-09T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Biografía
 - Adultos
 toc: false
-id: 358
+id: 356
 autores:
 - Marina Keegan
 - Regina López Muñoz

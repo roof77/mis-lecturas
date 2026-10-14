@@ -1,5 +1,5 @@
 ---
-title: '#678 · Doppler'
+title: '#675 · Doppler'
 summary: Después de la muerte de su padre y tras caerse de la bicicleta, Doppler decide abandonar su hogar en Oslo, su trabajo,
   a sus hijos y a su esposa embarazada, y…
 date: '2024-08-12T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Literatura
 - Adultos
 toc: false
-id: 678
+id: 675
 autores:
 - Erlend Loe
 - Øyvind Fossam

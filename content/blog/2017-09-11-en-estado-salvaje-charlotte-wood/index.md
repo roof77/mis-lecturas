@@ -1,5 +1,5 @@
 ---
-title: '#264 · En estado salvaje'
+title: '#263 · En estado salvaje'
 summary: 'Son diez, y al despertarse una mañana descubren el horror: alguien las ha drogado y trasladado a un lugar siniestro
   en medio de la nada. Están encerradas en…'
 date: '2017-09-11T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Terror
 - Literatura
 toc: false
-id: 264
+id: 263
 autores:
 - Charlotte Wood
 autores_stats:

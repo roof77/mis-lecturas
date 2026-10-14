@@ -1,5 +1,5 @@
 ---
-title: '#484 · El verano en que mi madre tuvo los ojos verdes'
+title: '#482 · El verano en que mi madre tuvo los ojos verdes'
 summary: "Alternate cover edition of ISBN 9788417553036\r\n\r\nPlena de emoción y crudeza, Tatiana Ţîbuleac muestra una intensísima\
   \ fuerza narrativa en este brutal…"
 date: '2021-08-28T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura hispana
 - Mujeres
 toc: false
-id: 484
+id: 482
 autores:
 - Tatiana Țîbuleac
 - Marian Ochoa de Eribe

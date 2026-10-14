@@ -1,5 +1,5 @@
 ---
-title: '#590 · Jóvenes poetas rebeldes'
+title: '#587 · Jóvenes poetas rebeldes'
 summary: Nanette O´Hare es una sencilla adolescente que lleva mucho tiempo interpretando los papeles de hija obediente, estudiante
   modelo y brillante atleta. Este año…
 date: '2023-04-28T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Salud mentál
 - Adolescencia
 toc: false
-id: 590
+id: 587
 autores:
 - Matthew Quick
 - Julio Hermoso

@@ -1,5 +1,5 @@
 ---
-title: '#451 · Cuentos escogidos'
+title: '#449 · Cuentos escogidos'
 summary: Una mujer pasa el día de su boda buscando frenéticamente a su futuro marido, otra hace un extraño viaje nocturno
   en autobús, un librero satisface la, en…
 date: '2021-02-09T23:59:59'
@@ -14,7 +14,7 @@ tags:
 - Clásico
 - Thriller
 toc: false
-id: 451
+id: 449
 autores:
 - Shirley Jackson
 - Paula Kuffer

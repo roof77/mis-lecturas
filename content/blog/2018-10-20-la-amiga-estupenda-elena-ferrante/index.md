@@ -1,5 +1,5 @@
 ---
-title: '#363 · La amiga estupenda'
+title: '#361 · La amiga estupenda'
 summary: Con La amiga estupenda, Elena Ferrante inaugura una tetralogia deslumbrante que tiene como telón de fondo la ciudad
   de Nápoles a mediados del siglo pasado y…
 date: '2018-10-20T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Histórico
 - Novela
 toc: false
-id: 363
+id: 361
 autores:
 - Elena Ferrante
 - Celia Filipetto Isicato

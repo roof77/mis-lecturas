@@ -1,5 +1,5 @@
 ---
-title: '#271 · Aquel verano'
+title: '#270 · Aquel verano'
 summary: Rose y sus padres han veraneado en Awago Beach desde que ella era una niña. Es su escapada anual, su refugio. Su
   amiga Windy también está allí siempre, la…
 date: '2017-10-03T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Libros prohibidos
 - Adolescencia
 toc: false
-id: 271
+id: 270
 autores:
 - Mariko Tamaki
 - Jillian Tamaki

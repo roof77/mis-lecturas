@@ -1,5 +1,5 @@
 ---
-title: '#631 · Heartstopper 5. Creciendo contigo'
+title: '#628 · Heartstopper 5. Creciendo contigo'
 summary: "Una nueva entrega de la aclamada serie Heartstopper repleta de sentimientos.\r\n\r\nAmor y sentimientos a flor de\
   \ piel en una nueva entrega de…"
 date: '2024-03-27T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Gay
 - Salud mentál
 toc: false
-id: 631
+id: 628
 autores:
 - Alice Oseman
 autores_stats:

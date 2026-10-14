@@ -1,5 +1,5 @@
 ---
-title: '#747 · Badasstronauts: Paletos espaciales'
+title: '#746 · Badasstronauts: Paletos espaciales'
 summary: "Una sátira brillante sobre la exploración espacial y el fracaso estadounidense.\r\n\r\nMelville, Carolina del Sur,\
   \ se ha quedado sin dinero, sin empleos, sin…"
 date: '2025-05-21T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Adultos
 - Comedia
 toc: false
-id: 747
+id: 746
 autores:
 - Grady Hendrix
 autores_stats:

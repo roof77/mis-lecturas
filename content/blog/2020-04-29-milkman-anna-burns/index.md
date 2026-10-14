@@ -1,5 +1,5 @@
 ---
-title: '#428 · Milkman'
+title: '#426 · Milkman'
 summary: En esta ciudad anónima, ser interesante es peligroso. La hermana mediana, nuestra protagonista, se empeña en evitar
   que su madre descubra a su posible novio y…
 date: '2020-04-29T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Novela
 - Histórico
 toc: false
-id: 428
+id: 426
 autores:
 - Anna Burns
 - Maia Figueroa Evans

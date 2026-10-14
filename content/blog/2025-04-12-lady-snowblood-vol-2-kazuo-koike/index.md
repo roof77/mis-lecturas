@@ -1,5 +1,5 @@
 ---
-title: '#733 · Lady Snowblood, vol. 2'
+title: '#732 · Lady Snowblood, vol. 2'
 summary: La sed de venganza de Osayo, una mujer que lo perdió todo a manos de cuatro indeseables, la lleva a quedarse embarazada
   en la prisión en la que debe acabar sus…
 date: '2025-04-12T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - Seinen manga
 - Drama
 toc: false
-id: 733
+id: 732
 autores:
 - Kazuo Koike
 - Kazuo Kamimura

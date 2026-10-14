@@ -1,5 +1,5 @@
 ---
-title: '#269 · Entrebrumas'
+title: '#268 · Entrebrumas'
 summary: Lud es una próspera ciudad mercantil situada en la confluencia de dos ríos. Años atrás, los habitantes de Lud, amantes
   del trabajo y el orden, rechazaron la…
 date: '2017-09-29T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Novela
 - Club de lectura
 toc: false
-id: 269
+id: 268
 autores:
 - Hope Mirrlees
 - Emilio Mayorga

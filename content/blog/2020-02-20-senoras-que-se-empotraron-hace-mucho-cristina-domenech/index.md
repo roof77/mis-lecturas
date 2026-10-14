@@ -1,5 +1,5 @@
 ---
-title: '#423 · Señoras que se empotraron hace mucho'
+title: '#421 · Señoras que se empotraron hace mucho'
 summary: "¿Dónde están las lesbianas en la historia?\r\n\r\nMujeres que se rebelaron contra el matrimonio y rompieron las\
   \ reglas de etiqueta. Rebeldes, genias, decadentes…"
 date: '2020-02-20T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Literatura hispana
 - Romance
 toc: false
-id: 423
+id: 421
 autores:
 - Cristina Domenech
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#518 · Primavera para Madrid'
+title: '#516 · Primavera para Madrid'
 summary: El libro de oro de la corrupción, el chalaneo y el lenocinio. Si Magius en su anterior cómic, «El Método Gemini»,
   desgranaba el funcionamiento de la mafia…
 date: '2022-01-09T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - Política
 - Literatura hispana
 toc: false
-id: 518
+id: 516
 autores:
 - Magius
 autores_stats:

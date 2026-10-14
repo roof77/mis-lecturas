@@ -1,5 +1,5 @@
 ---
-title: '#245 · Cuentos completos'
+title: '#244 · Cuentos completos'
 summary: Empiezas un cuento de Saki y lo acabas. Acabas uno y tienes que empezar otro, y cuando los acabas ya nunca los olvidas.
   Siguen siendo adictivos porque superan…
 date: '2017-04-24T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Antología
 - Moderno
 toc: false
-id: 245
+id: 244
 autores:
 - Saki
 autores_stats:

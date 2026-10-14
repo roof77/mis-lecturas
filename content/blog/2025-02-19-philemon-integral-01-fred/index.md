@@ -1,5 +1,5 @@
 ---
-title: '#712 · Philémon Integral 01'
+title: '#711 · Philémon Integral 01'
 summary: 'Entre 1965 y 2013, el historietista galo Fred narró las andanzas de Philémon: joven que descubre mundos fantásticos
   habitados por seres imposibles en compañía…'
 date: '2025-02-19T23:59:58'
@@ -11,7 +11,7 @@ tags:
 - Novela gráfica
 - Fantasía
 toc: false
-id: 712
+id: 711
 autores:
 - Fred
 autores_stats:

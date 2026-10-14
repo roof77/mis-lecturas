@@ -1,5 +1,5 @@
 ---
-title: '#507 · Los optimistas'
+title: '#505 · Los optimistas'
 summary: Yale Tishman es uno de los muchos amigos de Nico que se han reunido para honrar su memoria en una pequeña fiesta.
   A la misma hora, no muy lejos de allí, se…
 date: '2021-12-01T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Contemporaneo
 - Novela
 toc: false
-id: 507
+id: 505
 autores:
 - Rebecca Makkai
 - Aurora Echevarría

@@ -1,5 +1,5 @@
 ---
-title: '#643 · The End of the Fucking World'
+title: '#640 · The End of the Fucking World'
 summary: Fantagraphics is proud to publish this first-ever hardcover edition of TEotFW in conjunction with the 2017 television
   drama on UK’s Channel 4 (with…
 date: '2024-04-27T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Contemporaneo
 - Romance
 toc: false
-id: 643
+id: 640
 autores:
 - Charles Forsman
 autores_stats:

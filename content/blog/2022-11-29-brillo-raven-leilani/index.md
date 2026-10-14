@@ -1,5 +1,5 @@
 ---
-title: '#571 · Brillo'
+title: '#568 · Brillo'
 summary: «Un hombre mayor es una maravilla porque lleva treinta y ocho años pagando las facturas del gas, ha tenido salmonelosis
   y ha visto los informes sobre el cambio…
 date: '2022-11-29T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Novela
 - Ficción adulta
 toc: false
-id: 571
+id: 568
 autores:
 - Raven Leilani
 - Laura Ibáñez

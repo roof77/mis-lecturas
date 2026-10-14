@@ -1,5 +1,5 @@
 ---
-title: '#612 · Todas las criaturas grandes y pequeñas. Aventuras y desventuras de un veterinario en la campiña inglesa'
+title: '#609 · Todas las criaturas grandes y pequeñas. Aventuras y desventuras de un veterinario en la campiña inglesa'
 summary: "Las divertidas experiencias de un aprendiz de veterinario en la Inglaterra rural de los años treinta.\r\nDesde su\
   \ publicación, estas memorias han sido el libro…"
 date: '2023-12-06T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Autobiografía
 - Club de lectura
 toc: false
-id: 612
+id: 609
 autores:
 - James Herriot
 autores_stats:

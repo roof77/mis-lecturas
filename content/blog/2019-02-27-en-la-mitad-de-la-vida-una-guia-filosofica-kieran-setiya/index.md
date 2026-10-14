@@ -1,5 +1,5 @@
 ---
-title: '#378 · En la mitad de la vida: una guía filosófica'
+title: '#376 · En la mitad de la vida: una guía filosófica'
 summary: "Philosophical wisdom and practical advice for overcoming the problems of middle age\r\n\r\nHow can you reconcile\
   \ yourself with the lives you will never lead, with…"
 date: '2019-02-27T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Salud mentál
 - Ciencia
 toc: false
-id: 378
+id: 376
 autores:
 - Kieran Setiya
 - Ramón González Férriz

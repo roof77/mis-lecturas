@@ -1,5 +1,5 @@
 ---
-title: '#565 · El funcionario desnudo'
+title: '#563 · El funcionario desnudo'
 summary: Quentin Crisp, fallecido en 1999 a la edad de 91 años, ha sido uno de los más finos humoristas británicos de los
   últimos tiempos. Su prosa limpia, inteligente…
 date: '2022-10-10T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Autobiografía
 - Humor
 toc: false
-id: 565
+id: 563
 autores:
 - Quentin Crisp
 autores_stats:

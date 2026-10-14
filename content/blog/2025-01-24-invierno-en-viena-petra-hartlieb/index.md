@@ -1,8 +1,8 @@
 ---
-title: '#317 · Invierno en Viena'
+title: '#699 · Invierno en Viena'
 summary: Viena, primeros años del siglo XX. Marie trabaja como niñera para la respetable familia del doctor Arthur Schnitzler,
   el famoso autor de La señorita Else…
-date: '2018-06-14T23:59:59'
+date: '2025-01-24T23:59:59'
 authors:
 - roof77
 tags:
@@ -19,7 +19,7 @@ tags:
 - Comfortable
 - Novela
 toc: false
-id: 317
+id: 699
 autores:
 - Petra Hartlieb
 - Richard Gross
@@ -54,5 +54,5 @@ Viena, primeros años del siglo XX. Marie trabaja como niñera para la respetabl
 ## Mi lectura
 
 - **Inicio:** 2025/01/24
-- **Fin:** 2018/06/14
+- **Fin:** 2025/01/24
 - **Calificación:** ★★★★☆ (4/5)

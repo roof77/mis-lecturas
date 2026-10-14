@@ -1,5 +1,5 @@
 ---
-title: '#556 · Rusia gótica'
+title: '#554 · Rusia gótica'
 summary: Adoradores del diablo, hombres lobo, locura y magia. A principios del siglo diecinueve, muchos escritores rusos comenzaron
   a interesarse por los cuentos…
 date: '2022-07-20T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - Literatura rusa
 - Relatos
 toc: false
-id: 556
+id: 554
 autores:
 - Nikolay Karamzin
 - Antony Pogorelsky

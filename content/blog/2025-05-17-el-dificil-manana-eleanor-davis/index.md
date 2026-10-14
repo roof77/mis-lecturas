@@ -1,7 +1,7 @@
 ---
-title: '#745 · El difícil mañana'
-summary: "The gorgeous and empathetic story of one couple’s search for hope and a peaceful future\r\n\r\nHannah is a thirty-something\
-  \ wife, home-health worker, and antiwar…"
+title: '#744 · El difícil mañana'
+summary: Estado policial, guerra con armas químicas, urgencia medioambiental... En una sociedad cada vez más terrorífica,
+  Hannah y Johnny están intentando tener un…
 date: '2025-05-17T23:59:59'
 authors:
 - roof77
@@ -15,7 +15,7 @@ tags:
 - Distopía
 - Queer
 toc: false
-id: 745
+id: 744
 autores:
 - Eleanor Davis
 - Santiago García Fernández
@@ -32,11 +32,7 @@ nota: Bien
 
 ## Sinopsis
 
-The gorgeous and empathetic story of one couple’s search for hope and a peaceful future
-
-Hannah is a thirty-something wife, home-health worker, and antiwar activist. Her husband, Johnny, is a stay-at-home pothead working—or "working"—on building them a house before the winter chill sets in. They're currently living and screwing in the back of a truck, hoping for a pregnancy, which seems like it will never come. Legs in the air, for a better chance at conception, Hannah scans fertility Reddits while Johnny dreams about propagating plants—kale, tomatoes—to ensure they have sufficient sustenance should the end times come, which, given their fragile democracy strained under the weight of a carceral state and the risk of horrible war, doesn’t seem so far off. Helping Hannah in her fight for the future is her best friend Gabby, a queer naturalist she idolizes and who adores her. Helping Johnny build the house is Tyler, an off-the-grid conspiracy theorist driven sick by his own cloudy notions of reality.
-
-Told with tenderness and care in an undefined near future, Eleanor Davis's The Hard Tomorrow blazes unrestrained, as moments of human connection are doused in fear and threats. Her astute projections probe at current anxieties in a cautionary tale that begs the question: What will happen after tomorrow?
+Estado policial, guerra con armas químicas, urgencia medioambiental... En una sociedad cada vez más terrorífica, Hannah y Johnny están intentando tener un bebé. Cada uno se enfrenta de manera muy diferente a ese futuro plagado de esperanzas y temores: mientras Johnny huye cada vez más de la realidad, Hannah se involucra en la militancia contra el uso de las armas químicas y la lucha por la igualdad. Pero la represión policial, la incertidumbre que atraviesa la pareja y la relación cada vez más estrecha de Hannah con una amiga activista más radical hacen que empiece a tambalearse su visión del mañana. Obra que opta como nominada a un premio Harvey y un Ignatz de las ediciones de 2020.
 
 ## Ficha del libro
 

@@ -1,5 +1,5 @@
 ---
-title: '#551 · Heartstopper 3. Un paso adelante'
+title: '#549 · Heartstopper 3. Un paso adelante'
 summary: "Charlie nunca pensó que podría gustarle a Nick, pero ahora son novios. Oficialmente. Y Nick incluso se lo ha contado\
   \ a su madre.\r\nPero dar este paso no es algo…"
 date: '2022-07-01T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Salud mentál
 - Gay
 toc: false
-id: 551
+id: 549
 autores:
 - Alice Oseman
 autores_stats:

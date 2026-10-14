@@ -1,5 +1,5 @@
 ---
-title: '#290 · Locos de amor'
+title: '#289 · Locos de amor'
 summary: En un zarrapastroso motel en el confín del desierto de Mojave dos destructivos y desesperados amantes, atrapados
   por neuróticas necesidades que los atraen y…
 date: '2018-01-24T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - EEUU
 - Romance
 toc: false
-id: 290
+id: 289
 autores:
 - Sam Shepard
 - Gustavo Pérez de Ayala

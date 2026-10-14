@@ -1,5 +1,5 @@
 ---
-title: '#605 · Otaberra'
+title: '#602 · Otaberra'
 summary: Algo pasó en 1989. Renata vuelve a ese año una y otra vez. El presente para ella no existe. El tiempo quedó detenido
   en Otaberra.
 date: '2023-10-17T23:59:59'
@@ -14,7 +14,7 @@ tags:
 - Literatura hispana
 - Novela
 toc: false
-id: 605
+id: 602
 autores:
 - Elisa Victoria
 autores_stats:

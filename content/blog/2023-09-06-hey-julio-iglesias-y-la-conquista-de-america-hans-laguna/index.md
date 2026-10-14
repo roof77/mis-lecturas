@@ -1,5 +1,5 @@
 ---
-title: '#600 · Hey! Julio Iglesias y la conquista de América'
+title: '#597 · Hey! Julio Iglesias y la conquista de América'
 summary: A nivel popular, Julio Iglesias es un icono kitsch, un personaje de la prensa rosa, un galán machista, un representante
   de la españolidad más rancia o un…
 date: '2023-09-06T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - Música
 toc: false
-id: 600
+id: 597
 autores:
 - Hans Laguna
 autores_stats:

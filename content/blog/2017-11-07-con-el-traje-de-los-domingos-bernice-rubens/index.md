@@ -1,5 +1,5 @@
 ---
-title: '#275 · Con el traje de los domingos'
+title: '#274 · Con el traje de los domingos'
 summary: George Verrey-Smith es un hombre de cuarenta y dos años, casado desde hace diecisiete con una mujer llamada Joy.
   Todos los domingos sube a su estudio, se…
 date: '2017-11-07T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - Literatura británica
 toc: false
-id: 275
+id: 274
 autores:
 - Bernice Rubens
 - Íñigo Fernández Fernández-Lomana

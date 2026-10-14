@@ -1,5 +1,5 @@
 ---
-title: '#523 · Todas las chicas descalzas'
+title: '#521 · Todas las chicas descalzas'
 summary: "No importa cómo las llames; sus nombres son todos los nombres.\r\nNo importa el tinte de su mirada, de su piel,\
   \ de su pelo; sus colores abarcan todos los…"
 date: '2022-03-09T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 523
+id: 521
 autores:
 - Nieves Mories
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#304 · La doncella de hielo'
+title: '#303 · La doncella de hielo'
 summary: 'Con gran originalidad y maestría narrativa, se combinan en esta obra dos géneros clásicos: el de suspense y el de
   relatos de vampiros. Y aunque el autor…'
 date: '2018-04-12T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - Literatura alemana
 - Terror
 toc: false
-id: 304
+id: 303
 autores:
 - Marc Behm
 autores_stats:

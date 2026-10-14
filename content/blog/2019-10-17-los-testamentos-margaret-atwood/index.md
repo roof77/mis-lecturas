@@ -1,5 +1,5 @@
 ---
-title: '#407 · Los testamentos'
+title: '#405 · Los testamentos'
 summary: Cuando las puertas de la furgoneta se cerraron de golpe tras Offred al final de El cuento de la criada, los lectores
   no tenían forma de saber cuál iba a ser su…
 date: '2019-10-17T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción especulativa
 - Adultos
 toc: false
-id: 407
+id: 405
 autores:
 - Margaret Atwood
 - Eugenia Vázquez Nacarino

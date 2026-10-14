@@ -1,5 +1,5 @@
 ---
-title: '#760 · Condición artificial'
+title: '#759 · Condición artificial'
 summary: Tiene un pasado oscuro donde murieron muchos humanos. Y por ese pasado decidió llamarse Matabot. Pero, de la masacre
   que le dio nombre solo conserva un…
 date: '2025-07-05T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Robots
 - Space Opera
 toc: false
-id: 760
+id: 759
 autores:
 - Martha Wells
 - Carla Bataller Estruch

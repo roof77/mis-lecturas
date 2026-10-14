@@ -1,5 +1,5 @@
 ---
-title: '#519 · El viento que arrasa'
+title: '#517 · El viento que arrasa'
 summary: Un reverendo y su hija de viaje por el Chaco, en un clima de conflictos y tormentas, entreveros y catástrofes latentes,
   diálogos filosos y locura solapada…
 date: '2022-01-11T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Religión
 - Novela
 toc: false
-id: 519
+id: 517
 autores:
 - Selva Almada
 autores_stats:

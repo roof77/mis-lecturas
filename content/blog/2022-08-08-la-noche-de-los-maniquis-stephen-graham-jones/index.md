@@ -1,5 +1,5 @@
 ---
-title: '#558 · La noche de los maniquís'
+title: '#556 · La noche de los maniquís'
 summary: Un grupo de amigos deciden gastarle una broma a otra de sus amigas que acaba de empezar a trabajar en unos cines.
   La broma no sale bien y se desata una…
 date: '2022-08-08T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Jovenes adultos
 - Índigenas
 toc: false
-id: 558
+id: 556
 autores:
 - Stephen Graham Jones
 - Manuel de los Reyes

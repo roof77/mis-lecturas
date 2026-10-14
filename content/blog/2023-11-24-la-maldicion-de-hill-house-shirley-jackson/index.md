@@ -1,5 +1,5 @@
 ---
-title: '#611 · La maldición de Hill House'
+title: '#608 · La maldición de Hill House'
 summary: La maldición de Hill House (The Haunting of Hill House, 1959), considerada una de las principales novelas de horror
   del siglo XX, narra el inquietante…
 date: '2023-11-24T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Thriller
 - Fantasmas
 toc: false
-id: 611
+id: 608
 autores:
 - Shirley Jackson
 - Óscar Palmer Yáñez

@@ -1,5 +1,5 @@
 ---
-title: '#515 · El reverso de los demás'
+title: '#513 · El reverso de los demás'
 summary: Argel. Adel y Yasmine son hermanos, y aunque de pequeños estaban unidos, han crecido y han cambiado y ya no se hablan.
   Se quieren y se temen en silencio. No…
 date: '2022-01-05T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - Argelia
 - Novela
 toc: false
-id: 515
+id: 513
 autores:
 - Kaouther Adimi
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#716 · La Única Chica: De redactora en Rolling Stone a guionista en Los Soprano'
+title: '#715 · La Única Chica: De redactora en Rolling Stone a guionista en Los Soprano'
 summary: 'obin Green nos regala este divertido y brillante texto desde el epicentro de la contracultura americana de los 70.
 
 
@@ -11,7 +11,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 716
+id: 715
 autores:
 - Robin Green
 autores_stats:

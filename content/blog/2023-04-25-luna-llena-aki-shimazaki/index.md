@@ -1,5 +1,5 @@
 ---
-title: '#589 · Luna llena'
+title: '#586 · Luna llena'
 summary: En una pequeña localidad japonesa, el matrimonio compuesto por Tetsuo y Fujiko Nire vive apaciblemente en una residencia
   en cuyos jardines cantan toda clase de…
 date: '2023-04-25T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Contemporaneo
 - Francia
 toc: false
-id: 589
+id: 586
 autores:
 - Aki Shimazaki
 - Javier Albiñana

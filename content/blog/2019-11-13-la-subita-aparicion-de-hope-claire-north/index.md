@@ -1,5 +1,5 @@
 ---
-title: '#412 · La súbita aparición de Hope'
+title: '#410 · La súbita aparición de Hope'
 summary: «Todo el mundo se olvida de mí. Primero de mi cara, después de mi voz, y por último de las consecuencias de mis acciones.
   Así que escucha. Recuérdame.» Mi…
 date: '2019-11-13T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Realismo mágico
 - Ficción especulativa
 toc: false
-id: 412
+id: 410
 autores:
 - Claire North
 - Jaime Valero

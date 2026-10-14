@@ -1,5 +1,5 @@
 ---
-title: '#628 · Providence'
+title: '#625 · Providence'
 summary: Il capolavoro lovecraftiano di Alan Moore e Jacen Burrows raccolto in un prestigioso volume in grande formato e con
   finiture di pregio! È il 1919 e l’ambizioso…
 date: '2024-03-05T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 628
+id: 625
 autores:
 - Alan Moore
 - Jacen Burrows

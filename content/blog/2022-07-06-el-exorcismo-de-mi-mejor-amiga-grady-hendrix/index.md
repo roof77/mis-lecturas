@@ -1,5 +1,5 @@
 ---
-title: '#552 · El exorcismo de mi mejor amiga'
+title: '#550 · El exorcismo de mi mejor amiga'
 summary: Dos jóvenes estudiantes de Secundaria, llamadas Abby y Gretchen, se tienen la una a la otra como mejores amigas desde
   los tiempos de la infancia. Pero en una…
 date: '2022-07-06T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Club de lectura
 - Adultos
 toc: false
-id: 552
+id: 550
 autores:
 - Grady Hendrix
 - Joan Josep Mussarra Roca

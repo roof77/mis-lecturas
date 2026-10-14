@@ -1,5 +1,5 @@
 ---
-title: '#351 · Sex Criminals #6: Coming On'
+title: '#349 · Sex Criminals #6: Coming On'
 summary: After their narrow getaway from the Sex Police, Jon and Suzie are learning that this is “just the tip” of a massive
   iceberg. And what happens after the rush of…
 date: '2018-08-20T23:59:56'
@@ -13,7 +13,7 @@ tags:
 - Adultos
 - Humor
 toc: false
-id: 351
+id: 349
 autores:
 - Matt Fraction
 - Chip Zdarsky

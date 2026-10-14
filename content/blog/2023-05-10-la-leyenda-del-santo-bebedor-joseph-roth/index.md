@@ -1,5 +1,5 @@
 ---
-title: '#592 · La leyenda del Santo Bebedor'
+title: '#589 · La leyenda del Santo Bebedor'
 summary: La leyenda del Santo Bebedor, fue publicada por primera vez en 1939, pocos meses después de la muerte de Roth, exiliado
   en París, y puede ser considerada, por…
 date: '2023-05-10T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Novella
 - Alemania
 toc: false
-id: 592
+id: 589
 autores:
 - Joseph Roth
 - Michael Faber Kaiser

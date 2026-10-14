@@ -1,5 +1,5 @@
 ---
-title: '#446 · El Japón de los perros'
+title: '#444 · El Japón de los perros'
 summary: Desde Ryūnosuke Akutagawa, maestro indiscutible del relato breve, al premio nobel Kenzaburo Ōe; desde la irreverencia
   de Yasutaka Tsutsui a las novísimas voces…
 date: '2020-11-08T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - Relatos
 toc: false
-id: 446
+id: 444
 autores:
 - Kenzaburō Ōe
 - Yōko Tawada

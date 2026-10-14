@@ -1,5 +1,5 @@
 ---
-title: '#391 · Anatomía de las distancias cortas'
+title: '#389 · Anatomía de las distancias cortas'
 summary: "Una espléndida colección de cuentos que convierte la vida cotidiana en pura literatura.\r\n\r\n«No parecía que hubiera\
   \ desacuerdo entre ellos, pero algo raro debía…"
 date: '2019-05-15T23:59:59'
@@ -12,7 +12,7 @@ tags:
 - Relatos
 - Contemporaneo
 toc: false
-id: 391
+id: 389
 autores:
 - Marta Orriols
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#492 · Sara'
+title: '#490 · Sara'
 summary: 1942. La Rusia ocupada por los Nazis. Lucha duro. Dispara a matar. No dejes que te atrapen con vida. Sigue a un equipo
   de francotiradoras rusas mientras…
 date: '2021-09-23T23:59:58'
@@ -15,7 +15,7 @@ tags:
 - Rusia
 - Segunda guerra mundial
 toc: false
-id: 492
+id: 490
 autores:
 - Garth Ennis
 - Steve Epting

@@ -1,7 +1,7 @@
 ---
-title: '#654 · Bailando sobre la tumba'
-summary: 1st edn. 8vo. Original gilt lettered blue cloth (a few faint spots on fore-edge - otherwise VG), dustwrapper (light
-  wear at edges - in protective cover). Pp…
+title: '#651 · Bailando sobre la tumba'
+summary: La muerte, en la cultura occidental, es objeto de comentarios avergonzados y comprensiones tácitas, en unos casos,
+  o de una violencia orgiástica, en otros. En…
 date: '2024-06-10T23:59:59'
 authors:
 - roof77
@@ -12,7 +12,7 @@ tags:
 - No Ficción
 - Muerte
 toc: false
-id: 654
+id: 651
 autores:
 - Nigel Barley
 - Federico Corriente
@@ -29,7 +29,7 @@ nota: Muy bien
 
 ## Sinopsis
 
-1st edn. 8vo. Original gilt lettered blue cloth (a few faint spots on fore-edge - otherwise VG), dustwrapper (light wear at edges - in protective cover). Pp. ix + 240, with b&w plates (no inscriptions).
+La muerte, en la cultura occidental, es objeto de comentarios avergonzados y comprensiones tácitas, en unos casos, o de una violencia orgiástica, en otros. En nuestra sociedad, tan amiga de la fotografía, la última escena del álbum familiar, el entierro, siempre falta. Al parecer, la muerte nos anonada y somos incapaces de comprender su universalidad. En cambio, los torajan, una tribu de Indonesia, utilizan a sus muertos a modo de cómodos estantes para guardar sus casetes. Nigel Barley, al explorar con ingenio y una visión muy personal la sorprendente variedad de maneras en que diferentes culturas responden a la muerte y le dan sentido, nos guía por campos tan diversos como los mitos relacionados con la muerte, las creencias acerca de los duelos, los banquetes funerarios llenos de alegría, los vídeos de las autopsias, el canibalismo, la caza de cabezas y los ritos mortuorios de la realeza. Bailando sobre la tumba, que no es un libro morboso, sino que ofrece una profunda fuente de inspiración, nos da una fascinante muestra de la diversidad de las reacciones humanas ante el problema de la muerte.
 
 ## Ficha del libro
 

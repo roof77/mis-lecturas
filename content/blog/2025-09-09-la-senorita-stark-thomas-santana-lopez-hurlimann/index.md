@@ -1,5 +1,5 @@
 ---
-title: '#770 · La señorita Stark'
+title: '#769 · La señorita Stark'
 summary: Rare book
 date: '2025-09-09T23:59:59'
 authors:
@@ -8,7 +8,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 770
+id: 769
 autores:
 - Thomas / Santana López Hürlimann
 autores_stats:

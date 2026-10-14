@@ -1,8 +1,8 @@
 ---
-title: '#849 · El maestro y Margarita'
+title: '#846 · El maestro y Margarita'
 summary: Una tarde de primavera, el Diablo sale de las sombras hacia Moscú arrastrando el fuego y el caos con él. La sátira
   fantástica, divertida y devastadora de la…
-date: '2026-05-25T23:59:59'
+date: '2026-05-25T23:59:56'
 authors:
 - roof77
 tags:
@@ -19,7 +19,7 @@ tags:
 - Club de lectura
 - Ficción histórica
 toc: false
-id: 849
+id: 846
 autores:
 - Mikhail Bulgakov
 - Marta Rebón

@@ -1,5 +1,5 @@
 ---
-title: '#748 · Pereza'
+title: '#747 · Pereza'
 summary: Troubled teenager Miguel Serra becomes a walking urban legend after he wills himself into a coma and wakes up one
   year later virtually unchanged - except for…
 date: '2025-05-24T23:59:59'
@@ -14,7 +14,7 @@ tags:
 - Jovenes adultos
 - Adultos
 toc: false
-id: 748
+id: 747
 autores:
 - Gilbert Hernández
 autores_stats:

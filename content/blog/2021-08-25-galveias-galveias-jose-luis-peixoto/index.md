@@ -1,5 +1,5 @@
 ---
-title: '#483 · Galveias / Galveias'
+title: '#481 · Galveias / Galveias'
 summary: "Una preciosa novela sobre el espíritu y la vida de la gente que habita en la pequeña localidad portuguesa de Galveias,\
   \ al norte de Alentejo.\r\n\r\nUna noche de…"
 date: '2021-08-25T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Novela
 - Contemporaneo
 toc: false
-id: 483
+id: 481
 autores:
 - José Luís Peixoto
 autores_stats:

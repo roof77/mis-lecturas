@@ -1,5 +1,5 @@
 ---
-title: '#382 · Los niños'
+title: '#380 · Los niños'
 summary: Martin Boyne, «un individuo crítico y cauto de cuarenta y seis años a quien dificilmente alguien asociaba con sucesos
   románticos e inesperados», ha decidido…
 date: '2019-03-20T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Autoras
 - Romance
 toc: false
-id: 382
+id: 380
 autores:
 - Edith Wharton
 autores_stats:

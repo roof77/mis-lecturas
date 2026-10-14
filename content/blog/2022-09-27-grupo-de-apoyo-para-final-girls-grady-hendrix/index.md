@@ -1,5 +1,5 @@
 ---
-title: '#563 · Grupo de apoyo para final girls'
+title: '#561 · Grupo de apoyo para final girls'
 summary: "La terrorífica novela de una de las voces más consolidadas del género, Grady Hendrix. \n\nEn las películas de miedo,\
   \ las Final Girls son las que han quedado con…"
 date: '2022-09-27T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Contemporaneo
 - Suspense
 toc: false
-id: 563
+id: 561
 autores:
 - Grady Hendrix
 - Víctor Manuel García de Isusi

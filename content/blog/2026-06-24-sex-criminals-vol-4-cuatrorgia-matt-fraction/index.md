@@ -1,8 +1,8 @@
 ---
-title: '#872 · Sex Criminals, Vol. 4: Cuatrorgia'
+title: '#873 · Sex Criminals, Vol. 4: Cuatrorgia'
 summary: Ahora que Suzie y Jon no están solos en su cruzada contra la Policía del Sexo parece un buen momento para hacer planes
   juntos. Pero comportarse como una pareja…
-date: '2026-06-24T23:59:56'
+date: '2026-06-24T23:59:57'
 authors:
 - roof77
 tags:
@@ -16,7 +16,7 @@ tags:
 - Romance
 - Adultos
 toc: false
-id: 872
+id: 873
 autores:
 - Matt Fraction
 - Chip Zdarsky

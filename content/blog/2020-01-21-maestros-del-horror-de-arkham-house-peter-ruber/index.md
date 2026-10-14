@@ -1,5 +1,5 @@
 ---
-title: '#419 · Maestros del horror de Arkham House'
+title: '#417 · Maestros del horror de Arkham House'
 summary: '"Maestros del horror de Arkham House" es una antología conmemorativa de los sesenta años de la mítica editorial
   norteamericana especializada en literatura…'
 date: '2020-01-21T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Ficción extraña
 - Lovecraftiano
 toc: false
-id: 419
+id: 417
 autores:
 - Peter Ruber
 - Arthur J. Burks

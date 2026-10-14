@@ -1,5 +1,5 @@
 ---
-title: '#723 · Barrio lejano - Tomo 1'
+title: '#722 · Barrio lejano - Tomo 1'
 summary: "Estoy soñando... ¿o qué?\r\n¿Quién no ha soñado con regresar a la infancia? Es lo que le pasa a este hombre maduro\
   \ que, a la vuelta de un viaje de negocios, da…"
 date: '2025-03-19T23:59:58'
@@ -16,7 +16,7 @@ tags:
 - Literatura japanesa
 - Seinen manga
 toc: false
-id: 723
+id: 722
 autores:
 - Jirō Taniguchi
 autores_stats:

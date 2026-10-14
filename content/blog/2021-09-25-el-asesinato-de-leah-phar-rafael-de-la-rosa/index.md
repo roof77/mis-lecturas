@@ -1,5 +1,5 @@
 ---
-title: '#494 · El asesinato de Leah Phar'
+title: '#492 · El asesinato de Leah Phar'
 summary: Todos nos hemos preguntado cómo será nuestra muerte. Cuándo ocurrirá, dónde. Y nuestra imaginación ha divagado entre
   mil posibilidades, desde las más pacíficas…
 date: '2021-09-25T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - Terror
 toc: false
-id: 494
+id: 492
 autores:
 - Rafael de la Rosa
 - Juan Alberto Hernández

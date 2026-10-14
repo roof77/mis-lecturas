@@ -1,5 +1,5 @@
 ---
-title: '#562 · El método Bullet Journal'
+title: '#560 · El método Bullet Journal'
 summary: "De la mano de su crreador, el método que ha cambiado la vida de millones de personas en todo el mundo\r\n\r\nComo\
   \ la mayoría de nosotros, Ryder Carroll trató por…"
 date: '2022-09-20T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Psicología
 - Escritura
 toc: false
-id: 562
+id: 560
 autores:
 - Ryder Carroll
 - Gemma Moraleda Díaz

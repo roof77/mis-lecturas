@@ -1,5 +1,5 @@
 ---
-title: '#377 · El vivo'
+title: '#375 · El vivo'
 summary: El mundo tal y como lo conocemos ha llegado a su fin. Después de la Gran Reducción, la población de la Tierra se
   mantiene fija en tres billones de habitantes…
 date: '2019-02-19T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Terror
 - Ficción especulativa
 toc: false
-id: 377
+id: 375
 autores:
 - Anna Starobinets
 - Raquel Marqués García

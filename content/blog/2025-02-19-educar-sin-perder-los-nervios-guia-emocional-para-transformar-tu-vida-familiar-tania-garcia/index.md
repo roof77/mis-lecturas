@@ -1,5 +1,5 @@
 ---
-title: '#711 · Educar sin perder los nervios: Guía emocional para transformar tu vida familiar'
+title: '#710 · Educar sin perder los nervios: Guía emocional para transformar tu vida familiar'
 summary: 'La guía emocional para transformar tu vida familiar con respeto y empatía.
 
 
@@ -12,7 +12,7 @@ tags:
 - Libros
 - Paternidad
 toc: false
-id: 711
+id: 710
 autores:
 - Tania García
 autores_stats:

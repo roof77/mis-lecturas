@@ -1,5 +1,5 @@
 ---
-title: '#272 · Todos nuestros presentes equivocados'
+title: '#271 · Todos nuestros presentes equivocados'
 summary: Tom Barren vive en un 2016 utópico de coches voladores, aceras móviles y bases en la luna, en el que los aguacates
   no se estropean y el punk nunca ha…
 date: '2017-10-14T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Distopía
 - Ficción especulativa
 toc: false
-id: 272
+id: 271
 autores:
 - Elan Mastai
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#388 · El aliado'
+title: '#386 · El aliado'
 summary: Al conocer a una importante activista del movimiento feminista, el protagonista de esta novela, un hombre contemporáneo
   que se considera igualitario, se da…
 date: '2019-04-29T23:59:59'
@@ -12,7 +12,7 @@ tags:
 - Feminismo
 - Humor
 toc: false
-id: 388
+id: 386
 autores:
 - Iván Repila
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#656 · Maison Ikkoku tomo 4'
+title: '#653 · Maison Ikkoku tomo 4'
 summary: "Tomo 4 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-06-16T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Seinen manga
 - Slice of life
 toc: false
-id: 656
+id: 653
 autores:
 - Rumiko Takahashi
 autores_stats:

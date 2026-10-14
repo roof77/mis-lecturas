@@ -1,5 +1,5 @@
 ---
-title: '#326 · Productividad personal en una semana'
+title: '#324 · Productividad personal en una semana'
 summary: Para alcanzar nuestras metas profesionales y personales debemos desear realmente mejorar nuestra forma de trabajar,
   aumentar el grado de control sobre lo que…
 date: '2018-07-30T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 326
+id: 324
 autores:
 - Jerónimo Sánchez
 autores_stats:

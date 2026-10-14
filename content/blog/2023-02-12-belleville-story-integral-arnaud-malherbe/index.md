@@ -1,5 +1,5 @@
 ---
-title: '#578 · Belleville Story. Integral'
+title: '#575 · Belleville Story. Integral'
 summary: "UN THRILLER DE ACCIÓN QUE RETRATA LA PARTE MÁS OSCURA DEL BARRIO DE BELLEVILLE \r\n\r\nBelleville Story es un thriller\
   \ de acción ambientado en las populares calles…"
 date: '2023-02-12T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 578
+id: 575
 autores:
 - Arnaud Malherbe
 autores_stats:

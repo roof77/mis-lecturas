@@ -1,5 +1,5 @@
 ---
-title: '#529 · Las chicas no lloran'
+title: '#527 · Las chicas no lloran'
 summary: Despúes de un asado familiar, a la hora de viscosa de la siesta, una chica y su novio se escapan para ir a un telo.
   Después del sexo se mira  en el techo…
 date: '2022-03-31T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 529
+id: 527
 autores:
 - Olivia Gallo
 autores_stats:

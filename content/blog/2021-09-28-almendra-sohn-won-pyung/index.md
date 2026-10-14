@@ -1,5 +1,5 @@
 ---
-title: '#496 · Almendra'
+title: '#494 · Almendra'
 summary: "Almendra es una historia sobre crecer, descubrirse a uno mismo y aceptar que la ayuda no siempre viene por donde\
   \ la esperamos. \r\n\r\nYunjae tiene dieciséis años…"
 date: '2021-09-28T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ásia
 - Club de lectura
 toc: false
-id: 496
+id: 494
 autores:
 - Sohn Won-Pyung
 - Sunme Yoon

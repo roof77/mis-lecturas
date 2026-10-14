@@ -1,15 +1,15 @@
 ---
-title: '#875 · La cantina de medianoche 9'
+title: '#872 · La cantina de medianoche 9'
 summary: “El local abre desde las doce de la noche hasta las siete de la madrugada. Lo conocen como ‘la cantina de medianoche’.
   En la carta solo hay caldo de cerdo…
-date: '2026-06-24T23:59:59'
+date: '2026-06-24T23:59:56'
 authors:
 - roof77
 tags:
 - Lecturas
 - Comics
 toc: false
-id: 875
+id: 872
 autores:
 - Yarō Abe
 - Alberto K. Fonseca Sakai

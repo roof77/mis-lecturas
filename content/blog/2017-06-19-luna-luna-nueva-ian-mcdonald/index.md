@@ -1,5 +1,5 @@
 ---
-title: '#252 · Luna: Luna nueva'
+title: '#251 · Luna: Luna nueva'
 summary: "LA LUNA QUIERE MATARTE. Y TIENE MIL FORMAS DE CONSEGUIRLO.\r\n\r\nLa gélida acritud del vacío. La letal lluvia radiactiva.\
   \ El polvo que la recubre, tan viejo como…"
 date: '2017-06-19T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Ciencia Ficción
 - Adultos
 toc: false
-id: 252
+id: 251
 autores:
 - Ian McDonald
 - José Heisenberg

@@ -1,5 +1,5 @@
 ---
-title: '#672 · Akira, No. 6'
+title: '#669 · Akira, No. 6'
 summary: The explosive finale to one of graphic fiction's greatest achievements is here! The mad psychic colossus Tetsuo,
   the world's military, and the remaining…
 date: '2024-07-21T23:59:58'
@@ -17,7 +17,7 @@ tags:
 - Literatura japanesa
 - Distopía
 toc: false
-id: 672
+id: 669
 autores:
 - Katsuhiro Otomo
 - Steve Oliff

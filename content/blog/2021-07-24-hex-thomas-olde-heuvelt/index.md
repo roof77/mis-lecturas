@@ -1,5 +1,5 @@
 ---
-title: '#473 · Hex'
+title: '#471 · Hex'
 summary: 'Bienvenido a Black Spring, una población pintoresca con un macabro secreto: una mujer recorre las calles con la
   boca y los ojos cosidos, entra en los hogares y…'
 date: '2021-07-24T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Misterio
 - Adultos
 toc: false
-id: 473
+id: 471
 autores:
 - Thomas Olde Heuvelt
 - Ana Isabel Sánchez Díez

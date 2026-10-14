@@ -1,5 +1,5 @@
 ---
-title: '#439 · Utopía para realistas'
+title: '#437 · Utopía para realistas'
 summary: Fruto del espectacular avance de la ciencia en los últimos decenios, la globalización está transformando de forma
   radical el orden social y económico del siglo…
 date: '2020-07-19T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ciencia
 - Negocios
 toc: false
-id: 439
+id: 437
 autores:
 - Rutger Bregman
 autores_stats:

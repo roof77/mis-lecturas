@@ -1,5 +1,5 @@
 ---
-title: '#474 · Sostiene Pereira'
+title: '#472 · Sostiene Pereira'
 summary: "ISBN 9788433966322 moved to this edition.\r\n\r\nLisboa, 1938. \r\nEn una Europa recorrida por el fantasma de los\
   \ totalitarismos, Pereira, un periodista dedicado…"
 date: '2021-07-26T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura
 - Histórico
 toc: false
-id: 474
+id: 472
 autores:
 - Antonio Tabucchi
 - Carlos Gumpert

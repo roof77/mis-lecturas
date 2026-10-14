@@ -1,5 +1,5 @@
 ---
-title: '#292 · El corazón es un cazador solitario'
+title: '#291 · El corazón es un cazador solitario'
 summary: Estamos en una ciudad provinciana del sur de los Estados Unidos en el primer tercio del siglo. Por el Café New York,
   regentado por Biff, van pasando hombres y…
 date: '2018-02-07T23:59:58'
@@ -19,7 +19,7 @@ tags:
 - EEUU
 - Sureño
 toc: false
-id: 292
+id: 291
 autores:
 - Carson McCullers
 - Rosa María Bassols Camarasa

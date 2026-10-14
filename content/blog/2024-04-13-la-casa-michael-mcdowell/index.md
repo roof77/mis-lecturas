@@ -1,5 +1,5 @@
 ---
-title: '#636 · La casa'
+title: '#633 · La casa'
 summary: "Perdido, 1928. \r\nEl clan Caskey se desmorona con la cruenta guerra personal entre Mary-Love y Elinor. En los recovecos\
   \ del caserón donde viven Elinor y Oscar…"
 date: '2024-04-13T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Thriller
 - Gótico sureño
 toc: false
-id: 636
+id: 633
 autores:
 - Michael McDowell
 - Carles Andreu

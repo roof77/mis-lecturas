@@ -1,5 +1,5 @@
 ---
-title: '#618 · Mi corazón es una motosierra'
+title: '#615 · Mi corazón es una motosierra'
 summary: Jade Daniels es una adolescente fanática de los slashers que vive en Proofrock, Idaho, un pueblo situado al lado
   del lago Indian. En la otra orilla del lago se…
 date: '2024-02-04T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Índigenas
 - Contemporaneo
 toc: false
-id: 618
+id: 615
 autores:
 - Stephen Graham Jones
 - Manuel de los Reyes

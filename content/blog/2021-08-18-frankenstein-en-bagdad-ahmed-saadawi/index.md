@@ -1,5 +1,5 @@
 ---
-title: '#482 · Frankenstein en Bagdad'
+title: '#480 · Frankenstein en Bagdad'
 summary: Después de la segunda guerra de Irak, en el Bagdad todavía ocupado por las tropas estadounidenses, un trapero decide
   recolectar algunos de los restos humanos…
 date: '2021-08-18T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Ciencia ficción
 - Guerra
 toc: false
-id: 482
+id: 480
 autores:
 - Ahmed Saadawi
 - Anna Gil Bardají

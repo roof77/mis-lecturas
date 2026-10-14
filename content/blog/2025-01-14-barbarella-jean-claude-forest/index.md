@@ -1,5 +1,5 @@
 ---
-title: '#696 · Barbarella'
+title: '#694 · Barbarella'
 summary: Viene de otro lugar, de otro tiempo, y salta de un planeta a otro, de unos brazos a otros, huyendo del pasado y entregándose
   al destino. Dueña de su desnudez y…
 date: '2025-01-14T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Fantasía
 - Romance
 toc: false
-id: 696
+id: 694
 autores:
 - Jean-Claude Forest
 autores_stats:

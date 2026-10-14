@@ -1,5 +1,5 @@
 ---
-title: '#395 · Cambiar de idea'
+title: '#393 · Cambiar de idea'
 summary: «He tardado diez años de lecturas, y fiestas, y conversaciones con las mejores mentes de mi época en entender que
   el avatar de hombre es el traje nuevo del…
 date: '2019-06-25T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - España
 - Mujeres
 toc: false
-id: 395
+id: 393
 autores:
 - Aixa de la Cruz
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#744 · Tiempo de canicas'
+title: '#743 · Tiempo de canicas'
 summary: Huey, su hermano Junior y el pequeño Chavo son el trío protagonista de estas páginas en las que un grupo de niños
   se preguntan si un día les gustará ser…
 date: '2025-05-17T23:59:58'
@@ -14,7 +14,7 @@ tags:
 - Familia
 - Niños
 toc: false
-id: 744
+id: 743
 autores:
 - Gilbert Hernández
 autores_stats:

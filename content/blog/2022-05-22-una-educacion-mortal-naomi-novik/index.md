@@ -1,5 +1,5 @@
 ---
-title: '#540 · Una Educacion Mortal'
+title: '#538 · Una Educacion Mortal'
 summary: "Entra en una escuela de magia diferente a cualquiera que hayas conocido antes. \r\nEn ella no hay profesores ni\
   \ vacaciones, las amistades son pura estrategia y…"
 date: '2022-05-22T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Fantasía urbana
 - Romance
 toc: false
-id: 540
+id: 538
 autores:
 - Naomi Novik
 - Patricia Sebastián Hernández

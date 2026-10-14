@@ -1,5 +1,5 @@
 ---
-title: '#450 · Dime una adivinanza'
+title: '#448 · Dime una adivinanza'
 summary: Dime una adivinanza está considerado, con justicia, un verdadero clásico de la literatura norteamericana. Un libro
   que explora algunos de los temas…
 date: '2020-12-26T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción Literaria
 - Siglo XX
 toc: false
-id: 450
+id: 448
 autores:
 - Tillie Olsen
 - Blanca Gago Domínguez

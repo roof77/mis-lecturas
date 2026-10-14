@@ -1,5 +1,5 @@
 ---
-title: '#750 · Sky Doll: Decade 00>10'
+title: '#749 · Sky Doll: Decade 00>10'
 summary: "UNA MAGNÍFICA EDICIÓN PARA UN CÓMIC QUE HA MARCADO ÉPOCA.\r\n\r\nÚnica, vibrante, controvertida, SkyDoll nació en\
   \ el año 2000. La innovadora serie creada por…"
 date: '2025-05-30T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Ficción
 - Space Opera
 toc: false
-id: 750
+id: 749
 autores:
 - Alessandro Barbucci
 - Barbara Canepa

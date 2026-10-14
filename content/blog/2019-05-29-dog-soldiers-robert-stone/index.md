@@ -1,5 +1,5 @@
 ---
-title: '#392 · Dog Soldiers'
+title: '#390 · Dog Soldiers'
 summary: Con un estilo que algunos han calificado de «realismo alucinatorio», Dog Soldiers nos lleva a Saigón en los últimos
   días de la guerra de Vietnam. Allí…
 date: '2019-05-29T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Thriller
 - Ficción Literaria
 toc: false
-id: 392
+id: 390
 autores:
 - Robert Stone
 - Rodrigo Fresán

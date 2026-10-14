@@ -1,15 +1,15 @@
 ---
-title: '#846 · Odio Integral Vol. 6'
+title: '#847 · Odio Integral Vol. 6'
 summary: ¡La vida sigue igual! Lisa siempre estuvo de la olla y, en contra de todo pronóstico (¡ja!), la vida marital parece
   ser un estupendo caldo de cultivo para sus…
-date: '2026-05-25T23:59:56'
+date: '2026-05-25T23:59:57'
 authors:
 - roof77
 tags:
 - Lecturas
 - Comics
 toc: false
-id: 846
+id: 847
 autores:
 - Peter Bagge
 autores_stats:

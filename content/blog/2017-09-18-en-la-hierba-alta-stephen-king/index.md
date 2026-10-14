@@ -1,5 +1,5 @@
 ---
-title: '#267 · En la hierba alta'
+title: '#266 · En la hierba alta'
 summary: Dos hermanos que viajan en coche por la Ruta 73 deciden parar a descansar un rato cuando, de repente, oyen unos gritos
   de auxilio de un niño perdido entre la…
 date: '2017-09-18T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Adultos
 - Paranormal
 toc: false
-id: 267
+id: 266
 autores:
 - Stephen King
 - Joe Hill

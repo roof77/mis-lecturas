@@ -1,5 +1,5 @@
 ---
-title: '#297 · Y ahora, lo importante'
+title: '#296 · Y ahora, lo importante'
 summary: Bienvenidos a los diarios de Beatriz, una madrileña que ha cumplido 14 años en 1992. Beatriz es buena estudiante,
   sin que eso le impida salir los fines de…
 date: '2018-03-06T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 297
+id: 296
 autores:
 - Beatriz Navas Valdés
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#502 · Meddling Kids'
+title: '#500 · Meddling Kids'
 summary: .Un original viaje nostálgico con guiños a Lovecraft, Los Cinco o Scooby Doo, Meddling Kids es un divertido homenaje
   al terror, la amistad y las aventuras de…
 date: '2021-10-15T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Thriller
 - LGTBIQ+
 toc: false
-id: 502
+id: 500
 autores:
 - Edgar Cantero
 - Christian Rodriguez

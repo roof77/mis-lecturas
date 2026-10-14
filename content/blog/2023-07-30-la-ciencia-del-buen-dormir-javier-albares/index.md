@@ -1,5 +1,5 @@
 ---
-title: '#596 · La ciencia del buen dormir'
+title: '#593 · La ciencia del buen dormir'
 summary: Dormir bien es vivir mejor, con más energía, felicidad, creatividad y empatía. El sueño es uno de los pilares de
   nuestra salud y, sin embargo, es el más…
 date: '2023-07-30T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - Salud
 - No Ficción
 toc: false
-id: 596
+id: 593
 autores:
 - Javier Albares
 autores_stats:

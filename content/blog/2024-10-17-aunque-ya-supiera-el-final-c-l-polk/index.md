@@ -1,5 +1,5 @@
 ---
-title: '#687 · Aunque ya supiera el final'
+title: '#685 · Aunque ya supiera el final'
 summary: Ganadora del premio Nebula y finalista de los premios Locus, Hugo, Ignyte y World Fantasy. En el Chicago de los años
   40 tienen cabida los pactos demoníacos…
 date: '2024-10-17T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Histórico
 - Ficción
 toc: false
-id: 687
+id: 685
 autores:
 - C.L. Polk
 - Carla Bataller Estruch

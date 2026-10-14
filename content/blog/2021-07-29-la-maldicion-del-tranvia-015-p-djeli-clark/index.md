@@ -1,5 +1,5 @@
 ---
-title: '#475 · La maldición del tranvía 015'
+title: '#473 · La maldición del tranvía 015'
 summary: "Año: 1912\r\nCiudad: El Cairo \r\n\r\nLa maldición de un tranvía aéreo parece un caso simple para el agente Hamed,\
   \ pero con un presupuesto casi inexistente y un…"
 date: '2021-07-29T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Fantasía urbana
 - Ucronía
 toc: false
-id: 475
+id: 473
 autores:
 - P. Djèlí Clark
 - Rebeca Cardeñoso

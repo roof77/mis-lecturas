@@ -1,5 +1,5 @@
 ---
-title: '#624 · MANIAC'
+title: '#621 · MANIAC'
 summary: "Un tríptico del siglo XX. \r\n\r\nEl primero es Paul Ehrenfest, físico austriaco, amigo de Einstein y con una vida\
   \ privada tormentosa. Temeroso por el destino de…"
 date: '2024-02-29T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Física
 - Inteligencia artificial
 toc: false
-id: 624
+id: 621
 autores:
 - Benjamín Labatut
 autores_stats:

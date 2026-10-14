@@ -1,5 +1,5 @@
 ---
-title: '#279 · Relojes de hueso'
+title: '#278 · Relojes de hueso'
 summary: Después de una pelea con su madre, Holly huye de su hogar. Mientras se adentra en la campiña inglesa, una extraña
   se cruza en su camino y le solicita «asilo»…
 date: '2017-12-08T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Misterio
 - Distopía
 toc: false
-id: 279
+id: 278
 autores:
 - David Mitchell
 - Laura Salas Rodríguez

@@ -1,5 +1,5 @@
 ---
-title: '#537 · Nuestro hombre en la Habana: Un entretenimiento'
+title: '#535 · Nuestro hombre en la Habana: Un entretenimiento'
 summary: En la vasta obra narrativa de GRAHAM GREENE (1904-1991) figuran varios relatos que, catalogados por el autor como
   entretenimientos, se cuentan entre sus…
 date: '2022-05-13T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Club de lectura
 - Literatura británica
 toc: false
-id: 537
+id: 535
 autores:
 - Graham Greene
 - Ana Goldar

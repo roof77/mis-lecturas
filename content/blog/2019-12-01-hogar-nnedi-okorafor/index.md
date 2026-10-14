@@ -1,5 +1,5 @@
 ---
-title: '#416 · Hogar'
+title: '#414 · Hogar'
 summary: '"Binti: Hogar" es la segunda parte de esta emocionante trilogía. Binti y Okwu llevan un año en la Universidad Oomza.
   Un año desde que Binti consiguiera la…'
 date: '2019-12-01T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Extraterrestres
 - Ficción especulativa
 toc: false
-id: 416
+id: 414
 autores:
 - Nnedi Okorafor
 - Carla Bataller Estruch

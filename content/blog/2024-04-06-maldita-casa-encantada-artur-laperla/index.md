@@ -1,5 +1,5 @@
 ---
-title: '#634 · Maldita casa encantada'
+title: '#631 · Maldita casa encantada'
 summary: Bienvenido a la maldita casa encantada, donde sabes cuándo entras pero no cuándo sales ¿Te atreves a enfrentarte
   a muertos vivientes, vampiros, fantasmas y…
 date: '2024-04-06T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 634
+id: 631
 autores:
 - Artur Laperla
 autores_stats:

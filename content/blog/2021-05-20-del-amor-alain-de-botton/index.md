@@ -1,5 +1,5 @@
 ---
-title: '#462 · Del Amor'
+title: '#460 · Del Amor'
 summary: Todo empieza con un primer encuentro en un avión; ella se llama Chloe y tiene los ojos verdes. Él es muy tímido,
   un romántico con excesiva tendencia a…
 date: '2021-05-20T23:59:58'
@@ -19,7 +19,7 @@ tags:
 - Novela
 - Autoayuda
 toc: false
-id: 462
+id: 460
 autores:
 - Alain de Botton
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#616 · Caramelo ácido'
+title: '#613 · Caramelo ácido'
 summary: "\"Cuatro meses después de su primer encuentro con el niño en Walmart, a Phil Pendleton se le cayó el último diente\"\
   .\r\n\r\nA primera vista, cualquiera diría que…"
 date: '2024-01-19T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Paranormal
 - Fantasía
 toc: false
-id: 616
+id: 613
 autores:
 - Kealan Patrick Burke
 autores_stats:

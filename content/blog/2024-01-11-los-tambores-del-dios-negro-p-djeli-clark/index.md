@@ -1,5 +1,5 @@
 ---
-title: '#614 · Los Tambores del Dios Negro'
+title: '#611 · Los Tambores del Dios Negro'
 summary: Trepadora quiere abandonar las calles de Nueva Orleans, donde ha vivido largo tiempo sola, luchando por sobrevivir.
   Desea levantar el vuelo, y, para lograrlo…
 date: '2024-01-11T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Histórico
 - Adultos
 toc: false
-id: 614
+id: 611
 autores:
 - P. Djèlí Clark
 - Raúl García Campos

@@ -1,5 +1,5 @@
 ---
-title: '#356 · Justicia auxiliar'
+title: '#354 · Justicia auxiliar'
 summary: En un planeta helado y remoto, una soldado llamada Breq se está acercando al cumplimiento de su misión. En el pasado,
   Breq era Justicia de Toren, una crucero…
 date: '2018-08-28T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Ficción especulativa
 toc: false
-id: 356
+id: 354
 autores:
 - Ann Leckie
 - Victoria Morera García

@@ -1,5 +1,5 @@
 ---
-title: '#673 · Akira, No. 5'
+title: '#670 · Akira, No. 5'
 summary: Neo-Tokio yace en ruinas. De los escombros ha surgido un imperio poblado por fanáticos que adoran y temen al poderoso
   Akira por igual. El mundo no está tomando…
 date: '2024-07-21T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Distopía
 - Literatura japanesa
 toc: false
-id: 673
+id: 670
 autores:
 - Katsuhiro Otomo
 - Steve Oliff

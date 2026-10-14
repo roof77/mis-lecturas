@@ -1,5 +1,5 @@
 ---
-title: '#366 · Relojes de sangre'
+title: '#364 · Relojes de sangre'
 summary: En esta feroz e imaginativa novela el aborto es, una vez más, ilegal en Estados Unidos, la fertilización in vitro
   está prohibida y la Emmienda de Humanidad da…
 date: '2018-11-24T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Ficción Literaria
 toc: false
-id: 366
+id: 364
 autores:
 - Leni Zumas
 - Mariana Hernández Cruz

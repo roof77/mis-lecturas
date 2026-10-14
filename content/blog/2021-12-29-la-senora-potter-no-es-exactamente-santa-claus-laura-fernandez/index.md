@@ -1,5 +1,5 @@
 ---
-title: '#512 · La señora Potter no es exactamente Santa Claus'
+title: '#510 · La señora Potter no es exactamente Santa Claus'
 summary: La fama de la desapacible Kimberly Clark Weymouth, una pequeña ciudad eternamente aquejada por heladas ventiscas
   y mucha nieve, y donde Louise Feldman ambientó…
 date: '2021-12-29T23:59:59'
@@ -12,7 +12,7 @@ tags:
 - Humor
 - Novela
 toc: false
-id: 512
+id: 510
 autores:
 - Laura Fernández
 autores_stats:

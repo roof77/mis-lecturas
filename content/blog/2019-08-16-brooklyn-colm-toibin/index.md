@@ -1,5 +1,5 @@
 ---
-title: '#401 · Brooklyn'
+title: '#399 · Brooklyn'
 summary: Ellis Lacey, original de un pequeño pueblo de Irlanda, no duda en aceptar un trabajo en América. Se abre paso en
   Brooklyn, superando la nostalgia y los rigores…
 date: '2019-08-16T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Nueva York
 - Ficción Literaria
 toc: false
-id: 401
+id: 399
 autores:
 - Colm Tóibín
 - Ana Andres Lleo

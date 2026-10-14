@@ -1,5 +1,5 @@
 ---
-title: '#735 · Yo, mentiroso'
+title: '#734 · Yo, mentiroso'
 summary: Las cabezas de tres dirigentes políticos aparecen encapsuladas en sendos orbes de vidrio. Todo apunta a una venganza
   política, ya que los cadáveres pertenecen…
 date: '2025-04-15T23:59:59'
@@ -12,7 +12,7 @@ tags:
 - Thriller
 - España
 toc: false
-id: 735
+id: 734
 autores:
 - Antonio Altarriba
 - Keko

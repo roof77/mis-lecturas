@@ -1,5 +1,5 @@
 ---
-title: '#277 · Artemisa'
+title: '#276 · Artemisa'
 summary: "Jazz Bashara es una criminal… O al menos lo parece. \r\n\r\nLa vida en Artemisa, la primera y única ciudad de la\
   \ Luna, es difícil si no eres un turista adinerado o…"
 date: '2017-11-26T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Aventuras
 toc: false
-id: 277
+id: 276
 autores:
 - Andy Weir
 autores_stats:

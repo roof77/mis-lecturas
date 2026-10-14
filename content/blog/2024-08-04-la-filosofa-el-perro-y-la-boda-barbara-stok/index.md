@@ -1,5 +1,5 @@
 ---
-title: '#677 · La filósofa, el perro y la boda'
+title: '#674 · La filósofa, el perro y la boda'
 summary: Una novela gráfica que nos descubre a la brillanteHiparquía, figura imprescindible de la Antigüedad clásica. Una
   celebración del poder y la vigencia de la…
 date: '2024-08-04T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Feminismo
 - Histórico
 toc: false
-id: 677
+id: 674
 autores:
 - Barbara Stok
 autores_stats:

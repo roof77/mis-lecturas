@@ -1,5 +1,5 @@
 ---
-title: '#282 · CloroFilia'
+title: '#281 · CloroFilia'
 summary: ¿Quién es Kirmen? ¿Por qué el joven no se parece a sus padres, ni a su amigos, ni a ninguno de los habitantes del
   Claustro? En el exterior de las cúpulas que…
 date: '2017-12-22T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - Terror
 - Medio Ambiente
 toc: false
-id: 282
+id: 281
 autores:
 - Cristina Jurado
 autores_stats:

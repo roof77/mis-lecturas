@@ -1,5 +1,5 @@
 ---
-title: '#663 · Relatos terroríficos 1'
+title: '#660 · Relatos terroríficos 1'
 summary: Con este tomo iniciamos la colección Relatos terroríficos, destinada a conformar toda una biblioteca integrada por
   las historias que han hecho a Junji Ito…
 date: '2024-07-04T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - Manga
 - Terror
 toc: false
-id: 663
+id: 660
 autores:
 - Junji Ito
 autores_stats:

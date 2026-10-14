@@ -1,5 +1,5 @@
 ---
-title: '#249 · Sin ti no hay nosotros'
+title: '#248 · Sin ti no hay nosotros'
 summary: Estos versos hacen referencia a Kim Jong-­il, Gran General de Corea del Norte, cuyo «ánimo solícito» condujo la nación
   hasta su muerte el 17 de diciembre de…
 date: '2017-05-30T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Club de lectura
 - Viajes
 toc: false
-id: 249
+id: 248
 autores:
 - Suki Kim
 - Pablo Álvarez Ellacuría

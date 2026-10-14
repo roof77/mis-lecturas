@@ -1,5 +1,5 @@
 ---
-title: '#651 · Confesiones de un chef'
+title: '#648 · Confesiones de un chef'
 summary: El cocinero más salvaje, procaz y desarmantemente sincero del planeta cuenta sin pelos en la lengua sus andanzas
   tras los fogones, probando todos los manjares…
 date: '2024-05-27T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Club de lectura
 - Humor
 toc: false
-id: 651
+id: 648
 autores:
 - Anthony Bourdain
 - Carmen Aguilar

@@ -1,5 +1,5 @@
 ---
-title: '#601 · El último graduado'
+title: '#598 · El último graduado'
 summary: El conocimiento otorga protección. Ese es el lema oficial de la Escolomancia. Supongo que podríamos decir que es
   cierto., el problema es que aquí resulta muy…
 date: '2023-09-10T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Fantasía urbana
 - Terror
 toc: false
-id: 601
+id: 598
 autores:
 - Naomi Novik
 - Patricia Sebastián Hernández

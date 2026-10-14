@@ -1,5 +1,5 @@
 ---
-title: '#273 · Pedro Páramo'
+title: '#272 · Pedro Páramo'
 summary: La obra de Juan Rulfo es sin duda la creación literaria mexicana que ha recibido mayor reconocimiento dentro y fuera
   de su país. La novela Pedro Páramo tuvo…
 date: '2017-10-20T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Literatura latinoamericana
 - Siglo XX
 toc: false
-id: 273
+id: 272
 autores:
 - Juan Rulfo
 - Fundación Juan Rulfo

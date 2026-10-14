@@ -1,5 +1,5 @@
 ---
-title: '#721 · Felino maníaco homicida'
+title: '#720 · Felino maníaco homicida'
 summary: Entrega número 3 de este relanzamiento con nuevo diseño de la serie Calvin y Hobbes, uno de los grandes clásicos
   de Ediciones B y del cómic internacional. Un…
 date: '2025-03-16T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - Humor
 - Tiras
 toc: false
-id: 721
+id: 720
 autores:
 - Bill Watterson
 autores_stats:

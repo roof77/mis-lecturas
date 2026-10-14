@@ -1,5 +1,5 @@
 ---
-title: '#668 · Akira, No. 4'
+title: '#665 · Akira, No. 4'
 summary: Tokio se encuentra en un estado post apocalíptico. La respuesta para detener a Akira puede estar en manos de la misteriosa
   Lady Miyako, miembro poderoso de la…
 date: '2024-07-11T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Literatura japanesa
 - Distopía
 toc: false
-id: 668
+id: 665
 autores:
 - Katsuhiro Otomo
 autores_stats:

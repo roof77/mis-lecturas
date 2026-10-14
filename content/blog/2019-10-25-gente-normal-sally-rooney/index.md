@@ -1,5 +1,5 @@
 ---
-title: '#408 · Gente normal'
+title: '#406 · Gente normal'
 summary: Después de Conversaciones entre amigos, Sally Rooney vuelve a deslumbrarnos con una historia sobre la fascinación
   mutua entre dos personas que no consiguen…
 date: '2019-10-25T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Novela
 toc: false
-id: 408
+id: 406
 autores:
 - Sally Rooney
 - Inga Pellisa

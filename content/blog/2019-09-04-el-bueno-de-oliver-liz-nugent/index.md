@@ -1,5 +1,5 @@
 ---
-title: '#404 · El bueno de Oliver'
+title: '#402 · El bueno de Oliver'
 summary: "El hombre perfecto. El monstruo perfecto\r\n\r\nOliver Ryan es la personificación del éxito y el carisma. Vive en\
   \ el mejor barrio residencial de Dublín, los libros…"
 date: '2019-09-04T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Irlanda
 - Club de lectura
 toc: false
-id: 404
+id: 402
 autores:
 - Liz Nugent
 autores_stats:

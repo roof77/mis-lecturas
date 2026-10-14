@@ -1,5 +1,5 @@
 ---
-title: '#371 · Los asquerosos'
+title: '#369 · Los asquerosos'
 summary: Manuel acuchilla a un policía antidisturbios que quería pegarle. Huye. Se esconde en una aldea abandonada. Sobrevive
   de libros Austral, vegetales de los…
 date: '2019-01-08T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Crimen
 - Comedia
 toc: false
-id: 371
+id: 369
 autores:
 - Santiago Lorenzo
 - Guim Tió

@@ -1,5 +1,5 @@
 ---
-title: '#457 · Un verdor terrible'
+title: '#455 · Un verdor terrible'
 summary: "La aventura de la ciencia convertida en literatura. Un libro inclasificable y poderosamente seductor.\r\n\r\nLas\
   \ narraciones incluidas en este libro singular y…"
 date: '2021-04-26T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción Literaria
 - Club de lectura
 toc: false
-id: 457
+id: 455
 autores:
 - Benjamín Labatut
 autores_stats:

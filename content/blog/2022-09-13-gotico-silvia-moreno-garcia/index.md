@@ -1,5 +1,5 @@
 ---
-title: '#560 · Gótico'
+title: '#558 · Gótico'
 summary: "Una novela terroríficamente brillante.\r\nTras recibir una extraña carta de su prima recién casada, Noemí Taboada\
   \ se dirige a High Place, una casa en el campo en…"
 date: '2022-09-13T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Club de lectura
 - Histórico
 toc: false
-id: 560
+id: 558
 autores:
 - Silvia Moreno-Garcia
 - Alexander Páez

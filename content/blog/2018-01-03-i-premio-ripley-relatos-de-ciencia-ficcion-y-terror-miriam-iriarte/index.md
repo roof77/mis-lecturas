@@ -1,5 +1,5 @@
 ---
-title: '#284 · I Premio Ripley: Relatos de ciencia ficción y terror'
+title: '#283 · I Premio Ripley: Relatos de ciencia ficción y terror'
 summary: 'Los viajes hacia futuros inciertos y temores recónditos que proponen los relatos de estas doce autoras inquietan:
   inquietan sus sociedades férreas pero…'
 date: '2018-01-03T23:59:59'
@@ -12,7 +12,7 @@ tags:
 - Terror
 - Relatos
 toc: false
-id: 284
+id: 283
 autores:
 - Miriam Iriarte
 - Alicia Sánchez

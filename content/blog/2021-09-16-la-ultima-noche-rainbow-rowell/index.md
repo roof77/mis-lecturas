@@ -1,5 +1,5 @@
 ---
-title: '#490 · La última noche'
+title: '#488 · La última noche'
 summary: Cada otoño, Deja y Josiah trabajan juntos en la Feria de la Calabaza más alucinante del mundo. Se despiden en Halloween
   y se reúnen el 1 de septiembre del año…
 date: '2021-09-16T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Halloween
 - Queer
 toc: false
-id: 490
+id: 488
 autores:
 - Rainbow Rowell
 - Faith Erin Hicks

@@ -1,5 +1,5 @@
 ---
-title: '#604 · Su cuerpo y otras fiestas'
+title: '#601 · Su cuerpo y otras fiestas'
 summary: Una mujer se niega a permitir que su marido le quite una misteriosa cinta verde que lleva alrededor del cuello; otra
   mujer relata sus encuentros sexuales…
 date: '2023-10-09T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Contemporaneo
 - Adultos
 toc: false
-id: 604
+id: 601
 autores:
 - Carmen Maria Machado
 - Laura Salas Rodríguez

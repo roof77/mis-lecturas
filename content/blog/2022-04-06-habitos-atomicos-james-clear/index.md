@@ -1,5 +1,5 @@
 ---
-title: '#530 · Hábitos atómicos'
+title: '#528 · Hábitos atómicos'
 summary: 'HÁBITOS ATÓMICOS parte de una simple pero poderosa pregunta: ¿Cómo podemos vivir mejor? Sabemos que unos buenos
   hábitos nos permiten mejorar significativamente…'
 date: '2022-04-06T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Liderazgo
 - Salud
 toc: false
-id: 530
+id: 528
 autores:
 - James Clear
 autores_stats:

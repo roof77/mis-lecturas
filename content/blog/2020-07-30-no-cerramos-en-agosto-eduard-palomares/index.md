@@ -1,5 +1,5 @@
 ---
-title: '#441 · No cerramos en agosto'
+title: '#439 · No cerramos en agosto'
 summary: 'Jordi Viassolo consigue un trabajo de becario –temporal y mal pagado– en una agencia de detectives de Barcelona.
   La misión que le encargan es simple: mantener…'
 date: '2020-07-30T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - Thriller
 - Ficción
 toc: false
-id: 441
+id: 439
 autores:
 - Eduard Palomares
 autores_stats:

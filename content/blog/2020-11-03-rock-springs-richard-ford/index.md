@@ -1,5 +1,5 @@
 ---
-title: '#445 · Rock Springs'
+title: '#443 · Rock Springs'
 summary: Diez narraciones ambientadas en Montana, un lugar semisalvaje, un paisaje frío e inhóspito, el desconocido corazón
   de una América periférica. En este contexto…
 date: '2020-11-03T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Contemporaneo
 - Siglo XX
 toc: false
-id: 445
+id: 443
 autores:
 - Richard Ford
 - Jesús Zulaika Goicoechea

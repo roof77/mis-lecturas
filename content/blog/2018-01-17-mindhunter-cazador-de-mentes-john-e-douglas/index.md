@@ -1,5 +1,5 @@
 ---
-title: '#287 · Mindhunter: Cazador de mentes'
+title: '#286 · Mindhunter: Cazador de mentes'
 summary: Es la historia, contada por él mismo, de John Douglas, el hombre que revolucionó las técnicas para estudiar las mentes
   de los criminales en serie. Durante…
 date: '2018-01-17T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Misterio
 - Adultos
 toc: false
-id: 287
+id: 286
 autores:
 - John E. Douglas
 - Mark Olshaker

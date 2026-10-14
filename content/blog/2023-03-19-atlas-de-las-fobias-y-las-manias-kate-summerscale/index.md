@@ -1,5 +1,5 @@
 ---
-title: '#584 · Atlas de las Fobias y las Manías'
+title: '#581 · Atlas de las Fobias y las Manías'
 summary: "La brontofobia, o el miedo patológico a las tormentas, se considera un terror infantil, pero son muchos más los\
   \ adultos afectados.\r\nLa erotomanía, u obsesión…"
 date: '2023-03-19T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Referencia
 - Medicina
 toc: false
-id: 584
+id: 581
 autores:
 - Kate Summerscale
 - Haizea Beitia

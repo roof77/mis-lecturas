@@ -1,5 +1,5 @@
 ---
-title: '#323 · Un encargo fácil'
+title: '#321 · Un encargo fácil'
 summary: "Rea Kerr no es buena persona.\r\n\r\nComo líder del grupo de mercenarios espaciales Horizonte Rojo, se dedica a\
   \ disparar a gente de planeta en planeta por dinero…"
 date: '2018-07-15T23:59:59'
@@ -14,7 +14,7 @@ tags:
 - Relatos
 - Literatura hispana
 toc: false
-id: 323
+id: 321
 autores:
 - Rocío Vega
 autores_stats:

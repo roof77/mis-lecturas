@@ -1,5 +1,5 @@
 ---
-title: '#650 · Fun Home. Una familia tragicómica'
+title: '#647 · Fun Home. Una familia tragicómica'
 summary: 'En 2006 Houghton Mifflin publicó sus memorias gráficas, Fun Home: Una tragicomedia familiar, el exitoso relato de
   maduración que se ha calificado como "proeza…'
 date: '2024-05-23T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Biografía
 - Club de lectura
 toc: false
-id: 650
+id: 647
 autores:
 - Alison Bechdel
 autores_stats:

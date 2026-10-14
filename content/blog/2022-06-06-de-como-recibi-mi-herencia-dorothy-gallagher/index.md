@@ -1,5 +1,5 @@
 ---
-title: '#544 · De cómo recibí mi herencia'
+title: '#542 · De cómo recibí mi herencia'
 summary: Con una voz íntima y feroz, convincente e hilarante, Dorothy Gallagher relata su herencia eslava y judía de una forma
   tan fascinante y estilizada que parece…
 date: '2022-06-06T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Biografía
 - Club de lectura
 toc: false
-id: 544
+id: 542
 autores:
 - Dorothy Gallagher
 - Regina López Muñoz

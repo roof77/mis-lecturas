@@ -1,5 +1,5 @@
 ---
-title: '#679 · Villanueva'
+title: '#676 · Villanueva'
 summary: Miguel y Ana son jóvenes, tienen deudas y esperan un bebé. Un pequeño pueblo que ofrece alojamientos gratuitos parece
   su salvación. El folclore leonés y el…
 date: '2024-08-20T23:59:59'
@@ -12,7 +12,7 @@ tags:
 - Novela gráfica
 - Ficción
 toc: false
-id: 679
+id: 676
 autores:
 - Javi de Castro
 autores_stats:

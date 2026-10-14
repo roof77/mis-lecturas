@@ -1,5 +1,5 @@
 ---
-title: '#755 · ¿Y los hombres qué?'
+title: '#754 · ¿Y los hombres qué?'
 summary: "Un retrato perspicaz y atrevido de la masculinidad contemporánea.\r\n\r\nCualquier feminista que haya dialogado\
   \ ante el público sobre las frustraciones y los…"
 date: '2025-06-18T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Salud mentál
 - Estudios de género
 toc: false
-id: 755
+id: 754
 autores:
 - Caitlin Moran
 - Gemma Rovira

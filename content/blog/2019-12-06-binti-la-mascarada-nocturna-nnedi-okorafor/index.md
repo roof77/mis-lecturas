@@ -1,5 +1,5 @@
 ---
-title: '#417 · Binti. La Mascarada Nocturna'
+title: '#415 · Binti. La Mascarada Nocturna'
 summary: Binti, que había vuelto a su planeta pensando que el conflicto entre medusas y khoush había concluido, verá cómo
   las llamas de una vieja rivalidad se avivan de…
 date: '2019-12-06T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Extraterrestres
 - Adultos
 toc: false
-id: 417
+id: 415
 autores:
 - Nnedi Okorafor
 - Carla Bataller Estruch

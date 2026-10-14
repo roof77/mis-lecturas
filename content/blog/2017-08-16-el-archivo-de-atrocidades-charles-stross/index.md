@@ -1,5 +1,5 @@
 ---
-title: '#260 · El archivo de atrocidades'
+title: '#259 · El archivo de atrocidades'
 summary: Primera entrega de la serie de culto "Los expedientes de la Lavandería", una fascinante combinación de techno-thriller
   de espionaje, comedia y horror…
 date: '2017-08-16T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Thriller
 - Ciencia Ficción
 toc: false
-id: 260
+id: 259
 autores:
 - Charles Stross
 - Blanca Rodríguez

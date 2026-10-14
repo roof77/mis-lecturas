@@ -1,5 +1,5 @@
 ---
-title: '#319 · Luz brillante'
+title: '#317 · Luz brillante'
 summary: Shoko y Mutsuki llevan casados diez días cuando empiezan a contarnos su historia. Una pareja —él es médico, y ella,
   traductora del italiano— que lleva…
 date: '2018-06-21T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Literatura asiática
 - Novela
 toc: false
-id: 319
+id: 317
 autores:
 - Kaori Ekuni
 - Juan Francisco González Sánchez

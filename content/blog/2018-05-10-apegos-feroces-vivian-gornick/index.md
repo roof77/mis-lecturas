@@ -1,5 +1,5 @@
 ---
-title: '#310 · Apegos feroces'
+title: '#309 · Apegos feroces'
 summary: Gornick, una mujer madura, camina con su madre, ya anciana, por las calles de Manhattan, y en el transcurso de esos
   paseos llenos de reproches, de recuerdos y…
 date: '2018-05-10T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Nueva York
 - EEUU
 toc: false
-id: 310
+id: 309
 autores:
 - Vivian Gornick
 - Daniel Ramos Sanchez

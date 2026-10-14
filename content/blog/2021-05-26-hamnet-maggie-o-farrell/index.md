@@ -1,5 +1,5 @@
 ---
-title: '#464 · Hamnet'
+title: '#462 · Hamnet'
 summary: Agnes, una muchacha peculiar que parece no rendir cuentas a nadie y que es capaz de crear misteriosos remedios con
   sencillas combinaciones de plantas, es la…
 date: '2021-05-26T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura británica
 - Novela
 toc: false
-id: 464
+id: 462
 autores:
 - Maggie O'Farrell
 - Concha Cardeñoso

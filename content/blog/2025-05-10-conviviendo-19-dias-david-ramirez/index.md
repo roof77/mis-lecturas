@@ -1,5 +1,5 @@
 ---
-title: '#743 · Conviviendo 19 días'
+title: '#742 · Conviviendo 19 días'
 summary: "Una historia de amor y humor en tiempos de pandemia.\r\n\r\nDavid Ramírez nos abre una ventana a su vida para narrarnos\
   \ cómo esta da un vuelco cuando su marido…"
 date: '2025-05-10T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - No Ficción
 - LGTBIQ+
 toc: false
-id: 743
+id: 742
 autores:
 - David Ramírez
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#715 · Hierba'
+title: '#714 · Hierba'
 summary: 'Hierba es la historia real de una superviviente: Lee Ok-Sun, una joven coreana que durante la Guerra del Pacífico
   fue explotada como «mujer de consuelo», el…'
 date: '2025-03-01T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ásia
 - Manga
 toc: false
-id: 715
+id: 714
 autores:
 - Keum Suk Gendry-Kim
 - Joo Hasun

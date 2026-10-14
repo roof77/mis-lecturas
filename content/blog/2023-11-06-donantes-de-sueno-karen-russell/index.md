@@ -1,5 +1,5 @@
 ---
-title: '#608 · Donantes de sueño'
+title: '#605 · Donantes de sueño'
 summary: "Una historia original y absorbente sobre una epidemia mortal de insomnio en Estados Unidos.\r\n\r\nUna epidemia\
   \ de insomnio sacude Estados Unidos. Miles de…"
 date: '2023-11-06T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción especulativa
 - Ciencia Ficción
 toc: false
-id: 608
+id: 605
 autores:
 - Karen Russell
 - Rubén Martín Giráldez

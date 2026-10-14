@@ -1,5 +1,5 @@
 ---
-title: '#751 · El maestro Juan Martínez que estaba allí'
+title: '#750 · El maestro Juan Martínez que estaba allí'
 summary: Después de triunfar en los cabarets de media Europa, el bailarín flamenco Juan Martínez, y su compañera, Sole, fueron
   sorprendidos en Rusia por los…
 date: '2025-05-31T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - España
 - Ficción histórica
 toc: false
-id: 751
+id: 750
 autores:
 - Manuel Chaves Nogales
 - Andrés Trapiello

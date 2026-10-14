@@ -1,5 +1,5 @@
 ---
-title: '#555 · El amigo'
+title: '#553 · El amigo'
 summary: La protagonista y narradora de esta novela es una escritora neoyorquina que pierde de forma inesperada a su gran
   amigo y mentor, y de forma no menos inesperada…
 date: '2022-07-18T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Perros
 - Literatura
 toc: false
-id: 555
+id: 553
 autores:
 - Sigrid Nunez
 - Mercedes Cebrián

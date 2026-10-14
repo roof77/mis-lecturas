@@ -1,5 +1,5 @@
 ---
-title: '#729 · Estela Plateada: Parábola'
+title: '#728 · Estela Plateada: Parábola'
 summary: "Contiene Silver Surfer Parable 1 y 2 USA.\r\nLa mítica obra maestra de belleza inabarcable que reunió a los mayores\
   \ genios del cómic estadounidense y europeo, al…"
 date: '2025-03-27T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Ciencia ficción
 - Fantasía
 toc: false
-id: 729
+id: 728
 autores:
 - Stan Lee
 - Mœbius

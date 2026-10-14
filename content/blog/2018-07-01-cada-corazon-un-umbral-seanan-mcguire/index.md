@@ -1,5 +1,5 @@
 ---
-title: '#320 · Cada corazón, un umbral'
+title: '#318 · Cada corazón, un umbral'
 summary: Deslizándose entre las sombras bajo la cama, o a través de un armario, o por madrigueras de conejos... los niños
   siempre han sabido acceder a mundos mágicos…
 date: '2018-07-01T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Fantasía urbana
 - Realismo mágico
 toc: false
-id: 320
+id: 318
 autores:
 - Seanan McGuire
 - María Pilar San Román

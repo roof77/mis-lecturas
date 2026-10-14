@@ -1,5 +1,5 @@
 ---
-title: '#595 · Macarras interseculares: Una historia de Madrid a través de sus mitos callejeros'
+title: '#592 · Macarras interseculares: Una historia de Madrid a través de sus mitos callejeros'
 summary: A través de sus páginas, el lector conocer las barras americanas de la «costa fleming», el consumo de kif en las
   corralas de lavapiés y los botellones en…
 date: '2023-07-21T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - No Ficción
 - Historia
 toc: false
-id: 595
+id: 592
 autores:
 - Iñaki Domínguez
 autores_stats:

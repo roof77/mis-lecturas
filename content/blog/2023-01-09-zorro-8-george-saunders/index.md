@@ -1,5 +1,5 @@
 ---
-title: '#574 · Zorro 8'
+title: '#571 · Zorro 8'
 summary: Zorro 8 siempre ha sido conocido como el soñador de la manada, al que sus otros compañeros zorros miran con desdén
   y por el que ponen los ojos en blanco. Hasta…
 date: '2023-01-09T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Humor
 - Ficción adulta
 toc: false
-id: 574
+id: 571
 autores:
 - George Saunders
 - Chelsea Cardinal

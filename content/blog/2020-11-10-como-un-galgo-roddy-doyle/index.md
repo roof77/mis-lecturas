@@ -1,5 +1,5 @@
 ---
-title: '#447 · Como un galgo'
+title: '#445 · Como un galgo'
 summary: "Scarlett, Mary, Tansey, Emer. Madres e hijas, abuelas y nietas.\r\nCuatro generaciones, cuatro mujeres de una familia\
   \ irlandesa emprenden un viaje inolvidable al…"
 date: '2020-11-10T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Muerte
 - Paranormal
 toc: false
-id: 447
+id: 445
 autores:
 - Roddy Doyle
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#339 · Sex Criminals #14: Ladies Please'
+title: '#337 · Sex Criminals #14: Ladies Please'
 summary: Why can't we all just get along? Because then the comic would be boring.
 date: '2018-08-20T23:59:44'
 authors:
@@ -10,7 +10,7 @@ tags:
 - Novela gráfica
 - Fantasía
 toc: false
-id: 339
+id: 337
 autores:
 - Matt Fraction
 autores_stats:

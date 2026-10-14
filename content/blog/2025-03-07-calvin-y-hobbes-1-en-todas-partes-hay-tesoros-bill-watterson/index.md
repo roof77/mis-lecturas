@@ -1,5 +1,5 @@
 ---
-title: '#717 · Calvin y Hobbes 1 - En todas partes hay tesoros'
+title: '#716 · Calvin y Hobbes 1 - En todas partes hay tesoros'
 summary: Relanzamiento con nuevo diseño de la serie Calvin y Hobbes, uno de los grandes clásicos de Ediciones B y del cómic
   internacional. ¡No te pierdas esta primera…
 date: '2025-03-07T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 717
+id: 716
 autores:
 - Bill Watterson
 autores_stats:

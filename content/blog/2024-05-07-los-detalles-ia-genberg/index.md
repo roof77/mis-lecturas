@@ -1,5 +1,5 @@
 ---
-title: '#645 · Los detalles'
+title: '#642 · Los detalles'
 summary: 'Como si recorriera las páginas de un libro, una mujer postrada en cama con fiebre evoca a cuatro personas de su
   pasado: una expareja que saltó a la fama, una…'
 date: '2024-05-07T23:59:58'
@@ -18,7 +18,7 @@ tags:
 - Club de lectura
 - Novela
 toc: false
-id: 645
+id: 642
 autores:
 - Ia Genberg
 - Gemma Pecharromán

@@ -1,5 +1,5 @@
 ---
-title: '#305 · El apagón'
+title: '#304 · El apagón'
 summary: Universidad de Oxford, 2060. Los viajes en el tiempo son habituales entre los historiadores para investigar el pasado.
   Michael Davies se está preparando para…
 date: '2018-04-23T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Premios Hugo
 - Ciencia Ficción
 toc: false
-id: 305
+id: 304
 autores:
 - Connie Willis
 autores_stats:

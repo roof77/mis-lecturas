@@ -1,5 +1,5 @@
 ---
-title: '#434 · Porno religioso improvisado'
+title: '#432 · Porno religioso improvisado'
 summary: Cuando Dominique Colt asesinó de manera brutal a su prometido y a su amante gay en el transcurso de un juego sexual,
   no tenía ni idea de las calamidades por…
 date: '2020-05-31T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Vampiros
 - Novela
 toc: false
-id: 434
+id: 432
 autores:
 - Laura Lee Bahr
 - Hugo Camacho

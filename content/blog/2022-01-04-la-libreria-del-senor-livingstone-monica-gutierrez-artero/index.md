@@ -1,5 +1,5 @@
 ---
-title: '#514 · La librería del señor Livingstone'
+title: '#512 · La librería del señor Livingstone'
 summary: 'Algunos lugares son un refugio en mitad de nuestras aceleradas vidas. Algunas novelas tienen la capacidad de llevarnos
   a esos lugares.
 
@@ -22,7 +22,7 @@ tags:
 - Novela
 - Adultos
 toc: false
-id: 514
+id: 512
 autores:
 - Mónica Gutiérrez Artero
 autores_stats:

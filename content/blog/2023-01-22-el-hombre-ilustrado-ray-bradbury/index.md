@@ -1,5 +1,5 @@
 ---
-title: '#576 · El hombre ilustrado'
+title: '#573 · El hombre ilustrado'
 summary: En esta colección de historias entrelazadas, el narrador anónimo conoce a El Hombre Ilustrado, un curioso personaje
   con el cuerpo completamente cubierto de…
 date: '2023-01-22T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Antología
 - Literatura
 toc: false
-id: 576
+id: 573
 autores:
 - Ray Bradbury
 - Francisco Abelenda

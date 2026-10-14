@@ -1,5 +1,5 @@
 ---
-title: '#504 · El aspecto del diablo'
+title: '#502 · El aspecto del diablo'
 summary: ¿Cómo atrapas a un asesino cuando estás rodeado de locura?1935. Mientras Europa se prepara para una guerra funesta,
   seis homicidas dementes, conocidos como…
 date: '2021-10-31T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Gótico
 - Crimen
 toc: false
-id: 504
+id: 502
 autores:
 - Craig Russell
 - Enrique Alda

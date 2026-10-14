@@ -1,5 +1,5 @@
 ---
-title: '#773 · George Sprott, 1894-1975'
+title: '#772 · George Sprott, 1894-1975'
 summary: George Sprott 1894-1975. Una novela gráfica del dibujante Seth. "Este libro es un clásico, un tesoro." The Washington
   Post.
 date: '2025-09-21T23:59:59'
@@ -14,7 +14,7 @@ tags:
 - Manga
 - Arte
 toc: false
-id: 773
+id: 772
 autores:
 - Seth
 autores_stats:

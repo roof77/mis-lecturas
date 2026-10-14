@@ -1,7 +1,7 @@
 ---
-title: '#646 · Atrevidas'
-summary: Frauen machen, was sie wollen! Ob Rapperin oder Apachenkriegerin, Schöpferin der Mumins oder Königin der Banditen
-  – “Unerschrocken” enthält 30 humorvolle und…
+title: '#643 · Atrevidas'
+summary: EDICIÓN INTEGRAL DE UNO DE LOS CÓMICS MÁS IMPORTANTES DE LA ÚLTIMA DÉCADA. Estrella del rock o mujer barbuda, atleta
+  o chamana, exploradora o trabajadora…
 date: '2024-05-07T23:59:59'
 authors:
 - roof77
@@ -17,7 +17,7 @@ tags:
 - LGTBIQ+
 - Mujeres
 toc: false
-id: 646
+id: 643
 autores:
 - Pénélope Bagieu
 autores_stats:
@@ -33,7 +33,7 @@ nota: Imprescindible
 
 ## Sinopsis
 
-Frauen machen, was sie wollen! Ob Rapperin oder Apachenkriegerin, Schöpferin der Mumins oder Königin der Banditen – “Unerschrocken” enthält 30 humorvolle und sensible Porträts von Frauen, die ihr Schicksal selbst in die Hand genommen haben. Sie sind und waren Vorreiterinnen, unangepasst und jede eine Heldin auf ihre ganz eigene Art.Mit Witz und Finesse porträtiert Pénélope Bagieu außergewöhnliche Persönlichkeiten, die den gesellschaftlichen Zwängen ihrer Zeit trotzten, um das Leben ihrer Wahl zu führen. Die zweiteilige Anthologie jetzt als Gesamtausgabe erhältlich.“Das Leben jeder einzelnen dieser Frauen liefert genug Stoff für all die Hollywood-Filme, die bislang nie über sie gedreht worden sind. Ein überaus kurzweiliger Augenöffner.” – Erik Wenk, Der Tagesspiegel
+EDICIÓN INTEGRAL DE UNO DE LOS CÓMICS MÁS IMPORTANTES DE LA ÚLTIMA DÉCADA. Estrella del rock o mujer barbuda, atleta o chamana, exploradora o trabajadora social, las Atrevidas trazan su propio camino. Treinta retratos de mujeres que lucharon contra viento y marea para hacer lo que tenían que hacer. Edición integral del best seller de Pénélope Bagieu. Un cómic sin igual que reivindica de manera ejemplar la herstory invitándonos a descubrir a algunas de las grandes mujeres que allanaron el camino para la lucha feminista.EDICIÓN INTEGRAL DE UNO DE LOS CÓMICS MÁS IMPORTANTES DE LA ÚLTIMA DÉCADA Estrella del rock o mujer barbuda, atleta o chamana, exploradora o trabajadora social, las Atrevidas trazan su propio camino. Treinta retratos de mujeres que lucharon contra viento y marea para hacer lo que tenían que hacer. Edición integral del best seller de Pénélope Bagieu. Un cómic sin igual que reivindica de manera ejemplar la herstory invitándonos a descubrir a algunas de las grandes mujeres que allanaron el camino para la lucha feminista.
 
 ## Ficha del libro
 

@@ -1,5 +1,5 @@
 ---
-title: '#444 · Servicio completo: La secreta vida sexual de las estrellas de Hollywood'
+title: '#442 · Servicio completo: La secreta vida sexual de las estrellas de Hollywood'
 summary: La saludable imagen de América difundida por Hollywood en los años 40, 50 y 60 del pasado siglo es una de las más
   persistentes en la cultura popular -madres…
 date: '2020-10-12T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Autobiografía
 - Queer
 toc: false
-id: 444
+id: 442
 autores:
 - Scotty Bowers
 - Jaime Zulaika

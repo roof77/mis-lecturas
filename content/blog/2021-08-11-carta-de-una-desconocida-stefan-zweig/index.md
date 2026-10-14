@@ -1,5 +1,5 @@
 ---
-title: '#480 · Carta de una desconocida'
+title: '#478 · Carta de una desconocida'
 summary: «Sólo quiero hablar contigo, decírtelo todo por primera vez. Tendrías que conocer toda mi vida, que siempre fue la
   tuya aunque nunca lo supiste. Pero sólo tú…
 date: '2021-08-11T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Drama
 - Novella
 toc: false
-id: 480
+id: 478
 autores:
 - Stefan Zweig
 - Berta Conill Purgimon

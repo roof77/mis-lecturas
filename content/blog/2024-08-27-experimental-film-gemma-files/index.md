@@ -1,5 +1,5 @@
 ---
-title: '#680 · Experimental film'
+title: '#677 · Experimental film'
 summary: Lois Cairns, una exprofesora de cine, desempleada y al borde de la depresión, descubre la existencia y las películas
   perdidas de quien se cree que es la…
 date: '2024-08-27T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Ficción extraña
 - Películas
 toc: false
-id: 680
+id: 677
 autores:
 - Gemma Files
 - Elisa Rivera

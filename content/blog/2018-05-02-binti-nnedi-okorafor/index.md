@@ -1,5 +1,5 @@
 ---
-title: '#308 · Binti'
+title: '#307 · Binti'
 summary: 'Su nombre es Binti, y es la primera de los himba a la que se le ha ofrecido una plaza en Oomza Uni: la mejor institución
   de enseñanza superior de la galaxia…'
 date: '2018-05-02T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Extraterrestres
 toc: false
-id: 308
+id: 307
 autores:
 - Nnedi Okorafor
 - Carla Bataller Estruch

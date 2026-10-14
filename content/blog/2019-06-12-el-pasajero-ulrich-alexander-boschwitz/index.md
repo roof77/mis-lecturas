@@ -1,5 +1,5 @@
 ---
-title: '#393 · El pasajero'
+title: '#391 · El pasajero'
 summary: Alemania, 1938. El comerciante Otto Silbermann es un miembro respetado de la sociedad. Es, también, judío. Tras la
   Noche de los Cristales Rotos, comprueba que…
 date: '2019-06-12T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Judaismo
 - Guerra
 toc: false
-id: 393
+id: 391
 autores:
 - Ulrich Alexander Boschwitz
 autores_stats:

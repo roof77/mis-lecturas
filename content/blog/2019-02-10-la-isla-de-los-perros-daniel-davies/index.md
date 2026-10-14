@@ -1,5 +1,5 @@
 ---
-title: '#375 · La Isla De Los Perros'
+title: '#373 · La Isla De Los Perros'
 summary: 'A cool, dark, sexy nightdrive of a novel. . . . A new J.G. Ballard."--Toby Litt
 
 
@@ -12,7 +12,7 @@ tags:
 - Libros
 - Ficción
 toc: false
-id: 375
+id: 373
 autores:
 - Daniel Davies
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#767 · Daredevil: Born Again'
+title: '#766 · Daredevil: Born Again'
 summary: In this larger-than-life theater, the forces of corruption and redemption have at one another with a Wagnerian intensity
   that rivals the very best this medium…
 date: '2025-08-17T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Manga
 - Fantasía
 toc: false
-id: 767
+id: 766
 autores:
 - Frank Miller
 - David Mazzucchelli

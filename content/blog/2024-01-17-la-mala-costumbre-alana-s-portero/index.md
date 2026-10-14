@@ -1,5 +1,5 @@
 ---
-title: '#615 · La mala costumbre'
+title: '#612 · La mala costumbre'
 summary: Narrada desde una singular y desgarradora voz en primera persona, La mala costumbre recorre la adolescencia de una
   niña atrapada en un cuerpo que no sabe…
 date: '2024-01-17T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Transgenero
 - Drama
 toc: false
-id: 615
+id: 612
 autores:
 - Alana S. Portero
 autores_stats:

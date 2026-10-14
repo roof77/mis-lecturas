@@ -1,5 +1,5 @@
 ---
-title: '#757 · Grimscribe: Vidas y obras'
+title: '#756 · Grimscribe: Vidas y obras'
 summary: Thomas Ligotti, «el secreto mejor guardado de la literatura de horror contemporánea», según el Washington Post, nació
   en Detroit en 1953 y estudió en la…
 date: '2025-06-24T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Ficción especulativa
 - Antología
 toc: false
-id: 757
+id: 756
 autores:
 - Thomas Ligotti
 - Marta Lila Murillo

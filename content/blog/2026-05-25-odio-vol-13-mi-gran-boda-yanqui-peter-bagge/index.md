@@ -1,15 +1,15 @@
 ---
-title: '#847 · Odio, vol. 13: Mi gran boda yanqui'
+title: '#848 · Odio, vol. 13: Mi gran boda yanqui'
 summary: ¿Pero Quén es Buddy? Básicamente, Buddy es un ser repleto de odio. Y ODIO es, básicamente, el mejor cómic de los
   90. Buddy vive en Seattle y roba libros del…
-date: '2026-05-25T23:59:57'
+date: '2026-05-25T23:59:58'
 authors:
 - roof77
 tags:
 - Lecturas
 - Comics
 toc: false
-id: 847
+id: 848
 autores:
 - Peter Bagge
 - Hernán Migoya

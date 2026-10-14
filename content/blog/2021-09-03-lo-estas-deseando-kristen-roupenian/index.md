@@ -1,5 +1,5 @@
 ---
-title: '#485 · Lo estás deseando'
+title: '#483 · Lo estás deseando'
 summary: "Un libro deslumbrante con doce cuentos sobre los roles de género y los misterios del deseo. Un debut arrollador.\r\
   \n\r\nEn diciembre de 2017 Kristen Roupenian…"
 date: '2021-09-03T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Club de lectura
 toc: false
-id: 485
+id: 483
 autores:
 - Kristen Roupenian
 autores_stats:

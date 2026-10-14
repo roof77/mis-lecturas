@@ -1,5 +1,5 @@
 ---
-title: '#536 · Los mejores días'
+title: '#534 · Los mejores días'
 summary: De una sensibilidad poética poco común, los cuentos de Magalí Etchebarne ponen en escena a niñas, adolescentes, mujeres
   jóvenes o de mediana edad, ancianas…
 date: '2022-05-08T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - Relatos
 - Ficción
 toc: false
-id: 536
+id: 534
 autores:
 - Magalí Etchebarne
 autores_stats:

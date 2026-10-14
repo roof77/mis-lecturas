@@ -1,5 +1,5 @@
 ---
-title: '#499 · Los elementales'
+title: '#497 · Los elementales'
 summary: Después de un extraño incidente en el funeral de la matriarca Marian, las familias McCray y Savage esperan un tranquilo
   verano en la costa del golfo de…
 date: '2021-10-05T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Fantasmas
 - Thriller
 toc: false
-id: 499
+id: 497
 autores:
 - Michael McDowell
 - Teresa Arijón

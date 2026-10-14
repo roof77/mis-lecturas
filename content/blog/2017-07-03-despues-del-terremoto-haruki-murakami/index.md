@@ -1,5 +1,5 @@
 ---
-title: '#255 · Después del terremoto'
+title: '#254 · Después del terremoto'
 summary: La magnitud del terremoto que en 1995 asoló la ciudad japonesa de Kobe, y que se cobró más de cinco mil vidas, inspiró
   a Haruki Murakami seis impactantes…
 date: '2017-07-03T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura
 - Fantasía
 toc: false
-id: 255
+id: 254
 autores:
 - Haruki Murakami
 - Lourdes Porta Fuentes

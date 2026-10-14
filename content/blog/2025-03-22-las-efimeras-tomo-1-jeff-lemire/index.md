@@ -1,5 +1,5 @@
 ---
-title: '#726 · Las efímeras. Tomo 1'
+title: '#725 · Las efímeras. Tomo 1'
 summary: Franny Fox y Bicho se han escapado. La policía les está buscando, pero no son los únicos que les quieren dar caza
   antes de que las efímeras desaparezcan de…
 date: '2025-03-22T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 726
+id: 725
 autores:
 - Jeff Lemire
 - Santiago García

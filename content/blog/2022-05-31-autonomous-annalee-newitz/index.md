@@ -1,5 +1,5 @@
 ---
-title: '#543 · Autonomous'
+title: '#541 · Autonomous'
 summary: La Tierra, 2144. Jack es una científica antipatentes que se ha convertido en una pirata de drogas; viaja por el mundo
   en un submarino como si fuera una Robin…
 date: '2022-05-31T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Fantasía
 - Robots
 toc: false
-id: 543
+id: 541
 autores:
 - Annalee Newitz
 - Alexander Páez

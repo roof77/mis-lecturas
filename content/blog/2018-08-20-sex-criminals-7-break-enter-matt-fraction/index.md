@@ -1,5 +1,5 @@
 ---
-title: '#352 · Sex Criminals #7: Break, Enter'
+title: '#350 · Sex Criminals #7: Break, Enter'
 summary: Jon breaks into Kegelface’s house and oh my golly what on EARTH do you think he finds there. Not only are our beloved
   Sex Criminals not alone...they’re not…
 date: '2018-08-20T23:59:57'
@@ -13,7 +13,7 @@ tags:
 - Adultos
 - Humor
 toc: false
-id: 352
+id: 350
 autores:
 - Matt Fraction
 - Chip Zdarsky

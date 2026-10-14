@@ -1,5 +1,5 @@
 ---
-title: '#262 · Canciones que cantan los muertos'
+title: '#261 · Canciones que cantan los muertos'
 summary: George R. Martin, ganador de un premio Nébula y tres Hugo por sus obras de ciencia ficción, nos presenta en esta
   antología una selección de sus mejores relatos…
 date: '2017-08-30T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Ficción
 - Colección de relatos
 toc: false
-id: 262
+id: 261
 autores:
 - George R.R. Martin
 autores_stats:

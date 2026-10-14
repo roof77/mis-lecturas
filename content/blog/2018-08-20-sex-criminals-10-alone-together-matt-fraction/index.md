@@ -1,5 +1,5 @@
 ---
-title: '#335 · Sex Criminals #10: Alone Together'
+title: '#333 · Sex Criminals #10: Alone Together'
 summary: In which Jon and Suzie learn just how alone together we all are, and the stakes get raised crazy-high in this, the
   second arc finale. By MATT FRACTION…
 date: '2018-08-20T23:59:40'
@@ -12,7 +12,7 @@ tags:
 - Fantasía
 - Humor
 toc: false
-id: 335
+id: 333
 autores:
 - Matt Fraction
 - Chip Zdarsky

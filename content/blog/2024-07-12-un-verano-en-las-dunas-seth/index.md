@@ -1,5 +1,5 @@
 ---
-title: '#669 · Un verano en las dunas'
+title: '#666 · Un verano en las dunas'
 summary: Entre 1991 y 1993, poco antes de alcanzar la fama a nivel mundial, Seth publicó las dos historias contenidas en Un
   verano en las dunas, que permanecían…
 date: '2024-07-12T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 669
+id: 666
 autores:
 - Seth
 autores_stats:

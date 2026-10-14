@@ -1,5 +1,5 @@
 ---
-title: '#635 · El dique'
+title: '#632 · El dique'
 summary: Mientras Perdido se recupera de la inundación, se propone la construcción de un dique que impida una nueva catástrofe.
   Sin embargo con las obras comenzarán las…
 date: '2024-04-09T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Gótico sureño
 - Histórico
 toc: false
-id: 635
+id: 632
 autores:
 - Michael McDowell
 - Carles Andreu

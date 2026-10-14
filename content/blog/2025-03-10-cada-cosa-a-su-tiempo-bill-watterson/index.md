@@ -1,5 +1,5 @@
 ---
-title: '#719 · Cada cosa a su tiempo'
+title: '#718 · Cada cosa a su tiempo'
 summary: Zounds! Spaceman Spiff, Stupendous Man, the ferocious tiger Hobbes, and the rest of Calvin's riotous imagination
   are all included in The Days Are Just…
 date: '2025-03-10T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Niños
 - Comedia
 toc: false
-id: 719
+id: 718
 autores:
 - Bill Watterson
 autores_stats:

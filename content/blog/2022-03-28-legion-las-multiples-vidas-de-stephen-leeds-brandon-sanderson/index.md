@@ -1,5 +1,5 @@
 ---
-title: '#528 · Legión: Las múltiples vidas de Stephen Leeds'
+title: '#526 · Legión: Las múltiples vidas de Stephen Leeds'
 summary: Stephen leeds está perfectamente sano, son sus alucinaciones las que están locas. Puede aprender cualquier habilidad
   en cuestión de horas, pero, para ello, su…
 date: '2022-03-28T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Thriller
 - Novella
 toc: false
-id: 528
+id: 526
 autores:
 - Brandon Sanderson
 - Manu Viciano

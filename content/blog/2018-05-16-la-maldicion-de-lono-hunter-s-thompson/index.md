@@ -1,5 +1,5 @@
 ---
-title: '#311 · La maldición de Lono'
+title: '#310 · La maldición de Lono'
 summary: En 1980, Hunter S. Thompson recibe una propuesta de una revista desconocida, llamada Running, para cubrir la maratón
   de Honolulú, con un buen sueldo y con…
 date: '2018-05-16T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Negocios
 - Clásico
 toc: false
-id: 311
+id: 310
 autores:
 - Hunter S. Thompson
 autores_stats:

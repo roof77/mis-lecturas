@@ -1,5 +1,5 @@
 ---
-title: '#387 · Ropa música chicos'
+title: '#385 · Ropa música chicos'
 summary: Como los viejos elepés, este libro tiene una cara A y una cara B. La primera po­dría titularse «Sexo, drogas y punk».
   La segunda, «Hay vida después del…
 date: '2019-04-24T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura británica
 - Arte
 toc: false
-id: 387
+id: 385
 autores:
 - Viv Albertine
 autores_stats:

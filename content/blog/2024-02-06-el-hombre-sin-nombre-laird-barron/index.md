@@ -1,5 +1,5 @@
 ---
-title: '#619 · El hombre sin nombre'
+title: '#616 · El hombre sin nombre'
 summary: Nanashi (nombre que significa anónimo o sin nombre) ha llevado una vida de violencia dentro del sindicato de la Grulla.
   Es un alcohólico rehabilitado a quien…
 date: '2024-02-06T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Misterio
 - Fantasía
 toc: false
-id: 619
+id: 616
 autores:
 - Laird Barron
 - Antonio Rivas

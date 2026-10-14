@@ -1,5 +1,5 @@
 ---
-title: '#734 · Cuentos completos'
+title: '#733 · Cuentos completos'
 summary: En apenas dos décadas, Joseph Roth (1894-1939), uno de los escritores en lengua alemana más importantes del siglo
   xx, diseminó su talento en periódicos y…
 date: '2025-04-14T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 734
+id: 733
 autores:
 - Joseph Roth
 autores_stats:

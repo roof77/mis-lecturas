@@ -1,5 +1,5 @@
 ---
-title: '#458 · Los peligros de fumar en la cama'
+title: '#456 · Los peligros de fumar en la cama'
 summary: Una niña desentierra en el jardín unos huesos que resultan no ser de un animal; la bucólica escena veraniega de unas
   chicas que se bañan en un paraje natural…
 date: '2021-04-28T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Colección de relatos
 - Adultos
 toc: false
-id: 458
+id: 456
 autores:
 - Mariana Enriquez
 autores_stats:

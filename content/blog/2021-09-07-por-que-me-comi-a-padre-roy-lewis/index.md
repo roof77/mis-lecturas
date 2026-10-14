@@ -1,5 +1,5 @@
 ---
-title: '#486 · Por qué me comí a padre'
+title: '#484 · Por qué me comí a padre'
 summary: Ambientada en una región del centro de África hacia finales del Pleistoceno, Por qué me comí a mi padre es la crónica
   trepidante y en algunos momentos jocosa…
 date: '2021-09-07T23:59:58'
@@ -18,7 +18,7 @@ tags:
 - Literatura británica
 - Histórico
 toc: false
-id: 486
+id: 484
 autores:
 - Roy Lewis
 autores_stats:

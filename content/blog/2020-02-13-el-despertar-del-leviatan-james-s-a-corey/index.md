@@ -1,5 +1,5 @@
 ---
-title: '#422 · El despertar del leviatán'
+title: '#420 · El despertar del leviatán'
 summary: La humanidad ha colonizado el Sistema Solar, pero las estrellas aún están fuera de nuestro alcance. Jim Holden es
   OE de un transportador de hielo. Cuando él y…
 date: '2020-02-13T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Terror
 - Adultos
 toc: false
-id: 422
+id: 420
 autores:
 - James S.A. Corey
 - David Tejera Expósito

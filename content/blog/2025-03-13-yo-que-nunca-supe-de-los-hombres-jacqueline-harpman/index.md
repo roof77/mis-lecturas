@@ -1,5 +1,5 @@
 ---
-title: '#720 · Yo que nunca supe de los hombres'
+title: '#719 · Yo que nunca supe de los hombres'
 summary: En un futuro cercano, en un planeta irreconocible, cuarenta mujeres son mantenidas en una jaula custodiada por silenciosos
   hombres uniformados. La más joven de…
 date: '2025-03-13T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Fantasía
 - Adultos
 toc: false
-id: 720
+id: 719
 autores:
 - Jacqueline Harpman
 autores_stats:

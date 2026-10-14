@@ -1,5 +1,5 @@
 ---
-title: '#459 · La guerra de los pobres'
+title: '#457 · La guerra de los pobres'
 summary: 'Año 1524: en el sur de Alemania se produce una revuelta campesina. Este levantamiento pronto gana adeptos en Suiza
   y Alsacia. En medio del caos destaca una…'
 date: '2021-04-29T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Política
 - Literatura
 toc: false
-id: 459
+id: 457
 autores:
 - Éric Vuillard
 - Javier Albiñana

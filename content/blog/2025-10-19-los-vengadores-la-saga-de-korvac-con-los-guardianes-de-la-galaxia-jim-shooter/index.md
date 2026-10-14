@@ -1,5 +1,5 @@
 ---
-title: '#776 · Los Vengadores: La Saga de Korvac ¡Con los Guardianes de la Galaxia!'
+title: '#775 · Los Vengadores: La Saga de Korvac ¡Con los Guardianes de la Galaxia!'
 summary: "Edición corregida.\r\nKorvac ha llegado desde el siglo XXXI para perseguir a los Guardianes de la Galaxia y a sus\
   \ nuevos aliados: Los Vengadores. El Hombre…"
 date: '2025-10-19T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Clásico
 - Fantasía
 toc: false
-id: 776
+id: 775
 autores:
 - Jim Shooter
 autores_stats:

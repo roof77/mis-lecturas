@@ -1,5 +1,5 @@
 ---
-title: '#641 · Un año sin Cthulhu'
+title: '#638 · Un año sin Cthulhu'
 summary: "UN SORPRENDENTE RELATO POP SOBRE JUEGOS DE ROL, ASESINATOS Y LOVECRAFT\r\n\r\nTodos recuerdan la tragedia de Auln-sur-D’Arcq.\
   \ A mediados de los años 80, un grupo…"
 date: '2024-04-24T23:59:59'
@@ -12,7 +12,7 @@ tags:
 - Fantasía
 - Terror
 toc: false
-id: 641
+id: 638
 autores:
 - Thierry Smolderen
 - Alexandre Clérisse

@@ -1,5 +1,5 @@
 ---
-title: '#442 · Estoy pensando en dejarlo'
+title: '#440 · Estoy pensando en dejarlo'
 summary: "<Tendrás miedo, pero no sabrás por qué... «Estoy pensando en dejarlo». Una vez que llega este pensamiento, se queda.\
   \ Está presente siempre. Siempre.\r\nJake y yo…"
 date: '2020-09-16T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Suspense
 - Club de lectura
 toc: false
-id: 442
+id: 440
 autores:
 - Iain Reid
 - Cristina Martín Sanz

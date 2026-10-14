@@ -1,5 +1,5 @@
 ---
-title: '#256 · El beso de la mujer araña'
+title: '#255 · El beso de la mujer araña'
 summary: La obra más conocida de Manuel Puig, “el brillantemente inventivo novelista argentino” (The New York Times), es ahora
   el tema de una premiada comedia…
 date: '2017-07-06T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Literatura latinoamericana
 - Colegio
 toc: false
-id: 256
+id: 255
 autores:
 - Manuel Puig
 autores_stats:

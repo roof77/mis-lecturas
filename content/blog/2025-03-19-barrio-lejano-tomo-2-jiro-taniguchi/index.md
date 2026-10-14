@@ -1,5 +1,5 @@
 ---
-title: '#724 · Barrio Lejano Tomo 2'
+title: '#723 · Barrio Lejano Tomo 2'
 summary: Hiroshi, un padre de familia de 48 años, se siente transportado al adolescente que fue a los 14 años. En este segundo
   volumen prosigue el redescubrimiento de…
 date: '2025-03-19T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Literatura japanesa
 - Seinen manga
 toc: false
-id: 724
+id: 723
 autores:
 - Jirō Taniguchi
 - Frédéric Boilet

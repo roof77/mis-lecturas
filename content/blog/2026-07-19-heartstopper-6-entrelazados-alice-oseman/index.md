@@ -1,7 +1,10 @@
 ---
 title: '#897 · Heartstopper 6. Entrelazados'
-summary: Boy meets boy. Boys become friends. Boys fall in love. The final installment in the bestselling LGBTQ+ graphic novel
-  series about life, love, and everything…
+summary: 'La entrega final de la exitosa serie de novelas gráficas LGBTQ+ sobre la vida, el amor y todo lo que ocurre entre
+  medio.
+
+
+  Todo el mundo en el colegio conoce a…'
 date: '2026-07-19T23:59:59'
 authors:
 - roof77
@@ -35,13 +38,9 @@ nota: Muy recomendable
 
 ## Sinopsis
 
-Boy meets boy. Boys become friends. Boys fall in love. The final installment in the bestselling LGBTQ+ graphic novel series about life, love, and everything that happens in between.
+La entrega final de la exitosa serie de novelas gráficas LGBTQ+ sobre la vida, el amor y todo lo que ocurre entre medio.
 
-Everyone in school knows Nick and Charlie. Everyone knows they're going to be together forever.
-
-But Charlie's busy with his bid to become head boy. And while Nick is preparing to leave for uni, he's starting to wonder who he'll be . . . without Charlie.
-
-Contains discussions around mental health and eating disorders, and sexual references.
+Todo el mundo en el colegio conoce a Nick y Charlie. Todo el mundo sabe que estarán juntos para siempre. Pero Charlie está ocupado con su candidatura para convertirse en head boy. Y mientras Nick se prepara para irse a la universidad, empieza a preguntarse quién será… sin Charlie.
 
 ## Ficha del libro
 

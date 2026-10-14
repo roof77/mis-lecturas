@@ -1,5 +1,5 @@
 ---
-title: '#742 · El Gran Cuando'
+title: '#741 · El Gran Cuando'
 summary: El esperado retorno de Alan Moore a la novela, una oda a Londres y un tour de force lleno de magia e historia que
   será adaptado a la televisión«Una delicia»…
 date: '2025-05-10T23:59:58'
@@ -18,7 +18,7 @@ tags:
 - Histórico
 - Ficción especulativa
 toc: false
-id: 742
+id: 741
 autores:
 - Alan Moore
 - Juan Trejo

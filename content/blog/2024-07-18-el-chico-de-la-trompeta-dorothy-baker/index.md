@@ -1,5 +1,5 @@
 ---
-title: '#671 · El chico de la trompeta'
+title: '#668 · El chico de la trompeta'
 summary: «El chico de la trompeta es un libro casi perfecto. El lector percibe, y percibe intensamente, el ambiente que describe
   Baker, la música que crean Rick y sus…
 date: '2024-07-18T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción Literaria
 - Novela
 toc: false
-id: 671
+id: 668
 autores:
 - Dorothy Baker
 - Ismael Attrache

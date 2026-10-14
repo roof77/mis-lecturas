@@ -1,5 +1,5 @@
 ---
-title: '#346 · Sex Criminals #21: Spaces'
+title: '#344 · Sex Criminals #21: Spaces'
 summary: "\"FIVE-FINGERED DISCOUNT,\" Part One\r\n\r\nUp is down and black is white and the sex isn't happening—neither is\
   \ the crime. WHAT IS THIS BOOK EVEN? After the…"
 date: '2018-08-20T23:59:51'
@@ -12,7 +12,7 @@ tags:
 - Fantasía
 - Ficción
 toc: false
-id: 346
+id: 344
 autores:
 - Matt Fraction
 - Chip Zdarsky

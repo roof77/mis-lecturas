@@ -1,5 +1,5 @@
 ---
-title: '#533 · Caballos lentos'
+title: '#531 · Caballos lentos'
 summary: El reino del irreverente y sarcástico Jackson Lamb está en Londres y se llama Casa de la Ciénaga, un vertedero al
   que van a parar los miembros de los servicios…
 date: '2022-04-22T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Club de lectura
 - Literatura británica
 toc: false
-id: 533
+id: 531
 autores:
 - Mick Herron
 autores_stats:

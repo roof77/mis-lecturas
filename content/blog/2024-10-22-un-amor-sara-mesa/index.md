@@ -1,5 +1,5 @@
 ---
-title: '#688 · Un amor'
+title: '#686 · Un amor'
 summary: La historia de Un amor ocurre en La Escapa, un pequeño núcleo rural donde Nat, una joven e inexperta traductora,
   acaba de mudarse. Su casero, que le regala un…
 date: '2024-10-22T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Novela
 - Ficción Literaria
 toc: false
-id: 688
+id: 686
 autores:
 - Sara Mesa
 - Marta Martín

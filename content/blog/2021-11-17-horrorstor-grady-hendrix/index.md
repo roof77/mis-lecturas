@@ -1,5 +1,5 @@
 ---
-title: '#505 · Horrorstör'
+title: '#503 · Horrorstör'
 summary: Algo extraño está ocurriendo en la megatienda de muebles Orsk de Cleveland, Ohio. Cada mañana, al entrar, los empleado
   se encuentran estanterías Kjërring…
 date: '2021-11-17T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Fantasía
 - Fantasmas
 toc: false
-id: 505
+id: 503
 autores:
 - Grady Hendrix
 - Jaime Valero

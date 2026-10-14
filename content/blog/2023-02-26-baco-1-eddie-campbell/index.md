@@ -1,5 +1,5 @@
 ---
-title: '#580 · Baco 1'
+title: '#577 · Baco 1'
 summary: Baco, dios del vino y de la juerga, hijo ilegítimo de Zeus, sigue vivo. Arrastrando sus más de cuatro mil años, recorre
   los bares de la ciudad en busca de Joe…
 date: '2023-02-26T23:59:58'
@@ -10,7 +10,7 @@ tags:
 - Comics
 - Novela gráfica
 toc: false
-id: 580
+id: 577
 autores:
 - Eddie Campbell
 autores_stats:

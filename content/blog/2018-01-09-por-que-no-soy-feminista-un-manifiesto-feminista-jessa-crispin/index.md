@@ -1,5 +1,5 @@
 ---
-title: '#285 · Por qué no soy feminista. Un manifiesto feminista'
+title: '#284 · Por qué no soy feminista. Un manifiesto feminista'
 summary: Jessa Crispin cree que, en algún momento de su trayectoria, el movimiento de liberación de la mujer sacrificó sus
   principales objetivos a cambio de lograr…
 date: '2018-01-09T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Contemporaneo
 - Sociología
 toc: false
-id: 285
+id: 284
 autores:
 - Jessa Crispin
 autores_stats:

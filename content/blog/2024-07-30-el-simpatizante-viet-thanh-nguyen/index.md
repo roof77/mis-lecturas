@@ -1,5 +1,5 @@
 ---
-title: '#676 · El simpatizante'
+title: '#673 · El simpatizante'
 summary: Abril de 1975, Saigón está sumida en el caos. Desde su mansión, el general del ejército de Vietnam del Sur bebe whisky
   norteamericano mientras los disparos…
 date: '2024-07-30T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Literatura
 - Política
 toc: false
-id: 676
+id: 673
 autores:
 - Viet Thanh Nguyen
 - Javier Calvo Perales

@@ -1,5 +1,5 @@
 ---
-title: '#427 · Canción dulce'
+title: '#425 · Canción dulce'
 summary: Myriam, madre de dos niños, decide reemprender su actividad laboral en un bufete de abogados a pesar de las reticencias
   de su marido. Tras un minucioso proceso…
 date: '2020-04-14T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Club de lectura
 - Suspense
 toc: false
-id: 427
+id: 425
 autores:
 - Leïla Slimani
 - Malika Embarek López

@@ -1,5 +1,5 @@
 ---
-title: '#438 · Una bomba en mi interior'
+title: '#436 · Una bomba en mi interior'
 summary: Cada vez que Beverly Sykes practica el sexo con otra persona, la acomete una enorme explosión en su interior que
   va más allá de todo orgasmo, y siente cómo la…
 date: '2020-07-17T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Adultos
 - Bizarro
 toc: false
-id: 438
+id: 436
 autores:
 - Autumn Christian
 - Hugo Camacho

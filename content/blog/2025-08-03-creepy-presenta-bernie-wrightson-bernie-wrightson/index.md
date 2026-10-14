@@ -1,5 +1,5 @@
 ---
-title: '#764 · Creepy Presenta: Bernie Wrightson'
+title: '#763 · Creepy Presenta: Bernie Wrightson'
 summary: All of horror legend Bernie Wrightson's Creepy and Eerie short stories, color illustrations, and frontispieces are
   finally collected in one deluxe hardcover!…
 date: '2025-08-03T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Relatos
 - Antología
 toc: false
-id: 764
+id: 763
 autores:
 - Bernie Wrightson
 - Bill Dubai

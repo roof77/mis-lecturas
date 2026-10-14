@@ -1,5 +1,5 @@
 ---
-title: '#546 · El zoo de papel y otros relatos'
+title: '#544 · El zoo de papel y otros relatos'
 summary: Quince relatos y novelas cortas de uno de los mejores escritores de ficción breve de la ciencia-ficción. "El zoo
   de papel" es la primera obra que ha obtenido…
 date: '2022-06-19T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Club de lectura
 - Ciencia Ficción
 toc: false
-id: 546
+id: 544
 autores:
 - Ken Liu
 - María Pilar San Román

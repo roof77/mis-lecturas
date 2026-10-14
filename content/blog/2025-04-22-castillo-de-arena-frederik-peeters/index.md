@@ -1,5 +1,5 @@
 ---
-title: '#737 · Castillo de arena'
+title: '#736 · Castillo de arena'
 summary: Trece personajes descubren un cadáver en una playa donde la realidad va deformándose y han de enfrentarse a un destino
   que se les escapa como arena entre los…
 date: '2025-04-22T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Fantasía
 - Francia
 toc: false
-id: 737
+id: 736
 autores:
 - Frederik Peeters
 - Pierre Oscar Lévy

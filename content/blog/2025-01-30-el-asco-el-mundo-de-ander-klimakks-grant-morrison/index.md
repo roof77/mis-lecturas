@@ -1,5 +1,5 @@
 ---
-title: '#703 · El Asco: El mundo de Ander Klimakks'
+title: '#702 · El Asco: El mundo de Ander Klimakks'
 summary: En un futuro de sexo, drogas y violencia, un loco sheriff se ha propuesto lelvar a cabo un maquiavélico plan relacionado
   con el sexo en sus más tremendas y…
 date: '2025-01-30T23:59:57'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 703
+id: 702
 autores:
 - Grant Morrison
 - Chris Weston

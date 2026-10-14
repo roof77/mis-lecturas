@@ -1,5 +1,5 @@
 ---
-title: '#479 · Amores imperfectos'
+title: '#477 · Amores imperfectos'
 summary: Una mujer enamorada de su íntima amiga, a quien teme confesar sus sentimientos; un adolescente prendado de su vecina,
   mayor que él; mujeres que transitan por…
 date: '2021-08-10T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Literatura asiática
 - Ásia
 toc: false
-id: 479
+id: 477
 autores:
 - Hiromi Kawakami
 - Marina Bornas Montaña

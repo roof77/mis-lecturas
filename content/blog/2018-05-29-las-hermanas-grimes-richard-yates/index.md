@@ -1,5 +1,5 @@
 ---
-title: '#313 · Las hermanas Grimes'
+title: '#312 · Las hermanas Grimes'
 summary: '"Ninguna de las hermanas Grimes estaba destinada a ser feliz, y al echar una mirada retrospectiva siempre da la
   impresión de que los problemas comenzaron con…'
 date: '2018-05-29T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Siglo XX
 - Club de lectura
 toc: false
-id: 313
+id: 312
 autores:
 - Richard Yates
 autores_stats:

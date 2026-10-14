@@ -1,5 +1,5 @@
 ---
-title: '#738 · Haarmann'
+title: '#737 · Haarmann'
 summary: El temor hace ya varios meses que recorre las callejuelas del casco antiguo de Hannover y la gente sigue desapareciendo
   sin dejar rastro. Los temores más…
 date: '2025-04-24T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Thriller
 - Histórico
 toc: false
-id: 738
+id: 737
 autores:
 - Peer Meter
 - Isabel Kreitz

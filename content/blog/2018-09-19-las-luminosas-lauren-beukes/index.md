@@ -1,5 +1,5 @@
 ---
-title: '#360 · Las luminosas'
+title: '#358 · Las luminosas'
 summary: 'Chicago, 1931. Harper Curtis, un vagabundo violento, se topa con una casa que oculta un sorprendente secreto: es
   la puerta que lo traslada a otros momentos del…'
 date: '2018-09-19T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Fantasía
 - Club de lectura
 toc: false
-id: 360
+id: 358
 autores:
 - Lauren Beukes
 - Pilar Ramírez Tello

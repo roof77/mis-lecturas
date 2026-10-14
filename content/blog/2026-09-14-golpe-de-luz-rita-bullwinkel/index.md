@@ -1,7 +1,7 @@
 ---
 title: '#932 · Golpe de luz'
-summary: "An electrifying debut novel from an “unusually gifted writer” (Lorrie Moore) about the radical intimacy of physical\
-  \ competition\r\n\r\nAn unexpected tragedy at a…"
+summary: En un caluroso fin de semana de julio, ocho jóvenes boxeadoras disputan un torneo amateur en el Bob’s Boxing Palace
+  de Reno, Nevada. Todas están aún en la…
 date: '2026-09-14T23:59:59'
 authors:
 - roof77
@@ -35,11 +35,9 @@ nota: Muy
 
 ## Sinopsis
 
-An electrifying debut novel from an “unusually gifted writer” (Lorrie Moore) about the radical intimacy of physical competition
-
-An unexpected tragedy at a community pool. A family’s unrelenting expectation of victory. The desire to gain or lose control; to make time speed up or stop; to be frighteningly, undeniably good at something. Each of the eight teenage girl boxers in this blistering debut novel has her own reasons for the sacrifices she has made to come to Reno, Nevada, to compete to be named the best in the country. Through a series of face-offs that are raw, ecstatic, and punctuated by flashes of humor and tenderness, prizewinning writer Rita Bullwinkel animates the competitors’ pasts and futures as they summon the emotion, imagination, and force of will required to win.
-
-Frenetic, surprising, and strikingly original, Headshot is a portrait of the desire, envy, perfectionism, madness, and sheer physical pleasure that motivates young women to fight—even, and perhaps especially, when no one else is watching.
+En un caluroso fin de semana de julio, ocho jóvenes boxeadoras disputan un torneo amateur en el Bob’s Boxing Palace de Reno, Nevada. Todas están aún en la adolescencia; todas albergan sueños y aspiraciones, y se mueven por el ring como si solo hubieran nacido para estar allí, para pelear.
+Combate tras combate, Rita Bullwinkel nos acerca –con humor, ternura y una mirada realmente inquisitiva sobre los cuerpos en tensión de estas mujeres– a sus deseos de tener o perder el control, de hacer que el tiempo se acelere o se detenga, de ser aterradoras, innegablemente buenas en algo. Cada una carga con sus propias razones para los sacrificios que hacen en busca de ese instante efímero de gloria.
+Intensa, divertida e inusualmente original, Golpe de luz esboza un retrato del deseo, la envidia, el perfeccionismo, la locura y el puro placer físico que motiva a las mujeres jóvenes a luchar –incluso, y quizá con más ahínco, cuando nadie las observa–. Es también una exploración sutil y magistral de la extrañeza que conlleva intimar físicamente con otro cuerpo justo en el momento de enfrentarlo, medirlo y resistirlo.
 
 ## Ficha del libro
 

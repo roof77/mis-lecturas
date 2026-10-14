@@ -1,5 +1,5 @@
 ---
-title: '#276 · Del color de la leche'
+title: '#275 · Del color de la leche'
 summary: Elias Canetti escribió que en escasas ocasiones las personas logran liberarse de las cadenas que las atan para, inmediatamente
   después, quedar sujetas a otras…
 date: '2017-11-12T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción Literaria
 - Adultos
 toc: false
-id: 276
+id: 275
 autores:
 - Nell Leyshon
 - Mariano Peyrou

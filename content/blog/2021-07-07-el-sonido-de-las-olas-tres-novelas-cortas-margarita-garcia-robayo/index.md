@@ -1,5 +1,5 @@
 ---
-title: '#470 · El sonido de las olas: Tres novelas cortas'
+title: '#468 · El sonido de las olas: Tres novelas cortas'
 summary: 'Margarita García Robayo mira el mundo con despiadada atención pero también con suma naturalidad: nunca está completamente
   afuera de lo que observa o de lo que…'
 date: '2021-07-07T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - Ficción
 - Novela
 toc: false
-id: 470
+id: 468
 autores:
 - Margarita García Robayo
 autores_stats:

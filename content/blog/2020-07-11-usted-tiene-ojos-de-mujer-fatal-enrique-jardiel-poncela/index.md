@@ -1,5 +1,5 @@
 ---
-title: '#437 · Usted tiene ojos de mujer fatal'
+title: '#435 · Usted tiene ojos de mujer fatal'
 summary: Sergio Hernán es un conquistador que tras seducir a las mujeres y gozar de ellas, las abandona a la mañana siguiente
   con la inestimable colaboración de su…
 date: '2020-07-11T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 437
+id: 435
 autores:
 - Enrique Jardiel Poncela
 autores_stats:

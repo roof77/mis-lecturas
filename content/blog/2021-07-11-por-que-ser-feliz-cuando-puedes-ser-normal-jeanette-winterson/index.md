@@ -1,5 +1,5 @@
 ---
-title: '#471 · ¿Por qué ser feliz cuando puedes ser normal?'
+title: '#469 · ¿Por qué ser feliz cuando puedes ser normal?'
 summary: "Recent cover edition here\r\nEn 1985, Winterson publicó Fruta prohibida, su primera novela, un relato apenas disimulado\
   \ sobre su infancia y adolescencia como…"
 date: '2021-07-11T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Feminismo
 - Club de lectura
 toc: false
-id: 471
+id: 469
 autores:
 - Jeanette Winterson
 - Álvaro Abella Villar

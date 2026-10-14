@@ -1,5 +1,5 @@
 ---
-title: '#425 · Tiempo extraño'
+title: '#423 · Tiempo extraño'
 summary: En Tiempo extraño, «uno de los mejores escritores norteamericanos de terror» (Time), que va «más allá de los convencionalismos
   del género hasta un nuevo…
 date: '2020-04-04T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Antología
 - Adultos
 toc: false
-id: 425
+id: 423
 autores:
 - Joe Hill
 - Pilar Ramírez Tello

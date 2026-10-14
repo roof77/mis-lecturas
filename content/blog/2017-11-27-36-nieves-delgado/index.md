@@ -1,5 +1,5 @@
 ---
-title: '#278 · 36'
+title: '#277 · 36'
 summary: El nacimiento de una nueva Inteligencia Artificial en el CIDIA siempre es motivo de alegría. En el caso de la que
   ocupará el cuerpo número 36, la felicidad es…
 date: '2017-11-27T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - Literatura hispana
 - Feminismo
 toc: false
-id: 278
+id: 277
 autores:
 - Nieves Delgado
 autores_stats:

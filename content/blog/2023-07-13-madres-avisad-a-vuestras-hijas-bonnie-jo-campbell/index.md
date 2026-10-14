@@ -1,5 +1,5 @@
 ---
-title: '#594 · Madres, avisad a vuestras hijas'
+title: '#591 · Madres, avisad a vuestras hijas'
 summary: Los relatos de este libro están poblados de madres e hijas que se aman, se honran y se traicionan. Novias afligidas,
   embarazos prematuros, esposas maltratadas…
 date: '2023-07-13T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Ficción realista
 - Familia
 toc: false
-id: 594
+id: 591
 autores:
 - Bonnie Jo Campbell
 - Tomás Cobos

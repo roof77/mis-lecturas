@@ -1,5 +1,5 @@
 ---
-title: '#647 · No es un río'
+title: '#644 · No es un río'
 summary: Enero y el Negro llevan de pesca a Tilo, hijo adolescente de Eusebio, el amigo muerto. Mientras beben y cocinan y
   hablan y bailan, lidian con los fantasmas del…
 date: '2024-05-10T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura
 - Literatura latinoamericana
 toc: false
-id: 647
+id: 644
 autores:
 - Selva Almada
 autores_stats:

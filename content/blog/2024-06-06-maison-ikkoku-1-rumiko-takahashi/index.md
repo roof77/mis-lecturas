@@ -1,5 +1,5 @@
 ---
-title: '#652 · Maison Ikkoku 1'
+title: '#649 · Maison Ikkoku 1'
 summary: "Acclaimed author Rumiko Takahashi’s classic romantic comedy about finding your path in life.\r\n\r\nYusaku Godai\
   \ didn’t get accepted into college on the first try…"
 date: '2024-06-06T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Japón
 - Literatura japanesa
 toc: false
-id: 652
+id: 649
 autores:
 - Rumiko Takahashi
 autores_stats:

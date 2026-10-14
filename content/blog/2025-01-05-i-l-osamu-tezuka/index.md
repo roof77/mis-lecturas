@@ -1,5 +1,5 @@
 ---
-title: '#693 · I.L.'
+title: '#691 · I.L.'
 summary: '"I. L", detrás de estas curiosas iniciales quizás se esconda una diosa, un delirio o un simple maniquí... ¿Quién
   puede saberlo? I. L es una mujer camaleónica…'
 date: '2025-01-05T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - Fantasía
 - Ficción
 toc: false
-id: 693
+id: 691
 autores:
 - Osamu Tezuka
 autores_stats:

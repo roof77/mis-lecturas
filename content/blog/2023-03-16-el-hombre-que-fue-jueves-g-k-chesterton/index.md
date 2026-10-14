@@ -1,5 +1,5 @@
 ---
-title: '#583 · El hombre que fue Jueves'
+title: '#580 · El hombre que fue Jueves'
 summary: El hombre que fue Jueves, una de las novelas más populares del escritor y polemista británico G. K. Chesterton, pertenece
   a una variedad literaria peculiar…
 date: '2023-03-16T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Literatura británica
 - Club de lectura
 toc: false
-id: 583
+id: 580
 autores:
 - G.K. Chesterton
 autores_stats:

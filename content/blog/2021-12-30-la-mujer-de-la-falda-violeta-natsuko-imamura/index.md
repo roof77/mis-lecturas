@@ -1,5 +1,5 @@
 ---
-title: '#513 · La mujer de la falda violeta'
+title: '#511 · La mujer de la falda violeta'
 summary: "UNA EXTRAORDINARIA NOVELA \r\nSOBRE EL PODER DE LA (IN)DIFERENCIA\r\n\r\nLa mujer de la falda violeta es de una\
   \ edad indeterminada, vive sola, no se relaciona con…"
 date: '2021-12-30T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Misterio
 - Literatura asiática
 toc: false
-id: 513
+id: 511
 autores:
 - Natsuko Imamura
 - Juan Francisco González Sánchez

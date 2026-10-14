@@ -1,5 +1,5 @@
 ---
-title: '#759 · La balada del mar salado'
+title: '#758 · La balada del mar salado'
 summary: '"La balada del mar salado" está ambientada en un Pacífico azotado por los huracanes, pero también por los vientos
   de una guerra lejana, un mundo poblado por…'
 date: '2025-06-30T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Literatura italiana
 - Italia
 toc: false
-id: 759
+id: 758
 autores:
 - Hugo Pratt
 autores_stats:

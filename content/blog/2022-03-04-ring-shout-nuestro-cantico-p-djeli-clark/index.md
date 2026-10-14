@@ -1,5 +1,5 @@
 ---
-title: '#522 · Ring Shout. Nuestro cántico'
+title: '#520 · Ring Shout. Nuestro cántico'
 summary: Una fantasía histórica oscura y de lo más sonada con un final apoteósico que da un giro sobrenatural al reino del
   terror del Ku Klux Klan. En 1915, el estreno…
 date: '2022-03-04T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ciencia ficción
 - Club de lectura
 toc: false
-id: 522
+id: 520
 autores:
 - P. Djèlí Clark
 - Raúl García Campos

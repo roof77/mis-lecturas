@@ -1,5 +1,5 @@
 ---
-title: '#355 · La princesa prometida'
+title: '#353 · La princesa prometida'
 summary: La bella Buttercup jura amor eterno a Westley, que parte en busca de furtuna y es asesinado por unos piratas. La
   doncella, obligada, se promete al príncipe…
 date: '2018-08-21T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Comedia
 - Ciencia Ficción
 toc: false
-id: 355
+id: 353
 autores:
 - William Goldman
 - Celia Filipetto Isicato

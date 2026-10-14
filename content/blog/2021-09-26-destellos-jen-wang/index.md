@@ -1,5 +1,5 @@
 ---
-title: '#495 · Destellos'
+title: '#493 · Destellos'
 summary: 'Moon es todo lo que Christine no es: impulsiva, segura y creativa. A pesar de haber crecido en la misma comunidad
   chino-americana, no pueden ser más distintas…'
 date: '2021-09-26T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Contemporaneo
 - Jovenes adultos
 toc: false
-id: 495
+id: 493
 autores:
 - Jen Wang
 - Julia Osuna Aguilar

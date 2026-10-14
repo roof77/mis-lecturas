@@ -1,5 +1,5 @@
 ---
-title: '#603 · Don Drácula'
+title: '#600 · Don Drácula'
 summary: Una versión totalmente alocada de este personaje universal, en la cual Don Drácula vive en Japón junto a su hijita
   Chócola y su sirviente Igor. El profesor…
 date: '2023-09-17T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 603
+id: 600
 autores:
 - Osamu Tezuka
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#662 · Maison Ikkoku 10'
+title: '#659 · Maison Ikkoku 10'
 summary: "Tomo 10 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores…"
 date: '2024-07-02T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Slice of life
 - Literatura japanesa
 toc: false
-id: 662
+id: 659
 autores:
 - Rumiko Takahashi
 autores_stats:

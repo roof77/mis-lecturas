@@ -1,5 +1,5 @@
 ---
-title: '#487 · Us'
+title: '#485 · Us'
 summary: ¿Qué pasa cuando la vida que tenías asumida da un giro de 180 grados? Nada... Y también todo. Us es la historia de
   amor de Sara y Diana, y también la historia…
 date: '2021-09-07T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Transgenero
 - Lesbianismo
 toc: false
-id: 487
+id: 485
 autores:
 - Sara Soler
 autores_stats:

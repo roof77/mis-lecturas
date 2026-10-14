@@ -1,5 +1,5 @@
 ---
-title: '#709 · California Rocket Fuel'
+title: '#708 · California Rocket Fuel'
 summary: California Rocket Fuel es la historia de una consulta al psicólogo/psiquiatra. El relato ilustrado del trastorno
   bipolar del protagonista, con sus altibajos…
 date: '2025-02-13T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 709
+id: 708
 autores:
 - Lorenzo Montatore
 autores_stats:

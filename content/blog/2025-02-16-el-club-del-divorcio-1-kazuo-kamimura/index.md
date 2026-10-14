@@ -1,5 +1,5 @@
 ---
-title: '#710 · El club del divorcio 1'
+title: '#709 · El club del divorcio 1'
 summary: El club del divorcio (1974-1975) narra las desventuras de la joven Yûko, quien regenta un bar donde trabajan mujeres
   divorciadas que intentan sobrevivir como…
 date: '2025-02-16T23:59:59'
@@ -14,7 +14,7 @@ tags:
 - Seinen manga
 - Japón
 toc: false
-id: 710
+id: 709
 autores:
 - Kazuo Kamimura
 autores_stats:

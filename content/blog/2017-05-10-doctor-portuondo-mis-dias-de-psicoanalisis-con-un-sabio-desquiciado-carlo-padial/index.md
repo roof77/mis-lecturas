@@ -1,5 +1,5 @@
 ---
-title: '#247 · Doctor Portuondo: Mis días de psicoanálisis con un sabio desquiciado'
+title: '#246 · Doctor Portuondo: Mis días de psicoanálisis con un sabio desquiciado'
 summary: El doctor Portuondo era un cubano exiliado en Barcelona que bebía whisky Johnnie Walker, juraba en nombre de Freud
   y me echaba de la consulta cada dos por…
 date: '2017-05-10T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - Humor
 toc: false
-id: 247
+id: 246
 autores:
 - Carlo Padial
 autores_stats:

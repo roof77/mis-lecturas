@@ -1,5 +1,5 @@
 ---
-title: '#491 · La casa al final de Needless Street'
+title: '#489 · La casa al final de Needless Street'
 summary: "Todos los monstruos tienen una historia.\r\n\r\nLa casa al final de Needless Street es la historia de una niña que\
   \ desapareció once años atrás en una excursión a…"
 date: '2021-09-21T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Crimen
 - Gótico
 toc: false
-id: 491
+id: 489
 autores:
 - Catriona Ward
 - Cristina Macía

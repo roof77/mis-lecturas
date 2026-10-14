@@ -1,5 +1,5 @@
 ---
-title: '#399 · La chica de ojos verdes'
+title: '#397 · La chica de ojos verdes'
 summary: Caithleen (luego Kate) y Baba, dos amigas irlandesas —encantadoras unas veces, contradictorias otras—, se han instalado,
   tras una adolescencia de paisajes…
 date: '2019-08-09T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Coming of age
 - Clásicos modernos
 toc: false
-id: 399
+id: 397
 autores:
 - Edna O'Brien
 - Regina López Muñoz

@@ -1,5 +1,5 @@
 ---
-title: '#632 · La riada'
+title: '#629 · La riada'
 summary: "Descubre el primer volumen de la saga Blackwater.\r\n\r\nUna saga matriarcal. Mujeres poderosas que luchan por el\
   \ dominio durante generaciones. Una atmósfera única…"
 date: '2024-04-02T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Gótico sureño
 - Histórico
 toc: false
-id: 632
+id: 629
 autores:
 - Michael McDowell
 - Carles Andreu

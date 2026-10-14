@@ -1,5 +1,5 @@
 ---
-title: '#511 · Las doncellas de óxido'
+title: '#509 · Las doncellas de óxido'
 summary: Verano de 1980 en Cleveland, Ohio. Phoebe Shaw, y su prima y mejor amiga, Jacqueline, acaban de graduarse en la escuela
   de secundaria en medio de un futuro del…
 date: '2021-12-22T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Histórico
 - Paranormal
 toc: false
-id: 511
+id: 509
 autores:
 - Gwendolyn Kiste
 - Antonio Torrubia

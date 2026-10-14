@@ -1,5 +1,5 @@
 ---
-title: '#325 · La acusación'
+title: '#323 · La acusación'
 summary: En el año 2013 un anónimo escritor norcoreano consiguió sacar fuera del país un manuscrito que contenía parte de
   su obra literaria. Un año después se…
 date: '2018-07-26T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Histórico
 - Adultos
 toc: false
-id: 325
+id: 323
 autores:
 - Bandi
 - Hèctor Bofill

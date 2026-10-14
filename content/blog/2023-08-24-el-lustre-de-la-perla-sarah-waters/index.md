@@ -1,5 +1,5 @@
 ---
-title: '#598 · El lustre de la perla'
+title: '#595 · El lustre de la perla'
 summary: La joven Nancy Astley vendía ostras en una pequeña ciudad portuaria en la costa de Kent hasta que un día llegó una
   compañía de variedades donde cantaba un…
 date: '2023-08-24T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Gay
 - Victoriano
 toc: false
-id: 598
+id: 595
 autores:
 - Sarah Waters
 - Jaime Zulaika

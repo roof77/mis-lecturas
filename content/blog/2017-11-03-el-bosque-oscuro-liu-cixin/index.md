@@ -1,5 +1,5 @@
 ---
-title: '#274 · El bosque oscuro'
+title: '#273 · El bosque oscuro'
 summary: En El bosque oscuro, la humanidad se recupera del impacto producido por la inminencia de una invasión alienígena
   en el plazo de cuatro siglos. Los…
 date: '2017-11-03T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Novela
 - Ficción especulativa
 toc: false
-id: 274
+id: 273
 autores:
 - Liu Cixin
 - Javier Altayó

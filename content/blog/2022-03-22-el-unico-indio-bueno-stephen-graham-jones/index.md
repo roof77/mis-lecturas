@@ -1,5 +1,5 @@
 ---
-title: '#526 · El único indio bueno'
+title: '#524 · El único indio bueno'
 summary: Ricky, Gabe, Lewis and Cassidy son cuatro amigos de la infancia, cuatro indios americanos que, en su madurez, viven
   atrapados entre una sociedad que los…
 date: '2022-03-22T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Club de lectura
 - Paranormal
 toc: false
-id: 526
+id: 524
 autores:
 - Stephen Graham Jones
 - Rafael Martín Coronel

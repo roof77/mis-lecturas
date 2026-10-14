@@ -1,5 +1,5 @@
 ---
-title: '#383 · 84, Charing Cross Road'
+title: '#381 · 84, Charing Cross Road'
 summary: Un día, en octubre de 1949, Helene Hanff, una joven escritora desconocida, envía una carta desde Nueva York a Marks
   & Co., la librería situada en el 84 de…
 date: '2019-03-21T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Literatura británica
 - Historia
 toc: false
-id: 383
+id: 381
 autores:
 - Helene Hanff
 - Francisco Javier Calzada

@@ -1,5 +1,5 @@
 ---
-title: '#302 · Agentes de Dreamland'
+title: '#301 · Agentes de Dreamland'
 summary: En una calurosa mañana un agente especial del gobierno llega a Winslow, Arizona, y se reúne con una mujer para intercambiar
   información sobre un suceso…
 date: '2018-03-23T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción especulativa
 - Misterio
 toc: false
-id: 302
+id: 301
 autores:
 - Caitlín R. Kiernan
 - María Pilar San Román

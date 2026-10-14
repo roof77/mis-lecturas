@@ -1,5 +1,5 @@
 ---
-title: '#374 · El cielo de piedra'
+title: '#372 · El cielo de piedra'
 summary: "La autora que ha hecho historia al ganar tres Premios Hugo consecutivos a la mejor novela.\r\n\r\nLa Luna volverá\
   \ pronto. Que su regreso proclame la destrucción…"
 date: '2019-01-30T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Mágia
 - Ficción especulativa
 toc: false
-id: 374
+id: 372
 autores:
 - N.K. Jemisin
 - David Tejera Expósito

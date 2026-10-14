@@ -1,5 +1,5 @@
 ---
-title: '#381 · Zombi'
+title: '#379 · Zombi'
 summary: Conozcan a Quentin P., un dolor de cabeza para su padre profesor y su amante madre. Un desafío para su diplomadísimo
   psiquiatra. Un dulce y tierno jovencito…
 date: '2019-03-12T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Ficción Literaria
 - Zombies
 toc: false
-id: 381
+id: 379
 autores:
 - Joyce Carol Oates
 - Carmen Camps

@@ -1,5 +1,5 @@
 ---
-title: '#433 · Valores familiares'
+title: '#431 · Valores familiares'
 summary: «Si no estás en el Inner Circle, te estás perdiendo nuevas voces de la literatura que desafían el statu quo. Es refrescante
   no leer lo mismo de siempre, además…
 date: '2020-05-26T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - Bizarro
 toc: false
-id: 433
+id: 431
 autores:
 - Alfredo Álamo
 - Sergi Álvarez

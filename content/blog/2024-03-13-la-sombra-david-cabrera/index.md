@@ -1,5 +1,5 @@
 ---
-title: '#629 · La Sombra'
+title: '#626 · La Sombra'
 summary: Este libro es la historia de una sombra que mató a un hombre de una puñalada, fue condenado a veinte años de prisión
   y huyó antes de entrar en la cárcel. En…
 date: '2024-03-13T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - No Ficción
 toc: false
-id: 629
+id: 626
 autores:
 - David Cabrera
 autores_stats:

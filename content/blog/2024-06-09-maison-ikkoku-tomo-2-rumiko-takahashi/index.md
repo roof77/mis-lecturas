@@ -1,5 +1,5 @@
 ---
-title: '#653 · Maison Ikkoku tomo 2'
+title: '#650 · Maison Ikkoku tomo 2'
 summary: "Tomo 2 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-06-09T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Humor
 - Seinen manga
 toc: false
-id: 653
+id: 650
 autores:
 - Rumiko Takahashi
 autores_stats:

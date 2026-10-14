@@ -1,5 +1,5 @@
 ---
-title: '#263 · Mi prima Rachel'
+title: '#262 · Mi prima Rachel'
 summary: Philip Ashley, el narrador de esta novela, es un joven huérfano que ha sido criado por su primo Ambrose, un terrateniente
   de Cornualles veinte años mayor que…
 date: '2017-09-07T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Club de lectura
 - Histórico
 toc: false
-id: 263
+id: 262
 autores:
 - Daphne du Maurier
 - Concha Cardeñoso Sáenz de Miera

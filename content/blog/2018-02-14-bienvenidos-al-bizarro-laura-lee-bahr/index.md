@@ -1,5 +1,5 @@
 ---
-title: '#294 · Bienvenidos al bizarro'
+title: '#293 · Bienvenidos al bizarro'
 summary: "¡Anunciado en televisión!*\r\n\r\nConcursantes de un reality de modificación corporal competitiva, enfermedades\
   \ de transmisión sexual extremas y coleccionables…"
 date: '2018-02-14T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - Bizarro
 - Humor
 toc: false
-id: 294
+id: 293
 autores:
 - Laura Lee Bahr
 - Garrett Cook

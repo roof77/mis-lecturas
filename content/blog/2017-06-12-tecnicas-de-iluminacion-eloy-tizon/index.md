@@ -1,5 +1,5 @@
 ---
-title: '#251 · Técnicas de iluminación'
+title: '#250 · Técnicas de iluminación'
 summary: ¿Qué ocurrió realmente en la fiesta celebrada anoche? ¿Hubo alguna víctima? ¿Qué contiene la caja que nuestro jefe
   nos entrega en secreto, pidiéndonos que no…
 date: '2017-06-12T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Libros
 - Relatos
 toc: false
-id: 251
+id: 250
 autores:
 - Eloy Tizón
 autores_stats:

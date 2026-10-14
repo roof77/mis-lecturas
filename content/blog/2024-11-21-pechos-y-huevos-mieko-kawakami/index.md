@@ -1,5 +1,5 @@
 ---
-title: '#689 · Pechos y huevos'
+title: '#687 · Pechos y huevos'
 summary: En un sofocante día de verano, Makiko viaja a Tokio a visitar a su hermana Natsu. Incapaz de aceptar los cambios
   de su cuerpo después de dar a luz, Makiko está…
 date: '2024-11-21T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ásia
 - Club de lectura
 toc: false
-id: 689
+id: 687
 autores:
 - Mieko Kawakami
 autores_stats:

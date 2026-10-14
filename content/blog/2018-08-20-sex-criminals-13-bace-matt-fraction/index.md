@@ -1,5 +1,5 @@
 ---
-title: '#338 · Sex Criminals #13: Bace'
+title: '#336 · Sex Criminals #13: Bace'
 summary: Bwakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-wakka-chikka-BWOMP
 date: '2018-08-20T23:59:43'
 authors:
@@ -11,7 +11,7 @@ tags:
 - Fantasía
 - Ficción
 toc: false
-id: 338
+id: 336
 autores:
 - Matt Fraction
 autores_stats:

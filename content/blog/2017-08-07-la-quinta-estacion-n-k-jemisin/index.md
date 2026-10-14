@@ -1,5 +1,5 @@
 ---
-title: '#259 · La quinta estación'
+title: '#258 · La quinta estación'
 summary: La quinta estación es la primera novela de «La Tierra Fragmentada», serie que mezcla fantasía y ciencia ficción,
   y que ha hecho merecedora a su autora de dos…
 date: '2017-08-07T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Alta fantasía
 - LGTBIQ+
 toc: false
-id: 259
+id: 258
 autores:
 - N.K. Jemisin
 - David Tejera Expósito

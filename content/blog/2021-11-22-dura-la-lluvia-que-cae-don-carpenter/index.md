@@ -1,5 +1,5 @@
 ---
-title: '#506 · Dura la lluvia que cae'
+title: '#504 · Dura la lluvia que cae'
 summary: Dura la lluvia que cae es una novela de crimen, castigo y la búsqueda de una redención siempre postergada en la estela
   de Dostoyevski. Épica en su alcance, la…
 date: '2021-11-22T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - EEUU
 - Siglo XX
 toc: false
-id: 506
+id: 504
 autores:
 - Don Carpenter
 autores_stats:

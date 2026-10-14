@@ -1,5 +1,5 @@
 ---
-title: '#658 · Maison Ikkoku tomo 5'
+title: '#655 · Maison Ikkoku tomo 5'
 summary: "Tomo 5 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-06-21T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Slice of life
 - Literatura japanesa
 toc: false
-id: 658
+id: 655
 autores:
 - Rumiko Takahashi
 autores_stats:

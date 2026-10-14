@@ -1,5 +1,5 @@
 ---
-title: '#573 · Cluny Brown'
+title: '#570 · Cluny Brown'
 summary: "Una deliciosa comedia social británica que satiriza las buenas maneras inglesas y los estrictos protocolos de clase\
   \ y de género de inicios del siglo XX.\r\n\r\nAño…"
 date: '2022-12-22T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Novela
 - Coming of age
 toc: false
-id: 573
+id: 570
 autores:
 - Margery Sharp
 - Raquel García Rojas

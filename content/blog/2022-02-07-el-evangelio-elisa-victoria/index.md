@@ -1,5 +1,5 @@
 ---
-title: '#521 · El evangelio'
+title: '#519 · El evangelio'
 summary: «Mundo maldito, llévame a mí si quieres que ya estoy podrida de todas formas pero no me chafes a Alberto, a Alberto
   déjamelo tranquilo dando saltos en su casa…
 date: '2022-02-07T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Feminismo
 - Sociedad
 toc: false
-id: 521
+id: 519
 autores:
 - Elisa Victoria
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#697 · Hypocrite: Cómo descodificar el Atircopih'
+title: '#695 · Hypocrite: Cómo descodificar el Atircopih'
 summary: Una de las obras más POP del creador de Barbarella.
 date: '2025-01-15T23:59:59'
 authors:
@@ -8,7 +8,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 697
+id: 695
 autores:
 - Jean-Claude Forest
 autores_stats:

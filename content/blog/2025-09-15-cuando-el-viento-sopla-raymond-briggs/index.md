@@ -1,5 +1,5 @@
 ---
-title: '#772 · Cuando el viento sopla'
+title: '#771 · Cuando el viento sopla'
 summary: Considerada de forma unánime la obra cumbre de Raymond Briggs, Cuando el viento sopla fue publicada en 1982, en plena
   efervescencia del terror ciudadano ante…
 date: '2025-09-15T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Niños
 - Ciencia ficción
 toc: false
-id: 772
+id: 771
 autores:
 - Raymond Briggs
 - Rosa Montero

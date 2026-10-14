@@ -1,5 +1,5 @@
 ---
-title: '#554 · Ahora y en la hora de nuestra muerte'
+title: '#552 · Ahora y en la hora de nuestra muerte'
 summary: 'En este libro, Susana Moreira Marques se rebela contra una máxima que repetía su abuelo: que solo los ricos parecen
   ostentar el derecho a dejar historia. La…'
 date: '2022-07-13T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Autoras
 - Salud
 toc: false
-id: 554
+id: 552
 autores:
 - Susana Moreira Marques
 - María Alonso Seisdedos

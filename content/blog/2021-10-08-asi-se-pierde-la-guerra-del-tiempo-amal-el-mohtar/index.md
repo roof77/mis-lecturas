@@ -1,5 +1,5 @@
 ---
-title: '#501 · Así se pierde la guerra del tiempo'
+title: '#499 · Así se pierde la guerra del tiempo'
 summary: Así se pierde la guerra del tiempo de Max Gladstone y Amal El-Mohtar es una épica historia de amor entre dos agentes
   rivales en una guerra que se extiende…
 date: '2021-10-08T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Lesbianismo
 - Club de lectura
 toc: false
-id: 501
+id: 499
 autores:
 - Amal El-Mohtar
 - Max Gladstone

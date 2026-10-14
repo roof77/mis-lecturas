@@ -1,5 +1,5 @@
 ---
-title: '#541 · El acontecimiento'
+title: '#539 · El acontecimiento'
 summary: En octubre de 1963, Annie Ernaux, la protagonista de esta historia, se encuentra en la ciudad de Ruán estudiando
   filología, cuando descubre que está…
 date: '2022-05-23T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Mujeres
 - Contemporaneo
 toc: false
-id: 541
+id: 539
 autores:
 - Annie Ernaux
 - Berta Corral

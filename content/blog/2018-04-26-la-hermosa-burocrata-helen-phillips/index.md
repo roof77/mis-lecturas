@@ -1,5 +1,5 @@
 ---
-title: '#306 · La hermosa burócrata'
+title: '#305 · La hermosa burócrata'
 summary: Si las perspectivas laborales no hubieran sido tan sombrías durante ese húmedo verano, es probable que Josephine
   no hubiera aceptado el puesto de…
 date: '2018-04-26T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Adultos
 - Novela
 toc: false
-id: 306
+id: 305
 autores:
 - Helen Phillips
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#561 · Más que palabras'
+title: '#559 · Más que palabras'
 summary: Charlie nunca pensó que podría gustarle a Nick, pero resulta que ahora son pareja. De forma oficial. Pero no solo
   eso, también cree que está preparado para…
 date: '2022-09-15T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Salud mentál
 - Gay
 toc: false
-id: 561
+id: 559
 autores:
 - Alice Oseman
 - Victoria Simó

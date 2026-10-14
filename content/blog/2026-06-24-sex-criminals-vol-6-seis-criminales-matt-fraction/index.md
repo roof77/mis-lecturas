@@ -1,8 +1,8 @@
 ---
-title: '#874 · Sex Criminals, Vol. 6: Seis criminales'
+title: '#875 · Sex Criminals, Vol. 6: Seis criminales'
 summary: Suze y Jon volvían a estar juntos. Eran felices, lo habían superado. Para ellos habían acabado el crimen, los primeros
   días de su relación, su extraño truco de…
-date: '2026-06-24T23:59:58'
+date: '2026-06-24T23:59:59'
 authors:
 - roof77
 tags:
@@ -15,7 +15,7 @@ tags:
 - Ciencia ficción
 - Humor
 toc: false
-id: 874
+id: 875
 autores:
 - Matt Fraction
 - Chip Zdarsky

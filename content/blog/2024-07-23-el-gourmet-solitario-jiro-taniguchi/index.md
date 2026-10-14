@@ -1,5 +1,5 @@
 ---
-title: '#675 · El gourmet solitario'
+title: '#672 · El gourmet solitario'
 summary: Un hombre solitario, con un trabajo que le permite una gran movilidad, recorre las calles de Tokio y otras localidades
   japonesas para visitar a sus clientes…
 date: '2024-07-23T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Literatura japanesa
 - Seinen manga
 toc: false
-id: 675
+id: 672
 autores:
 - Jirō Taniguchi
 - Masayuki Kusumi

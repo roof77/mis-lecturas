@@ -1,5 +1,5 @@
 ---
-title: '#250 · Lovecraft Country'
+title: '#249 · Lovecraft Country'
 summary: Chicago, 1954. When his father Montrose goes missing, 22-year-old Army veteran Atticus Turner embarks on a road trip
   to New England to find him, accompanied by…
 date: '2017-06-08T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Club de lectura
 - Sobrenatural
 toc: false
-id: 250
+id: 249
 autores:
 - Matt Ruff
 autores_stats:

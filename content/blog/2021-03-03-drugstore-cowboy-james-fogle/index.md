@@ -1,5 +1,5 @@
 ---
-title: '#452 · Drugstore cowboy'
+title: '#450 · Drugstore cowboy'
 summary: A sus treinta y cinco años, Bob Hughes lidera una banda de yonquis que ocupa su tiempo robando farmacias y pinchándose
   el botín de sus fechorías. Carismático y…
 date: '2021-03-03T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Literatura
 - Ficción Literaria
 toc: false
-id: 452
+id: 450
 autores:
 - James Fogle
 - Juan Carlos Postigo

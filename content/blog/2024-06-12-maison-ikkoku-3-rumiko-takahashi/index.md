@@ -1,5 +1,5 @@
 ---
-title: '#655 · Maison Ikkoku 3'
+title: '#652 · Maison Ikkoku 3'
 summary: "Tomo 3 de 10.\r\nUna de las mejores obras de una de las principales autoras de manga de todos los tiempos. Maison\
   \ Ikkoku cuenta la historia de amores, desamores…"
 date: '2024-06-12T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Humor
 - Seinen manga
 toc: false
-id: 655
+id: 652
 autores:
 - Rumiko Takahashi
 autores_stats:

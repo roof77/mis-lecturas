@@ -1,5 +1,5 @@
 ---
-title: '#739 · Dr. Inugami'
+title: '#738 · Dr. Inugami'
 summary: Una terrorífica y deliciosa historia del maestro Maruo. Una densa trama de satanismo y sacrificios humanos y animales,
   con ingredientes tan espectaculares como…
 date: '2025-04-25T23:59:59'
@@ -12,7 +12,7 @@ tags:
 - Terror
 - Novela gráfica
 toc: false
-id: 739
+id: 738
 autores:
 - Suehiro Maruo
 autores_stats:

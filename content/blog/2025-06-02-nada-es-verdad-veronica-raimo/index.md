@@ -1,5 +1,5 @@
 ---
-title: '#752 · Nada es verdad'
+title: '#751 · Nada es verdad'
 summary: Una novela desternillante y feroz sobre vínculos, pérdidas, desastres familiares y la aventura de crecer. Veronica
   pasa su infancia y adolescencia en un barrio…
 date: '2025-06-02T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Novela
 - Familia
 toc: false
-id: 752
+id: 751
 autores:
 - Veronica Raimo
 autores_stats:

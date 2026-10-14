@@ -1,5 +1,5 @@
 ---
-title: '#570 · Un caballero en Moscú'
+title: '#567 · Un caballero en Moscú'
 summary: Condenado a muerte por los bolcheviques en 1922, el conde Aleksandr Ilich Rostov elude su trágico final por un inusitado
   giro del destino. Gracias a un poema…
 date: '2022-11-22T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Ficción adulta
 toc: false
-id: 570
+id: 567
 autores:
 - Amor Towles
 - Gemma Rovira Ortega

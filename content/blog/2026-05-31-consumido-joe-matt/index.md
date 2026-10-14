@@ -1,7 +1,7 @@
 ---
 title: '#853 · Consumido'
-summary: 'Meet the original antihero Joe Matt: a master of a domain that includes more than twenty-three self-edited eight-hour-long
-  videotapes of bootlegged…'
+summary: Continuación de la conocida serie «Peepshow» (Pobre cabrón, Buen tiempo), Consumido se ambienta en los últimos años
+  de la estancia del autor en Canadá junto a…
 date: '2026-05-31T23:59:58'
 authors:
 - roof77
@@ -31,7 +31,7 @@ nota: Entretenido
 
 ## Sinopsis
 
-Meet the original antihero Joe Matt: a master of a domain that includes more than twenty-three self-edited eight-hour-long videotapes of bootlegged pornography; a penny-pincher who never fails to make a dime off his friends; a chronic masturbator who doesn’t understand why he never has a girlfriend; an obsessive collector frantically searching for the toys of his childhood; a callous son who throws out every gift his adoring mother gives him; a man so lazy that he urinates in a bottle rather than walk to the bathroom.Everyone and everything is fodder for Matt’s autobiographical comics, even having lost the love of his life for documenting his crush on her best friend in the pages of his legendary comic book series Peepshow. Matt’s biggest target for ridicule, however, is himself.Wearing his neuroses and fetishes on his sleeve, he knows he is a jerk and does nothing to hide it. This humiliating honesty has made Matt a comedic genius who has been hilariously and shamelessly chronicling his pathetic existence for close to twenty years.
+Continuación de la conocida serie «Peepshow» (Pobre cabrón, Buen tiempo), Consumido se ambienta en los últimos años de la estancia del autor en Canadá junto a sus colegas Seth y Chester Brown. El título puede ser entendido literalmente no sólo como resultado de la pasión masturbatoria de Joe Matt, sino como la crónica de la decadencia de un artista que ha tardado casi una década en completar las exiguas cien páginas de este libro. Hay aún una tercera lectura del título que nos remite a su proverbial tacañería, uno más de los plumeros que adornan a este lamentable pícaro moderno, vago antológico, sablista, llorica y campeón de los pajeros, que sin embargo alcanza aquí cotas de una rara elegancia como narrador.
 
 ## Ficha del libro
 

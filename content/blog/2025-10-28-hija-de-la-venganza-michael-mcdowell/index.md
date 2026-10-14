@@ -1,5 +1,5 @@
 ---
-title: '#777 · Hija de la venganza'
+title: '#776 · Hija de la venganza'
 summary: Cuando en 1871 la intrépida y arruinada Philomela Drax recibe una carta de su abuelo en la que le confiesa temer
   por su vida a causa de una familia sin…
 date: '2025-10-28T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Gótico
 - Novela
 toc: false
-id: 777
+id: 776
 autores:
 - Michael McDowell
 - Carles Andreu

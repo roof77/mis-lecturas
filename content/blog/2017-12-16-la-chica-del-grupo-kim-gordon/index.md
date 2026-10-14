@@ -1,5 +1,5 @@
 ---
-title: '#280 · La chica del grupo'
+title: '#279 · La chica del grupo'
 summary: Kim Gordon dio a luz a principios de los 80, junto al que sería su marido Thurston Moore y el guitarrista Lee Ranaldo,
   a uno de los grupos más innovadores…
 date: '2017-12-16T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Arte
 - Mujeres
 toc: false
-id: 280
+id: 279
 autores:
 - Kim Gordon
 autores_stats:

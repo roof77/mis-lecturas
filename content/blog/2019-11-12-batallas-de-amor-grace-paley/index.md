@@ -1,5 +1,5 @@
 ---
-title: '#411 · Batallas de amor'
+title: '#409 · Batallas de amor'
 summary: 'Grace Paley (Nueva York, 1922 - Vermont, 2007) vivió entre dos culturas: la de sus padres, inmigrantes judíos rusos,
   y la de la gente de la calle, que le…'
 date: '2019-11-12T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Mujeres
 - Judaismo
 toc: false
-id: 411
+id: 409
 autores:
 - Grace Paley
 autores_stats:

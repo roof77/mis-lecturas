@@ -1,5 +1,5 @@
 ---
-title: '#763 · Cosas pequeñas como esas'
+title: '#762 · Cosas pequeñas como esas'
 summary: Invierno de 1985 en un pequeño pueblo irlandés. Bill Furlong es un hombre amable y un trabajador infatigable, vende
   carbón y madera. Su única preocupación es…
 date: '2025-07-31T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura irlandesa
 - Histórico
 toc: false
-id: 763
+id: 762
 autores:
 - Claire Keegan
 - Jorge Fondebrider

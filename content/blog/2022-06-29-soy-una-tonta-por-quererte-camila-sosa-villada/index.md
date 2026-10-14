@@ -1,5 +1,5 @@
 ---
-title: '#548 · Soy una tonta por quererte'
+title: '#546 · Soy una tonta por quererte'
 summary: En plena decada de los años 90 una mujer se gana la vida como novia de alquiler de hombres gays. En un fumadero de
   Harlem una travesti latina conoce…
 date: '2022-06-29T23:59:58'
@@ -18,7 +18,7 @@ tags:
 - Latinos
 - Literatura latinoamericana
 toc: false
-id: 548
+id: 546
 autores:
 - Camila Sosa Villada
 autores_stats:

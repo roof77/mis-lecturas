@@ -1,5 +1,5 @@
 ---
-title: '#642 · Dr. Slump Ultimate Edition Nº3'
+title: '#639 · Dr. Slump Ultimate Edition Nº3'
 summary: Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de
   Villa Pingüino. Pero eso no es nada…
 date: '2024-04-27T23:59:58'
@@ -10,7 +10,7 @@ tags:
 - Comics
 - Manga
 toc: false
-id: 642
+id: 639
 autores:
 - Akira Toriyama
 autores_stats:

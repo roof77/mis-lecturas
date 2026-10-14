@@ -1,5 +1,5 @@
 ---
-title: '#585 · No cambies nunca'
+title: '#582 · No cambies nunca'
 summary: "La faceta más oscura de la ciencia\r\n\r\nSeúl, en un futuro lejano. Tres tramas paralelas, que acabarán entrelazándose:\
   \ una científica lleva a cabo un experimento…"
 date: '2023-03-20T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 585
+id: 582
 autores:
 - David Sánchez
 autores_stats:

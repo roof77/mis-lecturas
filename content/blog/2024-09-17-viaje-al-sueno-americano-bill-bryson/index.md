@@ -1,5 +1,5 @@
 ---
-title: '#683 · Viaje al sueño americano'
+title: '#680 · Viaje al sueño americano'
 summary: Bill Bryson tiene la rara habilidad de sentirse descolocado donde quiera que vaya, incluso (quizá especialmente)
   en su tierra natal. Este rasgo de su carácter…
 date: '2024-09-17T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - EEUU
 - Comedia
 toc: false
-id: 683
+id: 680
 autores:
 - Bill Bryson
 - Manuel Manzano Gómez

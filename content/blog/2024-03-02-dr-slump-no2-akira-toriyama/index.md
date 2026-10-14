@@ -1,5 +1,5 @@
 ---
-title: '#625 · Dr. Slump Nº2'
+title: '#622 · Dr. Slump Nº2'
 summary: Arale es un robot con forma de chica que ha creado el doctor Sembei Norimaki, uno de los excéntricos habitantes de
   Villa Pingüino. Pero eso no es nada…
 date: '2024-03-02T23:59:59'
@@ -11,7 +11,7 @@ tags:
 - Manga
 - Humor
 toc: false
-id: 625
+id: 622
 autores:
 - Akira Toriyama
 autores_stats:

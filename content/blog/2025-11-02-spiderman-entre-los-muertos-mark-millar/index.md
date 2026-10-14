@@ -1,5 +1,5 @@
 ---
-title: '#569 · Spiderman: Entre los muertos'
+title: '#778 · Spiderman: Entre los muertos'
 summary: 'Peter Parker''s worst nightmare has finally come true: one of Spider-Man''s enemies has learned his secret identity
   and is using that knowledge to strike at…'
 date: '2025-11-02T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Ciencia ficción
 - Jovenes adultos
 toc: false
-id: 569
+id: 778
 autores:
 - Mark Millar
 - Terry Dodson

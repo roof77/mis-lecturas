@@ -1,5 +1,5 @@
 ---
-title: '#666 · Akira, No. 2'
+title: '#663 · Akira, No. 2'
 summary: Segundo tomo de la nueva y flamante edición a todo color del clásico de Katsuhiro Otomo. A KIRA es una obra maestra
   que no puede faltar en la biblioteca de…
 date: '2024-07-10T23:59:58'
@@ -17,7 +17,7 @@ tags:
 - Distopía
 - Literatura japanesa
 toc: false
-id: 666
+id: 663
 autores:
 - Katsuhiro Otomo
 autores_stats:

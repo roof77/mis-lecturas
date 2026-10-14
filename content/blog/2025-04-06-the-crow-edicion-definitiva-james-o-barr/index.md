@@ -1,5 +1,5 @@
 ---
-title: '#731 · The Crow: Edición definitiva'
+title: '#730 · The Crow: Edición definitiva'
 summary: Días antes de su boda, Eric Draven y su novia Shelly son asesinados violentamente por una pandilla. Un años más tarde,
   un misterioso cuervo guía a Eric en su…
 date: '2025-04-06T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Fantasía urbana
 - Crimen
 toc: false
-id: 731
+id: 730
 autores:
 - James O'Barr
 - Ramón de España

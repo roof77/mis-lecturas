@@ -1,5 +1,5 @@
 ---
-title: '#268 · No, mamá, no'
+title: '#267 · No, mamá, no'
 summary: "«Lo que más me sorprendió cuando me enseñaron a mi segundo hijo y lo cogí en brazos fue la total ausencia de sentimientos.\
   \ Ni amor. Ni cólera. Nada». \r\n\r\nJodie…"
 date: '2017-09-19T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Club de lectura
 - Mujeres
 toc: false
-id: 268
+id: 267
 autores:
 - Verity Bargate
 - Mireia Bofill Abelló

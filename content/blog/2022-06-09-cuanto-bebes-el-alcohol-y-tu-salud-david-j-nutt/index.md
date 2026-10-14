@@ -1,5 +1,5 @@
 ---
-title: '#545 · ¿Cuánto bebes?: El alcohol y tu salud'
+title: '#543 · ¿Cuánto bebes?: El alcohol y tu salud'
 summary: Este libro pretende contribuir a que tomes decisiones bien fundamentadas e inteligentes en torno a la bebida. ¿Bebes
   para reducir tu ansiedad? ¿Como válvula…
 date: '2022-06-09T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Autoayuda
 - Comida
 toc: false
-id: 545
+id: 543
 autores:
 - David J. Nutt
 - Ex Estudi

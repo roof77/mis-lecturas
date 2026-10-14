@@ -1,5 +1,5 @@
 ---
-title: '#559 · Un grito de amor desde el centro del mundo'
+title: '#557 · Un grito de amor desde el centro del mundo'
 summary: "La conmovedora historia de amor que ha enamorado a millones de lectores de todo el mundo.\r\n\r\nSakutarô y Aki\
   \ se conocen en la escuela de una ciudad provincial…"
 date: '2022-09-06T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Manga
 - Novela
 toc: false
-id: 559
+id: 557
 autores:
 - Kyōichi Katayama
 autores_stats:

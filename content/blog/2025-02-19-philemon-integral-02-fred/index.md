@@ -1,5 +1,5 @@
 ---
-title: '#713 · Philemon Integral 02'
+title: '#712 · Philemon Integral 02'
 summary: Prosiguen las andanzas de Philémon, quien, con la complicidad de su tío Félicien, de su burro Anatole y del propio
   Barthélémy, continúa descubriendo mundos…
 date: '2025-02-19T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Comics
 - Novela gráfica
 toc: false
-id: 713
+id: 712
 autores:
 - Fred
 autores_stats:

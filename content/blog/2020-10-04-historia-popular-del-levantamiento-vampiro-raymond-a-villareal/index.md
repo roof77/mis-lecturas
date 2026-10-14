@@ -1,5 +1,5 @@
 ---
-title: '#443 · Historia popular del levantamiento vampiro'
+title: '#441 · Historia popular del levantamiento vampiro'
 summary: 'Todo comienza con un misterio: el cuerpo de una mujer hallado en Arizona abandona la morgue y, según los testigos,
   lo hace por su propio pie. Pronto llegan más…'
 date: '2020-10-04T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Distopía
 toc: false
-id: 443
+id: 441
 autores:
 - Raymond A. Villareal
 - Pilar Ramírez Tello

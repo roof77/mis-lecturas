@@ -1,5 +1,5 @@
 ---
-title: '#637 · Historias del barrio - Edición integral'
+title: '#634 · Historias del barrio - Edición integral'
 summary: Palma, Mallorca, años 80. Cada esquina del barrio chino tiene una historia que contar. Gabi, el aún adolescente protagonista,
   deambula por las calles de su…
 date: '2024-04-17T23:59:58'
@@ -13,7 +13,7 @@ tags:
 - Literatura hispana
 - No Ficción
 toc: false
-id: 637
+id: 634
 autores:
 - Gabi Beltrán
 - Bartolomé Seguí

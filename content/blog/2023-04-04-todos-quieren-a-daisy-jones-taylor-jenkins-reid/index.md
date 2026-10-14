@@ -1,5 +1,5 @@
 ---
-title: '#588 · Todos quieren a Daisy Jones'
+title: '#585 · Todos quieren a Daisy Jones'
 summary: 'Todo el mundo conoce a Daisy Jones & The Six: el álbum de la banda Aurora llegó a definir la era del rock ‘n’ roll
   de finales de los setenta, y una generación…'
 date: '2023-04-04T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Ficción adulta
 toc: false
-id: 588
+id: 585
 autores:
 - Taylor Jenkins Reid
 - Lucía Barahona

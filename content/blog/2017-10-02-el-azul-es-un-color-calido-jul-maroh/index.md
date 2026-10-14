@@ -1,5 +1,5 @@
 ---
-title: '#270 · El azul es un color cálido'
+title: '#269 · El azul es un color cálido'
 summary: Clementine es una adolescente sin problemas. Llega del campo para integrarse en un instituto en el que se siente
   a gusto. Un día se cruza en la calle con una…
 date: '2017-10-02T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Jovenes adultos
 - Francia
 toc: false
-id: 270
+id: 269
 autores:
 - Jul Maroh
 - Lorenzo F. Díaz

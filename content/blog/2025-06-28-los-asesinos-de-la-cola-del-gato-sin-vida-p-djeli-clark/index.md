@@ -1,5 +1,5 @@
 ---
-title: '#758 · Los asesinos de la cola del gato sin vida'
+title: '#757 · Los asesinos de la cola del gato sin vida'
 summary: En la antigua ciudad de Tal Abisi opera una organización de asesinos conocida como la Cola del Gato sin Vida. Sus
   miembros, profesionales hábiles y discretos…
 date: '2025-06-28T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ciencia Ficción
 - Alta fantasía
 toc: false
-id: 758
+id: 757
 autores:
 - P. Djèlí Clark
 - Raúl García Campos

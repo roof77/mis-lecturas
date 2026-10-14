@@ -1,5 +1,5 @@
 ---
-title: '#568 · Tostonazo'
+title: '#566 · Tostonazo'
 summary: Un luminoso canto a la vida contra el aburrimiento. Leer esta novela es el mejor acto de resistencia. Esta es una
   novela sobre quienes hacen la vida posible y…
 date: '2022-10-19T23:59:59'
@@ -14,7 +14,7 @@ tags:
 - Drama
 - Novela
 toc: false
-id: 568
+id: 566
 autores:
 - Santiago Lorenzo
 autores_stats:

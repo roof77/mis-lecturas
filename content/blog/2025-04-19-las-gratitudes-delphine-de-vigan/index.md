@@ -1,5 +1,5 @@
 ---
-title: '#736 · Las gratitudes'
+title: '#735 · Las gratitudes'
 summary: '«Hoy ha muerto una anciana a la que yo quería. A menudo pensaba: "Le debo tanto." O: "Sin ella, probablemente ya
   no estaría aquí." Pensaba: "Es tan importante…'
 date: '2025-04-19T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Ficción Literaria
 - Mujeres
 toc: false
-id: 736
+id: 735
 autores:
 - Delphine de Vigan
 - Pablo Martín Sánchez

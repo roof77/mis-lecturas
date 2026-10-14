@@ -1,5 +1,5 @@
 ---
-title: '#453 · Princesa ama a Princesa'
+title: '#451 · Princesa ama a Princesa'
 summary: Végétaline vive en una moderna torre de marfil, aislada del mundo exterior por su fortuna y una posesiva madre. Codette
   es una joven refugiada política del…
 date: '2021-03-07T23:59:59'
@@ -14,7 +14,7 @@ tags:
 - Novela gráfica
 - Francia
 toc: false
-id: 453
+id: 451
 autores:
 - Lisa Mandel
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#579 · Mi año de descanso y relajación'
+title: '#576 · Mi año de descanso y relajación'
 summary: En Mi año de descanso y relajación, Ottessa Moshfegh hace de Manhattan el epicentro de una civilización, la del año
   2000, dominada por la apatía. Como una…
 date: '2023-02-20T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción adulta
 - Nueva York
 toc: false
-id: 579
+id: 576
 autores:
 - Ottessa Moshfegh
 - Inmaculada Concepción Pérez Parra

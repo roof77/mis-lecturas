@@ -1,5 +1,5 @@
 ---
-title: '#286 · Lady Macbeth de Mtsensk'
+title: '#285 · Lady Macbeth de Mtsensk'
 summary: Una de las mejores novelas rusas de todos los tiempos. La historia de un amor apasionado y desmedido ilustrada magníficamente
   por Ignasi Blanch. Admirado por…
 date: '2018-01-15T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Novella
 - Crimen
 toc: false
-id: 286
+id: 285
 autores:
 - Nikolai Leskov
 - Ignasi Blanch Gisbert

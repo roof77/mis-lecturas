@@ -1,5 +1,5 @@
 ---
-title: '#718 · La invitada'
+title: '#717 · La invitada'
 summary: 'Tras el éxito mundial de Las chicas, llega la esperadísima segunda novela de Emma Cline: una joven a la fuga en
   un entorno de lujo y apariencias, un thriller…'
 date: '2025-03-09T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Novela
 - Adultos
 toc: false
-id: 718
+id: 717
 autores:
 - Emma Cline
 - Inga Pellisa

@@ -1,5 +1,5 @@
 ---
-title: '#413 · Enormes cambios de último minuto'
+title: '#411 · Enormes cambios de último minuto'
 summary: In this collection of short stories, originally published in 1974, Grace Paley "makes the novel as a form seem virtually
   redundant" (Angela Carter, London…
 date: '2019-11-14T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Nueva York
 - Autoras
 toc: false
-id: 413
+id: 411
 autores:
 - Grace Paley
 - José Manuel Álvarez Flórez

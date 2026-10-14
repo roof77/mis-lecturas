@@ -1,5 +1,5 @@
 ---
-title: '#730 · Polvazo'
+title: '#729 · Polvazo'
 summary: "Un delirio tan despiadado como tierno.\r\n\r\nJimmie llega un día más a su lugar de  un call center de una agencia\
   \ de viajes londinense donde van a parar, como a…"
 date: '2025-03-30T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Novella
 - Novela
 toc: false
-id: 730
+id: 729
 autores:
 - Katharina Volckmer
 - Inga Pellisa

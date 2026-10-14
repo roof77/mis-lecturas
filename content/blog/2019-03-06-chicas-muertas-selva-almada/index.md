@@ -1,5 +1,5 @@
 ---
-title: '#379 · Chicas muertas'
+title: '#377 · Chicas muertas'
 summary: Tres adolescentes de provincia asesinadas en la década de 1980, tres muertes impunes ocurridas cuando todavía, en
   nuestro país, desconocíamos el término…
 date: '2019-03-06T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Contemporaneo
 - Latino américa
 toc: false
-id: 379
+id: 377
 autores:
 - Selva Almada
 autores_stats:

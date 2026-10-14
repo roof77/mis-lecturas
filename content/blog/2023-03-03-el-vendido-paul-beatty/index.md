@@ -1,5 +1,5 @@
 ---
-title: '#582 · El vendido'
+title: '#579 · El vendido'
 summary: "Una escandalosa tragicomedia que explora el legado de la esclavitud y las desigualdades económicas y raciales de\
   \ la América actual.\r\nDespués de que su padre…"
 date: '2023-03-03T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Afroamericanos
 - Literatura
 toc: false
-id: 582
+id: 579
 autores:
 - Paul Beatty
 - Íñigo García Ureta

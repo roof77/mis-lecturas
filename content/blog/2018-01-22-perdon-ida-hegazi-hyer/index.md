@@ -1,5 +1,5 @@
 ---
-title: '#289 · Perdón'
+title: '#288 · Perdón'
 summary: PREMIO DE LITERATURA DE LA UNIÓN EUROPEA 2015Perdón es una intensa novela sobre el amor, el autoengaño y los secretos
   peligrosos.Dos jóvenes se encuentran y se…
 date: '2018-01-22T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Amor
 - Literatura escandinava
 toc: false
-id: 289
+id: 288
 autores:
 - Ida Hegazi Høyer
 - Cristina Gómez Baggethun

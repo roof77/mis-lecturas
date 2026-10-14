@@ -1,5 +1,5 @@
 ---
-title: '#409 · Estoico y frugal'
+title: '#407 · Estoico y frugal'
 summary: "Las andanzas vitales y sexuales de un escritor cubano por Madrid y por media Europa.\r\n\r\n«Hacía muchos años que\
   \ mi vida se había convertido en un juego de…"
 date: '2019-10-31T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 409
+id: 407
 autores:
 - Pedro Juan Gutiérrez
 autores_stats:

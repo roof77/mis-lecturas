@@ -1,5 +1,5 @@
 ---
-title: '#415 · Mandíbula'
+title: '#413 · Mandíbula'
 summary: Una adolescente fanática del horror y de las "creepypastas" (historias de terror que circulan por internet) despierta
   maniatada en una cabaña en medio del…
 date: '2019-11-26T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Misterio
 - Adultos
 toc: false
-id: 415
+id: 413
 autores:
 - Mónica Ojeda
 autores_stats:

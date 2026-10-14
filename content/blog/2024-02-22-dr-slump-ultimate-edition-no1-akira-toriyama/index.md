@@ -1,5 +1,5 @@
 ---
-title: '#623 · Dr. Slump Ultimate Edition Nº1'
+title: '#620 · Dr. Slump Ultimate Edition Nº1'
 summary: La primera gran serie de Toriyama tuvo un éxito enorme y ahora ha recibido una nueva traducción. Esta monumental
   historia de humor no ha  en la curiosa Villa…
 date: '2024-02-22T23:59:59'
@@ -12,7 +12,7 @@ tags:
 - Humor
 - Clásico
 toc: false
-id: 623
+id: 620
 autores:
 - Akira Toriyama
 autores_stats:

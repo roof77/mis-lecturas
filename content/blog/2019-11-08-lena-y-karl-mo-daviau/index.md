@@ -1,5 +1,5 @@
 ---
-title: '#410 · Lena y Karl'
+title: '#408 · Lena y Karl'
 summary: Los mejores años de Karl parecen lejos. En su día tocó con una banda de culto de indie-rock, pero hoy ve pasar la
   vida desde sus cuarenta años y desde detrás…
 date: '2019-11-08T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción adulta
 - Adultos
 toc: false
-id: 410
+id: 408
 autores:
 - Mo Daviau
 - Carles Andreu Saburit

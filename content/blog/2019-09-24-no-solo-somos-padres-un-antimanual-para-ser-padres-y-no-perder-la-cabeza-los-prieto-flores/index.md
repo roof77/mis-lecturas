@@ -1,5 +1,5 @@
 ---
-title: '#406 · ¡No solo somos padres!: Un antimanual para ser padres y no perder la cabeza'
+title: '#404 · ¡No solo somos padres!: Un antimanual para ser padres y no perder la cabeza'
 summary: '«Tener hijos es algo natural y no un máster en gilipollez humana.»
 
 
@@ -11,7 +11,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 406
+id: 404
 autores:
 - Los Prieto Flores
 autores_stats:

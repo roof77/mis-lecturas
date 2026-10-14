@@ -1,5 +1,5 @@
 ---
-title: '#296 · Tan poca vida'
+title: '#295 · Tan poca vida'
 summary: Para saber... Qué dicen y qué callan los hombres, De dónde viene y adónde va la culpa, Cuánto importa el sexo, A
   quién podemos llamar amigo, Y finalmente…
 date: '2018-02-25T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Adultos
 - Novela
 toc: false
-id: 296
+id: 295
 autores:
 - Hanya Yanagihara
 - Aurora Echevarría

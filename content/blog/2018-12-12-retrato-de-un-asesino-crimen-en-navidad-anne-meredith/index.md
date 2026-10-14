@@ -1,5 +1,5 @@
 ---
-title: '#369 · Retrato de un asesino. Crimen en Navidad'
+title: '#367 · Retrato de un asesino. Crimen en Navidad'
 summary: «Adrian Gray nació en mayo de 1862 y murió violentamente a manos de uno de sus propios hijos el día de Navidad de
   1931. El crimen fue espontáneo e…
 date: '2018-12-12T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Thriller
 - Histórico
 toc: false
-id: 369
+id: 367
 autores:
 - Anne Meredith
 - Daniel de la Rubia Ortí

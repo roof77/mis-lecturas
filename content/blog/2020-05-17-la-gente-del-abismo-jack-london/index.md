@@ -1,5 +1,5 @@
 ---
-title: '#431 · La gente del Abismo'
+title: '#429 · La gente del Abismo'
 summary: En 1902, Jack London llegó a Londres con la intención de escribir un reportaje sobre el East End, la zona este de
   la ciudad, donde pasó varios meses disfrazado…
 date: '2020-05-17T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Literatura
 - EEUU
 toc: false
-id: 431
+id: 429
 autores:
 - Jack London
 - Javier Calvo

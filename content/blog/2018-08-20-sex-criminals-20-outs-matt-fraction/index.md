@@ -1,5 +1,5 @@
 ---
-title: '#345 · Sex Criminals #20: Outs'
+title: '#343 · Sex Criminals #20: Outs'
 summary: END OF STORY ARC All good things, like sex, crime, and this arc of SEX CRIMINALS, come to an end. And this one ends
   with CHARACTERS doing THINGS and making…
 date: '2018-08-20T23:59:50'
@@ -13,7 +13,7 @@ tags:
 - Fantasía
 - Ciencia ficción
 toc: false
-id: 345
+id: 343
 autores:
 - Matt Fraction
 - Chip Zdarsky

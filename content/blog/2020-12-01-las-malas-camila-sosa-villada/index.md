@@ -1,5 +1,5 @@
 ---
-title: '#448 · Las malas'
+title: '#446 · Las malas'
 summary: "En un ambiente urbano hostil, Camila Sosa narra desde dentro la vida de una comunidad de travestis en Córdoba, Argentina.\r\
   \n\r\nCuando llegó a Córdoba capital…"
 date: '2020-12-01T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Realismo mágico
 - Ficción Literaria
 toc: false
-id: 448
+id: 446
 autores:
 - Camila Sosa Villada
 autores_stats:

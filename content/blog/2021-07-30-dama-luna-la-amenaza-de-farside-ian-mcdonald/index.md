@@ -1,5 +1,5 @@
 ---
-title: '#476 · Dama Luna. La amenaza de Farside'
+title: '#474 · Dama Luna. La amenaza de Farside'
 summary: "La Luna quiere matarte y tiene mil formas de conseguirlo.\r\n\r\nLa familia de Cariad Corcoran acaba de ampliarse\
   \ al incluir a la nueva pareja de su madre y a su…"
 date: '2021-07-30T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Ciencia Ficción
 - Fantasía
 toc: false
-id: 476
+id: 474
 autores:
 - Ian McDonald
 - Bruno Puelles

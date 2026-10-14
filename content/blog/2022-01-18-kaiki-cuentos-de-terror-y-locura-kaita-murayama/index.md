@@ -1,5 +1,5 @@
 ---
-title: '#520 · Kaiki: Cuentos de terror y locura'
+title: '#518 · Kaiki: Cuentos de terror y locura'
 summary: Hasta la introducción de los ideogramas chinos en el siglo VI, el japonés era una lengua oral que no tenía escritura.
   Se trata, seguramente, del país con la…
 date: '2022-01-18T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Ficción
 - Literatura asiática
 toc: false
-id: 520
+id: 518
 autores:
 - Kaita Murayama
 - Kidō Okamoto

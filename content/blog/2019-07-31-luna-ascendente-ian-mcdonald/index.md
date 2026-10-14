@@ -1,5 +1,5 @@
 ---
-title: '#397 · Luna ascendente'
+title: '#395 · Luna ascendente'
 summary: Un centenar de años en el futuro se libra una guerra entre los Cinco Dragones, las cinco familias que controlan las
   principales empresas industriales de la…
 date: '2019-07-31T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ciencia Ficción
 - Novela
 toc: false
-id: 397
+id: 395
 autores:
 - Ian McDonald
 - Natalia Eva Cervera de la Torre

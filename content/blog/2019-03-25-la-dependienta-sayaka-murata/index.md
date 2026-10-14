@@ -1,5 +1,5 @@
 ---
-title: '#384 · La dependienta'
+title: '#382 · La dependienta'
 summary: Keiko Furukura tiene 36 años y está soltera. De hecho, nunca ha tenido pareja. Desde que abandonó a su tradicional
   familia para mudarse a Tokio, trabaja a…
 date: '2019-03-25T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ásia
 - Literatura asiática
 toc: false
-id: 384
+id: 382
 autores:
 - Sayaka Murata
 - Marina Bornas

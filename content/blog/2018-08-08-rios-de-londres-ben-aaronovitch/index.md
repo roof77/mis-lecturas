@@ -1,5 +1,5 @@
 ---
-title: '#327 · Ríos de Londres'
+title: '#325 · Ríos de Londres'
 summary: El joven agente de la Policía Metropolitana de Londres Peter Grant era un agente novato más hasta que un día, durante
   la investigación de un terrible…
 date: '2018-08-08T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Londres
 - Sobrenatural
 toc: false
-id: 327
+id: 325
 autores:
 - Ben Aaronovitch
 - Cristina Martínez

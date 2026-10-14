@@ -1,5 +1,5 @@
 ---
-title: '#659 · Un asunto de familia'
+title: '#656 · Un asunto de familia'
 summary: La novela de la aclamada película Un asunto de familia (Palma de Oro en Cannes, Premio Donostia en el Festival de
   Cine de San Sebastián, elegida mejor…
 date: '2024-06-28T23:59:58'
@@ -16,7 +16,7 @@ tags:
 - Novela
 - Ásia
 toc: false
-id: 659
+id: 656
 autores:
 - Hirokazu Kore-eda
 autores_stats:

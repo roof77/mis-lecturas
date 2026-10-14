@@ -1,5 +1,5 @@
 ---
-title: '#359 · Al final mueren los dos'
+title: '#357 · Al final mueren los dos'
 summary: "¿Puede un solo día albergar toda una vida? \r\n\r\nEn un presente alternativo, en el que es posible predecir la\
   \ muerte con un plazo de veinticuatro horas, Mateo…"
 date: '2018-09-13T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ciencia ficción
 - Gay
 toc: false
-id: 359
+id: 357
 autores:
 - Adam Silvera
 - Antonio Padilla Esteban

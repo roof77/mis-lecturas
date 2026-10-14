@@ -1,5 +1,5 @@
 ---
-title: '#581 · El cuento de Navidad de Auggie Wren'
+title: '#578 · El cuento de Navidad de Auggie Wren'
 summary: Relato, publicado en The New York Times en 1990. El director de cine Wayne Wang le propuso a Auster que escribiera
   el guión de una película. De esta…
 date: '2023-02-26T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Contemporaneo
 - Ficción adulta
 toc: false
-id: 581
+id: 578
 autores:
 - Paul Auster
 - Isol

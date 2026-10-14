@@ -1,5 +1,5 @@
 ---
-title: '#497 · Una niña está perdida en el siglo XX'
+title: '#495 · Una niña está perdida en el siglo XX'
 summary: En la Europa del siglo xx un hombre enigmático que huye de su pasado y una niña perdida que busca a su padre se encuentran por
   azar. Hanna está…
 date: '2021-09-29T23:59:58'
@@ -17,7 +17,7 @@ tags:
 - Contemporaneo
 - Novela
 toc: false
-id: 497
+id: 495
 autores:
 - Gonçalo M. Tavares
 - Rosa Martinez Alfaro

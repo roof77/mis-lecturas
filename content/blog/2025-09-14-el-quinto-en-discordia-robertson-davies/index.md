@@ -1,5 +1,5 @@
 ---
-title: '#771 · El quinto en discordia'
+title: '#770 · El quinto en discordia'
 summary: Alrededor de la misteriosa muerte del magnate canadiense Boy Staunton se teje la trama de esta novela. La narración
   corre a cargo de Dunstan Ramsay, amigo…
 date: '2025-09-14T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Colegio
 - Club de lectura
 toc: false
-id: 771
+id: 770
 autores:
 - Robertson Davies
 - Valentí Puig

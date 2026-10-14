@@ -1,5 +1,5 @@
 ---
-title: '#469 · Agatha Raisin y la quiche letal'
+title: '#467 · Agatha Raisin y la quiche letal'
 summary: 'Prepárate para degustar una novela con ingredientes de primera: un cadáver al estilo Agatha Christie, una protagonista
   exquisita y una pizca de sentido del…'
 date: '2021-06-29T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Humor
 - Adultos
 toc: false
-id: 469
+id: 467
 autores:
 - M.C. Beaton
 - Vicente Campos

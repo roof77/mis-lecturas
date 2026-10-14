@@ -1,7 +1,7 @@
 ---
 title: '#854 · El caso de madame Paul'
-summary: Julie Doucet and her boyfriend find a new apartment with cheap rent and a string of nutty neighbors. One ex-con “breaks
-  out” of his apartment by smashing his…
+summary: Publicada originalmente por entregas de una página en un periódico de Montreal, El caso Madame Paul relata la misteriosa
+  desaparición de la psicodélica casera…
 date: '2026-05-31T23:59:59'
 authors:
 - roof77
@@ -28,7 +28,7 @@ nota: Bien
 
 ## Sinopsis
 
-Julie Doucet and her boyfriend find a new apartment with cheap rent and a string of nutty neighbors. One ex-con “breaks out” of his apartment by smashing his own window. Another man attempts to kill himself by stuffing his head in a gas oven. But perhaps the oddest person of all is the landlady herself, Madame Paul, who one day mysteriously disappears...
+Publicada originalmente por entregas de una página en un periódico de Montreal, El caso Madame Paul relata la misteriosa desaparición de la psicodélica casera del apartamento que Julie acaba de alquilar en la ciudad. El argumento da pie a una rocambolesca peripecia, a medio camino entre el folletín de misterio y la comedia de situación costumbrista que se aleja del caracter más personal de las otras obras de la autora.
 
 ## Ficha del libro
 

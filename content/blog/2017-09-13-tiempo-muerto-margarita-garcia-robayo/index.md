@@ -1,5 +1,5 @@
 ---
-title: '#265 · Tiempo muerto'
+title: '#264 · Tiempo muerto'
 summary: 'Tiempo muerto es un retrato de la tragedia personal que experimenta una pareja cuyo matrimonio ha llegado al fin
   del enamoramiento.
 
@@ -21,7 +21,7 @@ tags:
 - Latino américa
 - Mujeres
 toc: false
-id: 265
+id: 264
 autores:
 - Margarita García Robayo
 autores_stats:

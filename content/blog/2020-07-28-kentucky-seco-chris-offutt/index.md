@@ -1,5 +1,5 @@
 ---
-title: '#440 · Kentucky seco'
+title: '#438 · Kentucky seco'
 summary: Kentucky seco es el bourbon que antiguamente se destilaba de forma clandestina en esta región del sur de los Estados
   Unidos y el título de los nueve relatos…
 date: '2020-07-28T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Ficción histórica
 - Ficción Literaria
 toc: false
-id: 440
+id: 438
 autores:
 - Chris Offutt
 - Javier Lucini

@@ -1,5 +1,5 @@
 ---
-title: '#432 · Mi hermana, asesina en serie'
+title: '#430 · Mi hermana, asesina en serie'
 summary: 'Ayoola tiene un serio problema con sus novios: cuando se cansa de ellos, cuando le decepcionan, o a veces sin motivo
   aparente, los mata. Ya lleva tres, lo cual…'
 date: '2020-05-20T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - África
 - Adultos
 toc: false
-id: 432
+id: 430
 autores:
 - Oyinkan Braithwaite
 - Montse Meneses Vilar

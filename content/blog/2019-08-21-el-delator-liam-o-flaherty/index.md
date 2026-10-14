@@ -1,5 +1,5 @@
 ---
-title: '#402 · El delator'
+title: '#400 · El delator'
 summary: Ambientada en el convulso Dublín durante los años posteriores a la guerra civil irlandesa, ésta es una historia de
   traiciones y lucha clandestina que retrata…
 date: '2019-08-21T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Guerra
 - Novela
 toc: false
-id: 402
+id: 400
 autores:
 - Liam O'Flaherty
 - Antonio Rivero Taravillo

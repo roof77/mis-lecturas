@@ -1,5 +1,5 @@
 ---
-title: '#307 · Carol'
+title: '#306 · Carol'
 summary: Claire Morgan, una autora desconocida y que eligió permanecer en el más absoluto anonimato, publicó en 1952 una novela,
   El precio de la sal, notablemente audaz…
 date: '2018-05-01T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Club de lectura
 - Histórico
 toc: false
-id: 307
+id: 306
 autores:
 - Claire Morgan
 - Patricia Highsmith

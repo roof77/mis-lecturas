@@ -1,5 +1,5 @@
 ---
-title: '#550 · No me acuerdo de nada'
+title: '#548 · No me acuerdo de nada'
 summary: "Una divertida y sabia reflexión vital de una de las autoras más queridas, admiradas e influyentes de Estados Unidos.\r\
   \n\r\nNora Ephron es un género en sí misma…"
 date: '2022-07-01T23:59:58'
@@ -17,7 +17,7 @@ tags:
 - Autobiografía
 - Comedia
 toc: false
-id: 550
+id: 548
 autores:
 - Nora Ephron
 - Catalina Martínez Muñoz

@@ -1,5 +1,5 @@
 ---
-title: '#692 · La primera vez que vi un fantasma'
+title: '#690 · La primera vez que vi un fantasma'
 summary: Los fantasmas que atraviesan este libro han tomado forma de historias. Habitan en un avejentado hotel de carretera
   o en el cuerpo de una gata embarazada, se…
 date: '2025-01-03T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - Ficción
 - Fantasía
 toc: false
-id: 692
+id: 690
 autores:
 - Solange Rodríguez Pappe
 autores_stats:

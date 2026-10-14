@@ -1,8 +1,8 @@
 ---
-title: '#863 · Un caballero a la deriva'
+title: '#862 · Un caballero a la deriva'
 summary: 'Henry Preston Standish es un caballero en toda regla: goza de una exquisita educación y de una acomodada posición
   social, vive holgadamente en Nueva York y es…'
-date: '2026-06-10T23:59:59'
+date: '2026-06-10T23:59:58'
 authors:
 - roof77
 tags:
@@ -17,7 +17,7 @@ tags:
 - Club de lectura
 - Muerte
 toc: false
-id: 863
+id: 862
 autores:
 - Herbert Clyde Lewis
 - Ángeles de los Santos

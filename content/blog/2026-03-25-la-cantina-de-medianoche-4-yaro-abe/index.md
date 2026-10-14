@@ -1,8 +1,8 @@
 ---
-title: '#816 · La cantina de medianoche 4'
+title: '#817 · La cantina de medianoche 4'
 summary: 'Esa minúscula taberna situada en una callejuela del barrio de Shinjuku acoge a los noctámbulos de Tokyo: boxeadores,
   prostitutas, actores porno, policias y…'
-date: '2026-03-25T23:59:58'
+date: '2026-03-25T23:59:59'
 authors:
 - roof77
 tags:
@@ -17,7 +17,7 @@ tags:
 - Cocina
 - Seinen manga
 toc: false
-id: 816
+id: 817
 autores:
 - Yarō Abe
 - Alberto Sakai

@@ -1,5 +1,5 @@
 ---
-title: '#727 · El cuerpo de Cristo'
+title: '#726 · El cuerpo de Cristo'
 summary: Cuando Vera era niña, un demonio rondaba su casa y acosaba a su madre, martilleándole los nervios hasta postrarla
   en la cama durante días. Entre las sesiones…
 date: '2025-03-23T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Religión
 - Memorias
 toc: false
-id: 727
+id: 726
 autores:
 - Bea Lema
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#749 · Oso'
+title: '#748 · Oso'
 summary: La joven e introvertida Lou abandona su trabajo como bibliotecaria cuando se le encarga catalogar la biblioteca de
   una mansión victoriana situada en una remota…
 date: '2025-05-25T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Literatura
 - Literatura canadiense
 toc: false
-id: 749
+id: 748
 autores:
 - Marian Engel
 - Magdalena Palmer

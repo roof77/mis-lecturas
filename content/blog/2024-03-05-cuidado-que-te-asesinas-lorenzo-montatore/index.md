@@ -1,5 +1,5 @@
 ---
-title: '#627 · ¡Cuidado, que te asesinas!'
+title: '#624 · ¡Cuidado, que te asesinas!'
 summary: "Centramina sufre el bloqueo del escritor, el temita de la página en blanco, un asunto espantoso que sólo presenta\
   \ un arreglo: bajarse a la noche.\r\n\r\nCon el…"
 date: '2024-03-05T23:59:58'
@@ -10,7 +10,7 @@ tags:
 - Comics
 - Ficción
 toc: false
-id: 627
+id: 624
 autores:
 - Lorenzo Montatore
 autores_stats:

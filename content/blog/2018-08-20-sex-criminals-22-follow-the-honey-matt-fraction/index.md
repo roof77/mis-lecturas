@@ -1,5 +1,5 @@
 ---
-title: '#347 · Sex Criminals #22: Follow the Honey'
+title: '#345 · Sex Criminals #22: Follow the Honey'
 summary: "\"FIVE-FINGERED DISCOUNT,\" Part Two\r\n\r\nGhosts! Ghoooooooosts! Okay, not literally. But still. Suzie and Jon\
   \ find themselves haunted by their pasts, in different…"
 date: '2018-08-20T23:59:52'
@@ -11,7 +11,7 @@ tags:
 - Novela gráfica
 - Fantasía
 toc: false
-id: 347
+id: 345
 autores:
 - Matt Fraction
 - Chip Zdarsky

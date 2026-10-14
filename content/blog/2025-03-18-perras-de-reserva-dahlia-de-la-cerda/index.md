@@ -1,5 +1,5 @@
 ---
-title: '#722 · Perras de reserva'
+title: '#721 · Perras de reserva'
 summary: «Me encomendé al Diablo porque Dios en esto no hace el paro», nos dice una de las narradoras de los trece cuentos
   que conforman Perras de reserva, el genial…
 date: '2025-03-18T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura hispana
 - Latino américa
 toc: false
-id: 722
+id: 721
 autores:
 - Dahlia de la Cerda
 - Rebeca Martínez

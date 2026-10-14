@@ -1,5 +1,5 @@
 ---
-title: '#257 · Huracán en Jamaica'
+title: '#256 · Huracán en Jamaica'
 summary: En Jamaica, a mediados del siglo XIX, los cinco hijos de la familia inglesa Bas-Thornton y los dos de la familia
   criolla Fernández viven en «una especie de…
 date: '2017-07-23T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Literatura británica
 - Ficción Literaria
 toc: false
-id: 257
+id: 256
 autores:
 - Richard Hughes
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#500 · La caja de botones de Gwendy'
+title: '#498 · La caja de botones de Gwendy'
 summary: 'Existen tres vías para llegar a Castle View desde la ciudad de Castle Rock: por la carretera 117, por Pleasant Road
   y por las Escaleras de los Suicidios. Cada…'
 date: '2021-10-06T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Paranormal
 - Adultos
 toc: false
-id: 500
+id: 498
 autores:
 - Stephen King
 - Richard Chizmar

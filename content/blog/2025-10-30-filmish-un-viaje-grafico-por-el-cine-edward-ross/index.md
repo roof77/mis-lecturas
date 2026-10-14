@@ -1,5 +1,5 @@
 ---
-title: '#778 · Filmish: Un viaje gráfico por el cine'
+title: '#777 · Filmish: Un viaje gráfico por el cine'
 summary: Este libro es un viaje apasionante por la historia del cine en siete  capítulos temáticos. Un original ensayo gráfico
   que sirve para iluminar  las ideas que se…
 date: '2025-10-30T23:59:59'
@@ -15,7 +15,7 @@ tags:
 - Arte
 - Adultos
 toc: false
-id: 778
+id: 777
 autores:
 - Edward Ross
 - Carlos Mayor Ortega

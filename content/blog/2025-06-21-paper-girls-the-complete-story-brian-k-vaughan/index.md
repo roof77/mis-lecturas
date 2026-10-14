@@ -1,5 +1,5 @@
 ---
-title: '#756 · Paper Girls: The Complete Story'
+title: '#755 · Paper Girls: The Complete Story'
 summary: "Brian K. Vaughan and Cliff Chiang’s Eisner Award winning series Paper Girls is coming to Amazon Prime Video in July\
   \ 2022!\r\n\r\nFinally, the entire Eisner…"
 date: '2025-06-21T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Viaje en el tiempo
 - Fantasía
 toc: false
-id: 756
+id: 755
 autores:
 - Brian K. Vaughan
 - Cliff Chiang

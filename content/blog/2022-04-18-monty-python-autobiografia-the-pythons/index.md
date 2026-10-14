@@ -1,5 +1,5 @@
 ---
-title: '#531 · Monty Python. Autobiografía'
+title: '#529 · Monty Python. Autobiografía'
 summary: 'Es esta, y no otra, proclámese con toda la pompa, la autobiografía autorizada por sus autores –y desautorizada por
   sus protagonistas y delatores–: la oficial…'
 date: '2022-04-18T23:59:58'
@@ -18,7 +18,7 @@ tags:
 - Memorias
 - TV
 toc: false
-id: 531
+id: 529
 autores:
 - The Pythons
 autores_stats:

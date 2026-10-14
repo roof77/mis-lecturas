@@ -1,5 +1,5 @@
 ---
-title: '#426 · Juliet, desnuda'
+title: '#424 · Juliet, desnuda'
 summary: Annie y Duncan están cerca de la cuarentena, y son una pareja de hecho desde hace quince años. Viven en una pequeña
   ciudad de la costa de Inglaterra. Ambos son…
 date: '2020-04-10T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura británica
 - Ficción adulta
 toc: false
-id: 426
+id: 424
 autores:
 - Nick Hornby
 - Jesús Zulaika

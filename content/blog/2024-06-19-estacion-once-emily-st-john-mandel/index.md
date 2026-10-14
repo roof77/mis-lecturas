@@ -1,5 +1,5 @@
 ---
-title: '#657 · Estación Once'
+title: '#654 · Estación Once'
 summary: 'Un inesperado virus mortal acaba con la humanidad tal y como la conocemos: ya no quedan trenes que unan los lugares,
   ni internet que nos permita conocer el…'
 date: '2024-06-19T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ficción Literaria
 - Apocalipsis
 toc: false
-id: 657
+id: 654
 autores:
 - Emily St. John Mandel
 - María del Puerto Barruetabeña Díez

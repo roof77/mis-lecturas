@@ -1,5 +1,5 @@
 ---
-title: '#765 · ¡Guardias! ¡Guardias!'
+title: '#764 · ¡Guardias! ¡Guardias!'
 summary: La ciudad de Ankh-Morpork está gobernada por un Patricio, Lord Vetinari, que ha legalizado los asesinatos, los robos,
   la mendicidad y la prostitución para…
 date: '2025-08-11T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Alta fantasía
 - Sátira
 toc: false
-id: 765
+id: 764
 autores:
 - Terry Pratchett
 - Cristina Macía Orio

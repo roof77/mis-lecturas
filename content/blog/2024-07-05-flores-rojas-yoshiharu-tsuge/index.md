@@ -1,5 +1,5 @@
 ---
-title: '#664 · Flores rojas'
+title: '#661 · Flores rojas'
 summary: Flores rojas recoge catorce relatos de Yoshiharu Tsuge publicados en la revista GARO entre 1966 y 1968. Son historias
   inspiradas en sus viajes, impregnadas de…
 date: '2024-07-05T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Comics
 - Manga
 toc: false
-id: 664
+id: 661
 autores:
 - Yoshiharu Tsuge
 autores_stats:

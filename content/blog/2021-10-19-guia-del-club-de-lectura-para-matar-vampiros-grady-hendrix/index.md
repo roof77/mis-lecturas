@@ -1,5 +1,5 @@
 ---
-title: '#503 · Guía del club de lectura para matar vampiros'
+title: '#501 · Guía del club de lectura para matar vampiros'
 summary: A Patricia Campbell su existencia nunca le ha parecido tan insignificante. Su marido es un adicto al trabajo, sus
   hijos adolescentes tienen su propia vida, su…
 date: '2021-10-19T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Misterio
 - Adultos
 toc: false
-id: 503
+id: 501
 autores:
 - Grady Hendrix
 - Paz Pruneda

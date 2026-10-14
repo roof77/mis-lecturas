@@ -1,5 +1,5 @@
 ---
-title: '#527 · Heartstopper, Tomo 1'
+title: '#525 · Heartstopper, Tomo 1'
 summary: "Un chico conoce a otro.\r\nLos chicos se vuelven amigos.\r\nY luego se enamoran.\r\n\r\nCharlie y Nick van al mismo\
   \ colegio, aunque nunca se habían cruzado hasta el…"
 date: '2022-03-24T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Ficción
 - Gay
 toc: false
-id: 527
+id: 525
 autores:
 - Alice Oseman
 autores_stats:

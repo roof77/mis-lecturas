@@ -1,5 +1,5 @@
 ---
-title: '#283 · Carter'
+title: '#282 · Carter'
 summary: Jack Carter, principal sicario de los mafiosos londinenses Les y Gerald Fletcher, regresa a su ciudad natal en el
   norte de Inglaterra tras ocho años de…
 date: '2017-12-28T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Acción
 - Películas
 toc: false
-id: 283
+id: 282
 autores:
 - Ted Lewis
 - Damià Alou

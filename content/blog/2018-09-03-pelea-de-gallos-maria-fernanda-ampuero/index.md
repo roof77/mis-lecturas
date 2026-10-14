@@ -1,5 +1,5 @@
 ---
-title: '#357 · Pelea de gallos'
+title: '#355 · Pelea de gallos'
 summary: Pelea de gallos narra desde diferentes voces el hogar, ese espacio que construye –­o destruye– a las personas, aborda
   los vínculos familiares y sus códigos…
 date: '2018-09-03T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Latino américa
 - Siglo XXI
 toc: false
-id: 357
+id: 355
 autores:
 - María Fernanda Ampuero
 autores_stats:

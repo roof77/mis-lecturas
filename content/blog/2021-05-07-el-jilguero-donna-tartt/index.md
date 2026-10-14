@@ -1,5 +1,5 @@
 ---
-title: '#460 · El jilguero'
+title: '#458 · El jilguero'
 summary: Al acercarnos a El jilguero, vamos enfocando una habitación de hotel en Amsterdam. Theo Decker lleva más de una semana
   encerrado entre esas cuatro paredes…
 date: '2021-05-07T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Novela
 - Coming of age
 toc: false
-id: 460
+id: 458
 autores:
 - Donna Tartt
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#768 · La lista de los siete'
+title: '#767 · La lista de los siete'
 summary: Navidad de 1884. El joven médico y aspirante a escritor Arthur Conan Doyle es invitado a una sesión de espiritismo
   en una casa del East End londinense. La…
 date: '2025-08-26T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Histórico
 - Crimen
 toc: false
-id: 768
+id: 767
 autores:
 - Mark Frost
 - Alberto Coscarelli Guaschino

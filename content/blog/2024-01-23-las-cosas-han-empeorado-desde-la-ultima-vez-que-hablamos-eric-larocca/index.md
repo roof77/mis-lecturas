@@ -1,5 +1,5 @@
 ---
-title: '#617 · Las cosas han empeorado desde la última vez que hablamos'
+title: '#614 · Las cosas han empeorado desde la última vez que hablamos'
 summary: "¿Qué has hecho hoy para merecer tus ojos?\r\n\r\nUn torbellino de oscuridad se agita en los entresijos de un macabro\
   \ cortejo entre dos jóvenes solitarias en un…"
 date: '2024-01-23T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Lesbianismo
 - Contemporaneo
 toc: false
-id: 617
+id: 614
 autores:
 - Eric LaRocca
 - José Ángel de Dios

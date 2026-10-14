@@ -1,5 +1,5 @@
 ---
-title: '#610 · Acércate'
+title: '#607 · Acércate'
 summary: 'Amanda es una arquitecta de éxito felizmente casada, quien, un día, empieza a experimentar extraños fenómenos: una
   propuesta dirigida a su jefe es sustituida…'
 date: '2023-11-17T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Adultos
 - Fantasía
 toc: false
-id: 610
+id: 607
 autores:
 - Sara Gran
 autores_stats:

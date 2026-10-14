@@ -1,5 +1,5 @@
 ---
-title: '#684 · Sexo de mierda'
+title: '#681 · Sexo de mierda'
 summary: ¡Atención, por favor! Los sucesos y personajes retratados en este libro son completamente verdaderos, por lo que
   cualquier parecido con la realidad no es…
 date: '2024-09-22T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Comics
 toc: false
-id: 684
+id: 681
 autores:
 - Camille Vannier
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#690 · La cinta Duncan'
+title: '#688 · La cinta Duncan'
 summary: Robby y sus amigos solo quieren descargarse algo de porno un viernes por la noche. Pero a principios de los 90 las
   descargas no son del todo fiables, y…
 date: '2024-12-13T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Oscuro
 - Fantasmas
 toc: false
-id: 690
+id: 688
 autores:
 - Todd Keisling
 - Shaila Correa

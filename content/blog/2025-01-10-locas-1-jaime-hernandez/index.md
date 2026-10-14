@@ -1,5 +1,5 @@
 ---
-title: '#694 · Locas 1'
+title: '#692 · Locas 1'
 summary: Maggie Chascarrillo es una joven chicana cuya historia comienza a primeros de los 80, durante la eclosión del punk
   como revulsivo al rock mustio y anquilosado…
 date: '2025-01-10T23:59:59'
@@ -14,7 +14,7 @@ tags:
 - Ciencia ficción
 - Queer
 toc: false
-id: 694
+id: 692
 autores:
 - Jaime Hernández
 autores_stats:

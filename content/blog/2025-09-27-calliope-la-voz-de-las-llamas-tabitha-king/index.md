@@ -1,5 +1,5 @@
 ---
-title: '#774 · Calliope. La voz de las llamas'
+title: '#773 · Calliope. La voz de las llamas'
 summary: "Una novela gótica sureña, escrita por Michael McDowell, el maestro indiscutible del gótico sureño autor de la saga\
   \ Blackwater.\r\n\r\nUna novela gótica sureña…"
 date: '2025-09-27T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Gótico sureño
 - Ficción histórica
 toc: false
-id: 774
+id: 773
 autores:
 - Tabitha King
 - Michael McDowell

@@ -1,5 +1,5 @@
 ---
-title: '#454 · Panza de burro'
+title: '#452 · Panza de burro'
 summary: «Reconozco que al principio, cuando Panza de burro solo había crecido unos capitulitos, pensé que sería una novela
   sencilla y hermosa que abriría un hachazo en…
 date: '2021-03-17T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Literatura hispana
 - Lesbianismo
 toc: false
-id: 454
+id: 452
 autores:
 - Andrea Abreu López
 - Sabina Urraca

@@ -1,5 +1,5 @@
 ---
-title: '#314 · Dioses menores'
+title: '#313 · Dioses menores'
 summary: Una fábula fantástica sobre el planeta plano y circular que navega por el espacio sobre el lomo de cuatro elefantes
   y una tortuga gigante. Una desternillante…
 date: '2018-06-08T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Ciencia ficción
 - Novela
 toc: false
-id: 314
+id: 313
 autores:
 - Terry Pratchett
 - Albert Solé Company

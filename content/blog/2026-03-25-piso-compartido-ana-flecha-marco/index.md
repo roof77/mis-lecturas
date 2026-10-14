@@ -1,8 +1,8 @@
 ---
-title: '#817 · Piso compartido'
+title: '#816 · Piso compartido'
 summary: Piso compartido es una novela de interior. Un relato costumbrista donde magia, memoria y cotidianidad se unen. La
   autora entreteje la vida de cinco señoras…
-date: '2026-03-25T23:59:59'
+date: '2026-03-25T23:59:58'
 authors:
 - roof77
 tags:
@@ -12,7 +12,7 @@ tags:
 - Literatura hispana
 - Feminismo
 toc: false
-id: 817
+id: 816
 autores:
 - Ana Flecha Marco
 autores_stats:

@@ -1,5 +1,5 @@
 ---
-title: '#455 · Un tablao en otro mundo: La asombrosa historia de cómo el flamenco conquistó Japón'
+title: '#453 · Un tablao en otro mundo: La asombrosa historia de cómo el flamenco conquistó Japón'
 summary: En los años 50 del siglo pasado comenzaron a viajar a Japón los flamencos españoles. Lo hicieron, por temporadas
   larguísimas, artistas como Chiquito de la…
 date: '2021-04-23T23:59:59'
@@ -9,7 +9,7 @@ tags:
 - Lecturas
 - Libros
 toc: false
-id: 455
+id: 453
 autores:
 - David López Canales
 autores_stats:

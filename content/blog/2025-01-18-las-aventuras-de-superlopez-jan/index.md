@@ -1,5 +1,5 @@
 ---
-title: '#698 · Las aventuras de Superlópez'
+title: '#696 · Las aventuras de Superlópez'
 summary: Primer álbum de Superlópez que reune toda una serie de historias cortas, entre ellas la que desvela la procedencia
   de Superlópez desde el lejano planeta…
 date: '2025-01-18T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Comics
 - Novela gráfica
 toc: false
-id: 698
+id: 696
 autores:
 - Jan
 autores_stats:

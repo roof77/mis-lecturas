@@ -1,5 +1,5 @@
 ---
-title: '#746 · La ceremonia'
+title: '#745 · La ceremonia'
 summary: "Historias de amor extraño, amistades sinceras y la naturaleza inquietante de la existencia humana.\r\n\r\nLas tensiones\
   \ de una pareja de novios por sus diferencias…"
 date: '2025-05-18T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Literatura asiática
 - Ásia
 toc: false
-id: 746
+id: 745
 autores:
 - Sayaka Murata
 autores_stats:

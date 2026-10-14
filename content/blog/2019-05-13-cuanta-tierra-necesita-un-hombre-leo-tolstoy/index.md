@@ -1,5 +1,5 @@
 ---
-title: '#390 · ¿Cuánta tierra necesita un hombre?'
+title: '#388 · ¿Cuánta tierra necesita un hombre?'
 summary: Escrito en 1886, ¿Cuánta tierra necesita un hombre? es una modernísima parábola sobre la ambición del ser humano.
   Pajom es un campesino al que ninguna…
 date: '2019-05-13T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Novela
 - Ficción histórica
 toc: false
-id: 390
+id: 388
 autores:
 - Leo Tolstoy
 - Víctor Gallego

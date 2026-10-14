@@ -1,5 +1,5 @@
 ---
-title: '#609 · Todos los pájaros del cielo'
+title: '#606 · Todos los pájaros del cielo'
 summary: "PREMIO LOCUS Y NEBULA 2017\r\n\r\nPatricia es una bruja que tiene el don de comunicarse con los animales. Laurence\
   \ es un geek que ha construido una máquina del…"
 date: '2023-11-13T23:59:59'
@@ -19,7 +19,7 @@ tags:
 - Club de lectura
 - Adultos
 toc: false
-id: 609
+id: 606
 autores:
 - Charlie Jane Anders
 - Natalia Cervera

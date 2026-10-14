@@ -1,5 +1,5 @@
 ---
-title: '#248 · The Double Life is Twice as Good'
+title: '#247 · The Double Life is Twice as Good'
 summary: JONATHAN AMES'S LATEST BOOK, his eighth, is a hilarious, erotically charged, and insightful collection of articles,
   essays, cartoons, and short stories. With…
 date: '2017-05-12T23:59:59'
@@ -16,7 +16,7 @@ tags:
 - Memorias
 - Periodismo
 toc: false
-id: 248
+id: 247
 autores:
 - Jonathan Ames
 autores_stats:

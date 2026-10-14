@@ -1,5 +1,5 @@
 ---
-title: '#701 · Primavera en Viena'
+title: '#700 · Primavera en Viena'
 summary: Viena, 1912. Después de una infancia llena de privaciones, Marie parece haber encontrado por fin su lugar en el mundo
   como niñera en casa del famoso dramaturgo…
 date: '2025-01-28T23:59:59'
@@ -13,7 +13,7 @@ tags:
 - Literatura alemana
 - Histórico
 toc: false
-id: 701
+id: 700
 autores:
 - Petra Hartlieb
 - María Esperanza Romero

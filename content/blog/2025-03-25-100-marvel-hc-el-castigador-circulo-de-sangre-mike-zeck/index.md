@@ -1,5 +1,5 @@
 ---
-title: '#728 · 100% Marvel HC. El Castigador: Círculo de Sangre'
+title: '#727 · 100% Marvel HC. El Castigador: Círculo de Sangre'
 summary: ¡La mítica historia que lanzó al estrellato a Frank Castle, en un volumen en tapa dura que incluye también su secuela
   y decenas de extras! El Castigador ha…
 date: '2025-03-25T23:59:59'
@@ -10,7 +10,7 @@ tags:
 - Comics
 - Marvel
 toc: false
-id: 728
+id: 727
 autores:
 - Mike Zeck
 - Steven Grant

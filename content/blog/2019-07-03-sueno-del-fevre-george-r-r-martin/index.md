@@ -1,5 +1,5 @@
 ---
-title: '#396 · Sueño del Fevre'
+title: '#394 · Sueño del Fevre'
 summary: 'En 1857, la cuenca del Misisipi bulle de actividad: los vapores señorean sus aguas en feroz competencia. Cuando
   Joshua York le ofrece sacar a flote su naviera…'
 date: '2019-07-03T23:59:59'
@@ -18,7 +18,7 @@ tags:
 - Sobrenatural
 - Fantasía urbana
 toc: false
-id: 396
+id: 394
 autores:
 - George R.R. Martin
 - Cristina Macía

@@ -1,5 +1,5 @@
 ---
-title: '#630 · Cadáver exquisito'
+title: '#627 · Cadáver exquisito'
 summary: "Una despiadada distopía en la que Agustina Bazterrica inspira, con el poder explosivo de la ficción, debates de\
   \ suma actualidad.\r\n\r\nLa súbita aparición de un…"
 date: '2024-03-25T23:59:59'
@@ -17,7 +17,7 @@ tags:
 - Adultos
 - Oscuro
 toc: false
-id: 630
+id: 627
 autores:
 - Agustina Bazterrica
 autores_stats:
