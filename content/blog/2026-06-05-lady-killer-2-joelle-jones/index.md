@@ -1,7 +1,7 @@
 ---
 title: '#857 · Lady Killer #2'
-summary: '**Spellbinding.Powell''s Books** Josie''s life grows more complicated than ever. Between the demands of her family
-  life (including her disapproving…'
+summary: Josie Schuller es el prototipo de ama de casa, esposa y madre perfecta, ¡pero también es una asesina a sueldo implacable
+  y eficiente! Una nueva serie cómica…
 date: '2026-06-05T23:59:56'
 authors:
 - roof77
@@ -30,7 +30,12 @@ nota: Pasable
 
 ## Sinopsis
 
-**Spellbinding.Powell's Books** Josie's life grows more complicated than ever. Between the demands of her family life (including her disapproving mother-in-law), the challenges of performing as a ruthless assassin, and being underestimated by the men she works for, how can she do it alland make it look so good? * A new original series! _Lady Killer_ is a killer cool book with one of my favorite artist/writer teams at the top of their game. It's an exciting and unique take on the whole midcentury-modern vibe, with one great surprise after another! And the colors are really nifty too!Mike Allred
+Josie Schuller es el prototipo de ama de casa, esposa y madre perfecta, ¡pero también es una asesina a sueldo implacable y eficiente! Una nueva serie cómica original que combina la imaginería saludable de la felicidad doméstica de principios de los años 60 con una red cada vez más tupida de asesinatos, paranoia y supervivencia a sangre fría.
+
+¡Nueva serie original de Joëlle Jones!
+¡Comedia negra, acción cruda y risas asesinas!
+
+«[Jones] varía su estilo para adaptarse al tono de cada obra, y los resultados pueden ser hipnotizantes». – Powell’s Books
 
 ## Ficha del libro
 

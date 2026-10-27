@@ -1,7 +1,9 @@
 ---
 title: '#348 · Sex Criminals #25: No Tell'
-summary: "\"FIVE-FINGERED DISCOUNT,\" Conclusion.\r\n\r\nHow have we gotten through 24 issues already and not made an \"exciting\
-  \ climax\" joke in the solicits? C'mon, Matty…"
+summary: '"FIVE-FINGERED DISCOUNT," Conclusion.
+
+
+  How have we gotten through 24 issues already and not made an "exciting climax" joke in the solicits? C''mon, Matty, wake…'
 date: '2018-08-20T23:59:55'
 authors:
 - roof77
@@ -22,6 +24,7 @@ editoriales:
 image:
   caption: 'Portada: [**Goodreads**](https://www.goodreads.com/book/show/40207692-sex-criminals-25)'
 sexo_autor: V
+paginas: 40
 nota: '3'
 ---
 
@@ -37,7 +40,7 @@ How have we gotten through 24 issues already and not made an "exciting climax" j
 - **Serie:** Sex Criminals (Single Issues)
 - **Colaboradores:** [Chip Zdarsky](/autores/chip-zdarsky/) (Illustrator)
 - **Editorial:** Image Comics
-- **Formato:** Unknown Binding
+- **Formato:** Unknown Binding, 40 páginas
 - **Idioma:** English
 - **Publicación original:** 2018-06-27
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/), [Fantasía](/tags/fantasia/)

@@ -1,7 +1,7 @@
 ---
 title: '#859 · Lady Killer #4'
-summary: 'Josie is a happily dedicated housewife and mother in 1960s suburban Seattle—but she’s keeping a secret from her
-  family: she’s also a contract killer with…'
+summary: Josie Schuller es el prototipo de ama de casa, esposa y madre perfecta, ¡pero también es una asesina a sueldo implacable
+  y eficiente! Una nueva serie cómica…
 date: '2026-06-05T23:59:58'
 authors:
 - roof77
@@ -29,7 +29,12 @@ nota: Pasable
 
 ## Sinopsis
 
-Josie is a happily dedicated housewife and mother in 1960s suburban Seattle—but she’s keeping a secret from her family: she’s also a contract killer with nerves of steel! But when the tables turn and she finds herself with a target on her own back, she looks for answers from another mysterious, deadly woman!
+Josie Schuller es el prototipo de ama de casa, esposa y madre perfecta, ¡pero también es una asesina a sueldo implacable y eficiente! Una nueva serie cómica original que combina la imaginería saludable de la felicidad doméstica de principios de los años 60 con una red cada vez más tupida de asesinatos, paranoia y supervivencia a sangre fría.
+
+¡Nueva serie original de Joëlle Jones!
+¡Comedia negra, acción cruda y risas asesinas!
+
+«[Jones] varía su estilo para adaptarse al tono de cada obra, y los resultados pueden ser hipnotizantes». – Powell’s Books
 
 ## Ficha del libro
 

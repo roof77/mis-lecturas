@@ -36,6 +36,7 @@ Un cadáver contagiado de virus covid yace amortajado sobre un sofá doméstico 
 - **Autor:** [María Fernanda Ampuero](/autores/maria-fernanda-ampuero/)
 - **Editorial:** Páginas de Espuma
 - **Formato:** Unknown Binding, 176 páginas
+- **Idioma:** Spanish
 - **Publicación original:** 2024-01-01
 - **Géneros:** [No Ficción](/tags/no-ficcion/), [Literatura hispana](/tags/literatura-hispana/), [Terror](/tags/terror/), [Mujeres](/tags/mujeres/)
 - **Ficha en Goodreads:** [Visceral](https://www.goodreads.com/book/show/204112798-visceral)

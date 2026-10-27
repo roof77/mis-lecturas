@@ -1,7 +1,7 @@
 ---
 title: '#860 · Lady Killer #5'
-summary: Josie closes in on the truth behind who really wants to end her life as a cheerful housewife, mother, and ruthlessly
-  skilled assassin! Who is really behind the…
+summary: Josie Schuller es el prototipo de ama de casa, esposa y madre perfecta, ¡pero también es una asesina a sueldo implacable
+  y eficiente! Una nueva serie cómica…
 date: '2026-06-05T23:59:59'
 authors:
 - roof77
@@ -28,9 +28,12 @@ nota: Pasable
 
 ## Sinopsis
 
-Josie closes in on the truth behind who really wants to end her life as a cheerful housewife, mother, and ruthlessly skilled assassin! Who is really behind the hit? And are they closer to home than she’d like?
+Josie Schuller es el prototipo de ama de casa, esposa y madre perfecta, ¡pero también es una asesina a sueldo implacable y eficiente! Una nueva serie cómica original que combina la imaginería saludable de la felicidad doméstica de principios de los años 60 con una red cada vez más tupida de asesinatos, paranoia y supervivencia a sangre fría.
 
-“A level of violence that can only be described as Mad Men’s Betty Draper meets Dexter.”—Comic Book Resources
+¡Nueva serie original de Joëlle Jones!
+¡Comedia negra, acción cruda y risas asesinas!
+
+«[Jones] varía su estilo para adaptarse al tono de cada obra, y los resultados pueden ser hipnotizantes». – Powell’s Books
 
 ## Ficha del libro
 
@@ -39,6 +42,7 @@ Josie closes in on the truth behind who really wants to end her life as a cheerf
 - **Colaboradores:** [Jamie S.Rich](/autores/jamie-s-rich/) (Author)
 - **Editorial:** Dark horse
 - **Formato:** Unknown Binding, 28 páginas
+- **Idioma:** Spanish
 - **Géneros:** [Comics](/tags/comics/), [Novela gráfica](/tags/novela-grafica/)
 - **Ficha en Goodreads:** [Lady Killer #5](https://www.goodreads.com/book/show/25543298-lady-killer-5)
 

@@ -1,7 +1,7 @@
 ---
 title: '#856 · Lady Killer #1'
-summary: Josie Schuller is a picture-perfect homemaker, wife, and mother--but she's also a ruthless, efficient killer for
-  hire! A brand-new original comedy series that…
+summary: Josie Schuller es el prototipo de ama de casa, esposa y madre perfecta, ¡pero también es una asesina a sueldo implacable
+  y eficiente! Una nueva serie cómica…
 date: '2026-06-05T23:59:55'
 authors:
 - roof77
@@ -30,13 +30,12 @@ nota: Pasable
 
 ## Sinopsis
 
-Josie Schuller is a picture-perfect homemaker, wife, and mother--but she's also a ruthless, efficient killer for hire! A brand-new original comedy series that combines the wholesome imagery of early 1960s domestic bliss with a tightening web of murder, paranoia, and cold-blooded survival.
+Josie Schuller es el prototipo de ama de casa, esposa y madre perfecta, ¡pero también es una asesina a sueldo implacable y eficiente! Una nueva serie cómica original que combina la imaginería saludable de la felicidad doméstica de principios de los años 60 con una red cada vez más tupida de asesinatos, paranoia y supervivencia a sangre fría.
 
-* New original series by Joëlle Jones!
+¡Nueva serie original de Joëlle Jones!
+¡Comedia negra, acción cruda y risas asesinas!
 
-* Dark comedy, gritty action, and killer laughs!
-
-"[Jones] varies her style to suit the mood of each piece, and the results can be spellbinding." - Powell's Books
+«[Jones] varía su estilo para adaptarse al tono de cada obra, y los resultados pueden ser hipnotizantes». – Powell’s Books
 
 ## Ficha del libro
 

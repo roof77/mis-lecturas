@@ -1,7 +1,7 @@
 ---
 title: '#747 · Pereza'
-summary: Troubled teenager Miguel Serra becomes a walking urban legend after he wills himself into a coma and wakes up one
-  year later virtually unchanged - except for…
+summary: Gilbert Hernandez, Gilbert Hernandez. Tomo 18x24cms, tapa dura 128 páginas b/n. Gilbert Hernandez es el co-creador
+  de Love and Rockets, una de las series de…
 date: '2025-05-24T23:59:59'
 authors:
 - roof77
@@ -30,7 +30,9 @@ nota: Muy bien
 
 ## Sinopsis
 
-Troubled teenager Miguel Serra becomes a walking urban legend after he wills himself into a coma and wakes up one year later virtually unchanged - except for his sloth-like pace. Discover how a haunted lemon orchard, a mysterious goatman and murder collide as Miguel, his girlfriend Lita and their friend Romeo take on the teenage wasteland of suburbia. Will it be love or rock-and-roll suicide? Find out in Sloth, a surrealistic romantic drama in the spirit of David Lynch that takes the art of sequential storytelling to new heights in its use of light and shadow.
+Gilbert Hernandez, Gilbert Hernandez. Tomo 18x24cms, tapa dura 128 páginas b/n. Gilbert Hernandez es el co-creador de Love and Rockets, una de las series de mayor impacto del cómic independiente en los últimos años. Pereza, en riguroso blanco y negro, es la primera novela gráfica que el autor presenta en solitario para la línea Vertigo.
+
+Miguel Serra, nuestro héroe, es un adolescente problemático que tras permanecer un año en coma sigue su vida sin ningún cambio aparente, excepto por su nueva e inquietante actitud ante la vida. Una historia propia del mejor David Lynch, que define lo que significa estar vivo en un lugar donde la vida no es lo que esperábamos, y en la que Hernandez domina con maestría las luces y las sombras tanto del dibujo como de la narración.
 
 ## Ficha del libro
 

@@ -1,7 +1,7 @@
 ---
 title: '#332 · Sex Criminals #5: Going Down'
-summary: The best part of a new relationship is the first three weeks, right? The rush of the new, the gravitational pull
-  of the sudden other-ness in your life, the…
+summary: Tras la ruptura, Suzie y Jon se ven obligados a rehacer sus vidas. Suzie ha vuelto a casa con su madre, una exalcohólica
+  rehabilitada con espíritu adolescente…
 date: '2018-08-19T23:59:59'
 authors:
 - roof77
@@ -31,7 +31,9 @@ nota: '3'
 
 ## Sinopsis
 
-The best part of a new relationship is the first three weeks, right? The rush of the new, the gravitational pull of the sudden other-ness in your life, the almost-illicit charge of nothing else mattering...and then it's time to pay the bills. Well, the honeymoon is over for the SEX CRIMINALS. Can Jon and Suzie survive Jon and Suzie?
+Tras la ruptura, Suzie y Jon se ven obligados a rehacer sus vidas. Suzie ha vuelto a casa con su madre, una exalcohólica rehabilitada con espíritu adolescente que últimamente folla más que ella, y Jon comparte piso con su nueva "amiga". Vivir en una ciudad pequeña tiene sus consecuencias y, por poco que les guste, es inevitable que se vuelvan a encontrar. Y más aún cuando cada vez que alcanzas el orgasmo detienes el tiempo. Aun así, este parece el menor de los problemas de Suzie y Jon. Sobre todo para Jon, quien, con la ayuda de Dewey y Alix, busca parar a la Policía del Sexo.
+
+En esta quinta entrega de 'Sex Criminals', la última antes del gran final que veremos el próximo año, todo se vuelve más peligroso y complicado. Matt Fraction continúa ahondando en la psique de los personajes, a los que dota cada vez de una profundidad mayor, investigando en su pasado y en sus inseguridades.
 
 ## Ficha del libro
 
