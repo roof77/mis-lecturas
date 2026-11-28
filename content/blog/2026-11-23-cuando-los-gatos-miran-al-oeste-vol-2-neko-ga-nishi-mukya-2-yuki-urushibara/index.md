@@ -2,7 +2,7 @@
 title: '#988 · Cuando los gatos miran al oeste, vol. 2 (猫が西向きゃ / Neko ga Nishi Mukya, #2)'
 summary: Los flows siguen produciendo particulares fenómenos que afectan a la vida cotidiana de las personas. El técnico Hirota,
   su empleada Chima (que aparenta ser una…
-date: '2026-11-23T23:59:58'
+date: '2026-11-23T23:59:57'
 authors:
 - roof77
 tags:
